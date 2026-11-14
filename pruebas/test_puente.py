@@ -146,14 +146,17 @@ class Sincronizacion(unittest.TestCase):
 
     def test_copia_tambien_normativa(self):
         rel = os.path.join("11 Normativa", "Decretos", "2026", "Decreto 1-2026 (Gaceta 1).md")
-        self.escribir(self.repo, rel, "---\ntipo: \"norma\"\nhuella: \"a\"\n---\n" + P.INICIO + "\nuno\n" + P.FIN + "\n\n## Notas propias\n\n")
+        self.escribir(self.repo, rel, "---\ntipo: \"norma\"\ngaceta_fecha: \"2026-03-05\"\nhuella: \"a\"\n---\n" + P.INICIO + "\nuno\n" + P.FIN + "\n\n## Notas propias\n\n")
         P.sincronizar(self.repo, self.boveda, self.estado, carpeta="11 Normativa")
-        destino = os.path.join(self.boveda, rel)
+        # en la bóveda el acto queda por año, tipo y mes de publicación
+        destino = os.path.join(self.boveda, "11 Normativa", "02 Instrumentos normativos", "2026", "02 Decretos", "2026-03 Marzo",
+                               "Decreto 1-2026 (Gaceta 1).md")
+        self.assertFalse(os.path.exists(os.path.join(self.boveda, rel)))
         with open(destino, encoding="utf-8") as f:
             texto = f.read()
         with open(destino, "w", encoding="utf-8") as f:
             f.write(texto.replace("---\n" + P.INICIO, "mia: si\n---\n" + P.INICIO) + "apunte mío\n")
-        self.escribir(self.repo, rel, "---\ntipo: \"norma\"\nhuella: \"b\"\n---\n" + P.INICIO + "\ndos\n" + P.FIN + "\n\n## Notas propias\n\n")
+        self.escribir(self.repo, rel, "---\ntipo: \"norma\"\ngaceta_fecha: \"2026-03-05\"\nhuella: \"b\"\n---\n" + P.INICIO + "\ndos\n" + P.FIN + "\n\n## Notas propias\n\n")
         P.sincronizar(self.repo, self.boveda, self.estado, carpeta="11 Normativa", ahora=time.time() + 3600)
         with open(destino, encoding="utf-8") as f:
             final = f.read()
@@ -161,6 +164,36 @@ class Sincronizacion(unittest.TestCase):
             self.assertIn(trozo, final)
         self.assertNotIn("\nuno\n", final)
         self.assertIn("11 Normativa/Decretos/2026/Decreto 1-2026 (Gaceta 1).md", self.estado)
+
+    def test_normativa_traduce_rutas_enlaces_e_indices(self):
+        ed = os.path.join("11 Normativa", "La Gaceta", "2026", "La Gaceta 7 (2026-03-05).md")
+        acto = os.path.join("11 Normativa", "Acuerdos", "2026", "Acuerdo 9-2025 (Gaceta 7).md")
+        self.escribir(self.repo, ed, "---\ntipo: \"gaceta\"\n---\n" + P.INICIO + "\n- [[11 Normativa/Acuerdos/2026/Acuerdo 9-2025 (Gaceta 7)|ACUERDO 9]]\n" + P.FIN + "\n")
+        self.escribir(self.repo, acto, "---\ntipo: \"norma\"\ntitulo: \"ACUERDO No. 9-2025\"\ngaceta_fecha: \"2026-03-05\"\n"
+                      "gaceta: \"[[11 Normativa/La Gaceta/2026/La Gaceta 7 (2026-03-05)|La Gaceta 7]]\"\n---\n" + P.INICIO +
+                      "\n| Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 7 (2026-03-05)\\|La Gaceta 7]] |\n" + P.FIN + "\n")
+        self.escribir(self.repo, os.path.join("11 Normativa", "Índice de normativa.md"), "---\ntipo: x\n---\nrepo\n")
+        P.sincronizar(self.repo, self.boveda, self.estado, carpeta="11 Normativa")
+        base = os.path.join(self.boveda, "11 Normativa")
+        nuevo_acto = os.path.join(base, "02 Instrumentos normativos", "2026", "01 Acuerdos", "2026-03 Marzo", "Acuerdo 9-2025 (Gaceta 7).md")
+        nueva_ed = os.path.join(base, "01 Fuente oficial", "La Gaceta", "2026", "La Gaceta 7 (2026-03-05).md")
+        with open(nuevo_acto, encoding="utf-8") as f:
+            texto = f.read()
+        self.assertEqual(texto.count("[[11 Normativa/01 Fuente oficial/La Gaceta/2026/La Gaceta 7 (2026-03-05)"), 2)
+        self.assertIn("\\|La Gaceta 7]]", texto)
+        with open(nueva_ed, encoding="utf-8") as f:
+            self.assertIn("[[11 Normativa/02 Instrumentos normativos/2026/01 Acuerdos/2026-03 Marzo/Acuerdo 9-2025 (Gaceta 7)|ACUERDO 9]]", f.read())
+        for vieja in ("Acuerdos", "La Gaceta", "Índice de normativa.md"):
+            self.assertFalse(os.path.exists(os.path.join(base, vieja)))
+        self.assertGreater(P.indices_normativa(self.boveda), 0)
+        self.assertEqual(P.indices_normativa(self.boveda), 0)
+        with open(os.path.join(base, "02 Instrumentos normativos", "2026", "01 Acuerdos", "2026-03 Marzo.md"), encoding="utf-8") as f:
+            self.assertIn("|ACUERDO No. 9-2025]]", f.read())
+        with open(os.path.join(base, "Índice de normativa.md"), encoding="utf-8") as f:
+            indice = f.read()
+        self.assertIn("Normativa 2026]]", indice)
+        self.assertEqual(indice.count("[[10 Trámites del Estado/"), 1)
+        self.assertNotIn("[[00 Panel", indice)
 
     def test_equivalencias_solo_proponen(self):
         carpeta = os.path.join(P.CARPETA, "Instituto Hondureño de Transporte Terrestre")

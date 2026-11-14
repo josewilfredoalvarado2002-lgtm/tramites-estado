@@ -12,6 +12,13 @@ Qué hace:
      <!-- portal:inicio --> y <!-- portal:fin -->. Conserva "Notas propias" y cualquier propiedad que agregués.
   3. Genera _Sistema/Equivalencias de instituciones.md para que confirmés la relación con tu catálogo.
 
+Disposición de la normativa: el repositorio guarda los actos en "11 Normativa/<Tipo>/<Año>" y las ediciones en
+"11 Normativa/La Gaceta". En la bóveda quedan ordenados así, y el puente traduce rutas y enlaces al copiar:
+  11 Normativa/01 Fuente oficial/La Gaceta/<Año>/...
+  11 Normativa/02 Instrumentos normativos/<Año>/<NN Tipo>/<AAAA-MM Mes>/<acto>.md
+Además regenera los índices de esa sección (Índice de normativa, Normativa <Año>, <Tipo> <Año> y los meses).
+"00 Mapa ejecutivo", "03 Por área" y "99 Sistema" son tuyas: el puente no las toca.
+
 Reglas: solo escribe dentro de "10 Trámites del Estado" y "11 Normativa", nunca borra, no toca una nota que editaste hace
 menos de 10 minutos y deja constancia en ~/Library/Application Support/CaseDeck/logs/puente_tramites.log.
 Solo usa la biblioteca estándar de Python.
@@ -34,6 +41,16 @@ CARPETAS = [CARPETA, "11 Normativa"]
 INICIO = "<!-- portal:inicio -->"
 FIN = "<!-- portal:fin -->"
 EXTENSIONES = (".md", ".base")
+
+# Disposición de "11 Normativa" en la bóveda
+NORMATIVA = "11 Normativa"
+FUENTE = "01 Fuente oficial"
+INSTRUMENTOS = "02 Instrumentos normativos"
+TIPOS_NORMA = {"Acuerdos": "01 Acuerdos", "Decretos": "02 Decretos", "Resoluciones": "03 Resoluciones",
+               "Certificaciones": "04 Certificaciones", "Otros actos": "05 Otros actos"}
+MESES = ["", "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre",
+         "Noviembre", "Diciembre"]
+INDICE_NORMATIVA = "Índice de normativa.md"
 
 # Propiedades que administra el crawler (mismas listas que crawler/notas.py; una prueba lo verifica)
 PROPIEDADES_TRAMITE = [
@@ -123,10 +140,155 @@ def fusionar(repo, boveda):
     lineas = []
     for _, ls in bloques(fm_r):
         lineas += ls
+    claves_repo = {clave for clave, _ in bloques(fm_r)}
     for clave, ls in bloques(fm_b):
-        if clave not in GESTIONADAS:
+        # se conservan las propiedades propias de la bóveda; las que trae el repositorio las reemplazan
+        if clave not in GESTIONADAS and clave not in claves_repo:
             lineas += ls
     return "---\n" + "\n".join(lineas) + "\n---\n" + cuerpo
+
+
+# ---------------------------------------------------------------------------
+# Disposición de la normativa en la bóveda
+# ---------------------------------------------------------------------------
+def _nfc(s):
+    return unicodedata.normalize("NFC", s)
+
+
+def destino_normativa(rel, contenido):
+    """Ruta dentro de "11 Normativa" de la bóveda para una nota del repositorio (rel con "/").
+    Devuelve None para las notas que el puente genera por su cuenta (el índice general)."""
+    rel = _nfc(rel)
+    partes = rel.split("/")
+    if rel == INDICE_NORMATIVA:
+        return None
+    if partes[0] == "La Gaceta":
+        return FUENTE + "/" + rel
+    if partes[0] in TIPOS_NORMA and len(partes) == 3:
+        m = re.search(r'^gaceta_fecha:\s*"?(\d{4})-(\d{2})', contenido, re.M)
+        if m and 1 <= int(m.group(2)) <= 12:
+            anio, mes = m.group(1), f"{m.group(1)}-{m.group(2)} {MESES[int(m.group(2))]}"
+        else:
+            anio, mes = partes[1], "Sin fecha"
+        return f"{INSTRUMENTOS}/{anio}/{TIPOS_NORMA[partes[0]]}/{mes}/{partes[2]}"
+    return rel
+
+
+_ENLACE_NORMATIVA = re.compile(
+    r"11 Normativa/((?:La Gaceta|" + "|".join(TIPOS_NORMA) + r")/[^\]\[|\\#\n]+)")
+
+
+def mapa_normativa(origen):
+    """Para cada nota del repositorio: ruta sin extensión -> ruta sin extensión en la bóveda."""
+    mapa = {}
+    for raiz, dirs, archivos in os.walk(origen):
+        dirs[:] = [d for d in dirs if not d.startswith(".")]
+        for a in archivos:
+            if not a.endswith(".md") or a.startswith("."):
+                continue
+            rel = _nfc(os.path.relpath(os.path.join(raiz, a), origen).replace(os.sep, "/"))
+            if rel.split("/")[0] in TIPOS_NORMA:
+                try:
+                    with open(os.path.join(raiz, a), encoding="utf-8") as f:
+                        cabeza = f.read(2500)
+                except OSError:
+                    continue
+            else:
+                cabeza = ""
+            d = destino_normativa(rel, cabeza)
+            if d:
+                mapa[rel[:-3]] = d[:-3]
+    return mapa
+
+
+def reescribir_enlaces(contenido, mapa):
+    """Cambia los enlaces con la ruta del repositorio por la ruta de la bóveda."""
+    def cambio(m):
+        viejo = _nfc(m.group(1)).rstrip()
+        nuevo = mapa.get(viejo)
+        if nuevo is None and viejo.startswith("La Gaceta/"):
+            nuevo = FUENTE + "/" + viejo
+        return "11 Normativa/" + (nuevo if nuevo else m.group(1))
+    return _ENLACE_NORMATIVA.sub(cambio, contenido)
+
+
+def _escribir_si_cambia(ruta, texto):
+    try:
+        if leer(ruta) == texto:
+            return False
+    except OSError:
+        pass
+    os.makedirs(os.path.dirname(ruta), exist_ok=True)
+    escribir_atomico(ruta, texto)
+    return True
+
+
+def _titulo_de(ruta):
+    try:
+        with open(ruta, encoding="utf-8") as f:
+            m = re.search(r'^titulo:\s*"?(.*?)"?\s*$', f.read(2500), re.M)
+    except OSError:
+        m = None
+    t = (m.group(1) if m else "") or os.path.basename(ruta)[:-3]
+    return t.replace("|", "/").replace("[", "(").replace("]", ")")
+
+
+def indices_normativa(boveda):
+    """Regenera los índices de 11 Normativa a partir de lo que hay en la bóveda. Devuelve cuántos cambió."""
+    base = os.path.join(boveda, NORMATIVA)
+    inst = os.path.join(base, INSTRUMENTOS)
+    cab = '---\ntipo: "normativa_indice"\n---\n\n'
+    cambios, anios = 0, []
+    if os.path.isdir(inst):
+        anios = sorted(_nfc(d) for d in os.listdir(inst) if d.isdigit() and os.path.isdir(os.path.join(inst, d)))
+    for anio in anios:
+        tipos = []
+        for carpeta_tipo in sorted(_nfc(d) for d in os.listdir(os.path.join(inst, anio))):
+            dir_tipo = os.path.join(inst, anio, carpeta_tipo)
+            if not os.path.isdir(dir_tipo) or carpeta_tipo.startswith("."):
+                continue
+            nombre = carpeta_tipo[3:] if re.match(r"\d\d ", carpeta_tipo) else carpeta_tipo
+            ruta_tipo = f"{NORMATIVA}/{INSTRUMENTOS}/{anio}/{carpeta_tipo}"
+            meses = []
+            for mes in sorted(_nfc(d) for d in os.listdir(dir_tipo)):
+                dir_mes = os.path.join(dir_tipo, mes)
+                if not os.path.isdir(dir_mes) or mes.startswith("."):
+                    continue
+                notas = sorted(_nfc(a) for a in os.listdir(dir_mes) if a.endswith(".md") and not a.startswith("."))
+                if not notas:
+                    continue
+                meses.append(mes)
+                n = len(notas)
+                L = [f"# {nombre} · {mes}", "",
+                     f"{n} instrumento{'s' if n != 1 else ''} publicado{'s' if n != 1 else ''} durante este mes.", "",
+                     "## Documentos"]
+                L += [f"- [[{ruta_tipo}/{mes}/{a[:-3]}|{_titulo_de(os.path.join(dir_mes, a))}]]" for a in notas]
+                cambios += _escribir_si_cambia(os.path.join(dir_tipo, mes + ".md"), cab + "\n".join(L) + "\n")
+            if not meses:
+                continue
+            tipos.append((carpeta_tipo, nombre))
+            L = [f"# {nombre} {anio}", "", f"Índice cronológico de {nombre.lower()} publicados durante {anio}.", "", "## Meses"]
+            L += [f"- [[{ruta_tipo}/{m}|{m}]]" for m in meses]
+            cambios += _escribir_si_cambia(os.path.join(dir_tipo, f"{nombre} {anio}.md"), cab + "\n".join(L) + "\n")
+        L = [f"# Normativa {anio}", "", f"Puerta de entrada a los instrumentos normativos publicados durante {anio}.", "",
+             "## Fuente oficial", f"- [[{NORMATIVA}/{FUENTE}/La Gaceta/La Gaceta {anio}|La Gaceta {anio}]]", "",
+             "## Por tipo de instrumento"]
+        L += [f"- [[{NORMATIVA}/{INSTRUMENTOS}/{anio}/{c}/{n} {anio}|{n} {anio}]]" for c, n in tipos]
+        cambios += _escribir_si_cambia(os.path.join(inst, anio, f"Normativa {anio}.md"), cab + "\n".join(L) + "\n")
+    gacetas = os.path.join(base, FUENTE, "La Gaceta")
+    fuentes = []
+    if os.path.isdir(gacetas):
+        fuentes = sorted(_nfc(a)[:-3] for a in os.listdir(gacetas) if re.match(r"La Gaceta \d{4}\.md$", _nfc(a)))
+    L = ["# Índice de normativa", "", "Biblioteca normativa organizada por año, tipo de instrumento y mes de publicación.", ""]
+    if os.path.exists(os.path.join(base, "00 Mapa ejecutivo", "Mapa jurídico.md")):
+        L += ["## Explorar por área", f"- [[{NORMATIVA}/00 Mapa ejecutivo/Mapa jurídico|Mapa jurídico]]", ""]
+    L += ["## Explorar por año"] + [f"- [[{NORMATIVA}/{INSTRUMENTOS}/{a}/Normativa {a}]]" for a in anios]
+    L += ["", "## Fuente oficial"] + [f"- [[{NORMATIVA}/{FUENTE}/La Gaceta/{f}]]" for f in fuentes]
+    L += ["", "## Conexión con el resto de la bóveda",
+          f"[[{CARPETA}/Índice de trámites|Índice de trámites]]. Es el único enlace de la normativa hacia fuera, para que en la "
+          "vista de grafo se vean tres redes en cadena: Normativa, Trámites y Directorio."]
+    cambios += _escribir_si_cambia(os.path.join(base, INDICE_NORMATIVA), cab + "\n".join(L) + "\n")
+    return cambios
 
 
 # ---------------------------------------------------------------------------
@@ -235,66 +397,81 @@ def sincronizar(repo, boveda, estado, gracia_min=10, ahora=None, carpeta=CARPETA
     ahora = ahora or time.time()
     origen = os.path.join(repo, carpeta)
     destino = os.path.join(boveda, carpeta)
-    res = {"nuevas": 0, "actualizadas": 0, "iguales": 0, "en_edicion": 0, "sin_marcadores": [], "rechazadas": []}
+    res = {"nuevas": 0, "actualizadas": 0, "iguales": 0, "en_edicion": 0, "sin_marcadores": [], "rechazadas": [],
+           "pendientes": []}
     if not os.path.isdir(origen):
         log(f"AVISO no existe {origen}; nada que copiar.")
         return res
     os.makedirs(destino, exist_ok=True)
+    normativa = _nfc(carpeta) == NORMATIVA
+    mapa = mapa_normativa(origen) if normativa else {}
     for raiz, dirs, archivos in os.walk(origen):
         dirs[:] = sorted(d for d in dirs if not d.startswith(".") and not os.path.islink(os.path.join(raiz, d)))
         for a in sorted(archivos):
-            src = os.path.join(raiz, a)
-            if a.startswith(".") or not a.endswith(EXTENSIONES) or os.path.islink(src):
-                continue
-            rel = os.path.relpath(src, origen)
-            if any(p in ("..", "") for p in rel.split(os.sep)):
-                res["rechazadas"].append(rel)
-                continue
-            dst = os.path.normpath(os.path.join(destino, rel))
-            if not dst.startswith(os.path.normpath(destino) + os.sep):
-                res["rechazadas"].append(rel)
-                continue
-            contenido = leer(src)
-            h = sha_texto(contenido)
-            clave = carpeta + "/" + rel.replace(os.sep, "/")
-            existe = os.path.exists(dst)
-            previo = estado.get(clave) or {}
-            if previo.get("huella") == h and existe:
-                res["iguales"] += 1
-                continue
-            # antes de crear carpetas se comprueba que la parte que ya existe no salga de la carpeta 10
-            existente = os.path.dirname(dst)
-            while not os.path.exists(existente):
-                existente = os.path.dirname(existente)
-            if not dentro_de(destino, existente) or os.path.islink(dst):
-                res["rechazadas"].append(rel)
-                continue
-            os.makedirs(os.path.dirname(dst), exist_ok=True)
-            if not existe:
-                escribir_atomico(dst, contenido)
-                estado[clave] = {"huella": h, "mtime": os.path.getmtime(dst)}
-                res["nuevas"] += 1
-                continue
-            mtime = os.path.getmtime(dst)
-            # una nota que vos modificaste hace poco se deja para la siguiente corrida;
-            # lo que escribió el propio puente no cuenta como edición
-            if mtime != previo.get("mtime") and ahora - mtime < gracia_min * 60:
-                res["en_edicion"] += 1
-                continue
-            actual = leer(dst)
-            if INICIO in contenido:
-                nuevo = fusionar(contenido, actual)
-                if nuevo is None:
-                    res["sin_marcadores"].append(clave)
+            try:
+                src = os.path.join(raiz, a)
+                if a.startswith(".") or not a.endswith(EXTENSIONES) or os.path.islink(src):
                     continue
-            else:
-                nuevo = contenido
-            if nuevo != actual:
-                escribir_atomico(dst, nuevo)
-                res["actualizadas"] += 1
-            else:
-                res["iguales"] += 1
-            estado[clave] = {"huella": h, "mtime": os.path.getmtime(dst)}
+                rel = os.path.relpath(src, origen)
+                if any(p in ("..", "") for p in rel.split(os.sep)):
+                    res["rechazadas"].append(rel)
+                    continue
+                contenido = leer(src)
+                h = sha_texto(contenido)
+                rel_destino = rel
+                if normativa:
+                    # la huella es la del repositorio; la ruta y los enlaces se traducen a la disposición de la bóveda
+                    rel_destino = destino_normativa(rel.replace(os.sep, "/"), contenido)
+                    if rel_destino is None:
+                        continue
+                    rel_destino = rel_destino.replace("/", os.sep)
+                    contenido = reescribir_enlaces(contenido, mapa)
+                dst = os.path.normpath(os.path.join(destino, rel_destino))
+                if not dst.startswith(os.path.normpath(destino) + os.sep):
+                    res["rechazadas"].append(rel)
+                    continue
+                clave = carpeta + "/" + rel.replace(os.sep, "/")
+                existe = os.path.exists(dst)
+                previo = estado.get(clave) or {}
+                if previo.get("huella") == h and existe:
+                    res["iguales"] += 1
+                    continue
+                # antes de crear carpetas se comprueba que la parte que ya existe no salga de la carpeta 10
+                existente = os.path.dirname(dst)
+                while not os.path.exists(existente):
+                    existente = os.path.dirname(existente)
+                if not dentro_de(destino, existente) or os.path.islink(dst):
+                    res["rechazadas"].append(rel)
+                    continue
+                os.makedirs(os.path.dirname(dst), exist_ok=True)
+                if not existe:
+                    escribir_atomico(dst, contenido)
+                    estado[clave] = {"huella": h, "mtime": os.path.getmtime(dst)}
+                    res["nuevas"] += 1
+                    continue
+                mtime = os.path.getmtime(dst)
+                # una nota que vos modificaste hace poco se deja para la siguiente corrida;
+                # lo que escribió el propio puente no cuenta como edición
+                if mtime != previo.get("mtime") and ahora - mtime < gracia_min * 60:
+                    res["en_edicion"] += 1
+                    continue
+                actual = leer(dst)
+                if INICIO in contenido:
+                    nuevo = fusionar(contenido, actual)
+                    if nuevo is None:
+                        res["sin_marcadores"].append(clave)
+                        continue
+                else:
+                    nuevo = contenido
+                if nuevo != actual:
+                    escribir_atomico(dst, nuevo)
+                    res["actualizadas"] += 1
+                else:
+                    res["iguales"] += 1
+                estado[clave] = {"huella": h, "mtime": os.path.getmtime(dst)}
+            except OSError as e:
+                # típico de OneDrive con archivos solo en la nube (TimeoutError): se reintenta la próxima vez
+                res["pendientes"].append(f"{carpeta}/{a}: {type(e).__name__}")
     return res
 
 
@@ -320,6 +497,10 @@ def main():
     res = None
     for carpeta in CARPETAS:
         r = sincronizar(repo, boveda, estado.setdefault("aplicadas", {}), int(cfg.get("minutos_de_gracia", 10)), carpeta=carpeta)
+        if _nfc(carpeta) == NORMATIVA and os.path.isdir(os.path.join(boveda, NORMATIVA)):
+            falta = not os.path.exists(os.path.join(boveda, NORMATIVA, INDICE_NORMATIVA))
+            if r["nuevas"] or falta:
+                log(f"Normativa: {indices_normativa(boveda)} índices regenerados.")
         if res is None:
             res = r
         else:
@@ -329,17 +510,23 @@ def main():
     if res["nuevas"] or res["actualizadas"] or estado.get("equivalencias") != hoy:
         ruta = os.path.join(boveda, CARPETA, "_Sistema", "Equivalencias de instituciones.md")
         os.makedirs(os.path.dirname(ruta), exist_ok=True)
-        texto = equivalencias(boveda)
         try:
-            igual = leer(ruta) == texto
-        except OSError:
-            igual = False
-        if not igual:
-            escribir_atomico(ruta, texto)
-        estado["equivalencias"] = hoy
+            texto = equivalencias(boveda)
+            try:
+                igual = leer(ruta) == texto
+            except OSError:
+                igual = False
+            if not igual:
+                escribir_atomico(ruta, texto)
+            estado["equivalencias"] = hoy
+        except OSError as e:
+            log(f"AVISO no se regeneró Equivalencias de instituciones ({type(e).__name__}); se reintenta la próxima vez.")
     escribir_atomico(ESTADO, json.dumps(estado, ensure_ascii=False, indent=1))
     log(f"Puente: {res['nuevas']} nuevas, {res['actualizadas']} actualizadas, {res['iguales']} sin cambios, "
         f"{res['en_edicion']} en edición (se reintentan en la próxima corrida).")
+    if res.get("pendientes"):
+        log(f"AVISO {len(res['pendientes'])} notas no se pudieron leer a tiempo (OneDrive las tiene solo en la nube); "
+            f"se reintentan en la próxima corrida. Primera: {res['pendientes'][0]}")
     for c in res["sin_marcadores"]:
         log(f"AVISO {c}: la nota de la bóveda perdió los marcadores portal:inicio/portal:fin; no se tocó.")
     for c in res["rechazadas"]:
