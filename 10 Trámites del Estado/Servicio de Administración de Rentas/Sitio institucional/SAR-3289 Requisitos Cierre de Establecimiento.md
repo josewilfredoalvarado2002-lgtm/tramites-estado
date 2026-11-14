@@ -38,30 +38,19 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS CIERRE DE
-ESTABLECIMIENTO
+REQUISITOS CIERRE DE ESTABLECIMIENTO
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
 REQUISITOS CIERRE DE ESTABLECIMIENTO
-Este trámite puede realizarlo en línea desde la Oficina Virtual o, si lo prefiere, de manera
-presencial en nuestras oficinas regionales y departamentales.
-A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y
-presencial.
-1. Escrito de Notificación que contenga los requisitos establecidos en el Artículo 61
-de la Ley de Procedimiento Administrativo, si lo ingresa mediante Oficina Virtual
-debe ser en Formato PDF.
-2. Notificación de documentos fiscales no utilizados o Notificación de Uso Temporal
-de los Documentos Fiscales (si aplica).
-3. Constancia, certificación de cierre o comprobante de cambio de domicilio emitida
-por la Alcaldía Municipal o contrato privado de finalización del contrato comercial
-o Declaración de Hechos para la Baja de Establecimiento.
+Este trámite puede realizarlo en línea desde la Oficina Virtual o, si lo prefiere, de manera presencial en nuestras oficinas regionales y departamentales.
+A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y presencial.
+1. Escrito de Notificación que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo, si lo ingresa mediante Oficina Virtual debe ser en Formato PDF.
+2. Notificación de documentos fiscales no utilizados o Notificación de Uso Temporal de los Documentos Fiscales (si aplica).
+3. Constancia, certificación de cierre o comprobante de cambio de domicilio emitida por la Alcaldía Municipal o contrato privado de finalización del contrato comercial o Declaración de Hechos para la Baja de Establecimiento.
 4. Justificante boletín de pago libre por Actos Administrativos (L. 200.00).
 
-Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se
-debe acompañar poder o carta poder debidamente autenticado, Documento Nacional
-de Identificación (DNI) para hondureños, Pasaporte o Carné de Residencia vigente
-para extranjeros, indicando si posee las siguientes facultades:
+Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación (DNI) para hondureños, Pasaporte o Carné de Residencia vigente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firmar.
 

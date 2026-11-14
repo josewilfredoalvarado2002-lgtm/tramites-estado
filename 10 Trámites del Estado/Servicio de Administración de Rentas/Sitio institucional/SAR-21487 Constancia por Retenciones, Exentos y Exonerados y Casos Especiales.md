@@ -39,35 +39,16 @@ estado_sitio: "Vigente"
 ## Para qué se hace (según el documento)
 
 DESCRIPCIÓN DEL TRÁMITE
-Este tipo de constancias se solicita por aquellos Obligados Tributarios que no tienen
-reflejados en su Cuenta Corriente transacciones que validen su solvencia ante la
-Administración Tributaria, debido a que han sido objeto de retenciones por terceros o que
-por diferentes situaciones como en el caso de las personas asalariadas, no están
-obligados a la presentación de declaraciones.
-Así mismo, en el caso de las personas naturales o jurídicas que estén en proceso de
-alguna exoneración o que presenten situaciones especiales por las cuales se reflejen
-saldos en su Cuenta Corriente, y que necesiten emitir la constancia de solvencia fiscal
-podrán solicitarlas a través del trámite descrito.
-El trámite se puede realizar de forma presencial o por medio de la Oficina Virtual,
-ingresando identificado con su respectivo RTN y contraseña, esta solicitud se encuentra
-en el menú, apartado de “Solicitudes de Cuenta Corriente”, “Constancia por Retenciones,
-Exentos y Exonerados y Casos Especiales”, registrando los campos que se detallan a
-continuación:
-a) Una breve explicación de los motivos en los que fundamenta su solicitud en la
-sección de Datos.
-b) En la sección de “Documentación”, se debe anexar la documentación
-obligatoria (Escrito de Solicitud que contenga los requisitos establecidos en el
-Artículo 61 de la Ley de Procedimiento Administrativo en Formato PDF), así
-mismo, podrá agregar otra documentación de carácter opcional.
-c) Para finalizar, previo a la presentación de la solicitud, se debe seleccionar el
-método de pago a través de Boletín de Pago Libre disponible o se podrá aportar
-un Boletín de Pago pendiente, que deberá ser pagado más adelante.
+Este tipo de constancias se solicita por aquellos Obligados Tributarios que no tienen reflejados en su Cuenta Corriente transacciones que validen su solvencia ante la Administración Tributaria, debido a que han sido objeto de retenciones por terceros o que por diferentes situaciones como en el caso de las personas asalariadas, no están obligados a la presentación de declaraciones.
+Así mismo, en el caso de las personas naturales o jurídicas que estén en proceso de alguna exoneración o que presenten situaciones especiales por las cuales se reflejen saldos en su Cuenta Corriente, y que necesiten emitir la constancia de solvencia fiscal podrán solicitarlas a través del trámite descrito.
+El trámite se puede realizar de forma presencial o por medio de la Oficina Virtual, ingresando identificado con su respectivo RTN y contraseña, esta solicitud se encuentra en el menú, apartado de “Solicitudes de Cuenta Corriente”, “Constancia por Retenciones, Exentos y Exonerados y Casos Especiales”, registrando los campos que se detallan a continuación:
+a) Una breve explicación de los motivos en los que fundamenta su solicitud en la sección de Datos.
+b) En la sección de “Documentación”, se debe anexar la documentación obligatoria (Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo en Formato PDF), así mismo, podrá agregar otra documentación de carácter opcional.
+c) Para finalizar, previo a la presentación de la solicitud, se debe seleccionar el método de pago a través de Boletín de Pago Libre disponible o se podrá aportar un Boletín de Pago pendiente, que deberá ser pagado más adelante.
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE SOLICITUD DE
-CONSTANCIA POR RETENCIONES,
-EXENTOS Y EXONERADOS Y CASOS
+REQUISITOS DE SOLICITUD DE CONSTANCIA POR RETENCIONES, EXENTOS Y EXONERADOS Y CASOS
 ESPECIALES
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Recaudación
@@ -75,15 +56,12 @@ Departamento de Recaudación
 CONSTANCIA POR RETENCIONES, EXENTOS Y EXONERADOS Y CASOS
 ESPECIALES
 
-REQUISITOS PARA CONSTANCIA POR RETENCIONES, EXENTOS Y
-EXONERADOS Y CASOS ESPECIALES
+REQUISITOS PARA CONSTANCIA POR RETENCIONES, EXENTOS Y EXONERADOS Y CASOS ESPECIALES
 
 a) Realizar el pago por actos administrativos por el valor de L200.00.
-b) Presentar un escrito de solicitud Indicando con claridad los hechos y razones en los
-que fundamenta su petición.
+b) Presentar un escrito de solicitud Indicando con claridad los hechos y razones en los que fundamenta su petición.
 c)Si la petición se realiza de forma presencial y por medio de Apoderado o Representante
-Legal, debe adjuntar la respectiva acreditación de poder autenticado. En caso de
-presentar copia del instrumento el mismo deberá ser cotejado con el original.
+Legal, debe adjuntar la respectiva acreditación de poder autenticado. En caso de presentar copia del instrumento el mismo deberá ser cotejado con el original.
 
 FORMATO: SOLICITUD CONSTANCIA POR RETENCIONES, EXENTOSY EXONERADOS Y CASOS ESPECIALES
 SEÑOR (A)
@@ -91,18 +69,14 @@ MINISTRO (A) DIRECTOR (A)
 SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)
 
 YO:__________________________________________________________, HONDUREÑO, MAYOR
-DE EDAD, CON NÚMERO DE IDENTIDAD_____________________PROFESIÓN U
-OFICIO______________DEL DOMICILIO DE_________________,CON R.T.N. N.º
+DE EDAD, CON NÚMERO DE IDENTIDAD_____________________PROFESIÓN U OFICIO______________DEL DOMICILIO DE_________________,CON R.T.N. N.º
 ___________________; DIRECCIÓN COMPLETA
 _________________________________________________________________________________
 TELÉFONO No: _________________TELÉFONO MÓVIL No:_____________ CORREO ELECTRÓNICO
 ______________________, COMPAREZCO ANTE USTED SEÑOR(A) MINISTRO (A) DIRECTOR
 (A), ACTUANDO EN MI CONDICIÓN DE________________________________ (SI ES
-PERSONA JURÍDICA ESPECIFICAR EL NOMBRE DE LA
-EMPRESA______________________________Y EL RTN ___________________, PARA SOLICITAR
-“CONSTANCIA POR RETENCIONES, EXENTOS Y EXONERADOS Y CASOS ESPECIALES”, DEL
-PERÍODO_____________, POR EL MONTO DE _________________________________POR LAS
-RAZONES Y HECHOS SIGUIENTES:
+PERSONA JURÍDICA ESPECIFICAR EL NOMBRE DE LA EMPRESA______________________________Y EL RTN ___________________, PARA SOLICITAR
+“CONSTANCIA POR RETENCIONES, EXENTOS Y EXONERADOS Y CASOS ESPECIALES”, DEL PERÍODO_____________, POR EL MONTO DE _________________________________POR LAS RAZONES Y HECHOS SIGUIENTES:
 _________________________________________________________________________________
 _________________________________________________________________________________
 _________________________________________________________________________________

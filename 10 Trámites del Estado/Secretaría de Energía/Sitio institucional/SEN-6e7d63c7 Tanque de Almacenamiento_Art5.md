@@ -56,32 +56,27 @@ Declarar todas las direcciones de los establecimientos donde opera.
 9
 9.1 Dirección exacta del establecimiento principal con croquis y georreferenciación (Universal Transverse
 Mercator UTM o latitud y longitud).
-9.2 Dirección exacta de todos los establecimientos que opera la sociedad como propietario o arrendatario con
-croquis y georreferenciación (Universal Transverse Mercator UTM o latitud y longitud).
+9.2 Dirección exacta de todos los establecimientos que opera la sociedad como propietario o arrendatario con croquis y georreferenciación (Universal Transverse Mercator UTM o latitud y longitud).
 10 Escritura, contrato o documento que acredite la propiedad, arrendamiento o subarrendamiento donde opera u operará el establecimiento principal.
 11 Constancia de Solvencia vigente emitida por la Procuraduría General de la República de Honduras.
 12 Volumen estimado a utilizar anualmente por producto.
 13 Carta de intención de suministro emitida por el proveedor de Hidrocarburos, debidamente inscrito ante esta Secretaría.
 14
 Presentar mediante Declaración Jurada firmada por el representante que declare lo siguiente:
-14.1 Deben acreditar la necesidad de operar de manera independiente a las estaciones de servicio ya
-establecidas.
-14.2 Declarar que operan dentro de un predio o plantel de operación industrial, generación eléctrica, o dedicada
-al transporte debidamente inscrito.
+14.1 Deben acreditar la necesidad de operar de manera independiente a las estaciones de servicio ya establecidas.
+14.2 Declarar que operan dentro de un predio o plantel de operación industrial, generación eléctrica, o dedicada al transporte debidamente inscrito.
 14.3 Declarar los vehículos o maquinaria que consume el combustible.
 14.4 Presentar un cuadro de consumo mensual proyectado para todo el año.
 15 Presentar toda la documentación de forma digital, previo al ingreso en físico debe presentarse mediante el correo electrónico ventanillaunica@sen.hn;
 16
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en concepto de Inscripción de la Sociedad bajo la Figura de
-Depósitos o Tanques de Petróleo de Hidrocarburos para Consumo Propio de la siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en concepto de Inscripción de la Sociedad bajo la Figura de Depósitos o Tanques de Petróleo de Hidrocarburos para Consumo Propio de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12209 – Otras Licencias.
 Monto: L 10,000.00
 17
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la
-siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
@@ -90,17 +85,13 @@ Monto: L 200.00
 19 Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden de este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada requisito.
 
 En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas
-(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una
-de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello
-estampado del notario.
+(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello estampado del notario.
 
 ## Otro texto del documento
 
 Inscripción bajo la Figura de Depósitos o Tanques de Petróleo de Hidrocarburos para Consumo Propio
 (Documentación del Establecimiento que opera como oficina principal).
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
-Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
-agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
 2025).
 
 Artículo No. 5.

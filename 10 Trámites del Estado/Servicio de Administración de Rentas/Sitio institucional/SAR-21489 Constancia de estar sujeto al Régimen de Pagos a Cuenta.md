@@ -39,10 +39,8 @@ estado_sitio: "Vigente"
 ## Para qué se hace (según el documento)
 
 Descripción del Trámite
-Este documento hace constar a cualquier interesado que el Obligado Tributario se
-encuentra sujeto al Régimen de Pagos a Cuenta o Anticipos del Impuesto Sobre la Renta
-(ISR) del período fiscal vigente. El poseedor de esta no será objeto de retención del
-referido impuesto, con excepción de las retenciones aplicables a asalariados.
+Este documento hace constar a cualquier interesado que el Obligado Tributario se encuentra sujeto al Régimen de Pagos a Cuenta o Anticipos del Impuesto Sobre la Renta
+(ISR) del período fiscal vigente. El poseedor de esta no será objeto de retención del referido impuesto, con excepción de las retenciones aplicables a asalariados.
 
 ## Requisitos (según el documento oficial)
 
@@ -67,8 +65,7 @@ Pasos para Generar la Constancia en Línea:
 Constancia".
 4. Elige la opción "Constancia de Pagos a Cuenta".
 5. Seleccione el Boletín de Pago disponible.
-Al cumplir con los requisitos mínimos del sistema, podrá generar y descargar su
-constancia inmediatamente.
+Al cumplir con los requisitos mínimos del sistema, podrá generar y descargar su constancia inmediatamente.
 
 ## Documentos
 

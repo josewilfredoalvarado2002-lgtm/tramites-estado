@@ -39,10 +39,7 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 Permiso Especial de Importación Temporal de Hidrocarburos.
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
-Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
-agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de
-agosto 2025).
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto 2025).
 Artículo No. 17
 1 Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo.
 2 Escritura de Constitución y sus modificaciones debidamente registradas.
@@ -76,8 +73,7 @@ Rubro: 12209 – Otras Licencias.
 Monto: L 30,000.00
 19
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019.
-Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución,
-de la siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
 
@@ -85,9 +81,7 @@ Monto: L 200.00
 20 Cualquier otro requisito solicitado por la SEN.
 
 En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas
-(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada
-una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y
-sello estampado del notario
+(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello estampado del notario
 
 ## Documentos
 

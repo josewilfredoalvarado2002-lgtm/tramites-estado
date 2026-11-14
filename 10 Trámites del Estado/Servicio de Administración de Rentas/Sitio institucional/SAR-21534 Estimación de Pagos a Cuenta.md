@@ -40,47 +40,26 @@ estado_sitio: "Vigente"
 
 Descripción del trámite
 Los obligados tributarios pueden solicitar la estimación de sus cuotas de pagos a cuenta.
-En caso de no haber causado impuesto en el periodo fiscal inmediato anterior, o bien de
-iniciar operaciones en el año en curso, el cálculo de las tres cuotas se realizará de forma
-estimada, tomando como referencia los ingresos proyectados para el período fiscal
-vigente.
-Este trámite se puede realizar de forma presencial o a través de la Oficina Virtual. Para
-la opción digital, ingrese con su RTN y contraseña, y siga estos pasos:
+En caso de no haber causado impuesto en el periodo fiscal inmediato anterior, o bien de iniciar operaciones en el año en curso, el cálculo de las tres cuotas se realizará de forma estimada, tomando como referencia los ingresos proyectados para el período fiscal vigente.
+Este trámite se puede realizar de forma presencial o a través de la Oficina Virtual. Para la opción digital, ingrese con su RTN y contraseña, y siga estos pasos:
 
 1. Haga clic en la opción “Solicitudes” y luego presione “Nueva solicitud”
 2. Seleccione “Solicitudes de Cuenta Corriente”
 3. Haga clic en “Estimación de Pagos a Cuenta”
 4. Complete los campos que se detallan a continuación:
-a) En la sección “Datos” detalle brevemente las razones que fundamentan
-su petición, consigne el valor de impuesto causado que estima tener en el
-periodo fiscal vigente.
-Una vez realizado esto dar clic en el botón “Calcular”, el sistema mostrará
-la propuesta de Estimación de los Pagos a Cuenta (misma que estará
-sujeta a análisis por parte de la Administración Tributaria)
-b) En la sección de “Documentación”, adjunte el Escrito de Solicitud en
-formato PDF, cumpliendo con los requisitos del Artículo 61 de la Ley de
-Procedimiento Administrativo. Con el fin de agilizar su solicitud puede
-adjuntar documentos adicionales que complementen la petición.
-c) En la sección “Presentación” debe seleccionar el método de pago, para lo
-que puede elegir un Boletín de pago Libre disponible o bien aportar el
-Boletín de Pago más adelante.
+a) En la sección “Datos” detalle brevemente las razones que fundamentan su petición, consigne el valor de impuesto causado que estima tener en el periodo fiscal vigente.
+Una vez realizado esto dar clic en el botón “Calcular”, el sistema mostrará la propuesta de Estimación de los Pagos a Cuenta (misma que estará sujeta a análisis por parte de la Administración Tributaria)
+b) En la sección de “Documentación”, adjunte el Escrito de Solicitud en formato PDF, cumpliendo con los requisitos del Artículo 61 de la Ley de Procedimiento Administrativo. Con el fin de agilizar su solicitud puede adjuntar documentos adicionales que complementen la petición.
+c) En la sección “Presentación” debe seleccionar el método de pago, para lo que puede elegir un Boletín de pago Libre disponible o bien aportar el Boletín de Pago más adelante.
 
-Importante: La recepción de la petición por parte de la Administración Tributaria no da
-inicio al trámite. La solicitud solo comenzará a procesarse una vez validado el pago.
+Importante: La recepción de la petición por parte de la Administración Tributaria no da inicio al trámite. La solicitud solo comenzará a procesarse una vez validado el pago.
 
 ## Requisitos (según el documento oficial)
 
 a) Realizar el pago por actos administrativos por el valor de L200.00.
-b) Presentar un escrito de solicitud Indicando con claridad los hechos y
-razones en los que fundamenta su petición.
-c) Si la petición se realiza por medio de Apoderado o Representante Legal,
-debe adjuntar la respectiva acreditación de poder autenticado. En caso
-de realizar la solicitud de manera presencial adjuntar copia del
-instrumento el mismo deberá ser cotejado con el original.
-d) Para personas jurídicas presentar, Estados Financieros Originales a la
-fecha de ingreso de la petición y Proyectados al 31 de diciembre o al
-cierre de su período fiscal, Timbrados, Firmados y Sellados por un
-contador colegiado.
+b) Presentar un escrito de solicitud Indicando con claridad los hechos y razones en los que fundamenta su petición.
+c) Si la petición se realiza por medio de Apoderado o Representante Legal, debe adjuntar la respectiva acreditación de poder autenticado. En caso de realizar la solicitud de manera presencial adjuntar copia del instrumento el mismo deberá ser cotejado con el original.
+d) Para personas jurídicas presentar, Estados Financieros Originales a la fecha de ingreso de la petición y Proyectados al 31 de diciembre o al cierre de su período fiscal, Timbrados, Firmados y Sellados por un contador colegiado.
 
 ## Costo (según el documento)
 
@@ -89,11 +68,9 @@ SIGUIENTES:
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-DETALLAR ADEMAS DEL VALOR DE LA ESTIMACIÓN, LOS NÚMEROS DE RECIBOS CON LOS
-CUALES SE HAN REALIZADOS LOS PAGOS DE LAS CUOTAS DE PAGOS A CUENTA VENCIDAS
+DETALLAR ADEMAS DEL VALOR DE LA ESTIMACIÓN, LOS NÚMEROS DE RECIBOS CON LOS CUALES SE HAN REALIZADOS LOS PAGOS DE LAS CUOTAS DE PAGOS A CUENTA VENCIDAS
 (SI APLICA).
-AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL
-PRESENTE ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y RESOLVER
+AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL PRESENTE ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y RESOLVER
 DE CONFORMIDAD: LUGAR Y FECHA: ________________________________
 
 NOMBRE Y FIRMA
@@ -114,10 +91,7 @@ FORMATO: SOLICITUD ESTIMACIÓN DE PAGOS A CUENTA
 SEÑOR (A)
 MINISTRO (A) DIRECTOR (A)
 SERVICIO DE ADMINISTRACION DE RENTAS (SAR)
-YO______________________________________, HONDUREÑO, MAYOR DE EDAD, CON
-NUMERO DE IDENTIDAD_________________________PROFESIÓN U
-OFICIO_____________________, DEL DOMICILIO DE__________________________, CON
-R.T.N. No____________________; DIRECCION COMPLETA___________________________
+YO______________________________________, HONDUREÑO, MAYOR DE EDAD, CON NUMERO DE IDENTIDAD_________________________PROFESIÓN U OFICIO_____________________, DEL DOMICILIO DE__________________________, CON R.T.N. No____________________; DIRECCION COMPLETA___________________________
 ________________________________________________________________________________
 TELEFONO. N.º TELEFONO MOVIL N.º ___________________ CORREO
 ELECTRONICO___________________________, COMPAREZCO ANTE USTED SEÑOR(A)

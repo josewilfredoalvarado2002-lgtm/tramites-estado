@@ -39,22 +39,15 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 REQUISITOS USUARIO SISTEMA ELECTRÓNICO DE COMERCIO EXTERIOR DE HONDURAS (SECEH)
-1. Nota de solicitud de la persona natural o jurídica para adquirir usuario y contraseña, y recibir
-la capacitación para el uso del SECEH.
-Dicha nota deberá ser en papel membretado y deberá estar firmada por el Propietario,
-Gerente General o Representante Legal de la empresa, y debe especificar lo siguiente:
-nombre completo, número de identidad y RTN de la persona autorizada al acceso del
-Sistema, RTN de la empresa y un correo electrónico de la empresa (no personal) para uso
-exclusivo del SECEH.
-2. En caso de ser Agente Aduanero, deberá presentar la autorización de la persona natural o
-jurídica a dicha Agencia Aduanera.
+1. Nota de solicitud de la persona natural o jurídica para adquirir usuario y contraseña, y recibir la capacitación para el uso del SECEH.
+Dicha nota deberá ser en papel membretado y deberá estar firmada por el Propietario, Gerente General o Representante Legal de la empresa, y debe especificar lo siguiente:
+nombre completo, número de identidad y RTN de la persona autorizada al acceso del Sistema, RTN de la empresa y un correo electrónico de la empresa (no personal) para uso exclusivo del SECEH.
+2. En caso de ser Agente Aduanero, deberá presentar la autorización de la persona natural o jurídica a dicha Agencia Aduanera.
 3. Fotocopia de la Escritura de Constitución y RTN de la empresa.
 4. Fotocopia de Identidad y RTN de la persona autorizada para recibir el usuario y capacitación.
 5. Enviar solicitud electrónica de nuevo usuario a través del siguiente sitio web:
-https://seceh.centrex.hn/inicio.aspx donde dice: “Si usted es nuevo usuario, regístrese
-aquí…” y completar cada uno de los campos requeridos.
-6. Una vez tenga toda la información requerida, la misma deberá ser enviada vía correo
-electrónico a centrex.hn@gmail.com. Para que su usuario pueda ser aprobado.
+https://seceh.centrex.hn/inicio.aspx donde dice: “Si usted es nuevo usuario, regístrese aquí…” y completar cada uno de los campos requeridos.
+6. Una vez tenga toda la información requerida, la misma deberá ser enviada vía correo electrónico a centrex.hn@gmail.com. Para que su usuario pueda ser aprobado.
 
 ## Otro texto del documento
 

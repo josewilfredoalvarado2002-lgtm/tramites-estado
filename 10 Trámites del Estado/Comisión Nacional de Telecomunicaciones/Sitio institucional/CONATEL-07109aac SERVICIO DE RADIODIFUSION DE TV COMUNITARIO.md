@@ -53,27 +53,16 @@ REQUISITOS
 Nota: El solicitante no debe ser titular de ningún Servicio de Difusión, (Radiodifusión Sonora o de Radiodifusión de Televisión)
 ITEM REQUISITO NS RN MD
 1.
-a. Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de La Ley de
-Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono
-celular y correo electrónico.
+a. Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono celular y correo electrónico.
 b. El área de cobertura solicitada y las características técnicas requeridas para el cumplimiento de sus fines.
-c. El plan de servicios a la comunidad y proyecto de programación que pretende brindar, en consonancia
-con los principios que definen al Servicio de Radiodifusión Sonora con Fines Comunitarios y Radiodifusión
-de Televisión con Fines Comunitarios.
-d. Los mecanismos previstos para asegurar la participación ciudadana en la gestión y programación de la
-Estación Radiodifusora o de Televisión con Fines Comunitarios.
-e. Adjuntar un breve estudio de la rentabilidad social a ser desarrollada por la comunidad o comunidades a
-ser servidas.
+c. El plan de servicios a la comunidad y proyecto de programación que pretende brindar, en consonancia con los principios que definen al Servicio de Radiodifusión Sonora con Fines Comunitarios y Radiodifusión de Televisión con Fines Comunitarios.
+d. Los mecanismos previstos para asegurar la participación ciudadana en la gestión y programación de la Estación Radiodifusora o de Televisión con Fines Comunitarios.
+e. Adjuntar un breve estudio de la rentabilidad social a ser desarrollada por la comunidad o comunidades a ser servidas.
 f. Los antecedentes de trabajo social y comunitario de la organización en la zona de cobertura solicitada.
-g. Las referencias de personas, organizaciones o instituciones sociales representativas del plan de servicios
-a la comunidad, del proyecto de programación y de la propuesta de comunicación que se pretende
-brindar.
+g. Las referencias de personas, organizaciones o instituciones sociales representativas del plan de servicios a la comunidad, del proyecto de programación y de la propuesta de comunicación que se pretende brindar.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante
 3.
-Nota de la Asociación de Medios de Comunicación Comunitarios de Honduras, (AMCH), debidamente
-legalizada, que manifieste que el solicitante se encuentra en operación y pertenece a esta asociación, lo
-anterior no es vinculante para la emisión de los Títulos Habilitantes solicitados. ( Cuando le aplique, si no,
-explicarlo en el escrito)
+Nota de la Asociación de Medios de Comunicación Comunitarios de Honduras, (AMCH), debidamente legalizada, que manifieste que el solicitante se encuentra en operación y pertenece a esta asociación, lo anterior no es vinculante para la emisión de los Títulos Habilitantes solicitados. ( Cuando le aplique, si no, explicarlo en el escrito)
 
 Declaración jurada de no estar comprendido dentro de las causales establecidas en los incisos e), f), g), h),
 i) y j) del Artículo 92 del Reglamento General de la Ley Marco del Sector de Telecomunicaciones.
@@ -84,26 +73,19 @@ i) y j) del Artículo 92 del Reglamento General de la Ley Marco del Sector de Te
 8. Constitución de domicilio legal para todos los efectos relacionados con la solicitud de Autorización o Licencia.
 9. Acreditar pago del aviso de Trámite según Resolución Normativa de Tasas y Canon Vigente.
 10.
-Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el Departamento
-de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de 10 (diez) días hábiles desde su
-emisión
+Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión
 11. El Formato Técnico 100 llenado y completado con la información del solicitante y de su apoderado legal siendo necesario que venga firmado y sellado por este último.
 12.
-El Formato Técnico 101 llenado y completado con la información técnica solicitada, siendo necesario que
-venga firmado o sellado por un ingeniero afín a la especialidad en telecomunicaciones que se encuentre
-colegiado en el CIMEQH.
+El Formato Técnico 101 llenado y completado con la información técnica solicitada, siendo necesario que venga firmado o sellado por un ingeniero afín a la especialidad en telecomunicaciones que se encuentre colegiado en el CIMEQH.
 13.
-El Formato Técnico 203 o 203/D (Analógico o Digital según aplique) llenado y completado con la información
-técnica del Servicio de Radiodifusión de Televisión con Fines Comunitarios, siendo necesario que venga
-firmado y sellado por un ingeniero afín a la especialidad en telecomunicaciones que se encuentre colegiado
-en el CIMEQH).
+El Formato Técnico 203 o 203/D (Analógico o Digital según aplique) llenado y completado con la información técnica del Servicio de Radiodifusión de Televisión con Fines Comunitarios, siendo necesario que venga firmado y sellado por un ingeniero afín a la especialidad en telecomunicaciones que se encuentre colegiado en el CIMEQH).
 14.
 Declaración jurada de no estar comprendido dentro de las causales establecidas en los incisos e), f), g), h),
 i) y j) del Artículo 92 del Reglamento General de la Ley Marco del Sector de Telecomunicaciones.
 (debidamente autenticada)
 RN, MD: No requiere presentar Forma Técnica 101 de Clasificación de Servicios de Telecomunicaciones.
 ITEM REQUISITO PARA CANCELACIONES CPL
-1. Solicitud por medio de Apoderado Legal en base a los artículos No.56, 60 y 61 de la Ley de Procedimiento Administrativo.
+1. Solicitud por medio de Apoderado Legal en base a los artículos No. 56, 60 y 61 de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
 
 REQUISITOS
@@ -112,16 +94,12 @@ REQUISITOS
 
 3. Acreditar pago de aviso según Resolución Normativa de Tasas y Canon Vigente.
 
-Presentar Constancia de Solvencia Económica emitida por el Departamento de Administración de Cartera y Cobranzas,
-cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión Excepto en los casos en los cuales el operador
-adeuda el canon radioeléctrico del año en curso.
-En el caso que la cancelación sea autorizada por CONATEL, se realizará el cobro total de las obligaciones económicas
-correspondientes, conforme a lo establecido en la Resolución NR017/99.
+Presentar Constancia de Solvencia Económica emitida por el Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión Excepto en los casos en los cuales el operador adeuda el canon radioeléctrico del año en curso.
+En el caso que la cancelación sea autorizada por CONATEL, se realizará el cobro total de las obligaciones económicas correspondientes, conforme a lo establecido en la Resolución NR017/99.
 NS Nueva Solicitud
 RN Renovación
 MD Modificación
-CPEL Cancelación de Permiso y
-Licencia
+CPEL Cancelación de Permiso y Licencia
 Nomenclatura
 
 ## Documentos

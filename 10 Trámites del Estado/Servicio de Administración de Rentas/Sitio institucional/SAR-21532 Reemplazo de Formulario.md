@@ -39,49 +39,31 @@ estado_sitio: "Vigente"
 ## Para qué se hace (según el documento)
 
 DESCRIPCIÓN DEL TRÁMITE
-El reemplazo de formulario es aplicable cuando el Obligado Tributario (OT) presenta por
-error su declaración en un formulario incorrecto. En este caso, el obligado debe elaborar
-la Declaración Jurada en el formulario correcto previo al envío de la petición.
+El reemplazo de formulario es aplicable cuando el Obligado Tributario (OT) presenta por error su declaración en un formulario incorrecto. En este caso, el obligado debe elaborar la Declaración Jurada en el formulario correcto previo al envío de la petición.
 
 Es indispensable que ambas declaraciones hayan sido presentadas a través de la Oficina
-Virtual del sistema SIISAR. Si la declaración corresponde a un periodo anterior a la
-implementación de esta plataforma, deberá presentarse nuevamente como una
-declaración rectificativa.
+Virtual del sistema SIISAR. Si la declaración corresponde a un periodo anterior a la implementación de esta plataforma, deberá presentarse nuevamente como una declaración rectificativa.
 
-Este trámite se puede realizar de forma presencial o mediante la Oficina Virtual,
-ingresando con su RTN y contraseña, siguiendo estos pasos:
+Este trámite se puede realizar de forma presencial o mediante la Oficina Virtual, ingresando con su RTN y contraseña, siguiendo estos pasos:
 
 1. Haga clic en la opción “Solicitudes” y luego seleccione “Nueva solicitud”
 2. Seleccione “Solicitudes de Cuenta Corriente.”
 3. Haga clic en “Reemplazo de Formulario”
 4. Complete los campos con la información solicitada a continuación:
 
-a) En la sección “Datos” detalle brevemente las razones que fundamentan su
-petición. Luego debe de elegir la opción “Asignar declaraciones incorrectas”
-seleccione la declaración con la opción “Añadir”. Seguidamente seleccione la
-opción “Asignar declaración correcta” con la opción “Añadir”.
+a) En la sección “Datos” detalle brevemente las razones que fundamentan su petición. Luego debe de elegir la opción “Asignar declaraciones incorrectas” seleccione la declaración con la opción “Añadir”. Seguidamente seleccione la opción “Asignar declaración correcta” con la opción “Añadir”.
 
-b) En la sección "Documentación", suba los archivos obligatorios. Debe adjuntar
-en formato PDF el Escrito de Solicitud que cumpla con el artículo 61 de la Ley de
-Procedimiento Administrativo. También puede agregar documentos opcionales de
-respaldo si lo considera necesario.
+b) En la sección "Documentación", suba los archivos obligatorios. Debe adjuntar en formato PDF el Escrito de Solicitud que cumpla con el artículo 61 de la Ley de Procedimiento Administrativo. También puede agregar documentos opcionales de respaldo si lo considera necesario.
 
-c) Antes de presentar la solicitud, seleccione el método de pago. Puede utilizar un
-Boletín de Pago Libre que ya esté disponible o registrar un Boletín de Pago
-pendiente para pagarlo más adelante.
+c) Antes de presentar la solicitud, seleccione el método de pago. Puede utilizar un Boletín de Pago Libre que ya esté disponible o registrar un Boletín de Pago pendiente para pagarlo más adelante.
 
-Importante: La recepción de la petición por parte de la Administración Tributaria no da
-inicio al trámite. La solicitud solo comenzará a procesarse una vez validado el pago.
+Importante: La recepción de la petición por parte de la Administración Tributaria no da inicio al trámite. La solicitud solo comenzará a procesarse una vez validado el pago.
 
 ## Requisitos (según el documento oficial)
 
 a) Realizar el pago por actos administrativos por el valor de L200.00.
-b) Presente un escrito de solicitud que indique con claridad los hechos y razones
-en los que fundamenta su petición.
-c) Si la petición se realiza por medio de Apoderado o Representante Legal,
-debe adjuntar la respectiva acreditación de poder autenticado. En caso
-de realizar la solicitud de manera presencial adjuntar copia del
-instrumento el mismo deberá ser cotejado con el original.
+b) Presente un escrito de solicitud que indique con claridad los hechos y razones en los que fundamenta su petición.
+c) Si la petición se realiza por medio de Apoderado o Representante Legal, debe adjuntar la respectiva acreditación de poder autenticado. En caso de realizar la solicitud de manera presencial adjuntar copia del instrumento el mismo deberá ser cotejado con el original.
 
 ## Base legal (según el documento)
 
@@ -99,30 +81,20 @@ SEÑOR (A)
 MINISTRO (A) DIRECTOR (A)
 SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)
 
-YO:________________________________________________________, HONDUREÑO,
-MAYOR DE EDAD, CON NÚMERO DE IDENTIDAD ___PROFESIÓN U
-OFICIO____________________________,DEL DOMICILIO DE____________________CON
+YO:________________________________________________________, HONDUREÑO, MAYOR DE EDAD, CON NÚMERO DE IDENTIDAD ___PROFESIÓN U OFICIO____________________________,DEL DOMICILIO DE____________________CON
 R.T.N. N.º____________________________; DIRECCIÓN COMPLETA
 __________________________________________________________________________
 __________________________________________________________________________
 TELÉFONO No____________________TELÉFONO MÓVIL No ______________
-CORREO ELECTRÓNICO ,
-COMPAREZCO ANTE USTED SEÑOR(A) MINISTRO(A) DIRECTOR(A), ACTUANDO EN
-MI CONDICIÓN DE (SI ES
+CORREO ELECTRÓNICO, COMPAREZCO ANTE USTED SEÑOR(A) MINISTRO(A) DIRECTOR(A), ACTUANDO EN MI CONDICIÓN DE (SI ES
 PERSONA JURÍDICA ESPECIFICAR EL NOMBRE DE LA EMPRESA_______
-_________________________________ Y EL RTN _________________ ),
-PARA SOLICITAR “REEMPLAZO DE FORMULARIO” No. _________________________”,
-DEL PERÍODO __________________, IMPUESTO____________________________ POR
-LA DECLARACIÓN No. ________________________________________”, DEL PERÍODO
-_________________________, IMPUESTO ________________________________ POR
-LAS RAZONES Y HECHOS
+_________________________________ Y EL RTN _________________ ), PARA SOLICITAR “REEMPLAZO DE FORMULARIO” No. _________________________”, DEL PERÍODO __________________, IMPUESTO____________________________ POR LA DECLARACIÓN No. ________________________________________”, DEL PERÍODO
+_________________________, IMPUESTO ________________________________ POR LAS RAZONES Y HECHOS
 SIGUIENTES:_______________________________________________________________
 __________________________________________________________________________
 __________________________________________________________________________
 __________________________________________________________________________
-AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL
-PRESENTE ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y
-RESOLVER DE CONFORMIDAD:
+AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL PRESENTE ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y RESOLVER DE CONFORMIDAD:
 LUGAR Y FECHA:
 
 ______________________________________

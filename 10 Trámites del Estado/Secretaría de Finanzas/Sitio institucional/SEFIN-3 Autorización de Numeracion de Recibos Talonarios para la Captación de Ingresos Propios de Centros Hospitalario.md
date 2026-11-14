@@ -44,14 +44,9 @@ Autorizar la numeración y serie de recibos talonarios para que a través de est
 ## Requisitos (según el documento oficial)
 
 file:///D|/nuevoSitio/Produccion/procedimientos/Requisito3.txt[27/02/2019 04:03:10 p.m.]
-La Institución del Sector Público presenta a la CGR: 1. Al Jefe de la Unidad de Apoyo Administrativo o el
-Asistente Oficio firmado por el Administrador o Director de la Institución en el cual solicita al Contador General de
-la República la Numeracion y Serie de Talonarios para enviarlos a la imprenta para su Impresion y ser utilizados en el
-centro que Representa.
-2. Oficio del Departamento de Auditoría Interna en el cual manifiesta que el Instituto o Centro de Educación Básico
-está al día con los informes económicos y en el caso de Salud la copia del oficio que presentaron el último informe.
-3. La CGR elabora el Oficio a la Institución detallando el rango de talonario que autoriza para que lo firme de
-recibido y proceda a la elaboración de los talonarios.
+La Institución del Sector Público presenta a la CGR: 1. Al Jefe de la Unidad de Apoyo Administrativo o el Asistente Oficio firmado por el Administrador o Director de la Institución en el cual solicita al Contador General de la República la Numeracion y Serie de Talonarios para enviarlos a la imprenta para su Impresion y ser utilizados en el centro que Representa.
+2. Oficio del Departamento de Auditoría Interna en el cual manifiesta que el Instituto o Centro de Educación Básico está al día con los informes económicos y en el caso de Salud la copia del oficio que presentaron el último informe.
+3. La CGR elabora el Oficio a la Institución detallando el rango de talonario que autoriza para que lo firme de recibido y proceda a la elaboración de los talonarios.
 
 ## Tasa_derechos
 
@@ -60,10 +55,8 @@ No Aplican Cargos
 ## Procedimiento (según el documento)
 
 file:///D|/nuevoSitio/Produccion/procedimientos/Procedimiento3.txt[27/02/2019 04:03:09 p.m.]
-1. Oficio en el cual solicita al Contador General de la Republica autorizar talonarios de recibos para recaudación de
-ingresos.
-2. Oficio del Departamento de Auditoría Interna en el cual manifiesta que el Instituto o Centro de Educación Básic está
-al día con los informes económicos y en el caso de Salud la copia del oficio que presentaron el último informe.
+1. Oficio en el cual solicita al Contador General de la Republica autorizar talonarios de recibos para recaudación de ingresos.
+2. Oficio del Departamento de Auditoría Interna en el cual manifiesta que el Instituto o Centro de Educación Básic está al día con los informes económicos y en el caso de Salud la copia del oficio que presentaron el último informe.
 
 ## Documentos
 

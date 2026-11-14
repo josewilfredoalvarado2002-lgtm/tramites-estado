@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS CAMBIO DE SOCIOS O
-ACCIONISTAS
+REQUISITOS CAMBIO DE SOCIOS O ACCIONISTAS
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
@@ -49,24 +48,17 @@ REQUISITOS CAMBIO DE SOCIOS O ACCIONISTAS
 - Para hondureños: Documento Nacional de Identificación (DNI).
 - Para extranjeros: Pasaporte o Carné de Residente vigente.
 - Para Personas jurídicas extranjeras: Fotocopia apostillada y traducida
-de la Escritura o Certificado de Constitución o Identificador tributario del
-país de procedencia en caso de ser un Socio Persona Jurídica extranjera
-no registrada o incorporada en Honduras
+de la Escritura o Certificado de Constitución o Identificador tributario del país de procedencia en caso de ser un Socio Persona Jurídica extranjera no registrada o incorporada en Honduras
 - Para Personas jurídicas Nacionales: Escritura de Constitución y número
 de RTN en caso de ser Socio Persona Jurídica Nacional (original).
 2. Instrumento que acredita el cambio debidamente inscrito en el Registro Mercantil
 (original).
 
-Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se
-debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de
-Identificación (DNI) para hondureños, Pasaporte o Carné de Residente vigente para
-extranjeros, indicando si posee las siguientes facultades:
+Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación (DNI) para hondureños, Pasaporte o Carné de Residente vigente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firmar.
 
-Nota 2: En caso de que la Información registrada en el RTN no se encuentre actualizada,
-se le solicitara los requisitos de Inscripción para subsanar cualquier información
-pendiente o desactualizada.
+Nota 2: En caso de que la Información registrada en el RTN no se encuentre actualizada, se le solicitara los requisitos de Inscripción para subsanar cualquier información pendiente o desactualizada.
 
 ## Documentos
 

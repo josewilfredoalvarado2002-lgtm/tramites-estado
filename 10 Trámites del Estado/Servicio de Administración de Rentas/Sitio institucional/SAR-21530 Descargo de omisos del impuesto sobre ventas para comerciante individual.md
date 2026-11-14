@@ -43,40 +43,21 @@ VENTAS PARA COMERCIANTE INDIVIDUAL
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
-REQUISITOS DESCARGO DE OMISOS DEL IMPUESTO SOBRE VENTAS PARA
-COMERCIANTE INDIVIDUAL
+REQUISITOS DESCARGO DE OMISOS DEL IMPUESTO SOBRE VENTAS PARA COMERCIANTE INDIVIDUAL
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Estados financieros firmados, sellados y
-timbrados, de los períodos que solicita el
-descargo de omisos. (Formato PDF)
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Estados financieros firmados, sellados y timbrados, de los períodos que solicita el descargo de omisos. (Formato PDF)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
-Escritura o contrato de compra y venta en el
-caso que el bien generador del impuesto
-sobre ventas fue vendido
-Contratos de arrendamiento (Este requisito
-aplica si el obligado tributario se dedica al
-alquiler)
-Documentos fiscales utilizados y dos
-subsiguientes sin utilizar, vigentes en los
-períodos que solicita el descargo de
-omisos.
-Documentación soporte que acredite las
-fuentes de ingreso del obligado tributario
-Libro de ventas de los años que solicita el
-descargo de omisos. (EXCEL)
-Comprobante de notificación de
-documentos fiscales (Motivos Art 42 -
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
+Escritura o contrato de compra y venta en el caso que el bien generador del impuesto sobre ventas fue vendido
+Contratos de arrendamiento (Este requisito aplica si el obligado tributario se dedica al alquiler)
+Documentos fiscales utilizados y dos subsiguientes sin utilizar, vigentes en los períodos que solicita el descargo de omisos.
+Documentación soporte que acredite las fuentes de ingreso del obligado tributario
+Libro de ventas de los años que solicita el descargo de omisos. (EXCEL)
+Comprobante de notificación de documentos fiscales (Motivos Art 42 -
 Acuerdo 481-2017)
 
 ## Documentos

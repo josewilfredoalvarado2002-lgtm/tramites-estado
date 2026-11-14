@@ -46,25 +46,15 @@ Departamento de Gestión Tributaria
 REQUISITOS DE ADHERIRSE AL RÉGIMEN
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Libro Auxiliar de Ventas mensuales
-correspondiente a los últimos dos años de
-operatividad
-Cualquier otra información que el OT considere
-necesaria para sustentar su petición
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Libro Auxiliar de Ventas mensuales correspondiente a los últimos dos años de operatividad
+Cualquier otra información que el OT considere necesaria para sustentar su petición
 Declaración del volumen de ventas de la Alcaldía
 Municipal de los dos últimos años que operó.
 (Formato PDF)
-Planillas de sueldos y salarios, selladas y firmadas por
-el contador, que contenga: sueldo, horas extras,
-comisiones, bonificaciones, 13vo y 14vo mes y
-deducciones. (Formato PDF)
-Estados financieros firmados, sellados y
-timbrados, de los últimos dos años. (Formato
+Planillas de sueldos y salarios, selladas y firmadas por el contador, que contenga: sueldo, horas extras, comisiones, bonificaciones, 13vo y 14vo mes y deducciones. (Formato PDF)
+Estados financieros firmados, sellados y timbrados, de los últimos dos años. (Formato
 PDF)
 Estados financieros de los últimos dos años
 (EXCEL)
@@ -73,8 +63,7 @@ Municipal de los dos últimos años que operó.
 (Formato PDF)
 Permiso de operación extendido por la Alcaldía
 Municipal. (Formato PDF)
-Contrato de arrendamiento o documentos
-equivalente detallando la dirección exacta.
+Contrato de arrendamiento o documentos equivalente detallando la dirección exacta.
 (Formato PDF)
 Comprobante de boletín de pago L200.00
 (Impuesto: 156 - Actos administrativos, concepto:

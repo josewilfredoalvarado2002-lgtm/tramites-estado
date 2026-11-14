@@ -40,54 +40,41 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 REQUISITOS
-SERVICIO DE PROVEEDORES DE ACCESO A CONTENIDOS DE
-INFORMACIÓN (PACI)
+SERVICIO DE PROVEEDORES DE ACCESO A CONTENIDOS DE INFORMACIÓN (PACI)
 
 *Requisitos y formatos en la página Web de CONATEL:
 
 ITEM REQUISITO NS RN MD
 1.
-Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de La Ley de Procedimiento
-Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono celular y correo
-electrónico.
+Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de Procedimiento
+Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono celular y correo electrónico.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante
 3. Carta Poder debidamente autenticada, o Poder en Escritura Pública (debidamente autenticada)
 4. Declaración Jurada de No estar Comprendido, en lo preceptuado según el Artículo 92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente autenticada).
 5.
-Copia debidamente legalizada de la Escritura de Constitución de Comerciante Individual o Social
-debidamente registrada y actualizada sobre la composición de las sociedades o integración de las Juntas
-Directivas para comerciantes constituidos en Honduras y Poder de Representación de la empresa
-debidamente autenticada y apostillada en caso de empresas no constituidas en Honduras.
+Copia debidamente legalizada de la Escritura de Constitución de Comerciante Individual o Social debidamente registrada y actualizada sobre la composición de las sociedades o integración de las Juntas
+Directivas para comerciantes constituidos en Honduras y Poder de Representación de la empresa debidamente autenticada y apostillada en caso de empresas no constituidas en Honduras.
 6. Acreditar pago del aviso de Trámite según Resolución Normativa de Tasas y Canon Vigente.
 7. Constancia de solvencia Económica, emitida por el Departamento de Administración de Cartera y Cobranzas de CONATEL, cuya vigencia aceptada será de diez (10) días hábiles desde la fecha de su emisión.
 8. Constancia de solvencia Documental, emitida por el Departamento de Planificación y Desarrollo de CONATEL.
 9. Forma 100, debe ser llenada y completada con la información del solicitante, y de su apoderado legal, siendo necesario que venga firmada y sellada por este último.
 10. Modelo de negocio y descripción del servicio, nombre del Operador de Telefonía Móvil con quien proveerá su servicio, duración del servicio o las promociones que brinda
 11.
-Informar el o los medio(s) de transmisión (alámbrica o inalámbrica) y redes de soporte (Internet-VPN,
-Internet-sitio WEB, GPRS-datos, etc.) que utilizará para el transporte de contenidos de información hacia
-cada uno de los operadores del Servicio de Telefonía Móvil
+Informar el o los medio(s) de transmisión (alámbrica o inalámbrica) y redes de soporte (Internet-VPN, Internet-sitio WEB, GPRS-datos, etc.) que utilizará para el transporte de contenidos de información hacia cada uno de los operadores del Servicio de Telefonía Móvil
 
 12.
-Informar si el medio de transmisión y red de soporte, es propia o arrendada, y en caso de ser arrendada
-informar el nombre del proveedor del medio o red de soporte que cuente con Título Habilitante vigente
-emitido por CONATEL.
+Informar si el medio de transmisión y red de soporte, es propia o arrendada, y en caso de ser arrendada informar el nombre del proveedor del medio o red de soporte que cuente con Título Habilitante vigente emitido por CONATEL.
 
 13. Indicar con cuales Proveedores de Contenidos de Información (PCI) establecerá acuerdos para transportarles las señales de contenidos de información.
 14.
-La información relativa a los medios de atención a proporcionar al Proveedor de Contenidos y/o al Operador
-del Servicio de Telefonía Móvil, para atender los reclamos por razón de la Calidad de Servicio de los medios
-de transmisión y/o soporte de redes que utilizan.
+La información relativa a los medios de atención a proporcionar al Proveedor de Contenidos y/o al Operador del Servicio de Telefonía Móvil, para atender los reclamos por razón de la Calidad de Servicio de los medios de transmisión y/o soporte de redes que utilizan.
 
 ITEM REQUISITO PARA CANCELACIONES CR
-1. Solicitud por medio de Apoderado Legal en base a los artículos No.56, 60 y 61 de la Ley de Procedimiento Administrativo.
+1. Solicitud por medio de Apoderado Legal en base a los artículos No. 56, 60 y 61 de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
 3. Acreditar pago de aviso según Resolución Normativa de Tasas y Canon Vigente
 4.
-Presentar Constancias de que está Solvente Económica y documentalmente emitidas por el Departamento de
-Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo respectivamente, cuya vigencia
-aceptada será de 10 (diez) días hábiles desde su emisión (En el caso que la cancelación sea autorizada por CONATEL,
-se realizará el cobro total de las obligaciones económicas conforme a lo establecido en la Resolución NR017/99.
+Presentar Constancias de que está Solvente Económica y documentalmente emitidas por el Departamento de Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión (En el caso que la cancelación sea autorizada por CONATEL, se realizará el cobro total de las obligaciones económicas conforme a lo establecido en la Resolución NR017/99.
 NS Nueva Solicitud
 RN Renovación
 MD Modificación

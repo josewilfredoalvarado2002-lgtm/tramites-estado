@@ -39,8 +39,7 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 Requisitos
-Ley de Hidrocarburos 21, 22, 25, 26, 27, 38, 39, 40 y 42 Reglamento de la Ley de
-Hidrocarburos 3, 27, 28, 29, 30.
+Ley de Hidrocarburos 21, 22, 25, 26, 27, 38, 39, 40 y 42 Reglamento de la Ley de Hidrocarburos 3, 27, 28, 29, 30.
 
 Reglamento de Hidrocarburos artículos 34, 35 y 36.
 
@@ -71,88 +70,45 @@ Documentos Presentados
 
 Documento Presentado SI NO Observación
 
-Copia Autenticada
-de Tarjeta de
-Identidad
+Copia Autenticada de Tarjeta de Identidad
 
 2 RTN de la Empresa Solicitante
 
-Documentación que
-acredite capacidad
-técnica y
-experiencia previa
-en el desarrollo de
-proyectos de similar
-índole al solicitado.
+Documentación que acredite capacidad técnica y experiencia previa en el desarrollo de proyectos de similar índole al solicitado.
 
-Documentación que
-acredite capacidad
-financiera para
-llevar a cabo la
-operación del
-contrato.
+Documentación que acredite capacidad financiera para llevar a cabo la operación del contrato.
 
 5
-Inscripción en el
-Registro Mercanti
+Inscripción en el Registro Mercanti
 
-6 Copia Autenticada de la escritura
-social y sus
-estatutos
+6 Copia Autenticada de la escritura social y sus estatutos
 
 7
-Nombre,
-constitución y los
-respectivos
-instrumentos
-públicos de poder
-del mandatario.
+Nombre, constitución y los respectivos instrumentos públicos de poder del mandatario.
 (Nacionalidad
 Hondureña)
 
 8 Mapa específico del área a conceder.
 9
-Términos y
-condiciones
-contractuales en
-forma de propuesta.
+Términos y condiciones contractuales en forma de propuesta.
 
 10
-Propuesta de
-Ventajas o
-Beneficios
-especiales a favor
-del Estado.
+Propuesta de Ventajas o Beneficios especiales a favor del Estado.
 
 Documento SI NO Observación
 
-Depósito en
-efectivo en el
-Banco Central de
-Honduras.
+Depósito en efectivo en el Banco Central de Honduras.
 (Cantidad
-Predeterminada en
-negociación)
+Predeterminada en negociación)
 
 2
-Caución o fianza
-prestada por una
-reconocida empresa
-afianzadora o de
-seguros, autorizada
-para hacer negocios
-en Honduras.
+Caución o fianza prestada por una reconocida empresa afianzadora o de seguros, autorizada para hacer negocios en Honduras.
 
 Garantía Bancaria
 
-Garantía por parte
-de casas matrices
-en el extranjero .
+Garantía por parte de casas matrices en el extranjero .
 
-La Dirección General de Exploración y Explotación de Hidrocarburos, después de
-realizado el Análisis Legal y Técnico correspondiente, podrá solicitar que la
-información y documentación proporcionada sea modificada o ampliada, a efecto de
-cumplir con las disposiciones contenidas en la Ley de Hidrocarburos y su Reglamento.
+La Dirección General de Exploración y Explotación de Hidrocarburos, después de realizado el Análisis Legal y Técnico correspondiente, podrá solicitar que la información y documentación proporcionada sea modificada o ampliada, a efecto de cumplir con las disposiciones contenidas en la Ley de Hidrocarburos y su Reglamento.
 
 ## Documentos
 

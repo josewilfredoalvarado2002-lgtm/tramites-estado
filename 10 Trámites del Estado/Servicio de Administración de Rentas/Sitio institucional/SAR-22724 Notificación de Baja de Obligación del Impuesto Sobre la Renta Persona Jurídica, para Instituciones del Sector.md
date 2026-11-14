@@ -38,34 +38,21 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS NOTIFICACIÓN DE BAJA DE
-OBLIGACIÓN DEL IMPUESTO SOBRE LA
-RENTA PERSONA JURÍDICA, PARA
-INSTITUCIONES DEL SECTOR PÚBLICO
+REQUISITOS NOTIFICACIÓN DE BAJA DE OBLIGACIÓN DEL IMPUESTO SOBRE LA RENTA PERSONA JURÍDICA, PARA INSTITUCIONES DEL SECTOR PÚBLICO
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
-La notificación está orientada para los Obligados Tributarios Persona Jurídica que
-pertenecen al sector público con excepción de las empresas públicas ya que éstas sí
-están Obligadas a presentar la Declaración de ISR.
-Este trámite puede ingresarlo en línea desde la Oficina Virtual o, si lo prefiere, de manera
-presencial en nuestras oficinas regionales y departamentales.
-A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y
-presencial según el tipo de notificación.
+La notificación está orientada para los Obligados Tributarios Persona Jurídica que pertenecen al sector público con excepción de las empresas públicas ya que éstas sí están Obligadas a presentar la Declaración de ISR.
+Este trámite puede ingresarlo en línea desde la Oficina Virtual o, si lo prefiere, de manera presencial en nuestras oficinas regionales y departamentales.
+A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y presencial según el tipo de notificación.
 
 REQUISITOS NOTIFICACIÓN DE BAJA DE OBLIGACIÓN DEL IMPUESTO SOBRE
 LA RENTA PERSONA JURÍDICA, PARA INSTITUCIONES DEL SECTOR PÚBLICO.
-1.Escrito de Notificación que contenga los requisitos establecidos en el Artículo 61
-de la Ley de Procedimiento Administrativo, si lo ingresa mediante Oficina Virtual
-debe ser en Formato PDF, asimismo, debe contener el período fiscal el cual
-notifica la baja de la obligación.
+1.Escrito de Notificación que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo, si lo ingresa mediante Oficina Virtual debe ser en Formato PDF, asimismo, debe contener el período fiscal el cual notifica la baja de la obligación.
 2. Justificante boletín de pago libre por Actos Administrativos (L 200.00).
 3. Fotocopia del documento que acredite la creación de la institución.
 
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se
-debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de
-Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros,
-indicando si posee las siguientes facultades:
+Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firma.
 

@@ -42,8 +42,7 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Secretaría de Energía/TR
 ## Requisitos (según el documento oficial)
 
 1
-Formulario de Registro de Prestadores de Servicios Técnicos en Protección Radiológica
-completamente lleno
+Formulario de Registro de Prestadores de Servicios Técnicos en Protección Radiológica completamente lleno
 
 2
 Hoja de Vida que incluya por lo menos la siguiente información:

@@ -47,31 +47,22 @@ MIS-03-DC-## V.2
 
 ITEM REQUISITO NS RN MD
 1.
-Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de La Ley
-de Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono
-fijo, teléfono celular y correo electrónico.
+Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono celular y correo electrónico.
 
 2. Carta Poder debidamente autenticada, o Poder en Escritura Pública (debidamente autenticada)
 3.
-Declaración Jurada debidamente autenticada, de No estar Comprendido, en lo preceptuado
-según el Artículo 92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de
-Telecomunicaciones.
+Declaración Jurada debidamente autenticada, de No estar Comprendido, en lo preceptuado según el Artículo 92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones.
 
 4. Denominación o razón social y acreditación de la titularidad del servicio para el que se solicita la asignación, debidamente autenticada.
 5. Forma 100, debe ser llenada y completada con la información del solicitante, y de su apoderado legal, siendo necesario que venga firmada y sellada por este último.
 6.
-Forma 101, debe ser llenada, firmada y sellada por un profesional de la ingeniería, habilitado
-en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se encuentre
-debidamente colegiado por el (CIMEQH).
+Forma 101, debe ser llenada, firmada y sellada por un profesional de la ingeniería, habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se encuentre debidamente colegiado por el (CIMEQH).
 
 7.
-Forma 890, debe ser llenada, firmada y sellada por un profesional de la ingeniería,
-habilitado
-en el ejercicio de su profesión, afín a la especialidad en
-telecomunicaciones que se encuentre debidamente colegiado por el (CIMEQH).
+Forma 890, debe ser llenada, firmada y sellada por un profesional de la ingeniería, habilitado en el ejercicio de su profesión, afín a la especialidad en telecomunicaciones que se encuentre debidamente colegiado por el (CIMEQH).
 
 N*ITEM REQUISITOS PARA CANCELACIONES CI
-1. Solicitud por medio de Apoderado Legal en base a los artículos No.56, 60 y 61de la Ley de Procedimiento Administrativo.
+1. Solicitud por medio de Apoderado Legal en base a los artículos No. 56, 60 y 61de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
 3. Detallar la Cancelación del Código de Numeración Corta.
 NS Nueva Solicitud

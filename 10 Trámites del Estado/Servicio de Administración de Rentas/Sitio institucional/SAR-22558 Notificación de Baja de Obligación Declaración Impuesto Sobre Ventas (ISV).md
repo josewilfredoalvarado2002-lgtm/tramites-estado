@@ -38,36 +38,25 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS NOTIFICACIÓN BAJA DE
-OBLIGACIÓN IMPUESTO SOBRE VENTAS
+REQUISITOS NOTIFICACIÓN BAJA DE OBLIGACIÓN IMPUESTO SOBRE VENTAS
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
-La notificación está orientada para aquellos Obligados Tributarios que cambien de actividad
-económica y no estén obligados a recaudar el Impuesto Sobre Ventas o porque están exentos
-de ISV.
-Este trámite puede realizarlo en línea desde la Oficina Virtual o, si lo prefiere, de manera
-presencial en nuestras oficinas regionales y departamentales.
-A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y
-presencial según el tipo de notificación.
+La notificación está orientada para aquellos Obligados Tributarios que cambien de actividad económica y no estén obligados a recaudar el Impuesto Sobre Ventas o porque están exentos de ISV.
+Este trámite puede realizarlo en línea desde la Oficina Virtual o, si lo prefiere, de manera presencial en nuestras oficinas regionales y departamentales.
+A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y presencial según el tipo de notificación.
 
 REQUISITOS NOTIFICACIÓN DE BAJA DE OBLIGACIÓN
 IMPUESTO SOBRE VENTAS (ISV)
-1. Escrito de Notificación que contenga los requisitos establecidos en el Artículo 61 de la
-Ley de Procedimiento Administrativo, si lo ingresa mediante Oficina Virtual debe ser en
-Formato PDF. Debe contener el período fiscal desde el cual notifica la baja de
-obligación.
+1. Escrito de Notificación que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo, si lo ingresa mediante Oficina Virtual debe ser en Formato PDF. Debe contener el período fiscal desde el cual notifica la baja de obligación.
 2. Fotocopia de los últimos 5 documentos fiscales utilizados.
 3. Formulario de Notificación de Documentos no Utilizados.
 4. Justificante boletín de pago libre por Actos Administrativos (L. 200.00).
 5. Documentación que sustente la Notificación.
-Ejemplo: Contratos de arrendamiento, escritura o contrato compra venta, cambio de
-actividad económica, si aplica.
+Ejemplo: Contratos de arrendamiento, escritura o contrato compra venta, cambio de actividad económica, si aplica.
 
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las
-siguientes facultades:
+Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
+(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firmar.
 

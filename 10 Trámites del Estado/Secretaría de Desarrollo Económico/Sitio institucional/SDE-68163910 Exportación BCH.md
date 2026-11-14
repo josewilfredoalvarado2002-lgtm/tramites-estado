@@ -40,19 +40,14 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 Requisitos Declaración de Exportación:
-i. Original y copia de la Escritura de Constitución y reformas si las hubiese, si la
-exportación es por primera vez.
+i. Original y copia de la Escritura de Constitución y reformas si las hubiese, si la exportación es por primera vez.
 ii. Original copia del RTN de la Empresa.
-iii. Original y copia de la tarjeta de Identidad, RTN numérico, pasaporte (si aplica), y/o
-carnet de residencia (si aplica), del Representante Legal, cónyuge del Representante
-Legal, Gerente General, Encargado de Exportaciones y de todos los Socios de la
-empresa.
+iii. Original y copia de la tarjeta de Identidad, RTN numérico, pasaporte (si aplica), y/o carnet de residencia (si aplica), del Representante Legal, cónyuge del Representante
+Legal, Gerente General, Encargado de Exportaciones y de todos los Socios de la empresa.
 iv. Poder General de Administración.
-v. Llenado o actualización del formulario CUMP-3 que contiene datos de identificación
-del cliente exportador.
+v. Llenado o actualización del formulario CUMP-3 que contiene datos de identificación del cliente exportador.
 vi. Obtener usuario de acceso y contraseña al SECEH.
-vii. Llenado de la Declaración de Exportación en el SECEH. El documento será
-autorizado en línea y el exportador puede imprimir el número de copias necesarias.
+vii. Llenado de la Declaración de Exportación en el SECEH. El documento será autorizado en línea y el exportador puede imprimir el número de copias necesarias.
 
 ## Requisitos (según el documento oficial) — Formatos — Exportación BCH
 
@@ -84,9 +79,7 @@ I. Medios de pago: Giro Bancario 1 Carta de crédito 2 Cobranza 3 Efectivo 4 Otr
 J. Fletes: 1) Empresa Nacional: L. 2) Empresa Extranjera: US $
 K. Seguros: 1) Compañía Nacional 2) Empresa Extranjera US$
 L. Nos comprometemos a vender al agente cambiario:
-las divisas provenientes de está exportación, en un plazo no mayor al establecido en está Declaración y presentar directamente al Departamento Internacional en su oﬁcina en Tegucigalpa o a través
-de las Sucursales, una copia de la Declaración de Ingreso de Divisas certiﬁcada por el agente cambiario comprador, para dar cumplimiento a lo prescrito en el Artículo No.8 de la Ley de Ingreso de
-Divisas Provenientes de las exportaciones (Decreto No.108-90).
+las divisas provenientes de está exportación, en un plazo no mayor al establecido en está Declaración y presentar directamente al Departamento Internacional en su oﬁcina en Tegucigalpa o a través de las Sucursales, una copia de la Declaración de Ingreso de Divisas certiﬁcada por el agente cambiario comprador, para dar cumplimiento a lo prescrito en el Artículo No. 8 de la Ley de Ingreso de Divisas Provenientes de las exportaciones (Decreto No. 108-90).
 Observaciones:
 DETALLE DE LA MERCADERÍA A EXPORTAR
 Unidad Cantidad Peso neto en kilos Descripción Partida arancelaria Valor FOB (Lempiras)
@@ -94,8 +87,7 @@ Valor FOB
 Fletes
 Seguros
 Total C.I.F.
-Las anteriores declaraciones las
-hago bajo fe de juramento
+Las anteriores declaraciones las hago bajo fe de juramento
 Firma del Exportador o del Representante Legal
 El Banco Central de Honduras se reserva el derecho de ejercer veriﬁcaciones posteriores en relación con está Declaración. (Instrucciones al reverso)
 INT-3/3
@@ -121,28 +113,22 @@ INTERESES US $
 (en Moneda Extranjera)
 VALOR TOTAL US $
 (en Moneda Extranjera)
-Los valores de capital e intereses detallados en el cuadro anterior están sujetos a veriﬁcación y los ajustes que se presenten deberán reportarse de inmediato al
-Departamento Internacional del Banco Central de Honduras.
-1. Este formulario se presentará al BANCO CENTRAL DE HONDURAS, en su Oﬁcina Principal o Sucursales, para su
-autorización y a continuación a la Administración de Aduana correspondiente, quien hará la distribución de las copias.
-I N S T R U C C I O N E S
+Los valores de capital e intereses detallados en el cuadro anterior están sujetos a veriﬁcación y los ajustes que se presenten deberán reportarse de inmediato al Departamento Internacional del Banco Central de Honduras.
+1. Este formulario se presentará al BANCO CENTRAL DE HONDURAS, en su Oﬁcina Principal o Sucursales, para su autorización y a continuación a la Administración de Aduana correspondiente, quien hará la distribución de las copias.
+INSTRUCCIONES
 2. Todos los datos del formulario, se anotarán a máquina, sin borrones, alteraciones o enmiendas; además, deberá ﬁrmarse
 3. Los precios declarados en esta exportación, deberán ajustarse a los precios vigentes a la fecha de entrega en los mercados
 4. En el inciso “G” Forma de Pago, numeral “2" Anticipado, deberá anotarse la fecha en la cual se reportaron a los Agentes
 Cambiarios los anticipos recibidos directamente del importador, por las exportaciones a realizar.
 5. En caso que los datos declarados en esta exportación sufrieren alguna modiﬁcación, el Exportador está obligado a presentar
-6. Una vez que esta Declaración de Exportación ha sido autorizada por el Banco Central de Honduras, es muy importante que el
-internacionales; caso contrario, el Banco Central de Honduras se reserva el derecho de autorización.
-Exportaciones (Decreto No.108-90) y los documentos que respalden el ajuste solicitado.
-al Departamento Internacional los ajustes respectivos que estipula la Ley de Ingreso de Divisas Provenientes de las
-Exportador conserve una copia de la misma, para utilizar como referencia el NÚMERO ASIGNADO, especialmente al
-momento de hacer la Declaración de Ingreso de Divisas por concepto de Exportaciones.
+6. Una vez que esta Declaración de Exportación ha sido autorizada por el Banco Central de Honduras, es muy importante que el internacionales; caso contrario, el Banco Central de Honduras se reserva el derecho de autorización.
+Exportaciones (Decreto No. 108-90) y los documentos que respalden el ajuste solicitado.
+al Departamento Internacional los ajustes respectivos que estipula la Ley de Ingreso de Divisas Provenientes de las Exportador conserve una copia de la misma, para utilizar como referencia el NÚMERO ASIGNADO, especialmente al momento de hacer la Declaración de Ingreso de Divisas por concepto de Exportaciones.
 PARA USO DE LA ADMINISTRACIÓN DE ADUANAS
 Fecha de embarque:
 Cantidad Partida Arancelaria No. Póliza Aduanal Valor FOB FIRMAS Vista Revisor
 Observaciones:
-Lugar y fecha (f) Administrador de Aduanas
-con tinta y sellarse con el sello de la empresa o del Representante Legal.
+Lugar y fecha (f) Administrador de Aduanas con tinta y sellarse con el sello de la empresa o del Representante Legal.
 
 ## Otro texto del documento
 

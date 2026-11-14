@@ -69,8 +69,7 @@ PRO-GA-23
 
 Des
 
-GOBIERNO DE LA
-REPÚBLICA DE HONDURAS
+GOBIERNO DE LA REPÚBLICA DE HONDURAS
 
 * Ak Ak A e
 
@@ -160,8 +159,7 @@ Gerencia
 
 Administrativa
 
-Gerencia 26 de julio de
-Administrativa 2019
+Gerencia 26 de julio de Administrativa 2019
 Area de Trabajo Fecha
 Gerencia 28 de julio
 Administrativa 2019
@@ -172,8 +170,7 @@ SECRETARÍA DE FINANZAS
 
 GERENCIA ADMINISTRATIVA po,
 
-estao DE La
-A AENAAESCiN
+estao DE La A AENAAESCiN
 
 USO-GAD-SEFIN
 
@@ -218,8 +215,7 @@ TABLA DE CONTENIDO
 1.4 Definición de Nomenclaturas, Términos y SiglaS ......oocooonornoronnnnnnnnonnennnnos 6
 1.5 Responsable del Proceso ...oooccccccnnoncnncnenonnnnononononcnnnnonenennnnnnnnnnennnnnnnnns 6
 1.6 Puestos que interviene en el PrOCBSO ....occooocccnnonncnneneconcnennnnncnnnenacanananns 6
-1.7. Insumos del PrOCeSO.....oococcoccccccnronenononnonnonrnnnannnrnnrenananennnnranarnnnenennenes E
-1.8 Producto o Resultado del Proceso ......coocomcocoocnornornnrensonannranccnannrnnnansanaos 7
+1.7. Insumos del PrOCeSO.....oococcoccccccnronenononnonnonrnnnannnrnnrenananennnnranarnnnenennenes E 1.8 Producto o Resultado del Proceso ......coocomcocoocnornornnrensonannranccnannrnnnansanaos 7
 1.9 Diagrama de FlUJO ...cooooocononcnnnnenennnnnannnnnnnnnononnnnnnnennnnnnnnnernnncnnnnennnrannos 8
 1.10 Procedimientos Detallados ..........oococoooorocccnnnncnnencnananonenencnannnnacnaccnnnnons 10
 1.11 Gestión del RiesgO .....coooocccnnornnnoncnnoncnennncncnnanonnnarannnnenennonnnnennonntccnonoa 17
@@ -243,8 +239,7 @@ Realizar los pagos por conceptos de Devolución de Impuestos.
 
 1.2.1 Plan Estratégico Secretaría de Finanzas
 
-Objetivo 5: Mejorar la supervisión, el control y el análisis de la ejecución
-financiera de los fondos públicos para que las autoridades realicen los ajustes
+Objetivo 5: Mejorar la supervisión, el control y el análisis de la ejecución financiera de los fondos públicos para que las autoridades realicen los ajustes
 
 oportunos
 
@@ -260,8 +255,7 @@ de la Secretaría.
 
 1.3 Alcance
 
-Este procedimiento permite registrar el documento de gasto para el pago de las
-Devoluciones de Impuestos a los Contribuyentes, con base en las Resoluciones emitidas
+Este procedimiento permite registrar el documento de gasto para el pago de las Devoluciones de Impuestos a los Contribuyentes, con base en las Resoluciones emitidas
 
 por el Servicio de Administración de Rentas (SAR).
 ** k k*
@@ -334,8 +328,7 @@ Pago de Devoluciones de Impuesto.
 
 GERENCIA ADMINISTRATIVA sa
 SECRETAR! INANZAS he Ñ
-USO-GAD-SEFIN PRO-GA-23 PAGO DE DEVOLUCIONES DE
-ERGIÓN FECHA DE VERSIÓN: an
+USO-GAD-SEFIN PRO-GA-23 PAGO DE DEVOLUCIONES DE ERGIÓN FECHA DE VERSIÓN: an
 VERSIÓN LO 1JULO/2019 PÁGINA 8 DE 20
 
 1.9 Diagrama de Flujo

@@ -47,11 +47,9 @@ Requisitos para Constancia de No Requerir de licenciamiento ambiental
 
 2.Carta Poder, debidamente autenticada.
 
-3.Título de Propiedad debidamente timbrado y registrado | Contrato de
-arrendamiento (del lugar donde se desarrollará el proyecto).
+3.Título de Propiedad debidamente timbrado y registrado | Contrato de arrendamiento (del lugar donde se desarrollará el proyecto).
 
-4.Recibo T.G.R. 1 por la cantidad: 200 L. En la casilla 412121, Emisión de
-Constancias, Certificaciones y Otros.
+4.Recibo T.G.R. 1 por la cantidad: 200 L. En la casilla 412121, Emisión de Constancias, Certificaciones y Otros.
 
 5. Memoria técnica del proyecto:
 

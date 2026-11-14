@@ -39,31 +39,19 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 Requisitos
-1.Solicitud firmada por el Gerente General o Presidente de Junta Directiva, con timbre
-cooperativo.
-2. Descripción del nombre de la Fundación, la cooperativa a la que pertenece, su
-representante legal, con sus generales y el Asiento de la inscripción en el Registro
-correspondiente, según Articulo No. 221 del Reglamento de la Ley de Cooperativas de
-Honduras.
-3.Certificación de punto de Acta de Junta Directiva donde se aprueba presentar a
-CONSUCOOP la constitución de fundación de la cooperativa
-4.Presentar la Original y copia de la Personalidad Jurídica de la Constitución de la
-Fundación que le otorga la Secretaria de Gobernación y Justicia. (para cotejar la
-original con su copia).
-5.Constancia de solvencia de la cooperativa, otorgada por su Organismo de Integración,
-según acuerdo del Acta No. 378/2025 de Junta Directiva del CONSUCOOP y Articulo
-No. 7, literal h) de la Ley de Cooperativas de Honduras y el Articulo No. 10, literal m)
-de su Reglamento.
-6.Debe pagar en CONSUCOOP L150.00 por la Inscripción y timbres de L50.00 por
-cada documento adjunto y uno para la inscripción o pueden realizar deposito en
-cuenta de Banco Cuscatlán No. 11-105-0000276 a nombre de CONSUCOOP.
+1.Solicitud firmada por el Gerente General o Presidente de Junta Directiva, con timbre cooperativo.
+2. Descripción del nombre de la Fundación, la cooperativa a la que pertenece, su representante legal, con sus generales y el Asiento de la inscripción en el Registro correspondiente, según Articulo No. 221 del Reglamento de la Ley de Cooperativas de Honduras.
+3.Certificación de punto de Acta de Junta Directiva donde se aprueba presentar a CONSUCOOP la constitución de fundación de la cooperativa
+4.Presentar la Original y copia de la Personalidad Jurídica de la Constitución de la Fundación que le otorga la Secretaria de Gobernación y Justicia. (para cotejar la original con su copia).
+5.Constancia de solvencia de la cooperativa, otorgada por su Organismo de Integración, según acuerdo del Acta No. 378/2025 de Junta Directiva del CONSUCOOP y Articulo
+No. 7, literal h) de la Ley de Cooperativas de Honduras y el Articulo No. 10, literal m) de su Reglamento.
+6.Debe pagar en CONSUCOOP L150.00 por la Inscripción y timbres de L50.00 por cada documento adjunto y uno para la inscripción o pueden realizar deposito en cuenta de Banco Cuscatlán No. 11-105-0000276 a nombre de CONSUCOOP.
 
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
 INSCRIPCIÓN DE FUNDACIONES
-Cualquier consulta o duda pueden abocarse al correo electrónico registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al
-WhatsApp 31622364.
+Cualquier consulta o duda pueden abocarse al correo electrónico registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp 31622364.
 
 ## Documentos
 

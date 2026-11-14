@@ -45,44 +45,24 @@ SOLIDARIA/ IMPUESTO SOBRE VENTAS NETO
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
-REQUISITOS DE DEVOLUCIÓN O NOTA DE CRÉDITO IMPUESTO SOBRE LA
-RENTA Y APORTACIÓN SOLIDARIA/ IMPUESTO SOBRE VENTAS NETO
+REQUISITOS DE DEVOLUCIÓN O NOTA DE CRÉDITO IMPUESTO SOBRE LA RENTA Y APORTACIÓN SOLIDARIA/ IMPUESTO SOBRE VENTAS NETO
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los
-requisitos establecidos en el Artículo 61 de la
-Ley de Procedimiento Administrativo
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo
 (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Estados Financieros debidamente firmados,
-sellados y timbrados del período que
-comprende la petición (Formato PDF)
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
-Estados Financieros del período que
-comprende la petición (Excel)
-Libro Mayor y Auxiliar de la Cuenta donde
-registran el crédito fiscal (Esta información
-proporcionarla en Formato Excel con
-protección contra modificación sin restricción
-de edición)
-Balanza de Comprobación Mensual del
-período solicitado (Excel)
-Libro diario del período que comprende la
-petición (Excel)
-Libro Mayor y Auxiliar de Ventas mensuales y
-exportaciones correspondiente a los meses
-solicitados en la petición (Excel)
+Carta poder o poder especial, debidamente autenticado
+Estados Financieros debidamente firmados, sellados y timbrados del período que comprende la petición (Formato PDF)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Estados Financieros del período que comprende la petición (Excel)
+Libro Mayor y Auxiliar de la Cuenta donde registran el crédito fiscal (Esta información proporcionarla en Formato Excel con protección contra modificación sin restricción de edición)
+Balanza de Comprobación Mensual del período solicitado (Excel)
+Libro diario del período que comprende la petición (Excel)
+Libro Mayor y Auxiliar de Ventas mensuales y exportaciones correspondiente a los meses solicitados en la petición (Excel)
 Libro Auxiliar de Compras (Excel)
-Detalle mensual de las devoluciones y
-descuentos sobre ventas (Excel)
-Detalle de Retenciones y sus respectivos
-comprobantes Fiscales (Excel)
+Detalle mensual de las devoluciones y descuentos sobre ventas (Excel)
+Detalle de Retenciones y sus respectivos comprobantes Fiscales (Excel)
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
 
 ## Documentos
 

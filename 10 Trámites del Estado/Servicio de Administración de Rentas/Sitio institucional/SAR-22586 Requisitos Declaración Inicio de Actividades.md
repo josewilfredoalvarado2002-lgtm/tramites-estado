@@ -38,26 +38,18 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DECLARACIÓN DE
-INICIO DE ACTIVIDADES
+REQUISITOS DECLARACIÓN DE INICIO DE ACTIVIDADES
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
 REQUISITOS DECLARACIÓN DE INICIO DE ACTIVIDADES
-1. Documento Nacional de Identificación, Pasaporte o Carné de Residencia vigente
-del Representante Legal Para Persona Jurídica.
-2. Documento Nacional de Identificación para hondureños, Pasaporte o Carné de
-Residencia vigente para extranjeros (original).
+1. Documento Nacional de Identificación, Pasaporte o Carné de Residencia vigente del Representante Legal Para Persona Jurídica.
+2. Documento Nacional de Identificación para hondureños, Pasaporte o Carné de Residencia vigente para extranjeros (original).
 
-Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se
-debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de
-Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros,
-indicando si posee las siguientes facultades:
+Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firmar.
-Nota 2: En caso de que la información registrada en el RTN no se encuentre actualizada,
-se le solicitara los requisitos de inscripción para subsanar cualquier información
-pendiente o desactualizada.
+Nota 2: En caso de que la información registrada en el RTN no se encuentre actualizada, se le solicitara los requisitos de inscripción para subsanar cualquier información pendiente o desactualizada.
 
 ## Documentos
 

@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-DOCUMENTOS NECESARIOS PARA OTORGAR LA
-LICENCIA DE TRIPULANTE DE CABINA:
+DOCUMENTOS NECESARIOS PARA OTORGAR LA LICENCIA DE TRIPULANTE DE CABINA:
 
 1. Llenar la Forma PEL-FORM-007
 2. Edad 18 años.
@@ -49,33 +48,26 @@ LICENCIA DE TRIPULANTE DE CABINA:
 1. Tripulante de Cabina aprobado por la AHAC.
 6. Debe haber aprobado la prueba teórica en los últimos 12 meses precedentes.
 7. Debe haber aprobado el examen práctico en los últimos 12 meses precedentes.
-Este inciso aplicará a cualquier persona que solicite la licencia de Tripulante de
-Cabina a partir del 1 de diciembre de 2006. La prueba práctica se realizará con un
-Inspector o Examinador Designado por la AHAC.
+Este inciso aplicará a cualquier persona que solicite la licencia de Tripulante de Cabina a partir del 1 de diciembre de 2006. La prueba práctica se realizará con un Inspector o Examinador Designado por la AHAC.
 8. Demostrar dominio del idioma inglés (oral y escrito) a nivel medio como Mínimo.
 9. Demostrar experiencia previa de acuerdo a lo requerido por la RAC LPTA 225 (b).
 10. Dos fotografías tamaño carne.
 11. Certificación médica clase 2. Vigente.
 12. Recibo de pago por otorgamiento de licencia de tripulante de cabina.
 
-DOCUMENTOS NECESARIOS PARA RENOVACIÓN DE
-LICENCIA DE TRIPULANTE DE CABINA:
+DOCUMENTOS NECESARIOS PARA RENOVACIÓN DE LICENCIA DE TRIPULANTE DE CABINA:
 
 1. Llenar Forma PEL-FORM-008.
 2. Deberá demostrar que se mantiene ejerciendo las atribuciones de su Licencia.
 3. Certificación médica clase 2 vigente.
 4. Recibo de pago por renovación de licencia de Tripulante de Cabina.
-5. Constancia de ultimo recurrente o prueba de proeficiencia si la persona labora para
-una Empresa de Transporte Aéreo Comercial Hondureña.
+5. Constancia de ultimo recurrente o prueba de proeficiencia si la persona labora para una Empresa de Transporte Aéreo Comercial Hondureña.
 6. Debe cumplir con los requisitos de experiencia reciente establecidos en RAC LPTA
 225 (g).
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deberá presentar el original y la copia de
-todos los documentos solicitados. Los originales serán devueltos al solicitante una
-vez consta datos por el responsable de licencias. Las formas PEL-FORM-007 Y
-PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
+Presentada la información el solicitante deberá presentar el original y la copia de todos los documentos solicitados. Los originales serán devueltos al solicitante una vez consta datos por el responsable de licencias. Las formas PEL-FORM-007 Y PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
 
 ## Otro texto del documento
 

@@ -46,32 +46,21 @@ Departamento de Gestión Tributaria
 REQUISITOS DE REGISTRO DE ACTIVIDADES
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Estados financieros (EXCEL) Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
-Estados financieros originales firmados, sellados y
-timbrados (Formato PDF)
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Estados financieros (EXCEL) Cualquier otra información que el OT considere necesaria para sustentar su petición
+Estados financieros originales firmados, sellados y timbrados (Formato PDF)
 Comprobante de actualización de Datos
-Libro diario de ventas y compras (EXCEL) Constancia de AHDIPPE (En caso de
-actividades de combustible)
-Detalle de catálogo de Productos (EXCEL) Certificado de operación y permiso de
-explotación emitido por el Instituto
+Libro diario de ventas y compras (EXCEL) Constancia de AHDIPPE (En caso de actividades de combustible)
+Detalle de catálogo de Productos (EXCEL) Certificado de operación y permiso de explotación emitido por el Instituto
 Hondureño de Transporte Terrestre (IHTT)
 (Transporte terrestre)
-Balanza de comprobación que contenga los Ítem
-saldo inicial, debito, crédito y saldo final (EXCEL)
+Balanza de comprobación que contenga los Ítem saldo inicial, debito, crédito y saldo final (EXCEL)
 Certificado de Autorización para empresas
 Navieras emitido por la Marina Mercante
 (Transporte Marítimo)
-Mayor de las cuentas de Ingresos (EXCEL) Escritura de Constitución y sus
-modificaciones
-Mayor de las cuentas de Inventario (EXCEL) Certificado de explotación emitido por la
-Agencia Hondureña de Aeronáutica Civil
+Mayor de las cuentas de Ingresos (EXCEL) Escritura de Constitución y sus modificaciones
+Mayor de las cuentas de Inventario (EXCEL) Certificado de explotación emitido por la Agencia Hondureña de Aeronáutica Civil
 (Transporte Aéreo)
 Comprobante de boletín de pago L200.00 (Impuesto:
 156 - Actos administrativos, concepto: 1 Propio

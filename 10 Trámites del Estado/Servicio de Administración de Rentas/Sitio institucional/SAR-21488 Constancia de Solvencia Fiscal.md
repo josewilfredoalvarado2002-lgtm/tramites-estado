@@ -39,10 +39,7 @@ estado_sitio: "Vigente"
 ## Para qué se hace (según el documento)
 
 Descripción del Trámite
-La Constancia de Solvencia Fiscal es un documento emitido al obligado tributario que
-demuestra el cumplimiento de sus obligaciones formales y materiales ante la
-Administración Tributaria. Este documento tiene una vigencia de 90 días para personas
-naturales y de 30 días para personas jurídicas.
+La Constancia de Solvencia Fiscal es un documento emitido al obligado tributario que demuestra el cumplimiento de sus obligaciones formales y materiales ante la Administración Tributaria. Este documento tiene una vigencia de 90 días para personas naturales y de 30 días para personas jurídicas.
 
 ## Requisitos (según el documento oficial)
 
@@ -66,8 +63,7 @@ Pasos para Generar la Constancia en Línea:
 Constancia".
 4. Elige la opción "Constancia de Solvencia Fiscal".
 5. Seleccione el Boletín de Pago disponible.
-Al cumplir con los requisitos mínimos del sistema, podrá generar y descargar su
-constancia inmediatamente.
+Al cumplir con los requisitos mínimos del sistema, podrá generar y descargar su constancia inmediatamente.
 
 ## Documentos
 

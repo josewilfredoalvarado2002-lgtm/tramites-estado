@@ -53,41 +53,29 @@ Descripción de la actividad principal a la que se dedica.
 7 Presentar toda la documentación de forma digital, previo al ingreso en físico debe presentarse mediante el correo electrónico ventanillaunica@sen.hn;
 8
 (En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019).
-Presentar Recibo TGR con su comprobante de pago en CONCEPTO DE INSPECCIÓN de Solicitud de
-Dictamen Técnico en los Expedientes para Exoneración, remitidos por la Dirección General de Control de
-Franquicias Aduaneras de la Secretaría de Finanzas de la siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en CONCEPTO DE INSPECCIÓN de Solicitud de Dictamen Técnico en los Expedientes para Exoneración, remitidos por la Dirección General de Control de Franquicias Aduaneras de la Secretaría de Finanzas de la siguiente forma:
 Institución: 310 - Secretaría de Energía. Rubro: 12199 – Tasas Varias.
 Monto de acuerdo con la Ubicación física del establecimiento:
 Francisco Morazán 12,000.00
 Islas de la Bahía y la Mosquitia L 32,000.00 El resto del País L 22,000.00
-En los casos que la inspección de campo requiera más de dos días, por cada día adicional por cada
-inspector, se requerirá el pago en base al Reglamento de Viáticos y otros Gastos de Viaje para Empleados
-y Funcionarios del Poder Ejecutivo.
+En los casos que la inspección de campo requiera más de dos días, por cada día adicional por cada inspector, se requerirá el pago en base al Reglamento de Viáticos y otros Gastos de Viaje para Empleados y Funcionarios del Poder Ejecutivo.
 
 Energía en dicho tiempo, caso contrario será requerido nuevamente.
 9 Cualquier otro requisito solicitado por la SEN. (Estos serán solicitados en cualquier etapa del proceso con la finalidad de aclarar o corroborar la información presentada).
 10
-Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada,
-según el orden de este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada
-requisito.
+Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden de este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada requisito.
 En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas
-(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una
-de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello
-estampado del notario.
+(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello estampado del notario.
 TIPO DE CONSTANCIA:
-1- “Constancia de Estatus de Expediente” en base al Reglamento de Organización, Funcionamiento y Competencia
-del Poder Ejecutivo artículo 27 numeral 2. Con vigencia de 30 días calendario.
+1- “Constancia de Estatus de Expediente” en base al Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo artículo 27 numeral 2. Con vigencia de 30 días calendario.
 No. Requisitos:
 
 1
 Escrito de solicitud:
-Suma: Se solicita “Constancia de Estatus de Expediente” de Solicitud de Constancia de Inafectabilidad de
-Tierras de Productores de Biocombustibles a favor de la Sociedad o Comerciante Individual (XXX).
-Órgano al que se dirige: Secretaría de Estado en el Despacho de Energía. Dirección General de
-Hidrocarburos y Biocombustibles.
+Suma: Se solicita “Constancia de Estatus de Expediente” de Solicitud de Constancia de Inafectabilidad de Tierras de Productores de Biocombustibles a favor de la Sociedad o Comerciante Individual (XXX).
+Órgano al que se dirige: Secretaría de Estado en el Despacho de Energía. Dirección General de Hidrocarburos y Biocombustibles.
 
-Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Constancia de Estatus de
-Expediente, de la siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Constancia de Estatus de Expediente, de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros. Monto: L 200.00
 
@@ -100,8 +88,7 @@ General de Control de Franquicias Aduaneras de la Secretaría de Finanzas.
 No. Requisitos: Decreto No. 144-2007 publicado en el Diario Oficial La Gaceta el 31 de diciembre del año 2007
 1 Expediente remitido por la Dirección General de Control de Franquicias Aduaneras.
 
-Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo.
+Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo.
 
 ## Documentos
 

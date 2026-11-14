@@ -41,31 +41,23 @@ estado_sitio: "Vigente"
 DOCUMENTOS NECESARIOS PARA OTORGAR Y RENOVAR
 LA CONVALIDACION DE LICENCIA
 
-1. Solicitud dirigida a la Agencia Hondureña de Aeronáutica Civil, con sus datos
-personales y generales en formulario (PEL-FORM-022) Solicitud de
-Convalidación.
-2. Nota por parte del Solicitante, especificando el tipo de aeronave va a volar y para
-que fines solicita la convalidación de licencia.
+1. Solicitud dirigida a la Agencia Hondureña de Aeronáutica Civil, con sus datos personales y generales en formulario (PEL-FORM-022) Solicitud de Convalidación.
+2. Nota por parte del Solicitante, especificando el tipo de aeronave va a volar y para que fines solicita la convalidación de licencia.
 3. Evaluación Médica expedida por un Médico Examinador Designado de la AHAC.
 4. Fotocopia y Original de Licencia Extranjera Vigente.
 5. Fotocopia y Original de certificación Médica Extranjera Vigente.
 6. Fotocopia y Original de Pasaporte Vigente.
 7. Una Fotografías reciente tamaño carnet.
-8. Fotocopia del Libro de vuelo últimas tres (3) páginas, y la pagina donde refleja
-el ultimo recurrente realizado. (Cheque de Verificación de Competencia).
+8. Fotocopia del Libro de vuelo últimas tres (3) páginas, y la pagina donde refleja el ultimo recurrente realizado. (Cheque de Verificación de Competencia).
 (Presentar el Libro de Vuelo Original).
 9. Constancia de haber cancelado el derecho para la convalidación $36.
-10. Fotocopia y Original de Diploma de certificado de Entrenamiento del último
-recurrente para Piloto y Mecánico (Si Aplica).
+10. Fotocopia y Original de Diploma de certificado de Entrenamiento del último recurrente para Piloto y Mecánico (Si Aplica).
 11. Curriculum Vitae
 12. Todas las fotocopias deben de presentarse autenticadas por notario.
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deberá presentar el original y la copia de
-todos los documentos solicitados. Los originales serán devueltos al solicitante una
-vez constatados por el responsable de licencias. La forma PEL-FORM-020 puede
-solicitarla en la AHAC o en la página Web: www.ahac.gob.hn.
+Presentada la información el solicitante deberá presentar el original y la copia de todos los documentos solicitados. Los originales serán devueltos al solicitante una vez constatados por el responsable de licencias. La forma PEL-FORM-020 puede solicitarla en la AHAC o en la página Web: www.ahac.gob.hn.
 
 ## Otro texto del documento
 

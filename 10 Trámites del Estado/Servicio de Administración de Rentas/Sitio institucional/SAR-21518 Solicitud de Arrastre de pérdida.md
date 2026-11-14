@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS SOLICITUD DE ARRASTRE DE
-PÉRDIDA
+REQUISITOS SOLICITUD DE ARRASTRE DE PÉRDIDA
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
@@ -47,37 +46,25 @@ Departamento de Gestión Tributaria
 REQUISITOS SOLICITUD DE ARRASTRE DE PÉRDIDA
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los
-requisitos establecidos en el Artículo 61 de la
-Ley de Procedimiento Administrativo
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo
 (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Balanza de Comprobación mensual que
-comprenda el período de la petición (EXCEL)
-Cualquier otra información que el OT considere
-necesaria para sustentar su petición
-Kardex de inventario materia prima y
-productos terminados (EXCEL)
-Mayor de propiedades al cierre del período
-de la perdida (EXCEL)
+Carta poder o poder especial, debidamente autenticado
+Balanza de Comprobación mensual que comprenda el período de la petición (EXCEL)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Kardex de inventario materia prima y productos terminados (EXCEL)
+Mayor de propiedades al cierre del período de la perdida (EXCEL)
 Describir el ciclo de producción. (Formato
 PDF)
 Planilla de sueldos y salarios (EXCEL)
-Escritura de constitución y sus
-modificaciones
-Estados financieros firmados, sellados y
-timbrados al cierre del período solicitado
+Escritura de constitución y sus modificaciones
+Estados financieros firmados, sellados y timbrados al cierre del período solicitado
 (Formato PDF)
 Estados financieros de los últimos dos años
 (EXCEL)
-Libro diario que comprenda el período donde
-se produjo la pérdida de operación (EXCEL)
-Libro mayor de propiedad planta y equipo al
-cierre de los períodos de la solicitud (EXCEL)
+Libro diario que comprenda el período donde se produjo la pérdida de operación (EXCEL)
+Libro mayor de propiedad planta y equipo al cierre de los períodos de la solicitud (EXCEL)
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
 
 ## Documentos
 

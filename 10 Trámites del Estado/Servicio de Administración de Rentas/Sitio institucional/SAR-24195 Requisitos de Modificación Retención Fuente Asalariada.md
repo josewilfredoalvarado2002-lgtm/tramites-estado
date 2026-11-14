@@ -42,35 +42,26 @@ REQUISITOS MODIFICACIÓN DE RETENCIÓN FUENTE ASALARIADA Dirección Nacional de 
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS MODIFICACIÓN DE
-RETENCIÓN FUENTE ASALARIADA
+REQUISITOS MODIFICACIÓN DE RETENCIÓN FUENTE ASALARIADA
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
 MODIFICACIÓN DE RETENCIÓN FUENTE ASALARIADA
-La modificación de la retención en la fuente para asalariados consiste en ajustar el número de
-mensualidades en las que se aplica la retención correspondiente al empleado pudiendo ser esta
+La modificación de la retención en la fuente para asalariados consiste en ajustar el número de mensualidades en las que se aplica la retención correspondiente al empleado pudiendo ser esta
 10 u 11 o volver a retener en 12 meses.
-Esta solicitud puede ser realizada a través de la Oficina Virtual y las ventanillas de la
-Coordinación de Recepción y Notificación.
+Esta solicitud puede ser realizada a través de la Oficina Virtual y las ventanillas de la Coordinación de Recepción y Notificación.
 
-1. Escrito de Notificación que contenga los requisitos establecidos en el Artículo 61 de
-la Ley de Procedimiento Administrativo, si lo ingresa mediante Oficina Virtual debe ser
-en Formato PDF.
+1. Escrito de Notificación que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo, si lo ingresa mediante Oficina Virtual debe ser en Formato PDF.
 
-Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o Carné de Residente vigente para extranjeros, indicando si
-posee las siguientes facultades:
+Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
+(DNI) para hondureños, Pasaporte o Carné de Residente vigente para extranjeros, indicando si posee las siguientes facultades:
 
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firmar.
 
-Nota 2: El obligado tributario deberá consignar en el escrito los meses a los que corresponde el
-cambio del período de retención.
+Nota 2: El obligado tributario deberá consignar en el escrito los meses a los que corresponde el cambio del período de retención.
 
-Nota 3: Para presentarlo de forma virtual, se requiere ingresar a la oficina virtual de forma
-identificada (RTN y Contraseña Tributaria). Puede utilizar el siguiente enlace:
+Nota 3: Para presentarlo de forma virtual, se requiere ingresar a la oficina virtual de forma identificada (RTN y Contraseña Tributaria). Puede utilizar el siguiente enlace:
 
 ## Documentos
 

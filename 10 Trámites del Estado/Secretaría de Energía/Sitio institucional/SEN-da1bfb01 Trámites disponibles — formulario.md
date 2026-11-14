@@ -68,74 +68,37 @@ Documentos Presentados
 
 Documento Presentado SI NO Observación
 1
-Copia Autenticada
-de Tarjeta de
-Identidad
+Copia Autenticada de Tarjeta de Identidad
 
 2 RTN de la Empresa Solicitante
 3
-Informe detallado
-sobre estudios
-realizados que
-determinan la
-capacidad de
-producción
-comercial.
+Informe detallado sobre estudios realizados que determinan la capacidad de producción comercial.
 
 4
-Documentación que
-acredite y explique
-el Primer Plan de
-Desarrollo.
+Documentación que acredite y explique el Primer Plan de Desarrollo.
 
 5
-Inscripción en el
-Registro Mercantil
+Inscripción en el Registro Mercantil
 
 6
-Copia Autenticada
-de la escritura
-social y sus
-estatutos
+Copia Autenticada de la escritura social y sus estatutos
 
 7
-Nombre,
-constitución y los
-respectivos
-instrumentos
-públicos de poder
-del mandatario.
-(Nacionalidad
-hondureña)
+Nombre, constitución y los respectivos instrumentos públicos de poder del mandatario.
+(Nacionalidad hondureña)
 
 8
-Mapa específico del
-área a explotar, con
-coordenadas
-georreferenciadas
-WGS de los pozos a
-instalar. (Escala
+Mapa específico del área a explotar, con coordenadas georreferenciadas
+WGS de los pozos a instalar. (Escala
 1:250,000)
 
 9
-Documentaciòn que
-acredite el
-cumplimiento de las
-obligaciones
-contractuales a la
-fecha.
+Documentaciòn que acredite el cumplimiento de las obligaciones contractuales a la fecha.
 
 10
-Licencia Ambiental
-o constancia de su
-estado emitida por
-la Autoridad
-correspondiente.
+Licencia Ambiental o constancia de su estado emitida por la Autoridad correspondiente.
 
-La Dirección General de Exploración y Explotación de Hidrocarburos, después de
-realizado el Análisis Legal y Técnico correspondiente, podrá solicitar que la
-información y documentación proporcionada sea modificada o ampliada, a efecto de
-cumplir con las disposiciones contenidas en la Ley de Hidrocarburos y su Reglamento.
+La Dirección General de Exploración y Explotación de Hidrocarburos, después de realizado el Análisis Legal y Técnico correspondiente, podrá solicitar que la información y documentación proporcionada sea modificada o ampliada, a efecto de cumplir con las disposiciones contenidas en la Ley de Hidrocarburos y su Reglamento.
 
 ## Documentos
 

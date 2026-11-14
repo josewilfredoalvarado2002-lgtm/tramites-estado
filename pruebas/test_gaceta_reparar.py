@@ -44,6 +44,21 @@ class Reparar(unittest.TestCase):
         self.assertEqual(R.linea("dice  esto , y aquello ;"), "dice esto, y aquello;")
         self.assertEqual(R.linea("Decreto No.83- 2004 a las 10 : 30"), "Decreto No. 83-2004 a las 10 : 30")
 
+    def test_documento_renglon_por_renglon(self):
+        voc = {"solicitud": 5}
+        t = ("Acuerdo publicado en fecha 30 de\nagosto de 2022), y su\nReforma.\nArtículo No. 7\n"
+             "Francisco Morazán 12,000.00\nIslas de la Bahía L 32,000.00\n1. Escrito de solici-\ntud firmado\n2. Copia")
+        self.assertEqual(R.documento(t, voc), "Acuerdo publicado en fecha 30 de agosto de 2022), y su Reforma.\n"
+                         "Artículo No. 7\nFrancisco Morazán 12,000.00\nIslas de la Bahía L 32,000.00\n"
+                         "1. Escrito de solicitud firmado\n2. Copia")
+
+    def test_tramite_solo_toca_secciones_del_documento(self):
+        nota = ("## Requisitos\n\nTexto del sitio que sigue\nen otra línea\n\n"
+                "## Requisitos (según el documento oficial)\n\nTexto del PDF que sigue\nen otra línea\n<!-- portal:fin -->")
+        r = R.reparar_tramite(nota, frozenset())
+        self.assertIn("Texto del sitio que sigue\nen otra línea", r)
+        self.assertIn("Texto del PDF que sigue en otra línea\n<!-- portal:fin -->", r)
+
     def test_nota_completa_actualiza_huella_y_es_idempotente(self):
         nota = ('---\ntipo: "norma"\ntitulo: "Según el sumario de La Gaceta: FINANZASAcuerdo 5"\nhuella: "x"\n---\n'
                 '<!-- portal:inicio -->\n# Según el sumario de La Gaceta: FINANZASAcuerdo 5\n\n## Texto\n\n'

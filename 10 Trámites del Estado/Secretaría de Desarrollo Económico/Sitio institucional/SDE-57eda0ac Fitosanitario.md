@@ -89,13 +89,8 @@ THE MINISTRY OF AGRICULTURE, FOOD AND LIVESTOCK, THE NATIONAL SERVICE OF AGRICUL
 ## Requisitos (según el documento oficial)
 
 Requisitos Certificados Fitosanitario de Exportación:
-i. Llenado de solicitud de Certificado Fitosanitario en el Sistema Electrónico
-de Comercio Exterior de Honduras (SECEH)
-ii. Adjuntar timbre del Colegio de Ingenieros Agrónomos por un valor de
-Lps.25.00 (mismo que venden en Banco de Occidente, S.A. y BANADESA)
-iii. Adjuntar fotocopia de factura comercial.
-iv. Realizar pago en cualquier Institución Bancaria Nacional de acuerdo con el
-peso del producto a exportar aplicando la siguiente tabla:
+i. Llenado de solicitud de Certificado Fitosanitario en el Sistema Electrónico de Comercio Exterior de Honduras (SECEH) ii. Adjuntar timbre del Colegio de Ingenieros Agrónomos por un valor de Lps.25.00 (mismo que venden en Banco de Occidente, S.A. y BANADESA) iii. Adjuntar fotocopia de factura comercial.
+iv. Realizar pago en cualquier Institución Bancaria Nacional de acuerdo con el peso del producto a exportar aplicando la siguiente tabla:
 
 Tarifa
 Hasta 25,000 kilos; L.450.00

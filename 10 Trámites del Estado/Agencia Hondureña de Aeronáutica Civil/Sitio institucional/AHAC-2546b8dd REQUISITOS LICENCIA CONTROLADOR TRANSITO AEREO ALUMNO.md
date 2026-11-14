@@ -38,34 +38,26 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-DOCUMENTOS NECESARIOS PARA OTORGAMIENTO DE
-LICENCIAS DECONTROLADOR DE TRÁNSITO AÉREO - ALUMNO
+DOCUMENTOS NECESARIOS PARA OTORGAMIENTO DE LICENCIAS DECONTROLADOR DE TRÁNSITO AÉREO - ALUMNO
 
 1. Llenar Forma PEL-FORM-007
 2. Edad mínima 21 años.
 3. Copia de Tarjeta de identidad.
 4. Constancia de haber aprobado la educación media.
-5. Demostrar que se encuentra inscrito en un curso de Controlador de Tránsito Aéreo
-en una escuela aprobada por la AHAC.
+5. Demostrar que se encuentra inscrito en un curso de Controlador de Tránsito Aéreo en una escuela aprobada por la AHAC.
 6. Dos fotografías tamaño carne recientes.
 7. Recibo de pago por otorgamiento de la licencia.
-8. La AHAC no permitirá que un controlador de tránsito aéreo alumno reciba
-instrucción en un entorno operacional, a menos que sea titular de una evaluación
-médica de Clase 3 vigente.
+8. La AHAC no permitirá que un controlador de tránsito aéreo alumno reciba instrucción en un entorno operacional, a menos que sea titular de una evaluación médica de Clase 3 vigente.
 
-DOCUMENTO NECESARIOS PARA RENOVACIÓN DE
-LICENCIAS DE CONTROLADOR - ALUMNO
+DOCUMENTO NECESARIOS PARA RENOVACIÓN DE LICENCIAS DE CONTROLADOR - ALUMNO
 
 1. Llenar la Forma PEL-FORM-008.
-2. Certificación Médica Clase 3 vigente, si la persona está recibiendo instrucción en un
-entorno operacional.
+2. Certificación Médica Clase 3 vigente, si la persona está recibiendo instrucción en un entorno operacional.
 3. Recibo de pago por renovación por renovación de licencia.
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deb erá presentar el original y la copia de
-todos los documentos solicitados. Los orig inales serán devueltos al solicitante una
-vez constatados por el responsable de licencias. Las formas PEL-FORM-007 y PEL-
+Presentada la información el solicitante deb erá presentar el original y la copia de todos los documentos solicitados. Los orig inales serán devueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL-FORM-007 y PEL-
 FORM-008 puede solicitarlas en la AHAC o en la página Web: www.ahac.gob.hn.
 
 ## Otro texto del documento

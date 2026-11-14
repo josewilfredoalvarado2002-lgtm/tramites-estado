@@ -43,12 +43,9 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 1. Obtener usuario y contraseña de acceso al SECEH.
-2. Compra de saldo a través del Sistema Administrador de Pagos Electrónicos de
-Honduras. Para esto, el exportador debe presentarse a cualquiera de las oficinas de
-Banco Atlántida, S.A. a nivel nacional con su RTN para la compra de saldo.
+2. Compra de saldo a través del Sistema Administrador de Pagos Electrónicos de Honduras. Para esto, el exportador debe presentarse a cualquiera de las oficinas de Banco Atlántida, S.A. a nivel nacional con su RTN para la compra de saldo.
 3. Llenado del Formulario Aduanero Único Centroamericano (FAUCA) en el SECEH.
-4. Adjuntar fotocopia de la factura comercial, carta de porte, manifiesto de carga y
-Certificados Fito y/o Zoosanitarios de exportación si es requerido.
+4. Adjuntar fotocopia de la factura comercial, carta de porte, manifiesto de carga y Certificados Fito y/o Zoosanitarios de exportación si es requerido.
 
 ## Otro texto del documento
 
@@ -65,8 +62,7 @@ CENTROAMERICANO (FAUCA)
 PU OOARELLEY DE OMA. LA ON Ev, TELA: 2271-2000, 3:4800_ CMI I1I) " IIS * 104060
 
 FORMULARIO ADUANERO UNICO CENTRO AMERICANO — fosa no. TOTAL
-Serie
-ano 032442
+Serie ano 032442
 (1. Exportador (nombre, dirección, país) 2. Identificación Tributaria Exp. 3, No, de factura 4, Registro No.
 5. Código del Exportador 6. Licencia No.
 7. Consignatario/Importador/internador 8. Identificación Tributaria 9, Tipo de Exportación
@@ -93,8 +89,7 @@ Origen: 34, Seguros $C.A.
 
 37. Firma, Fecha y Sello del Funcionario Autorizado
 
-de la Dirección General de Aduarras o de la Aduana
-de Salida :
+de la Dirección General de Aduarras o de la Aduana de Salida:
 
 39. Lugar y Fecha de Emisión
 
@@ -106,8 +101,7 @@ Total a Pagar
 
 originarias de
 
-42. El suscrito declara que las mercancías arriba detalladas son
-y que los valores,
+42. El suscrito declara que las mercancías arriba detalladas son y que los valores,
 
 formulario son verdaderos.
 Nombre:
@@ -129,8 +123,7 @@ Cargo:
 
 43. El suscrito certifica que las mercancías arriba detalladas son
 
-y que los valores,
-gastos de transporte, seguro y demás datos consignados en este
+y que los valores, gastos de transporte, seguro y demás datos consignados en este
 
 Firma Productor
 

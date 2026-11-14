@@ -50,19 +50,13 @@ CONVENIO SATELITAL
 
 ITEM REQUISITO NS RN M
 1.
-Solicitud por medio de Apoderado Legal en base a los artículos 56, 60 y 61 de la Ley de
-Procedimiento Administrativo, que deberá contener domicilio, datos generales, teléfono fijo, teléfono
-celular y correo electrónico.
+Solicitud por medio de Apoderado Legal en base a los artículos 56, 60 y 61 de la Ley de Procedimiento Administrativo, que deberá contener domicilio, datos generales, teléfono fijo, teléfono celular y correo electrónico.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública (debidamente autenticada).
 3. Acreditar pago del aviso de Trámite según Resolución Normativa de Tasas y Canon Vigente.
 4.
-Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el
-Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de 10 (diez)
-días hábiles desde su emisión.
+Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión.
 5.
-Presentar Constancia de que está Solvente Documentalmente ante CONATEL, emitida por la
-Dirección de Planificación y Desarrollo (DIPLADE), cuya vigencia aceptada será de 10 (diez) días
-hábiles desde su emisión
+Presentar Constancia de que está Solvente Documentalmente ante CONATEL, emitida por la Dirección de Planificación y Desarrollo (DIPLADE), cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión
 6. Forma 100, debe ser llenada y completada con la información del solicitante y de su apoderado legal siendo necesario que venga firmada y sellada por este último.
 7. Informe Técnico que indique: la flota satelital que tiene huella en Honduras, informando todo lo relacionado como ser: nombre del satélite, frecuencias de operación, posición orbital, etc.
 ITEM REQUISITO PARA CANCELACION CT
@@ -70,11 +64,7 @@ ITEM REQUISITO PARA CANCELACION CT
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
 3. Acreditar pago del aviso de Trámite según Resolución Normativa de Tasas y Canon Vigente.
 4.
-Presentar Constancia de que está Solvente Económica y Documentalmente emitida por el
-Departamento de Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo,
-respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión (este caso
-no excluye que este insolvente porque al final con la Resolución de Cancelación se emite el cobro total
-conforme la NR017/99).
+Presentar Constancia de que está Solvente Económica y Documentalmente emitida por el Departamento de Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo, respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión (este caso no excluye que este insolvente porque al final con la Resolución de Cancelación se emite el cobro total conforme la NR017/99).
 * El Oficial de Atención al Ciudadano debe observar los comentarios electrónicos del Ítem 7
 NS Nueva Solicitud
 RN Renovación

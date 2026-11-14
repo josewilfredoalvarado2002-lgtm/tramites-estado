@@ -38,34 +38,24 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE AUTORIZACIÓN DEL
-TRASLADO DE EQUIPO DE FÁBRICA DE
-ALCOHOLES Y LICORES licores
+REQUISITOS DE AUTORIZACIÓN DEL TRASLADO DE EQUIPO DE FÁBRICA DE ALCOHOLES Y LICORES licores
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
-REQUISITOS DE AUTORIZACIÓN DEL TRASLADO DE EQUIPO DE
-FÁBRICA DE ALCOHOLES Y LICORES
+REQUISITOS DE AUTORIZACIÓN DEL TRASLADO DE EQUIPO DE FÁBRICA DE ALCOHOLES Y LICORES
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Contrato de arrendamiento. (Formato PDF) Cualquier otra información que el OT considere
-necesaria para sustentar su petición
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Contrato de arrendamiento. (Formato PDF) Cualquier otra información que el OT considere necesaria para sustentar su petición
 Plano del nuevo establecimiento y fotografías.
 (Formato PDF)
-Describir el espacio que tendrá el delegado del SAR,
-asimismo como el equipo de cómputo.
+Describir el espacio que tendrá el delegado del SAR, asimismo como el equipo de cómputo.
 Escritura de Constitución y sus modificaciones
 Fotografías del Establecimiento y del inventario.
 (Formato PDF)
-Listado de Inventario de Equipos, Materiales y
-Suministros de Destilería donde detalle número de
-factura (EXCEL)
+Listado de Inventario de Equipos, Materiales y Suministros de Destilería donde detalle número de factura (EXCEL)
 Listado de Inventario de Producción en Proceso
 (EXCEL)
 Comprobante de boletín de pago L200.00 (Impuesto:

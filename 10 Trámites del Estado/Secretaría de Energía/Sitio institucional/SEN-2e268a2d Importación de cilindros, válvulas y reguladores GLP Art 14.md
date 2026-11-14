@@ -67,22 +67,18 @@ Adjuntar fotografía de la Válvula y/o Regulador a importar, tamaño 15 x 9 cm 
 15 Los productos a importar deben cumplir con las normas establecidas en el Reglamento aprobado mediante Acuerdo No. 100-2017 publicado en el Diario Oficial La Gaceta el 27 de octubre de 2017.
 16
 Cumplir con las normas de fabricación contenidas en el Reglamento Técnico Centroamericano RTCA
-23.01.29:05 y las normas establecidas en el PCM-062-2017 publicado en el Diario Oficial la Gaceta el 29 de
-septiembre del 2017 y sus reformas y reglamento aprobado mediante acuerdo No.100 2017 publicado en
-Diario Oficial La Gaceta el 27 de octubre del 2017.
+23.01.29:05 y las normas establecidas en el PCM-062-2017 publicado en el Diario Oficial la Gaceta el 29 de septiembre del 2017 y sus reformas y reglamento aprobado mediante acuerdo No. 100 2017 publicado en Diario Oficial La Gaceta el 27 de octubre del 2017.
 17 Presentar toda la documentación de forma digital, previo al ingreso en físico debe presentarse mediante el correo electrónico ventanillaunica@sen.hn;
 18
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en concepto de Permiso Especial de Importación de
-Cilindros para Contener Gas Licuado del Petróleo, Válvulas y Reguladores de Cilindros para Contener Gas
+Presentar Recibo TGR con su comprobante de pago en concepto de Permiso Especial de Importación de Cilindros para Contener Gas Licuado del Petróleo, Válvulas y Reguladores de Cilindros para Contener Gas
 Licuado del Petróleo de la siguiente forma:
 
 Rubro: 12209 – Otras Licencias.
 Monto: L 30,000.00
 19 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
 
-Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución,
-de la siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la siguiente forma:
 
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
 Monto: L 200.00
@@ -90,19 +86,12 @@ Monto: L 200.00
 21 Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden de este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada requisito.
 
 En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas
-(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada
-una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y
-sello estampado del notario.
+(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello estampado del notario.
 
 ## Otro texto del documento
 
-Permiso Especial
-de Importación de Cilindros para Contener Gas Licuado del Petróleo, Válvulas y Reguladores de Cilindros para
-Contener Gas Licuado del Petróleo.
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
-Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
-agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de
-agosto 2025).
+Permiso Especial de Importación de Cilindros para Contener Gas Licuado del Petróleo, Válvulas y Reguladores de Cilindros para Contener Gas Licuado del Petróleo.
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto 2025).
 Artículo No. 14
 
 ## Documentos

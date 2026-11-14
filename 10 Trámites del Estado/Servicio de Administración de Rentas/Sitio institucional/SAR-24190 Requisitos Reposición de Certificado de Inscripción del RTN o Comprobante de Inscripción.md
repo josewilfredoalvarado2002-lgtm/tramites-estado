@@ -45,16 +45,13 @@ Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
 Estos requisitos aplican para personas naturales, comerciantes individuales y personas juridicas.
-Puede realizarse de forma virtual a traves de la Oficina Virtual o de manera presencial en
-nuestras oficinas de Asistencia al Cumplimiento a nivel nacional.
-A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y presencial
-según la modalidad que prefiera.
+Puede realizarse de forma virtual a traves de la Oficina Virtual o de manera presencial en nuestras oficinas de Asistencia al Cumplimiento a nivel nacional.
+A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y presencial según la modalidad que prefiera.
 
 REQUISITOS REPOSICIÓN DE CERTIFICADO DE INSCRIPCIÓN DEL RTN O
 
 ➢ VIRTUAL
-Permite reimprimir el certificado de RTN en formato PDF a través de la Oficina Virtual del SAR
-sin costo y sin necesidad de acudir presencialmente a una oficina.
+Permite reimprimir el certificado de RTN en formato PDF a través de la Oficina Virtual del SAR sin costo y sin necesidad de acudir presencialmente a una oficina.
 
 ## Procedimiento (según el documento)
 
@@ -67,19 +64,14 @@ descargarlo, guardarlo o imprimirlo.
 
 ➢ PRESENCIAL
 Acudir a una oficina de atención al Obligado Tributario con los requisitos siguientes:
-1. Documento Nacional de Identificación para hondureños o Pasaporte o Carné de
-Residente vigente para extranjeros (original).
+1. Documento Nacional de Identificación para hondureños o Pasaporte o Carné de Residente vigente para extranjeros (original).
 2. Justificante boletín de pago libre por Actos Administrativos (L. 200.00).
 
-Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o Carné de Residente vigente para extranjeros, indicando si
-posee las siguientes facultades:
+Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
+(DNI) para hondureños, Pasaporte o Carné de Residente vigente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firmar.
-Nota 2: En caso de que la Información registrada en el RTN no se encuentre actualizada, se le
-solicitara los requisitos de Inscripción para subsanar cualquier información pendiente o
-desactualizada.
+Nota 2: En caso de que la Información registrada en el RTN no se encuentre actualizada, se le solicitara los requisitos de Inscripción para subsanar cualquier información pendiente o desactualizada.
 
 ## Documentos
 

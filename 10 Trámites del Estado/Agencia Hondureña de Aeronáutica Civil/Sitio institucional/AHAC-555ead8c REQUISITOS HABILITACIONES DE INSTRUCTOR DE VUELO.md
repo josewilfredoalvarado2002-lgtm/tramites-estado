@@ -38,44 +38,29 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-DOCUMENTOS NECESARIOS PARA OTORGAMIENTO DE HABILITACION DE
-INSTRUCTOR DE VUELO DE LAS CATEGORIAS - AVION, HELICÓPTERO Y
-AERONAVES DE DESPEGUE VERTICAL.
+DOCUMENTOS NECESARIOS PARA OTORGAMIENTO DE HABILITACION DE INSTRUCTOR DE VUELO DE LAS CATEGORIAS - AVION, HELICÓPTERO Y AERONAVES DE DESPEGUE VERTICAL.
 
 1. Llenar la Forma PEL-FORM-006
 2. Edad mínima 18 años.
-3. Estar en posesión de una licencia de piloto comercial o de transporte de línea aérea,
-con las habilitaciones estampadas en misma, de las pretende dar instrucción.
+3. Estar en posesión de una licencia de piloto comercial o de transporte de línea aérea, con las habilitaciones estampadas en misma, de las pretende dar instrucción.
 4. Fotocopia de cédula de vecindad.
 5. Debe haber aprobado la prueba teórica en los últimos 12 meses precedentes.
-6. Debe haber aprobado la prueba práctica con un Inspector o Examinador Designado
-por la AHAC.
-7. El libro de record de horas con la experiencia detalladas y requerida como lo indica
-la RAC LPTA 175, (a), (3).
-8. El solicitante habrá satisfecho los requisitos de experiencia prescritos para la
-licencia de piloto comercial que se para cada categoría de aeronave, según
-corresponda.
-9. Otra experiencia adicional que la AHAC estime conveniente de acuerdo al tipo de
-aeronave en la que se impartirá la instrucción.
+6. Debe haber aprobado la prueba práctica con un Inspector o Examinador Designado por la AHAC.
+7. El libro de record de horas con la experiencia detalladas y requerida como lo indica la RAC LPTA 175, (a), (3).
+8. El solicitante habrá satisfecho los requisitos de experiencia prescritos para la licencia de piloto comercial que se para cada categoría de aeronave, según corresponda.
+9. Otra experiencia adicional que la AHAC estime conveniente de acuerdo al tipo de aeronave en la que se impartirá la instrucción.
 10. Recibo de pago por otorgamiento de habilitación.
 
-DOCUMENTOS NECESARIOS PARA RENOVACION DE HABILITACION DE
-INSTRUCTOR DE VUELO DE LAS CATEGORIAS - AVION, HELICÓPTERO Y
-AERONAVES DE DESPEGUE VERTICAL.
+DOCUMENTOS NECESARIOS PARA RENOVACION DE HABILITACION DE INSTRUCTOR DE VUELO DE LAS CATEGORIAS - AVION, HELICÓPTERO Y AERONAVES DE DESPEGUE VERTICAL.
 
 1. Llenar la forma PEL-FORM-008, especificando la licencia a renovar.
 2. Licencia Piloto Comercial o ATP Vigente.
-3. Recibo de pago por renovación de certificado de validez, ya que dicha habilitación
-será renovada con la licencia de piloto.
-4. Libro de record de horas de vuelo totalizado, debe haber cumplido con los requisitos
-de experiencia reciente según RAC LPTA 175, (b), (4).
+3. Recibo de pago por renovación de certificado de validez, ya que dicha habilitación será renovada con la licencia de piloto.
+4. Libro de record de horas de vuelo totalizado, debe haber cumplido con los requisitos de experiencia reciente según RAC LPTA 175, (b), (4).
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deb erá presentar el original y la copia de
-todos los documentos solicitados. Los or iginales serán devueltos al solicitante una
-vez constatados por el responsable de licencias. Las formas PEL -FORM-006 Y
-PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
+Presentada la información el solicitante deb erá presentar el original y la copia de todos los documentos solicitados. Los or iginales serán devueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL -FORM-006 Y PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
 
 ## Otro texto del documento
 

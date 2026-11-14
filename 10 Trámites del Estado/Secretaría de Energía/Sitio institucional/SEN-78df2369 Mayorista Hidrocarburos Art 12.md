@@ -38,12 +38,9 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-Permiso de Operación y Comercialización bajo la Figura de
-Mayorista de Hidrocarburos.
+Permiso de Operación y Comercialización bajo la Figura de Mayorista de Hidrocarburos.
 
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su Reforma
-mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de agosto de 2022), y
-Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto 2025).
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto 2025).
 Artículo No. 12
 1. Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
 Administrativo.
@@ -53,21 +50,16 @@ Administrativo.
 5. Poder del apoderado legal.
 6. Carné vigente del apoderado legal emitido por el Colegio de Abogados de Honduras.
 7. Permiso de Operación Vigente emitido por la alcaldía municipal del lugar donde se encuentra el establecimiento.
-8. Documento emitido por el Heroico y Benemérito Cuerpo de Bomberos de Honduras que apruebe el plan de
-contingencias del establecimiento.
-9. Cuadro explicativo por tubería, manguera y tanque de la capacidad de almacenamiento (nominal y operativa), producto
-almacenado.
+8. Documento emitido por el Heroico y Benemérito Cuerpo de Bomberos de Honduras que apruebe el plan de contingencias del establecimiento.
+9. Cuadro explicativo por tubería, manguera y tanque de la capacidad de almacenamiento (nominal y operativa), producto almacenado.
 10. Régimen de propiedad o arrendamiento del establecimiento (incluir contrato de arrendamiento en su caso).
 11. Régimen de propiedad o arrendamiento de los tanques (incluir contrato de arrendamiento en su caso).
 12. Volumen estimado a comercializar anualmente por producto.
 13. Carta de intención de suministro emitida por el proveedor de Hidrocarburos, debidamente inscrito ante esta
 Secretaría, del establecimiento solicitado.
 14. Aquellos requisitos solicitados para el permiso de instalación que no conste en el expediente.
-15. Presentar toda la documentación de forma digital, previo al ingreso en físico debe presentarse mediante el correo
-electrónico ventanillaunica@sen.hn;
-16. En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019. Presentar Recibo TGR
-con su comprobante de pago en CONCEPTO DE INSPECCIÓN para el Permiso de Operación y Comercialización del
-Establecimiento bajo la Figura de Mayorista de Hidrocarburos, de la siguiente forma:
+15. Presentar toda la documentación de forma digital, previo al ingreso en físico debe presentarse mediante el correo electrónico ventanillaunica@sen.hn;
+16. En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019. Presentar Recibo TGR con su comprobante de pago en CONCEPTO DE INSPECCIÓN para el Permiso de Operación y Comercialización del Establecimiento bajo la Figura de Mayorista de Hidrocarburos, de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12199 – Tasas Varias.
 
@@ -77,25 +69,19 @@ Monto de acuerdo con la Ubicación física del establecimiento:
 Francisco Morazán L12,000.00
 Islas de la Bahía y la Mosquitia L32,000.00
 El resto del País L22,000.00
-17. En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019. Presentar Recibo TGR
-con su comprobante de pago en concepto de Permiso de Operación y Comercialización bajo la Figura de Mayorista de
-Hidrocarburos de la siguiente forma:
+17. En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019. Presentar Recibo TGR con su comprobante de pago en concepto de Permiso de Operación y Comercialización bajo la Figura de Mayorista de Hidrocarburos de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12209 – Otras Licencias.
 
 Monto: L25,000.00
-18. En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019. Presentar Recibo TGR
-con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la siguiente forma:
+18. En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019. Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
 
 Monto: L200.00
 19. Cualquier otro requisito solicitado por la SEN.
-20. Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden de
-este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada requisito.
-En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas (documentos
-originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una de las fotocopias que
-consten en el certificado de autenticidad deben presentarse con la media firma y sello estampado del notario.
+20. Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden de este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada requisito.
+En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas (documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello estampado del notario.
 
 ## Documentos
 

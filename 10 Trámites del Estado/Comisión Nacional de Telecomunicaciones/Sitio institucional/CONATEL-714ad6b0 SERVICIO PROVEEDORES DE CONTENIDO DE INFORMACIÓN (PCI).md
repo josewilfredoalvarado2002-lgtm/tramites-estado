@@ -51,9 +51,7 @@ ITEM REQUISITO NS RN MD AM
 5. Nombre de la persona responsable o punto de contacto, incluyendo su número de teléfono, dirección completa y dirección de correo electrónico.
 6. Medios que utilizarán para la comercialización de contenidos: sitio WEB, mensajería de texto, mensajería multimedia, correo electrónico, redes sociales, etc.
 7.
-Indicar con cuáles Proveedores de Acceso a Contenido de Información (PAC) autorizados
-por CONATEL, establecerá acuerdos para que se les transporten sus señales de contenidos
-de información.
+Indicar con cuáles Proveedores de Acceso a Contenido de Información (PAC) autorizados por CONATEL, establecerá acuerdos para que se les transporten sus señales de contenidos de información.
 8. Lista de los servicios a comercializar
 9. Pago de TGR-1 de SEFIN (Secretaría de Finanzas) por un valor de L. 200.00 a nombre de la Empresa NR001/18
 NS Nueva Solicitud

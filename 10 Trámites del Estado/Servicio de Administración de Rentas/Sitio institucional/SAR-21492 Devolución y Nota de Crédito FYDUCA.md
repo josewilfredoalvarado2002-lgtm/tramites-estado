@@ -38,37 +38,27 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DEVOLUCIÓN O NOTA DE
-CRÉDITO DE FYDUCA
+REQUISITOS DEVOLUCIÓN O NOTA DE CRÉDITO DE FYDUCA
 NETO Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
-REQUISITOS DEVOLUCIÓN O NOTA DE CRÉDITO DE
-FYDUCA
+REQUISITOS DEVOLUCIÓN O NOTA DE CRÉDITO DE FYDUCA
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los
-requisitos establecidos en el Artículo 61 de
-la Ley de Procedimiento Administrativo
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo
 (Formato PDF)
-Carta poder o poder especial,
-debidamente autenticado
-Libro Mayor y Auxiliar de la Cuenta donde
-registran el crédito fiscal (EXCEL)
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
+Carta poder o poder especial, debidamente autenticado
+Libro Mayor y Auxiliar de la Cuenta donde registran el crédito fiscal (EXCEL)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
 Boletín de pago de la Factura y Declaración
 Única Centroamericana (FYDUCA)
 Factura y Declaración Única
-Centroamericana (FYDUCA), por la que
-solicita devolución.
+Centroamericana (FYDUCA), por la que solicita devolución.
 Rescisión total de la Factura y Declaración
 Única Centroamericana (FYDUCA)
 
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
 
 ## Documentos
 

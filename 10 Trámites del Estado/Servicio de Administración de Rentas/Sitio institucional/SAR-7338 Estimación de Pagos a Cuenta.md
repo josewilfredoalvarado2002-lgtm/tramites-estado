@@ -39,10 +39,7 @@ estado_sitio: "Vigente"
 ## Para qué se hace (según el documento)
 
 DESCRIPCIÓN DEL TRÁMITE
-Los Obligados Tributarios pueden solicitar la estimación de las cuotas de Pagos a Cuenta, si
-en el período fiscal inmediato anterior no causó impuesto o, recién inició operaciones, las tres
-cuotas se manifestarán en forma estimada de conformidad con los posibles ingresos que el
-OT pudiere percibir en el presente período fiscal.
+Los Obligados Tributarios pueden solicitar la estimación de las cuotas de Pagos a Cuenta, si en el período fiscal inmediato anterior no causó impuesto o, recién inició operaciones, las tres cuotas se manifestarán en forma estimada de conformidad con los posibles ingresos que el OT pudiere percibir en el presente período fiscal.
 
 ## Requisitos (según el documento oficial)
 
@@ -60,9 +57,7 @@ Móvil y Correo Electrónico)
 
 b) Recibo Oficial de Pago con el Código de Impuesto 156 y Código de Concepto de Pago
 1 por valor de L 200.00, período fiscal (mes y año de ingreso de la solicitud).
-c) Si la petición es por medio de Apoderado o Representante Legal, debe adjuntar la
-respectiva acreditación de poder autenticado. En caso de presentar copia del
-instrumento el mismo deberá ser cotejado con el original.
+c) Si la petición es por medio de Apoderado o Representante Legal, debe adjuntar la respectiva acreditación de poder autenticado. En caso de presentar copia del instrumento el mismo deberá ser cotejado con el original.
 
 DOCUMENTOS
 
@@ -91,29 +86,22 @@ SEÑOR (A)
 MINISTRO (A) DIRECTOR (A)
 SERVICIO DE ADMINISTRACION DE RENTAS (SAR)
 
-YO: _________________________________________________________, HONDUREÑO,
-MAYOR DE EDAD, CON NUMERO DE IDENTIDAD ___________________ PROFESIÓN U
-OFICIO__________________________, DEL DOMICILIO DE ____________________, CON
-R.T.N. Nº ____________________; DIRECCION COMPLETA
+YO: _________________________________________________________, HONDUREÑO, MAYOR DE EDAD, CON NUMERO DE IDENTIDAD ___________________ PROFESIÓN U OFICIO__________________________, DEL DOMICILIO DE ____________________, CON R.T.N. Nº ____________________; DIRECCION COMPLETA
 ________________________________________________________________ TELEFONO No:
 ________________ TELEFONO MOVIL No. __________________ CORREO ELECTRONICO
 ______________________, COMPAREZCO ANTE USTED SEÑOR(A) MINISTRO (A) DIRECTOR
 (A), ACTUANDO EN MI CONDICION DE ____________________________ (SI ES PERSONA
 JURÍDICA ESPECIFICAR EL NOMBRE DE LA EMPRESA
 __________________________________________________ Y EL RTN
-_________________________), PARA SOLICITAR “ESTIMACION DE PAGOS A CUENTA”, DEL
-PERÍODO _____________, POR LAS RAZONES Y HECHOS SIGUIENTES:
+_________________________), PARA SOLICITAR “ESTIMACION DE PAGOS A CUENTA”, DEL PERÍODO _____________, POR LAS RAZONES Y HECHOS SIGUIENTES:
 __________________________________________________________________________________
 __________________________________________________________________________________
 ______________________________________________
 
-DETALLAR ADEMAS DEL VALOR DE LA ESTIMACIÓN, LOS NÚMEROS DE RECIBOS CON
-LOS CUALES SE HAN REALIZADOS LOS PAGOS DE LAS CUOTAS DE PAGOS A CUENTA
+DETALLAR ADEMAS DEL VALOR DE LA ESTIMACIÓN, LOS NÚMEROS DE RECIBOS CON LOS CUALES SE HAN REALIZADOS LOS PAGOS DE LAS CUOTAS DE PAGOS A CUENTA
 VENCIDAS (SI APLICA)
 
-AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL
-PRESENTE ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y
-RESOLVER DE CONFORMIDAD:
+AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL PRESENTE ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y RESOLVER DE CONFORMIDAD:
 
 LUGAR Y FECHA: ___________________________________________________________
 

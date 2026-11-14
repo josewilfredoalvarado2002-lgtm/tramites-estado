@@ -52,62 +52,36 @@ REQUISITOS
 
 ITEM REQUISITO NS RN MD
 1.
-Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de La Ley de
-Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo,
-celular y correo electrónico.
+Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, celular y correo electrónico.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante.
 3. Carta Poder debidamente autenticada, o Poder en Escritura Pública (debidamente autenticada)
 
-Declaración Jurada de No estar Comprendido, en lo preceptuado según el artículo 92 inciso
-del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente
-autenticada).
+Declaración Jurada de No estar Comprendido, en lo preceptuado según el artículo 92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente autenticada).
 5. RTN y Documentos de Identidad del Operador (Persona Natural o Jurídica) debidamente autenticada
 6.
-Declaración de Comerciante Individual o Escritura de Constitución de Sociedad debidamente
-registrada y actualizada sobre la composición de las sociedades o integración de las Juntas
+Declaración de Comerciante Individual o Escritura de Constitución de Sociedad debidamente registrada y actualizada sobre la composición de las sociedades o integración de las Juntas
 Directivas. (autenticada o fotocopia integra para su cotejo)
 7. Acreditar pago del aviso de Trámite según Resolución Normativa de Tasas y Canon Vigente.
 8.
-Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el
-Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de
-10 (diez) días hábiles desde su emisión.
+Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión.
 9. Presentar Constancia de Solvencia Documentalmente CONATEL, emitida por la Dirección de Planificación y Desarrollo. (Informes Estadísticos) NR010/15 y NR015/16
 10. Forma 100, debe ser llenada y completada con la información del solicitante, y de su apoderado legal, siendo necesario que venga firmada y sellada por este último.
 11.
-Forma 101 debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería,
-habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones y que
-se encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos, Eléctricos,
-Químicos de Honduras (CIMEQH).
+Forma 101 debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería, habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones y que se encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos, Eléctricos, Químicos de Honduras (CIMEQH).
 
 12.
-Forma 850 debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería,
-habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones y que
-se encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos, Eléctricos,
-Químicos de Honduras (CIMEQH). En caso de renovaciones presentar esta forma cuando
-exista modificaciones.
+Forma 850 debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería, habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones y que se encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos, Eléctricos, Químicos de Honduras (CIMEQH). En caso de renovaciones presentar esta forma cuando exista modificaciones.
 ☒ ☒
 13.
-Forma 300, debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería,
-habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se
-encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos, Eléctricos,
-Químicos de Honduras (CIMEQH).
+Forma 300, debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería, habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos, Eléctricos, Químicos de Honduras (CIMEQH).
 
 14.
-Forma 500, debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería,
-habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se
-encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos, Eléctricos,
-Químicos de Honduras (CIMEQH).
+Forma 500, debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería, habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos, Eléctricos, Químicos de Honduras (CIMEQH).
 
 15.
-Forma 900 o 920 la Memoria Económico-Financiera, cuyo responsable de timbrarla, llenarla,
-firmarla y sellarla, debe pertenecer a un Colegio Profesional de Honduras afín al área
-económica financiera, indicando entre otros, monto del capital de la inversión inicial, en su
-valor monetario ya sea Lempiras, en dólares o en ambos tipos de monedas. En caso de
-utilizar dólares, se deberá indicar la Tasa de Cambio vigente.
+Forma 900 o 920 la Memoria Económico-Financiera, cuyo responsable de timbrarla, llenarla, firmarla y sellarla, debe pertenecer a un Colegio Profesional de Honduras afín al área económica financiera, indicando entre otros, monto del capital de la inversión inicial, en su valor monetario ya sea Lempiras, en dólares o en ambos tipos de monedas. En caso de utilizar dólares, se deberá indicar la Tasa de Cambio vigente.
 16.
-Constancia Bancaria emitida por una Institución Financiera debidamente autorizada por la
-Comisión Nacional de Bancos y Seguros (CNBS), que acredite el monto de la inversión inicial
-indicada en la memoria económica financiera
+Constancia Bancaria emitida por una Institución Financiera debidamente autorizada por la Comisión Nacional de Bancos y Seguros (CNBS), que acredite el monto de la inversión inicial indicada en la memoria económica financiera
 17. Contrato Tipo a Suscribir con el Cliente.
 
 REQUISITOS
@@ -115,27 +89,18 @@ REQUISITOS
 *Requisitos y formatos en la página Web de CONATEL:
 
 ITEM REQUISITO PARA CANCELACIONES CPL CTL CP
-1. Solicitud por medio de Apoderado Legal en base a los artículos No.56, 60 y 61 de la Ley de Procedimiento Administrativo.
+1. Solicitud por medio de Apoderado Legal en base a los artículos No. 56, 60 y 61 de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
 3.
 Acreditar pago de aviso por:
 Cancelación Parcial en Licencia: según Resolución Normativa de Tasas y Canon Vigente.
 Cancelación Total de Licencia: según Resolución Normativa de Tasas y Canon Vigente.
-Cancelación de Permiso: según Resolución Normativa de Tasas y Canon Vigente (la cancelación
-del permiso lleva implícito la cancelación total de la licencia,)
+Cancelación de Permiso: según Resolución Normativa de Tasas y Canon Vigente (la cancelación del permiso lleva implícito la cancelación total de la licencia,)
 
-Presentar Constancias de que está Solvente Económica y documentalmente (esta última cuando el
-operador tenga autorizado un servicio de carácter público), emitidas por el Departamento
-de Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo,
-respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión. Excepto
-en los casos en los cuales el operador adeuda el canon radioeléctrico del año en curso.
-En el c aso que la cancelación se a autorizad a por CONATEL, se realizar á el cobr o total de las
-obligaciones económicas correspondientes, conforme a lo establecido en la Resolución NR017/99.
+Presentar Constancias de que está Solvente Económica y documentalmente (esta última cuando el operador tenga autorizado un servicio de carácter público), emitidas por el Departamento de Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo, respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión. Excepto en los casos en los cuales el operador adeuda el canon radioeléctrico del año en curso.
+En el c aso que la cancelación se a autorizad a por CONATEL, se realizar á el cobr o total de las obligaciones económicas correspondientes, conforme a lo establecido en la Resolución NR017/99.
 5.
-Para la cancelación de cualquier sistema del Servicio Transmisión y Conmutación de Datos, es
-necesario detallar en la Solicitud lo que se desea cancelar, especificando ya sea si es el Permiso que le
-fue autorizado, o la totalidad de las Licencias, o si se trata de una cancelación parcial. Lo anterior para
-evitar que se le cancelen Licencias no solicitadas.
+Para la cancelación de cualquier sistema del Servicio Transmisión y Conmutación de Datos, es necesario detallar en la Solicitud lo que se desea cancelar, especificando ya sea si es el Permiso que le fue autorizado, o la totalidad de las Licencias, o si se trata de una cancelación parcial. Lo anterior para evitar que se le cancelen Licencias no solicitadas.
 NS Nueva Solicitud
 RN Renovación
 MD Modificación

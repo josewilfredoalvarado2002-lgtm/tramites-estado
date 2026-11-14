@@ -38,33 +38,24 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE SOLICITUD DE
-CONSTANCIA DE INICIO DE OPERACIONES
-Y CONSTANCIA DE INSCRIPCIÓN EN EL
-RTN
+REQUISITOS DE SOLICITUD DE CONSTANCIA DE INICIO DE OPERACIONES
+Y CONSTANCIA DE INSCRIPCIÓN EN EL RTN
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
-REQUISITOS DE SOLICITUD CONSTANCIA DE INICIO DE OPERACIONES Y
-CONSTANCIA DE INSCRIPCIÓN EN EL RTN
-Estas constancias pueden ser generada en línea desde la Oficina Virtual o, si lo prefiere,
-de manera presencial.
-A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y
-presencial según el tipo de constancia.
+REQUISITOS DE SOLICITUD CONSTANCIA DE INICIO DE OPERACIONES Y CONSTANCIA DE INSCRIPCIÓN EN EL RTN
+Estas constancias pueden ser generada en línea desde la Oficina Virtual o, si lo prefiere, de manera presencial.
+A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y presencial según el tipo de constancia.
 1. Justificante boletín de pago libre por Actos Administrativos (L. 200.00).
 
-Nota: En caso de ser solicitado de forma presencial , por un representante procesal o
-apoderado legal, se debe acompañar poder o carta poder debidamente autenticado,
-Documento Nacional de Identificación (DNI) para hondureños, Pasaporte o carné de
-residente vigente para extranjeros, indicando si posee las siguientes facultades:
+Nota: En caso de ser solicitado de forma presencial, por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación (DNI) para hondureños, Pasaporte o carné de residente vigente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firma.
 
 ## Dónde se presenta (según el documento)
 
 OFICINA VIRTUAL
-Para generar la constancia de inscripción de Inicio de Operaciones o Constancia de
-Inscripción en el RTN, debe realizar los siguientes pasos desde la Oficina Virtual:
+Para generar la constancia de inscripción de Inicio de Operaciones o Constancia de Inscripción en el RTN, debe realizar los siguientes pasos desde la Oficina Virtual:
 Ingrese a: https://oficinavirtual.sar.gob.hn/
 - Identifíquese con su RTN y contraseña.
 - Acceda al “Menú”, seleccione “Solicitudes de Constancias y Certificados”.

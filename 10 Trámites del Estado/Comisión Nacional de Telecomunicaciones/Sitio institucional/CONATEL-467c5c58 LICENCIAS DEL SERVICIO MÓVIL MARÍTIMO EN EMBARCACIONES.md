@@ -49,20 +49,11 @@ ITEM REQUISITO NS RN CA MD
 2. Carta poder debidamente autenticada del solicitante.
 3.
 Constancia original con firma y sello del contrato de servicios, extendida por una Autoridad
-Encargada de la Contabilidad debidamente Registrada en Honduras, con los siguientes
-datos como mínimo: nombre de barco, nombre de los propietarios, registro marítimo
-vigente de la Marina Mercante de Honduras y fechas de validez del contrato con la
-Autoridad Encargada de la Contabilidad. En su defecto, deberá presentar el contrato de
-servicio realizado directamente con INMARSAT.
-Nota: Este requisito solo aplica para Embarcaciones que utilizan equipos terminales de
-INMARSAT en el marco del convenio SOLAS; en caso de que la embarcación no requiera
-contar con estos equipos terminales, deberá presentar notificación por escrito.
+Encargada de la Contabilidad debidamente Registrada en Honduras, con los siguientes datos como mínimo: nombre de barco, nombre de los propietarios, registro marítimo vigente de la Marina Mercante de Honduras y fechas de validez del contrato con la Autoridad Encargada de la Contabilidad. En su defecto, deberá presentar el contrato de servicio realizado directamente con INMARSAT.
+Nota: Este requisito solo aplica para Embarcaciones que utilizan equipos terminales de INMARSAT en el marco del convenio SOLAS; en caso de que la embarcación no requiera contar con estos equipos terminales, deberá presentar notificación por escrito.
 
 4.
-Constancia original con firma y sello, extendida por una AAIC debidamente Registrada en
-Honduras, avalando no tener cuentas pendientes de pago. Este requisito solo aplica para
-Embarcaciones que utilizan equipos terminales de INMARSAT y que cuentan con el
-servicio de una AAIC.
+Constancia original con firma y sello, extendida por una AAIC debidamente Registrada en Honduras, avalando no tener cuentas pendientes de pago. Este requisito solo aplica para Embarcaciones que utilizan equipos terminales de INMARSAT y que cuentan con el servicio de una AAIC.
 
 5. Copia de la Patente de Navegación vigente extendida por la DGMM.
 6. Historial de Patente de la embarcación emitida por la DGMM.

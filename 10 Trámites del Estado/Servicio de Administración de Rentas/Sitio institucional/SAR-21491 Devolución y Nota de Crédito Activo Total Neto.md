@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE DEVOLUCIÓN O NOTA DE
-CRÉDITO DE ACTIVO TOTAL
+REQUISITOS DE DEVOLUCIÓN O NOTA DE CRÉDITO DE ACTIVO TOTAL
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
@@ -48,26 +47,17 @@ REQUISITOS DE DEVOLUCIÓN O NOTA DE CRÉDITO
 DE ACTIVO TOTAL
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial,
-debidamente autenticado
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
 Escritura de Constitución y sus modificaciones
 
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
-Estados financieros debidamente firmados,
-sellados y timbrados del periodo que comprende
-la petición, en formato PDF
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Estados financieros debidamente firmados, sellados y timbrados del periodo que comprende la petición, en formato PDF
 
-Libro Mayor de Propiedad Planta y Equipo al
-cierre de los períodos de la solicitud (Excel)
+Libro Mayor de Propiedad Planta y Equipo al cierre de los períodos de la solicitud (Excel)
 
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
 
 ## Documentos
 

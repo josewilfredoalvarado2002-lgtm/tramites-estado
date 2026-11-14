@@ -45,16 +45,12 @@ INSCRIPCION DE CIBER CAFÉ
 
 ITEM REQUISITO NS RN
 1.
-Solicitud presentada por el propietario de la empresa comercializadora (No requiere
-de Apoderado Legal) en hoja tamaño carta que contenga:
+Solicitud presentada por el propietario de la empresa comercializadora (No requiere de Apoderado Legal) en hoja tamaño carta que contenga:
 a) Nombre o razón social de la empresa comercializadora.
 b) Dirección completa y exacta del o de los centros de comercialización.
-c) Nombre de la persona responsable o punto de contacto, incluyendo su número de
-teléfono fijo, teléfono celular, dirección exacta, dirección de correo electrónico.
-d) Lista de los Servicios a comercializar (No incluir llamadas telefónicas nacionales
-y/o internacionales, hasta el momento esto es un servicio exclusivo de HONDUTEL).
-e) Nombre del proveedor de Internet con Título Habilitante vigente emitido por
-CONATEL.
+c) Nombre de la persona responsable o punto de contacto, incluyendo su número de teléfono fijo, teléfono celular, dirección exacta, dirección de correo electrónico.
+d) Lista de los Servicios a comercializar (No incluir llamadas telefónicas nacionales y/o internacionales, hasta el momento esto es un servicio exclusivo de HONDUTEL).
+e) Nombre del proveedor de Internet con Título Habilitante vigente emitido por CONATEL.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante
 3. Fotocopia de tarjeta de identidad de la Persona Responsable.
 4. Boleta de Pago por L. 200.00 de TGR-1 emitido por SEFIN (Secretaría de Finanzas) para la Constancias de INSCRIPCION.

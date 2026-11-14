@@ -41,64 +41,35 @@ estado_sitio: "Vigente"
 objetivos.)
 
 7
-Inscripción en el
-Registro Mercantil.
+Inscripción en el Registro Mercantil.
 
 8
-Copia Autenticada
-de la escritura
-social y sus
-estatutos.
+Copia Autenticada de la escritura social y sus estatutos.
 (Español)
 
 9
-Nombre,
-constitución y los
-respectivos
-instrumentos
-públicos de poder
-del mandatario.
+Nombre, constitución y los respectivos instrumentos públicos de poder del mandatario.
 (Nacionalidad
 Hondureña)
 (Español)
 
 10
-Mapa específico del
-área a conceder.
-con coordenadas
-georreferenciadas
+Mapa específico del área a conceder.
+con coordenadas georreferenciadas
 WGS84 y punto de
 
 amarre. (Escala
 1:250,000)
 11
-Documentación que
-acredite
-cumplimiento
-condiciones
-especiales
-establecidas en el
-contrato.
-(Ej. Informe de
-Actividades
-sociales o de
-similar índole que
-se han llevado a
-cabo como
-beneficios
-especiales a favor
-del Estado.)
+Documentación que acredite cumplimiento condiciones especiales establecidas en el contrato.
+(Ej. Informe de Actividades sociales o de similar índole que se han llevado a cabo como beneficios especiales a favor del Estado.)
 
-La Dirección General de Exploración y Explotación de Hidrocarburos, después de
-realizado el Análisis Legal y Técnico correspondiente, podrá solicitar que la
-información y documentación proporcionada sea modificada o ampliada, a efecto de
-cumplir con las disposiciones contenidas en la Ley de Hidrocarburos y su Reglamento.
+La Dirección General de Exploración y Explotación de Hidrocarburos, después de realizado el Análisis Legal y Técnico correspondiente, podrá solicitar que la información y documentación proporcionada sea modificada o ampliada, a efecto de cumplir con las disposiciones contenidas en la Ley de Hidrocarburos y su Reglamento.
 
 ## Requisitos (según el documento oficial)
 
 Requisitos
-Ley de Hidrocarburos 21, 22, 25, 26, 27, 38, 39, 40 y 42 Reglamento de la Ley de
-Hidrocarburos 3, 27, 28, 29, 30, 47 y 76.
+Ley de Hidrocarburos 21, 22, 25, 26, 27, 38, 39, 40 y 42 Reglamento de la Ley de Hidrocarburos 3, 27, 28, 29, 30, 47 y 76.
 
 Firma del Solicitante:__________________________________
 
@@ -110,8 +81,7 @@ Número de Expediente Asignado:
 
 ## Otro texto del documento
 
-FORMULARIO DE SOLICITUD DE PRÓRROGA AL PERIODO DE EXPLORACIÓN Y
-EXPLOTACIÓN DE HIDROCARBUROS
+FORMULARIO DE SOLICITUD DE PRÓRROGA AL PERIODO DE EXPLORACIÓN Y EXPLOTACIÓN DE HIDROCARBUROS
 
 DATOS DEL SOLICITANTE
 Nombre de la Empresa:
@@ -129,47 +99,22 @@ Documentos Presentados
 Documento Presentado SI NO Observación
 1 Escrito de Solicitud dirigido a la SEN
 2
-Copia Autenticada
-de Tarjeta de
-Identidad
+Copia Autenticada de Tarjeta de Identidad
 
 3
-Copia Autenticada
-de RTN de la
-Empresa Solicitante
+Copia Autenticada de RTN de la Empresa Solicitante
 
 4
 Programa
-Exploratorio
-mínimo. Debe
-incluir Programa de
-Trabajo mínimo de
-Exploración que
-incluye cronograma
-de trabajo detallado
-y costo estimado
-por actividad.
+Exploratorio mínimo. Debe incluir Programa de Trabajo mínimo de Exploración que incluye cronograma de trabajo detallado y costo estimado por actividad.
 
 5
-Licencia Ambiental
-o Estado de la
-misma emitida por
-la Autoridad
+Licencia Ambiental o Estado de la misma emitida por la Autoridad
 Competente.
 
-6 Documentación que acredite el
-cumplimiento de las
-obligaciones
-contractuales a la
-fecha.
+6 Documentación que acredite el cumplimiento de las obligaciones contractuales a la fecha.
 (Ej. Informes
-Semestrales
-presentados a la
-fecha, Informe
-detallado que
-especifique la causa
-de la necesidad de
-tiempo adicional y
+Semestrales presentados a la fecha, Informe detallado que especifique la causa de la necesidad de tiempo adicional y
 
 ## Documentos
 

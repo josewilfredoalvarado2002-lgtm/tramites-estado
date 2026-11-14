@@ -48,26 +48,16 @@ REQUISITOS DE DEVOLUCIÓN O NOTA DE CRÉDITO DE IMPUESTO
 SOBRE LA RENTA (PERSONA NATURAL INGRESOS MIXTOS)
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los
-requisitos establecidos en el Artículo 61 de
-la Ley de Procedimiento Administrativo
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo
 (Formato PDF)
-Carta poder o poder especial,
-debidamente autenticado
-Documentos fiscales que acrediten los
-ingresos del período
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
-Comprobantes de Retención que acredite
-los pagos de Honorarios
-Escritura de Constitución y sus
-modificaciones
-Documentos fiscales que acrediten los
-gastos del período
+Carta poder o poder especial, debidamente autenticado
+Documentos fiscales que acrediten los ingresos del período
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Comprobantes de Retención que acredite los pagos de Honorarios
+Escritura de Constitución y sus modificaciones
+Documentos fiscales que acrediten los gastos del período
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
 
 ## Documentos
 

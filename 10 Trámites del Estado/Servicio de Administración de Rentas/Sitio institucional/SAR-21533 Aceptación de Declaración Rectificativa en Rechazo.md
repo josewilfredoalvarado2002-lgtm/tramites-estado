@@ -39,33 +39,20 @@ estado_sitio: "Vigente"
 ## Para qué se hace (según el documento)
 
 DESCRIPCIÓN DEL TRÁMITE
-En aquellos casos que el OT ha presentado declaración rectificativa y esta queda en estado de
-rechazo por disminución del tributo o aumento del crédito a favor del OT.
-El trámite se puede realizar de forma presencial o por medio de la Oficina Virtual, ingresando
-identificado con su respectivo RTN y contraseña, esta solicitud se encuentra en el menú, en el
-apartado de “Solicitudes de Cuenta Corriente”, seleccionando “Aceptación Declaraciones
+En aquellos casos que el OT ha presentado declaración rectificativa y esta queda en estado de rechazo por disminución del tributo o aumento del crédito a favor del OT.
+El trámite se puede realizar de forma presencial o por medio de la Oficina Virtual, ingresando identificado con su respectivo RTN y contraseña, esta solicitud se encuentra en el menú, en el apartado de “Solicitudes de Cuenta Corriente”, seleccionando “Aceptación Declaraciones
 Rectificativas en Rechazo”, registrando los campos que se detallan a continuación:
-a) Una breve explicación de los motivos en los que fundamenta su solicitud, así mismo,
-deberá ingresar al botón “Asignar Declaración” donde seleccionará la declaración en
-estado de rechazo, en la sección de Datos.
-b) En la sección de “Documentación”, se debe anexar la documentación obligatoria (Escrito
-de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo en Formato PDF), así mismo, podrá agregar otra
-documentación de carácter opcional que sirva como soporte para garantizar la agilización
-del proceso.
-c) Para finalizar, previo a la presentación de la solicitud, se debe seleccionar el método de
-pago a través de Boletín de Pago Libre disponible o se podrá aportar un Boletín de Pago
-pendiente, que deberá ser pagado más adelante.
+a) Una breve explicación de los motivos en los que fundamenta su solicitud, así mismo, deberá ingresar al botón “Asignar Declaración” donde seleccionará la declaración en estado de rechazo, en la sección de Datos.
+b) En la sección de “Documentación”, se debe anexar la documentación obligatoria (Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo en Formato PDF), así mismo, podrá agregar otra documentación de carácter opcional que sirva como soporte para garantizar la agilización del proceso.
+c) Para finalizar, previo a la presentación de la solicitud, se debe seleccionar el método de pago a través de Boletín de Pago Libre disponible o se podrá aportar un Boletín de Pago pendiente, que deberá ser pagado más adelante.
 
 ## Requisitos (según el documento oficial)
 
 REQUISITOS
 a) Realizar el pago por actos administrativos por el valor de L200.00.
-b) Presentar un escrito de solicitud Indicando con claridad los hechos y razones en los que
-fundamenta su petición.
+b) Presentar un escrito de solicitud Indicando con claridad los hechos y razones en los que fundamenta su petición.
 c) Si la petición se realiza de forma presencial y por medio de Apoderado o Representante
-Legal, debe adjuntar la respectiva acreditación de poder autenticado. En caso de
-presentar copia del instrumento el mismo deberá ser cotejado con el original.
+Legal, debe adjuntar la respectiva acreditación de poder autenticado. En caso de presentar copia del instrumento el mismo deberá ser cotejado con el original.
 
 2
 
@@ -84,19 +71,15 @@ FORMATO: SOLICITUD DE ACEPTACIÓN DE DECLARACIÓN RECTIFICATIVA EN RECHAZO
 SEÑOR (A)
 MINISTRO (A) DIRECTOR (A)
 SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)
-YO: _________________________________________________________, HONDUREÑO,
-MAYOR DE EDAD, CON NÚMERO DE IDENTIDAD ___________________ PROFESIÓN U OFICIO
+YO: _________________________________________________________, HONDUREÑO, MAYOR DE EDAD, CON NÚMERO DE IDENTIDAD ___________________ PROFESIÓN U OFICIO
 ___________________, DEL DOMICILIO DE _____________________, CON R.T.N. Nº
 _________________; DIRECCIÓN COMPLETA
 ______________________________________________________________________
 TELÉFONO No: ____________________ TELÉFONO MÓVIL No_________________ CORREO
 ELECTRÓNICO ____________________________, COMPAREZCO ANTE USTED SEÑOR(A)
-MINISTRO (A) DIRECTOR (A), ACTUANDO EN MI CONDICIÓN DE
-_________________________________________ (SI ES PERSONA JURÍDICA ESPECIFICAR EL
-NOMBRE DE LA EMPRESA _________________________________ Y EL RTN
+MINISTRO (A) DIRECTOR (A), ACTUANDO EN MI CONDICIÓN DE _________________________________________ (SI ES PERSONA JURÍDICA ESPECIFICAR EL NOMBRE DE LA EMPRESA _________________________________ Y EL RTN
 __________________________), PARA SOLICITAR “ACEPTACIÓN DE DECLARACIÓN
-RECTIFICATIVA EN RECHAZO”, DEL PERÍODO ___________________, POR EL MONTO DE
-_________________________________ POR LAS RAZONES Y HECHOS SIGUIENTES:
+RECTIFICATIVA EN RECHAZO”, DEL PERÍODO ___________________, POR EL MONTO DE _________________________________ POR LAS RAZONES Y HECHOS SIGUIENTES:
 ______________________________________________________________________________
 ______________________________________________________________________________
 ________________________________________________________________________
@@ -108,12 +91,9 @@ NOMBRE Y FIRMA
 
 ## Otro texto del documento
 
-TRÁMITES DE
-RECAUDACIÓN
-ACEPTACIÓN DE
-DECLARACIÓN
-RECTIFICATIVA EN
-RECHAZO
+TRÁMITES DE RECAUDACIÓN
+ACEPTACIÓN DE DECLARACIÓN
+RECTIFICATIVA EN RECHAZO
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Recaudación
 

@@ -44,25 +44,18 @@ Autorizar la Excepciones de Boletas para reversiones de Formularios de Gastos qu
 ## Requisitos (según el documento oficial)
 
 1. Oficio de la Gerencia involucrada de la Institución del Sector Público
-2. adjuntar Impresión del (los) documento de reversión F-07 y si aplica el documento de sustitución el cual debe ser
-de tipo regularización (ambos en estado elaborado)
-3. El comprobante de la devolución de fondos a la Cuenta Única o cualquier otro documento que respalde la
-transacción.
+2. adjuntar Impresión del (los) documento de reversión F-07 y si aplica el documento de sustitución el cual debe ser de tipo regularización (ambos en estado elaborado)
+3. El comprobante de la devolución de fondos a la Cuenta Única o cualquier otro documento que respalde la transacción.
 4. Direccion de Correo y Telefono de la persona de la Institucion que Solicita.
 
 ## Requisitos (según el documento oficial) — Requisitos — Reversiones sin Boleta de Depósito en el SIAFI
 
 file:///D|/nuevoSitio/Produccion/procedimientos/Requisito2.txt[27/02/2019 04:03:10 p.m.]
 La Gerencia involucrada de la Institución del Sector Público debe realizar lo siguiente:
-A) Elabore en el SIAFI la reversión y si aplica el nuevo documento de tipo regularización estos documentos deben
-permanecer en estado ELABORADO ya que el sistema no permitirá verificarlos en ninguno de los casos.
-B) Envié un oficio dirigido al Contador General de la República con la explicación del asunto adjuntando los
-documentos de respaldo correspondientes:
-1. Impresión del (los) documento de reversión F-07 si aplica el documento de sustitución el cual debe ser de tipo
-regularización (ambos en estado elaborado)
-2. El comprobante de la devolución de fondos a la Cuenta Única o cualquier otro documento que respalde la
-transacción. 3. Una vez cargada y aprobada la autorización la CGR debe notificar a la Gerencia para que esta proceda a
-verificar y aprobar los documentos en el tiempo establesido según los procedimientos normales de SIAFI
+A) Elabore en el SIAFI la reversión y si aplica el nuevo documento de tipo regularización estos documentos deben permanecer en estado ELABORADO ya que el sistema no permitirá verificarlos en ninguno de los casos.
+B) Envié un oficio dirigido al Contador General de la República con la explicación del asunto adjuntando los documentos de respaldo correspondientes:
+1. Impresión del (los) documento de reversión F-07 si aplica el documento de sustitución el cual debe ser de tipo regularización (ambos en estado elaborado)
+2. El comprobante de la devolución de fondos a la Cuenta Única o cualquier otro documento que respalde la transacción. 3. Una vez cargada y aprobada la autorización la CGR debe notificar a la Gerencia para que esta proceda a verificar y aprobar los documentos en el tiempo establesido según los procedimientos normales de SIAFI
 
 ## Tasa_derechos
 

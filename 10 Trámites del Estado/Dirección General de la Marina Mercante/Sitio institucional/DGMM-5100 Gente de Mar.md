@@ -69,14 +69,11 @@ Femenino/ Female
 Otro/Other
 Domicilio (Address): Edad (Age): Fecha (Date):
 Antecedentes Patológicos (Medical History):
-Hay historia de alguno de los siguientes (Is there history of any the
-following):
-Si(yes) No Hay historia de alguno de los siguientes (Is there history of any the
-following):
+Hay historia de alguno de los siguientes (Is there history of any the following):
+Si(yes) No Hay historia de alguno de los siguientes (Is there history of any the following):
 Si(yes) No
 Migraña (Migraine) Transfusiones sanguíneas (Blood transfussion)
-Trauma craneal, perdida de la consciencia, contusión (Head injuries, memory loss,
-concussion)
+Trauma craneal, perdida de la consciencia, contusión (Head injuries, memory loss, concussion)
 Hipertensión, Hipotensión, Cardiopatías (High pressure, Low pressure, Heart Disease)
 Desmayos, Epilepsia, Vértigo, Mareos (Fainting, Epilepsy, Vertigo, Dizziness) Hernia, Hidrocele, Apendicitis (Hernia, Hydrocele, Appendicitis)
 Problemas Visuales, Uso de lentes (Visual problems, use of eyeglasses) Asma, Bronquitis, Tuberculosis (Asthma, Bronchitis, Tuberculosis)
@@ -115,8 +112,7 @@ Sistema Respiratorio (Respiratoy System)
 Abdomen
 Resultado del Examen Médico (Result of the Medical Examination)
 He reconocido y evaluado a la persona arriba citada según las normas nacionales e internacionales como el convenio STCW 78 en su forma enmendada
-(Reglas 1/9 sección A-1/9) y el convenio MLC 2006 (Regla 1/2) / I have recongnized and evaluated the above mentioned person according to international
-standards such as the STCW 78 as amended (Rule 1/9 section A-1/9) and MLC 2006 (Rule 1/2)
+(Reglas 1/9 sección A-1/9) y el convenio MLC 2006 (Regla 1/2) / I have recongnized and evaluated the above mentioned person according to international standards such as the STCW 78 as amended (Rule 1/9 section A-1/9) and MLC 2006 (Rule 1/2)
 
 Apto(a) Fisicamente para el servicio a bordo No Apto (a) Fisicamente para el Servicio a bordo
 (Physically Fit for Duty an board) (Physically Not fit for Duty on board)
@@ -134,8 +130,7 @@ Por la presente Declaro que me doy por enterado del contenido del reconocimiento
 
 Firma y Sello del Médico
 Examinador
-(Medical Physician´s Signature
-and Stamp)
+(Medical Physician´s Signature and Stamp)
 
 ## Otro texto del documento — Descargar Solicitud de Ingreso (PDF)
 

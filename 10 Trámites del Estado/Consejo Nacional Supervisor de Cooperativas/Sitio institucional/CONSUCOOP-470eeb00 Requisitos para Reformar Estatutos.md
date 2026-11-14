@@ -39,27 +39,19 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 Requisitos
-1. Solicitud firmada por el Representante Legal o Apoderado Legal (en el último caso se
-deberá de acompañar poder que acredite su condición como tal).
-2. Certificación del punto de acta de la Asamblea General Extraordinaria, donde
-aprobaron la reforma y detallar los artículos reformados.
-3.CD o USB con el proyecto de estatuto, señalando las modificaciones, el proyecto de
-estatuto deberá de venir de forma ordenada, sin cuadros insertos.
-4. Constancia de solvencia de la cooperativa, otorgada por su Organismo de Integración,
-según acuerdo del Acta No. 378/2025 de Junta Directiva del CONSUCOOP y Articulo
-No. 7, literal h) de la Ley de Cooperativas de Honduras y el Articulo No. 10, literal m)
-de su Reglamento.
-5. Pago en CONSUCOOP de L.1,500.00 y 6 timbres cooperativos de L50.00 c/u o
-pueden realizar deposito en cuenta de Banco Cuscatlán No. 11-105-0000276 a nombre
-de CONSUCOOP.
+1. Solicitud firmada por el Representante Legal o Apoderado Legal (en el último caso se deberá de acompañar poder que acredite su condición como tal).
+2. Certificación del punto de acta de la Asamblea General Extraordinaria, donde aprobaron la reforma y detallar los artículos reformados.
+3.CD o USB con el proyecto de estatuto, señalando las modificaciones, el proyecto de estatuto deberá de venir de forma ordenada, sin cuadros insertos.
+4. Constancia de solvencia de la cooperativa, otorgada por su Organismo de Integración, según acuerdo del Acta No. 378/2025 de Junta Directiva del CONSUCOOP y Articulo
+No. 7, literal h) de la Ley de Cooperativas de Honduras y el Articulo No. 10, literal m) de su Reglamento.
+5. Pago en CONSUCOOP de L.1,500.00 y 6 timbres cooperativos de L50.00 c/u o pueden realizar deposito en cuenta de Banco Cuscatlán No. 11-105-0000276 a nombre de CONSUCOOP.
 
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
 
 REQUISITOS PARA REFORMAR ESTATUTOS
-Cualquier consulta o duda pueden abocarse al correo electrónico registro@consucoop.hn; Teléfono 2235-9281
-ext. 105 y mensajes al WhatsApp 31622364.
+Cualquier consulta o duda pueden abocarse al correo electrónico registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp 31622364.
 
 ## Documentos
 

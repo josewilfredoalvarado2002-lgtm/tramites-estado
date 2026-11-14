@@ -46,23 +46,16 @@ Departamento de Asistencia al Cumplimiento Nacional
 
 ACTUALIZACIÓN EMPRESAS EXTRANJERAS NO INCORPORADAS EN
 
-1. Documento de Constitución o Personería Jurídica extranjera no registrada o
-incorporada en Honduras: copia apostillada y traducida al español.
-2. Poder de Administración o Representación permanente en Honduras. (original y
-copia).
-3. Fotocopia del Documento Nacional de Identificación, Pasaporte o Carné de
-Residencia del Representante Legal el cual debe previamente estar inscrito en el
-Registro Tributario Nacional.
+1. Documento de Constitución o Personería Jurídica extranjera no registrada o incorporada en Honduras: copia apostillada y traducida al español.
+2. Poder de Administración o Representación permanente en Honduras. (original y copia).
+3. Fotocopia del Documento Nacional de Identificación, Pasaporte o Carné de Residencia del Representante Legal el cual debe previamente estar inscrito en el Registro Tributario Nacional.
 4. Documento que acredite su dirección exacta (original), por ejemplo:
 - Recibo de un Servicio Público.
 - Contrato de Alquiler o Arrendamiento Comercial.
 - Constancia de la Vecindad.
 - Recibo de suscripción de Servicios Privados (Internet, cable, telefonía).
 
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se
-debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de
-Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros,
-indicando si posee las siguientes facultades:
+Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firmar.
 

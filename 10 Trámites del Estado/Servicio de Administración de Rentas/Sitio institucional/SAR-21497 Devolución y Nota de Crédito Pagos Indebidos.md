@@ -38,31 +38,21 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE DEVOLUCIÓN Y NOTAS DE
-CRÉDITOS DE PAGOS INDEBIDOS
+REQUISITOS DE DEVOLUCIÓN Y NOTAS DE CRÉDITOS DE PAGOS INDEBIDOS
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
 REQUISITOS DE DEVOLUCIÓN Y NOTAS DE CRÉDITOS DE
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial,
-debidamente autenticado
-Libro Mayor y Auxiliar de la Cuenta donde
-registro el pago indebido (Formato Excel)
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
-La información con que el OT sustente el pago
-indebido
-Escritura de Constitución y sus
-modificaciones
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Libro Mayor y Auxiliar de la Cuenta donde registro el pago indebido (Formato Excel)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+La información con que el OT sustente el pago indebido
+Escritura de Constitución y sus modificaciones
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
 
 ## Costo (según el documento)
 

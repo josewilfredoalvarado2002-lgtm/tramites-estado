@@ -43,29 +43,17 @@ estado_sitio: "Vigente"
 
 ## Para qué se hace (según el documento)
 
-¿Qué es el Derecho de Acceso a la
-Información Pública?
-Es el derecho que tiene toda persona de solicitar y recibir información de las
-instituciones del Estado, sin necesidad de justiﬁcar el motivo de su solicitud, excepto
-cuando se trate de información clasiﬁcada como reservada conforme a la ley.
-En la Secretaría de Finanzas (SEFIN) aplica el Acuerdo Ministerial No. 169-2019,
-publicado en el Diario Oﬁcial La Gaceta.
-Para ejercer este derecho, no es necesario justiﬁcar el motivo de la solicitud. Las
-organizaciones legalmente constituidas pueden solicitar información por medio de
-su representante legal debidamente acreditado.
+¿Qué es el Derecho de Acceso a la Información Pública?
+Es el derecho que tiene toda persona de solicitar y recibir información de las instituciones del Estado, sin necesidad de justiﬁcar el motivo de su solicitud, excepto cuando se trate de información clasiﬁcada como reservada conforme a la ley.
+En la Secretaría de Finanzas (SEFIN) aplica el Acuerdo Ministerial No. 169-2019, publicado en el Diario Oﬁcial La Gaceta.
+Para ejercer este derecho, no es necesario justiﬁcar el motivo de la solicitud. Las organizaciones legalmente constituidas pueden solicitar información por medio de su representante legal debidamente acreditado.
 ¿Qué información puede solicitar?
-Identiﬁque de manera clara y precisa la información que desea consultar. La SEFIN
-veriﬁcará si está publicada en su sitio web institucional y, si corresponde, brindará la
-respuesta.
+Identiﬁque de manera clara y precisa la información que desea consultar. La SEFIN veriﬁcará si está publicada en su sitio web institucional y, si corresponde, brindará la respuesta.
 Fecha de la solicitud.
-Persona natural: Identiﬁcación del solicitante: nombre y número de identidad. Los
-extranjeros pueden presentar pasaporte o carné de residente.
-Personas jurídicas: documentación que acredite su existencia y la representación legal
-correspondiente.
-Medio o lugar de notiﬁcación: dirección, correo electrónico u otro medio para recibir la
-información solicitada.
-Presentación de la solicitud: mediante el formulario correspondiente, en formato
-impreso o por correo electrónico.
+Persona natural: Identiﬁcación del solicitante: nombre y número de identidad. Los extranjeros pueden presentar pasaporte o carné de residente.
+Personas jurídicas: documentación que acredite su existencia y la representación legal correspondiente.
+Medio o lugar de notiﬁcación: dirección, correo electrónico u otro medio para recibir la información solicitada.
+Presentación de la solicitud: mediante el formulario correspondiente, en formato impreso o por correo electrónico.
 ¿Qué requisitos debe cumplir la solicitud?
 
 ## Descripcion
@@ -81,15 +69,11 @@ No se ha aplicado ninguna tasa de derecho aunque la Ley del Instituto de Acceso 
 ¿Dónde puede presentar su solicitud?
 Puede realizarla por cualquiera de los siguientes medios:
 Correo electrónico: transparencia@seﬁn.gob.hn
-En línea: Sistema de Información Electrónico de Honduras (SIELHO), del Instituto de
-Acceso a la Información Pública: https://sielho.iaip.gob.hn/inicio.
-Presencialmente: primer nivel del ediﬁcio principal de la Secretaría de Finanzas,
-Avenida Cervantes, barrio El Jazmín.
+En línea: Sistema de Información Electrónico de Honduras (SIELHO), del Instituto de Acceso a la Información Pública: https://sielho.iaip.gob.hn/inicio.
+Presencialmente: primer nivel del ediﬁcio principal de la Secretaría de Finanzas, Avenida Cervantes, barrio El Jazmín.
 ¿Cuánto tiempo tarda la respuesta?
 Plazo ordinario: 10 días hábiles.
-Prórroga: se puede otorgar, por una única vez, una extensión de 10 días hábiles
-adicionales, debidamente justiﬁcada, cuando la recopilación de la información sea
-especialmente difícil.
+Prórroga: se puede otorgar, por una única vez, una extensión de 10 días hábiles adicionales, debidamente justiﬁcada, cuando la recopilación de la información sea especialmente difícil.
 1
 2
 3
@@ -104,12 +88,9 @@ especialmente difícil.
 ## Procedimiento (según el documento)
 
 file:///D|/nuevoSitio/Produccion/procedimientos/Procedimiento1.txt[27/02/2019 04:03:02 p.m.]
-1) La persona interesada se presenta a la Dirección de Transparencia o lo realiza a través de la página web
-institucional para solicitar la información.
-2) La Dirección de Transparencia procesa la información y lo envía de manera formal la solicitud a la Dependencia
-responsable dentro de la SEFIN
-3) La Dirección de Transparencia recibe la información por la Dependencia responsable y le comunica al solicitante
-que la respuesta ha sido generada.
+1) La persona interesada se presenta a la Dirección de Transparencia o lo realiza a través de la página web institucional para solicitar la información.
+2) La Dirección de Transparencia procesa la información y lo envía de manera formal la solicitud a la Dependencia responsable dentro de la SEFIN
+3) La Dirección de Transparencia recibe la información por la Dependencia responsable y le comunica al solicitante que la respuesta ha sido generada.
 
 ## Documentos
 

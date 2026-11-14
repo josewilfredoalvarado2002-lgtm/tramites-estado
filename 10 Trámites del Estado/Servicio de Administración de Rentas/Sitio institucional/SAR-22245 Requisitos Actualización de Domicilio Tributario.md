@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE ACTUALIZACIÓN DE
-DOMICILIO TRIBUTARIO
+REQUISITOS DE ACTUALIZACIÓN DE DOMICILIO TRIBUTARIO
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 

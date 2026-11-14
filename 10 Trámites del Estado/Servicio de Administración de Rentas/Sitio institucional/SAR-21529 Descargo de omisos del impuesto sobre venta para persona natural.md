@@ -43,33 +43,20 @@ VENTA PARA PERSONA NATURAL
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
-REQUISITOS DESCARGO DE OMISOS DEL IMPUESTO SOBRE VENTA PARA
-PERSONA NATURAL
+REQUISITOS DESCARGO DE OMISOS DEL IMPUESTO SOBRE VENTA PARA PERSONA NATURAL
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
 Comprobante de boletín de pago L200.00 (Impuesto:
 156 - Actos administrativos, concepto: 1 Propio
 Computo)
-Cualquier otra información que el OT considere
-necesaria para sustentar su petición
-Escritura o contrato de compra y venta en el
-caso que el bien generador del impuesto sobre
-ventas fue vendido
-Contratos de arrendamiento (Este requisito
-aplica si el obligado tributario se dedica al
-alquiler)
-Documentos fiscales utilizados y dos
-subsiguientes sin utilizar, vigentes en los
-períodos que solicita el descargo de omisos
-Documentación soporte que acredite las
-fuentes de ingreso del obligado tributario
-Comprobante de notificación de documentos
-fiscales (Motivos Art 42 - Acuerdo 481-2017)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Escritura o contrato de compra y venta en el caso que el bien generador del impuesto sobre ventas fue vendido
+Contratos de arrendamiento (Este requisito aplica si el obligado tributario se dedica al alquiler)
+Documentos fiscales utilizados y dos subsiguientes sin utilizar, vigentes en los períodos que solicita el descargo de omisos
+Documentación soporte que acredite las fuentes de ingreso del obligado tributario
+Comprobante de notificación de documentos fiscales (Motivos Art 42 - Acuerdo 481-2017)
 
 ## Documentos
 

@@ -42,36 +42,22 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Consejo Nacional Superviso
 ## Requisitos (según el documento oficial)
 
 Requisitos
-1.Solicitud de inscripción presentada por el Representante o Apoderado Legal (en el último caso
-se deberá de acompañar poder que acredite su condición como tal).
-2.Poder de Administración otorgado por la Junta Directiva (original y copia) al Gerente,
-inscrito en el Registro de Poderes del Instituto de la Propiedad (si tiene facultades de
-riguroso dominio); en el caso de que sea un Poder de administración deberá ser inscrito
-en la Cámara de Comercio del Registro Mercantil según su circunscripción.
+1.Solicitud de inscripción presentada por el Representante o Apoderado Legal (en el último caso se deberá de acompañar poder que acredite su condición como tal).
+2.Poder de Administración otorgado por la Junta Directiva (original y copia) al Gerente, inscrito en el Registro de Poderes del Instituto de la Propiedad (si tiene facultades de riguroso dominio); en el caso de que sea un Poder de administración deberá ser inscrito en la Cámara de Comercio del Registro Mercantil según su circunscripción.
 3.Certificación de la sesión de Junta Directiva en la cual se nombró al Gerente.
-4.Copia de la fianza (autenticada), “el monto de la caución debe ser establecida por la
-Junta Directiva, la cual no debe ser mayor del 20% de la póliza de dinero y valores para
-las cooperativas de ahorro y crédito; y en otros subsectores un mínimo de diez mil
-lempiras y un máximo de quinientos mil lempiras; pudiéndolo rendir bajo un título
-valor a favor de la Cooperativa”.
-5. Constancia de solvencia de la cooperativa, otorgada por su Organismo de Integración,
-según acuerdo del Acta No. 378/2025 de Junta Directiva del CONSUCOOP y Articulo
-No. 7, literal h) de la Ley de Cooperativas de Honduras y el Articulo No. 10, literal m)
-de su Reglamento.
+4.Copia de la fianza (autenticada), “el monto de la caución debe ser establecida por la Junta Directiva, la cual no debe ser mayor del 20% de la póliza de dinero y valores para las cooperativas de ahorro y crédito; y en otros subsectores un mínimo de diez mil lempiras y un máximo de quinientos mil lempiras; pudiéndolo rendir bajo un título valor a favor de la Cooperativa”.
+5. Constancia de solvencia de la cooperativa, otorgada por su Organismo de Integración, según acuerdo del Acta No. 378/2025 de Junta Directiva del CONSUCOOP y Articulo
+No. 7, literal h) de la Ley de Cooperativas de Honduras y el Articulo No. 10, literal m) de su Reglamento.
 
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
 
-REQUISITOS PARA LA INSCRIPCION DE GERENTE DE UNA
-COOPERATIVA
-6. Pago en concepto de la emisión de la certificación de la inscripción del gerente. (L150.00) y
-pago de timbres cooperativo de L50.00 (1) por cada documento presentado y un timbre
-cooperativo para la Certificación de L50.00 o pueden realizar deposito en cuenta de Banco
+REQUISITOS PARA LA INSCRIPCION DE GERENTE DE UNA COOPERATIVA
+6. Pago en concepto de la emisión de la certificación de la inscripción del gerente. (L150.00) y pago de timbres cooperativo de L50.00 (1) por cada documento presentado y un timbre cooperativo para la Certificación de L50.00 o pueden realizar deposito en cuenta de Banco
 Cuscatlán No. 11-105-0000276 a nombre de CONSUCOOP.
 
-*Cualquier consulta o duda pueden abocarse al correo electrónico
-registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp 31622364.
+*Cualquier consulta o duda pueden abocarse al correo electrónico registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp 31622364.
 
 ## Documentos
 

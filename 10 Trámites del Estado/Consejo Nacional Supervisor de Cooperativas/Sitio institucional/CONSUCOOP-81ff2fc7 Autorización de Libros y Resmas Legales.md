@@ -39,28 +39,18 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 Requisitos
-1.Solicitud por escrito detallando la cantidad y que libros desean autorizar con un
-timbre cooperativo de L10.00.
-2. Constancia de solvencia de la cooperativa, otorgada por su Organismo de Integración,
-según acuerdo del Acta No. 378/2025 de Junta Directiva del CONSUCOOP y Articulo
-No. 7, literal h) de la Ley de Cooperativas de Honduras y el Articulo No. 10, literal m)
-de su Reglamento. Con timbre cooperativo de L10.00.
-3. La autorización de los libros tiene un costo de L150.00 más 2 timbres cooperativos de
-L50.00 c/u para cada libro. (Los libros deben de venir foliados.)
-4.Las resmas de papel de seguridad se compran en CONSUCOOP, tienen un costo de
-L.500.00 cada una, costo ya incluye el pago de autorización y timbres cooperativos.
-(Solo aplica a las cooperativas que ya tienen Inscrito su sistema contable en
-CONSUCOOP, exceptuando los libros de actas de asambleas) o pueden realizar
-deposito en cuenta de Banco Cuscatlán No. 11-105-0000276 a nombre de
-CONSUCOOP.
+1.Solicitud por escrito detallando la cantidad y que libros desean autorizar con un timbre cooperativo de L10.00.
+2. Constancia de solvencia de la cooperativa, otorgada por su Organismo de Integración, según acuerdo del Acta No. 378/2025 de Junta Directiva del CONSUCOOP y Articulo
+No. 7, literal h) de la Ley de Cooperativas de Honduras y el Articulo No. 10, literal m) de su Reglamento. Con timbre cooperativo de L10.00.
+3. La autorización de los libros tiene un costo de L150.00 más 2 timbres cooperativos de L50.00 c/u para cada libro. (Los libros deben de venir foliados.)
+4.Las resmas de papel de seguridad se compran en CONSUCOOP, tienen un costo de L.500.00 cada una, costo ya incluye el pago de autorización y timbres cooperativos.
+(Solo aplica a las cooperativas que ya tienen Inscrito su sistema contable en CONSUCOOP, exceptuando los libros de actas de asambleas) o pueden realizar deposito en cuenta de Banco Cuscatlán No. 11-105-0000276 a nombre de CONSUCOOP.
 
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
-AUTORIZACIÓN DE LIBROS Y RESMAS DE PAPEL DE
-SEGURIDAD
-Cualquier consulta o duda pueden abocarse al correo electrónico registro@consucoop.hn; Teléfono 2235-9281
-ext. 105 y mensajes al WhatsApp 31622364.
+AUTORIZACIÓN DE LIBROS Y RESMAS DE PAPEL DE SEGURIDAD
+Cualquier consulta o duda pueden abocarse al correo electrónico registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp 31622364.
 
 ## Documentos
 

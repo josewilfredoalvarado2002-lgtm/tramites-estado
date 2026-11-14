@@ -38,40 +38,26 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-Requisitos para Autorización
-y aprobación del plan social
-de empleados para personas
-jurídicas
+Requisitos para Autorización y aprobación del plan social de empleados para personas jurídicas
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
 1
 
-REQUISITOS PARA AUTORIZACIÓN Y APROBACIÓN DEL PLAN SOCIAL DE
-EMPLEADOS PARA PERSONAS JURÍDICAS
+REQUISITOS PARA AUTORIZACIÓN Y APROBACIÓN DEL PLAN SOCIAL DE EMPLEADOS PARA PERSONAS JURÍDICAS
 _____________________________________________________________________________________
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de Procedimiento
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
 Administrativo (Formato PDF)
 
-Carta poder o poder especial, debidamente
-autenticado
-Carta de reunión de socialización de fondo patronal
-autónomo de seguridad social con los empleados,
-firmada por los empleados o sus representantes legales.
+Carta poder o poder especial, debidamente autenticado
+Carta de reunión de socialización de fondo patronal autónomo de seguridad social con los empleados, firmada por los empleados o sus representantes legales.
 (Formato PDF)
 
-Cualquier otra información que el OT considere
-necesaria para sustentar su petición
-Contrato privado para la administración de un fondo de
-pensiones. (Formato PDF)
-Plan de pensiones definidos por el OT, que contenga
-como mínimo el % de aportación del empleado y del
-patrono, concepto por los que se realizarán aportes
-extraordinarios y en qué % máximo, Especificar si los
-valores se acreditarán al fondo en una cuenta. (Formato
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Contrato privado para la administración de un fondo de pensiones. (Formato PDF)
+Plan de pensiones definidos por el OT, que contenga como mínimo el % de aportación del empleado y del patrono, concepto por los que se realizarán aportes extraordinarios y en qué % máximo, Especificar si los valores se acreditarán al fondo en una cuenta. (Formato
 PDF)
 Planillas de sueldos y salarios del período solicitado
 (EXCEL)

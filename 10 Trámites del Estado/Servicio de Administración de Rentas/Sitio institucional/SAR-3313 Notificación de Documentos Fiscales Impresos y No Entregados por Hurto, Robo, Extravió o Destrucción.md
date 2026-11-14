@@ -38,25 +38,20 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE NOTIFICACIÓN DE
-DOCUMENTOS FISCALES IMPRESOS Y NO
-ENTREGADOS POR HURTO, ROBO,
-EXTRAVIO O DESTRUCCIÓN
+REQUISITOS DE NOTIFICACIÓN DE DOCUMENTOS FISCALES IMPRESOS Y NO
+ENTREGADOS POR HURTO, ROBO, EXTRAVIO O DESTRUCCIÓN
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
 REQUISITOS DE NOTIFICACIÓN DE DOCUMENTOS FISCALES IMPRESOS Y NO
 ENTREGADOS POR HURTO, ROBO, EXTRAVIO O DESTRUCCIÓN
-Esta notificación puede ser realizada únicamente a través de las ventanillas de
-Recepción y Notificación de forma presencial.
+Esta notificación puede ser realizada únicamente a través de las ventanillas de Recepción y Notificación de forma presencial.
 
-Con este trámite la Imprenta únicamente obtendrá su Comprobante de recibo, que será
-emitido en el momento en que ingresa la notificación ante la Administración Tributaria.
+Con este trámite la Imprenta únicamente obtendrá su Comprobante de recibo, que será emitido en el momento en que ingresa la notificación ante la Administración Tributaria.
 
 1. Presentar el escrito de solicitud que debe contener lo siguiente:
 - Nombre del trámite o petición que se formula “NOTIFICACIÓN DE
-DOCUMENTOS FISCALES IMPRESOS Y NO ENTREGADOS AL CLIENTE POR
-HURTO, ROBO, EXTRAVÍO O DESTRUCCIÓN”.
+DOCUMENTOS FISCALES IMPRESOS Y NO ENTREGADOS AL CLIENTE POR HURTO, ROBO, EXTRAVÍO O DESTRUCCIÓN”.
 - Órgano a quien se dirige -Servicio de Administración de Rentas (SAR)
 - Nombres y generalidades del peticionario (domicilio Tributario completo, Número
 de Teléfono y/o Celular y Correo Electrónico).
@@ -73,46 +68,24 @@ debe acompañar lo siguiente:
 - Documento Nacional de Identificación para hondureños (Original).
 - Pasaporte o carné de residente para extranjeros (Original).
 
-NOTIFICACIÓN DE DOCUMENTOS FISCALES IMPRESOS Y
-NO ENTREGADOS AL CLIENTE POR HURTO, ROBO,
-EXTRAVÍO O DESTRUCCIÓN ENTREGADOS POR HURTO, ROBO O DESTRUCCIÓN
-SE NOTIFICA DOCUMENTOS FISCALES IMPRESOS Y NO ENTREGADOS AL CLIENTE POR
-HURTO, ROBO O DESTRUCCIÓN
+NOTIFICACIÓN DE DOCUMENTOS FISCALES IMPRESOS Y NO ENTREGADOS AL CLIENTE POR HURTO, ROBO, EXTRAVÍO O DESTRUCCIÓN ENTREGADOS POR HURTO, ROBO O DESTRUCCIÓN
+SE NOTIFICA DOCUMENTOS FISCALES IMPRESOS Y NO ENTREGADOS AL CLIENTE POR HURTO, ROBO O DESTRUCCIÓN
 MINISTRA (O) DIRECTORA (O)
 SERVICIO DE ADMINISTRACIÓN DE RENTAS
-Yo: _____________________________________________________________________,
-hondureño(a), mayor de edad, profesión __________________________________________________,
-portador de la tarjeta de identidad número ______________________________, con teléfono celular
-número ____________________, correo electrónico_____________________________ actuando en mi
-condición ________________________________________________ ( personal, propietario de la
-imprenta, apoderado legal, representante legal o procesal ), de ______________________________
-(razón, denominación o nombre comercial de la Imprenta), con R.T.N
-número_____________________________, del domicilio
-tributario________________________________________________________, ( domicilio tributario
-completo), con teléfono número _____________________, celular número ___________________,
-correo electrónico___________________________________, con el número de Acreditación de Imprenta
-____________________________, comparezco ante usted Señora (o) Ministra (o) D irectora (o) para
-notificar la no utilización de _________________________________________, (Tipo de Documento
-Fiscal: Facturas, Factura Pre- valorada, Recibos por Honorarios, Ticket, Nota de Crédito, Nota de
-Débito, Comprobante de Retención, Guía de Remisión o Boleta de Compra), en base a los siguientes
-hechos y consideraciones de derecho ________________________________________________ (hurto,
-robo, extravió o destrucción ), del Obligado
-Tributario___________________________________________________ con RTN
-número_______________________________ con rango de numeración correlativa número utilizada
-desde____________________________ hasta____________________________
+Yo: _____________________________________________________________________, hondureño(a), mayor de edad, profesión __________________________________________________, portador de la tarjeta de identidad número ______________________________, con teléfono celular número ____________________, correo electrónico_____________________________ actuando en mi condición ________________________________________________ ( personal, propietario de la imprenta, apoderado legal, representante legal o procesal ), de ______________________________
+(razón, denominación o nombre comercial de la Imprenta), con R.T.N número_____________________________, del domicilio tributario________________________________________________________, ( domicilio tributario completo), con teléfono número _____________________, celular número ___________________, correo electrónico___________________________________, con el número de Acreditación de Imprenta
+____________________________, comparezco ante usted Señora (o) Ministra (o) D irectora (o) para notificar la no utilización de _________________________________________, (Tipo de Documento
+Fiscal: Facturas, Factura Pre- valorada, Recibos por Honorarios, Ticket, Nota de Crédito, Nota de Débito, Comprobante de Retención, Guía de Remisión o Boleta de Compra), en base a los siguientes hechos y consideraciones de derecho ________________________________________________ (hurto, robo, extravió o destrucción ), del Obligado
+Tributario___________________________________________________ con RTN número_______________________________ con rango de numeración correlativa número utilizada desde____________________________ hasta____________________________
 
 Asimismo, para soportar y documentar mi petición acompaño lo siguiente:
 _______________________________________________________________________________
 ____________________________________________________________________________________
 __________________________________________________________________________
 
-Fundo mi petición en los Artículo 80 de Constitución de la República, Artículos 29, 55 numeral 5), 8), 56
-numerales 4), 58 numeral 1), 86 del Código Tributario y sus reformas, Artículos 69 numeral 11) y 72 del
-Acuerdo 481-2017 contentivo del Reglamento del Régimen de Facturación, Otros Documentos Fiscales y
-Registro Fiscal de Imprentas y sus reformas.
+Fundo mi petición en los Artículo 80 de Constitución de la República, Artículos 29, 55 numeral 5), 8), 56 numerales 4), 58 numeral 1), 86 del Código Tributario y sus reformas, Artículos 69 numeral 11) y 72 del Acuerdo 481-2017 contentivo del Reglamento del Régimen de Facturación, Otros Documentos Fiscales y Registro Fiscal de Imprentas y sus reformas.
 
-A la señora (o) ministra (o) directora (o) respetuosamente pido: admitir el presente escrito y resolver de
-conformidad.
+A la señora (o) ministra (o) directora (o) respetuosamente pido: admitir el presente escrito y resolver de conformidad.
 
 En la ciudad _____________________________a los ______ del mes de________________ de 20___.
 

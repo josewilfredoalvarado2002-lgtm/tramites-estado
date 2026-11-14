@@ -38,43 +38,31 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE RENOVACIÓN DEL
-REGISTRO DE ALCOHOLES Y LICORES
+REQUISITOS DE RENOVACIÓN DEL REGISTRO DE ALCOHOLES Y LICORES
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
-REQUISITOS DE RENOVACIÓN DEL REGISTRO DE ALCOHOLES Y
-LICORES
+REQUISITOS DE RENOVACIÓN DEL REGISTRO DE ALCOHOLES Y LICORES
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Autorización o dictamen favorable por parte de
-SEFIN (Formato PDF)
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Autorización o dictamen favorable por parte de SEFIN (Formato PDF)
 
 Dictamen favorable vigente del Instituto
-Hondureño para la Prevención del Alcoholismo
-y Fármaco Dependencia (IHADFA) (Formato
+Hondureño para la Prevención del Alcoholismo y Fármaco Dependencia (IHADFA) (Formato
 PDF)
 Permiso de operación extendido por la Alcaldía
 Municipal (Formato PDF)
 Estados Financieros (EXCEL)
-Estados Financieros Firmados, Sellados y
-Timbrados por el contador público o firma
-auditora (Formato PDF)
-Registro Sanitario vigente otorgado por la
-Secretaría de Salud (Formato PDF)
+Estados Financieros Firmados, Sellados y Timbrados por el contador público o firma auditora (Formato PDF)
+Registro Sanitario vigente otorgado por la Secretaría de Salud (Formato PDF)
 Licencia Sanitaria (Formato PDF)
-Lista de licores comercializados por el obligado
-tributario (Formato PDF)
+Lista de licores comercializados por el obligado tributario (Formato PDF)
 Timbres de contratación por valor de L1,000.00
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
 
 ## Documentos
 

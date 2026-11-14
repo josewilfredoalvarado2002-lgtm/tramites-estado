@@ -41,8 +41,7 @@ estado_sitio: "Vigente"
 1
 Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
 Administrativo.
-Detallar el expediente donde se otorgó el Registro bajo la Figura de Envasador de Cilindros de Gas Licuado del
-Petróleo.
+Detallar el expediente donde se otorgó el Registro bajo la Figura de Envasador de Cilindros de Gas Licuado del Petróleo.
 2 Poder del representante legal.
 3 Documento Nacional de Identificación del representante legal.
 4 Poder del apoderado legal.
@@ -57,16 +56,13 @@ Petróleo.
 13 Presentar toda la documentación de forma digital, previo al ingreso en físico debe presentarse mediante el correo electrónico ventanillaunica@sen.hn;
 14
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en concepto de Inscripción De la Etiqueta de Seguridad y
-Etiqueta del Envasador de los Cilindros para Contener Gas Licuado del Petróleo a favor de la Sociedad de la
-siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en concepto de Inscripción De la Etiqueta de Seguridad y Etiqueta del Envasador de los Cilindros para Contener Gas Licuado del Petróleo a favor de la Sociedad de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12209 – Otras Licencias.
 Monto: L 10,000.00
 15
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución,
-de la siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
 Monto: L 200.00
@@ -74,18 +70,12 @@ Monto: L 200.00
 17 Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden de este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada requisito.
 
 En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas
-(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada
-una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y
-sello estampado del notario.
+(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello estampado del notario.
 
 ## Otro texto del documento
 
-Inscripción De la Etiqueta de Seguridad y Etiqueta del Envasador de los Cilindros para Contener Gas Licuado
-del Petróleo
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
-Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
-agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de
-agosto 2025).
+Inscripción De la Etiqueta de Seguridad y Etiqueta del Envasador de los Cilindros para Contener Gas Licuado del Petróleo
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto 2025).
 Artículo No. 23.
 
 ## Documentos

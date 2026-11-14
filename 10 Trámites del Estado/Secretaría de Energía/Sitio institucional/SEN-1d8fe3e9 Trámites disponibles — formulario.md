@@ -42,40 +42,27 @@ objetivos.)
 
 4
 
-acredite capacidad
-financiera para
-llevar a cabo la
-operación del
+acredite capacidad financiera para llevar a cabo la operación del
 
 (Español)
 
 5
 
-ilustre y que
-determine
-producción
-comercial.
+ilustre y que determine producción comercial.
 
 7
-Nombre,
-constitución y los
-respectivos
-instrumentos
-públicos de poder
-del mandatario.
+Nombre, constitución y los respectivos instrumentos públicos de poder del mandatario.
 (Nacionalidad
 Hondureña)
 (Español)
 
 8
-Mapa específico del
-área concedida
+Mapa específico del área concedida
 
 ## Requisitos (según el documento oficial)
 
 Requisitos
-Ley de Hidrocarburos 21, 22, 25, 26, 27, 38, 39, 40, 44 y 42 Reglamento de la Ley de
-Hidrocarburos 3, 27, 28, 29, 30, 47, 75 y 76.
+Ley de Hidrocarburos 21, 22, 25, 26, 27, 38, 39, 40, 44 y 42 Reglamento de la Ley de Hidrocarburos 3, 27, 28, 29, 30, 47, 75 y 76.
 
 Firma del Solicitante:__________________________________
 
@@ -87,27 +74,14 @@ Número de Expediente Asignado:
 
 ## Dónde se presenta (según el documento)
 
-donde se
-especifiquen los
-puntos de
-perforación a llevar
-a cabo, con
-coordenadas
-georreferenciadas
-WGS84 y punto de
-amarre.
+donde se especifiquen los puntos de perforación a llevar a cabo, con coordenadas georreferenciadas
+WGS84 y punto de amarre.
 
 9
 
-acredite
-condiciones
-especiales
-establecidas en el
+acredite condiciones especiales establecidas en el
 
-La Dirección General de Exploración y Explotación de Hidrocarburos, después de
-realizado el Análisis Legal y Técnico correspondiente, podrá solicitar que la
-información y documentación proporcionada sea modificada o ampliada, a efecto de
-cumplir con las disposiciones contenidas en la Ley de Hidrocarburos y su Reglamento.
+La Dirección General de Exploración y Explotación de Hidrocarburos, después de realizado el Análisis Legal y Técnico correspondiente, podrá solicitar que la información y documentación proporcionada sea modificada o ampliada, a efecto de cumplir con las disposiciones contenidas en la Ley de Hidrocarburos y su Reglamento.
 
 ## Otro texto del documento
 
@@ -129,30 +103,17 @@ Documentos Presentados
 Documento Presentado SI NO Observación
 1 Escrito de Solicitud dirigido a la SEN
 
-Copia Autenticada
-de Tarjeta de
-Identidad
+Copia Autenticada de Tarjeta de Identidad
 
 2
-Copia Autenticada
-de RTN de la
-Empresa Solicitante
+Copia Autenticada de RTN de la Empresa Solicitante
 
 3
 
-acredite el
-cumplimiento de
-obligaciones
-contractuales hasta
-la fecha.
+acredite el cumplimiento de obligaciones contractuales hasta la fecha.
 
 (Ej. Informes
-Semestrales
-presentados a la
-fecha, Informe
-detallado que
-especifique la causa
-de la necesidad de
+Semestrales presentados a la fecha, Informe detallado que especifique la causa de la necesidad de
 
 tiempo adicional y
 

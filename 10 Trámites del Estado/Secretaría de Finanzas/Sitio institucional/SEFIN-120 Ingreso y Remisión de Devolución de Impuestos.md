@@ -73,47 +73,30 @@ versión Z.00 Fecha de Versión: 27/07/2018 Página 5 de 17
 
 1 Contenido del Proceso
 1.1 Objetivo del Proceso
-Dar respuesta dentro de los términos legales la solicitud
-presentada por el interesado (persona natural o jurídico).
+Dar respuesta dentro de los términos legales la solicitud presentada por el interesado (persona natural o jurídico).
 1.2 Vinculación al Plan Estratégico
 1.2.1 Plan Estratégico Secretaría de Finanzas
-Mejorar la supervisión, el control y el análisis de la
-ejecución Financiera de los fondos públicos para que las
-autoridades realicen los ajustes oportunos.
+Mejorar la supervisión, el control y el análisis de la ejecución Financiera de los fondos públicos para que las autoridades realicen los ajustes oportunos.
 
 1.2.2 Objetivo del Área o Unidad
-Resolver los asuntos planteados por los peticionarios,
-en materia administrativa, Tributaría y otros.
+Resolver los asuntos planteados por los peticionarios, en materia administrativa, Tributaría y otros.
 
 1.3 Alcance
-Desde que el interesado presenta la petición a Secretaria General,
-hasta que la Secretaria de Estado, emite resolución enunciando la
-disposición final en cuanto a la solicitud planteada.
+Desde que el interesado presenta la petición a Secretaria General, hasta que la Secretaria de Estado, emite resolución enunciando la disposición final en cuanto a la solicitud planteada.
 
 1.4 Definición de Términos y Siglas
 Termino Definición / Significado
-Auto Forma de resolución que decide cuestiones
-secundarias, previas, incidentales o de
-ejecución o definitivas.
+Auto Forma de resolución que decide cuestiones secundarias, previas, incidentales o de ejecución o definitivas.
 
 versión Z.00 Fecha de Versión: 27/07/2018 Página 6 de 17
 
 Termino Definición / Significado
-Auto de Remisión Si la solicitud debe ser enviada a otra
-institución competente para analizar, informar,
-dictaminar, corregir o resolver sobre el asunto
-en trámite y posteriormente continuar con el
-proceso.
-Resolución Son las decisiones que se tomarán para dar por
-concluido el procedimiento, en que intervengan
-los particulares como parte interesada.
+Auto de Remisión Si la solicitud debe ser enviada a otra institución competente para analizar, informar, dictaminar, corregir o resolver sobre el asunto en trámite y posteriormente continuar con el proceso.
+Resolución Son las decisiones que se tomarán para dar por concluido el procedimiento, en que intervengan los particulares como parte interesada.
 Expediente Administrativo Conjunto de documentos, incluyendo solicitud y demás documentos requeridos.
 Dependencia Externa/
 Interna
-Dependencia donde se solicita se emita
-dictamen y o/ resolución. Puedes ser: SAR,
-CNBS, Dirección Legal, Dirección General de
-Presupuesto, entre otras.
+Dependencia donde se solicita se emita dictamen y o/ resolución. Puedes ser: SAR, CNBS, Dirección Legal, Dirección General de Presupuesto, entre otras.
 
 1.5 Responsable del Proceso
 Secretaria General
@@ -154,70 +137,37 @@ versión Z.00 Fecha de Versión: 27/07/2018 Página 8 de 17
 1.9 Diagrama de Flujo
 Correspondencia
 S.G Secretario GeneralSubsecretarías Recepción S.GDependencia externa.Dirección Legal Asistente de Viceministro
-Fase
-inicio
-Revisar requisitos
-y que
-documentación
-este completa.
-Recepcionar
-solicitud y
-expediente
-Elaboración de
-presentado y auto
-Elaboración de
-presentado y auto
+Fase inicio
+Revisar requisitos y que documentación este completa.
+Recepcionar solicitud y expediente
+Elaboración de presentado y auto
+Elaboración de presentado y auto
 Firma Secretario G.
 Firma
-Se recepciona el
-auto firmado por el
-vice ministro de
-Finanzas
-Se recibe
-expediente para
-notificacion
+Se recepciona el auto firmado por el vice ministro de Finanzas
+Se recibe expediente para notificacion
 Se deniega
 Si
 No
 Recepción e ingreso
-Envío de Auto
-resolutorio firmado
-para remisión del
-sub Secretario
-Procedmiento
-de Notificacion
+Envío de Auto resolutorio firmado para remisión del sub Secretario
+Procedmiento de Notificacion
 SG-01-16
 Fin
 Solicita dictamen
-Emite dictamen y lo
-remite a Secretaria
+Emite dictamen y lo remite a Secretaria
 General se SEFIN.
-A
-A1
-Envio de Auto
-firmado para
-remisión al
-Direccion Legal
-Remisión de
-Dictamen y
-Resolución
+A A1
+Envio de Auto firmado para remisión al Direccion Legal
+Remisión de Dictamen y Resolución
 B
 B1
 B2
-Se envía a firma de
-resolucion de
-Subsecretario
+Se envía a firma de resolucion de Subsecretario
 B3
 B4
-Se revisa y se pasa a
-firma en caso de no
-tener observaciones
-o se devuelve a
-Legal para su
-correccion
-Elaboración y firma
-de Dictamen y de
-Resolución
+Se revisa y se pasa a firma en caso de no tener observaciones o se devuelve a Legal para su correccion
+Elaboración y firma de Dictamen y de Resolución
 
 versión Z.00 Fecha de Versión: 27/07/2018 Página 9 de 17
 
@@ -236,15 +186,13 @@ Receptor Secretaria General Auto 22.25 36.35
 2 Firma de Resolución
 Receptor-
 Legal-
-encargada de
-Notificación
+encargada de Notificación
 Secretaria
 General-Legal Resolución 2.5 4.5
 3
 Notificación de Resolución
 
-Encargado de
-notificación
+Encargado de notificación
 Secretaria
 General Notificación - -
 
@@ -276,8 +224,7 @@ Responsable Tiempo Días Hábiles
 Puesto Área Mín. Máx.
 1.1 Revisión de solicitud de documentos Receptor Secretaria General 1 1
 1.1.1
-Revisar si cumple con los requisitos conforme a ley y
-revisar que documentación este completa Receptor Secretaria General 0.5 0.5
+Revisar si cumple con los requisitos conforme a ley y revisar que documentación este completa Receptor Secretaria General 0.5 0.5
 1.1.2 Recepcionar solicitud y expediente. Receptor Secretaria General 0.5 0.5
 
 1.10.1.2 Tareas de la Actividad “Elaboración de presentado y auto. (Denegatorio)”
@@ -287,31 +234,20 @@ Elaboración de presentado y auto.
 
 Responsable Tiempo Días Hábiles
 Puesto Área Mín. Máx.
-1.2 Elaboración de presentado de Auto
-denegatorio Receptor Secretaria General 6 10.5
-1.2.1
-se elabora el presentado y del auto, de
-conformidad a lo que se está solicitando Receptor
+1.2 Elaboración de presentado de Auto denegatorio Receptor Secretaria General 6 10.5
+1.2.1 se elabora el presentado y del auto, de conformidad a lo que se está solicitando Receptor
 Secretaria
 General 1 2
 1.2.2 se pasa a firma del Secretario General Secretario General Secretaria General 1 2
 1.2.3
-Una vez firmado por el S.G el receptor lo envía
-a firma del subsecretario de Finanzas y
-presupuesto si el auto es denegatorio. Receptor
+Una vez firmado por el S.G el receptor lo envía a firma del subsecretario de Finanzas y presupuesto si el auto es denegatorio. Receptor
 Secretaria
 General 0.5 1
 1.2.4 Recibe el auto el asistente del viceministro y lo pasa a firma Asistente viceministro Subsecretaria 0.5 0.5
 1.2.5
-Una vez firmado el auto por el subsecretario
-de Finanzas y Presupuesto, lo envía a
-Recepción de Secretaria General.
-Subsecretario
-de Finanzas y
-Presupuesto
-Sub Secretaria
-de Finanzas y
-Pres.
+Una vez firmado el auto por el subsecretario de Finanzas y Presupuesto, lo envía a Recepción de Secretaria General.
+Subsecretario de Finanzas y Presupuesto
+Sub Secretaria de Finanzas y Pres.
 1 2
 1.2.6 El Receptor lo envía al departamento de correspondencia de S.G para su notificación. Receptor Secretaria General 2 3
 
@@ -320,26 +256,17 @@ versión Z.00 Fecha de Versión: 27/07/2018 Página 11 de 17
 1.10.1.3 Tareas de la Actividad 3 “Elaboración de presentado y auto.
 (Remisión)”
 N° Elaboración de presentado y auto. (Remisión) Responsable Tiempo Días Hábiles Puesto Área Mín. Máx.
-1.3 Elaboración de presentado de Auto de
-Remisión Receptor S.G 15.25 24.85
-1.3.1
-se elabora presentado y del auto de
-conformidad a lo que se está solicitando Receptor S.G 1 2
+1.3 Elaboración de presentado de Auto de Remisión Receptor S.G 15.25 24.85
+1.3.1 se elabora presentado y del auto de conformidad a lo que se está solicitando Receptor S.G 1 2
 1.3.2 se pasa a firma del Secretario General Receptor S.G 1 2
 1.3.3
-Una vez firmado, se envía para dictamen a la
-dependencia correspondiente en caso que lo
-indique. Receptor S.G 2 3
+Una vez firmado, se envía para dictamen a la dependencia correspondiente en caso que lo indique. Receptor S.G 2 3
 1.3.4
-Una vez que regresa de la dependencia con
-dictamen emitido, el receptor elabora
-presentado y auto de remisión.
+Una vez que regresa de la dependencia con dictamen emitido, el receptor elabora presentado y auto de remisión.
 Receptor S.G 1 2
 1.3.5 El receptor pasa el presentado y el auto a firma del Secretario General Receptor S.G 1 2
 1.3.6
-Una vez firmado el receptor remite a la
-Dirección Legal para la Resolución
-correspondiente.
+Una vez firmado el receptor remite a la Dirección Legal para la Resolución correspondiente.
 Director Legal Dirección Legal 9.25 13.85
 
 versión Z.00 Fecha de Versión: 27/07/2018 Página 12 de 17
@@ -354,25 +281,16 @@ Puesto Área Mín. Máx.
 N° Tarea Responsable Tiempo Días Hábiles
 Puesto Área Mín. Máx.
 2.1
-Se recibe de legal expediente con dictamen
-resolución emitida y se revisa que no tenga
-observaciones, de lo contrario se devuelve a
-Legal.
+Se recibe de legal expediente con dictamen resolución emitida y se revisa que no tenga observaciones, de lo contrario se devuelve a Legal.
 Receptor Secretaria General 2.5 4.5
 2.1.1 Se pasa a firma del Secretario General Receptor Secretario General 0.5 0.5
 2.1.2
-Después de que el Secretario General firma, el
-receptor lo envía al Subsecretario de Finanzas
-y Presupuesto / Crédito e Inversión Pública
-para su respectiva firma
+Después de que el Secretario General firma, el receptor lo envía al Subsecretario de Finanzas y Presupuesto / Crédito e Inversión Pública para su respectiva firma
 Receptor Secretaria General 0.5 1
 2.1.3
-El asistente del viceministro recibe resolución
-y la pasa a firma. Asistente viceministro Subsecretaria 1 2
+El asistente del viceministro recibe resolución y la pasa a firma. Asistente viceministro Subsecretaria 1 2
 2.1.4
-Se recibe ya firmado y se pasa al
-Departamento de correspondencia para su
-notificación al apoderado legal. Receptor Secretaria General 0.5 1
+Se recibe ya firmado y se pasa al Departamento de correspondencia para su notificación al apoderado legal. Receptor Secretaria General 0.5 1
 
 ## Descripcion
 
@@ -406,70 +324,37 @@ versión Z.00 Fecha de Versión: 27/07/2018 Página 8 de 17
 1.9 Diagrama de Flujo
 Correspondencia
 S.G Secretario GeneralSubsecretarías Recepción S.GDependencia externa.Dirección Legal Asistente de Viceministro
-Fase
-inicio
-Revisar requisitos
-y que
-documentación
-este completa.
-Recepcionar
-solicitud y
-expediente
-Elaboración de
-presentado y auto
-Elaboración de
-presentado y auto
+Fase inicio
+Revisar requisitos y que documentación este completa.
+Recepcionar solicitud y expediente
+Elaboración de presentado y auto
+Elaboración de presentado y auto
 Firma Secretario G.
 Firma
-Se recepciona el
-auto firmado por el
-vice ministro de
-Finanzas
-Se recibe
-expediente para
-notificacion
+Se recepciona el auto firmado por el vice ministro de Finanzas
+Se recibe expediente para notificacion
 Se deniega
 Si
 No
 Recepción e ingreso
-Envío de Auto
-resolutorio firmado
-para remisión del
-sub Secretario
-Procedmiento
-de Notificacion
+Envío de Auto resolutorio firmado para remisión del sub Secretario
+Procedmiento de Notificacion
 SG-01-16
 Fin
 Solicita dictamen
-Emite dictamen y lo
-remite a Secretaria
+Emite dictamen y lo remite a Secretaria
 General se SEFIN.
-A
-A1
-Envio de Auto
-firmado para
-remisión al
-Direccion Legal
-Remisión de
-Dictamen y
-Resolución
+A A1
+Envio de Auto firmado para remisión al Direccion Legal
+Remisión de Dictamen y Resolución
 B
 B1
 B2
-Se envía a firma de
-resolucion de
-Subsecretario
+Se envía a firma de resolucion de Subsecretario
 B3
 B4
-Se revisa y se pasa a
-firma en caso de no
-tener observaciones
-o se devuelve a
-Legal para su
-correccion
-Elaboración y firma
-de Dictamen y de
-Resolución
+Se revisa y se pasa a firma en caso de no tener observaciones o se devuelve a Legal para su correccion
+Elaboración y firma de Dictamen y de Resolución
 
 versión Z.00 Fecha de Versión: 27/07/2018 Página 9 de 17
 
@@ -488,15 +373,13 @@ Receptor Secretaria General Auto 22.25 36.35
 2 Firma de Resolución
 Receptor-
 Legal-
-encargada de
-Notificación
+encargada de Notificación
 Secretaria
 General-Legal Resolución 2.5 4.5
 3
 Notificación de Resolución
 
-Encargado de
-notificación
+Encargado de notificación
 Secretaria
 General Notificación - -
 
@@ -528,8 +411,7 @@ Responsable Tiempo Días Hábiles
 Puesto Área Mín. Máx.
 1.1 Revisión de solicitud de documentos Receptor Secretaria General 1 1
 1.1.1
-Revisar si cumple con los requisitos conforme a ley y
-revisar que documentación este completa Receptor Secretaria General 0.5 0.5
+Revisar si cumple con los requisitos conforme a ley y revisar que documentación este completa Receptor Secretaria General 0.5 0.5
 1.1.2 Recepcionar solicitud y expediente. Receptor Secretaria General 0.5 0.5
 
 1.10.1.2 Tareas de la Actividad “Elaboración de presentado y auto. (Denegatorio)”
@@ -539,31 +421,20 @@ Elaboración de presentado y auto.
 
 Responsable Tiempo Días Hábiles
 Puesto Área Mín. Máx.
-1.2 Elaboración de presentado de Auto
-denegatorio Receptor Secretaria General 6 10.5
-1.2.1
-se elabora el presentado y del auto, de
-conformidad a lo que se está solicitando Receptor
+1.2 Elaboración de presentado de Auto denegatorio Receptor Secretaria General 6 10.5
+1.2.1 se elabora el presentado y del auto, de conformidad a lo que se está solicitando Receptor
 Secretaria
 General 1 2
 1.2.2 se pasa a firma del Secretario General Secretario General Secretaria General 1 2
 1.2.3
-Una vez firmado por el S.G el receptor lo envía
-a firma del subsecretario de Finanzas y
-presupuesto si el auto es denegatorio. Receptor
+Una vez firmado por el S.G el receptor lo envía a firma del subsecretario de Finanzas y presupuesto si el auto es denegatorio. Receptor
 Secretaria
 General 0.5 1
 1.2.4 Recibe el auto el asistente del viceministro y lo pasa a firma Asistente viceministro Subsecretaria 0.5 0.5
 1.2.5
-Una vez firmado el auto por el subsecretario
-de Finanzas y Presupuesto, lo envía a
-Recepción de Secretaria General.
-Subsecretario
-de Finanzas y
-Presupuesto
-Sub Secretaria
-de Finanzas y
-Pres.
+Una vez firmado el auto por el subsecretario de Finanzas y Presupuesto, lo envía a Recepción de Secretaria General.
+Subsecretario de Finanzas y Presupuesto
+Sub Secretaria de Finanzas y Pres.
 1 2
 1.2.6 El Receptor lo envía al departamento de correspondencia de S.G para su notificación. Receptor Secretaria General 2 3
 
@@ -572,26 +443,17 @@ versión Z.00 Fecha de Versión: 27/07/2018 Página 11 de 17
 1.10.1.3 Tareas de la Actividad 3 “Elaboración de presentado y auto.
 (Remisión)”
 N° Elaboración de presentado y auto. (Remisión) Responsable Tiempo Días Hábiles Puesto Área Mín. Máx.
-1.3 Elaboración de presentado de Auto de
-Remisión Receptor S.G 15.25 24.85
-1.3.1
-se elabora presentado y del auto de
-conformidad a lo que se está solicitando Receptor S.G 1 2
+1.3 Elaboración de presentado de Auto de Remisión Receptor S.G 15.25 24.85
+1.3.1 se elabora presentado y del auto de conformidad a lo que se está solicitando Receptor S.G 1 2
 1.3.2 se pasa a firma del Secretario General Receptor S.G 1 2
 1.3.3
-Una vez firmado, se envía para dictamen a la
-dependencia correspondiente en caso que lo
-indique. Receptor S.G 2 3
+Una vez firmado, se envía para dictamen a la dependencia correspondiente en caso que lo indique. Receptor S.G 2 3
 1.3.4
-Una vez que regresa de la dependencia con
-dictamen emitido, el receptor elabora
-presentado y auto de remisión.
+Una vez que regresa de la dependencia con dictamen emitido, el receptor elabora presentado y auto de remisión.
 Receptor S.G 1 2
 1.3.5 El receptor pasa el presentado y el auto a firma del Secretario General Receptor S.G 1 2
 1.3.6
-Una vez firmado el receptor remite a la
-Dirección Legal para la Resolución
-correspondiente.
+Una vez firmado el receptor remite a la Dirección Legal para la Resolución correspondiente.
 Director Legal Dirección Legal 9.25 13.85
 
 versión Z.00 Fecha de Versión: 27/07/2018 Página 12 de 17
@@ -606,77 +468,51 @@ Puesto Área Mín. Máx.
 N° Tarea Responsable Tiempo Días Hábiles
 Puesto Área Mín. Máx.
 2.1
-Se recibe de legal expediente con dictamen
-resolución emitida y se revisa que no tenga
-observaciones, de lo contrario se devuelve a
-Legal.
+Se recibe de legal expediente con dictamen resolución emitida y se revisa que no tenga observaciones, de lo contrario se devuelve a Legal.
 Receptor Secretaria General 2.5 4.5
 2.1.1 Se pasa a firma del Secretario General Receptor Secretario General 0.5 0.5
 2.1.2
-Después de que el Secretario General firma, el
-receptor lo envía al Subsecretario de Finanzas
-y Presupuesto / Crédito e Inversión Pública
-para su respectiva firma
+Después de que el Secretario General firma, el receptor lo envía al Subsecretario de Finanzas y Presupuesto / Crédito e Inversión Pública para su respectiva firma
 Receptor Secretaria General 0.5 1
 2.1.3
-El asistente del viceministro recibe resolución
-y la pasa a firma. Asistente viceministro Subsecretaria 1 2
+El asistente del viceministro recibe resolución y la pasa a firma. Asistente viceministro Subsecretaria 1 2
 2.1.4
-Se recibe ya firmado y se pasa al
-Departamento de correspondencia para su
-notificación al apoderado legal. Receptor Secretaria General 0.5 1
+Se recibe ya firmado y se pasa al Departamento de correspondencia para su notificación al apoderado legal. Receptor Secretaria General 0.5 1
 
 Nota:
-Estos tiempos están sujetos a variación, debido a los cambios que se presentan en el proceso, asimismo nos
-amparamos en la ley del procedimiento administrativo en el artículo No. 84, donde reza lo siguiente:
-La resolución de todo procedimiento se notificara: a) en el plazo máximo de diez días, contados a partir del día
-siguiente de la presentación del primer escrito, cuando lo solicitado se pueda resolver de plano, en el fondo; y, b)
-en el plazo máximo de sesenta días, contados a partir del día siguiente de la notificación de la primera providencia,
-en los demás casos. no obstante lo anterior, las resoluciones podrán notificarse después de los plazos señalados
+Estos tiempos están sujetos a variación, debido a los cambios que se presentan en el proceso, asimismo nos amparamos en la ley del procedimiento administrativo en el artículo No. 84, donde reza lo siguiente:
+La resolución de todo procedimiento se notificara: a) en el plazo máximo de diez días, contados a partir del día siguiente de la presentación del primer escrito, cuando lo solicitado se pueda resolver de plano, en el fondo; y, b) en el plazo máximo de sesenta días, contados a partir del día siguiente de la notificación de la primera providencia, en los demás casos. no obstante lo anterior, las resoluciones podrán notificarse después de los plazos señalados
 
 versión Z.00 Fecha de Versión: 27/07/2018 Página 13 de 17
 
-por causas excepcionales debidamente justificadas, las cuales se consignaran en el expediente, mediante diligencia
-firmada por el titular del órgano competente para resolver.
+por causas excepcionales debidamente justificadas, las cuales se consignaran en el expediente, mediante diligencia firmada por el titular del órgano competente para resolver.
 
-1.10.3 Actividades del Procedimiento “Notificación de Resolución ” ver
-procedimiento SG-01-16
+1.10.3 Actividades del Procedimiento “Notificación de Resolución ” ver procedimiento SG-01-16
 
 Gestión del Riesgo
 
 N° Procedimiento Riesgo P I VTR Controles Riesgo Residual Tipo de Riesgo
 1 Elaboración de Auto
-Equivocarse en
-nombre de apoderado
-Legal, en fecha o
-número de expediente
+Equivocarse en nombre de apoderado
+Legal, en fecha o número de expediente
 
 2
 
 2 4
-Revisar antes de pasar a
-firma, para constatar
-que datos sean
-correctos
+Revisar antes de pasar a firma, para constatar que datos sean correctos
 2 Bajo
 2
-Firma de
-Resolución
+Firma de Resolución
 
-Error en contenido de
-la Resolución, en
-nombres, fechas,
-montos, etc.
+Error en contenido de la Resolución, en nombres, fechas, montos, etc.
 
 2 2 4 Previa revisión a la firmas correspondientes 2 Bajo
 
 versión Z.00 Fecha de Versión: 27/07/2018 Página 14 de 17
 
 2 Documentos de Referencia
-Código del
-Documento
-Nombre del Documento Autor Versión Fecha de
-Edición
+Código del Documento
+Nombre del Documento Autor Versión Fecha de Edición
 01 Resolución Varios
 
 versión Z.00 Fecha de Versión: 27/07/2018 Página 15 de 17
@@ -691,8 +527,7 @@ versión Z.00 Fecha de Versión: 27/07/2018 Página 16 de 17
 4 Anexos
 
 Anexo N° Descripción Tipo de Documento Código
-01 Listado de procedimientos que incluye
-el proceso.
+01 Listado de procedimientos que incluye el proceso.
 varios S/N
 
 versión Z.00 Fecha de Versión: 27/07/2018 Página 17 de 17

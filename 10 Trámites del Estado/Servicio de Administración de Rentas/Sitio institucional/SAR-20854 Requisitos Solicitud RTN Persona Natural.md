@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE INSCRIPCIÓN DEL
-RTN PARA PERSONA NATURAL
+REQUISITOS DE INSCRIPCIÓN DEL RTN PARA PERSONA NATURAL
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
@@ -53,35 +52,23 @@ REQUISITOS DE INSCRIPCIÓN RTN PERSONA NATURAL
 - Constancia de la Vecindad.
 - Recibo de suscripción de Servicios Privados (Internet, cable, telefonía)
 
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se
-debe acompañar poder o carta poder debidamente autenticado, Documento Nacional
-de Identificación (DNI) para hondureños, Pasaporte o carné de residente para
-extranjeros, indicando si posee las siguientes facultades:
+Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firmar.
 
-REQUISITOS DE INSCRIPCIÓN RTN PERSONA NATURAL HONDUREÑA FUERA DEL
-PAÍS SIN DOCUMENTO NACIONAL DE IDENTIFICACIÓN (DNI)
+REQUISITOS DE INSCRIPCIÓN RTN PERSONA NATURAL HONDUREÑA FUERA DEL PAÍS SIN DOCUMENTO NACIONAL DE IDENTIFICACIÓN (DNI)
 
 1. Acta de nacimiento.
 2. Pasaporte hondureño vigente.
 3. Documento de enrolamiento emitido por el RNP.
-4. Carta a poder, la cual deberá estar apostillada o refrendada por el consulado
-hondureño o la autoridad competente del país donde reside.
-Nota 1: Si la carta a poder fue firmada dentro del territorio nacional, se deberá
-adjuntar copia del pasaporte con los sellos de entrada de migración, que evidencien
-su ingreso al país en la fecha correspondiente a la firma del documento.
-Nota 2: Esta excepción aplica únicamente cuando el ciudadano no posee el
-Documento Nacional de Identificación (DNI), se encuentra fuera del país y su
-estatus migratorio es irregular.
+4. Carta a poder, la cual deberá estar apostillada o refrendada por el consulado hondureño o la autoridad competente del país donde reside.
+Nota 1: Si la carta a poder fue firmada dentro del territorio nacional, se deberá adjuntar copia del pasaporte con los sellos de entrada de migración, que evidencien su ingreso al país en la fecha correspondiente a la firma del documento.
+Nota 2: Esta excepción aplica únicamente cuando el ciudadano no posee el Documento Nacional de Identificación (DNI), se encuentra fuera del país y su estatus migratorio es irregular.
 
-REQUISITOS DE INSCRIPCIÓN RTN PERSONA NATURAL EXTRANJERA QUE
-REQUIERE RTN PARA GESTIONAR UNA FYDUCA DE OFICIO
+REQUISITOS DE INSCRIPCIÓN RTN PERSONA NATURAL EXTRANJERA QUE REQUIERE RTN PARA GESTIONAR UNA FYDUCA DE OFICIO
 
 RTN emitido únicamente en los Centros de Control de los Puestos Fronterizos
-Integrados de la Unión Aduanera Guatemala, Honduras y El Salvador, para aquellas
-personas ciudadanos de los Estados Parte que no presentan Declaración Mensual de
-Impuesto Sobre Ventas.
+Integrados de la Unión Aduanera Guatemala, Honduras y El Salvador, para aquellas personas ciudadanos de los Estados Parte que no presentan Declaración Mensual de Impuesto Sobre Ventas.
 
 1. Documento de identificación:
 

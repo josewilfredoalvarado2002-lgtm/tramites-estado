@@ -50,52 +50,30 @@ REQUISITOS
 
 ITEM REQUISITO NS *MMM **MCT **MF **MNE
 1.
-Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de La Ley
-de Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono
-fijo, teléfono celular y correo electrónico.
+Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono celular y correo electrónico.
 2.
-Carta poder debidamente autenticada la firma o la copia del Poder en Escritura Pública
-debidamente autenticado o cotejado. (si viene en un idioma diferente al español deberá ser
-traducido por la Secretaría de Estado en los Despachos de Relaciones Exteriores y
-Cooperación Internacional de Honduras)
+Carta poder debidamente autenticada la firma o la copia del Poder en Escritura Pública debidamente autenticado o cotejado. (si viene en un idioma diferente al español deberá ser traducido por la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional de Honduras)
 3. Acreditar pago del aviso de Trámite según Resolución Normativa de Tasas y Canon Vigente.
 4.
-Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por
-el Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será
-de diez (10) días hábiles desde su emisión. Lo anterior únicamente en el caso de ser
-operador de algún servicio de telecomunicaciones.
+Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de diez (10) días hábiles desde su emisión. Lo anterior únicamente en el caso de ser operador de algún servicio de telecomunicaciones.
 5.
-Presentar Constancia de que está Solvente Documentalmente ante Conatel, emitida por la
-Dirección de Planificación y Desarrollo (DIPLADE), cuya vigencia aceptada será de diez (10)
-días hábiles desde su emisión. Lo anterior de conformidad a la NR010/15, Resolutivo
-Séptimo, únicamente en el caso de ser operador de algún servicio de
-telecomunicaciones
+Presentar Constancia de que está Solvente Documentalmente ante Conatel, emitida por la Dirección de Planificación y Desarrollo (DIPLADE), cuya vigencia aceptada será de diez (10) días hábiles desde su emisión. Lo anterior de conformidad a la NR010/15, Resolutivo
+Séptimo, únicamente en el caso de ser operador de algún servicio de telecomunicaciones
 6. Forma Técnica 100, debe ser llenada y completada con la información del solicitante y de su apoderado legal siendo necesario que venga firmada y sellada por este último.
 7.
-Forma Técnica 870, debe ser llenada, firmada, sellada y timbrada por un profesional de la
-ingeniería, habilitado en el ejercicio de su profesión afín a la especialidad en
-telecomunicaciones y que se encuentre debidamente colegiado por el Colegio de Ingenieros
+Forma Técnica 870, debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería, habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones y que se encuentre debidamente colegiado por el Colegio de Ingenieros
 Mecánicos, Eléctricos, Químicos de Honduras (CIMEQH).
 8. Presentar la siguiente información en aplicación al Artículo 219 del Reglamento de la Ley Marco del Sector de las Telecomunicaciones (Impreso o en CD).
 a. Características Generales del Equipo: el cual debe de describir la funcionalidad del equipo, nombre del fabricante, marca y modelo del equipo, país de fabricación.
 b.
-Certificados de Homologación: La Comisión Nacional de Telecomunicaciones, CONATEL,
-acepta copias de los certificados de homologación emitidos por: Federal Communications
-Comision (FCC) de los Estados Unidos de Norteamérica, Instituto Federal de
-Telecomunicaciones (IFETEL) de México, Comisión Europea (CE) y de Telecom
-Engineering Center (TELEC, antes MKK del Japón); asimismo, se considerará copia de
-certificaciones de cualquier otro país Latinoamericano. Para todas las copias de
-certificaciones, el solicitante debe presentar el ID o el enlace (Link) donde se pueda verificar
-la emisión del Organismo Internacional o del Ente Regulador que la expidió.
+Certificados de Homologación: La Comisión Nacional de Telecomunicaciones, CONATEL, acepta copias de los certificados de homologación emitidos por: Federal Communications
+Comision (FCC) de los Estados Unidos de Norteamérica, Instituto Federal de Telecomunicaciones (IFETEL) de México, Comisión Europea (CE) y de Telecom
+Engineering Center (TELEC, antes MKK del Japón); asimismo, se considerará copia de certificaciones de cualquier otro país Latinoamericano. Para todas las copias de certificaciones, el solicitante debe presentar el ID o el enlace (Link) donde se pueda verificar la emisión del Organismo Internacional o del Ente Regulador que la expidió.
 c.
 Especificaciones técnicas del equipo:
-i. Parámetros técnicos de operación
-ii. Información sobre el rango de frecuencias radioeléctricas, (incluyendo el SAR (Tasa
-Especifica de Absorción) en el Caso que aplique)
-iii. Características físicas y ambientales
-iv. Diagrama electrónico
-v. Diagrama en bloque
-vi. Reporte de pruebas del equipo (Test Report)
+i. Parámetros técnicos de operación ii. Información sobre el rango de frecuencias radioeléctricas, (incluyendo el SAR (Tasa
+Especifica de Absorción) en el Caso que aplique) iii. Características físicas y ambientales iv. Diagrama electrónico
+v. Diagrama en bloque vi. Reporte de pruebas del equipo (Test Report)
 d. Fotografías internas y externas del equipo.
 
 REQUISITOS
@@ -103,9 +81,7 @@ REQUISITOS
 *Requisitos y formatos en la página Web de CONATEL:
 
 6
-Un determinado equipo solicitado a homologarse pero que no cuente con Certificado de Homologación y que sea el módulo o módulos alojados en el
-equipo los que cuenten con el Certificado de Homologación, el solicitante está obligado a presentar la carta del fabricante del equipo en donde se indique
-que dicho equipo está integrado por tal o tales módulos.
+Un determinado equipo solicitado a homologarse pero que no cuente con Certificado de Homologación y que sea el módulo o módulos alojados en el equipo los que cuenten con el Certificado de Homologación, el solicitante está obligado a presentar la carta del fabricante del equipo en donde se indique que dicho equipo está integrado por tal o tales módulos.
 NS Nueva Solicitud
 MMM Modificación de Marca y/o Modelo
 MCT Modificación de Características Técnicas
@@ -116,16 +92,12 @@ Nomenclatura
 ## Notas (según el documento)
 
 1
-Referente al Certificado de Homologación emitido por los organismos Internacionales y Entes Reguladores, por ser un documento de carácter público
-deberán presentarlos debidamente apostillados, (de acuerdo al convenio de la Haya del 5 de Octubre de 1961), lo anterior siempre y cuando no presente
-información sobre la ID o el enlace para su verificación.
+Referente al Certificado de Homologación emitido por los organismos Internacionales y Entes Reguladores, por ser un documento de carácter público deberán presentarlos debidamente apostillados, (de acuerdo al convenio de la Haya del 5 de Octubre de 1961), lo anterior siempre y cuando no presente información sobre la ID o el enlace para su verificación.
 2 La información solicitada en el numeral 9, literales a, b, c, d, puede presentarse impresa o en CD, debiendo adjuntarse al trámite de solicitud.
 3 * Requiere de un Nuevo Certificado
 4 ** No Requiere de un Nuevo Certificado
 5
-Referente a las Modificaciones de las características Técnicas del Equipo, o del Fabricante, o del Nombre del Equipo, en caso que el Certificado de
-Homologación o el enlace de verificación no informe sobre dicha modificación, el solicitante deberá presentar Nota del Fabricante del Equipo donde se
-informe la modificación solicitada. No obstante, si es de frecuencias y potencia se estará a lo dispuesto por la DIGER.
+Referente a las Modificaciones de las características Técnicas del Equipo, o del Fabricante, o del Nombre del Equipo, en caso que el Certificado de Homologación o el enlace de verificación no informe sobre dicha modificación, el solicitante deberá presentar Nota del Fabricante del Equipo donde se informe la modificación solicitada. No obstante, si es de frecuencias y potencia se estará a lo dispuesto por la DIGER.
 
 ## Documentos
 

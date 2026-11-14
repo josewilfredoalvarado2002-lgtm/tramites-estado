@@ -8,8 +8,21 @@ Carpeta: 10 Trámites del Estado/<Institución>/Sitio institucional/
 import json
 import os
 import re
+import sys
 import unicodedata
 from datetime import datetime
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from gaceta import reparar  # noqa: E402  (reparación del armado del texto de los PDF)
+
+_VOC = {}
+
+
+def vocabulario(boveda):
+    """Palabras ya escritas en la colección (se calcula una vez por corrida)."""
+    if boveda not in _VOC:
+        _VOC[boveda] = reparar.vocabulario_repo(boveda)
+    return _VOC[boveda]
 
 INICIO, FIN = "<!-- portal:inicio -->", "<!-- portal:fin -->"
 RAIZ = "10 Trámites del Estado"
@@ -145,7 +158,10 @@ class Escritor:
                   "ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). "
                   "Lo que no se pudo ubicar queda en «Otro texto del documento».", ""]
         for k, v in _ordenadas(f.secciones):
-            L += [f"## {k}", "", md(v), ""]
+            texto = md(v)
+            if reparar.es_seccion_documento(k):
+                texto = reparar.documento(texto, vocabulario(self.boveda))
+            L += [f"## {k}", "", texto, ""]
         if f.documentos:
             L += ["## Documentos", ""]
             for d in f.documentos:

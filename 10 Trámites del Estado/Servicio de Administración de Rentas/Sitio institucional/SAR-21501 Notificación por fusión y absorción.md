@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE NOTIFICACIÓN POR FUSIÓN Y
-ABSORCIÓN
+REQUISITOS DE NOTIFICACIÓN POR FUSIÓN Y ABSORCIÓN
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
@@ -47,29 +46,15 @@ Departamento de Gestión Tributaria
 REQUISITOS DE NOTIFICACIÓN POR FUSIÓN Y ABSORCIÓN
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de Procedimiento
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
 Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Comprobante de la notificación de los documentos
-fiscales no utilizados (por cualquier motivo) de las
-empresas absorbidas
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
+Carta poder o poder especial, debidamente autenticado
+Comprobante de la notificación de los documentos fiscales no utilizados (por cualquier motivo) de las empresas absorbidas
+Cualquier otra información que el OT considere necesaria para sustentar su petición
 Comprobante de actualización de Datos
-Escritura Pública de aprobación de la fusión o absorción,
-protocolizada e inscrita en el Registro mercantil (las
-obligaciones formales y materiales de los OT absorbidos
-deberán estar cumplidas hasta la fecha en que se autoriza
-la escritura de aprobación
-Estados financieros de la empresa absorbida y
-absorbente del año en que ocurrió el evento y el año
-inmediato anterior (EXCEL)
-Estados financieros debidamente firmados, timbrados y
-sellados de la empresa absorbida y absorbente del año en
-que ocurrió el evento y el año inmediato anterior (Formato
+Escritura Pública de aprobación de la fusión o absorción, protocolizada e inscrita en el Registro mercantil (las obligaciones formales y materiales de los OT absorbidos deberán estar cumplidas hasta la fecha en que se autoriza la escritura de aprobación
+Estados financieros de la empresa absorbida y absorbente del año en que ocurrió el evento y el año inmediato anterior (EXCEL)
+Estados financieros debidamente firmados, timbrados y sellados de la empresa absorbida y absorbente del año en que ocurrió el evento y el año inmediato anterior (Formato
 PDF)
 Comprobante de boletín de pago L200.00 (Impuesto: 156
 - Actos administrativos, concepto: 1 Propio Computo)

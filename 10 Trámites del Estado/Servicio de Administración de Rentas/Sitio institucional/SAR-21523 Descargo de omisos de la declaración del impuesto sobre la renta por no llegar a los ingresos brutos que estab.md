@@ -39,34 +39,23 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 REQUISITOS DESCARGO DE OMISOS DE LA DECLARACIÓN
-DEL IMPUESTO SOBRE LA RENTA POR NO LLEGAR A LOS
-INGRESOS BRUTOS QUE ESTABLECE EL ARTÍCULO 28
+DEL IMPUESTO SOBRE LA RENTA POR NO LLEGAR A LOS INGRESOS BRUTOS QUE ESTABLECE EL ARTÍCULO 28
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
-REQUISITOS DESCARGO DE OMISOS DE LA DECLARACIÓN DEL IMPUESTO SOBRE LA
-RENTA POR NO LLEGAR A LOS INGRESOS BRUTOS QUE ESTABLECE EL ARTÍCULO 28
+REQUISITOS DESCARGO DE OMISOS DE LA DECLARACIÓN DEL IMPUESTO SOBRE LA RENTA POR NO LLEGAR A LOS INGRESOS BRUTOS QUE ESTABLECE EL ARTÍCULO 28
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Documentación soporte que acredite las fuentes
-de ingreso del obligado tributario
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Documentación soporte que acredite las fuentes de ingreso del obligado tributario
+Cualquier otra información que el OT considere necesaria para sustentar su petición
 Comprobante de boletín de pago L200.00
 (Impuesto: 156 - Actos administrativos, concepto:
 1 Propio Computo)
-Documentos fiscales utilizados y dos
-subsiguientes sin utilizar vigentes en los
-períodos que solicita el descargo de omisos
-Comprobante de notificación de
-documentos fiscales (Motivos Art 42 -
+Documentos fiscales utilizados y dos subsiguientes sin utilizar vigentes en los períodos que solicita el descargo de omisos
+Comprobante de notificación de documentos fiscales (Motivos Art 42 -
 Acuerdo 481-2017)
 
 ## Documentos

@@ -38,9 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS NOTIFICACIÓN DE BAJA DE
-OBLIGACIÓN DEL IMPUESTO SOBRE LA
-RENTA PERSONA NATURAL
+REQUISITOS NOTIFICACIÓN DE BAJA DE OBLIGACIÓN DEL IMPUESTO SOBRE LA RENTA PERSONA NATURAL
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
@@ -54,82 +52,58 @@ PERSONA NATURAL POR SER ASALARIADO CÓDIGO DE IMPUESTO 102 ............. 5
 NOTIFICACIÓN DE SUSPENSIÓN DE OBLIGACIÓN ISR DE PERSONA NATURAL
 (QUE NO SUPERAN EL MÍNIMO EXENTO). ................................................................. 6
 
-Estos trámites puede realizarlos en línea desde la Oficina Virtual o, si lo prefiere, de
-manera presencial en nuestras oficinas regionales y departamentales.
-A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y
-presencial según el tipo de notificación.
+Estos trámites puede realizarlos en línea desde la Oficina Virtual o, si lo prefiere, de manera presencial en nuestras oficinas regionales y departamentales.
+A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y presencial según el tipo de notificación.
 
 PERSONA NATURAL POR DEJAR DE PERCIBIR INGRESOS
-La notificación está orientada para aquellos obligados tributarios que dejarán de percibir
-ingresos por diferentes motivos.
+La notificación está orientada para aquellos obligados tributarios que dejarán de percibir ingresos por diferentes motivos.
 
-debe ser en Formato PDF. Debe contener el período fiscal desde el cual notifica
-la baja de obligación.
+debe ser en Formato PDF. Debe contener el período fiscal desde el cual notifica la baja de obligación.
 2. Justificante boletín de pago libre por Actos Administrativos (L. 200.00).
 3. Fotocopia de los últimos 5 documentos fiscales utilizados.
 4. Formulario de Notificación de Documentos no Utilizados.
 
-Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros,
-indicando si posee las siguientes facultades:
+Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las siguientes facultades:
 
 - Facultades para firma.
 
 PERSONA NATURAL POR SALIR DEL PAÍS
-La notificación está orientada para aquellos Obligados Tributarios que ya no percibirán
-ingresos por salir del país y que previó a este evento notifican la baja de la Obligación.
-Se permitirá la presentación de la notificación de baja de obligación, incluso si el período
-fiscal no ha finalizado, siempre y cuando no se hayan recibido ingresos o estos no
-superen el mínimo exento.
-Si los ingresos obtenidos durante el período fiscal exceden el mínimo exento, será
-necesario solicitar la habilitación de la Declaración del Impuesto Sobre la Renta por
-Motivo de Abandono del País.
+La notificación está orientada para aquellos Obligados Tributarios que ya no percibirán ingresos por salir del país y que previó a este evento notifican la baja de la Obligación.
+Se permitirá la presentación de la notificación de baja de obligación, incluso si el período fiscal no ha finalizado, siempre y cuando no se hayan recibido ingresos o estos no superen el mínimo exento.
+Si los ingresos obtenidos durante el período fiscal exceden el mínimo exento, será necesario solicitar la habilitación de la Declaración del Impuesto Sobre la Renta por Motivo de Abandono del País.
 
-debe ser en Formato PDF. Debe contener el período fiscal el cual notifica la baja
-de obligación (Ver anexo 9).
+debe ser en Formato PDF. Debe contener el período fiscal el cual notifica la baja de obligación (Ver anexo 9).
 2. Justificante boletín de pago libre por Actos Administrativos (L. 200.00).
 3. Fotocopia de los últimos 5 documentos fiscales utilizados
 4. Formulario de Notificación de Documentos Fiscales No Utilizados
-5. Documentación que acredite la salida del país. (Ejemplo: Boletos Aéreos,
-Constancia de Trabajo, Copia de Contratos de trabajo o Plan de estudios del
-extranjero).
+5. Documentación que acredite la salida del país. (Ejemplo: Boletos Aéreos, Constancia de Trabajo, Copia de Contratos de trabajo o Plan de estudios del extranjero).
 
-Identificación (DNI) para hondureños, Pasaporte o carné de residente vigente para
-extranjeros, indicando si posee las siguientes facultades:
+Identificación (DNI) para hondureños, Pasaporte o carné de residente vigente para extranjeros, indicando si posee las siguientes facultades:
 
 - Facultades para firmar
 
 PERSONA NATURAL POR SER ASALARIADO CÓDIGO DE IMPUESTO 102
-La notificación está orientada para aquellos Obligados Tributarios que ya no emitirán
-documentos fiscales, ya que sus ingresos serán únicamente por concepto de sueldos y
-salarios a partir de un período determinado.
+La notificación está orientada para aquellos Obligados Tributarios que ya no emitirán documentos fiscales, ya que sus ingresos serán únicamente por concepto de sueldos y salarios a partir de un período determinado.
 
-debe ser en Formato PDF. Debe contener el período fiscal el cual notifica la baja
-de obligación (Ver anexo 10).
+debe ser en Formato PDF. Debe contener el período fiscal el cual notifica la baja de obligación (Ver anexo 10).
 2. Justificante boletín de pago libre por Actos Administrativos (L. 200.00).
 3. Fotocopia de los últimos 5 documentos fiscales utilizados
 4. Formulario de Notificación de Documentos Fiscales No Utilizados.
-5. Constancia de trabajo debidamente membretada, sellada y firmada por la
-Organización o Empresa donde labora, donde especifique puesto que
-desempeña, antigüedad laboral, salario y las retenciones realizadas.
+5. Constancia de trabajo debidamente membretada, sellada y firmada por la Organización o Empresa donde labora, donde especifique puesto que desempeña, antigüedad laboral, salario y las retenciones realizadas.
 
-Identificación (DNI) para hondureños, Pasaporte o carné de residente vigente para
-extranjeros, indicando si posee las siguientes facultades:
+Identificación (DNI) para hondureños, Pasaporte o carné de residente vigente para extranjeros, indicando si posee las siguientes facultades:
 
 - Facultades para firmar.
 
 NOTIFICACIÓN DE SUSPENSIÓN DE OBLIGACIÓN ISR DE PERSONA NATURAL
 (QUE NO SUPERAN EL MÍNIMO EXENTO)
-La notificación está orientada para aquellos Obligados Tributarios Persona Natural que,
-al cierre del periodo fiscal, no superaron el mínimo exento del Impuesto Sobre la Renta.
+La notificación está orientada para aquellos Obligados Tributarios Persona Natural que, al cierre del periodo fiscal, no superaron el mínimo exento del Impuesto Sobre la Renta.
 
-debe ser en Formato PDF. Debe contener el período fiscal el cual notifica la baja
-de obligación (Anexo 11).
-2. Fotocopia de los documentos fiscales emitidos que respalden el nivel de ingresos
-percibidos durante el periodo fiscal.
+debe ser en Formato PDF. Debe contener el período fiscal el cual notifica la baja de obligación (Anexo 11).
+2. Fotocopia de los documentos fiscales emitidos que respalden el nivel de ingresos percibidos durante el periodo fiscal.
 3. Formulario de Notificación de Documentos Fiscales No Utilizados.
 
-Identificación (DNI) para hondureños, Pasaporte o carné de residente vigente para
-extranjeros, indicando si posee las siguientes facultades:
+Identificación (DNI) para hondureños, Pasaporte o carné de residente vigente para extranjeros, indicando si posee las siguientes facultades:
 
 - Facultades para firmar.
 

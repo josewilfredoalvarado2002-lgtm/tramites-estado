@@ -38,26 +38,21 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-DOCUMENTOS NECESARIOS PARA OTORGAMIENTO DE
-LICENCIAS DE PILOTO DE PLANEADOR
+DOCUMENTOS NECESARIOS PARA OTORGAMIENTO DE LICENCIAS DE PILOTO DE PLANEADOR
 
 1. Llenar la Forma PEL-FORM-012.
-2. Edad mínima 16 años, demostrar que cuenta con autorización de los padres o
-tutores, por medio de una carta notarial.
+2. Edad mínima 16 años, demostrar que cuenta con autorización de los padres o tutores, por medio de una carta notarial.
 3. Copia de tarjeta de identidad o Fe de Edad.
 4. Constancia de haber aprobado la educación secundaria.
 5. Debe haber aprobado la prueba teórica en los últimos 12 meses precedentes.
-6. Debe haber aprobado la prueba práctica con un Inspector o Examinador Designado
-por la AHAC.
-7. El libro de record de horas con el endoso requerido por el instructor autorizado y con
-el mínimo de horas requerido de experiencia y detallado de conformidad a RAC-
+6. Debe haber aprobado la prueba práctica con un Inspector o Examinador Designado por la AHAC.
+7. El libro de record de horas con el endoso requerido por el instructor autorizado y con el mínimo de horas requerido de experiencia y detallado de conformidad a RAC-
 LPTA 180, (a), (3).
 8. Dos fotografías tamaño carne.
 9. Certificado médico clase 2, vigente.
 10. Recibo de pago por otorgamiento de licencias de Piloto de Planeador.
 
-DOCUMENTO NECESARIOS PARA RENOVACIÓN DE
-LICENCIAS DE PILOTO DE PLANEADOR
+DOCUMENTO NECESARIOS PARA RENOVACIÓN DE LICENCIAS DE PILOTO DE PLANEADOR
 
 1. Llenar la Forma PEL-FORM-008.
 2. Certificación Médica clase 2, vigente.
@@ -66,10 +61,7 @@ LICENCIAS DE PILOTO DE PLANEADOR
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deb erá presentar el original y la copia de
-todos los documentos solicitados. Los orig inales serán devueltos al solicitante una
-vez constatados por el responsable de licencias. Las formas PEL -FORM-012 Y
-PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
+Presentada la información el solicitante deb erá presentar el original y la copia de todos los documentos solicitados. Los orig inales serán devueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL -FORM-012 Y PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
 
 ## Otro texto del documento
 

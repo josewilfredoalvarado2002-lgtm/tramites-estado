@@ -40,21 +40,15 @@ estado_sitio: "Vigente"
 
 Requisitos
 1.Solicitud por Escrito dirigida al Registrador Nacional de Cooperativas.
-2.Finiquito o Constancia de Solvencia conforme el trabajo solicitado de cada
-cooperativa que los contrato, durante los últimos cinco (5) años.
-3.Constancia de la Aseguradora que brindo la Póliza presentada acorde a la categoría
-alcanzada, no tener reclamos presentados por trabajos autorizados por su registro en
-CONSUCOOP.
+2.Finiquito o Constancia de Solvencia conforme el trabajo solicitado de cada cooperativa que los contrato, durante los últimos cinco (5) años.
+3.Constancia de la Aseguradora que brindo la Póliza presentada acorde a la categoría alcanzada, no tener reclamos presentados por trabajos autorizados por su registro en CONSUCOOP.
 
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
 
-REQUISITOS PARA CANCELACIÓN DE INSCRIPCIÓN EN EL
-REGISTRO DE FIRMAS AUDITORAS EXTERNAS DE
-COOPERATIVAS (RAEC)
-Cualquier consulta o duda pueden abocarse al correo electrónico registro@consucoop.hn; Teléfono 2235-9281
-ext. 105 y mensajes al WhatsApp 31622364.
+REQUISITOS PARA CANCELACIÓN DE INSCRIPCIÓN EN EL REGISTRO DE FIRMAS AUDITORAS EXTERNAS DE COOPERATIVAS (RAEC)
+Cualquier consulta o duda pueden abocarse al correo electrónico registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp 31622364.
 
 ## Documentos
 

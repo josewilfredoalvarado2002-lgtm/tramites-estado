@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE DEVOLUCIONES O NOTAS DE
-CRÉDITO BIENES INMUEBLES
+REQUISITOS DE DEVOLUCIONES O NOTAS DE CRÉDITO BIENES INMUEBLES
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
@@ -47,26 +46,16 @@ REQUISITOS DE DEVOLUCIONES O NOTAS DE CRÉDITO
 BIENES INMUEBLES
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial,
-debidamente autenticado
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
 Recibos de pago del Impuesto Sobre Tradición
 (Formato PDF)
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
-Escritura de Compraventa de los inmuebles
-sujetos en la petición o Contrato privado de
-compraventa. (Formato PDF)
-Certificación emitida por el Notario haciendo
-constar, las razones por las cuales no se llevó a
-cabo la compraventa del bien inmueble.
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Escritura de Compraventa de los inmuebles sujetos en la petición o Contrato privado de compraventa. (Formato PDF)
+Certificación emitida por el Notario haciendo constar, las razones por las cuales no se llevó a cabo la compraventa del bien inmueble.
 (Formato PDF)
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
 
 ## Documentos
 

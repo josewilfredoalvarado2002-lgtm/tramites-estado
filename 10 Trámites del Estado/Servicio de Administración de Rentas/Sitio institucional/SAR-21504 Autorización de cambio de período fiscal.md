@@ -47,24 +47,16 @@ REQUISITOS DE AUTORIZACIÓN DE CAMBIO DE PERÍODO
 FISCAL
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Estados financieros firmados, sellados y timbrados al
-cierre del período solicitado (Formato PDF)
-Cualquier otra información que el OT considere
-necesaria para sustentar su petición
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Estados financieros firmados, sellados y timbrados al cierre del período solicitado (Formato PDF)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
 Estados financieros al cierre del período solicitado
 (EXCEL)
-Informe de ciclo de producción (en caso de ser sector
-de agricultura)
+Informe de ciclo de producción (en caso de ser sector de agricultura)
 Escritura de Constitución y sus modificaciones
-Balanza de comprobación al cierre del último período
-contable (EXCEL)
-Documento adicional que acredite el cambio de
-período fiscal
+Balanza de comprobación al cierre del último período contable (EXCEL)
+Documento adicional que acredite el cambio de período fiscal
 Comprobante de boletín de pago L200.00 (Impuesto:
 156 - Actos administrativos, concepto: 1 Propio
 Computo)

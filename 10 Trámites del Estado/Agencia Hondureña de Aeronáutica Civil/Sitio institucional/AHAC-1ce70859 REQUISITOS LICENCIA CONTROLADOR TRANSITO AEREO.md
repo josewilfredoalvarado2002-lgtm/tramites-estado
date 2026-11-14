@@ -38,47 +38,33 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-DOCUMENTOS NECESARIOS PARA OTORGAR LA
-LICENCIA DE CONTROLADOR DE TRÁNSITO AÉREO
+DOCUMENTOS NECESARIOS PARA OTORGAR LA LICENCIA DE CONTROLADOR DE TRÁNSITO AÉREO
 
 1. Llenar Forma PEL-FORM-007.
 2. Edad 21 años
 3. Copia de Tarjeta de identidad
 4. Constancia de haber aprobado la educación a nivel diversificado.
-5. Informe de la Jefatura de Tránsito Aéreo, del cumplimiento de la prueba teórica en
-los últimos 12 meses precedentes.
+5. Informe de la Jefatura de Tránsito Aéreo, del cumplimiento de la prueba teórica en los últimos 12 meses precedentes.
 6. Informe de la Jefatura de Tránsito Aéreo, del cumplimiento de la prueba Oral-
 Práctica.
-7. Cumplir con la Experiencia requerida por la RAC LPTA 255, (6) y la experiencia que
-se requiere para cada habilitación por la RAC LPTA 255 en su secciones: (c), (2),
-(d), (2), (e), (3), (f), (2), (g), (3). La experiencia podrá ser comprobada únicamente
-cuando demuestre que dicha experiencia fue en posesión de una Licencia de
-Controlador de Tránsito Aéreo, prestando servicios.
+7. Cumplir con la Experiencia requerida por la RAC LPTA 255, (6) y la experiencia que se requiere para cada habilitación por la RAC LPTA 255 en su secciones: (c), (2), (d), (2), (e), (3), (f), (2), (g), (3). La experiencia podrá ser comprobada únicamente cuando demuestre que dicha experiencia fue en posesión de una Licencia de Controlador de Tránsito Aéreo, prestando servicios.
 8. Dos fotografías tamaño carne recientes.
 9. Certificación médica clase 3 vigente.
-10. Debe presentar la Certificación de Evaluación de la AHAC con el nivel de
-competencia lingüística.
-11. Recibo de pago por renovación por otorgamiento de la licencia de Controlador de
-Tránsito Aéreo (este pago se realizará cuando el solicitante no sea empleado de la
-AHAC).
+10. Debe presentar la Certificación de Evaluación de la AHAC con el nivel de competencia lingüística.
+11. Recibo de pago por renovación por otorgamiento de la licencia de Controlador de Tránsito Aéreo (este pago se realizará cuando el solicitante no sea empleado de la AHAC).
 
 DOCUMENTOS NECESARIOS PARA RENOVACIÓN
 LICENCIA DE CONTROLADOR DE TRÁNSITO AÉREO
 
 1. Llenar Forma PEL-FORM-008.
 2. Certificación médica clase 3 vigente.
-3. Recibo de pago por renovación para renovación de certificado de validez de
-Controlador de Tránsito Aéreo cuando el solicitante no sea empleado de la AHAC.
-4. Documentos de la Jefatura de Tránsito Aéreo en la cual se haga constar que ha
-cumplido con los requisitos de experiencia reciente establecidos en RAC LPTA 255
-(j) o documentación que haga constar que cuenta con la experiencia reciente
-requerida por la RAC LPTA cuando el solicitante no sea un empleado de la AHAC
+3. Recibo de pago por renovación para renovación de certificado de validez de Controlador de Tránsito Aéreo cuando el solicitante no sea empleado de la AHAC.
+4. Documentos de la Jefatura de Tránsito Aéreo en la cual se haga constar que ha cumplido con los requisitos de experiencia reciente establecidos en RAC LPTA 255
+(j) o documentación que haga constar que cuenta con la experiencia reciente requerida por la RAC LPTA cuando el solicitante no sea un empleado de la AHAC
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deb erá presentar el original y la copia de
-todos los documentos solicitados. Los orig inales serán devueltos al solicitante una
-vez constatados por el responsable de licencias. Las formas PEL-FORM-007 y PEL-
+Presentada la información el solicitante deb erá presentar el original y la copia de todos los documentos solicitados. Los orig inales serán devueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL-FORM-007 y PEL-
 FORM-008 puede solicitarlas en la AHAC o en la página Web: www.ahac.gob.hn.
 
 ## Otro texto del documento

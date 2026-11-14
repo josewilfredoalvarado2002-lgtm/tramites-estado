@@ -38,15 +38,12 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS PARA INTERPONER DENUNCIA EN EL
-DEPARTAMENTO ADMINISTRATIVO DE INQUILINATO (DAI)
+REQUISITOS PARA INTERPONER DENUNCIA EN EL DEPARTAMENTO ADMINISTRATIVO DE INQUILINATO (DAI)
 Copia del Documento Nacional de Identificación (DNI).
 Copia de recibos extendidos por cobros de renta. (Si eres arrendador)
 Recibos de servicios públicos cancelados al día. (si eres arrendatario)
-Contrato de Arrendamiento firmado por las partes, debidamente registrado
-ante el DAI (Si eres arrendador)
-Último Recibo de pago en concepto de Renta que acredita Solvencia día. (si
-eres arrendatario)
+Contrato de Arrendamiento firmado por las partes, debidamente registrado ante el DAI (Si eres arrendador)
+Último Recibo de pago en concepto de Renta que acredita Solvencia día. (si eres arrendatario)
 
 ## Otro texto del documento
 

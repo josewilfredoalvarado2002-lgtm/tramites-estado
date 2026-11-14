@@ -38,42 +38,32 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-DOCUMENTOS NECESARIOS PARA OTORGAR LA
-LICENCIA DE OPERADOR DE ESTACIÓN AERONÁUTICA
+DOCUMENTOS NECESARIOS PARA OTORGAR LA LICENCIA DE OPERADOR DE ESTACIÓN AERONÁUTICA
 
 1. Llenar la Forma PEL-FORM-007
 2. Edad 18 años.
 3. Copia de tarjeta de identidad.
 4. Certificación médica clase 3 vigente.
 5. Constancia de haber aprobado la educación media.
-6. Informe de la Jefatura de Tránsito Aéreo, del cumplimiento de la prueba teórica en
-los últimos 12 meses precedentes.
+6. Informe de la Jefatura de Tránsito Aéreo, del cumplimiento de la prueba teórica en los últimos 12 meses precedentes.
 7. Informe de la Jefatura de Tránsito Aéreo, del cumplimiento de la prueba Oral-
 Práctica.
 8. Contar con la Experiencia requerida por RAC LPTA 265, (a), (3).
 9. Dos fotografías tamaño carne reciente.
-10. Debe presentar la Certificación de Evaluación de la AHAC con el nivel de
-competencia lingüística.
-11. Recibo de pago por renovación por otorgamiento de la Licencia de Operador de
-Estación Aeronáutica (este pago se realizará cuando el solicitante no sea empleado
-de la AHAC).
+10. Debe presentar la Certificación de Evaluación de la AHAC con el nivel de competencia lingüística.
+11. Recibo de pago por renovación por otorgamiento de la Licencia de Operador de Estación Aeronáutica (este pago se realizará cuando el solicitante no sea empleado de la AHAC).
 
-DOCUMENTOS NECESARIOS PARA RENOVACIÓN DE
-LICENCIA DE OPERADOR DE ESTACIÓN AERONÁUTICA
+DOCUMENTOS NECESARIOS PARA RENOVACIÓN DE LICENCIA DE OPERADOR DE ESTACIÓN AERONÁUTICA
 
 1. Llenar Forma PEL-FORM-008.
 2. Certificación médica clase 3 vigente.
-3. Recibo de pago por renovación para renovación de certificado de validez de
-Meteorología Aeronáutica cuando el solicitante no sea empleado de la AHAC.
+3. Recibo de pago por renovación para renovación de certificado de validez de Meteorología Aeronáutica cuando el solicitante no sea empleado de la AHAC.
 4. Debe cumplir con los requisitos de experiencia reciente establecidos en la RAC
 LPTA 265, (c).
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deberá presentar el original y la copia de
-todos los documentos solicitados. Los originales serán devueltos al solicitante una
-vez constatados por el responsable de licencias. Las formas PEL-FORM-007 Y
-PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
+Presentada la información el solicitante deberá presentar el original y la copia de todos los documentos solicitados. Los originales serán devueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL-FORM-007 Y PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
 
 ## Otro texto del documento
 

@@ -55,9 +55,7 @@ LICENCIA DEL SERVICIO MÓVIL AERONÁUTICO EN AERONAVE
 
 ITEM REQUISITO NS RN MT AM
 1.
-Solicitud por medio de Apoderado Legal en base al artículo 61 de la Ley de
-Procedimiento Administrativo (Deberá presentar domicilio, datos generales, teléfono
-fijo, teléfono móvil y correo electrónico).
+Solicitud por medio de Apoderado Legal en base al artículo 61 de la Ley de Procedimiento Administrativo (Deberá presentar domicilio, datos generales, teléfono fijo, teléfono móvil y correo electrónico).
 
 2. RTN y documentos de Identidad del Operador (Persona Natural o Jurídica) debidamente autenticada).
 3. Carta Poder debidamente autenticada o Poder en Escritura Pública (debidamente autenticada).
@@ -66,30 +64,19 @@ fijo, teléfono móvil y correo electrónico).
 6. Forma 950 puede ser llenada por el interesado
 7. Aviso de Trámite por Solicitud de Licencia Móvil Aeronáutica, de acuerdo a la presente Resolución y posteriores Resoluciones de Tasas y Tarifas.
 8.
-Aviso de Cobro debidamente cancelado correspondiente al Canon por las
-Anualidades que el Licenciatario tenga a bien realizar; mínimo una (1) y hasta un
-máximo de cinco (5) anualidades.
-* En el caso de que el Solicitante, de forma anticipada, efectúe un único pago por las
-cinco (5) anualidades para los conceptos de Licencia y canon radioeléctrico, CONATEL
-aplicará un descuento del veinte por ciento (20%) al monto resultante de los cinco (5)
-años, de acuerdo a la Normativa de Tasas y Cánones vigente.
+Aviso de Cobro debidamente cancelado correspondiente al Canon por las Anualidades que el Licenciatario tenga a bien realizar; mínimo una (1) y hasta un máximo de cinco (5) anualidades.
+* En el caso de que el Solicitante, de forma anticipada, efectúe un único pago por las cinco (5) anualidades para los conceptos de Licencia y canon radioeléctrico, CONATEL aplicará un descuento del veinte por ciento (20%) al monto resultante de los cinco (5) años, de acuerdo a la Normativa de Tasas y Cánones vigente.
 
 9.
-Presentar Constancia de que está Solvente Económicamente ante CONATEL,
-emitida por el Departamento de Administración de Cartera y Cobranzas, cuya
-vigencia aceptada será de 10 (diez) días hábiles desde su emisión.
+Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión.
 
 10.
 Declaración Jurada de No estar Comprendido, en lo preceptuado según el Artículo
-92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de
-Telecomunicaciones (debidamente autenticada).
+92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente autenticada).
 
 11.
-Presentar copia del Certificado de Homologación emitido por CONATEL de cada uno
-de los equipos que conforman la estación de radiocomunicación aeronáutica ubicada
-a bordo de la aeronave.
-*O en su lugar indicar el número de registro del Certificado de Homologación
-correspondiente para cada uno de los equipos.
+Presentar copia del Certificado de Homologación emitido por CONATEL de cada uno de los equipos que conforman la estación de radiocomunicación aeronáutica ubicada a bordo de la aeronave.
+*O en su lugar indicar el número de registro del Certificado de Homologación correspondiente para cada uno de los equipos.
 
 ITEM REQUISITO PARA CANCELACIONES CPL CTL
 1. Solicitud por medio de Apoderado Legal en base a los artículos 56, 60 y 61de la Ley de Procedimiento Administrativo.
@@ -99,17 +86,10 @@ Acreditar pago de aviso por:
 a) Cancelación Parcial en Licencia: según Resolución Normativa de Tasas y Canon Vigente.
 b) Cancelación Total de Licencia: según Resolución Normativa de Tasas y Canon Vigente.
 4.
-Presentar Constancias de que está Solvente Económica y documentalmente (esta última cuando el
-operador tenga autorizado un servicio de carácter público) emitidas por el Departamento de
-Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo, respectivamente,
-cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión (este caso no excluye que este
-insolvente porque al final con la Resolución de Cancelación se emite el cobro total conforme la
-NR017/99).
+Presentar Constancias de que está Solvente Económica y documentalmente (esta última cuando el operador tenga autorizado un servicio de carácter público) emitidas por el Departamento de Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo, respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión (este caso no excluye que este insolvente porque al final con la Resolución de Cancelación se emite el cobro total conforme la NR017/99).
 
 5.
-Para la cancelación de cualquier sistema del Servicio Móvil Aeronáutico, es necesario detallar en la
-Solicitud lo que se desea cancelar, especificando ya sea si es el Permiso que le fue autorizado, o la
-totalidad de las Licencias, o si es una cancelación parcial. Lo anterior para evitar que se le cancelen
+Para la cancelación de cualquier sistema del Servicio Móvil Aeronáutico, es necesario detallar en la Solicitud lo que se desea cancelar, especificando ya sea si es el Permiso que le fue autorizado, o la totalidad de las Licencias, o si es una cancelación parcial. Lo anterior para evitar que se le cancelen
 Licencias no solicitadas.
 
 NS Nueva Solicitud AM Ampliación

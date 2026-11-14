@@ -46,20 +46,13 @@ Departamento de Asistencia al Cumplimiento Nacional
 
 REQUISITOS DE SOLICITUD CONSTANCIA DE PRESTAMISTAS NO BANCARIOS Y
 
-Estas constancias puede ingresarlas en línea desde la Oficina Virtual o, si lo prefiere, de
-manera presencial en cualquiera de nuestras Oficinas Regionales y Departamentales.
-A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y
-presencial según el tipo de constancia.
-1. Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61
-de la Ley de procedimiento administrativo.
-2. Documento Nacional de Identificación (DNI) para hondureños, Pasaporte o
-carné de residente vigente para extranjeros.
+Estas constancias puede ingresarlas en línea desde la Oficina Virtual o, si lo prefiere, de manera presencial en cualquiera de nuestras Oficinas Regionales y Departamentales.
+A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y presencial según el tipo de constancia.
+1. Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de procedimiento administrativo.
+2. Documento Nacional de Identificación (DNI) para hondureños, Pasaporte o carné de residente vigente para extranjeros.
 3. Justificante boletín de pago libre por Actos Administrativos (L. 200.00).
 
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se
-debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de
-Identificación (DNI) para hondureños, Pasaporte o carné de residente vigente para
-extranjeros , indicando si posee las siguientes facultades:
+Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación (DNI) para hondureños, Pasaporte o carné de residente vigente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firma.
 

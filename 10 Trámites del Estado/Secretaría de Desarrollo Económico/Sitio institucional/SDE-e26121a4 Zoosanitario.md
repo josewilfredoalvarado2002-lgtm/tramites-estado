@@ -41,10 +41,8 @@ estado_sitio: "Vigente"
 
 Requisitos Certificados Zoosanitario de Exportación:
 i. Llenado de solicitud de Certificado Fitosanitario en el Sistema Electrónico de Comercio
-Exterior de Honduras (SECEH)
-ii. Adjuntar fotocopia de factura comercial.
-iii. Realizar pago en cualquier Institución Bancaria Nacional de acuerdo con el peso del
-producto a exportar aplicando la siguiente tabla:
+Exterior de Honduras (SECEH) ii. Adjuntar fotocopia de factura comercial.
+iii. Realizar pago en cualquier Institución Bancaria Nacional de acuerdo con el peso del producto a exportar aplicando la siguiente tabla:
 Tarifa
 Hasta 25,000 kilos; L.450.00
 De 25,001 a 250,000 kilos; L.680.00
@@ -55,18 +53,14 @@ De 25,001 a 250,000 kilos; L.680.00
 De 250,001 a 1,000,000 kilos; L.1,300.00
 Por cada millón de kilogramos adicionales; L.350.00
 
-Nota: Requisitos adicionales varían dependiendo el origen de los productos. Por favor
-referirse a los Reglamentos de Inocuidad de Alimentos del SENASA, mismos que se
-encuentran en el siguiente sitio web: http://www.senasa-sag.gob.hn/reglamentos-
+Nota: Requisitos adicionales varían dependiendo el origen de los productos. Por favor referirse a los Reglamentos de Inocuidad de Alimentos del SENASA, mismos que se encuentran en el siguiente sitio web: http://www.senasa-sag.gob.hn/reglamentos-
 vigentes-en-senasa/
 1. Reglamento de Salud Pesquera y Acuícola
 2. Reglamento para la Inspección e Inocuidad de Frutas, Vegetales Frescos y Procesados
 3. Reglamento para la Inspección y Certificación Sanitaria de la Leche y los Productos Lácteos
-4. Reglamento para la Inspección y Certificación Zoosanitaria de Productos Pesqueros y
-Acuícolas
+4. Reglamento para la Inspección y Certificación Zoosanitaria de Productos Pesqueros y Acuícolas
 5. Reglamento de Inspección de Carnes y Productos Cárnicos
-6. Reglamento para la Inspección y Certificación Zoosanitaria de Productos Pesqueros y
-Acuícolas
+6. Reglamento para la Inspección y Certificación Zoosanitaria de Productos Pesqueros y Acuícolas
 7. Reglamento de Inspección de Carnes y Productos Cárnico
 
 ## Notas (según el documento)
@@ -84,11 +78,8 @@ SELLO / STAMP
 PARA USO EXCLUSIVO SERVICIO DE PROTECCIÓN AGROPECUARIA DEL PUERTO DE SALIDA /
 USE ONLY FOR QUARANTINE PROTECTION SERVICE
 
-,
-El infrascrito OFICIAL DE CUARENTENA asignado en: CERTIFICA que el o los animales, concentrados y productos y
-Subproductos de origen pecuario, se han inspeccionado y encontrado en buen estado sanitario.
-QUARANTINE OFFICER assigned undersigned: CERTIFIES that the animal or animals, concentrates and products and by-products
-of animal origin, have been inspected and found in good health condition.
+, El infrascrito OFICIAL DE CUARENTENA asignado en: CERTIFICA que el o los animales, concentrados y productos y Subproductos de origen pecuario, se han inspeccionado y encontrado en buen estado sanitario.
+QUARANTINE OFFICER assigned undersigned: CERTIFIES that the animal or animals, concentrates and products and by-products of animal origin, have been inspected and found in good health condition.
 (4) IDENTIFICACIÓN DE LOS ANIMALES O PRODUCTOS / (5) NÚMERO Y TIPODE EMBALAJE / (6) PESO KGS/WEIGHT KGS.
 IDENTIFICATION OF THE ANIMALS OR PRODUCTS NUMBER OF/AND KIND PACKAGES
 
@@ -118,7 +109,7 @@ sde.hn @SDEHonduras sde.hn
 CERTIFICADO SANITARIO OFICIAL DE ANIMALES, PRODUCTOS, SUB PRODUCTOS, PRODUCTOS
 VETERINARIOS Y ALIMENTOS CONCENTRADOS PARA ANIMALES
 EXPORT ZOOSANITARY CERTIFICATE OF ANIMAL PRODUCTS AND BY PRODUCTS
-(1) Tipo de Certificado : Certificado No. Ciudad(City): TGR No.
+(1) Tipo de Certificado: Certificado No. Ciudad(City): TGR No.
 
 (2) NOMBRE, DIRECCIÓN Y TELÉFONO DEL EXPORTADOR /
 NAME, ADDRESS AND NUMBER PHONE OF THE EXPORTER
@@ -132,8 +123,7 @@ IDENTIFICATION OF THE ANIMALS OR PRODUCTS
 
 (7)MEDIO DE TRANSPORTE /
 WAY OF TRANSPORT
-(8)PAÍS DE ORIGEN / (8.1) PUERTO DE
-EMBARQUE /
+(8)PAÍS DE ORIGEN / (8.1) PUERTO DE EMBARQUE /
 PORT OF LOADING
 
 COUNTRY OF ORIGIN

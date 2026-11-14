@@ -68,8 +68,7 @@ estado_sitio: "Vigente"
 3.1 Escenarios de riesgo de la empresa
 3.2 Worst Case Scenario
 3.4 Probabilidad y Consecuencias
-3.5 Tipo y características del hidrocarburo o sustancias nocivas
-potencialmente peligrosas derramados
+3.5 Tipo y características del hidrocarburo o sustancias nocivas potencialmente peligrosas derramados
 * 36 Localización y condiciones del evento
 
 3.7 Políticas ambientales de la empresa
@@ -125,46 +124,34 @@ de, SEGURIDAD
 8.2 Contactos Internos y Externos
 8.3 Aspectos Financieros
 
-+ Fondos previstos
-e Indemnizaciones
++ Fondos previstos e Indemnizaciones
 8.4 Asuntos Legales
 
 ANEXO 1 Plano de la Instalación y Carta Náutica
 ANEXO 2 Mapa de sensibilidad
 
-TFanusiaaina MAC Handuras (CA PRX: (504) 2239-8228. 2239-8335, 2239-8221, 2239-8168
-oli, po_ y
-y AN A - y
-ES DIRECCIÓN GENERAL DE LA MARINA MERCANTE
+TFanusiaaina MAC Handuras (CA PRX: (504) 2239-8228. 2239-8335, 2239-8221, 2239-8168 oli, po_ y y AN A - y ES DIRECCIÓN GENERAL DE LA MARINA MERCANTE
 
 ANEXO 3 Características de los materiales operados por la empresa:
 hidrocarburos y sus derivados, sustancias nocivas y potencialmente peligrosas
 
 ANEXO 4 ' Listado de agentes químicos aprobados para su uso
 
-ANEXO 5 Plan de Entrenamiento del Personal de la Empresa y Planilla con el
-detalle de la Experiencia previa del Personal asignado en puestos clave para el manejo
-de la contingencia. Plan Anual de Simulacros según tipos y objetivos
+ANEXO 5 Plan de Entrenamiento del Personal de la Empresa y Planilla con el detalle de la Experiencia previa del Personal asignado en puestos clave para el manejo de la contingencia. Plan Anual de Simulacros según tipos y objetivos
 
-ANEXO 6 Contactos de los principales actores de la empresa concernidos y otros
-actores públicos y privados eventualmente involucrados
+ANEXO 6 Contactos de los principales actores de la empresa concernidos y otros actores públicos y privados eventualmente involucrados
 
 ANEXO 7 Diagramas de decisiones en respuesta a derrames
 ANEXO 8 Legislación referente para la ejecución del Plan
 
-ANEXO 9 Certificados de inspección de mangueras, tuberías y tanques de
-almacenamiento
+ANEXO 9 Certificados de inspección de mangueras, tuberías y tanques de almacenamiento
 
 ## Para qué se hace (según el documento) — Libro Verde
 
 objetivos ambientales previamente definidos. Acciones recomendadas:
 
- Plantear un compromiso de la empresa en la que refleje su declaración sobre sus intenciones
-y principios con relación al desempeño ambiental general a través de la declaración de La
-política Ambiental, la cual establece un contexto de trabajo para la determinación de
-objetivos y metas.
- Al establecer los objetivos, metas, y actividades ambientales se deben plantear las
-respuestas a las siguientes preguntas:
+ Plantear un compromiso de la empresa en la que refleje su declaración sobre sus intenciones y principios con relación al desempeño ambiental general a través de la declaración de La política Ambiental, la cual establece un contexto de trabajo para la determinación de objetivos y metas.
+ Al establecer los objetivos, metas, y actividades ambientales se deben plantear las respuestas a las siguientes preguntas:
 ¿Qué se quiere lograr? Objetivo ambiental
 ¿Cuánto se espera lograr? Metas cuantificables y medibles
 ¿Por qué es importante? Relevancia del aspecto ambiental
@@ -174,113 +161,52 @@ respuestas a las siguientes preguntas:
 ¿Donde se hará? Alcance y ámbito de aplicación
 ¿Cuánto costará? Recursos destinados
 
-Las autoridades portuarias en concordancia con las regulaciones ambientales de cada país miembro y a
-los compromisos internacionales de los cuales son parte, sus prioridades, recursos y capacidades
-definirán sus objetivos ambientales en el área de los puertos.
+Las autoridades portuarias en concordancia con las regulaciones ambientales de cada país miembro y a los compromisos internacionales de los cuales son parte, sus prioridades, recursos y capacidades definirán sus objetivos ambientales en el área de los puertos.
 
 i. Definición de acuerdos y objetivos ambientales comunes: en el marco del Sistema de la Integración
-Centroamericana (SICA), con el interés de lograr una mejor cooperación las autoridades portuarias
-de Centroamérica en el marco de REPICA, dentro del contexto del presente Código, procurarán llegar
-a acuerdos para establecer políticas sobre controles comunes al medio ambiente para las zonas
-portuarias en Centroamérica, sin perjuicio de lo que al respecto indiquen las normativas nacionales
-particulares y el ordenamiento político-administrativo interno de cada uno de los países. REPICA a
-través de COCATRAM gestionara fondos para su desarrollo.
+Centroamericana (SICA), con el interés de lograr una mejor cooperación las autoridades portuarias de Centroamérica en el marco de REPICA, dentro del contexto del presente Código, procurarán llegar a acuerdos para establecer políticas sobre controles comunes al medio ambiente para las zonas portuarias en Centroamérica, sin perjuicio de lo que al respecto indiquen las normativas nacionales particulares y el ordenamiento político-administrativo interno de cada uno de los países. REPICA a través de COCATRAM gestionara fondos para su desarrollo.
 
-Estas normativas comunes ayudarán a acordar sistemas de alerta rápida en casos de
-contaminación, procedimientos comunes de ingreso expedito de personal y equipo en caso de
-requerirse la cooperación internacional por contaminación accidental, adoptar simbología y
-nomenclatura común para la identificación de áreas críticas, recursos vulnerables y fijación de
-prioridades de protección contra la contaminación accidental por petróleo y de otras sustancias
-nocivas en el área de los puertos; incorporación de los planes de contingencia a nivel de puertos,
-de empresas portuarias y con los planes nacionales de contingencia para el control de la
-contaminación marina, entre otros.
+Estas normativas comunes ayudarán a acordar sistemas de alerta rápida en casos de contaminación, procedimientos comunes de ingreso expedito de personal y equipo en caso de requerirse la cooperación internacional por contaminación accidental, adoptar simbología y nomenclatura común para la identificación de áreas críticas, recursos vulnerables y fijación de prioridades de protección contra la contaminación accidental por petróleo y de otras sustancias nocivas en el área de los puertos; incorporación de los planes de contingencia a nivel de puertos, de empresas portuarias y con los planes nacionales de contingencia para el control de la contaminación marina, entre otros.
 18
 
-B. Manejo integrado de la contaminación: las actividades que se realizan en los puertos tiene
-incidencia dentro del área del puerto como fuera de ella, no es selectiva y produce efectos a todo el
-universo del puerto, por lo que el concepto de “manejo integrado de la contaminación” tiene
-importancia en su control, cuyo objetivo es mitigar los aspectos ambientales que generan un impacto
-significativo al ambiente.
+B. Manejo integrado de la contaminación: las actividades que se realizan en los puertos tiene incidencia dentro del área del puerto como fuera de ella, no es selectiva y produce efectos a todo el universo del puerto, por lo que el concepto de “manejo integrado de la contaminación” tiene importancia en su control, cuyo objetivo es mitigar los aspectos ambientales que generan un impacto significativo al ambiente.
 
-C. Promoción del uso de la mejor tecnología disponible: se deberá velar por la adquisición de tecnologías
-consideradas como respetuosas con el medioambiente, estas deben ser económicamente viables y
-técnicamente probadas, sin que impliquen costos excesivos a la operación portuaria. Consideraciones
-a tomar al seleccionar una tecnología:
+C. Promoción del uso de la mejor tecnología disponible: se deberá velar por la adquisición de tecnologías consideradas como respetuosas con el medioambiente, estas deben ser económicamente viables y técnicamente probadas, sin que impliquen costos excesivos a la operación portuaria. Consideraciones a tomar al seleccionar una tecnología:
 
-Protegen el medio ambiente, contaminan menos, utilizan los recursos de una forma sostenible, reciclan
-más sus vertimientos y productos y manejan los residuos de una manera más aceptable que las
-tecnologías a las cuales sustituyen. No se trata de tecnologías meramente individuales sino de sistemas
-integrales que incluyen know-how, procedimientos, productos y servicios y equipos así como procesos
-que mejoran la organización y la gestión medioambiental.
+Protegen el medio ambiente, contaminan menos, utilizan los recursos de una forma sostenible, reciclan más sus vertimientos y productos y manejan los residuos de una manera más aceptable que las tecnologías a las cuales sustituyen. No se trata de tecnologías meramente individuales sino de sistemas integrales que incluyen know-how, procedimientos, productos y servicios y equipos así como procesos que mejoran la organización y la gestión medioambiental.
 
-Para el efecto, las autoridades portuarias en consulta con las autoridades ambientales procurarán apoyar
-programas para la reutilización y reciclaje de basuras y desechos sólidos generados por la actividad
-portuaria.
+Para el efecto, las autoridades portuarias en consulta con las autoridades ambientales procurarán apoyar programas para la reutilización y reciclaje de basuras y desechos sólidos generados por la actividad portuaria.
 
-D. Sistema de evaluación ambiental: los proyectos portuarios utilizan tanto la costa, como el mar y el fondo
-marino. Estos generan efectos ambientales sobre el medio ambiente físico y social del área del puerto, en
-cuya evaluación y comprensión ambiental intervienen diferentes autoridades. Las autoridades portuarias, sin
-perjuicio de lo que al respecto está consignado en la legislación nacional, aplicaran, en la fase de pre
-factibilidad de los proyectos portuario, procedimientos de evaluación ambiental.
+D. Sistema de evaluación ambiental: los proyectos portuarios utilizan tanto la costa, como el mar y el fondo marino. Estos generan efectos ambientales sobre el medio ambiente físico y social del área del puerto, en cuya evaluación y comprensión ambiental intervienen diferentes autoridades. Las autoridades portuarias, sin perjuicio de lo que al respecto está consignado en la legislación nacional, aplicaran, en la fase de pre factibilidad de los proyectos portuario, procedimientos de evaluación ambiental.
 
-Esta evaluación ambiental será un estudio que detalle los probables efectos que puede tener un
-proyecto portuario sobre el medio ambiente natural y social, en el cual se establezcan medidas para
-reducir, evitar, minimizar y atenuar los efectos ambientales producidos por la construcción, ampliación,
-modificación y operación de nuevos proyectos portuarios en Centroamérica.
+Esta evaluación ambiental será un estudio que detalle los probables efectos que puede tener un proyecto portuario sobre el medio ambiente natural y social, en el cual se establezcan medidas para reducir, evitar, minimizar y atenuar los efectos ambientales producidos por la construcción, ampliación, modificación y operación de nuevos proyectos portuarios en Centroamérica.
 
-Las autoridades portuarias y las autoridades ambientales nacionales crearan una propuesta de contenido
-mínimo básico común para Evaluaciones de Impacto Ambiental para nuevos desarrollos portuarios.
+Las autoridades portuarias y las autoridades ambientales nacionales crearan una propuesta de contenido mínimo básico común para Evaluaciones de Impacto Ambiental para nuevos desarrollos portuarios.
 
 3.3. Acciones de control de la contaminación
 
-Sin perjuicio de las acciones que le corresponden a las autoridades marítimas en el control “policivo” de la
-contaminación como “Estado Rector de Puerto”, las autoridades portuarias (si son diferentes) y sus órganos
-equivalentes tienen responsabilidades específicas en el control de la contaminación y en otras formas de
-19
+Sin perjuicio de las acciones que le corresponden a las autoridades marítimas en el control “policivo” de la contaminación como “Estado Rector de Puerto”, las autoridades portuarias (si son diferentes) y sus órganos equivalentes tienen responsabilidades específicas en el control de la contaminación y en otras formas de 19
 
-deterioro producidas por operaciones portuarias defectuosas, sobre las que acordarán políticas que lleven a la
-aplicación de acciones concretas en:
+deterioro producidas por operaciones portuarias defectuosas, sobre las que acordarán políticas que lleven a la aplicación de acciones concretas en:
 
-A. Los vertimientos de desechos líquidos: se deben controlar la cantidad y calidad del vertimiento líquido
-de efluentes provenientes de las actividades e industrias portuarias a las aguas (todos los tipos y usos
-de agua), incluyendo las aguas superficiales, las aguas subterráneas, de transición y las aguas costeras.
+A. Los vertimientos de desechos líquidos: se deben controlar la cantidad y calidad del vertimiento líquido de efluentes provenientes de las actividades e industrias portuarias a las aguas (todos los tipos y usos de agua), incluyendo las aguas superficiales, las aguas subterráneas, de transición y las aguas costeras.
 
  Elaborar planes para garantizar un uso eficiente de las aguas.
- Cumplir con los límites máximos permisibles de contaminantes en dependencia de la legislación
-nacional.
- Uso de técnicas y métodos idóneos para la remoción y reducción de sustancias nocivas y peligrosas,
-sustancias de interés sanitario, nutrientes contenidas en esos vertimientos o descargas.
+ Cumplir con los límites máximos permisibles de contaminantes en dependencia de la legislación nacional.
+ Uso de técnicas y métodos idóneos para la remoción y reducción de sustancias nocivas y peligrosas, sustancias de interés sanitario, nutrientes contenidas en esos vertimientos o descargas.
 
-Las autoridades portuarias, con el apoyo de las autoridades ambientales de cada país miembro
-establecerán una política para controlar el vertimiento líquido de efluentes provenientes de las
-actividades e industrias portuarias, a las aguas costeras. Las autoridades portuarias analizarán las
-consecuencias económicas de la aplicación de estas medidas por la industria portuaria y desarrollarán
-estrategias para su financiamiento.
+Las autoridades portuarias, con el apoyo de las autoridades ambientales de cada país miembro establecerán una política para controlar el vertimiento líquido de efluentes provenientes de las actividades e industrias portuarias, a las aguas costeras. Las autoridades portuarias analizarán las consecuencias económicas de la aplicación de estas medidas por la industria portuaria y desarrollarán estrategias para su financiamiento.
 
-i) Agua de lastre de los barcos que contengan organismos patógenos e indeseables. Las descargas no
-controladas de agua de lastre y sedimentos de los barcos en las aguas de las áreas portuarias han
-ocasionado la transferencia de organismos acuáticos perjudiciales y agentes patógenos, que
-causan daños a la salud pública, a los bienes y al medio ambiente marino en general.
+i) Agua de lastre de los barcos que contengan organismos patógenos e indeseables. Las descargas no controladas de agua de lastre y sedimentos de los barcos en las aguas de las áreas portuarias han ocasionado la transferencia de organismos acuáticos perjudiciales y agentes patógenos, que causan daños a la salud pública, a los bienes y al medio ambiente marino en general.
 
- Tomar medidas necesarias para impedir la introducción de organismos acuáticos y agentes
-patógenos indeseados, especies exóticas invasoras en las aguas costeras por descargas de
-agua de lastre y sedimentos de los barcos.
- En coordinación con las autoridades ambientales establecer criterios comunes para
-seleccionar áreas donde se pueda proceder a permitir el recambio de agua de lastre e
-identificar las áreas donde captar agua de lastre no es conveniente.
+ Tomar medidas necesarias para impedir la introducción de organismos acuáticos y agentes patógenos indeseados, especies exóticas invasoras en las aguas costeras por descargas de agua de lastre y sedimentos de los barcos.
+ En coordinación con las autoridades ambientales establecer criterios comunes para seleccionar áreas donde se pueda proceder a permitir el recambio de agua de lastre e identificar las áreas donde captar agua de lastre no es conveniente.
 
-Para controlar y reducir al mínimo estos efectos en los puertos de Centroamérica, las autoridades
-portuarias en coordinación con las autoridades marítimas (si son diferentes) y ambientales,
-establecerán una política común para adoptar y diseñar según proceda, medidas necesarias para
-impedir la introducción de organismos acuáticos y agentes patógenos indeseados, especies
-exóticas invasoras en las aguas costeras por descargas de agua de lastre y sedimentos de los
-barcos.
+Para controlar y reducir al mínimo estos efectos en los puertos de Centroamérica, las autoridades portuarias en coordinación con las autoridades marítimas (si son diferentes) y ambientales, establecerán una política común para adoptar y diseñar según proceda, medidas necesarias para impedir la introducción de organismos acuáticos y agentes patógenos indeseados, especies exóticas invasoras en las aguas costeras por descargas de agua de lastre y sedimentos de los barcos.
 
-B. Manejo y disposición de desechos sólidos: Las actividades portuarias producen desechos que tiene que
-ser manejados adecuadamente
+B. Manejo y disposición de desechos sólidos: Las actividades portuarias producen desechos que tiene que ser manejados adecuadamente
 
- Caracterizar los residuos según su origen y naturaleza (peligrosos, no peligrosos: reciclables o no
-reciclables, etc)
+ Caracterizar los residuos según su origen y naturaleza (peligrosos, no peligrosos: reciclables o no reciclables, etc)
  Incorporar un plan de manejo para toda la zona del puerto, incorporando los criterios:
 - Reducción de desechos
 20
@@ -289,29 +215,13 @@ reciclables, etc)
 - Reciclaje
 - Eliminación de desechos.
  Contar con infraestructura adecuada para el manejo y disposición final adecuada.
- Considerar que el manejo cumpla con la legislación ambiental, de salud pública, y que no cree
-malestar en las poblaciones adyacentes a la actividad portuaria.
+ Considerar que el manejo cumpla con la legislación ambiental, de salud pública, y que no cree malestar en las poblaciones adyacentes a la actividad portuaria.
 
-Las autoridades portuarias elaboraran una política orientada a procurar, aplicar y hacer cumplir por la
-industria portuaria, el re-uso y reciclaje de desechos sólidos y basuras mediante la práctica de
-segregación de basuras y su conexión con los sistemas locales de recolección y disposición
-ambientalmente segura, así como del uso de mejores prácticas.
+Las autoridades portuarias elaboraran una política orientada a procurar, aplicar y hacer cumplir por la industria portuaria, el re-uso y reciclaje de desechos sólidos y basuras mediante la práctica de segregación de basuras y su conexión con los sistemas locales de recolección y disposición ambientalmente segura, así como del uso de mejores prácticas.
 
-Las autoridades portuarias y REPICA, según proceda, con arreglo a estudios de factibilidad, dispondrán
-de las adecuaciones necesarias para dotar a los puertos, según corresponda, de facilidades para la
-recepción y disposición de residuos generadas por barcos. Para ello, tomarán todas las medidas
-necesarias entre el barco y las instalaciones de recepción, para permitir la descarga de residuos sin
-demoras. Estas instalaciones deben estar fundamentadas en tecnologías y en prácticas que reducen la
-cantidad de residuos y en la depuración eficiente de residuos líquidos derivados de hidrocarburos. Las
-autoridades portuarias, examinarán las posibilidades que uno o más de sus puertos, según corresponda,
-puedan ofrecer sus servicios de tratamiento de residuos dentro de un marco de cooperación y
-considerarán la opción que ofrezca el posible tratamiento combinado de los residuos generados por los
-barcos y los generados por los puertos, en coordinación con las autoridades ambientales y las
-autoridades locales.
+Las autoridades portuarias y REPICA, según proceda, con arreglo a estudios de factibilidad, dispondrán de las adecuaciones necesarias para dotar a los puertos, según corresponda, de facilidades para la recepción y disposición de residuos generadas por barcos. Para ello, tomarán todas las medidas necesarias entre el barco y las instalaciones de recepción, para permitir la descarga de residuos sin demoras. Estas instalaciones deben estar fundamentadas en tecnologías y en prácticas que reducen la cantidad de residuos y en la depuración eficiente de residuos líquidos derivados de hidrocarburos. Las autoridades portuarias, examinarán las posibilidades que uno o más de sus puertos, según corresponda, puedan ofrecer sus servicios de tratamiento de residuos dentro de un marco de cooperación y considerarán la opción que ofrezca el posible tratamiento combinado de los residuos generados por los barcos y los generados por los puertos, en coordinación con las autoridades ambientales y las autoridades locales.
 
-C. Control en el dragado de mantenimiento. El dragado es una actividad fundamental para la operación
-de algunos puertos y la eliminación del material de dragados y su disposición segura en áreas
-ambientalmente apropiadas son también, materia de control y vigilancia.
+C. Control en el dragado de mantenimiento. El dragado es una actividad fundamental para la operación de algunos puertos y la eliminación del material de dragados y su disposición segura en áreas ambientalmente apropiadas son también, materia de control y vigilancia.
 
  El dragado debe realizarse con aprobación de la autoridad ambiental nacional, en la cual se incluya:
 - Medidas para minimizar los efectos sobre el medio ambiente de las operaciones de dragado.
@@ -321,308 +231,135 @@ ambientalmente apropiadas son también, materia de control y vigilancia.
 material dragado.
  Intercambiar información y experiencias de buenas prácticas con países de la región.
 
-Las autoridades portuarias y en consulta con las autoridades ambientales, expresarán una política
-portuaria que lleve al acuerdo de criterios ambientales mínimos comunes, para ser aplicados a los
-puertos que requieran la ejecución de programas de dragado de mantenimiento.
+Las autoridades portuarias y en consulta con las autoridades ambientales, expresarán una política portuaria que lleve al acuerdo de criterios ambientales mínimos comunes, para ser aplicados a los puertos que requieran la ejecución de programas de dragado de mantenimiento.
 
-D. Contaminación atmosférica: en el área de puerto y las embarcaciones se producen distintas
-actividades que afectan la calidad del aire, por lo cual las autoridades portuarias deben de considerar:
+D. Contaminación atmosférica: en el área de puerto y las embarcaciones se producen distintas actividades que afectan la calidad del aire, por lo cual las autoridades portuarias deben de considerar:
 
  Cumplir con las normativas nacionales de calidad de aire
- Establecer acciones para reducir emisiones gaseosas, gases de efecto invernadero, humos,
-polvo, partículas, hollín, escapes de gráneles líquidos, carbón, minerales, productos de
-combustión y otros contaminantes, incluyendo el uso de sistemas de reducción de escapes
+ Establecer acciones para reducir emisiones gaseosas, gases de efecto invernadero, humos, polvo, partículas, hollín, escapes de gráneles líquidos, carbón, minerales, productos de combustión y otros contaminantes, incluyendo el uso de sistemas de reducción de escapes
 21
 
 gaseosos, filtros electroestáticos, trampas de partículas, etc.
- Según proceda, hacer uso de la mejor tecnología disponible, comercialmente viable y
-técnicamente probada, de forma tal, que sus descargas no afecten el medio ambiente del
-área del puerto y el área adyacente y no menoscabe otros usos legítimos del mar.
+ Según proceda, hacer uso de la mejor tecnología disponible, comercialmente viable y técnicamente probada, de forma tal, que sus descargas no afecten el medio ambiente del área del puerto y el área adyacente y no menoscabe otros usos legítimos del mar.
 
-Las autoridades portuarias consultarán la conveniencia de homologar normas, respecto a la
-contaminación atmosférica en el área de los puertos.
+Las autoridades portuarias consultarán la conveniencia de homologar normas, respecto a la contaminación atmosférica en el área de los puertos.
 
-E. Reducción de la contaminación por ruido: este factor incide en la contaminación del medio ambiente
-en general y de los puestos de trabajo en particular. Debido a la contaminación por ruido de los
-ambientes de trabajo se presentan efectos negativos para la salud de los trabajadores o poblaciones
-expuestas a este agente, de ahí la importancia fundamental en evaluarlo y tomar medidas de control
-que tiendan a reducirlo o minimizarlo
+E. Reducción de la contaminación por ruido: este factor incide en la contaminación del medio ambiente en general y de los puestos de trabajo en particular. Debido a la contaminación por ruido de los ambientes de trabajo se presentan efectos negativos para la salud de los trabajadores o poblaciones expuestas a este agente, de ahí la importancia fundamental en evaluarlo y tomar medidas de control que tiendan a reducirlo o minimizarlo
 
  Identificar las fuentes de ruido.
  Monitorear las fuentes de ruido (ambiental y laboral) para cumplir con la legislación nacional.
  Establecer acciones para reducir, o aislar el ruido.
 
-Las autoridades portuarias desarrollaran un instrumento consultado con las autoridades ambientales
-locales, orientada a adoptar tecnología compatible a sus actividades portuarias y acordarán, con
-arreglo a las normativas nacionales, estándares comunes mínimos para el control de producción de
-ruido para los puertos de Centroamérica.
+Las autoridades portuarias desarrollaran un instrumento consultado con las autoridades ambientales locales, orientada a adoptar tecnología compatible a sus actividades portuarias y acordarán, con arreglo a las normativas nacionales, estándares comunes mínimos para el control de producción de ruido para los puertos de Centroamérica.
 
-F. Control de la contaminación marina por petróleo en caso de accidente. Este tipo de contaminación
-ocasiona deterioro y destrucción de ecosistemas marino costero, los hidrocarburos persisten durante
-mucho tiempo y pueden ser trasladados por las corrientes marinas hacia las costas u otras latitudes.
-Los Convenios internacionales instan a que los países deben de tener medidas encaminadas a las
-acciones a tomar en caso de ocurrencia de accidentes petroleros. Se recomienda a las autoridades
-portuarias:
+F. Control de la contaminación marina por petróleo en caso de accidente. Este tipo de contaminación ocasiona deterioro y destrucción de ecosistemas marino costero, los hidrocarburos persisten durante mucho tiempo y pueden ser trasladados por las corrientes marinas hacia las costas u otras latitudes.
+Los Convenios internacionales instan a que los países deben de tener medidas encaminadas a las acciones a tomar en caso de ocurrencia de accidentes petroleros. Se recomienda a las autoridades portuarias:
 
- Elaboración de Planes de contingencia para la zona portuaria ante evento de derrames en los que
-se debe de actuar en coordinación con las autoridades locales y nacionales relacionadas, en
-cumplimiento de la legislación nacional y regulaciones internacionales.
+ Elaboración de Planes de contingencia para la zona portuaria ante evento de derrames en los que se debe de actuar en coordinación con las autoridades locales y nacionales relacionadas, en cumplimiento de la legislación nacional y regulaciones internacionales.
  Capacitar a los involucrados en los planes de contingencia.
- Establecer medidas para hacer frente a incidentes de contaminación por hidrocarburos, ya sea a
-nivel nacional o en cooperación con otros países.
+ Establecer medidas para hacer frente a incidentes de contaminación por hidrocarburos, ya sea a nivel nacional o en cooperación con otros países.
 
-Las autoridades portuarias, en consulta con las autoridades ambientales formularán políticas comunes
-y procedimientos para la reclamación y obtención de indemnización en casos de contaminación
-accidental por petróleo, a través de los convenios de indemnización establecidos para tal efecto, para
-lo cual tendrán en cuenta los procedimientos y reglamentación internacional vigente sobre el tema y la
-legislación nacional específica. Así mismo se trabajara en la gestión de recursos para la formulación de
-una política orientada a establecer planes de continencia para la respuesta ante derrames de
-hidrocarburos locales, a nivel de cada uno de los puertos, y enlazarlos con los planes nacionales.
-Además cooperarán en el marco de COCATRAM en la elaboración, cumplimiento e implementación de
-un Plan Regional de Contingencia, en la que acordarán mecanismos de notificación y alerta en caso de
-contaminación comunes entre los países de la región. En consulta con los Ministerios de Relaciones
+Las autoridades portuarias, en consulta con las autoridades ambientales formularán políticas comunes y procedimientos para la reclamación y obtención de indemnización en casos de contaminación accidental por petróleo, a través de los convenios de indemnización establecidos para tal efecto, para lo cual tendrán en cuenta los procedimientos y reglamentación internacional vigente sobre el tema y la legislación nacional específica. Así mismo se trabajara en la gestión de recursos para la formulación de una política orientada a establecer planes de continencia para la respuesta ante derrames de hidrocarburos locales, a nivel de cada uno de los puertos, y enlazarlos con los planes nacionales.
+Además cooperarán en el marco de COCATRAM en la elaboración, cumplimiento e implementación de un Plan Regional de Contingencia, en la que acordarán mecanismos de notificación y alerta en caso de contaminación comunes entre los países de la región. En consulta con los Ministerios de Relaciones
 22
 
-Exteriores y las Autoridades de Migración y Aduanas, se establecerán procedimientos expeditos de
-ingreso de personal, material y equipamiento, en caso de requerirse la cooperación internacional. Así
-mismo crear directrices para el manejo y eliminación del material contaminante recuperado.
+Exteriores y las Autoridades de Migración y Aduanas, se establecerán procedimientos expeditos de ingreso de personal, material y equipamiento, en caso de requerirse la cooperación internacional. Así mismo crear directrices para el manejo y eliminación del material contaminante recuperado.
 
-G. Identificación de las áreas críticas, recursos vulnerables y prioridades de protección contra la
-contaminación accidental por petróleo: Con arreglo a los planes locales, regionales y nacionales de
-control y prevención de la contaminación marina por petróleo y en aplicación de las Políticas
-Nacionales Ambientales, las autoridades portuarias, en cooperación con las instituciones nacionales
-pertinentes y como parte integrante de estos planes, colaborarán en la elaboración de los mapas de
-sensibilidad ambiental y socio económica, recursos vulnerables y prioridades de protección contra la
-contaminación accidental por petróleo en el área de los puertos, en dicha elaboración aplicarán índices
-de sensibilidad de costas del puerto, fundamentados en las características de las costas y en el
-comportamiento del petróleo como contaminante y tendrán en consideración además, las facilidades
-de recuperación y limpieza disponibles. REPICA a través de COCATRAM en coordinación con las
-autoridades portuarias y marítimas colaborarán en la elaboración de criterios comunes y simbología
-unificada para dichos mapas y procurarán su regionalización, estableciendo procedimientos para su
-inspección y actualización periódica.
+G. Identificación de las áreas críticas, recursos vulnerables y prioridades de protección contra la contaminación accidental por petróleo: Con arreglo a los planes locales, regionales y nacionales de control y prevención de la contaminación marina por petróleo y en aplicación de las Políticas
+Nacionales Ambientales, las autoridades portuarias, en cooperación con las instituciones nacionales pertinentes y como parte integrante de estos planes, colaborarán en la elaboración de los mapas de sensibilidad ambiental y socio económica, recursos vulnerables y prioridades de protección contra la contaminación accidental por petróleo en el área de los puertos, en dicha elaboración aplicarán índices de sensibilidad de costas del puerto, fundamentados en las características de las costas y en el comportamiento del petróleo como contaminante y tendrán en consideración además, las facilidades de recuperación y limpieza disponibles. REPICA a través de COCATRAM en coordinación con las autoridades portuarias y marítimas colaborarán en la elaboración de criterios comunes y simbología unificada para dichos mapas y procurarán su regionalización, estableciendo procedimientos para su inspección y actualización periódica.
 
-i) Políticas para la aplicación de dispersantes de petróleo en operaciones de respuesta contra el
-control de la contaminación: el uso de dispersantes de petróleo en el medio ambiente natural ha
-llegado a ser un tema controvertido y su aplicación está regulada en la mayoría de los países
-miembros. Su uso y concentración depende de muchos factores y de cada circunstancia particular,
-que deben ser considerados en la decisión de su aplicación.
+i) Políticas para la aplicación de dispersantes de petróleo en operaciones de respuesta contra el control de la contaminación: el uso de dispersantes de petróleo en el medio ambiente natural ha llegado a ser un tema controvertido y su aplicación está regulada en la mayoría de los países miembros. Su uso y concentración depende de muchos factores y de cada circunstancia particular, que deben ser considerados en la decisión de su aplicación.
 
- REPICA, a través de COCATRAM promoverá la discusión con las autoridades portuarias y las
-autoridades ambientales pertinentes.
- REPICA, a través de COCATRAM, en coordinación con autoridades marítimas y portuarias,
-promoverá que los planes nacionales de contingencia implementen una guía para el uso de
-dispersantes en situaciones de emergencia por contaminación por petróleo.
+ REPICA, a través de COCATRAM promoverá la discusión con las autoridades portuarias y las autoridades ambientales pertinentes.
+ REPICA, a través de COCATRAM, en coordinación con autoridades marítimas y portuarias, promoverá que los planes nacionales de contingencia implementen una guía para el uso de dispersantes en situaciones de emergencia por contaminación por petróleo.
 
 H. Afectación a ecosistema marino costero:
 
-i) Afectación al paisaje y ecosistemas: la infraestructura, equipos y actividades pueden afectar la
-percepción paisajística.
+i) Afectación al paisaje y ecosistemas: la infraestructura, equipos y actividades pueden afectar la percepción paisajística.
 
- Establecimiento de áreas “buffer” o de amortiguamiento entre el sitio del puerto (terminales)
-y las áreas adyacentes a éste, con el fin disipar ruidos y embellecer el paisaje.
- Garantizar el acceso a los servicios portuarios, de forma segura, donde se evite las
-aglomeraciones costeras y congestión de los servicios, que deben estar dotados de una
-amplia visibilidad, señalización e iluminación.
+ Establecimiento de áreas “buffer” o de amortiguamiento entre el sitio del puerto (terminales) y las áreas adyacentes a éste, con el fin disipar ruidos y embellecer el paisaje.
+ Garantizar el acceso a los servicios portuarios, de forma segura, donde se evite las aglomeraciones costeras y congestión de los servicios, que deben estar dotados de una amplia visibilidad, señalización e iluminación.
 
-ii) Pintura de barco con compuestos órgano estánnicos Tributiltina(TBT) y la Trifeniltina (TPT): Estas
-pinturas de revestimiento sirven para impedir el desarrollo de algas, moluscos y otros organismos
-que entorpecen el avance rápido de las embarcaciones, estos productos químicos son muy tóxicos
-para los organismos marinos (larvas, mejillones, ostras y peces), razón por la cual han sido
-prohibidos.
+ii) Pintura de barco con compuestos órgano estánnicos Tributiltina(TBT) y la Trifeniltina (TPT): Estas pinturas de revestimiento sirven para impedir el desarrollo de algas, moluscos y otros organismos que entorpecen el avance rápido de las embarcaciones, estos productos químicos son muy tóxicos para los organismos marinos (larvas, mejillones, ostras y peces), razón por la cual han sido prohibidos.
 23
 
- Considerar al momento de compras o adquirir el servicio para el mantenimiento de
-embarcaciones que la pintura sea libre de estas sustancias químicas, a fin de reducir, evitar y
-eliminar los efectos negativos de estos compuestos en el medio ambiente marino en el área
-del puerto.
+ Considerar al momento de compras o adquirir el servicio para el mantenimiento de embarcaciones que la pintura sea libre de estas sustancias químicas, a fin de reducir, evitar y eliminar los efectos negativos de estos compuestos en el medio ambiente marino en el área del puerto.
 
-Las autoridades portuarias y las autoridades marítimas tomarán todas las medidas necesarias para
-establecer un reglamento relacionado con el ingreso a los puertos centroamericanos de buques
-que utilicen compuestos órgano estánnicos. Para ello, considerarán la conveniencia de acordar
-reglamentos y procedimientos comunes.
+Las autoridades portuarias y las autoridades marítimas tomarán todas las medidas necesarias para establecer un reglamento relacionado con el ingreso a los puertos centroamericanos de buques que utilicen compuestos órgano estánnicos. Para ello, considerarán la conveniencia de acordar reglamentos y procedimientos comunes.
 
 I. Riesgo de contaminación por mal manejo de mercancías:
-i) Manejo de graneles. En el manejo de sustancias sólidas trasportadas a granel, las autoridades
-portuarias
+i) Manejo de graneles. En el manejo de sustancias sólidas trasportadas a granel, las autoridades portuarias
 
  Establecer programas detallados de manejo de la carga
- Mejora continua de los procedimientos de manejo, haciendo uso de las mejores tecnologías
-disponibles.
- Controlar practicas que produzcan malestar en las poblaciones vecinas al área del puerto y
-aplicarán procedimientos de inspección periódica sobre el mantenimiento de los equipos y
-maquinaria de manejo de la carga y de las bodegas de almacenamiento y patios de
-contenedores, según sea el caso.
+ Mejora continua de los procedimientos de manejo, haciendo uso de las mejores tecnologías disponibles.
+ Controlar practicas que produzcan malestar en las poblaciones vecinas al área del puerto y aplicarán procedimientos de inspección periódica sobre el mantenimiento de los equipos y maquinaria de manejo de la carga y de las bodegas de almacenamiento y patios de contenedores, según sea el caso.
  Reducir al mínimo la pérdida de productos durante su manejo en el puerto.
 
-ii) Manejo de mercancías peligrosas: Existe la necesidad que los puertos cuenten con
-reglamentaciones complementarias para el manejo y transporte de mercancías peligrosas, dado
-que los puertos están relacionados con el transporte marítimo de mercancías peligrosas
+ii) Manejo de mercancías peligrosas: Existe la necesidad que los puertos cuenten con reglamentaciones complementarias para el manejo y transporte de mercancías peligrosas, dado que los puertos están relacionados con el transporte marítimo de mercancías peligrosas
 
  Establecer un procedimiento para el manejo de mercancías peligrosa, considerando
 - Código Internacional Marítimo de Mercancías Peligrosas,
 - Código de productos químicos a granel
 - Guía Internacional de Seguridad para Buques y Terminales Petroleros.
 
-REPICA en coordinación con las autoridades portuarias desarrollaran un instrumento para la
-aplicación de buenas prácticas en el manejo, almacenamiento, exigirán la notificación previa de la
-entrada de sustancias peligrosas a los puertos, requisitos mínimos para la entrada y salida de
-barcos cargados de mercancías peligrosas Centroamericanos.
+REPICA en coordinación con las autoridades portuarias desarrollaran un instrumento para la aplicación de buenas prácticas en el manejo, almacenamiento, exigirán la notificación previa de la entrada de sustancias peligrosas a los puertos, requisitos mínimos para la entrada y salida de barcos cargados de mercancías peligrosas Centroamericanos.
 
 3.4. Acciones de manejo, planeación y prevención.
 
-Este Código persigue también reforzar los procedimientos de planificación de las zonas costeras y áreas
-marinas de Centroamérica, evitando las amenazas al medio marino y costero, que puedan derivarse del
-desarrollo portuario. Este Código reconoce la pertinencia para estas acciones de los principios claves para el
-24
+Este Código persigue también reforzar los procedimientos de planificación de las zonas costeras y áreas marinas de Centroamérica, evitando las amenazas al medio marino y costero, que puedan derivarse del desarrollo portuario. Este Código reconoce la pertinencia para estas acciones de los principios claves para el 24
 
 desarrollo portuario y terminales marítimos del Programa de las Naciones Unidas para el Medio Ambiente.
 Entre las acciones identificadas, están:
 
-A. Apoyo al manejo integrado de la zona costera. Debido al aumento, cada vez más creciente, de la
-presión sobre los uso de los espacios costeros dentro de los que se incluyen áreas susceptibles para el
-desarrollo portuario, las autoridades portuarias, establecerán una política portuaria para llevar a cabo
-actividades de concientización que resalten la importancia de los puertos en el desarrollo de la costa y
-la influencia que ejercen en la gestión de la zona costera. Asimismo, en coordinación con las
-autoridades ambientales tomarán todas las medidas para que la planificación de los puertos marítimos
-quede incorporada en el marco general de las políticas, planes o programas de manejo integrado de la
-zona costera y en los planes de ordenamiento territorial.
+A. Apoyo al manejo integrado de la zona costera. Debido al aumento, cada vez más creciente, de la presión sobre los uso de los espacios costeros dentro de los que se incluyen áreas susceptibles para el desarrollo portuario, las autoridades portuarias, establecerán una política portuaria para llevar a cabo actividades de concientización que resalten la importancia de los puertos en el desarrollo de la costa y la influencia que ejercen en la gestión de la zona costera. Asimismo, en coordinación con las autoridades ambientales tomarán todas las medidas para que la planificación de los puertos marítimos quede incorporada en el marco general de las políticas, planes o programas de manejo integrado de la zona costera y en los planes de ordenamiento territorial.
 
-B. Protección de la infraestructura portuaria contra fenómenos naturales extremos. En la planeación de
-nuevos puertos o sus modificaciones, las autoridades portuarias tomarán las previsiones necesarias
-para proteger las instalaciones portuarias contra fenómenos naturales extremos, como tormentas y
-huracanes, crecidas, Fenómeno El Niño, tsunamis, entre otros, incluyendo el incremento del nivel
-medio del mar por el calentamiento del clima, en especial para aquellas instalaciones que puedan
-resultar afectadas, dando lugar a daños ambientales graves, como son bodegas donde se almacenen
-sustancias peligrosas, tanques de aceites y combustibles y procurarán que estas medidas estén
-integradas, según proceda, a los Sistemas Nacionales de Atención y Prevención de Desastres.
-Igualmente, entre las políticas y planes de desarrollo portuario, las autoridades seleccionarán y
-revisarán las áreas costeras potenciales para el desarrollo portuario. En este sentido, también
-acordarán criterios comunes para la selección de estas áreas. Para ello, tendrán en cuenta los criterios
-nacionales de asignación de uso del suelo en la costa, con arreglo a los planes nacionales de
-ordenamiento territorial.
+B. Protección de la infraestructura portuaria contra fenómenos naturales extremos. En la planeación de nuevos puertos o sus modificaciones, las autoridades portuarias tomarán las previsiones necesarias para proteger las instalaciones portuarias contra fenómenos naturales extremos, como tormentas y huracanes, crecidas, Fenómeno El Niño, tsunamis, entre otros, incluyendo el incremento del nivel medio del mar por el calentamiento del clima, en especial para aquellas instalaciones que puedan resultar afectadas, dando lugar a daños ambientales graves, como son bodegas donde se almacenen sustancias peligrosas, tanques de aceites y combustibles y procurarán que estas medidas estén integradas, según proceda, a los Sistemas Nacionales de Atención y Prevención de Desastres.
+Igualmente, entre las políticas y planes de desarrollo portuario, las autoridades seleccionarán y revisarán las áreas costeras potenciales para el desarrollo portuario. En este sentido, también acordarán criterios comunes para la selección de estas áreas. Para ello, tendrán en cuenta los criterios nacionales de asignación de uso del suelo en la costa, con arreglo a los planes nacionales de ordenamiento territorial.
 
-C. Planes de emergencia. Las autoridades portuarias, sin perjuicio de lo que al respecto corresponda a las
-autoridades marítimas, diseñarán de acuerdo a las condiciones particulares de cada puerto, planes de
-emergencia para controlar y reducir los efectos ambientales producidos directamente por accidentes
-portuarios. Dichos planes tendrán como objetivo actuar en tiempo y de forma eficaz para reducir la
-contaminación y otros daños ambientales graves, tanto en el puerto como en sus áreas inmediatas
-adyacentes. Las autoridades portuarias y REPICA, procurarán establecer un contenido mínimo común
-de dichos planes para los puertos centroamericanos.
+C. Planes de emergencia. Las autoridades portuarias, sin perjuicio de lo que al respecto corresponda a las autoridades marítimas, diseñarán de acuerdo a las condiciones particulares de cada puerto, planes de emergencia para controlar y reducir los efectos ambientales producidos directamente por accidentes portuarios. Dichos planes tendrán como objetivo actuar en tiempo y de forma eficaz para reducir la contaminación y otros daños ambientales graves, tanto en el puerto como en sus áreas inmediatas adyacentes. Las autoridades portuarias y REPICA, procurarán establecer un contenido mínimo común de dichos planes para los puertos centroamericanos.
 
-D. Sistemas de información estructurados para comunicación con los medios, la población civil y otras
-autoridades Las autoridades portuarias y REPICA acordarán la creación de estos, se establecerán
-jerarquías de funciones bien definidas para operaciones y coordinación con otras autoridades, en
-especial, en caso de accidentes que provoquen daños ambientales graves; realizarán con las
-autoridades marítimas una evaluación periódica de las operaciones de rutina de los puertos que
-pueden causar daños ambientales y de las necesidades y condiciones del material, equipo y personal
-requerido para la operación de dichos planes de emergencia a nivel de puertos, empresas y terminales
-portuarias.
+D. Sistemas de información estructurados para comunicación con los medios, la población civil y otras autoridades Las autoridades portuarias y REPICA acordarán la creación de estos, se establecerán jerarquías de funciones bien definidas para operaciones y coordinación con otras autoridades, en especial, en caso de accidentes que provoquen daños ambientales graves; realizarán con las autoridades marítimas una evaluación periódica de las operaciones de rutina de los puertos que pueden causar daños ambientales y de las necesidades y condiciones del material, equipo y personal requerido para la operación de dichos planes de emergencia a nivel de puertos, empresas y terminales portuarias.
 
-E. Auditorías ambientales: establecimiento de Mecanismos de control y formulación de planes de
-revisión en los puertos y terminales portuarias. Las autoridades portuarias formularán una política
-portuaria para proveer a los puertos centroamericanos de sistemas internos seguimiento y control de
-25
+E. Auditorías ambientales: establecimiento de Mecanismos de control y formulación de planes de revisión en los puertos y terminales portuarias. Las autoridades portuarias formularán una política portuaria para proveer a los puertos centroamericanos de sistemas internos seguimiento y control de 25
 
-sus objetivos ambientales, así como procedimientos consensuados para las autoridades ambientales
-pertinentes para conducir auditorías ambientales en los puertos. Para lo anterior, los autoridades
-portuarias considerarán, según proceda, la pertinencia de la Certificación de que sus sistemas cumplen
-con estándares internacionales y nacionales, entre ellos, ISO 14000 y otros estándares internacionales
-idóneos y considerarán, dentro del marco de esa política portuaria, el establecimiento de un esquema
-centroamericano de eco manejo y auditoría ambiental, fundamentado en los acuerdos comunes que
-con arreglo a la ejecución de acciones ambientales contempladas en este Código, resulten apropiadas a
-los puertos centroamericanos.
+sus objetivos ambientales, así como procedimientos consensuados para las autoridades ambientales pertinentes para conducir auditorías ambientales en los puertos. Para lo anterior, los autoridades portuarias considerarán, según proceda, la pertinencia de la Certificación de que sus sistemas cumplen con estándares internacionales y nacionales, entre ellos, ISO 14000 y otros estándares internacionales idóneos y considerarán, dentro del marco de esa política portuaria, el establecimiento de un esquema centroamericano de eco manejo y auditoría ambiental, fundamentado en los acuerdos comunes que con arreglo a la ejecución de acciones ambientales contempladas en este Código, resulten apropiadas a los puertos centroamericanos.
 
-Las autoridades portuarias y REPICA acordarán en sus esquemas organizativos constituir un grupo
-especial ad hoc sobre medio ambiente portuario, teniendo como marco para su trabajo el Código. El
-grupo será convocado por COCATRAM en las mismas oportunidades y ocasiones de la REPICA o por
-solicitud de una o más de las autoridades portuarias, cuando existan razones que requieran ser
-analizadas en este foro. Podrán asistir a este foro en calidad de asesores los organismos e
-instituciones internacionales pertinentes. Las decisiones del grupo ad hoc son recomendatorias, pero
-representan la mejor aproximación para el análisis y tratamiento de los problemas ambientales de los
-puertos de Centroamérica, sin perjuicio de aquellas que resultan obligatorias conforme el derecho
-internacional y a la normativa nacional.
+Las autoridades portuarias y REPICA acordarán en sus esquemas organizativos constituir un grupo especial ad hoc sobre medio ambiente portuario, teniendo como marco para su trabajo el Código. El grupo será convocado por COCATRAM en las mismas oportunidades y ocasiones de la REPICA o por solicitud de una o más de las autoridades portuarias, cuando existan razones que requieran ser analizadas en este foro. Podrán asistir a este foro en calidad de asesores los organismos e instituciones internacionales pertinentes. Las decisiones del grupo ad hoc son recomendatorias, pero representan la mejor aproximación para el análisis y tratamiento de los problemas ambientales de los puertos de Centroamérica, sin perjuicio de aquellas que resultan obligatorias conforme el derecho internacional y a la normativa nacional.
 
-F. Acciones de fortalecimiento y creación de las capacidades: el Código reconoce que la capacitación de
-su personal y el involucramiento de todo el público en el trabajo portuario es imprescindible para que
-se logre alcanzar los objetivos propuestos, mediante la capacitación y la corrección de prácticas
-inadecuadas, muchos riesgos a la salud de los trabajadores de los puertos y a la calidad ambiental del
-área y al trabajo portuario pueden ser prevenidos. Las acciones de capacitación y entrenamiento están
-orientadas a fortalecer y donde proceda a crear la capacidad necesaria para facilitar el manejo de los
-temas ambientales inherentes al trabajo portuario por las autoridades portuarias. Las autoridades
-portuarias diseñarán una política orientada a apoyar programas de educación dirigidos al personal del
-puerto y de la industria.
+F. Acciones de fortalecimiento y creación de las capacidades: el Código reconoce que la capacitación de su personal y el involucramiento de todo el público en el trabajo portuario es imprescindible para que se logre alcanzar los objetivos propuestos, mediante la capacitación y la corrección de prácticas inadecuadas, muchos riesgos a la salud de los trabajadores de los puertos y a la calidad ambiental del área y al trabajo portuario pueden ser prevenidos. Las acciones de capacitación y entrenamiento están orientadas a fortalecer y donde proceda a crear la capacidad necesaria para facilitar el manejo de los temas ambientales inherentes al trabajo portuario por las autoridades portuarias. Las autoridades portuarias diseñarán una política orientada a apoyar programas de educación dirigidos al personal del puerto y de la industria.
 
-G. Mejora continua: En el contexto del presente Código, las acciones para el fortalecimiento de la
-capacidad de gerenciamiento portuario y para la creación y fortalecimiento de las capacidades debe
-ser considerado como parte de un proceso dinámico de aplicación gradual, en el cual las acciones están
-sujetas a revisiones constantes, conforme surjan mejores prácticas ambientales que las sustituyan,
-reemplacen o superen. Para lo anterior, las autoridades portuarias y REPICA a través de COCATRAM,
-tendrán en cuenta la labor desempeñada por las organizaciones internacionales competentes,
-tomando en cuenta los últimos avances tecnológicos, con los cambios en las políticas globales
-ambientales, con los cambios en las modalidades del comercio internacional y del tráfico marítimo y
-con las recomendaciones que deriven de los foros internacionales ambientales pertinentes.
+G. Mejora continua: En el contexto del presente Código, las acciones para el fortalecimiento de la capacidad de gerenciamiento portuario y para la creación y fortalecimiento de las capacidades debe ser considerado como parte de un proceso dinámico de aplicación gradual, en el cual las acciones están sujetas a revisiones constantes, conforme surjan mejores prácticas ambientales que las sustituyan, reemplacen o superen. Para lo anterior, las autoridades portuarias y REPICA a través de COCATRAM, tendrán en cuenta la labor desempeñada por las organizaciones internacionales competentes, tomando en cuenta los últimos avances tecnológicos, con los cambios en las políticas globales ambientales, con los cambios en las modalidades del comercio internacional y del tráfico marítimo y con las recomendaciones que deriven de los foros internacionales ambientales pertinentes.
 
 26
 
 SECCION IV.
 4.1. El Cambio Climático
 
-El cambio climático, parece haberse convertido en algo inevitable. Si hay algo que hemos aprendido es que el
-clima no responde inmediatamente a influencias externas sino que, tras más de un siglo de industrialización, el
-calentamiento mundial ha cobrado fuerza y seguirá afectando a los sistemas naturales del planeta durante
-cientos de años más, incluso si se reducen inmediatamente las emisiones de gases invernadero (GEI) y dejen de
-aumentar los niveles de concentración de dichos gases en la atmósfera.
+El cambio climático, parece haberse convertido en algo inevitable. Si hay algo que hemos aprendido es que el clima no responde inmediatamente a influencias externas sino que, tras más de un siglo de industrialización, el calentamiento mundial ha cobrado fuerza y seguirá afectando a los sistemas naturales del planeta durante cientos de años más, incluso si se reducen inmediatamente las emisiones de gases invernadero (GEI) y dejen de aumentar los niveles de concentración de dichos gases en la atmósfera.
 
-En tal sentido, no sería realista pensar que tan solo con medidas de mitigación de GEI sería suficiente para
-afrontar este inmenso reto que el cambio climático le plantea a la humanidad y de manera específica al sector
-del transporte marítimo. Las medidas de adaptación también serían necesarias para al menos minimizar los
-efectos de los cambios irreversibles del clima.
+En tal sentido, no sería realista pensar que tan solo con medidas de mitigación de GEI sería suficiente para afrontar este inmenso reto que el cambio climático le plantea a la humanidad y de manera específica al sector del transporte marítimo. Las medidas de adaptación también serían necesarias para al menos minimizar los efectos de los cambios irreversibles del clima.
 
-Se hace indispensable estar bien informado sobre las probables vulnerabilidades y tener bien claro el tipo,
-alcance, impactos y consecuencias de los distintos efectos climáticos para poder adoptar medidas adecuadas y
-eficientes de adaptación del transporte marítimo.
+Se hace indispensable estar bien informado sobre las probables vulnerabilidades y tener bien claro el tipo, alcance, impactos y consecuencias de los distintos efectos climáticos para poder adoptar medidas adecuadas y eficientes de adaptación del transporte marítimo.
 
-A continuación se mencionan las posibles repercusiones y correspondientes medidas de adaptación de los
-principales factores del cambio climático:
+A continuación se mencionan las posibles repercusiones y correspondientes medidas de adaptación de los principales factores del cambio climático:
 
 - Aumento de las temperaturas.
 - Aumento del nivel del mar.
 - Condiciones meteorológicas extremas.
 
 A. Impacto en la infraestructura y equipos marítimos
-Las temperaturas extremas y las grandes variaciones, junto con los ciclos más frecuentes de congelación y
-fusión, podrían conducir a un deterioro de las zonas pavimentadas en los puertos, así como también, en ciertos
-equipos como las grúas de embarque y desembarque de mercancías, especialmente si estas fueron construidas
-con metales de limitada resistencia térmica. Por otra parte, en los puertos se podrán experimentar mayores
-niveles de consumo de energía, y por ende un aumento de las emisiones de CO2 debido a las necesidades de
-refrigeración de las mercancías perecederas y de aire acondicionado.
+Las temperaturas extremas y las grandes variaciones, junto con los ciclos más frecuentes de congelación y fusión, podrían conducir a un deterioro de las zonas pavimentadas en los puertos, así como también, en ciertos equipos como las grúas de embarque y desembarque de mercancías, especialmente si estas fueron construidas con metales de limitada resistencia térmica. Por otra parte, en los puertos se podrán experimentar mayores niveles de consumo de energía, y por ende un aumento de las emisiones de CO2 debido a las necesidades de refrigeración de las mercancías perecederas y de aire acondicionado.
 B. Posibles efectos y adaptación en las zonas portuarias
-El aumento del nivel del mar, las inundaciones y las crecidas tienen graves consecuencias para la
-infraestructura portuaria pudiendo causar daños a los muelles, terminales, patios de almacenamiento y
-depósitos, e incluso pudiera llegar a tener la necesidad de cerrar el puerto, perturbando así los servicios
-portuarios. Además, los fenómenos meteorológicos extremos pueden perturbar la cadena de suministro y
-socavar la conectividad del sistema de transporte al causar daño a la vialidad terrestre.
+El aumento del nivel del mar, las inundaciones y las crecidas tienen graves consecuencias para la infraestructura portuaria pudiendo causar daños a los muelles, terminales, patios de almacenamiento y depósitos, e incluso pudiera llegar a tener la necesidad de cerrar el puerto, perturbando así los servicios portuarios. Además, los fenómenos meteorológicos extremos pueden perturbar la cadena de suministro y socavar la conectividad del sistema de transporte al causar daño a la vialidad terrestre.
 
-De igual forma, el aumento de la movilidad de los sedimentos alrededor de los puertos y canales de acceso
-también podrían generar dificultades en las operaciones de arribo y zarpes de buques, demandando esta
-situación de costosas operaciones de dragado.
+De igual forma, el aumento de la movilidad de los sedimentos alrededor de los puertos y canales de acceso también podrían generar dificultades en las operaciones de arribo y zarpes de buques, demandando esta situación de costosas operaciones de dragado.
 
 27
 
 C. Opciones de adaptación en las zonas portuarias
-Las medidas de adaptación para minimizar las posibles repercusiones del aumento de las temperaturas pasan
-por la revisión de los estándares de la construcción naval, de las reparaciones y del mantenimiento continuo de
-la infraestructura portuaria, por el aumento de la resistencia al calor de los materiales a utilizar y por la revisión
-de las especificaciones y normas de diseño. En el área operativa también se requerirá algunos cambios en los
-patrones de las operaciones de carga y descarga, en la velocidad y frecuencia del servicio, así como también en
-los planes de gestión del tráfico.
+Las medidas de adaptación para minimizar las posibles repercusiones del aumento de las temperaturas pasan por la revisión de los estándares de la construcción naval, de las reparaciones y del mantenimiento continuo de la infraestructura portuaria, por el aumento de la resistencia al calor de los materiales a utilizar y por la revisión de las especificaciones y normas de diseño. En el área operativa también se requerirá algunos cambios en los patrones de las operaciones de carga y descarga, en la velocidad y frecuencia del servicio, así como también en los planes de gestión del tráfico.
 
-Otro aspecto importante será la integración de los procedimientos de evacuación de emergencia para poder
-afrontar de manera eficiente los fenómenos meteorológicos extremos, así como también, la puesta en práctica
-de los sistemas de alerta temprana mediante la utilización de la tecnología disponible. Buques, terminales y
-depósitos, podrían requerir sistemas de refrigeración más eficientes. Las medidas de adaptación al aumento
-del nivel del mar pudieran implicar la reubicación de instalaciones portuarias tales como depósitos y patios de
-almacenamiento.
+Otro aspecto importante será la integración de los procedimientos de evacuación de emergencia para poder afrontar de manera eficiente los fenómenos meteorológicos extremos, así como también, la puesta en práctica de los sistemas de alerta temprana mediante la utilización de la tecnología disponible. Buques, terminales y depósitos, podrían requerir sistemas de refrigeración más eficientes. Las medidas de adaptación al aumento del nivel del mar pudieran implicar la reubicación de instalaciones portuarias tales como depósitos y patios de almacenamiento.
 D. Posibles efectos y adaptación en las zonas portuarias
 
 Escenarios climáticos
@@ -662,38 +399,22 @@ Medidas de adaptación
 
 E. Adaptación y mitigación en las zonas portuarias
 
-i. La exposición está concentrada en un cierto número de puertos (y en las respectivas ciudades
-costeras). El riesgo y administración de las inundaciones costeras es un problema dinámico que
-requiere una evaluación proactiva. La mitigación ofrece en este caso particular, beneficios limitados; la
-mitigación (no climática) sino la mitigación de la inmersión ofrece mayores beneficios.
+i. La exposición está concentrada en un cierto número de puertos (y en las respectivas ciudades costeras). El riesgo y administración de las inundaciones costeras es un problema dinámico que requiere una evaluación proactiva. La mitigación ofrece en este caso particular, beneficios limitados; la mitigación (no climática) sino la mitigación de la inmersión ofrece mayores beneficios.
 
-ii. La Adaptación es multifacética: protección, planificación del uso del suelo, códigos de edificación,
-advertencia temprana y respuesta al desastre. Por ende las medidas de adaptación y mitigación
-pueden ser respuesta clave para las próximas décadas.
+ii. La Adaptación es multifacética: protección, planificación del uso del suelo, códigos de edificación, advertencia temprana y respuesta al desastre. Por ende las medidas de adaptación y mitigación pueden ser respuesta clave para las próximas décadas.
 
 iii. Promover el intercambio de información y experiencias entre ciudades-Puertos de la Región
 Centroamericana, referidas a la creciente exposición al riesgo de inundación costera.
 
-Los próximos pasos: realizar primero una evaluación global del riesgo a la inundación costera. Los planes de
-desarrollo y prácticas futuras deben considerar el impacto del cambio climático en todas sus manifestaciones.
+Los próximos pasos: realizar primero una evaluación global del riesgo a la inundación costera. Los planes de desarrollo y prácticas futuras deben considerar el impacto del cambio climático en todas sus manifestaciones.
 
 4.2. Evaluación ambiental del Transporte Marítimo y El Puerto
 
-El éxito del comercio marítimo, industria pesquera y defensa naval, dependen del desarrollo del puerto; por lo
-que es importante el correcto diseño, construcción y mantenimiento de estos recursos costaneros y marinos. El
-desarrollo marítimo suele generar problemas ambientales locales; sin embargo, pude producir problemas de
-escala regional. Los impactos del desarrollo marítimo difieren según su ubicación, debido a las variaciones en
-tales rasgos como geografía, hidrología, geología, ecología, industrialización, urbanización y tipos de embarque.
+El éxito del comercio marítimo, industria pesquera y defensa naval, dependen del desarrollo del puerto; por lo que es importante el correcto diseño, construcción y mantenimiento de estos recursos costaneros y marinos. El desarrollo marítimo suele generar problemas ambientales locales; sin embargo, pude producir problemas de escala regional. Los impactos del desarrollo marítimo difieren según su ubicación, debido a las variaciones en tales rasgos como geografía, hidrología, geología, ecología, industrialización, urbanización y tipos de embarque.
 
-La alteración de las aguas naturales y construcción de estructuras artificiales, puede resultar en impactos
-directos sobre la masa de agua siendo desarrollada, así como impactos directos e indirectos sobre los
-ecosistemas y comunidades correspondientes en las cercanías del proyecto.
+La alteración de las aguas naturales y construcción de estructuras artificiales, puede resultar en impactos directos sobre la masa de agua siendo desarrollada, así como impactos directos e indirectos sobre los ecosistemas y comunidades correspondientes en las cercanías del proyecto.
 
-Las operaciones de dragado, eliminación de materiales, desarrollo de la zona playera, mayor tránsito marítimo
-y vehicular en el puerto, pueden resultar en la liberación de contaminantes naturales y antropogénicos en el
-medio ambiente. Puesto que existen numerosos métodos de dragado, eliminación de materiales y
-construcción, para el establecimiento de instalaciones en puertos y bahías, variarán las combinaciones de
-efectos físicos, químicos y biológicos sobre el medio de interés.
+Las operaciones de dragado, eliminación de materiales, desarrollo de la zona playera, mayor tránsito marítimo y vehicular en el puerto, pueden resultar en la liberación de contaminantes naturales y antropogénicos en el medio ambiente. Puesto que existen numerosos métodos de dragado, eliminación de materiales y construcción, para el establecimiento de instalaciones en puertos y bahías, variarán las combinaciones de efectos físicos, químicos y biológicos sobre el medio de interés.
 
 Los potenciales impactos acuáticos incluyen:
 - Derrames y descargas de petróleo.
@@ -716,8 +437,7 @@ y con relación al puerto.
 A. Impactos de las actividades
 i. El agua
 
-Las actividades de dragado y eliminación de los materiales dragados para el desarrollo y mantenimiento
-de los puertos, puede inducir impactos a corto y largo alcance sobre los sistemas acuáticos como sigue:
+Las actividades de dragado y eliminación de los materiales dragados para el desarrollo y mantenimiento de los puertos, puede inducir impactos a corto y largo alcance sobre los sistemas acuáticos como sigue:
 - Degradación de tales recursos marinos como playas, esteros, y zonas pesqueras.
 - Re suspensión y asentamiento del sedimento.
 - Separación de contaminantes tóxicos y reintroducción en la columna de agua.
@@ -730,60 +450,27 @@ fluctuaciones en la composición química del agua.
 - Cambios en la estructura de la ribera.
 - Pérdida del hábitat y recursos pesqueros.
 
-Similares impactos pueden resultar además del mayor tránsito marítimo y desarrollo de instalaciones
-por la ribera.
+Similares impactos pueden resultar además del mayor tránsito marítimo y desarrollo de instalaciones por la ribera.
 
-La mayor navegabilidad y desarrollo de las instalaciones portuarias aumentará el tránsito marítimo y a
-la vez el riesgo de derrames y descargas de sentina aceitosa, lastre, materiales contra el atascamiento y
-aguas servidas. El aumento en el desarrollo de la zona playera contribuirá además al estrés en el
-sistema acuático receptor mediante las descargas puntuales de aguas servidas, aguas de
-procesamiento y enfriamiento, y liberaciones accidentales.
+La mayor navegabilidad y desarrollo de las instalaciones portuarias aumentará el tránsito marítimo y a la vez el riesgo de derrames y descargas de sentina aceitosa, lastre, materiales contra el atascamiento y aguas servidas. El aumento en el desarrollo de la zona playera contribuirá además al estrés en el sistema acuático receptor mediante las descargas puntuales de aguas servidas, aguas de procesamiento y enfriamiento, y liberaciones accidentales.
 ii. El suelo
 
-La región ribereña en el área del puerto y bahía, será alterada según las necesidades de las nuevas
-industrias. Estas pueden resultar en la reubicación de aldeas, mayor tránsito vehicular, polvo y emisiones
-en el aire procedentes del tránsito y acumulaciones de materia prima, y contaminación del aflujo
-superficial. Numerosas instalaciones en puertos y bahías se encuentran próximas a frágiles pantanos
-salados, manglares y esteros que pueden servir como pozos para la recolección de aguas de lluvia y
-sedimento contaminando del área ribereña.
+La región ribereña en el área del puerto y bahía, será alterada según las necesidades de las nuevas industrias. Estas pueden resultar en la reubicación de aldeas, mayor tránsito vehicular, polvo y emisiones en el aire procedentes del tránsito y acumulaciones de materia prima, y contaminación del aflujo superficial. Numerosas instalaciones en puertos y bahías se encuentran próximas a frágiles pantanos salados, manglares y esteros que pueden servir como pozos para la recolección de aguas de lluvia y sedimento contaminando del área ribereña.
 
 30
 
-La eliminación terrestre de los materiales de dragado en sistemas confinados y no confinados, puede
-además afectar al agua subterránea subyacente, contaminar el aflujo superficial y alterar las fuerzas
-opciones para el uso de la tierra.
+La eliminación terrestre de los materiales de dragado en sistemas confinados y no confinados, puede además afectar al agua subterránea subyacente, contaminar el aflujo superficial y alterar las fuerzas opciones para el uso de la tierra.
 
-Es muy probable que la creciente preocupación por la pérdida de tierras húmedas y sus efectos sobre la
-estructura hidrológica y biológica y el funcionamiento de los biomios, excluyan el uso de las tierras
-húmedas como sitios de reclamación para materiales dragados.
+Es muy probable que la creciente preocupación por la pérdida de tierras húmedas y sus efectos sobre la estructura hidrológica y biológica y el funcionamiento de los biomios, excluyan el uso de las tierras húmedas como sitios de reclamación para materiales dragados.
 
 iii. Problemas socioculturales
-En su mayor parte, tienen acogida las instalaciones nuevas o ampliadas para puertos y bahías en las
-naciones en desarrollo, puesto que estos proyectos brindan nuevos empleos y traen un influjo de
-comercio a la región. Sin embargo, la mejora, ampliación e industrialización puede desequilibrar las
-tradiciones locales culturales, étnicas, históricas y religiosas.
+En su mayor parte, tienen acogida las instalaciones nuevas o ampliadas para puertos y bahías en las naciones en desarrollo, puesto que estos proyectos brindan nuevos empleos y traen un influjo de comercio a la región. Sin embargo, la mejora, ampliación e industrialización puede desequilibrar las tradiciones locales culturales, étnicas, históricas y religiosas.
 
-En algunos casos, la aceptación y éxito de los proyectos puede verse obstaculizada por una preocupación
-local en torno a la potencial destrucción de lugares históricos, parques, reservas y valiosos recursos
-recreativos y de pesca en la zona costanera. Es esencial lograr la participación comunitaria en la
-planificación de los proyectos.
+En algunos casos, la aceptación y éxito de los proyectos puede verse obstaculizada por una preocupación local en torno a la potencial destrucción de lugares históricos, parques, reservas y valiosos recursos recreativos y de pesca en la zona costanera. Es esencial lograr la participación comunitaria en la planificación de los proyectos.
 
-Durante las fases de planificación e implementación, se debe realizar proyecciones de los posibles
-impactos de la mayor demanda sobre los recursos locales técnicos y de mano de obra, a fin de evitar un
-exceso de presión sobre los recursos limitados. Se debe limitar o evitar cuidadosamente los impactos
-sobre los escasos bienes locales. Por ejemplo, la destrucción de una valiosa pesquería local o playa
-recreativa para el desarrollo de instalaciones para puertos y bahías, podría resultar en impactos
-económicos y culturales indeseables.
+Durante las fases de planificación e implementación, se debe realizar proyecciones de los posibles impactos de la mayor demanda sobre los recursos locales técnicos y de mano de obra, a fin de evitar un exceso de presión sobre los recursos limitados. Se debe limitar o evitar cuidadosamente los impactos sobre los escasos bienes locales. Por ejemplo, la destrucción de una valiosa pesquería local o playa recreativa para el desarrollo de instalaciones para puertos y bahías, podría resultar en impactos económicos y culturales indeseables.
 B. El dragado de mantenimiento
-El dragado de mantenimiento es realizado en canales de acercamiento y depresiones de las bahías para
-mantener su profundidad y amplitud y asegurar un acceso seguro para las naves grandes. Los materiales
-provenientes del dragado de mantenimiento generalmente presentan un mayor problema de eliminación que
-el sedimento más profundo sacado durante el dragado de construcción, puesto que el sedimento de la
-superficie se compone de materiales recientemente depositados que normalmente son contaminados. Este
-sedimento más reciente suele contener contaminantes naturales y antropogénicos que se pueden originar de
-la precipitación atmosférica, erosión de la superficie de las tierras locales y orillas del canal, precipitación de la
-actividad biológica en la columna de agua, transporte de sedimento desde las aguas interiores, descargas de
-fuentes puntuales y aflujo superficial del área circundante.
+El dragado de mantenimiento es realizado en canales de acercamiento y depresiones de las bahías para mantener su profundidad y amplitud y asegurar un acceso seguro para las naves grandes. Los materiales provenientes del dragado de mantenimiento generalmente presentan un mayor problema de eliminación que el sedimento más profundo sacado durante el dragado de construcción, puesto que el sedimento de la superficie se compone de materiales recientemente depositados que normalmente son contaminados. Este sedimento más reciente suele contener contaminantes naturales y antropogénicos que se pueden originar de la precipitación atmosférica, erosión de la superficie de las tierras locales y orillas del canal, precipitación de la actividad biológica en la columna de agua, transporte de sedimento desde las aguas interiores, descargas de fuentes puntuales y aflujo superficial del área circundante.
 
 A fin de atenuar la potencial liberación de contaminantes del área portuaria, se debe tratar lo siguiente:
 - Correcto diseño de las instalaciones de manejo y tratamiento del agua de lluvia; precipitaciones de
@@ -794,31 +481,16 @@ aguas servidas y de alcantarilla.
 31
 
 C. Ubicación de los puertos y bahías
-Algunos países de la Región poseen sistemas inadecuados de agua potable y eliminación de los desechos
-sanitarios, uso intensivo de la tierra, y nivel creciente de degradación ambiental. Puede no ser buena idea
-desarrollar un puerto o bahía con el propósito de incrementar el comercio marítimo e industrias
-correspondientes en un área que actualmente experimenta estrés ambiental, a menos que se planifique
-adecuadas medidas atenuantes a fin de asegurar el correcto manejo de los desechos provenientes de las
-actividades relacionadas con el desarrollo.
+Algunos países de la Región poseen sistemas inadecuados de agua potable y eliminación de los desechos sanitarios, uso intensivo de la tierra, y nivel creciente de degradación ambiental. Puede no ser buena idea desarrollar un puerto o bahía con el propósito de incrementar el comercio marítimo e industrias correspondientes en un área que actualmente experimenta estrés ambiental, a menos que se planifique adecuadas medidas atenuantes a fin de asegurar el correcto manejo de los desechos provenientes de las actividades relacionadas con el desarrollo.
 
-La decisión de mejorar o establecer instalaciones para puertos y bahías se basa normalmente en parámetros
-económicos, geográficos y políticos, antes que de naturaleza ambiental. Al elegir una ubicación, se debe
-considerar la capacidad de asimilación de los sistemas naturales prevalecientes, junto con su facilidad de
-acceso, necesidades de empleo y comercio local.
+La decisión de mejorar o establecer instalaciones para puertos y bahías se basa normalmente en parámetros económicos, geográficos y políticos, antes que de naturaleza ambiental. Al elegir una ubicación, se debe considerar la capacidad de asimilación de los sistemas naturales prevalecientes, junto con su facilidad de acceso, necesidades de empleo y comercio local.
 
 D. Alternativas de los proyectos
-A menudo existen varias alternativas de planificación, diseño e implementación para un proyecto de desarrollo
-de una instalación en un puerto o bahía. A medida que progresa un proyecto, el personal y consultores de la
-institución gestora del proyecto describirán las alternativas específicas consideradas durante la evaluación del
-proyecto.
+A menudo existen varias alternativas de planificación, diseño e implementación para un proyecto de desarrollo de una instalación en un puerto o bahía. A medida que progresa un proyecto, el personal y consultores de la institución gestora del proyecto describirán las alternativas específicas consideradas durante la evaluación del proyecto.
 
-A continuación se trata varias alternativas y consideraciones que pueden proporcionar un marco para el
-examen de un proyecto específico por parte de los encargados de la evaluación y análisis ecológico. En el
-análisis de las alternativas es fundamental la participación de todas las comunidades involucradas.
+A continuación se trata varias alternativas y consideraciones que pueden proporcionar un marco para el examen de un proyecto específico por parte de los encargados de la evaluación y análisis ecológico. En el análisis de las alternativas es fundamental la participación de todas las comunidades involucradas.
 i. Selección del sitio
-La selección de un sitio para el desarrollo de nuevas instalaciones para puertos o bahías, depende de muchos
-aspectos físicos de las cercanías locales, así como de consideraciones socioeconómicas. Normalmente, los
-buenos sitios satisfacen los siguientes criterios:
+La selección de un sitio para el desarrollo de nuevas instalaciones para puertos o bahías, depende de muchos aspectos físicos de las cercanías locales, así como de consideraciones socioeconómicas. Normalmente, los buenos sitios satisfacen los siguientes criterios:
 
 - Los aspectos físicos, incluyendo viento, marea, corrientes, clima y sedimentación, no requieren de
 mayor mantenimiento o excluyen el tránsito marítimo.
@@ -829,90 +501,48 @@ de los desechos de cualquier industria en desarrollo.
 - No se viola tales consideraciones de programación como los períodos de reproducción y migración de
 la biota autóctona.
 
-La necesidad de reubicación de la población es mínima. El proyecto no compite con otros usos altamente
-valorados de la tierra como playas de pesca, turismo, campos agrícolas o aldeas, ni los desplaza. Las actividades
-del proyecto no afectan negativamente al valor de un recurso marino o costanero existente, como dunas o una
-marisquería. Se dispone de materiales de construcción, mano de obra calificada, industrias de apoyo,
-suministros de energía eléctrica y agua dulce, instalaciones para la eliminación de desechos y transporte. La
-construcción, operación y mantenimiento del puerto o bahía no perjudica a los hábitats frágiles (esteros,
-manglares) o especies raras, en riesgo, o en peligro de extinción. El acceso al puerto por camino/ferrocarril
-puede establecerse fácilmente sin mayor alteración de las comunidades.
+La necesidad de reubicación de la población es mínima. El proyecto no compite con otros usos altamente valorados de la tierra como playas de pesca, turismo, campos agrícolas o aldeas, ni los desplaza. Las actividades del proyecto no afectan negativamente al valor de un recurso marino o costanero existente, como dunas o una marisquería. Se dispone de materiales de construcción, mano de obra calificada, industrias de apoyo, suministros de energía eléctrica y agua dulce, instalaciones para la eliminación de desechos y transporte. La construcción, operación y mantenimiento del puerto o bahía no perjudica a los hábitats frágiles (esteros, manglares) o especies raras, en riesgo, o en peligro de extinción. El acceso al puerto por camino/ferrocarril puede establecerse fácilmente sin mayor alteración de las comunidades.
 32
 
 ii. Diagnóstico ambiental
-La evaluación de impacto ambiental y social de una acción requiere el conocimiento previo de la situación
-actual que podrá ser modificada. Este conocimiento previo se denomina “diagnóstico”. Mediante el diagnóstico
-ambiental se puede identificar un patrón de actuaciones ambientales y detectar las necesidades comunes para
-las posibles mejoras en la gestión ambiental, iniciativas o propuestas innovadoras; al mismo tiempo que sea
-una referencia para futuros estudios, u otros datos procedentes de áreas geográficas diferentes.
+La evaluación de impacto ambiental y social de una acción requiere el conocimiento previo de la situación actual que podrá ser modificada. Este conocimiento previo se denomina “diagnóstico”. Mediante el diagnóstico ambiental se puede identificar un patrón de actuaciones ambientales y detectar las necesidades comunes para las posibles mejoras en la gestión ambiental, iniciativas o propuestas innovadoras; al mismo tiempo que sea una referencia para futuros estudios, u otros datos procedentes de áreas geográficas diferentes.
 
-El diagnóstico tiene como principal objetivo que el medio ambiente y la sostenibilidad sean la base para
-mejores empleos y puertos más competitivos a través de acciones destinadas a los trabajadores y al recinto
-portuario, de forma que estos sean actores claves en la mejora del medio ambiente y en la sostenibilidad del
-desarrollo, específicamente en la conservación del medio marino, a partir de la gestión ambiental de puertos y
-zonas costeras.
+El diagnóstico tiene como principal objetivo que el medio ambiente y la sostenibilidad sean la base para mejores empleos y puertos más competitivos a través de acciones destinadas a los trabajadores y al recinto portuario, de forma que estos sean actores claves en la mejora del medio ambiente y en la sostenibilidad del desarrollo, específicamente en la conservación del medio marino, a partir de la gestión ambiental de puertos y zonas costeras.
 
-La finalidad del diagnóstico consiste en obtener información necesaria y suficiente para conocer la estructura y
-el funcionamiento del sistema ambiental y social que podría verse afectado por una acción dada, dentro o al
-entorno del puerto. Lo que significa conocer los factores ambientales y sociales relevantes, tanto los referidos a
-características (estructura) como a procesos (función).
+La finalidad del diagnóstico consiste en obtener información necesaria y suficiente para conocer la estructura y el funcionamiento del sistema ambiental y social que podría verse afectado por una acción dada, dentro o al entorno del puerto. Lo que significa conocer los factores ambientales y sociales relevantes, tanto los referidos a características (estructura) como a procesos (función).
 
-El diagnóstico debe incluir una valoración del estado operacional o calidad de los factores ambientales y
-sociales y del sistema que constituyen, es decir el entorno globalmente considerado. La extensión espacial de
-las áreas de afectación o impacto estará, en parte relacionada con la envergadura y significación ambiental del
-Puerto y sus actividades.
+El diagnóstico debe incluir una valoración del estado operacional o calidad de los factores ambientales y sociales y del sistema que constituyen, es decir el entorno globalmente considerado. La extensión espacial de las áreas de afectación o impacto estará, en parte relacionada con la envergadura y significación ambiental del Puerto y sus actividades.
 
 Existen cuatro instancias o sub-etapas en las que puede dividirse el diagnóstico:
 
- La descripción: corresponde a la lectura de los aspectos aparente del fenómeno bajo análisis. Entre los
-elementos que más comúnmente se analizan en los estudios de impacto ambiental se encuentran:
+ La descripción: corresponde a la lectura de los aspectos aparente del fenómeno bajo análisis. Entre los elementos que más comúnmente se analizan en los estudios de impacto ambiental se encuentran:
 agua, aire, suelos, flora y fauna, paisaje, aspectos sociales, culturales y económicos.
 
- La explicación: implica descifrar las cusas que han condicionado que el fenómeno descripto sea de tal
-manera. Para ello deben formularse hipótesis consistentes (de inmediata comprobación), que
-expliquen la razón de ser de las características del área o situación ambiental que se encuentra bajo
-diagnóstico.
+ La explicación: implica descifrar las cusas que han condicionado que el fenómeno descripto sea de tal manera. Para ello deben formularse hipótesis consistentes (de inmediata comprobación), que expliquen la razón de ser de las características del área o situación ambiental que se encuentra bajo diagnóstico.
 
- La evaluación: es la etapa que conlleva al análisis técnico-ambiental y a la necesaria emisión de juicios
-de valor sobre las características del ambiente descripto. La evaluación debe llegar a detectar:
+ La evaluación: es la etapa que conlleva al análisis técnico-ambiental y a la necesaria emisión de juicios de valor sobre las características del ambiente descripto. La evaluación debe llegar a detectar:
 problemas (restricciones, conflictos) y potencialidades.
 
- La proyección: implica prever cuáles son los caminos más probables que seguirán en el futuro
-inmediato, el fenómeno estudiado y circunstancias contextuales más probables. Así mismo, crear una
-concepción teórica que permita formular hipótesis proyectivas. En esta etapa se pretende optimizar no
-solo la situación actual, sino también la del futuro inmediato del área, es decir que debe conocerse cuál
-será su evolución más probable.
+ La proyección: implica prever cuáles son los caminos más probables que seguirán en el futuro inmediato, el fenómeno estudiado y circunstancias contextuales más probables. Así mismo, crear una concepción teórica que permita formular hipótesis proyectivas. En esta etapa se pretende optimizar no solo la situación actual, sino también la del futuro inmediato del área, es decir que debe conocerse cuál será su evolución más probable.
 
 33
 
 SECCION V.
-5.1. Sistemas de información ambiental portuaria, normas marítimas,
-productos del Código y monitoreo
+5.1. Sistemas de información ambiental portuaria, normas marítimas, productos del Código y monitoreo
 A. Sistema regional de información
 Las Autoridades portuarias y REPICA acordarán, dentro del marco de la COCATRAM, la creación de un Sistema
-Regional de Información, el cual ocupará un lugar central en la cooperación entre las autoridades portuarias. El
-sistema de información estará bajo la administración de COCATRAM.
+Regional de Información, el cual ocupará un lugar central en la cooperación entre las autoridades portuarias. El sistema de información estará bajo la administración de COCATRAM.
 B. Normas marítimas
-En el contexto de este Código, las normas marítimas son aquellas que debe hacer cumplir el Estado, tanto en su
-calidad de Estado Rector del Puerto como de Estado de Pabellón, para que los barcos que utilizan sus puertos
-cumplan con las disposiciones consignadas en los Convenios Internacionales vigentes, relacionadas con la
-seguridad en el transporte marítimo y la protección del medio ambiente. Las autoridades portuarias
-establecerán la coordinación necesaria con las autoridades marítimas que tienen la jurisdicción de aplicar
-normas marítimas ambientales internacionales, en el área de jurisdicción de las autoridades portuarias, en
-forma tal, que dichas normas y procedimientos apoyen y complementen el trabajo ambiental en el área del
-puerto.
+En el contexto de este Código, las normas marítimas son aquellas que debe hacer cumplir el Estado, tanto en su calidad de Estado Rector del Puerto como de Estado de Pabellón, para que los barcos que utilizan sus puertos cumplan con las disposiciones consignadas en los Convenios Internacionales vigentes, relacionadas con la seguridad en el transporte marítimo y la protección del medio ambiente. Las autoridades portuarias establecerán la coordinación necesaria con las autoridades marítimas que tienen la jurisdicción de aplicar normas marítimas ambientales internacionales, en el área de jurisdicción de las autoridades portuarias, en forma tal, que dichas normas y procedimientos apoyen y complementen el trabajo ambiental en el área del puerto.
 
 34
 
 III. OTROS CÓDIGOS Y MATERIAL RELACIONADO CON LA GESTIÓN
 AMBIENTAL EN LA OPERACIÓN PORTUARIA:
 
-UNEP-GPA, 2003, Key Principles and checklist for the Development and Management of Activities in
-four priority economic sectors: Ports and Harbours, Aquaculture, Tourism and Mining.
+UNEP-GPA, 2003, Key Principles and checklist for the Development and Management of Activities in four priority economic sectors: Ports and Harbours, Aquaculture, Tourism and Mining.
 
-UNEP GPA: Key Principles for Ports and Harbours Development. Brochure elaborado conjuntamente
-con International Association of Dredging Companies (IADC), la Central Dredging Association (CEDA), la
-International Association of Ports and Harbours (IAPH), y la Oficina de coordinacion de PNUMA-GPA.
+UNEP GPA: Key Principles for Ports and Harbours Development. Brochure elaborado conjuntamente con International Association of Dredging Companies (IADC), la Central Dredging Association (CEDA), la International Association of Ports and Harbours (IAPH), y la Oficina de coordinacion de PNUMA-GPA.
 
 European Sea Ports Organization, ESPO, 2003, Environmental Code of Practice.
 
@@ -921,17 +551,14 @@ Responding to Technological Accidents, UNEP/IMO, 1996.
 
 Council of Europe. 1999, Code of Conduct for Coast Zone.
 
-UNEP-GPA, 2003, Key Principles and Checklist for the development and Management of Activities in
-four priority economic sectors: Ports and Harbors, Aquaculture, Tourism and Mining
+UNEP-GPA, 2003, Key Principles and Checklist for the development and Management of Activities in four priority economic sectors: Ports and Harbors, Aquaculture, Tourism and Mining
 
 International Association of Ports and Harbours (IAPH): IAPH: Guidelines for Port Planning and Design
 
 UK Maritime and Coast Guard Agency: Port Waste Management Planning. A guide to good practice
 Draft published in July 2003.
 
-UK Marine SACs Project: UK Marine Special areas of Conservation, Ports and Harbours. Guidance on
-the potential impacts of ports and harbours operations and their management within European marine
-special areas of conservation.
+UK Marine SACs Project: UK Marine Special areas of Conservation, Ports and Harbours. Guidance on the potential impacts of ports and harbours operations and their management within European marine special areas of conservation.
 
 Australian Maritime Safety Authority. Environmental Sensitivity Indexes Major Issue–The use of
 Environmental Sensitivity index (ESI) in The National Plan Coastal Resource Atlases.
@@ -940,8 +567,7 @@ International Standards Organization, ISO; the ISO 14001: in the ISO 1400 toolbo
 
 AAPA, Green Ports Environmental Management and Technology at US Ports
 
-American Association of Port Authorities AAPA, 1998: Environmental Management Handbook,
-September.
+American Association of Port Authorities AAPA, 1998: Environmental Management Handbook, September.
 
 US Environment Protection Agency (EPA): Environmental Screening Checklist and Workbook for the
 Water Transportation Industry.
@@ -978,8 +604,7 @@ Plan de Acción para el Mediterráneo
 PPP Plan Puebla Panamá
 PROARCA Programa Ambiental Regional para Centroamérica
 PRODECA Proyectos de Infraestructura de Transporte en Centroamérica en la Década del 90
-RAC/REMPEITC-Carib Centro Regional de Actividades/Centro de Emergencia, Información y
-Entrenamiento sobre Contaminación Marina
+RAC/REMPEITC-Carib Centro Regional de Actividades/Centro de Emergencia, Información y Entrenamiento sobre Contaminación Marina
 REMITRAN Reunión de Ministros Responsables del Transporte en Centroamérica
 REPICA Reunión de Empresas Portuarias del Istmo Centroamericano
 SICA Sistema de la Integración Centroamericana
@@ -1009,66 +634,24 @@ Teléfono/Fax: Gerencia 2230-2520, 2230-1821
 Administración: 2230-3026
 CENTRO CÍVICO GUBERNAMENTAL
 
-Artículo 1.- De las definiciones. Para efectos de lo dispuesto
-en este Reglamento se entiende por:
-a) Ayudas sociales: Son aquellas asignaciones
-económicas destinadas a los funcionarios y servidores
-públicos de la DGMM, por casos de riesgo o
-emergencia, situaciones como muerte, incapacidad u
-otros acontecimientos destinados a solventar gastos
-ocasionados por enfermedades, educación (becas) o
-vivienda de carácter transitorio; así como donaciones
-a personas naturales o jurídicas que no suponen
-una contraprestación en bienes o servicios y cuyos
-importes no son reintegrados por los beneficiarios.
-b) Emergencia: Estado de necesidad y urgencia que
-obliga a tomar acciones inmediatas y a la utilización
-extraordinaria de recursos, con el fin de salvar vidas,
-obras y bienes, evitar el sufrimiento y atender las
-necesidades de las personas.
-c) Informe técnico de situación: Informe que consigna
-los resultados de la valoración y la recomendación
-técnica, realizada por funcionarios/as del Departamento
-de Recursos Humanos asignado para el otorgamiento
-de la ayuda temporal solicitada.
-d) Comité de Ayudas Sociales: Órgano encar gado de
-conocer y resolver las solicitudes de ayudas sociales
-de conformidad con el presente Reglamento.
+Artículo 1.- De las definiciones. Para efectos de lo dispuesto en este Reglamento se entiende por:
+a) Ayudas sociales: Son aquellas asignaciones económicas destinadas a los funcionarios y servidores públicos de la DGMM, por casos de riesgo o emergencia, situaciones como muerte, incapacidad u otros acontecimientos destinados a solventar gastos ocasionados por enfermedades, educación (becas) o vivienda de carácter transitorio; así como donaciones a personas naturales o jurídicas que no suponen una contraprestación en bienes o servicios y cuyos importes no son reintegrados por los beneficiarios.
+b) Emergencia: Estado de necesidad y urgencia que obliga a tomar acciones inmediatas y a la utilización extraordinaria de recursos, con el fin de salvar vidas, obras y bienes, evitar el sufrimiento y atender las necesidades de las personas.
+c) Informe técnico de situación: Informe que consigna los resultados de la valoración y la recomendación técnica, realizada por funcionarios/as del Departamento de Recursos Humanos asignado para el otorgamiento de la ayuda temporal solicitada.
+d) Comité de Ayudas Sociales: Órgano encar gado de conocer y resolver las solicitudes de ayudas sociales de conformidad con el presente Reglamento.
 CAPÍTULO II
 
 Causas de la Ayuda Social, Beneficiarios y Requisitos
-Artículo 2.-Del ámbito de aplicación: La Dirección General
-de la Marina Mercante (DGMM) podrá otorgar ayudas sociales
-a sus funcionarios y/o servidores públicos que enfrenten
-situaciones debidamente comprobadas de emergencia, entre
-las cuales este reglamento contempla:
-a) Aquellos casos que presentan problem as de riesgo y
-emergencia por desastre conformado por la manifestación
-de amenazas de origen físico natur al (huracanes,
-inundaciones, sismos, deslizamiento, sequía); por
-amenazas causadas por la acción humana (incendios,
-contaminación del ambiente) y por amenazas de
-materiales peligrosos que ponen en peligro la vida
-humana, los bienes materiales y al medio ambiente
-en un momento y espacio determinado.
-b) Aquellos casos donde se presenten situaciones como
-muerte, incapacidad u otros acontecimientos destina-
-dos a solventar gastos ocasionados por enfermedades,
-educación o vivienda de carácter transitorio, que afec-
-ten coyunturalmente la condición socioeconómica del
-núcleo familiar.
-Asimismo, la DGMM podrá otorgar donaciones a instituciones
-sin fines de lucro que presenten solicitud ante el titular de la
-institución.
-La DGMM podrá otorgar becas en el marco de lo establecido en
-las Disposiciones Presupuestarias vigentes y de conformidad
-al procedimiento que señala este Reglamento.
+Artículo 2.-Del ámbito de aplicación: La Dirección General de la Marina Mercante (DGMM) podrá otorgar ayudas sociales a sus funcionarios y/o servidores públicos que enfrenten situaciones debidamente comprobadas de emergencia, entre las cuales este reglamento contempla:
+a) Aquellos casos que presentan problem as de riesgo y emergencia por desastre conformado por la manifestación de amenazas de origen físico natur al (huracanes, inundaciones, sismos, deslizamiento, sequía); por amenazas causadas por la acción humana (incendios, contaminación del ambiente) y por amenazas de materiales peligrosos que ponen en peligro la vida humana, los bienes materiales y al medio ambiente en un momento y espacio determinado.
+b) Aquellos casos donde se presenten situaciones como muerte, incapacidad u otros acontecimientos destinados a solventar gastos ocasionados por enfermedades, educación o vivienda de carácter transitorio, que afecten coyunturalmente la condición socioeconómica del núcleo familiar.
+Asimismo, la DGMM podrá otorgar donaciones a instituciones sin fines de lucro que presenten solicitud ante el titular de la institución.
+La DGMM podrá otorgar becas en el marco de lo establecido en las Disposiciones Presupuestarias vigentes y de conformidad al procedimiento que señala este Reglamento.
 Artículo 3.- De los requisitos para ser beneficiario(a):
 a) Ser funcionario y/o servidor público de la Dirección
 General de la Marina Mercante.
 b) Ser institución sin fines de lucro.
-c) Presentar solicitud debidamente justificada cumpliendo
-los requisitos y formalidades establecidas por este
+c) Presentar solicitud debidamente justificada cumpliendo los requisitos y formalidades establecidas por este
 Reglamento.
 3
 
@@ -1077,414 +660,154 @@ Sección A Acuerdos y Leyes
 
 CAPÍTULO III
 Comité de Ayudas Sociales
-Artículo 4.- A partir de la vigencia de este Reglamento se
-creará un Comité de Ayudas Sociales formado por una persona
-representante de las siguientes dependencias de la Dirección
+Artículo 4.- A partir de la vigencia de este Reglamento se creará un Comité de Ayudas Sociales formado por una persona representante de las siguientes dependencias de la Dirección
 General de la Marina Mercante: Dirección General, Dirección
-Legal, Departamento de Administración, Departamento
-de Recursos Humanos y la Unidad de Auditoría Interna
-en su calidad de observador, el cual deberá ser nombrado
-de manera formal y deberán reunirse al ser convocado por
-el Departamento de Recursos Humanos o Administración
-al recibir solicitud de ayuda social; una vez que se tenga
-el informe técnico correspondiente y revisado el soporte
-documental del caso para ser analizado por el Comité. El
-Comité deberá tomar las decisiones por unanimidad de sus
-miembros.
+Legal, Departamento de Administración, Departamento de Recursos Humanos y la Unidad de Auditoría Interna en su calidad de observador, el cual deberá ser nombrado de manera formal y deberán reunirse al ser convocado por el Departamento de Recursos Humanos o Administración al recibir solicitud de ayuda social; una vez que se tenga el informe técnico correspondiente y revisado el soporte documental del caso para ser analizado por el Comité. El Comité deberá tomar las decisiones por unanimidad de sus miembros.
 TÍTULO II
 DE LAS AYUDAS ECONÓMICAS A FUNCIONARIOS
 Y SERVIDORES PÚBLICOS DE LA DGMM
 CAPÍTULO I
 Sobre el monto de la Ayuda Económica y la Disponibilidad
 Presupuestaria
-Artículo 5.- Del otorgamiento de la ayuda: La ayuda
-económica o en materiales se otorgará a un funcionario
-y/o servidor público ésta se brindará de acuerdo con las
-prioridades que se determinen en cada caso, conforme a la
-respectiva disponibilidad presupuestaria de la DGMM y de
-acuerdo a la decisión del Comité de Ayudas Sociales.
-Artículo 6.- De la disponibilidad presupuestaria y la
-prioridad de los casos: En situaciones de aumento de la
-demanda del beneficio en contraposición a la disponibilidad
-presupuestaria, el Departamento de Recursos Humanos
-seleccionará las situaciones de mayor riesgo y las hará
-del conocimiento del Comité de Ayudas Sociales para su
-consideración y aprobación.
-Artículo 7.- Del monto de la ayuda: Los funcionarios
-y/o servidores públicos de la DGMM podrán gozar de los
-siguientes beneficios:
+Artículo 5.- Del otorgamiento de la ayuda: La ayuda económica o en materiales se otorgará a un funcionario y/o servidor público ésta se brindará de acuerdo con las prioridades que se determinen en cada caso, conforme a la respectiva disponibilidad presupuestaria de la DGMM y de acuerdo a la decisión del Comité de Ayudas Sociales.
+Artículo 6.- De la disponibilidad presupuestaria y la prioridad de los casos: En situaciones de aumento de la demanda del beneficio en contraposición a la disponibilidad presupuestaria, el Departamento de Recursos Humanos seleccionará las situaciones de mayor riesgo y las hará del conocimiento del Comité de Ayudas Sociales para su consideración y aprobación.
+Artículo 7.- Del monto de la ayuda: Los funcionarios y/o servidores públicos de la DGMM podrán gozar de los siguientes beneficios:
 a) Una ayuda económica o material de Diez Mil Lempiras
-(L.10, 000.00), para los casos de muerte de alguno de
-sus padres, hijos, cónyuge o compañero(a) de hogar,
-parentesco que deberá acreditarse en el Departamento
-de Recursos Humanos adjuntando inclusive la
-respectiva acta de defunción.
+(L.10, 000.00), para los casos de muerte de alguno de sus padres, hijos, cónyuge o compañero(a) de hogar, parentesco que deberá acreditarse en el Departamento de Recursos Humanos adjuntando inclusive la respectiva acta de defunción.
 b) Una ayuda económica de Veinte Mil Lempiras
-(L.20, 000.00) en caso de fallecimiento del funcionario
-y/o servidor público, la cual se entregará a la persona
-que éste haya designado ante el Departamento de
-Recursos Humanos, en el correspondiente formulario
-elaborado para tal efecto.
-c) Una ayuda económica o material por una sola vez
-durante el año fiscal de Cuarenta Mil Lempiras
-(L.40, 000.00) a aquellos empleados que devenguen
-un sueldo igual o menor a Quince Mil Lempiras
-(L.15, 000.00) mensuales. Una ayuda económica o
-material de Treinta Mil Lempiras (L.30, 000.00) a
-los que devenguen un sueldo mensual entre Quince
+(L.20, 000.00) en caso de fallecimiento del funcionario y/o servidor público, la cual se entregará a la persona que éste haya designado ante el Departamento de Recursos Humanos, en el correspondiente formulario elaborado para tal efecto.
+c) Una ayuda económica o material por una sola vez durante el año fiscal de Cuarenta Mil Lempiras
+(L.40, 000.00) a aquellos empleados que devenguen un sueldo igual o menor a Quince Mil Lempiras
+(L.15, 000.00) mensuales. Una ayuda económica o material de Treinta Mil Lempiras (L.30, 000.00) a los que devenguen un sueldo mensual entre Quince
 Mil Uno (L.15, 001.00) a Veinticinco Mil Lempiras
-(L.25, 000.00), una ayuda económica o material
-de Veinte Mil Lempiras (L.20, 000.00) a los que
-devenguen un sueldo mensual entre Veinticinco Mil
+(L.25, 000.00), una ayuda económica o material de Veinte Mil Lempiras (L.20, 000.00) a los que devenguen un sueldo mensual entre Veinticinco Mil
 Uno (L.25, 001.00) a Treinta y cinco mil Lempiras
-(L.35, 000.00), una ayuda económica o material
-de quince mil Lempiras (L.15, 000.00) a los que
-devenguen un sueldo mensual igual o mayor a Treinta
-Mil Uno lempiras (L.35, 001.00), lo anterior en caso
-de problemas sufridos por desastres de la naturaleza,
-enfermedad terminal o grave del Funcionario o
-4
+(L.35, 000.00), una ayuda económica o material de quince mil Lempiras (L.15, 000.00) a los que devenguen un sueldo mensual igual o mayor a Treinta
+Mil Uno lempiras (L.35, 001.00), lo anterior en caso de problemas sufridos por desastres de la naturaleza, enfermedad terminal o grave del Funcionario o 4
 
 A.
 Sección A Acuerdos y Leyes
 
-Servidor Público, de los padres, de alguno de sus hijos,
-su cónyuge, previo dictamen médico extendido por
-el Instituto Hondureño de Seguridad Social o en su
-defecto por el médico responsable de su tratamiento
-sin perjuicio de la validación del caso por parte de la
-Subgerencia de Recursos Humanos.
-Para el otorgamiento de estas ayudas deberá el solicitante
-presentar la documentación original exigida por el
-Departamento de Recursos Humanos para cada caso.
+Servidor Público, de los padres, de alguno de sus hijos, su cónyuge, previo dictamen médico extendido por el Instituto Hondureño de Seguridad Social o en su defecto por el médico responsable de su tratamiento sin perjuicio de la validación del caso por parte de la Subgerencia de Recursos Humanos.
+Para el otorgamiento de estas ayudas deberá el solicitante presentar la documentación original exigida por el Departamento de Recursos Humanos para cada caso.
 CAPÍTULO II
 Procedimiento y Plazos.
 Artículo 8.- Del Procedimiento:
-a) El funcionario y/o servidor público presentará la
-solicitud en base al formato de Ayuda Económica
-proporcionado y debidamente justificada y
-documentada al Departamento de Recursos Humanos.
-b) El Departamento de Recursos Humanos se encargará
-de corroborar la veracidad de emergencia y sus efectos,
-así como la capacidad económica del solicitante para
-atender la situación y convocará a reunión del Comité
-de Ayudas Sociales para presentar el informe técnico
-y se proceda a realizar el análisis que corresponda
-por parte del Comité, mismo que emitirá la respectiva
-acta, que deberá ser firmada por todos sus miembros y,
-deberá ser remitida al Departamento de Administración
-para el trámite del pago correspondiente, si la solicitud
-fuere procedente. Si la solicitud se desestima, se
-comunicará al funcionario y/o servidor público.
+a) El funcionario y/o servidor público presentará la solicitud en base al formato de Ayuda Económica proporcionado y debidamente justificada y documentada al Departamento de Recursos Humanos.
+b) El Departamento de Recursos Humanos se encargará de corroborar la veracidad de emergencia y sus efectos, así como la capacidad económica del solicitante para atender la situación y convocará a reunión del Comité de Ayudas Sociales para presentar el informe técnico y se proceda a realizar el análisis que corresponda por parte del Comité, mismo que emitirá la respectiva acta, que deberá ser firmada por todos sus miembros y, deberá ser remitida al Departamento de Administración para el trámite del pago correspondiente, si la solicitud fuere procedente. Si la solicitud se desestima, se comunicará al funcionario y/o servidor público.
 Artículo 9.- De los plazos:
-a) A partir del momento en que el Departamento
-de Recursos Humanos reciba la solicitud con la
-documentación respaldo completa, tendrá hasta dos (2)
-días hábiles para la elaboración del Informe Técnico
-de la situación y convocará a reunión al Comité de
-Ayudas Sociales.
-b) El beneficio de ayuda solicitada se hará efectivo dentro
-de los ocho (08) días hábiles siguientes de recibida
-la solicitud; si hubiera alguna razón administrativa
-justificada, el plazo para el otorgamiento de la ayuda
-podrá extenderse hasta por cinco (5) días hábiles más.
+a) A partir del momento en que el Departamento de Recursos Humanos reciba la solicitud con la documentación respaldo completa, tendrá hasta dos (2) días hábiles para la elaboración del Informe Técnico de la situación y convocará a reunión al Comité de Ayudas Sociales.
+b) El beneficio de ayuda solicitada se hará efectivo dentro de los ocho (08) días hábiles siguientes de recibida la solicitud; si hubiera alguna razón administrativa justificada, el plazo para el otorgamiento de la ayuda podrá extenderse hasta por cinco (5) días hábiles más.
 TÍTULO III
-DE LAS DONACIONES A INSTITUCIONES SIN
-FINES DE LUCRO
+DE LAS DONACIONES A INSTITUCIONES SIN FINES DE LUCRO
 CAPÍTULO I
 Sobre el monto de la Donación y la Disponibilidad
 Presupuestaria
 Artículo 10. Del Procedimiento:
-a) La institución sin fines de lucro presentará la solicitud
-de donación ante la Dirección General; quién trasladará
-la petición al Departamento de Administración.
-b) El Departamento de Administración informará sobre
-la disponibilidad presupuestaria y recomendación del
-monto de la donación y convocará a reunión del Comité
-de Ayudas Sociales para presentar el informe técnico
-y se proceda a realizar el análisis que corresponda
-por parte del Comité, mismo que emitirá la respectiva
-acta, que deberá ser firmada por todos sus miembros y,
-deberá ser remitida al Departamento de Administración
-para el trámite del pago correspondiente, si la solicitud
-fuere procedente. Si la solicitud se desestima, se
-informará a la institución sin fines de lucro.
+a) La institución sin fines de lucro presentará la solicitud de donación ante la Dirección General; quién trasladará la petición al Departamento de Administración.
+b) El Departamento de Administración informará sobre la disponibilidad presupuestaria y recomendación del monto de la donación y convocará a reunión del Comité de Ayudas Sociales para presentar el informe técnico y se proceda a realizar el análisis que corresponda por parte del Comité, mismo que emitirá la respectiva acta, que deberá ser firmada por todos sus miembros y, deberá ser remitida al Departamento de Administración para el trámite del pago correspondiente, si la solicitud fuere procedente. Si la solicitud se desestima, se informará a la institución sin fines de lucro.
 TÍTULO IV
-DE LAS BECAS A SERVIDORES PÚBLICOS DE LA
-DGMM
+DE LAS BECAS A SERVIDORES PÚBLICOS DE LA DGMM
 CAPÍTULO I
 Sobre el monto de la Beca y la Disponibilidad Presupuestaria
-Artículo 11. Del otorgamiento de la beca: La beca se
-otorgará cumpliendo los requisitos que se establezcan en
-5
+Artículo 11. Del otorgamiento de la beca: La beca se otorgará cumpliendo los requisitos que se establezcan en 5
 
 A.
 Sección A Acuerdos y Leyes
 
-las disposiciones presupuestarias del período fiscal vigente
-y de conformidad a la disponibilidad presupuestaria de la
-institución.
+las disposiciones presupuestarias del período fiscal vigente y de conformidad a la disponibilidad presupuestaria de la institución.
 CAPÍTULO II
 Procedimiento y Plazos.
 Artículo 12.- Del Procedimiento:
-a) El servidor público presentará la solicitud de beca en
-base al formato proporcionado y debidamente justi-
-ficada y documentada al Departamento de Recursos
+a) El servidor público presentará la solicitud de beca en base al formato proporcionado y debidamente justificada y documentada al Departamento de Recursos
 Humanos.
-b) El Departamento de Recursos Humanos se encargará
-de corroborar la veracidad de la documentación, así
-como la capacidad económica del solicitante para
-atender la situación, convocará al Comité de Ayudas
-Sociales presentando el respectivo Informe Técnico
-para su consideración y aprobación, el cual emitirá la
-respectiva acta, que deberá ser firmada por todos sus
-miembros.
-c) De encontrarse procedente la solicitud, deberá ser
-remitida al Departamento de Administración para el
-trámite del pago correspondiente.
-d) Si la solicitud se desestima, se comunicará al
-funcionario y/o servidor público.
+b) El Departamento de Recursos Humanos se encargará de corroborar la veracidad de la documentación, así como la capacidad económica del solicitante para atender la situación, convocará al Comité de Ayudas
+Sociales presentando el respectivo Informe Técnico para su consideración y aprobación, el cual emitirá la respectiva acta, que deberá ser firmada por todos sus miembros.
+c) De encontrarse procedente la solicitud, deberá ser remitida al Departamento de Administración para el trámite del pago correspondiente.
+d) Si la solicitud se desestima, se comunicará al funcionario y/o servidor público.
 Artículo 13.- De los plazos:
-a) A partir del momento en que el Departamento de
-Recursos Humanos reciba la solicitud, tendrá hasta
-cinco (5) días hábiles para la elaboración del Informe
-técnico de la situación y convocar al Comité de Ayudas
+a) A partir del momento en que el Departamento de Recursos Humanos reciba la solicitud, tendrá hasta cinco (5) días hábiles para la elaboración del Informe técnico de la situación y convocar al Comité de Ayudas
 Sociales.
-b) El beneficio de la beca solicitada se hará efectivo según
-la programación de pagos de cuotas que la institución
-educativa señale.
+b) El beneficio de la beca solicitada se hará efectivo según la programación de pagos de cuotas que la institución educativa señale.
 TÍTULO V
 DISPOSICIONES FINALES
 CAPÍTULO I
 De la suspensión y/o cancelación del beneficio
 Artículo 14.- Suspensión y/o cancelación del beneficio:
-a) Toda falsedad o irregularidad producirá la cancelación
-de la ayuda social, sin perjuicio de la responsabilidad
-que conforme a Ley corresponda.
-b) Si en el proceso de estudio, trámite o entrega de la
-ayuda el Funcionario o servidor público cesa en sus
-funciones por cualquier motivo, la dependencia que
-tenga en su poder el expediente, suspenderá el proceso
-y lo remitirá al Comité de Ayudas Sociales, mediante
-informe en el que establezca la improcedencia,
-para que esta instancia revise el caso y resuelva lo
-pertinente.
+a) Toda falsedad o irregularidad producirá la cancelación de la ayuda social, sin perjuicio de la responsabilidad que conforme a Ley corresponda.
+b) Si en el proceso de estudio, trámite o entrega de la ayuda el Funcionario o servidor público cesa en sus funciones por cualquier motivo, la dependencia que tenga en su poder el expediente, suspenderá el proceso y lo remitirá al Comité de Ayudas Sociales, mediante informe en el que establezca la improcedencia, para que esta instancia revise el caso y resuelva lo pertinente.
 CAPÍTULO II
 
 DEFINICIONES Y SIGLAS
-Artículo 1.- Para el propósito del presente reglamento, se
-utilizarán las siglas y definiciones siguientes:
-Accidente o siniestro marítimo: Acontecimiento que ha
-sido causado, o está relacionado con las operaciones de un
-buque, por las cuales el buque o cualquier persona se exponen
-a peligro o cuyo resultado puede causar serios daños a las
-personas, al buque, estructuras o medio ambiente.
-Actividades marítimas: Se considera todas aquellas
-actividades que se efectúan en el Mar Territorial, Zona
-Contigua, Zona Económica Exclusiva, aguas interiores, suelo
-y subsuelo pertenecientes a la Plataforma Continental y en las
-costas y puertos de la República de Honduras, relacionadas
-con la navegación de buques nacionales y extranjeros, las
-actividades portuarias, la pesca, el desarrollo costero, la
-construcción de obras en el mar, la investigación y extracción
-de los recursos del mar y de la plataforma.
-Acuerdo 001-2001: Normativa aprobada en fecha 4 de agosto
-de 2001, que dispone la implementación nacional del Anexo
-I, II, IV y V del Convenio Internacional para la Prevención
-de la Contaminación por Buques.
-Acuerdo 003-2009: Normativa aprobada en fecha 12 de
-septiembre de 2009, contentiva de las disposiciones que deben
-cumplir las embarcaciones de navegación nacional que se
-dediquen al transporte de hidrocarburos.
-Aguas de sentina: Mezclas oleosas o contaminadas que se
-acumulan por la operación normal del buque o artefacto naval,
-las cuales se depositan en tanques diseñados para tal fin.
-Autorización: Son los documentos expedidos por la
-Autoridad Marítima mediante los cuales se da fe que personas
-naturales o jurídicas cumplen con requisitos establecidos por
-dicha entidad, para desarrollar una determinada actividad
-marítima portuaria.
-Autoridad ambiental: Secretaría de Recursos Naturales y
-Ambiente.
-Autoridad de áreas protegidas y vida silvestre: Instituto
-de Conservación y Desarrollo Forestal, Áreas Protegidas y
-Vida Silvestre (ICF).
-Autoridad marítima nacional: Dirección General de la
-Marina Mercante (DGMM).
-Autoridad pesquera: Dirección General de Pesca y
-Acuicultura (DIGEPESCA).
-Arribada forzosa: Urgencia de un buque para ingresar
-a un puerto, con prioridad sobre otras naves, cuando por
-circunstancias que signifiquen o representen peligro para las
-personas transportadas en ella, el propio buque y/o la carga
-que se encuentra en sus bodegas o la preservación del medio
-ambiente así lo demanden o que la nave misma presente
-desperfectos en su funcionamiento.
+Artículo 1.- Para el propósito del presente reglamento, se utilizarán las siglas y definiciones siguientes:
+Accidente o siniestro marítimo: Acontecimiento que ha sido causado, o está relacionado con las operaciones de un buque, por las cuales el buque o cualquier persona se exponen a peligro o cuyo resultado puede causar serios daños a las personas, al buque, estructuras o medio ambiente.
+Actividades marítimas: Se considera todas aquellas actividades que se efectúan en el Mar Territorial, Zona
+Contigua, Zona Económica Exclusiva, aguas interiores, suelo y subsuelo pertenecientes a la Plataforma Continental y en las costas y puertos de la República de Honduras, relacionadas con la navegación de buques nacionales y extranjeros, las actividades portuarias, la pesca, el desarrollo costero, la construcción de obras en el mar, la investigación y extracción de los recursos del mar y de la plataforma.
+Acuerdo 001-2001: Normativa aprobada en fecha 4 de agosto de 2001, que dispone la implementación nacional del Anexo
+I, II, IV y V del Convenio Internacional para la Prevención de la Contaminación por Buques.
+Acuerdo 003-2009: Normativa aprobada en fecha 12 de septiembre de 2009, contentiva de las disposiciones que deben cumplir las embarcaciones de navegación nacional que se dediquen al transporte de hidrocarburos.
+Aguas de sentina: Mezclas oleosas o contaminadas que se acumulan por la operación normal del buque o artefacto naval, las cuales se depositan en tanques diseñados para tal fin.
+Autorización: Son los documentos expedidos por la Autoridad Marítima mediante los cuales se da fe que personas naturales o jurídicas cumplen con requisitos establecidos por dicha entidad, para desarrollar una determinada actividad marítima portuaria.
+Autoridad ambiental: Secretaría de Recursos Naturales y Ambiente.
+Autoridad de áreas protegidas y vida silvestre: Instituto de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF).
+Autoridad marítima nacional: Dirección General de la Marina Mercante (DGMM).
+Autoridad pesquera: Dirección General de Pesca y Acuicultura (DIGEPESCA).
+Arribada forzosa: Urgencia de un buque para ingresar a un puerto, con prioridad sobre otras naves, cuando por circunstancias que signifiquen o representen peligro para las personas transportadas en ella, el propio buque y/o la carga que se encuentra en sus bodegas o la preservación del medio ambiente así lo demanden o que la nave misma presente desperfectos en su funcionamiento.
 Astillero: Lugar de construcción y reparación de buques.
-Biodiversidad marino-costera: Cualquier especie de ser
-vivo que habita un ecosistema en el ámbito marino-costero.
-Buque: Todo tipo de embarcaciones de navegación marítima
-que operen en el medio marino, incluidos los aerodeslizadores,
-los sumergibles y los artefactos flotantes.
-Delitos ambientales: Los establecidos en el Artículo 92 de
-la Ley General del Ambiente, aprobada mediante Decreto
-104-93, así como en el Código Penal Hondureño y en otros
-marcos legales nacionales;
+Biodiversidad marino-costera: Cualquier especie de ser vivo que habita un ecosistema en el ámbito marino-costero.
+Buque: Todo tipo de embarcaciones de navegación marítima que operen en el medio marino, incluidos los aerodeslizadores, los sumergibles y los artefactos flotantes.
+Delitos ambientales: Los establecidos en el Artículo 92 de la Ley General del Ambiente, aprobada mediante Decreto
+104-93, así como en el Código Penal Hondureño y en otros marcos legales nacionales;
 9
 
 A.
 Sección A Acuerdos y Leyes
 
-Denuncias ambientales: Todo hecho, acto u omisión que
-produzca o pueda llegar a producir desequilibrio ecológico y/o
-daños al ambiente y/o a los recursos naturales marino costeros,
-y/o contravengan las disposiciones de la normativa que rige
-las materias relacionadas con la protección al ambiente marino
-y la preservación y restauración ecológica, que se pone en
-conocimiento de la Autoridad Marítima;
-Departamento de Protección del Medio Marino: Unidad de
-la Dirección General de la Marina Mercante responsable de
-ejecutar las potestades legalmente atribuidas a la institución,
-relativas a la protección del medio marino en aguas
-jurisdiccionales hondureñas;
-Desechos: Todo lo que es generado como producto de una
-actividad, ya sea por la acción directa del hombre o por la
-actividad de otros organismos vivos, formándose una masa
-heterogénea que, en muchos casos, es difícil de reincorporar
-a los ciclos naturales.
-Desguace: Es el proceso de desarmar la estructura obsoleta de
-un navío. Dicha operación se lleva a cabo en un embarcadero,
-un astillero o un varadero de desarmado e incluye una gran
-variedad de actividades, desde desmontar todos los engranajes
-y equipo hasta cortar y reciclar la infraestructura del buque.
-Dragados: Son los trabajos de excavación del fondo marino,
-que se efectúan para facilitar la na vegación segura en los
-puertos o canales de acceso.
-Ecosistema marino-costero: Es un sistema natural que está
-formado por un conjunto de organismos vivos (biocenosis) y
-el medio físico donde se relacionan (biotopo) interactuando
-en una unidad compuesta de organismos interdependientes
-que comparten el mismo hábitat, el cual está relacionado con
-la línea costera y el océano, tales como los arrecifes coralinos,
-praderas de pastos marinos, bosques de manglar, fondos
-sedimentarios, playas y costas rocosas.
-Empresa dedicada a actividades marítimas: Sociedad creada
-con el fin de realizar actividades mercantiles relacionadas con
-el sector marítimo, la cual debe estar debidamente inscrita en
-la Dirección General de la Marina Mercante.
-Empresa OSRO: Sociedad creada con el fin de ofrecer
-servicios de respuesta ante episodios de contaminación
-por derrames de hidrocarburos y/o sustancias nocivas y
-potencialmente peligrosas, de acuerdo a lo descrito en el
-Reglamento aprobado mediante Acuerdo 023-2015 de la
-Dirección General de la Marina Mercante.
+Denuncias ambientales: Todo hecho, acto u omisión que produzca o pueda llegar a producir desequilibrio ecológico y/o daños al ambiente y/o a los recursos naturales marino costeros, y/o contravengan las disposiciones de la normativa que rige las materias relacionadas con la protección al ambiente marino y la preservación y restauración ecológica, que se pone en conocimiento de la Autoridad Marítima;
+Departamento de Protección del Medio Marino: Unidad de la Dirección General de la Marina Mercante responsable de ejecutar las potestades legalmente atribuidas a la institución, relativas a la protección del medio marino en aguas jurisdiccionales hondureñas;
+Desechos: Todo lo que es generado como producto de una actividad, ya sea por la acción directa del hombre o por la actividad de otros organismos vivos, formándose una masa heterogénea que, en muchos casos, es difícil de reincorporar a los ciclos naturales.
+Desguace: Es el proceso de desarmar la estructura obsoleta de un navío. Dicha operación se lleva a cabo en un embarcadero, un astillero o un varadero de desarmado e incluye una gran variedad de actividades, desde desmontar todos los engranajes y equipo hasta cortar y reciclar la infraestructura del buque.
+Dragados: Son los trabajos de excavación del fondo marino, que se efectúan para facilitar la na vegación segura en los puertos o canales de acceso.
+Ecosistema marino-costero: Es un sistema natural que está formado por un conjunto de organismos vivos (biocenosis) y el medio físico donde se relacionan (biotopo) interactuando en una unidad compuesta de organismos interdependientes que comparten el mismo hábitat, el cual está relacionado con la línea costera y el océano, tales como los arrecifes coralinos, praderas de pastos marinos, bosques de manglar, fondos sedimentarios, playas y costas rocosas.
+Empresa dedicada a actividades marítimas: Sociedad creada con el fin de realizar actividades mercantiles relacionadas con el sector marítimo, la cual debe estar debidamente inscrita en la Dirección General de la Marina Mercante.
+Empresa OSRO: Sociedad creada con el fin de ofrecer servicios de respuesta ante episodios de contaminación por derrames de hidrocarburos y/o sustancias nocivas y potencialmente peligrosas, de acuerdo a lo descrito en el Reglamento aprobado mediante Acuerdo 023-2015 de la Dirección General de la Marina Mercante.
 ENP: Empresa Nacional Portuaria.
-Estructuras submarinas: Denominada así cualquier
-estructura, sea cual fuere su material de construcción y su
-uso, pero que se encuentra sumergida parcial o totalmente
-en el agua.
-Evaluación de impacto ambiental: Procedimiento que
-incluye el conjunto de estudios, informes técnicos y consultas
-que permiten estimar las consecuencias que un determinado
-proyecto, instalación o actividad, causa sobre el medio
-ambiente. Se trata de un análisis para formar un juicio objetivo
-y a partir del cual, la Autoridad Ambiental aprueba o rechaza
-un proyecto.
+Estructuras submarinas: Denominada así cualquier estructura, sea cual fuere su material de construcción y su uso, pero que se encuentra sumergida parcial o totalmente en el agua.
+Evaluación de impacto ambiental: Procedimiento que incluye el conjunto de estudios, informes técnicos y consultas que permiten estimar las consecuencias que un determinado proyecto, instalación o actividad, causa sobre el medio ambiente. Se trata de un análisis para formar un juicio objetivo y a partir del cual, la Autoridad Ambiental aprueba o rechaza un proyecto.
 FEMA: Fiscalía Especial del Medio Ambiente del Ministerio
 Público.
-Gestión Ambiental Portuaria: Todas las actividades o
-mandatos legales que se realizan en el puerto en relación al
-medio ambiente con consecuencia o impacto en el mismo.
-Infracciones administrativas: Contravención o intento de
-contravención a los Convenios Marítimos de los que Honduras
-es Estado Parte, leyes, reglamentos, así como cualquier otra
-norma nacional vigente.
-Inspección técnica ambiental: Actividad a través de la
-cual, un oficial del Departamento de Protección del Medio
-Marino, examina embarcaciones, procesos, actividades,
-documentación, instalaciones, servicios, personal, ecosistemas,
-recursos vivos y no vivos en el ámbito marino-costero, con el
-objetivo de verificar el cumplimiento de los requerimientos
-técnicos y legales establecidos en los convenios internacionales
-marítimo-ambientales de los que Honduras es Estado Parte,
-en la Ley Orgánica de la Marina Mercante Nacional y sus
-Reglamentos.
+Gestión Ambiental Portuaria: Todas las actividades o mandatos legales que se realizan en el puerto en relación al medio ambiente con consecuencia o impacto en el mismo.
+Infracciones administrativas: Contravención o intento de contravención a los Convenios Marítimos de los que Honduras es Estado Parte, leyes, reglamentos, así como cualquier otra norma nacional vigente.
+Inspección técnica ambiental: Actividad a través de la cual, un oficial del Departamento de Protección del Medio
+Marino, examina embarcaciones, procesos, actividades, documentación, instalaciones, servicios, personal, ecosistemas, recursos vivos y no vivos en el ámbito marino-costero, con el objetivo de verificar el cumplimiento de los requerimientos técnicos y legales establecidos en los convenios internacionales marítimo-ambientales de los que Honduras es Estado Parte, en la Ley Orgánica de la Marina Mercante Nacional y sus Reglamentos.
 10
 
 A.
 Sección A Acuerdos y Leyes
 
-Intereses marítimos conexos: Actividades marítimas costeras,
-portuarias y estuarinas, actividades pesqueras, turísticas, salud
-y bienestar de la población ribereña, conservación de los
-recursos marinos vivos y sus hábitats, infraestructura costera,
-en mar adentro y submarina, patrimonio cultural y cualquier
-otro interés económico asociado al mar.
-Licenciamiento ambiental: Proceso establecido dentro
-del Sistema Nacional de Evaluación de Impacto Ambiental
-(SINEIA), que establece las directrices para valorar las
-iniciativas económicas y actividades humanas susceptibles
-de afectar el ambiente, las cuales están contenidas en la Tabla
-de Categorización Ambiental, aprobada mediante Acuerdo
+Intereses marítimos conexos: Actividades marítimas costeras, portuarias y estuarinas, actividades pesqueras, turísticas, salud y bienestar de la población ribereña, conservación de los recursos marinos vivos y sus hábitats, infraestructura costera, en mar adentro y submarina, patrimonio cultural y cualquier otro interés económico asociado al mar.
+Licenciamiento ambiental: Proceso establecido dentro del Sistema Nacional de Evaluación de Impacto Ambiental
+(SINEIA), que establece las directrices para valorar las iniciativas económicas y actividades humanas susceptibles de afectar el ambiente, las cuales están contenidas en la Tabla de Categorización Ambiental, aprobada mediante Acuerdo
 Ministerial 016-2015 de la Secretaría de Energía, Recursos
 Naturales, Ambiente y Minas.
-MARPOL: Convenio Internacional para la Prevención de la
-Contaminación por Buques.
-Oficial técnico ambiental: Representante del Departamento
-de Protección del Medio Marino, con formación técnica
-ambiental, facultado para realizar inspecciones, evaluaciones
-y opiniones técnicas relativas al ámbito ambiental marítimo
-y portuario.
+MARPOL: Convenio Internacional para la Prevención de la Contaminación por Buques.
+Oficial técnico ambiental: Representante del Departamento de Protección del Medio Marino, con formación técnica ambiental, facultado para realizar inspecciones, evaluaciones y opiniones técnicas relativas al ámbito ambiental marítimo y portuario.
 OIRSA: Organismo Internacional Regional de Sanidad
 Agropecuaria.
 Plan de gestión de desechos provenientes de buques:
-Instrumento contentivo de los procedimientos de descarga,
-tratamiento, manejo, transporte y disposición final de
-los desechos provenientes de los buques de navegación
-internacional, de acuerdo a lo establecido en el Convenio
-MARPOL, establecido con el objetivo de que dichas
-actividades se realicen de manera segura, tanto para quienes
-lo desarrollan, como para el ambiente marino y terrestre, en
-cumplimiento con el marco legal nacional e internacional
-vigente.
-Plan local de contingencias: Instrumento con el que deben
-contar las empresas con riesgo de derrames de hidrocarburos
-y otras sustancias nocivas y potencialmente peligrosas,
-elaborado de acuerdo a lo establecido en la Resolución 123-
-2017 y el cual debe ser aprobado por la Dirección General de
-la Marina Mercante.
-Plan de manejo de área protegida: Instrumento de
-planificación y ordenamiento espacial que define la gestión
-y conservación de los recursos de un área protegida, el cual
-contiene las directrices, lineamientos y políticas para su
-administración, modalidades de manejo, asignaciones de usos,
-zonificación, objetivos de gestión, estrategia y actividades
-permitidas en base a un diagnóstico.
-Plan Nacional de Contingencias (PNCH): Instrumento legal
-creado con el fin de organizar la respuesta a nivel nacional, en
-caso de acaecer un episodio de contaminación por derrames
-de hidrocarburos y sustancias nocivas y potencialmente
-peligrosas en los espacios acuáticos hondureños.
-Reglamento de habilitación de empresas OSRO: Normativa
-aprobada mediante Acuerdo 023-2015, contentiva de los
-requerimientos que deben cumplir las empresas interesadas
-en ser habilitadas como empresas especializadas en respuesta
-de derrames de hidrocarburos y sustancias nocivas y
-potencialmente peligrosas en Honduras.
+Instrumento contentivo de los procedimientos de descarga, tratamiento, manejo, transporte y disposición final de los desechos provenientes de los buques de navegación internacional, de acuerdo a lo establecido en el Convenio
+MARPOL, establecido con el objetivo de que dichas actividades se realicen de manera segura, tanto para quienes lo desarrollan, como para el ambiente marino y terrestre, en cumplimiento con el marco legal nacional e internacional vigente.
+Plan local de contingencias: Instrumento con el que deben contar las empresas con riesgo de derrames de hidrocarburos y otras sustancias nocivas y potencialmente peligrosas, elaborado de acuerdo a lo establecido en la Resolución 123-
+2017 y el cual debe ser aprobado por la Dirección General de la Marina Mercante.
+Plan de manejo de área protegida: Instrumento de planificación y ordenamiento espacial que define la gestión y conservación de los recursos de un área protegida, el cual contiene las directrices, lineamientos y políticas para su administración, modalidades de manejo, asignaciones de usos, zonificación, objetivos de gestión, estrategia y actividades permitidas en base a un diagnóstico.
+Plan Nacional de Contingencias (PNCH): Instrumento legal creado con el fin de organizar la respuesta a nivel nacional, en caso de acaecer un episodio de contaminación por derrames de hidrocarburos y sustancias nocivas y potencialmente peligrosas en los espacios acuáticos hondureños.
+Reglamento de habilitación de empresas OSRO: Normativa aprobada mediante Acuerdo 023-2015, contentiva de los requerimientos que deben cumplir las empresas interesadas en ser habilitadas como empresas especializadas en respuesta de derrames de hidrocarburos y sustancias nocivas y potencialmente peligrosas en Honduras.
 Reglamento de instalaciones de recepción portuarias:
 Normativa aprobada mediante Acuerdo 053-2012 de fecha
-12 de septiembre de 2012, que establece los procedimientos
-que deben aplicar las instalaciones de recepción de desechos
-producidos por buques, en cumplimiento del Convenio
+12 de septiembre de 2012, que establece los procedimientos que deben aplicar las instalaciones de recepción de desechos producidos por buques, en cumplimiento del Convenio
 Internacional de Prevención de la Contaminación por Buques
-(MARPOL 73/78) y las directrices que, para tal fin, ha
-generado la Organización Marítima Internacional.
-Reglamento de prevención de la contaminación: Normativa
-aprobada mediante Acuerdo 022-2015, donde se establecen
-una serie de disposiciones a fin de prevenir y responder de
-manera suficiente y eficiente ante episodios de contaminación
-por derrames de hidrocarburos, sus derivados y otras sustancias
-nocivas y potencialmente peligrosas en aguas nacionales.
+(MARPOL 73/78) y las directrices que, para tal fin, ha generado la Organización Marítima Internacional.
+Reglamento de prevención de la contaminación: Normativa aprobada mediante Acuerdo 022-2015, donde se establecen una serie de disposiciones a fin de prevenir y responder de manera suficiente y eficiente ante episodios de contaminación por derrames de hidrocarburos, sus derivados y otras sustancias nocivas y potencialmente peligrosas en aguas nacionales.
 Resolución 123-2017: Normativa que establece la Guía
 Funcional para la elaboración de planes de contingencia locales
 11
@@ -1492,151 +815,59 @@ Funcional para la elaboración de planes de contingencia locales
 A.
 Sección A Acuerdos y Leyes
 
-para las empresas con riesgo de derrame de hidrocarburos, sus
-derivados y sustancias nocivas y potencialmente peligrosas.
-Rompeolas o malecones: Muro construido a la orilla de la
-playa, puerto o dentro del mar para protección contra la fuerza
-del oleaje.
+para las empresas con riesgo de derrame de hidrocarburos, sus derivados y sustancias nocivas y potencialmente peligrosas.
+Rompeolas o malecones: Muro construido a la orilla de la playa, puerto o dentro del mar para protección contra la fuerza del oleaje.
 SENASA: Servicio Nacional de Sanidad Agropecuaria.
-Sistema antiincrustante: Revestimiento, pintura, tratamiento
-superficial, superficie o dispositivo que se utilice en un
-buque para controlar o impedir la adhesión de organismos
-no deseados.
+Sistema antiincrustante: Revestimiento, pintura, tratamiento superficial, superficie o dispositivo que se utilice en un buque para controlar o impedir la adhesión de organismos no deseados.
 SINEIA: Sistema Nacional de Evaluación de Impacto
 Ambiental.
 SNPP: Sustancias nocivas y potencialmente peligrosas.
-Solicitante: Toda persona natural o jurídica que presenta una
-solicitud ante la Dirección General de la Marina Mercante.
-Trasiego de hidrocarburos: Se le denomina a la actividad de
-transferencia de hidrocarburos de buque a buque y de buque
-a puerto y viceversa.
-UMA: Unidad Municipal Ambiental de las alcaldías, llámese
-así o de otra manera.
-Vertimientos: Es cualquier descarga final de un elemento,
-sustancia o compuesto a un cuerpo de agua, a un canal, al
-suelo o al subsuelo marino.
+Solicitante: Toda persona natural o jurídica que presenta una solicitud ante la Dirección General de la Marina Mercante.
+Trasiego de hidrocarburos: Se le denomina a la actividad de transferencia de hidrocarburos de buque a buque y de buque a puerto y viceversa.
+UMA: Unidad Municipal Ambiental de las alcaldías, llámese así o de otra manera.
+Vertimientos: Es cualquier descarga final de un elemento, sustancia o compuesto a un cuerpo de agua, a un canal, al suelo o al subsuelo marino.
 CAPÍTULO II
 
-PROPÓSITO, OBJETIVO Y ÁMBITO DE
-APLICACIÓN
-Artículo 2.- Este reglamento tiene como propósito establecer
-el alcance del marco legal vigente, para que esta Autoridad
+PROPÓSITO, OBJETIVO Y ÁMBITO DE APLICACIÓN
+Artículo 2.- Este reglamento tiene como propósito establecer el alcance del marco legal vigente, para que esta Autoridad
 Marítima, a través del Departamento de Protección del Medio
-Marino, ejecute las acciones a fin de hacer efectivas las
-potestades ambientales que le han sido atribuidas en el ámbito
-marino-costero, a través de los convenios internacionales
-marítimos de los que Honduras es Estado Parte, así como
-de la Ley Orgánica de la Marina Mercante Nacional y sus
-Reglamentos.
-Artículo 3.- El presente reglamento tiene como objetivo
-prevenir y reducir al mínimo la contaminación marina, desde
-buques, embarcaciones menores o fuentes terrestres, así
-como cualquier otro efecto negativo sobre los ecosistemas
-marino-costeros y los recursos asociados a ellos, en el marco
-de las normas nacionales e internacionales correspondientes,
-para finalmente alcanzar un uso sostenible de los recursos
-vivos y no vivos establecidos en dichos ecosistemas dentro
-de aguas jurisdiccionales hondureñas, a fin de promover
-el desarrollo social y económico del país, en el marco de
-actividades marítimas y portuarias desarrolladas responsable
-y sosteniblemente, en cumplimiento de los instrumentos
-internacionales en el ámbito marítimo ambiental, adoptados
-por la OMI.
-Artículo 4.- Salvo indicación expresa en otro sentido, el
-presente Reglamento se aplicará a todas las actividades
-marítimas que se realizan en aguas jurisdiccionales
-hondureñas.
+Marino, ejecute las acciones a fin de hacer efectivas las potestades ambientales que le han sido atribuidas en el ámbito marino-costero, a través de los convenios internacionales marítimos de los que Honduras es Estado Parte, así como de la Ley Orgánica de la Marina Mercante Nacional y sus Reglamentos.
+Artículo 3.- El presente reglamento tiene como objetivo prevenir y reducir al mínimo la contaminación marina, desde buques, embarcaciones menores o fuentes terrestres, así como cualquier otro efecto negativo sobre los ecosistemas marino-costeros y los recursos asociados a ellos, en el marco de las normas nacionales e internacionales correspondientes, para finalmente alcanzar un uso sostenible de los recursos vivos y no vivos establecidos en dichos ecosistemas dentro de aguas jurisdiccionales hondureñas, a fin de promover el desarrollo social y económico del país, en el marco de actividades marítimas y portuarias desarrolladas responsable y sosteniblemente, en cumplimiento de los instrumentos internacionales en el ámbito marítimo ambiental, adoptados por la OMI.
+Artículo 4.- Salvo indicación expresa en otro sentido, el presente Reglamento se aplicará a todas las actividades marítimas que se realizan en aguas jurisdiccionales hondureñas.
 CAPÍTULO III
 RESPONSABLE DE LA APLICACIÓN
-Artículo 5.- La dependencia dentro de la Dirección General
-de la Marina Mercante responsable del análisis, evaluación,
-inspección y emisión de las opiniones técnicas relativas a los
-aspectos ambientales de todas las actividades marítimas en
-aguas jurisdiccionales hondureñas, es el Departamento de
-Protección del Medio Marino.
-Artículo 6.- El Departamento de Protección del Medio Marino
-es también responsable de asesorar a nivel institucional,
-nacional e internacional, respecto a temas marítimo-
-ambientales, así como de proponer políticas, estrategias y
-planes de acción destinados a la protección del medio marino,
-sin menoscabo de las atribuciones de otras instituciones dentro
-de este ámbito.
+Artículo 5.- La dependencia dentro de la Dirección General de la Marina Mercante responsable del análisis, evaluación, inspección y emisión de las opiniones técnicas relativas a los aspectos ambientales de todas las actividades marítimas en aguas jurisdiccionales hondureñas, es el Departamento de Protección del Medio Marino.
+Artículo 6.- El Departamento de Protección del Medio Marino es también responsable de asesorar a nivel institucional, nacional e internacional, respecto a temas marítimoambientales, así como de proponer políticas, estrategias y planes de acción destinados a la protección del medio marino, sin menoscabo de las atribuciones de otras instituciones dentro de este ámbito.
 12
 
 A.
 Sección A Acuerdos y Leyes
 
-Artículo 7.- El Departamento de Protección del Medio Marino
-es el punto focal responsable de representar a nivel nacional
-e internacional a Honduras en conferencias, seminarios,
-talleres, comisiones, reuniones de trabajo, grupos de tarea y
-demás, relativos al ámbito marítimo ambiental, así como de
-la implementación de los convenios internacionales marítimo-
-ambientales de los que el país es Estado Parte y los convenios
-de cooperación interinstitucionales que se suscriban por parte
-de la Administración con el objetivo de proteger y aprovechar
-de manera sostenible los recursos marino-costeros. Lo
-anterior sin perjuicio de las potestades de otras instituciones
-gubernamentales afines al ámbito de su competencia.
+Artículo 7.- El Departamento de Protección del Medio Marino es el punto focal responsable de representar a nivel nacional e internacional a Honduras en conferencias, seminarios, talleres, comisiones, reuniones de trabajo, grupos de tarea y demás, relativos al ámbito marítimo ambiental, así como de la implementación de los convenios internacionales marítimoambientales de los que el país es Estado Parte y los convenios de cooperación interinstitucionales que se suscriban por parte de la Administración con el objetivo de proteger y aprovechar de manera sostenible los recursos marino-costeros. Lo anterior sin perjuicio de las potestades de otras instituciones gubernamentales afines al ámbito de su competencia.
 CAPÍTULO IV
 SOBRE LAS ACTIVIDADES MARÍTIMAS SUJETAS
 A ESTE REGLAMENTO
-Artículo 8.- De acuerdo a lo establecido en la Ley Orgánica
-de la Marina Mercante, sin perjuicio de las competencias de
-otras instituciones en la materia, son actividades marítimas
-sujetas a autorización por parte de esta Autoridad Marítima,
-después de la evaluación y aprobación previa por parte del
-Departamento de Protección del Medio Marino, las siguientes:
-a. Construcción, ampliación y reparación de muelles de
-cualquier dimensión;
-b. Colocación de cualquier estructura artificial sobre la
-franja costera y el fondo marino, tales como rompeolas,
-muros, diques, malecones, emisarios, estructuras
-submarinas, palapas, estructuras ornamentales y
-similares;
+Artículo 8.- De acuerdo a lo establecido en la Ley Orgánica de la Marina Mercante, sin perjuicio de las competencias de otras instituciones en la materia, son actividades marítimas sujetas a autorización por parte de esta Autoridad Marítima, después de la evaluación y aprobación previa por parte del Departamento de Protección del Medio Marino, las siguientes:
+a. Construcción, ampliación y reparación de muelles de cualquier dimensión;
+b. Colocación de cualquier estructura artificial sobre la franja costera y el fondo marino, tales como rompeolas, muros, diques, malecones, emisarios, estructuras submarinas, palapas, estructuras ornamentales y similares;
 c. Dragados;
 d. Vertimientos en el mar;
 e. Rellenos marinos;
 f. Investigación científica marina;
 g. Exploración y explotación del fondo marino;
-h. Operaciones de transferencia de hidrocarburos de
-buque a buque;
-i. Verificación de los requerimientos técnicos que deben
-llevar a bordo las embarcaciones menores y mayores,
-tanto nacionales, como extranjeras, que navegan
-y operan en aguas jurisdiccionales hondureñas,
-de acuerdo a lo establecido en los convenios
-internacionales marítimo-ambientales de los que
-Honduras es parte, así como del marco normativo
-nacional;
-j. Descargas de desechos de buques (de acuerdo a
-lo establecido en el Convenio Internacional para
-la Prevención de la Contaminación por Buques-
+h. Operaciones de transferencia de hidrocarburos de buque a buque;
+i. Verificación de los requerimientos técnicos que deben llevar a bordo las embarcaciones menores y mayores, tanto nacionales, como extranjeras, que navegan y operan en aguas jurisdiccionales hondureñas, de acuerdo a lo establecido en los convenios internacionales marítimo-ambientales de los que Honduras es parte, así como del marco normativo nacional;
+j. Descargas de desechos de buques (de acuerdo a lo establecido en el Convenio Internacional para la Prevención de la Contaminación por Buques-
 MARPOL y el Reglamento sobre Instalaciones
 Portuarias-Acuerdo 053-2012);
-k. Hundimiento, desguace y remoción de restos de
-embarcaciones;
-l. Operación de astilleros, talleres de reparación de em-
-barcaciones, diques, marinas y empresas con riesgo de
-derrames de hidrocarburos y otras sustancias nocivas
-y potencialmente peligrosas;
-m. Habilitación de empresas dedicadas a ofrecer
-servicios de respuesta ante derrames de hidrocarburos
-y sustancias nocivas y potencialmente peligrosas
-(empresas OSRO), de acuerdo a lo establecido en el
-Reglamento para tal fin aprobado mediante Acuerdo
+k. Hundimiento, desguace y remoción de restos de embarcaciones;
+l. Operación de astilleros, talleres de reparación de embarcaciones, diques, marinas y empresas con riesgo de derrames de hidrocarburos y otras sustancias nocivas y potencialmente peligrosas;
+m. Habilitación de empresas dedicadas a ofrecer servicios de respuesta ante derrames de hidrocarburos y sustancias nocivas y potencialmente peligrosas
+(empresas OSRO), de acuerdo a lo establecido en el Reglamento para tal fin aprobado mediante Acuerdo
 023-2015;
-n. Aprobación de los Planes Locales de Contingencia para
-empresas con riesgo de derrames de hidrocarburos y
-otras sustancias nocivas y potencialmente peligrosas,
-de acuerdo a lo estipulado en la Resolución 123-2017;
-o. Reparaciones menores de embarcaciones fuera de
-astilleros.
-Artículo 9.- No aplica la obligatoriedad de solicitar una
-autorización por parte de esta Dirección General, a la
-construcción de muelles nuevos, siempre y cuando sus
-dimensiones no excedan de quince metros cuadrados (15 m2)
-y no estén dentro de un área protegida.
+n. Aprobación de los Planes Locales de Contingencia para empresas con riesgo de derrames de hidrocarburos y otras sustancias nocivas y potencialmente peligrosas, de acuerdo a lo estipulado en la Resolución 123-2017;
+o. Reparaciones menores de embarcaciones fuera de astilleros.
+Artículo 9.- No aplica la obligatoriedad de solicitar una autorización por parte de esta Dirección General, a la construcción de muelles nuevos, siempre y cuando sus dimensiones no excedan de quince metros cuadrados (15 m2) y no estén dentro de un área protegida.
 Artículo 10.- Los muelles a ser autorizados por esta Dirección
 General, serán categorizados de la siguiente manera:
 13
@@ -1644,37 +875,18 @@ General, serán categorizados de la siguiente manera:
 A.
 Sección A Acuerdos y Leyes
 
-Artículo 11.- La autorización de reparaciones menores
-de muelle (área no mayor a 15 m2), que deben respetar
-obligatoriamente los materiales y el diseño original de la
-estructura existente, sin perjuicio del medio marino, del
-tráfico marítimo o de la propiedad privada, podrán tramitarse
-a través de la Capitanía de Puerto local, con solicitud por
-escrito donde especifique las características del proyecto,
-su ubicación geográfica y el responsable de las obras.
-Posteriormente, un técnico del Departamento de Protección
-del Medio Marino o, en su defecto, un representante de la
-Capitanía de Puerto correspondiente, realizará una inspección
-in situ para verificar la información proporcionada y la
-viabilidad de la propuesta.
-Artículo 12.- Sólo se autorizará una (1) reparación menor por
-muelle durante un período de un (1) año. Dos (2) solicitudes
-por año o un área mayor de reparación a la establecida en
-el numeral anterior, serán consideradas como reparaciones
-mayores y su trámite deberá ser presentado mediante
-apoderado legal en las oficinas centrales de esta Dirección
+Artículo 11.- La autorización de reparaciones menores de muelle (área no mayor a 15 m2), que deben respetar obligatoriamente los materiales y el diseño original de la estructura existente, sin perjuicio del medio marino, del tráfico marítimo o de la propiedad privada, podrán tramitarse a través de la Capitanía de Puerto local, con solicitud por escrito donde especifique las características del proyecto, su ubicación geográfica y el responsable de las obras.
+Posteriormente, un técnico del Departamento de Protección del Medio Marino o, en su defecto, un representante de la Capitanía de Puerto correspondiente, realizará una inspección in situ para verificar la información proporcionada y la viabilidad de la propuesta.
+Artículo 12.- Sólo se autorizará una (1) reparación menor por muelle durante un período de un (1) año. Dos (2) solicitudes por año o un área mayor de reparación a la establecida en el numeral anterior, serán consideradas como reparaciones mayores y su trámite deberá ser presentado mediante apoderado legal en las oficinas centrales de esta Dirección
 General en la ciudad de Tegucigalpa.
 Artículo 13.- Los dragados a ser autorizados por esta
 Administración, serán categorizados de la siguiente manera:
-Artículo 14.- Una vez autorizado un dragado, el cual debe
-contar con Licencia Ambiental, el responsable de dichas
-operaciones debe presentar a esta Dirección General, con una
-periodicidad trimestral, los volúmenes extraídos.
+Artículo 14.- Una vez autorizado un dragado, el cual debe contar con Licencia Ambiental, el responsable de dichas operaciones debe presentar a esta Dirección General, con una periodicidad trimestral, los volúmenes extraídos.
 TÍTULO II
 
 ## Para qué se hace (según el documento) — Reglamento sobre Instalaciones de Recepción Portuarias
 
-CONSIDERANDO: Que la Ley Orgánica de la Marina Mercante Nacional tiene por objeto establecer el marco normativo de la Institución, y, en general de las actividades marítimas, así como la de regular la administración a la cual está sujeta, CONSIDERANDO: Que la Ley Orgánica de la Marina Mercante establece que la Dirección General de la Marina Mercante tendrá como atribución cumplir y hacer cumplir la Constitución de la República, los Convenios Internacionales de los que Honduras forme parte, la Ley y demás disposiciones : legales Reglamentarias que guarden relación con sus cometidos.
+CONSIDERANDO: Que la Ley Orgánica de la Marina Mercante Nacional tiene por objeto establecer el marco normativo de la Institución, y, en general de las actividades marítimas, así como la de regular la administración a la cual está sujeta, CONSIDERANDO: Que la Ley Orgánica de la Marina Mercante establece que la Dirección General de la Marina Mercante tendrá como atribución cumplir y hacer cumplir la Constitución de la República, los Convenios Internacionales de los que Honduras forme parte, la Ley y demás disposiciones: legales Reglamentarias que guarden relación con sus cometidos.
 CONSIDERANDO: Que el Reglamento antes mencionado tiene por finalidad inmediata complementar las particularidades operativas del proceso de descarga de residuos provenientes de buques que utilicen los puertos de Honduras, mejorando la disponibilidad real y el uso de instalaciones portuarias derecepción de dichos residuos y desechos e incrementando así la prevención de la contaminación y protección del medio marino.
 El Reglamento aquí presentado tiene por finalidad inmediata el complementar las particularidades operativas del proceso de descarga de residuos provenientes de buques que utilicen los puertos de Honduras, mejorando la disponibilidad real y el uso de instalaciones portuarias de recepción de dichos residuos y desechos e incrementando asi la prevención de la contaminación y protección del medio marino.
 
@@ -1682,16 +894,13 @@ El Reglamento aquí presentado tiene por finalidad inmediata el complementar las
 
 precio unitario: Lps. 15.00
 Suscripción Físico y Digital Lps. 2,000.00 anual, seis meses Lps. 1,000.00
-La Gaceta está a la vanguardia de la tecnología, ahora ofreciendo a sus clientes el servicio en versión digital
-a nivel nacional e internacional en su página web www.lagaceta.hn
+La Gaceta está a la vanguardia de la tecnología, ahora ofreciendo a sus clientes el servicio en versión digital a nivel nacional e internacional en su página web www.lagaceta.hn
 Para mayor información llamar al Tel.: 2230-1339 o al correo: gacetadigitalhn@gmail.com
 Contamos con:
 - Servicio de consulta en línea.
-1) DECRETA: ARTÍCULO 1.- Se crea la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS,
-AMBIENTALES Y SOCIALES DE HONDURAS ( AEPAS–H).
+1) DECRETA: ARTÍCULO 1.- Se crea la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS, AMBIENTALES Y SOCIALES DE HONDURAS ( AEPAS–H).
 TEGUCIGALPA
-Col. Miraflores Sur, Centro Cívico Gubernamental, contiguo al
-Poder Judicial.
+Col. Miraflores Sur, Centro Cívico Gubernamental, contiguo al Poder Judicial.
 SAN PEDRO SULA
 Salida a Puerto Cortés, Centro Comercial, “Los Castaños”, Teléfono:
 2552-2699.
@@ -1700,591 +909,176 @@ CENTROS DE DISTRIBUCIÓN:
 
 Sección “B”
 CERTIFICACIÓN
-El infrascrito, Secretario General de la Secretaría de Estado en
-los Despachos de Gobernación, Justicia y Descentralización.
+El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización.
 CERTIFICA: La Resolución que literalmente dice:
 “RESOLUCIÓN No. 760-2019. SECRETARÍA DE ESTADO
-EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y
-DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito
-Central, departamento de Francisco Morazán, tres de mayo del
-dos mil diecinueve.
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo,
-por medio de esta Secretaría de Estado, en fecha once de abril
-del dos mil diecinueve, la cual corre agregada al expediente
-administrativo No. PJ-11042019-265, por la Abogada ELSY
-EMIRE URCINA RASKOFF , en su condición de Apoderada
+EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito
+Central, departamento de Francisco Morazán, tres de mayo del dos mil diecinueve.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha once de abril del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-11042019-265, por la Abogada ELSY
+EMIRE URCINA RASKOFF, en su condición de Apoderada
 Legal de la JUNTA ADMINISTRADORA DE AGUA
 POTABLE Y SANEAMIENTO DE LA COMUNIDAD
-DE LA LAGUNA EL RINCON DEL MUNICIPIO DE LA
-LIBERTAD, DEPARTAMENTO DE COMAYAGUA, con
-domicilio en la Comunidad de La Laguna El Rincón del municipio
-de La Libertad, departamento de Comayagua; contraída a
-solicitar la Personalidad Jurídica a favor de su representada,
-ANTECEDENTE DE HECHO, en fecha once de abril del dos
-mil diecinueve, compareciera ante esta Secretaría de Estado, la
-Abogada ELSY EMIRE URCINA RASKOFF, en su condición
-de Apoderada Legal de la JUNTA ADMINISTRADORA DE
-AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD
-DE LA LAGUNA EL RINCON DEL MUNICIPIO DE LA
-LIBERTAD, DEPARTAMENTO DE COMAYAGUA, con
-domicilio en la Comunidad de La Laguna El Rincón del municipio
-de La Libertad, departamento de Comayagua, a solicitar la
-Personalidad Jurídica a favor de su representada.
+DE LA LAGUNA EL RINCON DEL MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE COMAYAGUA, con domicilio en la Comunidad de La Laguna El Rincón del municipio de La Libertad, departamento de Comayagua; contraída a solicitar la Personalidad Jurídica a favor de su representada, ANTECEDENTE DE HECHO, en fecha once de abril del dos mil diecinueve, compareciera ante esta Secretaría de Estado, la Abogada ELSY EMIRE URCINA RASKOFF, en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD
+DE LA LAGUNA EL RINCON DEL MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE COMAYAGUA, con domicilio en la Comunidad de La Laguna El Rincón del municipio de La Libertad, departamento de Comayagua, a solicitar la Personalidad Jurídica a favor de su representada.
 MOTIVACIÓN FÁCTICA Y JURÍDICA
-PRIMERO: Resulta que en el caso que nos ocupa, la petición
-formulada por la impetrante, esté contraída a pedir la Personalidad
+PRIMERO: Resulta que en el caso que nos ocupa, la petición formulada por la impetrante, esté contraída a pedir la Personalidad
 Jurídica, de la JUNTA ADMINISTRADORA DE AGUA
 POTABLE Y SANEAMIENTO DE LA COMUNIDAD
-DE LA LAGUNA EL RINCON DEL MUNICIPIO DE LA
-LIBERTAD, DEPARTAMENTO DE COMAYAGUA, para lo
-cual, acompaño los documentos que se requieren para casos como
-el indicado, y que a nuestro juicio, justifican la petición por él
-formulada.
-SEGUNDO: En este sentido, y según el análisis realizado, se logra
-apreciar que corren agregados a los folios tres, cuatro, cinco, seis,
-siete, ocho al once, doce al diecisiete, veinte al veintiséis, (3, 4, 5,
-6 7, 8 al 11, 12 al 17, 20 al 26), los documentos referentes a carta
-poder, certificación de constitución, elección de junta directiva,
-autorización para la contratación de un abogado, discusión y
-aprobación de sus estatutos y certificación de listado de asistencia,
-enunciados en su respectivo orden, así como también, las copias
-de las tarjetas de identidad de cada uno de los miembros que
-integran su Junta Directiva.
-TERCERO: La Constitución de la República, dispone en el artículo 78,
-que: “… Se garantizan las libertades de asociación y de reunión
-siempre que no sean contrarias al orden público y a las buenas
-costumbres…”, según lo dispone la norma constitucional antes
-reproducida, la Libertad de Asociación es un derecho protegido
-por nuestra constitución en su artículo 78, derecho que posibilita
-o permite que los ciudadanos constituyamos todo tipo de
-asociaciones sin importar las tendencias; siempre y cuando éstas
-no sean contrarias a la Ley, procurando con ello mejorar y defender
-las condiciones de los grupos de interés con distintas tendencias
-ideológicas, políticas o religiosas para el fortalecimiento de
-la sociedad civil y la voz de la opinión pública, necesarias e
-indispensables en un país democrático.
+DE LA LAGUNA EL RINCON DEL MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE COMAYAGUA, para lo cual, acompaño los documentos que se requieren para casos como el indicado, y que a nuestro juicio, justifican la petición por él formulada.
+SEGUNDO: En este sentido, y según el análisis realizado, se logra apreciar que corren agregados a los folios tres, cuatro, cinco, seis, siete, ocho al once, doce al diecisiete, veinte al veintiséis, (3, 4, 5, 6 7, 8 al 11, 12 al 17, 20 al 26), los documentos referentes a carta poder, certificación de constitución, elección de junta directiva, autorización para la contratación de un abogado, discusión y aprobación de sus estatutos y certificación de listado de asistencia, enunciados en su respectivo orden, así como también, las copias de las tarjetas de identidad de cada uno de los miembros que integran su Junta Directiva.
+TERCERO: La Constitución de la República, dispone en el artículo 78, que: “… Se garantizan las libertades de asociación y de reunión siempre que no sean contrarias al orden público y a las buenas costumbres…”, según lo dispone la norma constitucional antes reproducida, la Libertad de Asociación es un derecho protegido por nuestra constitución en su artículo 78, derecho que posibilita o permite que los ciudadanos constituyamos todo tipo de asociaciones sin importar las tendencias; siempre y cuando éstas no sean contrarias a la Ley, procurando con ello mejorar y defender las condiciones de los grupos de interés con distintas tendencias ideológicas, políticas o religiosas para el fortalecimiento de la sociedad civil y la voz de la opinión pública, necesarias e indispensables en un país democrático.
 CUARTO: Por su parte el Código Civil en su Capítulo II, artículo
 56, se refiere a quienes la ley considera como Personas Jurídicas:
-“…1º El Estado y las corporaciones, asociaciones y fundaciones
-de interés público, reconocidas por la Ley. La personalidad
-de estas empieza en el instante mismo en que, con arreglo a
-derecho hubiesen quedado válidamente constituidas. 2º Las
-Asociaciones de interés particular, sean civiles, mercantiles
-o industriales, a las que la ley conceda personalidad propia,
-independientemente de la de cada uno de los asociados”.
-QUINTO: La Ley Marco del Sector de Agua potable y
-Saneamiento en su artículo 18 literalmente enuncia “Las
-Juntas Administradoras de Agua tendrán personalidad
-jurídica otorgada que otorgará la Secretaría de Estado en los
-Despachos de Gobernación y Justicia por medio de dictamen
-de la respectiva Corporación Municipal, que constatará de la
-legalidad de la misma. El otorgamiento de dicha personalidad
-y su publicación en el Diario Oficial La Gaceta será de forma
-gratuita. El Reglamento de la presente Ley establecerá la
-organización y funciones de las Juntas de Agua.
+“…1º El Estado y las corporaciones, asociaciones y fundaciones de interés público, reconocidas por la Ley. La personalidad de estas empieza en el instante mismo en que, con arreglo a derecho hubiesen quedado válidamente constituidas. 2º Las Asociaciones de interés particular, sean civiles, mercantiles o industriales, a las que la ley conceda personalidad propia, independientemente de la de cada uno de los asociados”.
+QUINTO: La Ley Marco del Sector de Agua potable y Saneamiento en su artículo 18 literalmente enuncia “Las Juntas Administradoras de Agua tendrán personalidad jurídica otorgada que otorgará la Secretaría de Estado en los Despachos de Gobernación y Justicia por medio de dictamen de la respectiva Corporación Municipal, que constatará de la legalidad de la misma. El otorgamiento de dicha personalidad y su publicación en el Diario Oficial La Gaceta será de forma gratuita. El Reglamento de la presente Ley establecerá la organización y funciones de las Juntas de Agua.
 SEXTO: Que la Asociación Civil de beneficio mutuo, denominada
-JUNTA ADMINISTRADORA DE AGUA POTABLE Y
-SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA
-EL RINCON DEL MUNICIPIO DE LA LIBERTAD,
-DEPARTAMENTO DE COMAYAGUA, se crea como
-asociación civil de beneficio mutuo, cuyas disposiciones
-estatutarias no contrarían las leyes del país, el orden público, la
-moral y las buenas costumbres por lo que es procedente acceder a
-lo solicitado.
-SÉPTIMO: Que de acuerdo a lo establecido en el artículo 11 de
-los Estatutos aprobados por la JUNTA ADMINISTRADORA
-DE AGUA POTABLE Y SANEAMIENTO DE LA
-COMUNIDAD DE LA LAGUNA EL RINCON DEL
-MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE
-COMAYAGUA, la Asamblea General, es la máxima autoridad
-de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y
-SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA
-EL RINCON DEL MUNICIPIO DE LA LIBERTAD,
-DEPARTAMENTO DE COMAYAGUA , expresa la voluntad
-colectiva de los usuarios debidamente convocados. Para tratar
-los asuntos relacionados con el sistema y crear una comunicación
-y coordinación en su comunidad, se harán reuniones así: a)
-Trimestralmente en forma ordinaria con los usuarios del servicio y
-cuando fuese necesario de urgencia en forma extraordinaria. Esta
-resolución no le da validez a cualquier disposición contenida en
-los mismos, que sean contrarias a la Constitución de la República
-y las Leyes.
+JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA
+EL RINCON DEL MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE COMAYAGUA, se crea como asociación civil de beneficio mutuo, cuyas disposiciones estatutarias no contrarían las leyes del país, el orden público, la moral y las buenas costumbres por lo que es procedente acceder a lo solicitado.
+SÉPTIMO: Que de acuerdo a lo establecido en el artículo 11 de los Estatutos aprobados por la JUNTA ADMINISTRADORA
+DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA EL RINCON DEL MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE COMAYAGUA, la Asamblea General, es la máxima autoridad de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA
+EL RINCON DEL MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE COMAYAGUA, expresa la voluntad colectiva de los usuarios debidamente convocados. Para tratar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad, se harán reuniones así: a)
+Trimestralmente en forma ordinaria con los usuarios del servicio y cuando fuese necesario de urgencia en forma extraordinaria. Esta resolución no le da validez a cualquier disposición contenida en los mismos, que sean contrarias a la Constitución de la República y las Leyes.
 2
 
 OCTAVO: Que el Presidente de la República emitió el Decreto
-Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos
-mil dos, por el que delega al Secretario de Estado en los Despachos
-de Gobernación y Justicia, competencia específica para la emisión
-de este acto administrativo de conformidad con los Artículos 11,
-16, 119 de la Ley General de la Administración Pública, 4 y 5 de
-la Ley de Procedimiento Administrativo.
+Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 DECISIÓN
-POR TANTO: EL SECRETARIO DE ESTADO EN
-LOS DESPACHOS DE GOBERNACION, JUSTICIA Y
-DESCENTRALIZACION, en uso de sus facultades y en
-aplicación a lo establecido en el artículo 245 numeral 40 de la
-Constitución de la República; 56 y 58 del Código Civil y en
-aplicación de los Artículos 29 reformado mediante Decreto
-266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco
-del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39
-del Reglamento General de la Ley Marco del Sector de Agua
+POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACION, en uso de sus facultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto
+266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua
 Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento
-Administrativo, Acuerdo Ejecutivo No. 138-2018 de fecha 05 de
-abril de 2018; Acuerdo Ministerial No. 58-2019 de fecha 27 de
-febrero de 2019.
+Administrativo, Acuerdo Ejecutivo No. 138-2018 de fecha 05 de abril de 2018; Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 RESUELVE:
 PRIMERO: Conceder Personalidad Jurídica a la JUNTA
-ADMINISTRADORA DE AGUA POTABLE Y
-SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA
-EL RINCON DEL MUNICIPIO DE LA LIBERTAD,
-DEPARTAMENTO DE COMAYAGUA, con domicilio en
-la Comunidad de La Laguna, El Rincón del municipio de La
-Libertad, departamento de Comayagua; con sus estatutos que
-literalmente dicen:
+ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA
+EL RINCON DEL MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE COMAYAGUA, con domicilio en la Comunidad de La Laguna, El Rincón del municipio de La Libertad, departamento de Comayagua; con sus estatutos que literalmente dicen:
 ESTATUTOS DE LA JUNTA ADMINISTRADORA
-DE AGUA POTABLE Y SANEAMIENTO DE LA
-COMUNIDAD DE LA LAGUNA EL RINCON DEL
-MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE
-COMAYAGUA
+DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA EL RINCON DEL MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE COMAYAGUA
 CAPÍTULO I
-CONSTITUCIÓN, DENOMINACIÓN, DURACIÓN Y
-DOMICILIO
-ARTÍCULO 1.- Se constituye, la organización cuya denominación
-será “Junta Administradora de Agua Potable y Saneamiento
+CONSTITUCIÓN, DENOMINACIÓN, DURACIÓN Y DOMICILIO
+ARTÍCULO 1.- Se constituye, la organización cuya denominación será “Junta Administradora de Agua Potable y Saneamiento
 La Laguna El Rincón y se reconocerá con las siglas siguientes:
 JAASLLR de la Comunidad de LA LAGUNA EL RINCON
 DEL MUNICIPIO DE LA LIBERTAD DEPARTAMENTO
-DE COMAYAGUA, como una asociación de servicio comunal,
-de duración indefinida, sin fines de lucro y que tendrá como
-finalidad obtener la participación efectiva de dicha comunidad
-para la construcción, operación y mantenimiento del sistema
-de agua potable de acuerdo con las normas, procedimientos y
-reglamentaciones vigentes, establecidos en la Ley Marco del
-Sector Agua Potable y Saneamiento, su Reglamento General y
-demás reglamentos, Código de Salud y Ley General del Ambiente
-y demás Leyes aplicables efectuando trabajos de promoción y
-educación sanitaria ambiental, entre los habitantes de la comunidad
-de LA LAGUNA EL RINCON.
+DE COMAYAGUA, como una asociación de servicio comunal, de duración indefinida, sin fines de lucro y que tendrá como finalidad obtener la participación efectiva de dicha comunidad para la construcción, operación y mantenimiento del sistema de agua potable de acuerdo con las normas, procedimientos y reglamentaciones vigentes, establecidos en la Ley Marco del Sector Agua Potable y Saneamiento, su Reglamento General y demás reglamentos, Código de Salud y Ley General del Ambiente y demás Leyes aplicables efectuando trabajos de promoción y educación sanitaria ambiental, entre los habitantes de la comunidad de LA LAGUNA EL RINCON.
 
-ARTÍCULO 2.- El domicilio legal será en la comunidad LA
-LAGUNA EL RINCON DEL MUNICIPIO DE LA LIBERTAD
-DEPARTAMENTO DE COMAYAGUA y tendrá operación en
-dicha comunidad proporcionando el servicio de agua potable.
-ARTÍCULO 3.- Se considera componentes del sistema de agua
-potable los siguientes: 1) La microcuenca que comprende el área
-de terreno delimitada y protegida, 2) El acueducto que comprende
-las obras físicas de captación, c onducción, almacenamiento y
-distribución de agua potable. 3) Saneamiento que comprende las
-obras físicas para el saneamiento Ambiental en cada uno de los
-hogares, construido por la comunidad.
+ARTÍCULO 2.- El domicilio legal será en la comunidad LA LAGUNA EL RINCON DEL MUNICIPIO DE LA LIBERTAD
+DEPARTAMENTO DE COMAYAGUA y tendrá operación en dicha comunidad proporcionando el servicio de agua potable.
+ARTÍCULO 3.- Se considera componentes del sistema de agua potable los siguientes: 1) La microcuenca que comprende el área de terreno delimitada y protegida, 2) El acueducto que comprende las obras físicas de captación, c onducción, almacenamiento y distribución de agua potable. 3) Saneamiento que comprende las obras físicas para el saneamiento Ambiental en cada uno de los hogares, construido por la comunidad.
 CAPÍTULO II
 DE LOS OBJETIVOS Y ACTIVIDADES
-ARTÍCULO 4 .- El fin primordial de los presentes Estatutos
-es regular y normalizar el funcionamiento Básico de la Junta
+ARTÍCULO 4 .- El fin primordial de los presentes Estatutos es regular y normalizar el funcionamiento Básico de la Junta
 Administradora de Agua Potable y Saneamiento LA LAGUNA
-EL RINCON (JAASLLR) y los diferentes comités para la
-administración, operación y mantenimiento del sistema agua
-potable y saneamiento.
+EL RINCON (JAASLLR) y los diferentes comités para la administración, operación y mantenimiento del sistema agua potable y saneamiento.
 ARTÍCULO 5.- La Organización tendrá los siguientes objetivos:
-a.- Mejorar la condición de salud de los usuarios y de las
-comunidades en general.- b.- Asegurar una correcta administración
-del sistema.- c.- Lograr un adecuado mantenimiento y operación
-del sistema.- d.- Solicitar capacitación y asesoría a las instituciones
-competentes según la ley Marco del Sector Agua Potable y
-Saneamiento- e.- Gestionar financiamiento para mejorar el servicio
-de abastecimiento de agua potable y el saneamiento básico de
-la forma siguiente: 1) obtención del área de la microcuenca por
-medio de la compra, firma de convenios con dueños de terreno.
-2) mejorando la infraestructura. 3) construyendo obras que ayuden
-a mejorar el saneamiento de la comunidad. f.- Vigilar porque la
-población use y maneje el agua adecuadamente y evitando el
-desperdicio del agua. g.- Gestionar la asistencia de técnica de
-SANAA necesaria para mantener adecuadamente el sistema.-
-h.- Realizar labores de vigilancia en todos los componentes del
-sistema: 1) Microcuencas 2) Acueducto 3) Saneamiento Básico).-
-i.- Asegurar la sostenibilidad de los servicios de agua potable y
-saneamiento. Básicos j.-Vigilar que la población practique hábitos
-higiénicos y sanitarios en los hogares.
-ARTÍCULO 6. - Para el logro de los objetivos indicados, la
-organización podrá realizar las siguientes actividades: a.- Recibir
-las aportaciones ordinarias en concepto de tarifa mensual por
-pagos del servicio de agua potable y extraordinaria en concepto
-de cuotas como ser actividades con fines de lucro Discutidas y
-aprobadas por la asamblea de usuarios con su firma respectiva en
-acta, categorización de la tarifa en base a : 1)Capacidad de pago 2)
-Número de familia por vivienda 3) Número de llaves adicionales 4)
-otras consideraciones establecidas por la junta directiva de acuerdo
-a la inversión que se requiera hacer al sistema de agua potable y
-saneamiento estimado por la misma.- b.- Establecer programas de
-capacitación permanentes a fin de mejorar y mantener la salud
-de los usuarios.- c.- Aumentar el patrimonio económico a fin
-de asegurar una buena operación y mantenimiento del sistema.-
-d.- Gestionar, canalizar y ejecutar recursos financieros de entes
-nacionales e internacionales.- e.- Coordinar y asociarse con otras
-juntas o Asociación de Juntas Administradoras de Agua a nivel
-Municipal e instituciones públicas y privadas para mantener y
-mejorar el sistema.- f.- Promover la integración de la comunidad
-e involucrarla con el sistema.- g.- Conservar, vigilar, mantener
-y aumentar el área de la microcuenca cada año.- h.- Realizar
-cualquier actividad que tienda mejorar la salud y/o a conservar el
-sistema de agua potable y saneamiento.
+a.- Mejorar la condición de salud de los usuarios y de las comunidades en general.- b.- Asegurar una correcta administración del sistema.- c.- Lograr un adecuado mantenimiento y operación del sistema.- d.- Solicitar capacitación y asesoría a las instituciones competentes según la ley Marco del Sector Agua Potable y Saneamiento- e.- Gestionar financiamiento para mejorar el servicio de abastecimiento de agua potable y el saneamiento básico de la forma siguiente: 1) obtención del área de la microcuenca por medio de la compra, firma de convenios con dueños de terreno.
+2) mejorando la infraestructura. 3) construyendo obras que ayuden a mejorar el saneamiento de la comunidad. f.- Vigilar porque la población use y maneje el agua adecuadamente y evitando el desperdicio del agua. g.- Gestionar la asistencia de técnica de SANAA necesaria para mantener adecuadamente el sistema.- h.- Realizar labores de vigilancia en todos los componentes del sistema: 1) Microcuencas 2) Acueducto 3) Saneamiento Básico).- i.- Asegurar la sostenibilidad de los servicios de agua potable y saneamiento. Básicos j.-Vigilar que la población practique hábitos higiénicos y sanitarios en los hogares.
+ARTÍCULO 6. - Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de tarifa mensual por pagos del servicio de agua potable y extraordinaria en concepto de cuotas como ser actividades con fines de lucro Discutidas y aprobadas por la asamblea de usuarios con su firma respectiva en acta, categorización de la tarifa en base a: 1)Capacidad de pago 2)
+Número de familia por vivienda 3) Número de llaves adicionales 4) otras consideraciones establecidas por la junta directiva de acuerdo a la inversión que se requiera hacer al sistema de agua potable y saneamiento estimado por la misma.- b.- Establecer programas de capacitación permanentes a fin de mejorar y mantener la salud de los usuarios.- c.- Aumentar el patrimonio económico a fin de asegurar una buena operación y mantenimiento del sistema.- d.- Gestionar, canalizar y ejecutar recursos financieros de entes nacionales e internacionales.- e.- Coordinar y asociarse con otras juntas o Asociación de Juntas Administradoras de Agua a nivel
+Municipal e instituciones públicas y privadas para mantener y mejorar el sistema.- f.- Promover la integración de la comunidad e involucrarla con el sistema.- g.- Conservar, vigilar, mantener y aumentar el área de la microcuenca cada año.- h.- Realizar cualquier actividad que tienda mejorar la salud y/o a conservar el sistema de agua potable y saneamiento.
 CAPÍTULO III
-DE LOS MIEMBROS, DE LAS CLASES DE MIEMBROS,
-OBLIGACIONES DE LOS MIEMBROS
+DE LOS MIEMBROS, DE LAS CLASES DE MIEMBROS, OBLIGACIONES DE LOS MIEMBROS
 3
 
-ARTÍCULO 7.- La Junta administradora de Agua potable y
-Saneamiento La LAGUNA EL RINCON “JAASLLR” tendrá
-las siguientes categorías de miembros: a) Fundadores. b )
-Activos, miembros Fundadores: Son los que suscriben el acta
-de Constitución de la Junta Administradora de Agua potable y
-Saneamiento La LAGUNA EL RINCON “JAASLLR” b) Activos:
+ARTÍCULO 7.- La Junta administradora de Agua potable y Saneamiento La LAGUNA EL RINCON “JAASLLR” tendrá las siguientes categorías de miembros: a) Fundadores. b )
+Activos, miembros Fundadores: Son los que suscriben el acta de Constitución de la Junta Administradora de Agua potable y Saneamiento La LAGUNA EL RINCON “JAASLLR” b) Activos:
 Son los que participan en las Asambleas de Usuarios.
-ARTÍCULO 8.- Son derechos de los miembros: a.- Ambas clases
-de miembros tienen derecho a voz y a voto. b.- Elegir y ser electos.
-c.- Presentar iniciativas o proyectos a la Junta Directiva. d.- Elevar
-peticiones o iniciativas que beneficien la adecuada gestión de los
-servicios. e.- Presentar reclamos ante el prestador por deficiencias
-en la calidad de servicios. f.- Recibir avisos oportunamente de las
-interrupciones programadas del servicio, de las modificaciones en
-la tarifa y de cualquier evento que afecte sus derechos o modifique
-la calidad del servicio que recibe.
-ARTÍCULO 9.- Son obligaciones de los miembros(usuarios
-directivos): a.- Conectarse en el acueducto y al sistema de
-saneamiento. b.- Hacer uso adecuado de los servicios, sin dañar
-ni poner en riesgo la infraestructura. c.- Asistir puntualmente a las
-reuniones. d.- Participar en cualquiera de las comisión que se le
-asigne. e.- Vigilar por el buen estado de las partes del Vsistema.
-f.- Realizar labores de mantenimiento y mejoramiento del sistema
-cuando la junta los requiera. g.- Mantener limpio los solares, pilas,
-letrinas y la vivienda para prevenir las enfermedades. h.- Pagar
-una multa equivalente al valor de un día de trabajo por no asistir a
-las reunión. i.- Permitir la inspección de las instalaciones, letrinas,
-pilas a personal autorizado de la junta. j.- Pagar puntualmente la
-tarifa dentro de los primeros diez días del mes siguiente. k.- Pagar
-una multa establecida por la junta por el incumplimiento de las
-obligaciones.
+ARTÍCULO 8.- Son derechos de los miembros: a.- Ambas clases de miembros tienen derecho a voz y a voto. b.- Elegir y ser electos.
+c.- Presentar iniciativas o proyectos a la Junta Directiva. d.- Elevar peticiones o iniciativas que beneficien la adecuada gestión de los servicios. e.- Presentar reclamos ante el prestador por deficiencias en la calidad de servicios. f.- Recibir avisos oportunamente de las interrupciones programadas del servicio, de las modificaciones en la tarifa y de cualquier evento que afecte sus derechos o modifique la calidad del servicio que recibe.
+ARTÍCULO 9.- Son obligaciones de los miembros(usuarios directivos): a.- Conectarse en el acueducto y al sistema de saneamiento. b.- Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura. c.- Asistir puntualmente a las reuniones. d.- Participar en cualquiera de las comisión que se le asigne. e.- Vigilar por el buen estado de las partes del Vsistema.
+f.- Realizar labores de mantenimiento y mejoramiento del sistema cuando la junta los requiera. g.- Mantener limpio los solares, pilas, letrinas y la vivienda para prevenir las enfermedades. h.- Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reunión. i.- Permitir la inspección de las instalaciones, letrinas, pilas a personal autorizado de la junta. j.- Pagar puntualmente la tarifa dentro de los primeros diez días del mes siguiente. k.- Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
 CAPÍTULO IV
 DE LOS MIEMBROS, ATRIBUCIONES DE CADA
 ÓRGANO, ASAMBLEA DE USUARIOS, JUNTA
 DIRECTIVAS
 COMITÉ DE APOYO
-ARTÍCULO 10.- La dirección, administración, operación y
-mantenimiento en el ámbito de todo el sistema estará a cargo
-de: a.- Asamblea de usuarios.- b.- Junta directiva.- c.- comités
-de apoyo integrada por: 1) Comité de Microcuencas.- 2) Comité
-de Operación y Mantenimiento.- 3) Comité de Saneamiento y
-Educación de Usuarios 4) Comité de Vigilancia.
+ARTÍCULO 10.- La dirección, administración, operación y mantenimiento en el ámbito de todo el sistema estará a cargo de: a.- Asamblea de usuarios.- b.- Junta directiva.- c.- comités de apoyo integrada por: 1) Comité de Microcuencas.- 2) Comité de Operación y Mantenimiento.- 3) Comité de Saneamiento y Educación de Usuarios 4) Comité de Vigilancia.
 DE LA ASAMBLEA DE USUARIOS
-ARTÍCULO 11.- Es la máxima autoridad de la comunidad a nivel
-local, expresa la voluntad colectiva de los usuarios debidamente
-convocados. Son funciones de la Asamblea de usuarios: a.-
-Elegir los miembros directos de la Junta los que coordinarán
-los comité. b.- Tratar los asuntos relacionados con los intereses
-de la Junta. c.- Aprobar los informe trimestrales de la ejecución
-del presupuesto vigente y del Plan Operativo Anual POA. d.-
-Resolver la aprobación de sanciones para faltas graves de Renovar
-o suspender cualquier miembro directivo propuesto o no propuesto
-por los demás miembros de la Junta Directiva.
+ARTÍCULO 11.- Es la máxima autoridad de la comunidad a nivel local, expresa la voluntad colectiva de los usuarios debidamente convocados. Son funciones de la Asamblea de usuarios: a.-
+Elegir los miembros directos de la Junta los que coordinarán los comité. b.- Tratar los asuntos relacionados con los intereses de la Junta. c.- Aprobar los informe trimestrales de la ejecución del presupuesto vigente y del Plan Operativo Anual POA. d.-
+Resolver la aprobación de sanciones para faltas graves de Renovar o suspender cualquier miembro directivo propuesto o no propuesto por los demás miembros de la Junta Directiva.
 
 DE LA JUNTA DIRECTIVA
 ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta
 Directiva, es el órgano de gobierno más importante de la Junta
-Administradora de Agua y Saneamiento, estará integrada por
-hombres y mujeres mayores de diez y ocho años electos por el
-voto mayoritario de la asamblea de usuarios o por los presente
-en la reunión después de una espera de media hora para que se
-presenten los usuarios; deberá considerar la equidad de género;
-y estará en funciones por un período de dos años y podrá ser
-nombrada por un periodo más en forma consecutiva, ejercerán
-los cargos ad honorem, para ser miembro de la Junta directiva
-deberá cumplir con los requisitos establecidos en los artículos 13
-del Reglamento de Juntas de Agua y Saneamiento de la Ley Marco
-del Sector de Agua Potable y Saneamiento, estará conformado
-por siete (7) miembros, cinco propietarios y dos vocales: 1.- Un
-Presidente(a).- 2.- Un Vicepresidente(a); 3.- Secretario(a) .- 4.- Un
-Tesorero(a).- 5.- Un Fiscal.- 6.- Un Vocal Primero; y, 7.- Un Vocal
+Administradora de Agua y Saneamiento, estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presente en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género;
+y estará en funciones por un período de dos años y podrá ser nombrada por un periodo más en forma consecutiva, ejercerán los cargos ad honorem, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de Juntas de Agua y Saneamiento de la Ley Marco del Sector de Agua Potable y Saneamiento, estará conformado por siete (7) miembros, cinco propietarios y dos vocales: 1.- Un Presidente(a).- 2.- Un Vicepresidente(a); 3.- Secretario(a) .- 4.- Un Tesorero(a).- 5.- Un Fiscal.- 6.- Un Vocal Primero; y, 7.- Un Vocal
 Segundo.
-ARTÍCULO 13.- La Junta Directiva tendrá las siguientes
-funciones: a.- Brindar informes trimestrales sobre la ejecución del
-presupuesto y el seguimiento del Plan Operativo Anual “POA”,
-en el orden siguiente el primero en marzo el segundo en junio el
-tercero en septiembre y el cuarto en diciembre.- b.- Elaborar el
-presupuesto anual y el Plan Operativo Anual “POA” y presentarlo
-a la asamblea de usuario en el mes de enero.- c.- Coordinar y ejecutar
-las actividades de saneamiento básico, operación y mantenimiento
-del sistema de agua.- d.- Realizar los cobros de tarifas mensuales
-y demás ingresos en efectivo provenientes del servicio de agua en
-la comunidad.- e.- Depositar los fondos en una cuenta bancaria
-a nombre del presidente, tesorero y el fiscal; si los directivos
-consideran conveniente las recaudaciones de cobros de tarifa y
-demás ingresos en efectivo provenientes del servicio de agua en la
-comunidad.- f.- Asistir a las reuniones de la asociación de juntas
-administradoras de agua potable y saneamiento.- g.- Cancelar o
-superar el servicio de agua a los directivos y usuarios por el no
-cumplimiento de la leyes, Reglamentos, estatutos, y acuerdos
-aprobados en sesiones de directiva o de asamblea o por poner
-en peligro la vida de los habitantes de la comunidad al realizar
-prácticas que afecten la salud.- h.- Vigilar y proteger las fuentes de
-abastecimientos de agua.- Evitando su contaminación y realizando
-acciones de protección y reforestación de la microcuenca.- i.-
-Vigilar el mantenimiento de las obras sanitarias en los hogares de
-los usuarios como ser letrinas, pilas, solares y la viviendas que se
-encuentren en las condiciones higiénico sanitarias.- j.- Nombrar
-los delegados de los comités lo mismo que el personal de trabajo
-de la junta como ser el fontanero y otro que estime conveniente
-siempre que no se necesite de una asesoría para su nombramiento.-
-k.- Informar a la asociación de juntas sobre las labores realizadas
-en la comunidad así como los problemas no resueltos.
+ARTÍCULO 13.- La Junta Directiva tendrá las siguientes funciones: a.- Brindar informes trimestrales sobre la ejecución del presupuesto y el seguimiento del Plan Operativo Anual “POA”, en el orden siguiente el primero en marzo el segundo en junio el tercero en septiembre y el cuarto en diciembre.- b.- Elaborar el presupuesto anual y el Plan Operativo Anual “POA” y presentarlo a la asamblea de usuario en el mes de enero.- c.- Coordinar y ejecutar las actividades de saneamiento básico, operación y mantenimiento del sistema de agua.- d.- Realizar los cobros de tarifas mensuales y demás ingresos en efectivo provenientes del servicio de agua en la comunidad.- e.- Depositar los fondos en una cuenta bancaria a nombre del presidente, tesorero y el fiscal; si los directivos consideran conveniente las recaudaciones de cobros de tarifa y demás ingresos en efectivo provenientes del servicio de agua en la comunidad.- f.- Asistir a las reuniones de la asociación de juntas administradoras de agua potable y saneamiento.- g.- Cancelar o superar el servicio de agua a los directivos y usuarios por el no cumplimiento de la leyes, Reglamentos, estatutos, y acuerdos aprobados en sesiones de directiva o de asamblea o por poner en peligro la vida de los habitantes de la comunidad al realizar prácticas que afecten la salud.- h.- Vigilar y proteger las fuentes de abastecimientos de agua.- Evitando su contaminación y realizando acciones de protección y reforestación de la microcuenca.- i.-
+Vigilar el mantenimiento de las obras sanitarias en los hogares de los usuarios como ser letrinas, pilas, solares y la viviendas que se encuentren en las condiciones higiénico sanitarias.- j.- Nombrar los delegados de los comités lo mismo que el personal de trabajo de la junta como ser el fontanero y otro que estime conveniente siempre que no se necesite de una asesoría para su nombramiento.- k.- Informar a la asociación de juntas sobre las labores realizadas en la comunidad así como los problemas no resueltos.
 
-ARTÍCULO 14.- Para tratar los asuntos relaciones con el sistema
-y crear una comunicación y coordinación en su comunidad, se
-harán reuniones así: a.- Trimestralmente en forma ordinaria con
-los usuarios del servicio y cuando fuese de urgencia en forma
-extraordinaria.- b.- La Junta directiva se reunirá una vez por mes
-y en forma extraordinaria cuando sea necesario.
+ARTÍCULO 14.- Para tratar los asuntos relaciones con el sistema y crear una comunicación y coordinación en su comunidad, se harán reuniones así: a.- Trimestralmente en forma ordinaria con los usuarios del servicio y cuando fuese de urgencia en forma extraordinaria.- b.- La Junta directiva se reunirá una vez por mes y en forma extraordinaria cuando sea necesario.
 DEL COMITÉ DE VIGILANCIA
-ARTÍCULO 15.- Dentro de la Junta Administradora desempeña
-un papel muy importante para el éxito de las actividades
-administrativas de operación y mantenimiento del sistema, el
-Comité de Vigilancia, que se encargará de controlar y vigilar
-permanentemente todas las actividades que se realicen en la Junta,
-serán sus funciones: a.- Comprobar la exactitud de los inventarios
-y estados financieros.- b.- Verificar el dinero de caja cada vez que
-estime conveniente.- c.- Vigilar que todos los usuarios cumplan
+ARTÍCULO 15.- Dentro de la Junta Administradora desempeña un papel muy importante para el éxito de las actividades administrativas de operación y mantenimiento del sistema, el Comité de Vigilancia, que se encargará de controlar y vigilar permanentemente todas las actividades que se realicen en la Junta, serán sus funciones: a.- Comprobar la exactitud de los inventarios y estados financieros.- b.- Verificar el dinero de caja cada vez que estime conveniente.- c.- Vigilar que todos los usuarios cumplan
 4
 
-con sus obligaciones.- d.- Fiscalizar las actividades realizadas por
-los miembros de la Junta.- e.- Auditar y supervisar las cuentas
-de recaudación proveniente de los usuarios.- f.- Comprobar los
-gastos efectuados por la Junta.- g.- Verificar el trabajo realizado
-por los fontaneros y/o mano de obra calificada y no calificada.-
-h.- Firmar los documentos administrativos que den fe de aceptado
-a los informes del Presidente y Tesorero.- i.- Vigilar la bodega.-
-j.- Estará formado por un coordinador que será el fiscal tendrá
-delegados nombrados por la asamblea o el coordinador y serán
-ratificados por la directiva el número será de acuerdo a la magnitud
-del trabajo.
+con sus obligaciones.- d.- Fiscalizar las actividades realizadas por los miembros de la Junta.- e.- Auditar y supervisar las cuentas de recaudación proveniente de los usuarios.- f.- Comprobar los gastos efectuados por la Junta.- g.- Verificar el trabajo realizado por los fontaneros y/o mano de obra calificada y no calificada.- h.- Firmar los documentos administrativos que den fe de aceptado a los informes del Presidente y Tesorero.- i.- Vigilar la bodega.- j.- Estará formado por un coordinador que será el fiscal tendrá delegados nombrados por la asamblea o el coordinador y serán ratificados por la directiva el número será de acuerdo a la magnitud del trabajo.
 DE LOS COMITÉS DE APOYO
-ARTÍCULO 16.- La Junta directiva tendrá los siguientes Comités
-de Apoyo: a.- Comité de Operación y Mantenimiento.- b.- Comité
-de Microcuenca.- c.- Comité saneamiento y educación de Usuarios.
-ARTÍCULO 17.- Estos comités estarán integrados por un
-coordinador y delegados o nombrados uno por cada 15 usuarios o
-el número que la junta directiva estime conveniente, el coordinador
-del comité de salud será el Vocal Primero y el coordinador del
-comité de microcuenca será el Vocal Segundo y el coordinador de
-comité de Operación y Mantenimiento será el Vicepresidente y
-los delegados podrán ser nombrados por la asamblea o por cada
-coordinador y ratificados por la directiva de acuerdo al trabajo a
-realizar, su función específica es la de coordinar todas las labores
-de operación, mantenimiento y conservación de la microcuenca
-y salud de los usuarios en el tiempo y forma que determine la
-Asamblea de usuarios y los reglamentos que para designar sus
-funciones específicas y estructura interna, oportunamente se emitan,
-debiendo siempre incorporar como miembros de los comités de
-operación y mantenimiento y de microcuenca el Alcalde Auxiliar,
-fontanero y representante de la UMA y al Promotor de Salud y al
-personal comunitario de salud pública asignado de la zona como
-miembro del comité de Saneamiento.
+ARTÍCULO 16.- La Junta directiva tendrá los siguientes Comités de Apoyo: a.- Comité de Operación y Mantenimiento.- b.- Comité de Microcuenca.- c.- Comité saneamiento y educación de Usuarios.
+ARTÍCULO 17.- Estos comités estarán integrados por un coordinador y delegados o nombrados uno por cada 15 usuarios o el número que la junta directiva estime conveniente, el coordinador del comité de salud será el Vocal Primero y el coordinador del comité de microcuenca será el Vocal Segundo y el coordinador de comité de Operación y Mantenimiento será el Vicepresidente y los delegados podrán ser nombrados por la asamblea o por cada coordinador y ratificados por la directiva de acuerdo al trabajo a realizar, su función específica es la de coordinar todas las labores de operación, mantenimiento y conservación de la microcuenca y salud de los usuarios en el tiempo y forma que determine la Asamblea de usuarios y los reglamentos que para designar sus funciones específicas y estructura interna, oportunamente se emitan, debiendo siempre incorporar como miembros de los comités de operación y mantenimiento y de microcuenca el Alcalde Auxiliar, fontanero y representante de la UMA y al Promotor de Salud y al personal comunitario de salud pública asignado de la zona como miembro del comité de Saneamiento.
 DE LA JUNTA DIRECTIVA
-ARTÍCULO 18.- La Junta Directiva de la Junta Administradora
-de Agua estará formada por: a) Presidente. b) Vicepresidente. c)
+ARTÍCULO 18.- La Junta Directiva de la Junta Administradora de Agua estará formada por: a) Presidente. b) Vicepresidente. c)
 Secretario. d) Tesorero. e) Un fiscal. f) Vocal Primero. g) Vocal
 Segundo.
 ARTÍCULO 19.- Son Atribuciones del PRESIDENTE: a.-
 Convocar a sesiones.- b.- Abrir, presidir y cerrar las sesiones.- c.-
-Elaborar la agenda con el Secretario. d.- Autorizar y aprobar con el
-Secretario las actas de las sesiones. e.- Autorizar y aprobar con el
-Tesorero todo documento que implique erogación de fondos.- f.-
-Representar judicial y extrajudicialmente a la Junta Administradora
-de agua y saneamiento LA LAGUNA EL RINCON JAASLLR.
-g.- Solicitar un informe por escrito a el fontanero y presentarlo a
-los directivos y usuarios. h.- Firmar con el Tesorero las salidas del
-dinero de tesorería de la junta.
+Elaborar la agenda con el Secretario. d.- Autorizar y aprobar con el Secretario las actas de las sesiones. e.- Autorizar y aprobar con el Tesorero todo documento que implique erogación de fondos.- f.-
+Representar judicial y extrajudicialmente a la Junta Administradora de agua y saneamiento LA LAGUNA EL RINCON JAASLLR.
+g.- Solicitar un informe por escrito a el fontanero y presentarlo a los directivos y usuarios. h.- Firmar con el Tesorero las salidas del dinero de tesorería de la junta.
 ARTÍCULO 20.- Son atribuciones del VICEPRESIDENTE: a.-
-Sustituir al Presidente en caso de ausencia temporal o definitiva,
-en este último caso se requerirá la mayoría simple de la Junta
-directiva.- b.- Supervisará las comisiones que se asignen.- c.-
-Coordinar el comité de operación y mantenimiento. d.- Nombrar
-los delegados del comité de operación y mantenimiento. e.- Las
-demás atribuciones que le asigne la Junta Directiva o la Asamblea.
+Sustituir al Presidente en caso de ausencia temporal o definitiva, en este último caso se requerirá la mayoría simple de la Junta directiva.- b.- Supervisará las comisiones que se asignen.- c.-
+Coordinar el comité de operación y mantenimiento. d.- Nombrar los delegados del comité de operación y mantenimiento. e.- Las demás atribuciones que le asigne la Junta Directiva o la Asamblea.
 ARTÍCULO 21.- Son atribuciones del SECRETARIO: a.-
-Llevar el libro de actas.- b.- Autorizar con su firma las actuaciones
-del Presidente de la Junta, excepto con lo relacionado con el
-dinero.- c.- Encargarse de la correspondencia.- d.- Convocar
-junto con el Presidente.- e.- Llevar el registro de usuarios.- f.-
-Organizar el archivo de la Junta Administradora de Agua Potable
-y Saneamiento.- g.- Manejo de planillas de mano de obras. h-
-firmar las actas con el Presidente.
+Llevar el libro de actas.- b.- Autorizar con su firma las actuaciones del Presidente de la Junta, excepto con lo relacionado con el dinero.- c.- Encargarse de la correspondencia.- d.- Convocar junto con el Presidente.- e.- Llevar el registro de usuarios.- f.-
+Organizar el archivo de la Junta Administradora de Agua Potable y Saneamiento.- g.- Manejo de planillas de mano de obras. h- firmar las actas con el Presidente.
 
-ARTÍCULO 22.- Son atribuciones del TESORERO: Es el
-encargado de manejar fondos, archivar documentos que indique
-ingresos y egresos: a.- Recaudar y administrar los fondos
-provenientes del servicio de contribuciones y otros ingresos
-destinados al sistema.- b.- Responder solidariamente con el
-Presidente del manejo y custodia de los fondos que serán destinados
-a una cuenta bancaria o del sistema cooperativista.- c.- Llevar al
-día y con claridad el registro y control de las operaciones que se
-refieren a entradas y salidas dinero, tesorería de la Junta (libro
-de entradas y salidas, talonario de recibos ingresos y egresos,
-pagos mensuales de agua).- d.- Informar mensualmente a la Junta
-directiva, municipalidad y la Asociación de Juntas Administradora
-de Agua a nivel Municipal en caso de pertenecer a la misma sobre
-el manejo económico y financiero (cuenta bancaria), gastos e
-inversiones lo mismo de las necesidades económicas que tiene la
-junta.- e.- Dar a los usuarios las explicaciones que soliciten sobre
-sus cuentas.- f.- Llevar el inventario de los bienes de la Junta.-
-g.- Autorizar conjuntamente con el Presidente toda erogación de
-fondo.- h.- Presentar ante la Asamblea un informe de ingresos y
-egresos en forma trimestral y anual con copia a la Municipalidad.
+ARTÍCULO 22.- Son atribuciones del TESORERO: Es el encargado de manejar fondos, archivar documentos que indique ingresos y egresos: a.- Recaudar y administrar los fondos provenientes del servicio de contribuciones y otros ingresos destinados al sistema.- b.- Responder solidariamente con el Presidente del manejo y custodia de los fondos que serán destinados a una cuenta bancaria o del sistema cooperativista.- c.- Llevar al día y con claridad el registro y control de las operaciones que se refieren a entradas y salidas dinero, tesorería de la Junta (libro de entradas y salidas, talonario de recibos ingresos y egresos, pagos mensuales de agua).- d.- Informar mensualmente a la Junta directiva, municipalidad y la Asociación de Juntas Administradora de Agua a nivel Municipal en caso de pertenecer a la misma sobre el manejo económico y financiero (cuenta bancaria), gastos e inversiones lo mismo de las necesidades económicas que tiene la junta.- e.- Dar a los usuarios las explicaciones que soliciten sobre sus cuentas.- f.- Llevar el inventario de los bienes de la Junta.- g.- Autorizar conjuntamente con el Presidente toda erogación de fondo.- h.- Presentar ante la Asamblea un informe de ingresos y egresos en forma trimestral y anual con copia a la Municipalidad.
 i.- Firmar las salidas egresos de la junta.
-ARTÍCULO 23.- Son atribuciones del FISCAL: a.- Es el
-encargado de fiscalizar los fondos de la organización. b.- Supervisar
-y coordinar la administración de los fondos provenientes del
-servicio de contribuciones y otros ingresos destinados al sistema.-
-c.- Comunicar a los miembros de la Junta Directiva de cualquier
-anomalía que se encuentre en la administración de los fondos o
-bienes de la Junta.- d.- Llevar el control y practicar las auditorías
-que sean necesarias para obtener una administración transparente
-de los bienes de la organización. e.- Coordinar el comité de
-vigilancia. f.- Nombrar los delegados de vigilancia y someterlos
-a ratificación ante los directivos. g.- Llevar el inventario de los
-bienes de la junta. h.- Cargarles los bienes de la junta a las personas
-que los tienen en su poder para uso o custodia y descargárselos
-cuando éstos ya no los tengan, esto se deberá hacer por medio con
-una nota donde se explica el estado, el uso en que se utilizara el
-bien de la junta en un libro único donde firmará el que recibe el
-bien y el fiscal que lo entrega.
-ARTÍCULO 24.- Son atribuciones de LOS VOCALES : a.-
-Desempeñar algún cargo en forma transitoria o permanente que
-le asigne la Asamblea o la Junta Directiva y apoyar en convocar a
-la Asamblea.- b.- El Vocal I coordinará el comité de Saneamiento
-Básico.- c.- El Vocal II coordinará el Comité de Microcuenca y
-sus funciones se especificarán en el Reglamento respectivo.- d.-
-nombrar los delegados de salud y de microcuenca.
+ARTÍCULO 23.- Son atribuciones del FISCAL: a.- Es el encargado de fiscalizar los fondos de la organización. b.- Supervisar y coordinar la administración de los fondos provenientes del servicio de contribuciones y otros ingresos destinados al sistema.- c.- Comunicar a los miembros de la Junta Directiva de cualquier anomalía que se encuentre en la administración de los fondos o bienes de la Junta.- d.- Llevar el control y practicar las auditorías que sean necesarias para obtener una administración transparente de los bienes de la organización. e.- Coordinar el comité de vigilancia. f.- Nombrar los delegados de vigilancia y someterlos a ratificación ante los directivos. g.- Llevar el inventario de los bienes de la junta. h.- Cargarles los bienes de la junta a las personas que los tienen en su poder para uso o custodia y descargárselos cuando éstos ya no los tengan, esto se deberá hacer por medio con una nota donde se explica el estado, el uso en que se utilizara el bien de la junta en un libro único donde firmará el que recibe el bien y el fiscal que lo entrega.
+ARTÍCULO 24.- Son atribuciones de LOS VOCALES: a.-
+Desempeñar algún cargo en forma transitoria o permanente que le asigne la Asamblea o la Junta Directiva y apoyar en convocar a la Asamblea.- b.- El Vocal I coordinará el comité de Saneamiento
+Básico.- c.- El Vocal II coordinará el Comité de Microcuenca y sus funciones se especificarán en el Reglamento respectivo.- d.- nombrar los delegados de salud y de microcuenca.
 CAPÍTULO V
 DEL PATRIMONIO
 
 ARTÍCULO 25.- Los recursos económicos de la Junta
-Administradora podrán constituirse: a.- Con la tarifa mensual de
-agua, venta de derecho a pegue, multas, así como los intereses
-capitalizados.- b.- Con bienes muebles e inmuebles y trabajos
-que aportan los usuarios.- c.- Con las instalaciones y obras físicas
-del sistema.- d.- Con donaciones, herencias, legados, préstamos,
-5
+Administradora podrán constituirse: a.- Con la tarifa mensual de agua, venta de derecho a pegue, multas, así como los intereses capitalizados.- b.- Con bienes muebles e inmuebles y trabajos que aportan los usuarios.- c.- Con las instalaciones y obras físicas del sistema.- d.- Con donaciones, herencias, legados, préstamos, 5
 
-derechos y privilegios que reciban de personas naturales o
-jurídicas.
+derechos y privilegios que reciban de personas naturales o jurídicas.
 ARTÍCULO 26.- Los recursos económicos de la Junta
-Administradora se emplearán exclusivamente para el uso,
-operación, mantenimiento, mejoramiento y ampliación del
-sistema.
+Administradora se emplearán exclusivamente para el uso, operación, mantenimiento, mejoramiento y ampliación del sistema.
 
 CAPÍTULO VI
 DE LA DISOLUCIÓN Y LIQUIDACIÓN
 
-ARTÍCULO 27.- En caso de disolución y liquidación de la
-Junta Administradora de Agua los bienes de ésta serán donados
-exclusivamente a organizaciones filantrópicas, siempre y cuando
-éstas no sean de carácter lucrativo, que señale la Asamblea de
-usuarios, cumpliendo asimismo con lo estipulado en el Código
-civil para su disolución y liquidación.
+ARTÍCULO 27.- En caso de disolución y liquidación de la Junta Administradora de Agua los bienes de ésta serán donados exclusivamente a organizaciones filantrópicas, siempre y cuando éstas no sean de carácter lucrativo, que señale la Asamblea de usuarios, cumpliendo asimismo con lo estipulado en el Código civil para su disolución y liquidación.
 CAPÍTULO VII
 DISPOSICIONES GENERALES
-ARTÍCULO 28.- El ejercicio financiero de la Junta Administradora
-de Agua potable y saneamiento coincidirá con el año fiscal del
-Gobierno de la República.
-ARTÍCULO 29.- Los programas, proyectos o actividades que la
-Junta ejecute no irán en detrimento ni entorpecerán los que el Estado
-realice, por el contrario llevarán el propósito de complementarlos
-de común acuerdo por disposición de éste último.
-ARTÍCULO 30.- La presente resolución deberá inscribirse en el
-Registro Especial del Instituto de la Propiedad de conformidad
-con el artículo 28 de la Ley de la Propiedad.
-ARTÍCULO 31.- Los presentes Estatutos entrarán en vigencia
-luego de ser aprobados por el Poder Ejecutivo, publicados en el
-Diario Oficial LA GACETA con las limitaciones establecidas
-en la Constitución de la República y las Leyes; sus reformas o
-modificaciones se someterán al mismo procedimiento de su
-aprobación.
+ARTÍCULO 28.- El ejercicio financiero de la Junta Administradora de Agua potable y saneamiento coincidirá con el año fiscal del Gobierno de la República.
+ARTÍCULO 29.- Los programas, proyectos o actividades que la Junta ejecute no irán en detrimento ni entorpecerán los que el Estado realice, por el contrario llevarán el propósito de complementarlos de común acuerdo por disposición de éste último.
+ARTÍCULO 30.- La presente resolución deberá inscribirse en el Registro Especial del Instituto de la Propiedad de conformidad con el artículo 28 de la Ley de la Propiedad.
+ARTÍCULO 31.- Los presentes Estatutos entrarán en vigencia luego de ser aprobados por el Poder Ejecutivo, publicados en el Diario Oficial LA GACETA con las limitaciones establecidas en la Constitución de la República y las Leyes; sus reformas o modificaciones se someterán al mismo procedimiento de su aprobación.
 SEGUNDO: La JUNTA ADMINISTRADORA DE AGUA
-POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LA
-LAGUNA EL RINCON DEL MUNICIPIO DE LA LIBERTAD,
-DEPARTAMENTO DE COMAYAGUA, se inscribirá en la
-Secretaría de Estado en los Despachos de Gobernación, Justicia y
-Descentralización, indicando nombre completo, dirección exacta,
-así como los nombres de sus representantes y demás integrantes
-de la Junta Directiva; asimismo, se sujetará a las disposiciones
-que dentro su marco jurídico le corresponden a esta Secretaría
-de Estado, a través del respectivo órgano interno verificando el
-cumplimiento de los objetivos para los cuales fue constituida.
+POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA EL RINCON DEL MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE COMAYAGUA, se inscribirá en la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
 TERCERO: La JUNTA ADMINISTRADORA DE AGUA
-POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LA
-LAGUNA EL RINCON DEL MUNICIPIO DE LA LIBERTAD,
-DEPARTAMENTO DE COMAYAGUA, presentará anualmente
-ante el ENTE REGULADOR DE LOS SERVICIOS DE
-AGUA POTABLE Y SANEAMIENTO (ERSAPS), los estados
-financieros auditados que reflejen los ingresos, egresos y todo
-movimiento económico y contable, indicando su patrimonio actual,
-así como las modificaciones y variaciones del mismo, incluyendo
-herencias, legados y donaciones a través de un sistema contable
-legalizado. Las herencias, legados y donaciones provenientes del
-extranjero, se sujetarán a la normativa jurídica imperante en el
-país, aplicable según sea el caso, a través de los Órganos Estatales
-constituidos para verificar la transparencia de los mismos.
+POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA EL RINCON DEL MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE COMAYAGUA, presentará anualmente ante el ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO (ERSAPS), los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los Órganos Estatales constituidos para verificar la transparencia de los mismos.
 CUARTO: La JUNTA ADMINISTRADORA DE AGUA
 POTABLE Y SANEAMIENTO DE LA COMUNIDAD
-DE LA LAGUNA EL RINCON DEL MUNICIPIO DE LA
-LIBERTAD, DEPARTAMENTO DE COMAYAGUA, se
-somete a las disposiciones legales y políticas establecidas por la
-Secretaría de Estado y los demás entes contralores del Estado,
-facilitando cuanto documento sea requerido para garantizar la
-transparencia de la administración, quedando obligada, además,
-a presentar informes periódicos anuales de las actividades que
-realicen con instituciones u organismos con los que se relacionen
-en el ejercicio de sus objetivos y fines para lo cual fue autorizada.
+DE LA LAGUNA EL RINCON DEL MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE COMAYAGUA, se somete a las disposiciones legales y políticas establecidas por la Secretaría de Estado y los demás entes contralores del Estado, facilitando cuanto documento sea requerido para garantizar la transparencia de la administración, quedando obligada, además, a presentar informes periódicos anuales de las actividades que realicen con instituciones u organismos con los que se relacionen en el ejercicio de sus objetivos y fines para lo cual fue autorizada.
 QUINTO: La disolución y liquidación de la JUNTA
-ADMINISTRADORA DE AGUA POTABLE Y
-SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA
-EL RINCON DEL MUNICIPIO DE LA LIBERTAD,
-DEPARTAMENTO DE COMAYAGUA, se hará de conformidad
-a sus estatutos y las leyes vigentes en el país, de la que una vez
-canceladas las obligaciones contraídas, el excedente pasará a
-formar parte de una organización legalmente constituida en
-Honduras, que reúna objetivos similares o una de beneficencia.
-Dicho trámite se hará bajo la Supervisión de esta Secretaría de
-Estado, a efecto de garantizar el cumplimiento de las obligaciones
-y transparencia del remanente de los bienes a que hace referencia
-el párrafo primero de este mismo artículo.
-SEXTO: Los presentes Estatutos entrarán en vigencia luego de ser
-aprobados por el Poder Ejecutivo, publicados en el Diario Oficial
-LA GACETA, con las limitaciones establecidas en la Constitución
-de la República y las Leyes; sus reformas o modificaciones se
-someterán al mismo procedimiento de su aprobación.
-SÉPTIMO: La presente resolución deberá inscribirse en el
-Registro Especial del Instituto de la Propiedad de conformidad
-con el artículo 28 de la Ley de Propiedad.
-OCTAVO: Instruir a la Secretaría General para que de Oficio
-proceda a remitir el expediente a la Dirección de Regulación,
-Registro y Seguimiento de Asociaciones Civiles (DIRRSAC),
-para que emita la correspondiente inscripción.
-NOVENO: De oficio procédase a emitir la certificación
-de la presente resolución, a razón de ser entregada a la
-JUNTA ADMINISTRADORA DE AGUA POTABLE Y
-SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA
-EL RINCON DEL MUNICIPIO DE LA LIBERTAD,
-DEPARTAMENTO DE COMAYAGUA, cuya petición se
-hará a través de la Junta Directiva para ser proporcionado
-en forma gratuita, dando cumplimiento con el Artículo 18
-Párrafo segundo de la Ley Marco del Sector Agua Potable y
-Saneamiento. NOTIFÍQUESE. (F) RICARDO ALFREDO
-MONTES N ÁJERA, SUBSECRETARIO DE ESTADO EN
-EL DESPACHO DE JUSTICIA. (F) WALTER ENRIQUE
+ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA
+EL RINCON DEL MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE COMAYAGUA, se hará de conformidad a sus estatutos y las leyes vigentes en el país, de la que una vez canceladas las obligaciones contraídas, el excedente pasará a formar parte de una organización legalmente constituida en Honduras, que reúna objetivos similares o una de beneficencia.
+Dicho trámite se hará bajo la Supervisión de esta Secretaría de Estado, a efecto de garantizar el cumplimiento de las obligaciones y transparencia del remanente de los bienes a que hace referencia el párrafo primero de este mismo artículo.
+SEXTO: Los presentes Estatutos entrarán en vigencia luego de ser aprobados por el Poder Ejecutivo, publicados en el Diario Oficial
+LA GACETA, con las limitaciones establecidas en la Constitución de la República y las Leyes; sus reformas o modificaciones se someterán al mismo procedimiento de su aprobación.
+SÉPTIMO: La presente resolución deberá inscribirse en el Registro Especial del Instituto de la Propiedad de conformidad con el artículo 28 de la Ley de Propiedad.
+OCTAVO: Instruir a la Secretaría General para que de Oficio proceda a remitir el expediente a la Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles (DIRRSAC), para que emita la correspondiente inscripción.
+NOVENO: De oficio procédase a emitir la certificación de la presente resolución, a razón de ser entregada a la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LA LAGUNA
+EL RINCON DEL MUNICIPIO DE LA LIBERTAD, DEPARTAMENTO DE COMAYAGUA, cuya petición se hará a través de la Junta Directiva para ser proporcionado en forma gratuita, dando cumplimiento con el Artículo 18
+Párrafo segundo de la Ley Marco del Sector Agua Potable y Saneamiento. NOTIFÍQUESE. (F) RICARDO ALFREDO
+MONTES N ÁJERA, SUBSECRETARIO DE ESTADO EN EL DESPACHO DE JUSTICIA. (F) WALTER ENRIQUE
 PINEDA PAREDES, SECRETARIO GENERAL.
 Extendida en la ciudad de Tegucigalpa, municipio del Distrito
-Central a los diecinueve días del mes de junio de dos mil
-diecinueve.
+Central a los diecinueve días del mes de junio de dos mil diecinueve.
 WALTER ENRIQUE PINEDA PAREDES
 SECRETARIO GENERAL
 5 F. 2020.
@@ -2293,52 +1087,22 @@ SECRETARIO GENERAL
 Aviso de Licitación Pública Nacional
 REPÚBLICA DE HONDURAS
 LA ALCALDÍA MUNICIPAL DE SAN JUAN
-EL FONDO DE COOPERACIÓN PARA EL AGUA Y
-SANEAMIENTO (FCAS)
+EL FONDO DE COOPERACIÓN PARA EL AGUA Y SANEAMIENTO (FCAS)
 LA AGENCIA ESPAÑOLA DE COOPERACIÓN
 INTERNACIONAL PARA EL DESARROLLO (AECID)
-LA MANCOMUNIDAD DE MUNICIPIOS DEL SUR DEL
-DEPARTAMENTO DE LA PAZ (MAMSURPAZ)
+LA MANCOMUNIDAD DE MUNICIPIOS DEL SUR DEL DEPARTAMENTO DE LA PAZ (MAMSURPAZ)
 LPN-MAMSURPAZ/HND-015-B/01-2020
-1. La Mancomunidad de Municipios del Sur del Departamento
-de La Paz (MAMSURPAZ) y la Alcaldía Municipal de San Juan,
-departamento de La Paz, en el marco del proyecto “Incremento
-de la Cobertura de Agua y Saneamiento y Gestión Integrada de la
-Cuenca Baja y Media del Río Goascorán (HND-015-B)”, invita
-a las empresas interesadas en participar en la Licitación Pública
-Nacional No. LPN-MAMSURPAZ/HND-015-B/01-2020 a
-presentar ofertas selladas para la:
+1. La Mancomunidad de Municipios del Sur del Departamento de La Paz (MAMSURPAZ) y la Alcaldía Municipal de San Juan, departamento de La Paz, en el marco del proyecto “Incremento de la Cobertura de Agua y Saneamiento y Gestión Integrada de la Cuenca Baja y Media del Río Goascorán (HND-015-B)”, invita a las empresas interesadas en participar en la Licitación Pública
+Nacional No. LPN-MAMSURPAZ/HND-015-B/01-2020 a presentar ofertas selladas para la:
 - Adquisición de Camión Cisterna para Transporte de Agua a
-las Comunidades de Potrerillos, Ocotillos, El Quebrachal y El
-Salitre, Municipio de San Juan, La Paz.
-2. El financiamiento para la realización del presente proceso proviene
-de fondos de una Subvención de Cooperación Internacional
-otorgada por el Instituto de Crédito Oficial (ICO) del
-Gobierno de España, con cargo al Fondo de Cooperación
-para Agua y Saneamiento (en adelante denominado FCAS)
-de la Agencia Española de Cooperación Internacional para el
-Desarrollo (AECID) para llevar a cabo el proyecto HND-015-B
+las Comunidades de Potrerillos, Ocotillos, El Quebrachal y El Salitre, Municipio de San Juan, La Paz.
+2. El financiamiento para la realización del presente proceso proviene de fondos de una Subvención de Cooperación Internacional otorgada por el Instituto de Crédito Oficial (ICO) del Gobierno de España, con cargo al Fondo de Cooperación para Agua y Saneamiento (en adelante denominado FCAS) de la Agencia Española de Cooperación Internacional para el Desarrollo (AECID) para llevar a cabo el proyecto HND-015-B
 “Incremento a la Cobertura de Agua y Saneamiento y Gestión
 Integral de la Cuenca Media y Baja del Río Goascorán.”
-3. La licitación se efectuará conforme a los procedimientos de
-Licitación Pública Nacional (LPN) establecidos en la Ley de
-Contratación del Estado y su Reglamento.
-4. Los Documentos de Licitación están disponibles, de manera
-gratuita, tal y como establece el Convenio de Financiación, en las
-páginas siguientes: www.honducompras.gob.hn.
-5. Las ofertas deberán presentarse en la siguiente dirección: Oficina
-del Equipo de Gestión del Proyecto HND-015-B Sede de la
-Mancomunidad Mamsurpaz, Barrio el Centro, contiguo al
-Mercado Municipal, San Juan, La Paz, a más tardar a las 10:00
-A.M. del 6 de marzo de 2020. Las ofertas que se reciban fuera del
-plazo serán rechazadas. Las ofertas se abrirán en presencia de los
-representantes de los Oferentes que deseen asistir en la dirección
-indicada, en la misma fecha a las 10:20 A.M. Todas las ofertas
-deberán estar acompañadas de una Garantía de Mantenimiento
-de la Oferta por un monto equivalente al 2% del monto total de
-su oferta y con una vigencia de 180 días calendario, contados a
-partir de la fecha límite establecida para la recepción y apertura de
-las ofertas.
+3. La licitación se efectuará conforme a los procedimientos de Licitación Pública Nacional (LPN) establecidos en la Ley de Contratación del Estado y su Reglamento.
+4. Los Documentos de Licitación están disponibles, de manera gratuita, tal y como establece el Convenio de Financiación, en las páginas siguientes: www.honducompras.gob.hn.
+5. Las ofertas deberán presentarse en la siguiente dirección: Oficina del Equipo de Gestión del Proyecto HND-015-B Sede de la Mancomunidad Mamsurpaz, Barrio el Centro, contiguo al Mercado Municipal, San Juan, La Paz, a más tardar a las 10:00
+A.M. del 6 de marzo de 2020. Las ofertas que se reciban fuera del plazo serán rechazadas. Las ofertas se abrirán en presencia de los representantes de los Oferentes que deseen asistir en la dirección indicada, en la misma fecha a las 10:20 A.M. Todas las ofertas deberán estar acompañadas de una Garantía de Mantenimiento de la Oferta por un monto equivalente al 2% del monto total de su oferta y con una vigencia de 180 días calendario, contados a partir de la fecha límite establecida para la recepción y apertura de las ofertas.
 San Juan, La Paz, 4 de febrero de 2020
 Ramón Antonio Medina Hernández
 Presidente Junta Directiva
@@ -2346,13 +1110,10 @@ MAMSURPAZ
 5 F. 2020.
 INSTITUTO DE LA PROPIEDAD
 CERTIFICACIÓN
-El infrascrito, Registrador del Departamento Legal de la
-Oficina de Registro de la Propiedad Industrial, de la Dirección
+El infrascrito, Registrador del Departamento Legal de la Oficina de Registro de la Propiedad Industrial, de la Dirección
 General de Propiedad Intelectual, a petición de parte interesada
 CERTIFICA condensada de la Resolución que literalmente dice:
-RESOLUCION No. 574-2019 DIRECCIÓN GENERAL DE
-PROPIEDAD INTELECTUAL, OFICINA DE REGISTRO DE
-PROPIEDAD INDUSTRIAL, DEPARTAMENTO LEGAL.
+RESOLUCION No. 574-2019 DIRECCIÓN GENERAL DE PROPIEDAD INTELECTUAL, OFICINA DE REGISTRO DE PROPIEDAD INDUSTRIAL, DEPARTAMENTO LEGAL.
 Tegucigalpa, M.D.C., 12 de noviembre del año 2019. VISTA:
 (...); RESULTA PRIMERO: (...); RESULTA SEGUNDO:
 (...); RESULTA TERCERO: (...); RESULTA CUARTO:
@@ -2360,42 +1121,17 @@ Tegucigalpa, M.D.C., 12 de noviembre del año 2019. VISTA:
 CONSIDERANDO PRIMERO: (...); CONSIDERANDO
 SEGUNDO: (...) CONSIDERANDO TERCERO: (...);
 CONSIDERANDO CUARTO: (...); CONSIDERANDO
-QUINTO: (...); CONSIDERANDO SEXTO: (...); POR
-TANTO:
+QUINTO: (...); CONSIDERANDO SEXTO: (...); POR TANTO:
 RESUELVE:
-PRIMERO: Declarar SIN LUGAR el Recurso de Reposición
-con entrada No. 36877-19 interpuesto por la Abogada JENNY
-EVELIN COLINDRES UCLES actuando en su condición de
-Apoderada Legal de la Sociedad mercantil denominada INCAL,
-S.A. DE C.V., contra la Resolución No. 387-2019 de fecha 07
-de agosto de 2019, en la solicitud de acción de cancelación de
-una marca contra el registro N°.112282 de la marca de fábrica
-denominada “HORCALSA Y DISEÑO” en clase internacional
-(19) por lo siguiente: Que este Departamento Legal, al no aportar
-nuevos elementos que reconsidere dicha resolución, se determina
-declarar SIN LUGAR el Recurso de Reposición con entrada
+PRIMERO: Declarar SIN LUGAR el Recurso de Reposición con entrada No. 36877-19 interpuesto por la Abogada JENNY
+EVELIN COLINDRES UCLES actuando en su condición de Apoderada Legal de la Sociedad mercantil denominada INCAL, S.A. DE C.V., contra la Resolución No. 387-2019 de fecha 07 de agosto de 2019, en la solicitud de acción de cancelación de una marca contra el registro N°. 112282 de la marca de fábrica denominada “HORCALSA Y DISEÑO” en clase internacional
+(19) por lo siguiente: Que este Departamento Legal, al no aportar nuevos elementos que reconsidere dicha resolución, se determina declarar SIN LUGAR el Recurso de Reposición con entrada
 No. 36877-19, presentado por la abogada JENNY EVELIN
-COLINDRES UCLES en su condición arriba indicada, en virtud
-que no se demostró el uso de la marca tal y como lo establece el
-artículo 81 de la Ley de Propiedad Industrial.-
-SEGUNDO: Confirmar la Resolución No.387-2019 de fecha 07
-de agosto del año 2019. Si solicita certificación de esta resolución
-el interesado(a), deberá de cancelar la tasa correspondiente
-para extenderla.
-TERCERO: Una vez firme la presente Resolución, que se
-procédase por cuenta del interesado a efectuar el pago de la tasa
-correspondiente; así mismo publicará en el Diario Oficial La
-Gaceta y en un diario de mayor circulación del país, cumplido
-con estos requisitos procédase hacer las anotaciones marginales
-en la base de datos y en el libro correspondiente que al efecto
-lleva esta Oficina.- La presente resolución no pone fin a la vía
-administrativa, cabe contra la misma el Recurso de Apelación
-que deberá interponerse dentro de los tres días posteriores a la
-notificación ante Superintendencia de Recursos del Instituto de
-la Propiedad en los plazos establecidos en las respectiva Ley.-
+COLINDRES UCLES en su condición arriba indicada, en virtud que no se demostró el uso de la marca tal y como lo establece el artículo 81 de la Ley de Propiedad Industrial.-
+SEGUNDO: Confirmar la Resolución No. 387-2019 de fecha 07 de agosto del año 2019. Si solicita certificación de esta resolución el interesado(a), deberá de cancelar la tasa correspondiente para extenderla.
+TERCERO: Una vez firme la presente Resolución, que se procédase por cuenta del interesado a efectuar el pago de la tasa correspondiente; así mismo publicará en el Diario Oficial La Gaceta y en un diario de mayor circulación del país, cumplido con estos requisitos procédase hacer las anotaciones marginales en la base de datos y en el libro correspondiente que al efecto lleva esta Oficina.- La presente resolución no pone fin a la vía administrativa, cabe contra la misma el Recurso de Apelación que deberá interponerse dentro de los tres días posteriores a la notificación ante Superintendencia de Recursos del Instituto de la Propiedad en los plazos establecidos en las respectiva Ley.-
 NOTIFÍQUESE. -
-Se extiende la presente CERTIFICACIÓN en Tegucigalpa,
-M.D.C., el 23 de enero del año 2020.
+Se extiende la presente CERTIFICACIÓN en Tegucigalpa, M.D.C., el 23 de enero del año 2020.
 ABOGADO FIDEL ANTONIO MEDINA
 Registrador Legal
 5 F. 2020.
@@ -2403,65 +1139,34 @@ Registrador Legal
 
 SECRETARÍA DE DESARROLLO ECONÓMICO
 CERTIFICACIÓN
-El infrascrito, encargado de la Secretaría General de la
-Secretaría de Estado en el Despacho de Desarrollo Económico,
-CERTIFICA: La LICENCIA DE DISTRIBUIDOR NO
+El infrascrito, encargado de la Secretaría General de la Secretaría de Estado en el Despacho de Desarrollo Económico, CERTIFICA: La LICENCIA DE DISTRIBUIDOR NO
 EXCLUSIVO, otorgada mediante Resolución Número
 868-2019 de fecha 23 de diciembre del año 2019, mediante
-Carta de Autorización de fecha 04 de julio del año 2019,
-que LITERALMENTE DICE: La infrascrita, Secretaria
-de Estado en el Despacho de Desarrollo Económico, en
-cumplimiento con lo establecido en el Artículo 4 de la Ley
-de Representantes, Distribuidores y Agentes de Empresas
-Nacionales y Extranjeras, extiende la presente Licencia a la
-Sociedad Mercantil INVERSIONES Y EQUIPOS, S. DE
-R.L. DE C.V., como DISTRIBUIDOR NO EXCLUSIVO
-de la Empresa Concedente Laboratorium Dr. Deppe GmbH,
-de nacionalidad alemana; con jurisdicción en TODO EL
-TERRITORIO DE LA REPÚBLICA DE HONDURAS;
+Carta de Autorización de fecha 04 de julio del año 2019, que LITERALMENTE DICE: La infrascrita, Secretaria de Estado en el Despacho de Desarrollo Económico, en cumplimiento con lo establecido en el Artículo 4 de la Ley de Representantes, Distribuidores y Agentes de Empresas
+Nacionales y Extranjeras, extiende la presente Licencia a la Sociedad Mercantil INVERSIONES Y EQUIPOS, S. DE R.L. DE C.V., como DISTRIBUIDOR NO EXCLUSIVO de la Empresa Concedente Laboratorium Dr. Deppe GmbH, de nacionalidad alemana; con jurisdicción en TODO EL TERRITORIO DE LA REPÚBLICA DE HONDURAS;
 POR TIEMPO INDEFINIDO; F. y S. DAVID ANTONIO
-ALVARADO HERNÁNDEZ, Secretario de Estado en el
-Despacho de Desarrollo Económico, por Ley, Acuerdo
-No.118-2019. CESAR ANDRES VERDE ZUNIGA,
-Encargado de la Secretaría General, Acuerdo No. 114- 2019.
-Para los fines que al interesado convenga, se extiende la
-presente en la ciudad de Tegucigalpa, municipio del Distrito
-Central, a los dos días del mes de enero del año dos mil
-veinte.
+ALVARADO HERNÁNDEZ, Secretario de Estado en el Despacho de Desarrollo Económico, por Ley, Acuerdo
+No. 118-2019. CESAR ANDRES VERDE ZUNIGA, Encargado de la Secretaría General, Acuerdo No. 114-2019.
+Para los fines que al interesado convenga, se extiende la presente en la ciudad de Tegucigalpa, municipio del Distrito
+Central, a los dos días del mes de enero del año dos mil veinte.
 CESAR ANDRES VERDE ZUNIGA
 Encargado de la Secretaría General
 Acuerdo No. 114-2019
 5 F. 2020. __________
 SECRETARÍA DE DESARROLLO ECONÓMICO
 CERTIFICACIÓN
-El infrascrito, Encargado de la Secretaría General de
-la Secretaría de Estado en el Despacho de Desarrollo
-Económico, CERTIFICA: La LICENCIA DE
-DISTRIBUIDOR NO EXCLUSIVO, otorgada mediante
-Resolución Número 870- 2019 de fecha 23 de diciembre del
-año 2019, mediante Carta de Autorización del Fabricante,
-de fecha 10 de mayo del año 2019, que LITERALMENTE
-DICE: El infrascrito, Secretario de Estado en el Despacho de
-Desarrollo Económico, en cumplimiento con lo establecido
-en el Artículo 4 de la Ley de Representantes, Distribuidores
-y Agentes de Empresas Nacionales y Extranjeras, extiende la
-presente Licencia a la Sociedad - Mercantil INVERSIONES
+El infrascrito, Encargado de la Secretaría General de la Secretaría de Estado en el Despacho de Desarrollo
+Económico, CERTIFICA: La LICENCIA DE DISTRIBUIDOR NO EXCLUSIVO, otorgada mediante
+Resolución Número 870-2019 de fecha 23 de diciembre del año 2019, mediante Carta de Autorización del Fabricante, de fecha 10 de mayo del año 2019, que LITERALMENTE
+DICE: El infrascrito, Secretario de Estado en el Despacho de Desarrollo Económico, en cumplimiento con lo establecido en el Artículo 4 de la Ley de Representantes, Distribuidores y Agentes de Empresas Nacionales y Extranjeras, extiende la presente Licencia a la Sociedad - Mercantil INVERSIONES
 Y EQUIPOS, SOCIEDAD DE RESPONSABILIDAD
-LIMITADA DE CAPITAL VARIABLE (INEQ, S. DE
-R.L. DE C.V.), como DISTRIBUIDOR NO EXCLUSIVO
-de la Empresa Concedente TEKNO-MEDICAL OPTIK-
-CHIRURGIE GMBH, de nacionalidad alemana; con
-jurisdicción en TODO EL TERRITORIO DE LA
-REPUBLICA DE HONDURAS; POR TIEMPO
+LIMITADA DE CAPITAL VARIABLE (INEQ, S. DE R.L. DE C.V.), como DISTRIBUIDOR NO EXCLUSIVO de la Empresa Concedente TEKNO-MEDICAL OPTIK-
+CHIRURGIE GMBH, de nacionalidad alemana; con jurisdicción en TODO EL TERRITORIO DE LA REPUBLICA DE HONDURAS; POR TIEMPO
 INDEFINIDO; F. y S. DAVID ANTONIO ALVARADO
-HERNANDEZ, Secretaría de Estado en el Despacho de
-Desarrollo Económico, por Ley, Acuerdo No.118-2019.
-CESAR ANDRES VERDE ZUNIGA, Encargado de la
-Secretaría General Acuerdo No. 114-2019.
-Para los fines que al interesado convenga, se extiende la
-presente en la ciudad de Tegucigalpa, municipio del Distrito
-Central, a los siete días del mes de enero del año dos mil
-veinte.
+HERNANDEZ, Secretaría de Estado en el Despacho de Desarrollo Económico, por Ley, Acuerdo No. 118-2019.
+CESAR ANDRES VERDE ZUNIGA, Encargado de la Secretaría General Acuerdo No. 114-2019.
+Para los fines que al interesado convenga, se extiende la presente en la ciudad de Tegucigalpa, municipio del Distrito
+Central, a los siete días del mes de enero del año dos mil veinte.
 CESAR ANDRES VERDE ZUNIGA
 Encargado de la Secretaría General
 Acuerdo No. 114-2019
@@ -2491,11 +1196,7 @@ Registro de la Propiedad Industrial
 5, 20 F. y 6 M. 2020
 __________
 __________
-LA EMPRESA NACIONAL DE ARTES GRÁFICAS
-no es responsable del contenido de
-las publicaciones, en todos los casos la
-misma es fiel con el original que
-recibimos para el propósito
+LA EMPRESA NACIONAL DE ARTES GRÁFICAS no es responsable del contenido de las publicaciones, en todos los casos la misma es fiel con el original que recibimos para el propósito
 8
 
 Marcas de Fábrica
@@ -2516,8 +1217,7 @@ Producto medicinal.
 D.- APODERADO LEGAL
 [9] Nombre: Sergio Daniel Elvir Amaya
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley
-de Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 3 de diciembre del año 2019.
 [12] Reservas: No tiene reservas.
 Abogado Franklin Omar López Santos
@@ -2541,8 +1241,7 @@ Producto medicinal.
 D.- APODERADO LEGAL
 [9] Nombre: Sergio Daniel Elvir Amaya
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley
-de Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 3 de diciembre del año 2019.
 [12] Reservas: No tiene reservas.
 Abogada Noemí Elizabeth Lagos Valeriano
@@ -2566,8 +1265,7 @@ Producto medicinal.
 D.- APODERADO LEGAL
 [9] Nombre: Sergio Daniel Elvir Amaya
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley
-de Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 3 de diciembre del año 2019.
 [12] Reservas: No tiene reservas.
 Abogada Noemí Elizabeth Lagos Valeriano
@@ -2591,8 +1289,7 @@ Producto medicinal.
 D.- APODERADO LEGAL
 [9] Nombre: Sergio Daniel Elvir Amaya
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley
-de Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 3 de diciembre del año 2019.
 [12] Reservas: No tiene reservas.
 Abogado Franklin Omar López Santos
@@ -2616,8 +1313,7 @@ Producto medicinal.
 D.- APODERADO LEGAL
 [9] Nombre: Sergio Daniel Elvir Amaya
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley
-de Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 3 de diciembre del año 2019.
 [12] Reservas: No tiene reservas.
 Abogado Franklin Omar López Santos
@@ -2642,8 +1338,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 32
 8/ Protege y distingue:
-Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes y otras
-preparaciones para hacer bebidas.
+Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes y otras preparaciones para hacer bebidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: JOSE DOLORES TIJERINO SALINAS.
@@ -2675,8 +1370,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 32
 8/ Protege y distingue:
-Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes y otras
-preparaciones para hacer bebidas.
+Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes y otras preparaciones para hacer bebidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: JOSÉ DOLORES TIJERINO SALINAS.
@@ -2710,8 +1404,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 7/ Clase Internacional: 32
 GLORIA PRO
 8/ Protege y distingue:
-Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes y otras
-preparaciones para hacer bebidas.
+Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes y otras preparaciones para hacer bebidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: JOSÉ DOLORES TIJERINO SALINAS.
@@ -2743,8 +1436,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 05
 8/ Protege y distingue:
-Productos farmacéuticos y veterinarios; productos higiénicos para la medicina, sustancias dietéticas para uso médico,
-alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
+Productos farmacéuticos y veterinarios; productos higiénicos para la medicina, sustancias dietéticas para uso médico, alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
 desinfectantes; productos para la destrucción de animales dañinos; fungicidas, herbicidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
@@ -2778,8 +1470,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 05
 8/ Protege y distingue:
-Productos farmacéuticos y veterinarios; productos higiénicos para la medicina, sustancias dietéticas para uso médico,
-alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
+Productos farmacéuticos y veterinarios; productos higiénicos para la medicina, sustancias dietéticas para uso médico, alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
 desinfectantes; productos para la destrucción de animales dañinos; fungicidas, herbicidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
@@ -2813,8 +1504,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 32
 8/ Protege y distingue:
-Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes y otras
-preparaciones para hacer bebidas.
+Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes y otras preparaciones para hacer bebidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: JOSE DOLORES TIJERINO SALINAS.
@@ -2846,8 +1536,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 05
 8/ Protege y distingue:
-Productos farmacéuticos y veterinarios; productos higiénicos para la medicina, sustancias dietéticas para uso médico,
-alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
+Productos farmacéuticos y veterinarios; productos higiénicos para la medicina, sustancias dietéticas para uso médico, alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
 desinfectantes; productos para la destrucción de animales dañinos; fungicidas, herbicidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
@@ -2882,8 +1571,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 7/ Clase Internacional: 32
 GLORIA YOFRESH DURAZNO
 8/ Protege y distingue:
-Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes y otras
-preparaciones para hacer bebidas.
+Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes y otras preparaciones para hacer bebidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: JOSE DOLORES TIJERINO SALINAS.
@@ -2915,8 +1603,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 05
 8/ Protege y distingue:
-Productos farmacéuticos y veterinarios; productos higiénicos para la medicina, sustancias dietéticas para uso médico,
-alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
+Productos farmacéuticos y veterinarios; productos higiénicos para la medicina, sustancias dietéticas para uso médico, alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
 desinfectantes; productos para la destrucción de animales dañinos; fungicidas, herbicidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
@@ -2951,10 +1638,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 7/ Clase Internacional: 07
 8/ Protege y distingue:
 Máquinas herramientas; motores (excepto motores para vehículos terrestres); acoplamientos y elmentos de transmisión
-(excepto para vehículos terrestres, instrumentos agrícolas que no sean accionados manualmente; incubadoras de huevos
-y aves; distribuidores automáticos; generadores; transportadores; equipo para mover y desplazar mercancías; cintas
-transportadoras; transportadores neumáticos; máquinas de elevación para manipular cargamentos; transmisiones de
-máquinas; transmisiones hidráulicas para máquinas y motores; motores hidráulicos; turbocargadores para máquinas;
+(excepto para vehículos terrestres, instrumentos agrícolas que no sean accionados manualmente; incubadoras de huevos y aves; distribuidores automáticos; generadores; transportadores; equipo para mover y desplazar mercancías; cintas transportadoras; transportadores neumáticos; máquinas de elevación para manipular cargamentos; transmisiones de máquinas; transmisiones hidráulicas para máquinas y motores; motores hidráulicos; turbocargadores para máquinas;
 bombas; compresores.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
@@ -2976,8 +1660,7 @@ Registrador(a) de la Propiedad Industrial
 3/ Solicitud de registro de: MARCA DE SERVICIO
 A.- TITULAR
 4/ Solicitante: PINION GLOBAL, S.A.P.I. DE C.V.
-4.1/ Domicilio: Av. FUENTES DE SATELITE No. Ext. 116, COL. SANTA CRUZ DEL MONTE, NAUCALPAN DE
-JUAREZ, ESTADO DE MÉXICO. C.P. 53110
+4.1/ Domicilio: Av. FUENTES DE SATELITE No. Ext. 116, COL. SANTA CRUZ DEL MONTE, NAUCALPAN DE JUAREZ, ESTADO DE MÉXICO. C.P. 53110
 4.2/ Organizada bajo las Leyes de: México
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -3011,8 +1694,7 @@ ________
 3/ Solicitud de registro de: MARCA DE FABRICA
 A.- TITULAR
 4/ Solicitante: BRANDMASTER, SOCIEDAD ANÓNIMA
-4.1/ Domicilio: Avenida Las Américas 18-81 zona 14, edificio Columbus Center, 10o nivel, oficina 1003, Ciudad de
-Guatemala, Departamento de Guatemala, República de Guatemala.
+4.1/ Domicilio: Avenida Las Américas 18-81 zona 14, edificio Columbus Center, 10o nivel, oficina 1003, Ciudad de Guatemala, Departamento de Guatemala, República de Guatemala.
 4.2/ Organizada bajo las Leyes de:
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -3046,8 +1728,7 @@ ________
 3/ Solicitud de registro de: MARCA DE SERVICIO
 A.- TITULAR
 4/ Solicitante: EDITORIAL SANTILLANA, S.A.
-4.1/ Domicilio: EDIFICIO METROPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE TEGUCIGALPA,
-Honduras.
+4.1/ Domicilio: EDIFICIO METROPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE TEGUCIGALPA, Honduras.
 4.2/ Organizada bajo las Leyes de:
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -3094,8 +1775,7 @@ Tipo de Signo:
 Se reivindican los colores contenidos en el diseño en su conjunto.
 7/ Clase Internacional: 01
 8/ Protege y distingue:
-Productos químicos para uso en la agricultura, horticultura y silvicultura; abono para el suelo; fertilizantes y productos
-fertilizantes.
+Productos químicos para uso en la agricultura, horticultura y silvicultura; abono para el suelo; fertilizantes y productos fertilizantes.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: JOSE ROBERTO TIJERINO INESTROZA
@@ -3128,8 +1808,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 Se reivindican los colores contenidos en el diseño en su conjunto.
 7/ Clase Internacional: 01
 8/ Protege y distingue:
-Productos químicos para uso en la agricultura, horticultura y silvicultura; abono para el suelo; fertilizantes y productos
-fertilizantes.
+Productos químicos para uso en la agricultura, horticultura y silvicultura; abono para el suelo; fertilizantes y productos fertilizantes.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: JOSE ROBERTO TIJERINO INESTROZA
@@ -3162,8 +1841,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 05
 8/ Protege y distingue:
-Productos farmacéuticos y veterinarios; productos higiénicos para la medicina, sustancias dietéticas para uso médico,
-alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
+Productos farmacéuticos y veterinarios; productos higiénicos para la medicina, sustancias dietéticas para uso médico, alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
 desinfectantes; productos para la destrucción de animales dañinos; fungicidas, herbicidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
@@ -3197,8 +1875,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 32
 8/ Protege y distingue:
-Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumo de frutas; siropes y otras
-preparaciones para hacer bebidas.
+Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumo de frutas; siropes y otras preparaciones para hacer bebidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: JOSE DOLORES TIJERINO SALINAS.
@@ -3231,8 +1908,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 31
 8/ Protege y distingue:
-Productos agrícolas, hortícolas, forestales y granos, no comprendidos en otras clases; animales vivos; frutas y legumbres
-frescas; semillas, plantas y flores naturales; alimentos para los animales; malta.
+Productos agrícolas, hortícolas, forestales y granos, no comprendidos en otras clases; animales vivos; frutas y legumbres frescas; semillas, plantas y flores naturales; alimentos para los animales; malta.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: JOSE DOLORES TIJERINO SALINAS.
@@ -3265,9 +1941,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 12
 8/ Protege y distingue:
-Neumáticos para automóvil, cubiertas de neumáticos para vehículos, cubiertas para neumáticos, neumáticos, bandajes
-macizos para ruedas de vehículos, cámaras de aire para neumáticos de bicicleta, cámaras de aire para neumáticos; clavos
-para neumáticos; bandas de rodadura para recauchar nemáticos; equipos para reparar cámaras de aire.
+Neumáticos para automóvil, cubiertas de neumáticos para vehículos, cubiertas para neumáticos, neumáticos, bandajes macizos para ruedas de vehículos, cámaras de aire para neumáticos de bicicleta, cámaras de aire para neumáticos; clavos para neumáticos; bandas de rodadura para recauchar nemáticos; equipos para reparar cámaras de aire.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: JOSE DOLORES TIJERINO SALINAS.
@@ -3299,8 +1973,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 31
 8/ Protege y distingue:
-Productos agrícolas, hortícolas, forestales y granos, no comprendidos en otras clases; animales vivos; frutas y legumbres
-frescas, semillas, plantas y flores naturales; alimentos para los animales; malta.
+Productos agrícolas, hortícolas, forestales y granos, no comprendidos en otras clases; animales vivos; frutas y legumbres frescas, semillas, plantas y flores naturales; alimentos para los animales; malta.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: JOSE DOLORES TIJERINO SALINAS.
@@ -3359,28 +2032,13 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 [6] Denominación y [6.1] Distintivo: ABLOY Y ETIQUETA
 [7] Clase Internacional: 9
 [8] Protege y distingue:
-Software y aplicaciones informáticas para dispositivos y aparatos de
-bloqueo, dispositivos y aparatos de seguridad, protección y señalización y
-dispositivos y aparatos de apertura y cierre de puertas; dispositivos y aparatos
-eléctricos y electrónicos de seguridad, protección y señalización; cerraduras
-eléctricas, electrónicas, electromecánicas y magnéticas y aparatos de control
-y decodificación para cerraduras; dispositivos y aparatos de cierre eléctricos,
-electrónicos y electromecánicos; dispositivos y aparatos para cilindros para
-cerraduras eléctricos, electrónicos y electromecánicos; aparatos de identificación
-eléctricos, electrónicos u ópticos, lectores de tarjetas y equipos de identificación y
-sus cartas; llaves electrónicas o magnéticas; tarjetas de control de acceso, tarjetas
-de acceso, tarjetas inteligentes y sus lectores; sistemas de control y vigilancia, a
-saber, sistemas de control de acceso, alarmas contra robo y sistemas de vídeo,
-vigilancia, sistemas y aparatos de bloqueo eléctricos y electrónicos, sistemas de
-automatización de puertas, control de acceso y sistemas de seguimiento temporal,
-sistemas y aparatos de seguridad eléctricos y electrónicos.
+Software y aplicaciones informáticas para dispositivos y aparatos de bloqueo, dispositivos y aparatos de seguridad, protección y señalización y dispositivos y aparatos de apertura y cierre de puertas; dispositivos y aparatos eléctricos y electrónicos de seguridad, protección y señalización; cerraduras eléctricas, electrónicas, electromecánicas y magnéticas y aparatos de control y decodificación para cerraduras; dispositivos y aparatos de cierre eléctricos, electrónicos y electromecánicos; dispositivos y aparatos para cilindros para cerraduras eléctricos, electrónicos y electromecánicos; aparatos de identificación eléctricos, electrónicos u ópticos, lectores de tarjetas y equipos de identificación y sus cartas; llaves electrónicas o magnéticas; tarjetas de control de acceso, tarjetas de acceso, tarjetas inteligentes y sus lectores; sistemas de control y vigilancia, a saber, sistemas de control de acceso, alarmas contra robo y sistemas de vídeo, vigilancia, sistemas y aparatos de bloqueo eléctricos y electrónicos, sistemas de automatización de puertas, control de acceso y sistemas de seguimiento temporal, sistemas y aparatos de seguridad eléctricos y electrónicos.
 1/ Solicitud: 45156-19
 2/ Fecha de presentación: 01/noviembre/19
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/ Solicitante: FOREST STEWARDSHIP COUNCIL, ASOCIACION CIVIL
-4.1/ Domicilio: Calle Margarita Maza de Juárez 422, Col. Centro, 68000 Oaxaca,
-Oxaca México, MÉXICO
+4.1/ Domicilio: Calle Margarita Maza de Juárez 422, Col. Centro, 68000 Oaxaca, Oxaca México, MÉXICO
 4.2/ Organizada bajo las Leyes de: MÉXICO
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -3393,24 +2051,8 @@ Tipo de Signo: Mixta
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 20
 8/ Protege y distingue:
-Muebles y productos hechos de madera tales como anaqueles, estantes,
-guarniciones, perfiles, puertas y partes de muebles, aparadores, casilleros
-y anaqueles para casilleros, archiveros, armarios, armazones de cama de
-madera, asientos, bancos, biombos, botelleros (muebles), botiquines (armarios
-para medicinas), caballetes (muebles), cabeceras (muebles), cajas de madera,
-cajones, camas y armazones de cama, camas de hospital, canapés (sillones),
-carritos (muebles), carritos de servicio, carritos de té, casilleros, corrales de
-bebés, cortinas de bambú, cubos, divanes, productos de ebanistería, escritorios,
-estanterías, estanterías de biblioteca, estantes de almacenamiento, expositores
-(muebles), ficheros (muebles), jardineras (muebles), entrepaños de madera para
-muebles, marcos, mesas, mesas con ruedas para computadoras, mesas de dibujo,
-mesas de masaje, mesas de mecanografía, mesas de servicio, mesas de tocador,
-mesas de centro, mesitas auxiliares, piezas de mobiliario, paragueros, perchas
-para prendas de vestir, persianas de interior para ventanas (muebles), persianas
-de laminillas para interiores, persianas de madera tejida (muebles), persianas de
-papel, persianas de ventanas para interior en materias textiles, piezas de muebles,
-puertas de muebles, pupitres, revisteros, secreteres, sillas (asientos), sillones,
-sofás, toalleros (muebles), mesas de tocador, tocadores (muebles).
+Muebles y productos hechos de madera tales como anaqueles, estantes, guarniciones, perfiles, puertas y partes de muebles, aparadores, casilleros y anaqueles para casilleros, archiveros, armarios, armazones de cama de madera, asientos, bancos, biombos, botelleros (muebles), botiquines (armarios para medicinas), caballetes (muebles), cabeceras (muebles), cajas de madera, cajones, camas y armazones de cama, camas de hospital, canapés (sillones), carritos (muebles), carritos de servicio, carritos de té, casilleros, corrales de bebés, cortinas de bambú, cubos, divanes, productos de ebanistería, escritorios, estanterías, estanterías de biblioteca, estantes de almacenamiento, expositores
+(muebles), ficheros (muebles), jardineras (muebles), entrepaños de madera para muebles, marcos, mesas, mesas con ruedas para computadoras, mesas de dibujo, mesas de masaje, mesas de mecanografía, mesas de servicio, mesas de tocador, mesas de centro, mesitas auxiliares, piezas de mobiliario, paragueros, perchas para prendas de vestir, persianas de interior para ventanas (muebles), persianas de laminillas para interiores, persianas de madera tejida (muebles), persianas de papel, persianas de ventanas para interior en materias textiles, piezas de muebles, puertas de muebles, pupitres, revisteros, secreteres, sillas (asientos), sillones, sofás, toalleros (muebles), mesas de tocador, tocadores (muebles).
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: RICARDO ANIBAL MEJÍA M.
@@ -3430,8 +2072,7 @@ USO EXCLUSIVO DE LA OFICINA
 Lo que se pone en conocimiento público para efectos de ley correspondiente.
 Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 12 de diciembre del año 2019
-[12] Reservas: Se reivindican los tonos de color Azul y Blanco que se muestran
-en la etiqueta acompañada.
+[12] Reservas: Se reivindican los tonos de color Azul y Blanco que se muestran en la etiqueta acompañada.
 Abogado FIDEL ANTONIO MEDINA
 Registrador(a) de la Propiedad Industrial
 21 E., 5 y 20 F. 2020.
@@ -3452,14 +2093,9 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 [7] Clase Internacional: 14
 [8] Protege y distingue:
 Metales preciosos y sus aleaciones; joyería; piedras preciosas y semipreciosas;
-pegar joyas; joyas de metales preciosos, piedras preciosas, perlas, piedras
-preciosas o semipreciosas; estrás; joyería de metales preciosos, piedras preciosas,
-perlas, piedras preciosas o semipreciosas naturales o artificiales e imitaciones
-de las mismas; gemelos (joyería); alfileres de adorno; estuche para joyería;
-encantos para llaveros; portallaves; llaveros; broches para joyería; cajas de
-joyería;alfileres de corbata; clips de corbata; joyas colgantes; baratijas [joyería];
-adornos [joyerías]; joyería de calzado; joyerías para mascotas; llaveros como
-joyería [baratijas o llaveros]; adornos de vestidos y bolsos en forma de joyería;
+pegar joyas; joyas de metales preciosos, piedras preciosas, perlas, piedras preciosas o semipreciosas; estrás; joyería de metales preciosos, piedras preciosas, perlas, piedras preciosas o semipreciosas naturales o artificiales e imitaciones de las mismas; gemelos (joyería); alfileres de adorno; estuche para joyería;
+encantos para llaveros; portallaves; llaveros; broches para joyería; cajas de joyería;alfileres de corbata; clips de corbata; joyas colgantes; baratijas [joyería];
+adornos [joyerías]; joyería de calzado; joyerías para mascotas; llaveros como joyería [baratijas o llaveros]; adornos de vestidos y bolsos en forma de joyería;
 artículos decorativos [baratijas o joyería] para uso personal.
 D.- APODERADO LEGAL
 [9] Nombre: RICARDO ANIBAL MEJÍA M.
@@ -3477,8 +2113,7 @@ ________
 [3] Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 [4] Solicitante: PROMOCIONES GATO S.A.S
-[4.1] Domicilio: Carrera 22 No. 16 AA Sur 150, Casa 118, Medellín, Antioquia,
-Colombia
+[4.1] Domicilio: Carrera 22 No. 16 AA Sur 150, Casa 118, Medellín, Antioquia, Colombia
 [4.2] Organizada bajo las Leyes de: COLOMBIA
 B.- REGISTRO EXTRANJERO
 [5] Registro Básico: NO TIENE OTROS REGISTROS
@@ -3488,11 +2123,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 [8] Protege y distingue:
 Metales comunes y sus aleaciones; materiales de contrucción metálicos;
 construcciones transportables metálicas; materiales metálicos para vías férreas;
-cables e hilos metálicos no eléctricos; artículos de cerrajería y ferretería metálicos
-incluyendo cerraduras, chapas, picaportes, pestillos (metal) que sean accesorios
-para puertas; accesorios metálicos para puertas; accesorios de seguridad de metal
-para puertas; accesorios de metal para ventanas de cristal; bisagras para puertas
-y ventanas (metálicas), cajas fuertes metálicas (cajas de dinero en efectivo);
+cables e hilos metálicos no eléctricos; artículos de cerrajería y ferretería metálicos incluyendo cerraduras, chapas, picaportes, pestillos (metal) que sean accesorios para puertas; accesorios metálicos para puertas; accesorios de seguridad de metal para puertas; accesorios de metal para ventanas de cristal; bisagras para puertas y ventanas (metálicas), cajas fuertes metálicas (cajas de dinero en efectivo);
 candados de metal; llaves metálicas para cerraduras; timbres de puerta metálicos
 1/ Solicitud: 48330-19
 2/ Fecha de presentación: 25/noviembre/19
@@ -3513,23 +2144,8 @@ Tipo de Signo: Nominativa
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 3
 8/ Protege y distingue:
-Cosméticos, productos de cuidado personal, a saber, colonia, fragancias, gotas de
-baño, hojuelas de baño, aceite de baño, geles de baño, sales de baño, espuma de
-baño, preparaciones para el cuidado de la piel no medicadas en forma de rocío
-corporal, aceite corporal, loción corporal, exfoliante corporal, jabón corporal,
-jabón de baño corporal, spray corporal, baño de burbujas, crema corporal, crema
-facial, jabón facial, cremas para la piel, jabón para la piel, aceites esenciales
-para uso personal, aceites aromáticos, aceites perfumados, baños de inmersión
-para el pie no medicados, lociones perfumadas para el cuerpo, rocío corporal
-perfumado, lociones de manos, loción de cara, bálsamo de labios, brillo labial,
-champús, acondicionador para el cabello, geles para el cabello, aceites para el
-cabello, crema para masaje, loción para masaje, aceite para masaje, esmalte de
-uñas, polvo corporal, crema para la ducha, gel para la ducha, jabón de manos,
-preparaciones desinfectantes de manos, limpiadores de piel no medicados;
-popurrí, incienso, bolsitas; fragancias de interiores; dispensadores de fragancias
-de interiores; repuestos de fragancia de interiores para dispensadores de fragancia
-de interiores no eléctricos; mascarillas de gel para ojos; difusores carrizos para
-fragancia de aire; almohadillas para ojos con fragancias.
+Cosméticos, productos de cuidado personal, a saber, colonia, fragancias, gotas de baño, hojuelas de baño, aceite de baño, geles de baño, sales de baño, espuma de baño, preparaciones para el cuidado de la piel no medicadas en forma de rocío corporal, aceite corporal, loción corporal, exfoliante corporal, jabón corporal, jabón de baño corporal, spray corporal, baño de burbujas, crema corporal, crema facial, jabón facial, cremas para la piel, jabón para la piel, aceites esenciales para uso personal, aceites aromáticos, aceites perfumados, baños de inmersión para el pie no medicados, lociones perfumadas para el cuerpo, rocío corporal perfumado, lociones de manos, loción de cara, bálsamo de labios, brillo labial, champús, acondicionador para el cabello, geles para el cabello, aceites para el cabello, crema para masaje, loción para masaje, aceite para masaje, esmalte de uñas, polvo corporal, crema para la ducha, gel para la ducha, jabón de manos, preparaciones desinfectantes de manos, limpiadores de piel no medicados;
+popurrí, incienso, bolsitas; fragancias de interiores; dispensadores de fragancias de interiores; repuestos de fragancia de interiores para dispensadores de fragancia de interiores no eléctricos; mascarillas de gel para ojos; difusores carrizos para fragancia de aire; almohadillas para ojos con fragancias.
 D.- APODERADO LEGAL
 9/ Nombre: RICARDO ANIBAL MEJÍA M.
 USO EXCLUSIVO DE LA OFICINA
@@ -3540,12 +2156,7 @@ Artículo 88 de la Ley de Propiedad Industrial.
 Abogado FRANKLIN OMAR LOPEZ SANTOS
 Registro de la Propiedad Industrial
 21 E., 5 y 20 F. 2020.
-CASALUNA
-no eléctricos; cerraduras con cilindros de metal; cerraduras metálicas; cerraduras
-para puertas; cerrojos para cerraduras de metal; cerraduras para puertas, muebles
-y vitrinas; topes de puerta de metal; topes metálicos para ventanas, topes metálicos
-para puertas, fallebas metálicas; manijas metálicas para puertas y ventanas,
-racores metálicos para tubos; herramientas de soldadura; cajas de caudales;
+CASALUNA no eléctricos; cerraduras con cilindros de metal; cerraduras metálicas; cerraduras para puertas; cerrojos para cerraduras de metal; cerraduras para puertas, muebles y vitrinas; topes de puerta de metal; topes metálicos para ventanas, topes metálicos para puertas, fallebas metálicas; manijas metálicas para puertas y ventanas, racores metálicos para tubos; herramientas de soldadura; cajas de caudales;
 productos metálicos no comprendidos en otras clases; minerales metalíferos.
 D.- APODERADO LEGAL
 [9] Nombre: RICARDO ANIBAL MEJÍA M.
@@ -3553,8 +2164,7 @@ USO EXCLUSIVO DE LA OFICINA
 Lo que se pone en conocimiento público para efectos de ley correspondiente.
 Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 5 de diciembre del año 2019
-[12] Reservas: Se reivindica el tono color Azul que aparece en el ejemplar
-adjunto. Sociedad organizada bajo las leyes de Colombia.
+[12] Reservas: Se reivindica el tono color Azul que aparece en el ejemplar adjunto. Sociedad organizada bajo las leyes de Colombia.
 Abogada NOEMI ELIZABETH LAGOS VALERIANO
 Registrador(a) de la Propiedad Industrial
 21 E., 5 y 20 F. 2020.
@@ -3574,25 +2184,17 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 [6] Denominación y [6.1] Distintivo: IDEACE DURALOCK Y DISEÑO
 [7] Clase Internacional: 6
 [8] Protege y distingue:
-Metales comunes y sus aleacciones; materiales de construcción metálicos; construcciones transportables
-metálicas; materiales metálicos para vías férreas; cables e hilos metálicos no elécticos; artículos de
-cerrajería y ferretería metálicos incluyendo cerraduras, chapas, picaportes, pestillos (metal) que sean
-accesorios para puertas; accesorios metálicos para puertas; accesorios de seguridad de metal para
-puertas; accesorios de metal para ventanas de cristal; bisagras para puertas y ventanas (metálicas), cajas
-fuertes metálicas (cajas de dinero en efectivo); candados de metal; llaves metálicas para cerraduras;
+Metales comunes y sus aleacciones; materiales de construcción metálicos; construcciones transportables metálicas; materiales metálicos para vías férreas; cables e hilos metálicos no elécticos; artículos de cerrajería y ferretería metálicos incluyendo cerraduras, chapas, picaportes, pestillos (metal) que sean accesorios para puertas; accesorios metálicos para puertas; accesorios de seguridad de metal para puertas; accesorios de metal para ventanas de cristal; bisagras para puertas y ventanas (metálicas), cajas fuertes metálicas (cajas de dinero en efectivo); candados de metal; llaves metálicas para cerraduras;
 tiembres de puerta metálicos no eléctricos; cerraduras con cilindros de metal; cerraduras metálicas;
 cerraduras para puertas; cerrojos para cerraduras de metal; cerraduras para puertas; muebles y vitrinas;
-topes de puerta de metal; topes metálicos para ventanas, topes metálicos para puertas, fallebas metálicas,
-manijas metálicas para puertas y ventanas, racores metálicos para tubos; herramientas de soldadura;
+topes de puerta de metal; topes metálicos para ventanas, topes metálicos para puertas, fallebas metálicas, manijas metálicas para puertas y ventanas, racores metálicos para tubos; herramientas de soldadura;
 cajas de caudales; productos metálicos no comprendidos en otras clases; minerales metalíferos.
 D.- APODERADO LEGAL
 [9] Nombre: RICARDO ANIBAL MEJÍA M.
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 4 de diciembre del año 2019
-[12] Reservas: Se reivindica el tono color Azul que aparece en el ejemplar adjunto. Sociedad organizada
-bajo las leyes de Colombia.
+[12] Reservas: Se reivindica el tono color Azul que aparece en el ejemplar adjunto. Sociedad organizada bajo las leyes de Colombia.
 Abogada NOEMI ELIZABETH LAGOS VALERIANO
 Registrador(a) de la Propiedad Industrial
 21 E., 5 y 20 F. 2020.
@@ -3622,8 +2224,7 @@ D.- APODERADO LEGAL
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 11/ Fecha de emisión: 04-12-2019
 12/ Reservas:
 Abogado FRANKLIN OMAR LOPEZ SANTOS
@@ -3656,8 +2257,7 @@ D.- APODERADO LEGAL
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 11/ Fecha de emisión: 09-12-2019
 12/ Reservas:
 Abogada MARTHA MARITZA ZAMORA ULLOA
@@ -3691,8 +2291,7 @@ D.- APODERADO LEGAL
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 11/ Fecha de emisión: 03-12-2019
 12/ Reservas:
 Abogada MARTHA MARITZA ZAMORA ULLOA
@@ -3791,8 +2390,7 @@ Tipo de Signo: Nominativa
 THE UNITY OF SCIENCE
 & STYLING
 8/ Protege y distingue:
-Máquinas para cortar el pelo eléctricas y de baterías, recortadores de vello eléctricos y de baterías, planchas eléctricas
-para peinar el cabello.
+Máquinas para cortar el pelo eléctricas y de baterías, recortadores de vello eléctricos y de baterías, planchas eléctricas para peinar el cabello.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: RICARDO ANIBAL MEJÍA M.
@@ -3860,11 +2458,7 @@ Tipo de Signo: Mixta
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 35
 8/ Protege y distingue:
-Publicidad; auditoría empresarial; servicios de gestión y administración en el ámbito de administración forestal,
-gestión forestal, silvicultura, la industria de la madera y fabricación de productos hechos de madera; diseño de material
-publicitario; diseño de panfletos publicitarios; diseño de logotipos publicitarios; diseños de folletos publicitarios en el
-ámbito de administración forestal, gestión forestal, silvicultura, la industria de la madera y fabricación de productos
-hechos de madera.
+Publicidad; auditoría empresarial; servicios de gestión y administración en el ámbito de administración forestal, gestión forestal, silvicultura, la industria de la madera y fabricación de productos hechos de madera; diseño de material publicitario; diseño de panfletos publicitarios; diseño de logotipos publicitarios; diseños de folletos publicitarios en el ámbito de administración forestal, gestión forestal, silvicultura, la industria de la madera y fabricación de productos hechos de madera.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: RICARDO ANIBAL MEJÍA M.
@@ -3932,12 +2526,10 @@ Tipo de Signo: Nominativa
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 29
 8/ Protege y distingue:
-Frituras de papa; hojuelas de papa; cacahuates preparados, papas fritas, nueces preparadas, semillas preparadas, habas
-preparadas, garbanzos preparados y pistaches preparados; cacahuates procesados; cacahuates salados procesados;
+Frituras de papa; hojuelas de papa; cacahuates preparados, papas fritas, nueces preparadas, semillas preparadas, habas preparadas, garbanzos preparados y pistaches preparados; cacahuates procesados; cacahuates salados procesados;
 avellanas procesadas; nueces saladas procesadas; nueces de la india procesadas; macadamias saladas procesadas;
 pistaches salados procesados; pasas saladas procesadas; ciruelas saladas procesadas; almendras saladas procesadas;
-almendra procesadas; frutas deshidratadas; semillas preparadas; semillas de girasol procesadas; semillas de calabaza
-procesadas; pepitas procesadas; nuez de la india procesada.
+almendra procesadas; frutas deshidratadas; semillas preparadas; semillas de girasol procesadas; semillas de calabaza procesadas; pepitas procesadas; nuez de la india procesada.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: RICARDO ANIBAL MEJÍA M.
@@ -3971,9 +2563,7 @@ Tipo de Signo: Mixta
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 3
 8/ Protege y distingue:
-Preparaciones para blanquear y otras sustancias para lavar la ropa; preparaciones para limpiar, pulir, desengrasar y
-raspar; jabones; productos de perfumería, aceites esenciales, cosméticos, lociones capilares; dentífricos; champú para
-automóviles; ambientadores de aire; limpiadores de tapicería; limpiadores de cristal.
+Preparaciones para blanquear y otras sustancias para lavar la ropa; preparaciones para limpiar, pulir, desengrasar y raspar; jabones; productos de perfumería, aceites esenciales, cosméticos, lociones capilares; dentífricos; champú para automóviles; ambientadores de aire; limpiadores de tapicería; limpiadores de cristal.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: RICARDO ANIBAL MEJÍA M.
@@ -4006,10 +2596,7 @@ Tipo de Signo: Nominativa
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 7
 8/ Protege y distingue:
-Máquinas y máquinas herramientas; motores (excepto motores para vehículos terrestres); acoplamientos y elementos de
-transmisión (excepto para vehículos terrestres); instrumentos agricolas que no sean accionados manualmente; incubadoras
-de huevos; distribuidores automáticos; gatos hidráulicos; compresores; tapones de válvula (partes de máquinas de cabeza
-de pozo de campo petrolífero); aspiradoras (máquinas de limpieza).
+Máquinas y máquinas herramientas; motores (excepto motores para vehículos terrestres); acoplamientos y elementos de transmisión (excepto para vehículos terrestres); instrumentos agricolas que no sean accionados manualmente; incubadoras de huevos; distribuidores automáticos; gatos hidráulicos; compresores; tapones de válvula (partes de máquinas de cabeza de pozo de campo petrolífero); aspiradoras (máquinas de limpieza).
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: RICARDO ANIBAL MEJÍA M.
@@ -4067,8 +2654,7 @@ BONBON
 [3] Solicitud de registro de: MARCA DE SERVICIO
 A.- TITULAR
 [4] Solicitante: TRANSACCIONES Y TRANSFERENCIAS, SOCIEDAD ANÓNIMA.
-[4.1] Domicilio: 15 Avenida 17-40 zona 13, edificio TETRA CENTER, Torre 14° nivel, ciudad de Guatemala, República
-de Guatemala, C.A.
+[4.1] Domicilio: 15 Avenida 17-40 zona 13, edificio TETRA CENTER, Torre 14° nivel, ciudad de Guatemala, República de Guatemala, C.A.
 [4.2] Organizada bajo las Leyes de: GUATEMALA
 B.- REGISTRO EXTRANJERO
 [5] Registro Básico: NO TIENE OTROS REGISTROS
@@ -4083,8 +2669,7 @@ USO EXCLUSIVO DE LA OFICINA
 Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad
 Industrial.
 [11] Fecha de emisión: 6 de diciembre del año 2017
-[12] Reservas: No se pide reivindicación sobre las palabras PIDA y CHEQUE.- Se protege en su forma conjunta y no
-por separado.
+[12] Reservas: No se pide reivindicación sobre las palabras PIDA y CHEQUE.- Se protege en su forma conjunta y no por separado.
 Abogado FRANKLIN OMAR LOPEZ SANTOS
 Registro de la Propiedad Industrial
 5, 20 F. y 6 M. 2020.
@@ -4095,8 +2680,7 @@ PIDA CHEQUE 5B
 3/ Solicitud de registro de: MARCA DE SERVICIO
 A.- TITULAR
 4/ Solicitante: Transacciones y Transferencias, Sociedad Anónima.
-4.1/ Domicilio: 15 AVENIDA 17-40 ZONA 13, EDIFICIO TETRA CENTER TORRE 14° NIVEL, CIUDAD DE
-GUATEMALA, REPÚBLICA DE GUATEMALA.
+4.1/ Domicilio: 15 AVENIDA 17-40 ZONA 13, EDIFICIO TETRA CENTER TORRE 14° NIVEL, CIUDAD DE GUATEMALA, REPÚBLICA DE GUATEMALA.
 4.2/ Organizada bajo las Leyes de:
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -4175,9 +2759,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 5
 8/ Protege y distingue:
-Preparaciones farmacéuticas y veterinarias; preparaciones sanitarias para propósitos médicos; substancias dietéticas
-adaptadas para uso médico; nutrientes y suplementos nutricionales para propósitos médicos, suplementos alimenticios
-para animales, alimentos para bebés; yeso, material para apósitos.
+Preparaciones farmacéuticas y veterinarias; preparaciones sanitarias para propósitos médicos; substancias dietéticas adaptadas para uso médico; nutrientes y suplementos nutricionales para propósitos médicos, suplementos alimenticios para animales, alimentos para bebés; yeso, material para apósitos.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: JOSE ROBERTO TIJERINO INESTROZA
@@ -4210,9 +2792,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 5
 8/ Protege y distingue:
-Preparaciones farmacéuticas y veterinarias; preparaciones sanitarias para propósitos médicos; substancias dietéticas
-adaptadas para uso médico; nutrientes y suplementos nutricionales para propósitos médicos, suplementos alimenticios
-para animales, alimentos para bebés; yeso, material para apósitos.
+Preparaciones farmacéuticas y veterinarias; preparaciones sanitarias para propósitos médicos; substancias dietéticas adaptadas para uso médico; nutrientes y suplementos nutricionales para propósitos médicos, suplementos alimenticios para animales, alimentos para bebés; yeso, material para apósitos.
 8.1/ Página Adicional
 D.- APODERADO LEGAL
 9/ Nombre: JOSE ROBERTO TIJERINO INESTROZA
@@ -4246,8 +2826,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones: Se reivindican los colores contenidos en el diseño en su conjunto.
 7/ Clase Internacional: 01
 8/ Protege y distingue:
-Productos químicos para uso en la agrícultura, hotícultura y silvicultura; abono para el suelo; fertilizantes y productos
-fertilizantes.
+Productos químicos para uso en la agrícultura, hotícultura y silvicultura; abono para el suelo; fertilizantes y productos fertilizantes.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: JOSE ROBERTO TIJERINO INESTROZA
@@ -4268,8 +2847,7 @@ _____
 3/ Solicitud de registro de: MARCA DE SERVICIO
 A.- TITULAR
 4/ Solicitante: EDITORIAL SANTILLANA, S.A.
-4.1/ Domicilio: EDIFICIO METROPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE TEGUCIGALPA,
-HONDURAS
+4.1/ Domicilio: EDIFICIO METROPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE TEGUCIGALPA, HONDURAS
 4.2/ Organizada bajo las Leyes de:
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -4315,8 +2893,7 @@ Tipo de Signo: Mixta
 6.2/ Reivindicaciones: Se reivindican los colores contenidos en el diseño en su conjunto.
 7/ Clase Internacional: 01
 8/ Protege y distingue:
-Productos químicos para uso en la agrícultura, hortícultura y silvicultura; abono para el suelo; fertilizantes y productos
-fertilizantes.
+Productos químicos para uso en la agrícultura, hortícultura y silvicultura; abono para el suelo; fertilizantes y productos fertilizantes.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: JOSE ROBERTO TIJERINO INESTROZA
@@ -4337,8 +2914,7 @@ _____
 [3] Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 [4] Solicitante: GRUPO SOLID (GUATEMALA), SOCIEDAD ANÓNIMA
-[4.1] Domicilio: 12 CALLE 1-25 Zona 10, edificio Géminis 10, Torre Sur, Nivel 18, Of. 1802, Ciudad de Guatemala,
-Guatemala, C.A.
+[4.1] Domicilio: 12 CALLE 1-25 Zona 10, edificio Géminis 10, Torre Sur, Nivel 18, Of. 1802, Ciudad de Guatemala, Guatemala, C.A.
 [4.2] Organizada bajo las Leyes de: Guatemala, C.A.
 B.- REGISTRO EXTRANJERO
 [5] Registro básico: NO TIENE OTROS REGISTRO
@@ -4398,8 +2974,7 @@ SISTEMA UNO
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/ Solicitante: EDITORIAL SANTILLANA, S.A.
-4.1/ Domicilio: EDIFICIO METROPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE
-TEGUCIGALPA, HONDURAS
+4.1/ Domicilio: EDIFICIO METROPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE TEGUCIGALPA, HONDURAS
 4.2/ Organizada bajo las Leyes de: Honduras
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -4412,22 +2987,15 @@ Tipo de Signo:
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 09
 8/ Protege y distingue:
-Aparatos e instrumentos científicos, cinematográficos, ópticos, de enseñanza; aparatos para instrumentos
-para la conducción, distribución, transformación, acumulación, regulación o control de la electricidad;
-aparatos para el registro, transición-recepción y reducción del sonido o de imágenes; soportes de registro
-ópticos, magnéticos; magnéticos, ópticos y digitales, registrados o sin registrar, películas, (filmes)
-impresionadas, discos acústicos; distribuidores automáticos y mecánicos para de previo pago, equipo para
-el tratamiento de la información (proceso de datos) y los ordenadores, sus partes y accesorios incluidos
-en su clase... programas de ordenador grabados, publicaciones electrónicas descargables de las redes
-mundiales de comunicación.
+Aparatos e instrumentos científicos, cinematográficos, ópticos, de enseñanza; aparatos para instrumentos para la conducción, distribución, transformación, acumulación, regulación o control de la electricidad;
+aparatos para el registro, transición-recepción y reducción del sonido o de imágenes; soportes de registro ópticos, magnéticos; magnéticos, ópticos y digitales, registrados o sin registrar, películas, (filmes) impresionadas, discos acústicos; distribuidores automáticos y mecánicos para de previo pago, equipo para el tratamiento de la información (proceso de datos) y los ordenadores, sus partes y accesorios incluidos en su clase... programas de ordenador grabados, publicaciones electrónicas descargables de las redes mundiales de comunicación.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: JOSE ROBERTO TIJERINO INESTROZA
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88, 89 y 91 de la
-Ley de Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88, 89 y 91 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 15/11/19
 12/ Reservas:
@@ -4442,8 +3010,7 @@ SISTEMA UNO
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/ Solicitante: DATAZI PHARMA, LTD.
-4.1/ Domicilio: 5 LIMASSOL AVENUE, EUROSURE TOWER, 3RD FLOOR, P.C. 2112 AGLANTZIA,
-NICOSIA, CYPRUS.
+4.1/ Domicilio: 5 LIMASSOL AVENUE, EUROSURE TOWER, 3RD FLOOR, P.C. 2112 AGLANTZIA, NICOSIA, CYPRUS.
 4.2/ Organizada bajo las Leyes de: Chipre
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -4456,12 +3023,7 @@ Tipo de Signo:
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 05
 8/ Protege y distingue:
-Preparaciones farmacéuticas; preparaciones farmacéuticas para rellenar arrugas; preparaciones inyectables
-para rellenar arrugas con fines médicos y farmacéuticos; preparaciones inyectables para uso médico y
-farmacéutico; preparaciones farmacéuticas hechas de ácido hialurónico; preparaciones farmacéuticas a
-base de lidocaína; preparaciones inyectables a base de lidocaína; preparaciones inyectables hechas de
-ácido hialurónico; jeringas llenas para uso médico [que contienen productos farmacéuticos]; jeringas
-precargadas para uso médico; cremas medicinales; geles, cremas y soluciones para uso dermatológico;
+Preparaciones farmacéuticas; preparaciones farmacéuticas para rellenar arrugas; preparaciones inyectables para rellenar arrugas con fines médicos y farmacéuticos; preparaciones inyectables para uso médico y farmacéutico; preparaciones farmacéuticas hechas de ácido hialurónico; preparaciones farmacéuticas a base de lidocaína; preparaciones inyectables a base de lidocaína; preparaciones inyectables hechas de ácido hialurónico; jeringas llenas para uso médico [que contienen productos farmacéuticos]; jeringas precargadas para uso médico; cremas medicinales; geles, cremas y soluciones para uso dermatológico;
 lociones medicinales; preparaciones dermatológicas.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
@@ -4469,8 +3031,7 @@ D.- APODERADO LEGAL.
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88, 89 y 91 de la
-Ley de Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88, 89 y 91 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 30/7/2019
 12/ Reservas:
@@ -4483,8 +3044,7 @@ Registrador (a) de la Propiedad Industrial
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/ Solicitante: EDITORIAL SANTILLANA, S.A.
-4.1/ Domicilio: EDIFICIO METROPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE
-TEGUCIGALPA, HONDURAS
+4.1/ Domicilio: EDIFICIO METROPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE TEGUCIGALPA, HONDURAS
 4.2/ Organizada bajo las Leyes de: Honduras
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -4497,22 +3057,15 @@ Tipo de Signo:
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 09
 8/ Protege y distingue:
-Aparatos e instrumentos científicos, cinematográficos, ópticos, de enseñanza; aparatos para instrumentos
-para la conducción, distribución, transformación, acumulación, regulación o control de la electricidad;
-aparatos para el registro, transición-recepción y reducción del sonido o de imágenes; soportes de registro
-ópticos, magnéticos; magnéticos, ópticos y digitales, registrados o sin registrar, películas, (filmes)
-impresionadas, discos acústicos; distribuidores automáticos y mecánicos para de previo pago, equipo para
-el tratamiento de la información (proceso de datos) y los ordenadores, sus partes y accesorios incluidos
-en su clase... programas de ordenador grabados, publicaciones electrónicas descargables de las redes
-mundiales de comunicación.
+Aparatos e instrumentos científicos, cinematográficos, ópticos, de enseñanza; aparatos para instrumentos para la conducción, distribución, transformación, acumulación, regulación o control de la electricidad;
+aparatos para el registro, transición-recepción y reducción del sonido o de imágenes; soportes de registro ópticos, magnéticos; magnéticos, ópticos y digitales, registrados o sin registrar, películas, (filmes) impresionadas, discos acústicos; distribuidores automáticos y mecánicos para de previo pago, equipo para el tratamiento de la información (proceso de datos) y los ordenadores, sus partes y accesorios incluidos en su clase... programas de ordenador grabados, publicaciones electrónicas descargables de las redes mundiales de comunicación.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: JOSE ROBERTO TIJERINO INESTROZA
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88, 89 y 91 de la
-Ley de Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88, 89 y 91 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 12/Nov/2019
 12/ Reservas:
@@ -4526,8 +3079,7 @@ SISTEMA UNO DE ENSEÑANZA
 3/ Solicitud de registro de: MARCA DE SERVICIO
 A.- TITULAR
 4/ Solicitante: EDITORIAL SANTILLANA, S.A.
-4.1/ Domicilio: EDIFICIO METROPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE
-TEGUCIGALPA, HONDURAS
+4.1/ Domicilio: EDIFICIO METROPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE TEGUCIGALPA, HONDURAS
 4.2/ Organizada bajo las Leyes de: Honduras
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -4540,18 +3092,14 @@ Tipo de Signo:
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 38
 8/ Protege y distingue:
-Servicios de comunicaciones y transmisión general y especialmente los servicios transmisión de
-mensajes, servicios teléfonicos, servicios de emisión y difusión de programas, de radio y televisión,
-telecomunicaciones por cualquier otro elemento o medios sensorial que permuta la comunicación entre
-personas.
+Servicios de comunicaciones y transmisión general y especialmente los servicios transmisión de mensajes, servicios teléfonicos, servicios de emisión y difusión de programas, de radio y televisión, telecomunicaciones por cualquier otro elemento o medios sensorial que permuta la comunicación entre personas.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: JOSE ROBERTO TIJERINO INESTROZA
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 15/11/19
 12/ Reservas:
@@ -4579,16 +3127,14 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 29
 8/ Protege y distingue:
-Carne, pescado, aves y caza; extractos de carne; frutas y legumbres en conserva, congeladas, secas y
-cocidas; jaleas, mermeladas, compotas; huevos, leche y productos lácteos; aceites y grasas comestibles.
+Carne, pescado, aves y caza; extractos de carne; frutas y legumbres en conserva, congeladas, secas y cocidas; jaleas, mermeladas, compotas; huevos, leche y productos lácteos; aceites y grasas comestibles.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: JOSÉ DOLORES TIJERINO SALINAS
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 17-12-2019
 12/ Reservas:
@@ -4603,8 +3149,7 @@ YOFRESH
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/ Solicitante: GLORIA, S.A.
-4.1/ Domicilio: Av. República de Panamá, No. 2461, Urb. Santa Catalina, Distrito de La Victoria, Lima,
-Perú.
+4.1/ Domicilio: Av. República de Panamá, No. 2461, Urb. Santa Catalina, Distrito de La Victoria, Lima, Perú.
 4.2/ Organizada bajo las Leyes de:
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -4624,8 +3169,7 @@ D.- APODERADO LEGAL.
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 16-12-19
 12/ Reservas:
@@ -4661,8 +3205,7 @@ D.- APODERADO LEGAL.
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 12-12-2019
 12/ Reservas:
@@ -4688,8 +3231,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 05
 8/ Protege y distingue:
-Productos farmacéuticos y veterinarios; productos higiénicos para la medicina; sustancias dietéticas para uso médico,
-alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
+Productos farmacéuticos y veterinarios; productos higiénicos para la medicina; sustancias dietéticas para uso médico, alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
 desinfectantes; productos para la destrucción de animales dañinos; fungicidas; herbicidas.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
@@ -4731,8 +3273,7 @@ D.- APODERADO LEGAL.
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 12-12-2019
 12/ Reservas:
@@ -4759,16 +3300,14 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 32
 8/ Protege y distingue:
-Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes
-y otras preparaciones para hacer bebidas.
+Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes y otras preparaciones para hacer bebidas.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: JOSÉ DOLORES TIJERINO SALINAS
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 12-12-2019
 12/ Reservas:
@@ -4794,8 +3333,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 05
 8/ Protege y distingue:
-Productos farmacéuticos y veterinarios; productos higiénicos para la medicina; sustancias dietéticas para uso médico,
-alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
+Productos farmacéuticos y veterinarios; productos higiénicos para la medicina; sustancias dietéticas para uso médico, alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
 desinfectantes; productos para la destrucción de animales dañinos; fungicidas, herbicidas.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
@@ -4829,17 +3367,14 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 7/ Clase Internacional: 30
 YOFRESH
 8/ Protege y distingue:
-Café, té, cacao, azúcar, arroz, tapioca, sagú, sucedáneos del café; harinas y preparaciones hechas de
-cereales, pan, pastelería y confitería, helados comestibles; miel, jarabe de melaza; levadura, polvos para
-esponjar; sal, mostaza; vinagre; salsas (condimentos); especias; hielo.
+Café, té, cacao, azúcar, arroz, tapioca, sagú, sucedáneos del café; harinas y preparaciones hechas de cereales, pan, pastelería y confitería, helados comestibles; miel, jarabe de melaza; levadura, polvos para esponjar; sal, mostaza; vinagre; salsas (condimentos); especias; hielo.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: JOSÉ DOLORES TIJERINO SALINAS
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 17-12-2019
 12/ Reservas:
@@ -4865,8 +3400,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 05
 8/ Protege y distingue:
-Productos farmacéuticos y veterinarios; productos higiénicos para la medicina; sustancias dietéticas para uso médico,
-alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
+Productos farmacéuticos y veterinarios; productos higiénicos para la medicina; sustancias dietéticas para uso médico, alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
 desinfectantes; productos para la destrucción de animales dañinos; fungicidas; herbicidas.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
@@ -4901,16 +3435,14 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 32
 8/ Protege y distingue:
-Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes
-y otras preparaciones para hacer bebidas.
+Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes y otras preparaciones para hacer bebidas.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: JOSÉ DOLORES TIJERINO SALINAS
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 16-12-19
 12/ Reservas:
@@ -4926,8 +3458,7 @@ GLORIA YOFRESH
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/ Solicitante: FOREST STEWARDSHIP COUNCIL, ASOCIACIÓN CIVIL
-4.1/ Domicilio: Calle Margarita Maza de Juárez 422, Col. Centro, 68000, Oaxaca,
-Oaxaca México, MÉXICO
+4.1/ Domicilio: Calle Margarita Maza de Juárez 422, Col. Centro, 68000, Oaxaca, Oaxaca México, MÉXICO
 4.2/ Organizada bajo las Leyes de: MÉXICO
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -4940,20 +3471,7 @@ Tipo de Signo: Mixta
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 31
 8/ Protege y distingue:
-Productos agrícolas, hortícolas y forestales tales como: aceitunas frescas,
-algarrobas, algas, almendras (frutos), alubias frescas, harina de arroz (pienso),
-arroz sin procesar, arvejas frescas, avellanas, avena, caña de azúcar, bayas (frutos),
-granos de cacao sin procesar, castañas frescas, cebada, cebollas frescas, centeno,
-cereales en grano sin procesar, champiñones frescos, cítricos, cocos, nueces de cola,
-copra, bayas de enebro, espinacas frescas, frijoles frescos, frutas frescas, frutos
-secos, granos (cereales), granos (semillas), granos de cacao sin procesar, guisantes
-frescos, habas de cacao sin procesar, habas frescas, harinas para animales, hierbas
-aromáticas frescas, hongos frescos, judías frescas, lechugas frescas, lentejas frescas,
-limones frescos, maíz, cacahuetes frescos, naranjas, nueces, nueces de cola, papas,
-patatas, pepinos frescos, porotos frescos, puerros frescos, remolacha, salvado de
-cereales, salvado de trigo, trigo, trufas frescas, uvas frescas, setas frescas; verduras
-hortalizas y legumbres frescas; vides, calabazas; madera en bruto, madera sin
-desbastar, plantas, semillas de plantas y plantas secas para decorar.
+Productos agrícolas, hortícolas y forestales tales como: aceitunas frescas, algarrobas, algas, almendras (frutos), alubias frescas, harina de arroz (pienso), arroz sin procesar, arvejas frescas, avellanas, avena, caña de azúcar, bayas (frutos), granos de cacao sin procesar, castañas frescas, cebada, cebollas frescas, centeno, cereales en grano sin procesar, champiñones frescos, cítricos, cocos, nueces de cola, copra, bayas de enebro, espinacas frescas, frijoles frescos, frutas frescas, frutos secos, granos (cereales), granos (semillas), granos de cacao sin procesar, guisantes frescos, habas de cacao sin procesar, habas frescas, harinas para animales, hierbas aromáticas frescas, hongos frescos, judías frescas, lechugas frescas, lentejas frescas, limones frescos, maíz, cacahuetes frescos, naranjas, nueces, nueces de cola, papas, patatas, pepinos frescos, porotos frescos, puerros frescos, remolacha, salvado de cereales, salvado de trigo, trigo, trufas frescas, uvas frescas, setas frescas; verduras hortalizas y legumbres frescas; vides, calabazas; madera en bruto, madera sin desbastar, plantas, semillas de plantas y plantas secas para decorar.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: RICARDO ANÍBAL MEJÍA M.
@@ -5009,8 +3527,7 @@ Registro de la Propiedad Industrial
 3/ Solicitud de registro de: MARCA DE SERVICIO
 A.- TITULAR
 4/ Solicitante: FOREST STEWARDSHIP COUNCIL, ASOCIACIÓN CIVIL
-4.1/ Domicilio: Calle Margarita Maza de Juárez 422, Col. Centro, 68000 Oaxaca,
-Oaxaca México, MÉXICO
+4.1/ Domicilio: Calle Margarita Maza de Juárez 422, Col. Centro, 68000 Oaxaca, Oaxaca México, MÉXICO
 4.2/ Organizada bajo las Leyes de: MÉXICO
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -5026,26 +3543,9 @@ FOREST
 STEWARDSHIP
 COUNCIL
 8/ Protege y distingue:
-Servicios de establecimiento forestal; servicios de gestión forestal; servicios de
-cosecha forestal; servicios de inspección forestal y medioambiental; servicios
-de consultoría forestal; explotación y reconstrucción de los bosques, cultivo de
-plantaciones, siembra de semillas, asistencia técnica en plantaciones y viveros;
+Servicios de establecimiento forestal; servicios de gestión forestal; servicios de cosecha forestal; servicios de inspección forestal y medioambiental; servicios de consultoría forestal; explotación y reconstrucción de los bosques, cultivo de plantaciones, siembra de semillas, asistencia técnica en plantaciones y viveros;
 formación forestal y evaluación de plantaciones; gestión de patrimonio forestal;
-consultoría de gestión forestal; servicios de consultoría e información en el
-ámbito de gestión forestal sostenible; restauración y preservación del hábitat
-forestal y asesoramiento relacionado con los mismos; servicios de asesoramiento
-para silvicultura y el uso de terrenos forestales; facilitación de información en
-línea sobre la conservación ecológica, restauración forestal, restauración del
-hábitat, restauración del ecosistema y restauración medioambiental; servicios de
-alcance comunitario proporcionado para el público, funcionarios del gobierno,
-políticos y otros, a saber, facilitar información, noticias y comentarios pertinente
-a la restauración forestal y del hábitat en el ámbito de ecología, conservación
-ecológica, restauración de vida silvestre, restauración del hábitat, restauración
-del ecosistema, protección del hábitat, protección del ecosistema, protección del
-medio ambiente, gestión de recursos naturales, cambios ambientales, cambio
-climático y servicios del ecosistema; facilitación de información en línea en el
-ámbito de diseño, instalación y mantenimiento de paisajes basados en servicios
-ecosistémicos.
+consultoría de gestión forestal; servicios de consultoría e información en el ámbito de gestión forestal sostenible; restauración y preservación del hábitat forestal y asesoramiento relacionado con los mismos; servicios de asesoramiento para silvicultura y el uso de terrenos forestales; facilitación de información en línea sobre la conservación ecológica, restauración forestal, restauración del hábitat, restauración del ecosistema y restauración medioambiental; servicios de alcance comunitario proporcionado para el público, funcionarios del gobierno, políticos y otros, a saber, facilitar información, noticias y comentarios pertinente a la restauración forestal y del hábitat en el ámbito de ecología, conservación ecológica, restauración de vida silvestre, restauración del hábitat, restauración del ecosistema, protección del hábitat, protección del ecosistema, protección del medio ambiente, gestión de recursos naturales, cambios ambientales, cambio climático y servicios del ecosistema; facilitación de información en línea en el ámbito de diseño, instalación y mantenimiento de paisajes basados en servicios ecosistémicos.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: RICARDO ANÍBAL MEJÍA M.
@@ -5068,8 +3568,7 @@ OUR FINEST
 2/ Fecha de presentación: 26/Noviembre/19
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
-4/ Solicitante: thyssenkrupp Elevator AG
-thyssenkrupp AG
+4/ Solicitante: thyssenkrupp Elevator AG thyssenkrupp AG
 4.1/ Domicilio: ThyssenKrupp Allee 1, 45143 Essen, Alemania
 4.2/ Organizada bajo las Leyes de: ALEMANIA/ALEMANIA
 B.- REGISTRO EXTRANJERO
@@ -5083,31 +3582,7 @@ Tipo de Signo: Nominativa
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 9
 8/ Protege y distingue:
-Instrumentos y aparatos de medición, control y revisión o supervisión, así como
-sus partes y accesorios, para elevadores, escaleras mecánicas móviles y cintas
-transportadoras de personas, plataformas elevadoras, plataformas elevadoras de
-pasajeros, elevadores de escalera, escaleras mecánicas, pasarelas de embarque
-de pasajeros, en particular, controladores electrónicos para la gestión de la
-potencia, el movimiento y las funciones de elevadores, de escaleras mecánicas
-móviles y cintas transportadoras de personas, de plataformas elevadoras, de
-plataformas elevadoras de pasajeros, de elevadores de escalera, de escaleras
-mecánicas, de pasarelas de embarque de pasajeros. sistemas de monitorización
-de funcionamiento de ascensores, de escaleras mecánicas móviles y cintas
-transportadoras de personas, de plataformas elevadoras, de plataformas
-elevadoras de pasajeros, de elevadores de escalera, de escaleras mecánicas, de
-pasarelas de embarque de pasajeros, a saber, software integrado en controladores
-para supervisar funciones de elevadores, de escaleras mecánicas móviles y
-cintas transportadoras de personas, de plataformas elevadoras, de plataformas
-elevadoras de pasajeros, de elevadores de escalera, de escaleras mecánicas, de
-pasarelas de embarque de pasajeros; sistemas de control de selección de destino
-para el manejo de la capacidad de carga de pasajeros de elevadores y escaleras
-mecánicas; sistemas de control de acceso para la notificación y autorización de
-acceso a elevadores, a escaleras mecánicas móviles y cintas transportadoras
-de personas, a plataformas elevadoras, a plataformas elevadoras de pasajeros,
-a escaleras mecánicas y a pasarelas de embarque de pasajeros; aparatos de
-comunicación y telecomunicación para la transmisión de datos con fines
-específicos, a saber, para la generación de llamadas de emergencia, llamadas de
-mantenimiento o de servicio técnico.
+Instrumentos y aparatos de medición, control y revisión o supervisión, así como sus partes y accesorios, para elevadores, escaleras mecánicas móviles y cintas transportadoras de personas, plataformas elevadoras, plataformas elevadoras de pasajeros, elevadores de escalera, escaleras mecánicas, pasarelas de embarque de pasajeros, en particular, controladores electrónicos para la gestión de la potencia, el movimiento y las funciones de elevadores, de escaleras mecánicas móviles y cintas transportadoras de personas, de plataformas elevadoras, de plataformas elevadoras de pasajeros, de elevadores de escalera, de escaleras mecánicas, de pasarelas de embarque de pasajeros. sistemas de monitorización de funcionamiento de ascensores, de escaleras mecánicas móviles y cintas transportadoras de personas, de plataformas elevadoras, de plataformas elevadoras de pasajeros, de elevadores de escalera, de escaleras mecánicas, de pasarelas de embarque de pasajeros, a saber, software integrado en controladores para supervisar funciones de elevadores, de escaleras mecánicas móviles y cintas transportadoras de personas, de plataformas elevadoras, de plataformas elevadoras de pasajeros, de elevadores de escalera, de escaleras mecánicas, de pasarelas de embarque de pasajeros; sistemas de control de selección de destino para el manejo de la capacidad de carga de pasajeros de elevadores y escaleras mecánicas; sistemas de control de acceso para la notificación y autorización de acceso a elevadores, a escaleras mecánicas móviles y cintas transportadoras de personas, a plataformas elevadoras, a plataformas elevadoras de pasajeros, a escaleras mecánicas y a pasarelas de embarque de pasajeros; aparatos de comunicación y telecomunicación para la transmisión de datos con fines específicos, a saber, para la generación de llamadas de emergencia, llamadas de mantenimiento o de servicio técnico.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: RICARDO ANÍBAL MEJÍA M.
@@ -5129,8 +3604,7 @@ SYNERGY
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/ Solicitante: TARGET BRANDS, INC.
-4.1/ Domicilio: 1000 Nicollet Mall, Minneapolis, Minnesota 55403-2467,
-ESTADOS UNIDOS DE AMÉRICA
+4.1/ Domicilio: 1000 Nicollet Mall, Minneapolis, Minnesota 55403-2467, ESTADOS UNIDOS DE AMÉRICA
 4.2/ Organizada bajo las Leyes de: MINNESOTA
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -5139,34 +3613,17 @@ B.- REGISTRO EXTRANJERO
 5.3 Código País:
 C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 Tipo de Signo: Mixta
-6/ Denominación y 6.1/ Distintivo: THRESHOLD QUALITY & DESIGN Y
-DISEÑO
+6/ Denominación y 6.1/ Distintivo: THRESHOLD QUALITY & DESIGN Y DISEÑO
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 20
 8/ Protege y distingue:
-Muebles; muebles de interiores y exteriores, específicamente mesas de centro,
-mesas de sala, mesas auxiliares, mesas de comedor, sillas, sillas de comedor,
-sillas reclinables, reposeras, otomanos, banquitos, bancos, bancos de trabajo,
-sofás, sillones y tumbonas; paragüeros; estantería; espejos; marcos para cuadros;
-marcos para fotografías; camas, almohadas y cojines; cojines de asiento; herrajes
-para cortinas, específicamente barras de tensión, sets (juegos) de barras, barras
-de madera, barras de acero, postes, anillos, soportes; protectores para chimeneas
-para uso doméstico; pantallas de chimenea para uso doméstico; perchas; ganchos,
-anillos, barras, rodillos y postes de cortina; anillos para cortina de baño; barras
-para cortina de baño; cestas; toalleros, estantes para toallas; estantes para vinos;
-cajas de baratijas de madera; cojines; estatuas y estatuillas de yeso, plástico
-y madera; cajas no metálicas de almacenamiento para usar en cubiertas de
-edificios; cajas decorativas elaboradas de madera; contenedores no metálicos para
-almacenamiento, específicamente cajas de almacenamiento elaboradas de madera
-y de plástico; estanterías; estantes para libros; escritorios; gabinetes; cómodas;
+Muebles; muebles de interiores y exteriores, específicamente mesas de centro, mesas de sala, mesas auxiliares, mesas de comedor, sillas, sillas de comedor, sillas reclinables, reposeras, otomanos, banquitos, bancos, bancos de trabajo, sofás, sillones y tumbonas; paragüeros; estantería; espejos; marcos para cuadros;
+marcos para fotografías; camas, almohadas y cojines; cojines de asiento; herrajes para cortinas, específicamente barras de tensión, sets (juegos) de barras, barras de madera, barras de acero, postes, anillos, soportes; protectores para chimeneas para uso doméstico; pantallas de chimenea para uso doméstico; perchas; ganchos, anillos, barras, rodillos y postes de cortina; anillos para cortina de baño; barras para cortina de baño; cestas; toalleros, estantes para toallas; estantes para vinos;
+cajas de baratijas de madera; cojines; estatuas y estatuillas de yeso, plástico y madera; cajas no metálicas de almacenamiento para usar en cubiertas de edificios; cajas decorativas elaboradas de madera; contenedores no metálicos para almacenamiento, específicamente cajas de almacenamiento elaboradas de madera y de plástico; estanterías; estantes para libros; escritorios; gabinetes; cómodas;
 tocadores; centros de entretenimiento; archivadores; botiquín de medicinas;
-mesas de noche; tapones de botellas de vidrio; rodilleras de jardinería; estatuas
-de escritorio elaboradas de madera o plástico; carritos de té; conchas de mar;
-pináculos decorativos de ventana; placas de pared elaborados de yeso, plástico
-o madera; tableros de exhibición; almohadas de baño; percheros; ganchos para
-toallas que no sean de metal y dispensadores de toallas fijos que no sean de metal;
-productos y accesorios de almacenamiento y organización, a saber, estantes de
-almacenamiento, gavetas de almacenamiento, bastidores de almacenamiento;
+mesas de noche; tapones de botellas de vidrio; rodilleras de jardinería; estatuas de escritorio elaboradas de madera o plástico; carritos de té; conchas de mar;
+pináculos decorativos de ventana; placas de pared elaborados de yeso, plástico o madera; tableros de exhibición; almohadas de baño; percheros; ganchos para toallas que no sean de metal y dispensadores de toallas fijos que no sean de metal;
+productos y accesorios de almacenamiento y organización, a saber, estantes de almacenamiento, gavetas de almacenamiento, bastidores de almacenamiento;
 armarios; estantes de ropa; tableros de anuncios; casas para pájaros.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
@@ -5190,8 +3647,7 @@ Registro de la Propiedad Industrial
 [3] Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 [4] Solicitante: GRAN VISTA DEL ORIENTE T W, S.A.
-[4.1] Domicilio: SAN JOSÉ, EL ALTO DE LA TRINIDAD DE MORAVIA, DE LA PLAZA DE
-DEPORTES, SEISCIENTOS METROS AL NORTE Y DOSCIENTOS METROS AL ESTE, Costa
+[4.1] Domicilio: SAN JOSÉ, EL ALTO DE LA TRINIDAD DE MORAVIA, DE LA PLAZA DE DEPORTES, SEISCIENTOS METROS AL NORTE Y DOSCIENTOS METROS AL ESTE, Costa
 Rica.
 [4.2] Organizada bajo las Leyes de: COSTA RICA
 B.- REGISTRO EXTRANJERO
@@ -5205,12 +3661,10 @@ d.- APODERADO LEGAL
 [9] Nombre: RICARDO ANIBAL MEJÍA M.
 
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 12 de diciembre del año 2019.
 [12] Reservas: No se reclama exclusividad sobre el término “JELLY”. El cliente ya cuenta con el registro
-No. 121325 para la marca 24 SIETE Y DISEÑO en clase 30. Sociedad organizada bajo las leyes de
-Costa Rica.
+No. 121325 para la marca 24 SIETE Y DISEÑO en clase 30. Sociedad organizada bajo las leyes de Costa Rica.
 Abogado FIDEL ANTONIO MEDINA
 Registrador (a) de la Propiedad Industrial
 21 E., 5 y 20 f. 2020.
@@ -5233,21 +3687,16 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 11
 8/ Protege y distingue:
-Lámparas LED; bombillas de luz LED; aparatos eléctricos para el manejo de la ropa en la naturaleza
-de vaporizadores de prendas para uso doméstico; máquinas eléctricas para el manejo de la ropa para
-secar ropa para uso doméstico; hornos de cocina eléctricos; deshumidificadores para uso doméstico;
+Lámparas LED; bombillas de luz LED; aparatos eléctricos para el manejo de la ropa en la naturaleza de vaporizadores de prendas para uso doméstico; máquinas eléctricas para el manejo de la ropa para secar ropa para uso doméstico; hornos de cocina eléctricos; deshumidificadores para uso doméstico;
 purificadores de aire; filtros para purificadores de aire; ventiladores eléctricos; aire acondicionados;
-refrigeradores eléctricos; cocinas eléctricas; secadoras de ropa eléctricas; hornos microondas; aparatos
-para cocinar, a saber, placas de cocción; condensadores exteriores, a saber, condensadores de aire
-exterior para acondicionadores de aire; aparatos e instalaciones de cocina; humidificadores de aire.
+refrigeradores eléctricos; cocinas eléctricas; secadoras de ropa eléctricas; hornos microondas; aparatos para cocinar, a saber, placas de cocción; condensadores exteriores, a saber, condensadores de aire exterior para acondicionadores de aire; aparatos e instalaciones de cocina; humidificadores de aire.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: RICARDO ANIBAL MEJÍA M.
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 06-12-2019
 12/ Reservas:
@@ -5280,8 +3729,7 @@ D.- APODERADO LEGAL.
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 03-12-19
 12/ Reservas:
@@ -5300,8 +3748,7 @@ D.- APODERADO LEGAL.
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 02-12-2019
 12/ Reservas:
@@ -5333,8 +3780,7 @@ CHOCONELA
 [3] Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 [4] Solicitante: SHENZHEN KTC TECHNOLOGY CO., LTD.
-[4.1] Domicilio: Floor 1-5, Building 1, No. 4023 Wuhe Avenue, Gangtou Community, Bantian Street, Longgang District,
-Shenzhen, Guangdong, P.R., China
+[4.1] Domicilio: Floor 1-5, Building 1, No. 4023 Wuhe Avenue, Gangtou Community, Bantian Street, Longgang District, Shenzhen, Guangdong, P.R., China
 [4.2] Organizada bajo las Leyes de: CHINA
 B.- REGISTRO EXTRANJERO
 [5] Registro básico: NO TIENE OTROS REGISTROS
@@ -5344,8 +3790,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 [8] Protege y distingue:
 Software informático grabado; dispositivos periféricos informáticos; bolígrafos electrónicos [pantallas de visualización];
 terminales interactivos de pantalla táctil; cámaras [fotografía]; pantallas de proyección; aparatos de control remoto;
-aparatos de televisión; pantallas de vídeo; pizarras electrónicas interactivas
-d.- APODERADO LEGAL
+aparatos de televisión; pantallas de vídeo; pizarras electrónicas interactivas d.- APODERADO LEGAL
 [9] Nombre: RICARDO ANÍBAL MEJÍA M.
 
 USO EXCLUSIVO DE LA OFICINA
@@ -5444,10 +3889,7 @@ Tipo de Signo: Mixta
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 7
 8/ Protege y distingue:
-Máquinas y máquinas herramientas; motores (excepto motores para vehículos terrestres); acoplamientos y elementos de
-transmisión (excepto para vehículos terrestres); instrumentos agrícolas que no sean accionados manualmente; incubadoras
-de huevos; distribuidores automáticos; gatos hidráulicos; compresores; tapones de válvula (partes de máquinas de cabeza
-de pozo de campo petrolífero); aspiradoras (máquinas de limpieza).
+Máquinas y máquinas herramientas; motores (excepto motores para vehículos terrestres); acoplamientos y elementos de transmisión (excepto para vehículos terrestres); instrumentos agrícolas que no sean accionados manualmente; incubadoras de huevos; distribuidores automáticos; gatos hidráulicos; compresores; tapones de válvula (partes de máquinas de cabeza de pozo de campo petrolífero); aspiradoras (máquinas de limpieza).
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: RICARDO ANÍBAL MEJÍA M.
@@ -5467,7 +3909,7 @@ _____
 2/ Fecha de presentación: 29/octubre/19
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
-4/ Solicitante: GRUPO BIMBO , S.A.B. DE C.V.
+4/ Solicitante: GRUPO BIMBO, S.A.B. DE C.V.
 4.1/ Domicilio: Prolongación Paseo de la Reforma 1000, Colonia Peña Blanca Santa Fe, 01210, México D.F., MÉXICO
 4.2/ Organizada bajo leyes de: MÉXICO
 B.- REGISTRO EXTRANJERO
@@ -5481,11 +3923,7 @@ Tipo de Signo: Nominativa
 6.2/ Reivindicaciones:
 7/ Clase Internacional: 30
 8/ Protege y distingue:
-Frituras de harina de maíz, frituras de harina de trigo; extruidos de harina de trigo; botanas hechas a base de harina de
-maíz y/o harina de trigo; frituras de harina de maíz y/o harina de trigo y/o extruidos de harina de trigo y/o botanas hechas
-a base de harina de maíz y/o harina de trigo con cubierta sabor chile y/o cubierta enchilada y/o picante y/o de distintos
-sabores; preparaciones hechas a base de harina; preparaciones hechas de cereales; todo tipo de tostadas; churritos de maíz
-con distintos sabores; churritos de maíz.
+Frituras de harina de maíz, frituras de harina de trigo; extruidos de harina de trigo; botanas hechas a base de harina de maíz y/o harina de trigo; frituras de harina de maíz y/o harina de trigo y/o extruidos de harina de trigo y/o botanas hechas a base de harina de maíz y/o harina de trigo con cubierta sabor chile y/o cubierta enchilada y/o picante y/o de distintos sabores; preparaciones hechas a base de harina; preparaciones hechas de cereales; todo tipo de tostadas; churritos de maíz con distintos sabores; churritos de maíz.
 8.1/ Página Adicional:
 D.- APODERADO LEGAL.
 9/ Nombre: RICARDO ANÍBAL MEJÍA M.
@@ -5519,25 +3957,15 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 [6] Denominación y [6.1] Distintivo: SUN SQUAD Y DISEÑO
 [7] Clase Internacional: 21
 [8] Protege y distingue:
-Vajilla; vajilla desechable, a saber, platos, tazas, cuencos, caddies de cubertería, a saber, caddies para
-platos, tenedores para cocinar malvaviscos; tenedores para cocinar perros calientes; planchas de pastel
-para fogatas; utensilios de bebidas; platos y vajilla de servir; platos de galletas en niveles; boles; jarras;
-juego para chips y aderezos compuestos de vajillas; servilleteros que no sean de metales preciosos; tarros
-de galletas; garrafas, servilleteros no metálicos; juegos de vaseras que no sean de papel y que no sean
-mantelería; saleros y pimenteros; trébede, cubos de hielo; botellas de agua; aspersores de jardín; hieleras;
+Vajilla; vajilla desechable, a saber, platos, tazas, cuencos, caddies de cubertería, a saber, caddies para platos, tenedores para cocinar malvaviscos; tenedores para cocinar perros calientes; planchas de pastel para fogatas; utensilios de bebidas; platos y vajilla de servir; platos de galletas en niveles; boles; jarras;
+juego para chips y aderezos compuestos de vajillas; servilleteros que no sean de metales preciosos; tarros de galletas; garrafas, servilleteros no metálicos; juegos de vaseras que no sean de papel y que no sean mantelería; saleros y pimenteros; trébede, cubos de hielo; botellas de agua; aspersores de jardín; hieleras;
 kits de decoración de pasteles; cucharadas de helado; portavelas; varillas de coctel; palillos de dientes;
-palillos para cóctel; soportes para bebidas; moldes para magdalenas de papel para hornear; pajillas de
-beber; recipientes de almacenamiento de alimentos; recipientes de plástico, a saber, cajas de plástico
-para recuerditos de fiestas que se venden vacías; cubos para bebidas; botellas de agua vacías; cestas de
-mimbre; cestas de picnic equipadas; utensilios para barbacoas y para asar, a saber, pinzas, tenedores y
-torneros; raspadores de parrillas; espátulas para uso en la cocina; enfriadores portátiles de bebidas no
-eléctricos; recipientes para plantas, a saber, maceteros y macetas, cubos.
+palillos para cóctel; soportes para bebidas; moldes para magdalenas de papel para hornear; pajillas de beber; recipientes de almacenamiento de alimentos; recipientes de plástico, a saber, cajas de plástico para recuerditos de fiestas que se venden vacías; cubos para bebidas; botellas de agua vacías; cestas de mimbre; cestas de picnic equipadas; utensilios para barbacoas y para asar, a saber, pinzas, tenedores y torneros; raspadores de parrillas; espátulas para uso en la cocina; enfriadores portátiles de bebidas no eléctricos; recipientes para plantas, a saber, maceteros y macetas, cubos.
 d.- APODERADO LEGAL
 [9] Nombre: RICARDO ANIBAL MEJÍA M.
 
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 1 de noviembre del año 2019.
 [12] Reservas: Corporación organizada bajo las leyes de Minnesota.
 Abogada MARTHA MARITZA ZAMORA ULLOA
@@ -5569,8 +3997,7 @@ D.- APODERADO LEGAL.
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 04-12-2019
 12/ Reservas:
@@ -5584,7 +4011,7 @@ GOLD
 2/ Fecha de presentación: 25/Noviembre/19
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
-4/ Solicitante: GRUPO BIMBO , S.A.B. DE C.V.
+4/ Solicitante: GRUPO BIMBO, S.A.B. DE C.V.
 4.1/ Domicilio: Prolongación Paseo de la Reforma 1000, Colonia Peña Blanca Santa Fe, 01210, México
 D.F., MÉXICO
 4.2/ Organizada bajo leyes de: MÉXICO
@@ -5606,8 +4033,7 @@ D.- APODERADO LEGAL.
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 05-12-2019
 12/ Reservas:
@@ -5620,8 +4046,7 @@ BIMBOLINO
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/ Solicitante: Merck Sharp & Dohme Corp.
-4.1/ Domicilio: One Merck Drive, Whitehouse Station, New Jersey 08889, ESTADOS UNIDOS DE
-AMÉRICA.
+4.1/ Domicilio: One Merck Drive, Whitehouse Station, New Jersey 08889, ESTADOS UNIDOS DE AMÉRICA.
 4.2/ Organizada bajo leyes de: NUEVA JERSEY
 B.- REGISTRO EXTRANJERO
 5/ Registro Básico:
@@ -5642,8 +4067,7 @@ D.- APODERADO LEGAL.
 E.- SUSTITUYE PODER
 10/ Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 
 11/ Fecha de emisión: 03-12-2019
 12/ Reservas:
@@ -5659,8 +4083,7 @@ _____
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/Solicitante: EDITORIAL SANTILLANA, S.A.
-4/1/Domicilio: EDIFICIO METRÓPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE TEGUCIGALPA,
-HONDURAS.
+4/1/Domicilio: EDIFICIO METRÓPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE TEGUCIGALPA, HONDURAS.
 4.2/Organizada bajo las Leyes de: Honduras
 B.- REGISTRO EXTRANJERO
 5/Registro Básico:
@@ -5674,14 +4097,7 @@ Tipo de Signo:
 Se solicita reivindicación de los colores contenidos en el diseño en su conjunto.
 7/Clase Internacional: 09
 8/ Protege y distingue:
-Publicaciones electrónicas y en línea (descargables); publicaciones electrónicas consultables; libros, revistas, suplementos
-de revistas, artículos, columnas, catálogos, manuales, folletos, panfletos, guías, boletines informativos y periodicos, todos
-en formato electrónico; información en formato electrónico suministrada en línea, desde bases de datos o instalaciones
-a las que se accede en internet (incluyendo sitios web) u otros datos suministrados por medios de difusión electrónica
-multimedia o transmisión de redes; datos tabulados en formato electrónico; directorios de negocios comerciales, listados
-o material publicitario publicados por medios electrónicos; software, datos, tablas de datos y datos manipulables en forma
-electrónico, descargables electronicamente; datos almacenados electronicamente en cd-rom, dvd, discos y programas
-interactivos suminitrados en forma legible por máquina.
+Publicaciones electrónicas y en línea (descargables); publicaciones electrónicas consultables; libros, revistas, suplementos de revistas, artículos, columnas, catálogos, manuales, folletos, panfletos, guías, boletines informativos y periodicos, todos en formato electrónico; información en formato electrónico suministrada en línea, desde bases de datos o instalaciones a las que se accede en internet (incluyendo sitios web) u otros datos suministrados por medios de difusión electrónica multimedia o transmisión de redes; datos tabulados en formato electrónico; directorios de negocios comerciales, listados o material publicitario publicados por medios electrónicos; software, datos, tablas de datos y datos manipulables en forma electrónico, descargables electronicamente; datos almacenados electronicamente en cd-rom, dvd, discos y programas interactivos suminitrados en forma legible por máquina.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
 9/Nombre: JOSÉ ROBERTO TIJERINO INESTROZA
@@ -5701,8 +4117,7 @@ ________
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/Solicitante: EDITORIAL SANTILLANA, S.A.
-4/1/Domicilio: EDIFICIO METRÓPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE TEGUCIGALPA,
-HONDURAS.
+4/1/Domicilio: EDIFICIO METRÓPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE TEGUCIGALPA, HONDURAS.
 4.2/Organizada bajo las Leyes de: Honduras
 B.- REGISTRO EXTRANJERO
 5/Registro Básico:
@@ -5716,11 +4131,8 @@ Tipo de Signo:
 Se solicita reivindicación de los colores contenidos en el diseño en su conjunto.
 7/Clase Internacional: 16
 8/ Protege y distingue:
-Papel, cartón y artículos de estas materias no comprendidas en otras clases, productos de imprenta, artículos de
-encuadernación; fotografías; papelería adhesivos (pegamentos) para la papelería o la casa; material para artistas; pinceles;
-máquinas de escribir y artículos de oficina, objetos de escritorio y dibujo (excepto muebles); material de introduccion o
-enseñanza (excepto aparatos); materias plásticas para embalaje (no comprendidos en otras clases); caracteres de imprenta,
-clichés; folletos publicitarios y catálogos.
+Papel, cartón y artículos de estas materias no comprendidas en otras clases, productos de imprenta, artículos de encuadernación; fotografías; papelería adhesivos (pegamentos) para la papelería o la casa; material para artistas; pinceles;
+máquinas de escribir y artículos de oficina, objetos de escritorio y dibujo (excepto muebles); material de introduccion o enseñanza (excepto aparatos); materias plásticas para embalaje (no comprendidos en otras clases); caracteres de imprenta, clichés; folletos publicitarios y catálogos.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
 9/Nombre: JOSÉ ROBERTO TIJERINO INESTROZA
@@ -5739,8 +4151,7 @@ Registrador(a) de la Propiedad Industrial
 3/ Solicitud de registro de: MARCA DE SERVICIO
 A.- TITULAR
 4/Solicitante: EDITORIAL SANTILLANA, S.A.
-4/1/Domicilio: EDIFICIO METRÓPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE TEGUCIGALPA,
-HONDURAS.
+4/1/Domicilio: EDIFICIO METRÓPOLIS, TORRE 2, QUINTO PISO, OFICINA 501, CIUDAD DE TEGUCIGALPA, HONDURAS.
 4.2/Organizada bajo las Leyes de: Honduras
 B.- REGISTRO EXTRANJERO
 5/Registro Básico:
@@ -5754,12 +4165,7 @@ Tipo de Signo:
 Se solicita reivindicación de los colores contenidos en el diseño en su conjunto.
 7/Clase Internacional: 41
 8/ Protege y distingue:
-Servicios de educación, formación; esparcimiento, actividades deportivas y culturales y en particular servicios de edición y
-publicación en cualquier soporte, incluidos los electrónicos, de contenidos, libros y textos que no sean textos publicitarios,
-servicios de edición y publicación electrónica on-line no descargable a través de redes mundiales de comunicaciones
-de contenidos, libros y textos, que no sean textos publicitarios; y, en general, los servicios de una editorial; servicios
-de producción de películas cinematográficas, programas de radio y televisión y obras teatrales, alquiler de películas
-cinematográficas y de vídeo, montaje de programas radiofónicos y televisión, montajes de películas cinematográficas;
+Servicios de educación, formación; esparcimiento, actividades deportivas y culturales y en particular servicios de edición y publicación en cualquier soporte, incluidos los electrónicos, de contenidos, libros y textos que no sean textos publicitarios, servicios de edición y publicación electrónica on-line no descargable a través de redes mundiales de comunicaciones de contenidos, libros y textos, que no sean textos publicitarios; y, en general, los servicios de una editorial; servicios de producción de películas cinematográficas, programas de radio y televisión y obras teatrales, alquiler de películas cinematográficas y de vídeo, montaje de programas radiofónicos y televisión, montajes de películas cinematográficas;
 servicios de representación teatrales.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
@@ -5780,8 +4186,7 @@ ________
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/Solicitante: DATAZI PHARMA LTD.
-4/1/Domicilio: 5 LIMASSOL AVENUE, EUROSURE TOWER, 3RD FLOOR, P.C. 2112 AGLANTZIA, NICOSIA,
-CYPRUS.
+4/1/Domicilio: 5 LIMASSOL AVENUE, EUROSURE TOWER, 3RD FLOOR, P.C. 2112 AGLANTZIA, NICOSIA, CYPRUS.
 4.2/Organizada bajo las Leyes de: Chipre
 B.- REGISTRO EXTRANJERO
 5/Registro Básico:
@@ -5794,12 +4199,7 @@ Tipo de Signo:
 6.2/ Reivindicaciones:
 7/Clase Internacional: 03
 8/ Protege y distingue:
-Cosméticos; cremas cosméticas; aceites para uso cosmético; lociones para uso cosmético; mascarillas de belleza; productos
-cosméticos para el cuidado de la piel; preparaciones inyectables para uso cosmético, preparaciones cosméticas hechas de
-ácido hialurónico, preparaciones cosméticas a base de lidocaína; preparaciones inyectables a base de lidocaína; preparaciones
-inyectables a base de ácido hialurónico; preparaciones cosméticas para rellenar arrugas; preparaciones inyectables para
-rellenar arrugas; geles para retrasar la vejez; lociones para retrasar la vejez; preparaciones antienvejecimiento para el
-cuidado de la piel; cremas antienvejecimiento; productos hidratantes antienvejecimiento.
+Cosméticos; cremas cosméticas; aceites para uso cosmético; lociones para uso cosmético; mascarillas de belleza; productos cosméticos para el cuidado de la piel; preparaciones inyectables para uso cosmético, preparaciones cosméticas hechas de ácido hialurónico, preparaciones cosméticas a base de lidocaína; preparaciones inyectables a base de lidocaína; preparaciones inyectables a base de ácido hialurónico; preparaciones cosméticas para rellenar arrugas; preparaciones inyectables para rellenar arrugas; geles para retrasar la vejez; lociones para retrasar la vejez; preparaciones antienvejecimiento para el cuidado de la piel; cremas antienvejecimiento; productos hidratantes antienvejecimiento.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
 9/Nombre: JOSÉ ROBERTO TIJERINO INESTROZA
@@ -5820,7 +4220,7 @@ Registrador(a) de la Propiedad Industrial
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/Solicitante: Champions-Implants GmbH
-4/1/Domicilio: Alemania , 55237 Flonheim Championsplatz 1/Im Baumfeld 30.
+4/1/Domicilio: Alemania, 55237 Flonheim Championsplatz 1/Im Baumfeld 30.
 4.2/Organizada bajo las Leyes de:
 B.- REGISTRO EXTRANJERO
 5/Registro Básico:
@@ -5864,8 +4264,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/Clase Internacional: 05
 8/ Protege y distingue:
-Productos farmacéuticos y veterinarios; productos higienicos para la medicina; sustancias dietéticas para uso médico,
-alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
+Productos farmacéuticos y veterinarios; productos higienicos para la medicina; sustancias dietéticas para uso médico, alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
 desinfectantes; productos para la destrucción de animales dañinos; fungicidas, herbicidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
@@ -5897,8 +4296,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/Clase Internacional: 05
 8/ Protege y distingue:
-Productos farmacéuticos y veterinarios; productos higienicos para la medicina; sustancias dietéticas para uso médico,
-alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
+Productos farmacéuticos y veterinarios; productos higienicos para la medicina; sustancias dietéticas para uso médico, alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
 desinfectantes; productos para la destrucción de animales dañinos; fungicidas, herbicidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
@@ -5930,8 +4328,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/Clase Internacional: 31
 8/ Protege y distingue:
-Productos agrícolas, hortícolas, forestales y granos, no comprendidos en otras clases; animales vivos; frutas y legumbres
-frescas; semillas, plantas y flores naturales; alimentos para los animales; malta.
+Productos agrícolas, hortícolas, forestales y granos, no comprendidos en otras clases; animales vivos; frutas y legumbres frescas; semillas, plantas y flores naturales; alimentos para los animales; malta.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
 9/Nombre: JOSÉ DOLORES TIJERINO SALINAS.
@@ -5962,8 +4359,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 6.2/ Reivindicaciones:
 7/Clase Internacional: 05
 8/ Protege y distingue:
-Productos farmacéuticos y veterinarios; productos higiénicos para la medicina; sustancias dietéticas para uso médico,
-alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
+Productos farmacéuticos y veterinarios; productos higiénicos para la medicina; sustancias dietéticas para uso médico, alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para improntas dentales;
 desinfectantes; productos para la destrucción de animales dañinos; fungicidas, herbicidas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
@@ -6091,15 +4487,13 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 [7] Clase Internacional: 3
 [8] Protege y distingue:
 Preparaciones para blanquear y otras sustancias para lavar la ropa; preparaciones para limpiar, pulir, desengrasar y raspar;
-jabones no medicinales; productos de perfumería, aceites esenciales, cosméticos no medicinales, lociones capilares no
-medicinales; dentífricos no medicinales.
+jabones no medicinales; productos de perfumería, aceites esenciales, cosméticos no medicinales, lociones capilares no medicinales; dentífricos no medicinales.
 D.- APODERADO LEGAL
 [9] Nombre: JOSÉ ROBERTO TIJERINO INESTROZA
 USO EXCLUSIVO DE LA OFICINA
 Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 16 de octubre del año 2019.
-[12] Reservas: Se protege la denominación ULTRA LUB y su DISEÑO los demás elementos denominativos que aparecen
-en los ejemplares de etiquetas no se protegen.
+[12] Reservas: Se protege la denominación ULTRA LUB y su DISEÑO los demás elementos denominativos que aparecen en los ejemplares de etiquetas no se protegen.
 Abogada MARTHA MARITZA ZAMORA ULLOA
 Registro de la Propiedad Industrial
 6, 21 E. y 5 F. 2020.
@@ -6109,8 +4503,7 @@ ________
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/Solicitante: ARIPA, SOCIEDAD ANÓNIMA.
-4/1/Domicilio: Séptima calle, dieciocho guión cero ocho, Colonia Vista Hermosa I, zona quince, de la Ciudad de Guatemala,
-República de Guatemala.
+4/1/Domicilio: Séptima calle, dieciocho guión cero ocho, Colonia Vista Hermosa I, zona quince, de la Ciudad de Guatemala, República de Guatemala.
 4.2/Organizada bajo las Leyes de:
 B.- REGISTRO EXTRANJERO
 5/Registro Básico:
@@ -6123,8 +4516,7 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 Se reivindican los colores contenidos en el diseño en su conjunto.
 7/Clase Internacional: 30
 8/ Protege y distingue:
-Galletas; harinas y preparaciones hechas con cereales, pan, bizcochos, tortas, pastelería y confitería, miel, jarabe de
-melaza;levadura, polvos para esponjar.
+Galletas; harinas y preparaciones hechas con cereales, pan, bizcochos, tortas, pastelería y confitería, miel, jarabe de melaza;levadura, polvos para esponjar.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
 9/Nombre: JOSÉ ROBERTO TIJERINO INESTROZA
@@ -6144,8 +4536,7 @@ Registrador(a) de la Propiedad Industrial
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/Solicitante: FOREST STEWARDSHIP COUNCIL, ASOCIACIÓN CIVIL.
-4/1/Domicilio: Calle Margarita Maza de Juárez 422, Col. Centro, 68000 Oaxaca,
-Oaxaca México, MÉXICO
+4/1/Domicilio: Calle Margarita Maza de Juárez 422, Col. Centro, 68000 Oaxaca, Oaxaca México, MÉXICO
 4.2/Organizada bajo las Leyes de: MÉXICO
 B.- REGISTRO EXTRANJERO
 5/Registro Básico:
@@ -6158,34 +4549,7 @@ Tipo de Signo: Nominativa
 6.2/ Reivindicaciones:
 7/Clase Internacional: 19
 8/ Protege y distingue:
-Materiales de construcción no metálicos tales como: aglomerados de bagazo,
-alabastro, alquitrán, arcilla, armazones de construcción no metálicos, asfalto,
-balasto, baldosas no metálicas para la construcción, bastidores de puertas no
-metálicos, betún, productos bituminosos para la construcción, brea, caballetes
-para tejados, cabinas de baño no metálicas, canalones (tubos de) no metálicos,
-aglutinantes para reparar carreteras, cartón asfaltado, casas prefabricadas (listas
-para montar), celosías no metálicas, cemento, cercas no metálicas, chamota,
-madera de chapado, chapados de madera, chimeneas no metálicas, concreto,
-conductos no metálicas, conductos no metálicos para instalaciones de ventilación
-y aire acondicionado, madera de construcción, construcciones transportables no
-metálicas, contrachapados, cuarzo, embaldosados no metálicos, tubos de empalmes
-no metálicos, encofrados no metálicos para hormigón, enlucidos, enlucidos de
-cemento ignífugos, escaleras no metálicas, esquistos, moldes de fundición no
-metálicos, granito, greda, tubos de gres, gres de construcción, hormigón, ladrillos,
-ladrillos refractarios, losas no metálicas, pavimentos luminosos, marcos de ventana
-no metálicos, mármol, marquesinas no metálicas, materiales de construcción
-refractarios no metálicos, molduras no metálicas para la construcción, mortero
-para la construcción, mosaicos para la construcción, paneles (revestimientos) de
-madera, paneles no metálicos para la construcción, tablas de parqué, parqués,
-pavimentos no metálicos, peldaños no metálicos, pez, piedra, pisos no metálicos,
-pizarra, portones no metálicos, postes no metálicos, armazones, entrepaños y
-marcos de puerta no metálicos, puntales no metálicos, revestimientos de cemento
-ignífugos, revestimientos no metálicos para la construcción, ristreles, cristal de
-roca, rodapiés (frisos) no metálicos, yeso; materiales de construcción fabricados
-en madera; cartón de pasta de madera para la construcción, pavimentos de madera,
-madera de chapado, madera de construcción, madera de obra, madera de sierra,
-madera moldeable, madera de duelas, madera para fabricar utensilios domésticos,
-madera semielaborada, madera trabajada.
+Materiales de construcción no metálicos tales como: aglomerados de bagazo, alabastro, alquitrán, arcilla, armazones de construcción no metálicos, asfalto, balasto, baldosas no metálicas para la construcción, bastidores de puertas no metálicos, betún, productos bituminosos para la construcción, brea, caballetes para tejados, cabinas de baño no metálicas, canalones (tubos de) no metálicos, aglutinantes para reparar carreteras, cartón asfaltado, casas prefabricadas (listas para montar), celosías no metálicas, cemento, cercas no metálicas, chamota, madera de chapado, chapados de madera, chimeneas no metálicas, concreto, conductos no metálicas, conductos no metálicos para instalaciones de ventilación y aire acondicionado, madera de construcción, construcciones transportables no metálicas, contrachapados, cuarzo, embaldosados no metálicos, tubos de empalmes no metálicos, encofrados no metálicos para hormigón, enlucidos, enlucidos de cemento ignífugos, escaleras no metálicas, esquistos, moldes de fundición no metálicos, granito, greda, tubos de gres, gres de construcción, hormigón, ladrillos, ladrillos refractarios, losas no metálicas, pavimentos luminosos, marcos de ventana no metálicos, mármol, marquesinas no metálicas, materiales de construcción refractarios no metálicos, molduras no metálicas para la construcción, mortero para la construcción, mosaicos para la construcción, paneles (revestimientos) de madera, paneles no metálicos para la construcción, tablas de parqué, parqués, pavimentos no metálicos, peldaños no metálicos, pez, piedra, pisos no metálicos, pizarra, portones no metálicos, postes no metálicos, armazones, entrepaños y marcos de puerta no metálicos, puntales no metálicos, revestimientos de cemento ignífugos, revestimientos no metálicos para la construcción, ristreles, cristal de roca, rodapiés (frisos) no metálicos, yeso; materiales de construcción fabricados en madera; cartón de pasta de madera para la construcción, pavimentos de madera, madera de chapado, madera de construcción, madera de obra, madera de sierra, madera moldeable, madera de duelas, madera para fabricar utensilios domésticos, madera semielaborada, madera trabajada.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
 9/Nombre: RICARDO ANÍBAL MEJÍA M.
@@ -6205,8 +4569,7 @@ FSC
 3/ Solicitud de registro de: MARCA DE SERVICIO
 A.- TITULAR
 4/Solicitante: FOREST STEWARDSHIP COUNCIL, ASOCIACIÓN CIVIL.
-4/1/Domicilio: Calle Margarita Maza de Juárez 422, Col. Centro, 68000 Oaxaca,
-Oaxaca México, MÉXICO
+4/1/Domicilio: Calle Margarita Maza de Juárez 422, Col. Centro, 68000 Oaxaca, Oaxaca México, MÉXICO
 4.2/Organizada bajo las Leyes de: MÉXICO
 B.- REGISTRO EXTRANJERO
 5/Registro Básico:
@@ -6219,25 +4582,9 @@ Tipo de Signo: Nominativa
 6.2/ Reivindicaciones:
 7/Clase Internacional: 44
 8/ Protege y distingue:
-Servicios de establecimiento forestal; servicios de gestión forestal; servicios de
-cosecha forestal; servicios de inspección forestal y medioambiental; servicios
-de consultoría forestal; explotación y reconstrucción de los bosques, cultivo de
-plantaciones, siembra de semillas, asistencia técnica en plantaciones y viveros;
+Servicios de establecimiento forestal; servicios de gestión forestal; servicios de cosecha forestal; servicios de inspección forestal y medioambiental; servicios de consultoría forestal; explotación y reconstrucción de los bosques, cultivo de plantaciones, siembra de semillas, asistencia técnica en plantaciones y viveros;
 formación forestal y evaluación de plantaciones; gestión de patrimonio forestal;
-consultoría de gestión forestal; servicios de consultoría e información en el
-ámbito de gestión forestal sostenible; restauración y preservación del hábitat
-forestal, y asesoramiento relacionado con los mismos; servicios de asesoramiento
-para silvicultura y el uso de terrenos forestales; facilitación de información en
-línea sobre la conservación ecológica, restauración forestal, restauración del
-hábitat, restauración del ecosistema, y restauración medioambiental; servicios de
-alcance comunitario proporcionado para el público, funcionarios del gobierno,
-políticos y otros, a saber, facilitar información, noticias y comentarios pertinente
-a la restauración forestal y del hábitat en el ámbito de ecología, conservación
-ecológica, restauración de vida silvestre, restauración del hábitat, restauración del
-ecosistema, protección del hábitat, protección del ecosistema, protección del medio
-ambiente, gestión de recursos naturales, cambios ambientales, cambio climático,
-y servicios del ecosistema; facilitación de información en línea en el ámbito de
-diseño, instalación y mantenimiento de paisajes basados en servicios ecosistémicos.
+consultoría de gestión forestal; servicios de consultoría e información en el ámbito de gestión forestal sostenible; restauración y preservación del hábitat forestal, y asesoramiento relacionado con los mismos; servicios de asesoramiento para silvicultura y el uso de terrenos forestales; facilitación de información en línea sobre la conservación ecológica, restauración forestal, restauración del hábitat, restauración del ecosistema, y restauración medioambiental; servicios de alcance comunitario proporcionado para el público, funcionarios del gobierno, políticos y otros, a saber, facilitar información, noticias y comentarios pertinente a la restauración forestal y del hábitat en el ámbito de ecología, conservación ecológica, restauración de vida silvestre, restauración del hábitat, restauración del ecosistema, protección del hábitat, protección del ecosistema, protección del medio ambiente, gestión de recursos naturales, cambios ambientales, cambio climático, y servicios del ecosistema; facilitación de información en línea en el ámbito de diseño, instalación y mantenimiento de paisajes basados en servicios ecosistémicos.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
 9/Nombre: RICARDO ANÍBAL MEJÍA M.
@@ -6259,8 +4606,7 @@ FSC
 [3] Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 [4] Solicitante: TARGET BRANDS, INC.
-[4.1] Domicilio: 1000 NICOLLET MALL, MINNEAPOLIS, MINNESOTA 55403-2467,
-Estados Unidos de América.
+[4.1] Domicilio: 1000 NICOLLET MALL, MINNEAPOLIS, MINNESOTA 55403-2467, Estados Unidos de América.
 [4.2] Organizada bajo las Leyes de: MINNESOTA
 B.- REGISTRO EXTRANJERO
 [5] Registro básico: NO TIENE OTROS REGISTROS
@@ -6268,31 +4614,17 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 [6] Denominación y [6.1] Distintivo: PROJECT 62 (ETIQUETA)
 [7] Clase Internacional: 20
 [8] Protege y distingue:
-Muebles; muebles de interiores y exteriores, específicamente mesas de centro, mesas de
-salas, mesas auxiliares, mesas de comedor, sillas, sillas de comedor, sillas reclinables,
-reposeras, otomanos, banquitos, bancos, bancos de trabajo, sofás, sillones y tumbonas;
+Muebles; muebles de interiores y exteriores, específicamente mesas de centro, mesas de salas, mesas auxiliares, mesas de comedor, sillas, sillas de comedor, sillas reclinables, reposeras, otomanos, banquitos, bancos, bancos de trabajo, sofás, sillones y tumbonas;
 paragüeros; carros de té; estantería; espejos; marcos para cuadros; marcos para fotografías;
 camas, almohadas y cojines; herrajes para cortinas, específicamente barras de tensión, sets
-(juegos) de barras, barras de madera, barras de acero, postes, anillos, soportes, anillos de
-cortinas no metálicos; pináculos decorativos de ventana; placas de pared elaborados de yeso,
-plástico o madera; tableros de exhibición; pantallas de chimenea; perchas; ganchos, anillos,
-barras, rodillos y postes de cortina; anillos para cortina de baño; barras para cortina de baño;
-almohadas de baño; toalleros, estantes para toallas; estantes para vinos; cojines; estatuas
-y estatuillas de yeso, plástico y madera; cajas no metálicas de almacenamiento elaborados
-de madera y plástico para usar en cubiertas de edificios; cajas decorativas elaboradas de
-madera; productos y accesorios de almacenamiento y orden, específicamente estantes
-de almacenamiento, gabinetes de almacenamiento, cajones organizadores y sistemas de
-almacenamiento que comprenden estantes y gavetas, estantes de almacenamiento; alacenas;
-contenedores no metálicos para almacenamiento, específicamente cajas de almacenamiento
-elaboradas de madera y de plástico; estanterías; estantes para libros; escritorios; gabinetes;
-cómodas; tocadores; centros de entretenimiento; archivadores; botiquín de médicinas.mesas
-de noche; colgadores de ropa; colgadores de abrigos; estantes para sombreros; estatuas de
-escritorio elaboradas de madera y plástico; tableros de corcho tableros de anuncios. .
+(juegos) de barras, barras de madera, barras de acero, postes, anillos, soportes, anillos de cortinas no metálicos; pináculos decorativos de ventana; placas de pared elaborados de yeso, plástico o madera; tableros de exhibición; pantallas de chimenea; perchas; ganchos, anillos, barras, rodillos y postes de cortina; anillos para cortina de baño; barras para cortina de baño;
+almohadas de baño; toalleros, estantes para toallas; estantes para vinos; cojines; estatuas y estatuillas de yeso, plástico y madera; cajas no metálicas de almacenamiento elaborados de madera y plástico para usar en cubiertas de edificios; cajas decorativas elaboradas de madera; productos y accesorios de almacenamiento y orden, específicamente estantes de almacenamiento, gabinetes de almacenamiento, cajones organizadores y sistemas de almacenamiento que comprenden estantes y gavetas, estantes de almacenamiento; alacenas;
+contenedores no metálicos para almacenamiento, específicamente cajas de almacenamiento elaboradas de madera y de plástico; estanterías; estantes para libros; escritorios; gabinetes;
+cómodas; tocadores; centros de entretenimiento; archivadores; botiquín de médicinas.mesas de noche; colgadores de ropa; colgadores de abrigos; estantes para sombreros; estatuas de escritorio elaboradas de madera y plástico; tableros de corcho tableros de anuncios. .
 D.- APODERADO LEGAL
 [9] Nombre: RICARDO ANÍBAL MEJÍA M.
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88
-de la Ley de Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 26 de noviembre del año 2019.
 [12] Reservas: Se protege la grafia como aparece en el ejemplar adjunto.
 Abogado FIDEL ANTONIO MEDINA
@@ -6304,7 +4636,7 @@ ________
 [3] Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 [4] Solicitante: PROMOCIONES GATO, S.A.S.
-[4.1] Domicilio: Carretera 22 No. 16 AA Sur 150, Casa 118, Medellín , Antioquia, Colombia.
+[4.1] Domicilio: Carretera 22 No. 16 AA Sur 150, Casa 118, Medellín, Antioquia, Colombia.
 [4.2] Organizada bajo las Leyes de: COLOMBIA
 B.- REGISTRO EXTRANJERO
 [5] Registro básico: NO TIENE OTROS REGISTROS
@@ -6312,25 +4644,12 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 [6] Denominación y [6.1] Distintivo: IDEACE GATO Y DISEÑO
 [7] Clase Internacional: 11
 [8] Protege y distingue:
-Grifos de ducha, grifos de ducha controlados por medios electrónicos, grifos de control del
-flujo de agua, grifos de baño, grifos de agua que son partes de instalaciones sanitarias, llaves
-de agua [grifos], llaves de paso para tuberías, duchas, duchas de mano, duchas eléctricas,
-duchas exteriores para el baño, duchas y cabinas de baño; grifos de canalización; tubos de
-descargas eléctricas para alumbrado; grifos, arandelas de grifos; aparatos de distribución de
-aguas e instalaciones sanitarias; asientos de retretes; aparatos para baños; grifos mezcladores
-para conducciones de agua; instalaciones de conducción de agua; instalaciones para descarga
-de agua; depósito para descarga de agua; lavados; purificadores de agua; retretes, tasas de
-retretes, instalaciones de sauna; válvulas reguladoras del nivel en los depósitos; aparatos para
-filtrar agua; aparatos y máquinas para la purificación; bocas de agua; aparatos e instalaciones
-de descarga de agua, instalaciones para el aprovisionamiento de agua; instalaciones de
-calefacción de agua caliente; bañeras; instalaciones de baño; instalaciones de sauna; válvula
-reguladora del nivel en los depósitos, aparatos de ventilación; campanas de ventilación;
+Grifos de ducha, grifos de ducha controlados por medios electrónicos, grifos de control del flujo de agua, grifos de baño, grifos de agua que son partes de instalaciones sanitarias, llaves de agua [grifos], llaves de paso para tuberías, duchas, duchas de mano, duchas eléctricas, duchas exteriores para el baño, duchas y cabinas de baño; grifos de canalización; tubos de descargas eléctricas para alumbrado; grifos, arandelas de grifos; aparatos de distribución de aguas e instalaciones sanitarias; asientos de retretes; aparatos para baños; grifos mezcladores para conducciones de agua; instalaciones de conducción de agua; instalaciones para descarga de agua; depósito para descarga de agua; lavados; purificadores de agua; retretes, tasas de retretes, instalaciones de sauna; válvulas reguladoras del nivel en los depósitos; aparatos para filtrar agua; aparatos y máquinas para la purificación; bocas de agua; aparatos e instalaciones de descarga de agua, instalaciones para el aprovisionamiento de agua; instalaciones de calefacción de agua caliente; bañeras; instalaciones de baño; instalaciones de sauna; válvula reguladora del nivel en los depósitos, aparatos de ventilación; campanas de ventilación;
 aparatos de alumbrado, calefacción, producción de vapor, cocción, refrigeración y secado.
 D.- APODERADO LEGAL
 [9] Nombre: RICARDO ANÍBAL MEJÍA M.
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88
-de la Ley de Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 5 de diciembre del año 2019.
 [12] Reservas: Se reivindica el tono color Azul, que aparece en el ejemplar adjunto.
 Sociedad organizada bajo las Leyes de Colombia.
@@ -6343,8 +4662,7 @@ ________
 [3] Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 [4] Solicitante: TOTAL, SA.
-[4.1] Domicilio: 2, PLACE JEAN MILLIER, LA DEFENSE 6,92400, COURBEVOIE,
-Francia.
+[4.1] Domicilio: 2, PLACE JEAN MILLIER, LA DEFENSE 6,92400, COURBEVOIE, Francia.
 [4.2] Organizada bajo las Leyes de: FRANCIA
 B.- REGISTRO EXTRANJERO
 [5] Registro básico: NO TIENE OTROS REGISTROS
@@ -6352,33 +4670,16 @@ C.- ESPECIFICACIONES DE LA DENOMINACIÓN
 [6] Denominación y [6.1] Distintivo: TOTAL Y DISEÑO
 [7] Clase Internacional: 9
 [8] Protege y distingue:
-Aparatos e instrumentos científicos, fotográficos, ópticos, geodésicos, de pesaje, de
-medición, de señalización, de control (supervisión) y de enseñanza; aparatos e instrumentos
-de conducción, distribución, transformación, acumulación, regulación o control de la
-electricidad; conductos eléctricos y equipos para conducir electricidad (hilos, cables);
-colectores eléctricos; instrumentos de medición de electricidad; gasómetros [instrumentos de
-medición]; aparatos e instrumentos para monitorear, medir y gestionar la energía; dispositivos
-de control y de gestión para la producción de energía; reguladores de energía; baterías y
-pilas; cargadores para baterías y pilas; aparatos e instalaciones solares para la producción
-de electricidad; células y módulos fotovoltaicos; paneles solares; acumuladores para energía
-fotovoltaica; aparatos de seguridad y automatización para edificios y viviendas particulares;
-servidores para domótica; cambiadores de frecuencia, convertidores de voltaje; dispensadores
-de combustible para estaciones de servicio; acumuladores eléctricos y aparatos para recargar
-acumuladores eléctricos; estaciones de recarga para vehículos eléctricos; equipo y ropa de
-protección y seguridad; triángulos de señalización de avería para vehículos; gafas [óptica] y
-estuches para gafas; altavoces; equipos de procesamiento de datos; software y aplicaciones
-móviles; aparatos de diagnóstico que no sean para uso médico; aparatos y software para testear
-y analizar productos petroleros y químicos; tarjetas electrónicas y magnéticas; transmisores,
-tarjetas y placas que permiten el acceso a redes de carreteras o autopistas.
+Aparatos e instrumentos científicos, fotográficos, ópticos, geodésicos, de pesaje, de medición, de señalización, de control (supervisión) y de enseñanza; aparatos e instrumentos de conducción, distribución, transformación, acumulación, regulación o control de la electricidad; conductos eléctricos y equipos para conducir electricidad (hilos, cables);
+colectores eléctricos; instrumentos de medición de electricidad; gasómetros [instrumentos de medición]; aparatos e instrumentos para monitorear, medir y gestionar la energía; dispositivos de control y de gestión para la producción de energía; reguladores de energía; baterías y pilas; cargadores para baterías y pilas; aparatos e instalaciones solares para la producción de electricidad; células y módulos fotovoltaicos; paneles solares; acumuladores para energía fotovoltaica; aparatos de seguridad y automatización para edificios y viviendas particulares;
+servidores para domótica; cambiadores de frecuencia, convertidores de voltaje; dispensadores de combustible para estaciones de servicio; acumuladores eléctricos y aparatos para recargar acumuladores eléctricos; estaciones de recarga para vehículos eléctricos; equipo y ropa de protección y seguridad; triángulos de señalización de avería para vehículos; gafas [óptica] y estuches para gafas; altavoces; equipos de procesamiento de datos; software y aplicaciones móviles; aparatos de diagnóstico que no sean para uso médico; aparatos y software para testear y analizar productos petroleros y químicos; tarjetas electrónicas y magnéticas; transmisores, tarjetas y placas que permiten el acceso a redes de carreteras o autopistas.
 D.- APODERADO LEGAL
 [9] Nombre: RICARDO ANÍBAL MEJÍA M.
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88
-de la Ley de Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 18 de noviembre del año 2019.
 [12] Reservas: Se reivindican los colores Pantone Rojo 185C - Pantone Azul 279C-Pantone
-Naranja 138 C- Pantone Azul 286 C que se muestram en el ejemplar adjunto. Sociedad
-organizada bajo las leyes de Francia.
+Naranja 138 C- Pantone Azul 286 C que se muestram en el ejemplar adjunto. Sociedad organizada bajo las leyes de Francia.
 Abogada NOEMÍ ELIZABETH LAGOS VALERIANO
 Registro de la Propiedad Industrial
 21 E., 5 y 20 F. 2020
@@ -6403,30 +4704,16 @@ Tipo de Signo: Nominativa
 6.2/ Reivindicaciones:
 7/Clase Internacional: 9
 8/ Protege y distingue:
-Auriculares; tapones para los oídos; máquina de grabación y reproducción de sonido y
-vídeo; aparatos electrónicos para la transmisión de sonido, imágenes o datos; sensores
-eléctricos o electrónicos para detectar, procesar, medir, recopilar, registrar y transmitir
-datos generales relacionados con el bienestar, los ciclos de sueño, el ritmo cardíaco y la
-actividad física; software informático y aplicaciones de software informáticas para aparatos
-portátiles utilizados para recopilar y analizar variables relacionadas con el medio ambiente,
-a saber, temperatura, calidad del aire y la luz, así como el ruido circundante durante el sueño;
-cables USB; cargadores de batería; podómetros; aparatos eléctricos de monitoreo, a saber,
-dispositivos electrónicos para monitorear a una persona y sus alrededores durante el sueño;
-software para computadoras, computadoras portátiles, reproductores multimedia portátiles,
-computadoras de mano, altavoces conectados, relojes conectados, a saber, software para
-asistencia para conciliar el sueño, monitoreo del sueño, monitoreo ambiental durante el sueño,
-despertarse, estadísticas relacionadas con el sueño, transmisión y recepción de música y
-radio y configuración de alarmas; software de aplicación para teléfonos móviles y tabletas
-para asistencia para conciliar el sueño, monitoreo del sueño, monitoreo ambiental durante
-el sueño; cintas de audio con música y sonidos relajantes.
+Auriculares; tapones para los oídos; máquina de grabación y reproducción de sonido y vídeo; aparatos electrónicos para la transmisión de sonido, imágenes o datos; sensores eléctricos o electrónicos para detectar, procesar, medir, recopilar, registrar y transmitir datos generales relacionados con el bienestar, los ciclos de sueño, el ritmo cardíaco y la actividad física; software informático y aplicaciones de software informáticas para aparatos portátiles utilizados para recopilar y analizar variables relacionadas con el medio ambiente, a saber, temperatura, calidad del aire y la luz, así como el ruido circundante durante el sueño;
+cables USB; cargadores de batería; podómetros; aparatos eléctricos de monitoreo, a saber, dispositivos electrónicos para monitorear a una persona y sus alrededores durante el sueño;
+software para computadoras, computadoras portátiles, reproductores multimedia portátiles, computadoras de mano, altavoces conectados, relojes conectados, a saber, software para asistencia para conciliar el sueño, monitoreo del sueño, monitoreo ambiental durante el sueño, despertarse, estadísticas relacionadas con el sueño, transmisión y recepción de música y radio y configuración de alarmas; software de aplicación para teléfonos móviles y tabletas para asistencia para conciliar el sueño, monitoreo del sueño, monitoreo ambiental durante el sueño; cintas de audio con música y sonidos relajantes.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
 9/Nombre: RICARDO ANÍBAL MEJÍA M.
 E.- SUSTITUYE PODER
 10/Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88
-de la Ley de Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de Propiedad Industrial.
 11/Fecha de emisión: 06-12-19
 12/Reservas:
 Abogada NOEMÍ ELIZABETH LAGOS VALERIANO
@@ -6461,8 +4748,7 @@ D.- APODERADO LEGAL.
 E.- SUSTITUYE PODER
 10/Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88
-de la Ley de Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de Propiedad Industrial.
 11/Fecha de emisión: 03-12-2019
 12/Reservas:
 Abogada MARTHA MARITZA ZAMORA ULLOA
@@ -6474,8 +4760,7 @@ ________
 3/ Solicitud de registro de: MARCA DE FÁBRICA
 A.- TITULAR
 4/Solicitante: Merck Sharp & Dohme Corp.
-4/1/Domicilio: One Merck Drive, Whitehouse Station, New Jersey 08889, ESTADOS UNIDOS DE
-AMÉRICA.
+4/1/Domicilio: One Merck Drive, Whitehouse Station, New Jersey 08889, ESTADOS UNIDOS DE AMÉRICA.
 4.2/Organizada bajo las Leyes de: NUEVA JERSEY
 B.- REGISTRO EXTRANJERO
 5/Registro Básico:
@@ -6495,8 +4780,7 @@ D.- APODERADO LEGAL.
 E.- SUSTITUYE PODER
 10/Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de Propiedad Industrial.
 11/Fecha de emisión: 03-12-2019
 12/Reservas:
 Abogada MARTHA MARITZA ZAMORA ULLOA
@@ -6529,8 +4813,7 @@ D.- APODERADO LEGAL.
 E.- SUSTITUYE PODER
 10/Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de Propiedad Industrial.
 11/Fecha de emisión: 03-12-2019
 12/Reservas:
 Abogada MARTHA MARITZA ZAMORA ULLOA
@@ -6557,16 +4840,14 @@ Tipo de Signo: Mixta
 6.2/ Reivindicaciones:
 7/Clase Internacional: 19
 8/ Protege y distingue:
-Materiales de construcción no metálicos, tubos rígidos no metálicos para la construcción, asfalto, pez y
-betún, contrucciones transportables no metálicas, monumentos no metálicos.
+Materiales de construcción no metálicos, tubos rígidos no metálicos para la construcción, asfalto, pez y betún, contrucciones transportables no metálicas, monumentos no metálicos.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
 9/Nombre: RICARDO ANÍBAL MEJÍA M.
 E.- SUSTITUYE PODER
 10/Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de Propiedad Industrial.
 11/Fecha de emisión: 20-11-2019
 12/Reservas:
 Abogado FRANKLIN OMAR LÓPEZ SANTOS
@@ -6591,24 +4872,14 @@ Tipo de Signo: Mixta
 6.2/ Reivindicaciones:
 7/Clase Internacional: 42
 8/ Protege y distingue:
-Certificación [control de calidad]; comprobación, análisis, evaluación y certificación de productos,
-servicios y prácticas de terceros, para cumplir normas relativas a la gestión forestal sostenible; investigación
-en el ámbito de la gestión forestal sostenible; servicios relacionados con la implementación de planes
-de certificación, a saber servicios de consultoría relativas a la comprobación de normas, criterios de
-certificación y directrices de certificación; servicios relacionados con la implementación de planes de
-certificación, a saber la concesión de la certificación, supervisión del cumplimiento de normas; auditoría
-y evaluación de participantes en el plan de certificación; suministro de información y asesoramiento
-sobre el plan de certificación a los participantes; consultoría de gestión de calidad, de control de calidad
-y de garantía de calidad; servicios de evaluación, verificación, certificación y de auditoría relativas a la
-gestión forestal sostenible; evaluación de la calidad de la madera en pie.
+Certificación [control de calidad]; comprobación, análisis, evaluación y certificación de productos, servicios y prácticas de terceros, para cumplir normas relativas a la gestión forestal sostenible; investigación en el ámbito de la gestión forestal sostenible; servicios relacionados con la implementación de planes de certificación, a saber servicios de consultoría relativas a la comprobación de normas, criterios de certificación y directrices de certificación; servicios relacionados con la implementación de planes de certificación, a saber la concesión de la certificación, supervisión del cumplimiento de normas; auditoría y evaluación de participantes en el plan de certificación; suministro de información y asesoramiento sobre el plan de certificación a los participantes; consultoría de gestión de calidad, de control de calidad y de garantía de calidad; servicios de evaluación, verificación, certificación y de auditoría relativas a la gestión forestal sostenible; evaluación de la calidad de la madera en pie.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
 9/Nombre: RICARDO ANÍBAL MEJÍA M.
 E.- SUSTITUYE PODER
 10/Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de Propiedad Industrial.
 11/Fecha de emisión: 12-12-2019
 12/Reservas:
 Abogado FRANKLIN OMAR LÓPEZ SANTOS
@@ -6632,22 +4903,17 @@ Tipo de Signo: Mixta
 6.2/ Reivindicaciones:
 7/Clase Internacional: 16
 8/ Protege y distingue:
-Papel y productos de papel, cartón y productos de cartón; productos de imprenta, libros, revistas,
-publicaciones periódicas impresas; artículos de papelería; material de instrucción y material didáctico
+Papel y productos de papel, cartón y productos de cartón; productos de imprenta, libros, revistas, publicaciones periódicas impresas; artículos de papelería; material de instrucción y material didáctico
 (excepto aparatos); diarios; circulares; papel; artículos de papel; publicaciones periódicas; agendas;
 libretas; libros de trabajo; agendas de direcciones; plumas y bolígrafos, lápices y gomas de borrar;
-sacapuntas; ilustraciones; cuadros enmarcados o no; fotografías; estuches para lápices; envoltorios y
-etiquetas para regalos; bolsas de papel para embalaje; miniblocs para notas; archivadores de anillas,
-carpetas, portapapeles de clip, cajas de cartón para regalos, papel de cartas y sobres, calendarios, tarjetas,
-tarjetas postales, carteles; servilletas de papel; pinturas.
+sacapuntas; ilustraciones; cuadros enmarcados o no; fotografías; estuches para lápices; envoltorios y etiquetas para regalos; bolsas de papel para embalaje; miniblocs para notas; archivadores de anillas, carpetas, portapapeles de clip, cajas de cartón para regalos, papel de cartas y sobres, calendarios, tarjetas, tarjetas postales, carteles; servilletas de papel; pinturas.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
 9/Nombre: RICARDO ANÍBAL MEJÍA M.
 E.- SUSTITUYE PODER
 10/Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de Propiedad Industrial.
 11/Fecha de emisión: 16-12-2019
 12/Reservas:
 Abogado FRANKLIN OMAR LÓPEZ SANTOS
@@ -6672,20 +4938,14 @@ Tipo de Signo: Mixta
 6.2/ Reivindicaciones:
 7/Clase Internacional: 41
 8/ Protege y distingue:
-Servicios de publicaciones para normas (de textos, que no sea para fines publicitarios) relativas a la
-gestión de bosques, gestión de silvicultura, silvicultura, productos forestales, servicios de medio ambiente
-y la industria procesadora de la madera, así como la publicación de normas para empresas que producen
-productos utilizando madera; servicios de Educación y formación, incluyendo organización y realización
-de talleres de formación en directo y en video relativas a la gestión de bosques, gestión de silvicultura,
-silvicultura, productos forestales, servicios de medio ambiente y la industria procesadora de la madera.
+Servicios de publicaciones para normas (de textos, que no sea para fines publicitarios) relativas a la gestión de bosques, gestión de silvicultura, silvicultura, productos forestales, servicios de medio ambiente y la industria procesadora de la madera, así como la publicación de normas para empresas que producen productos utilizando madera; servicios de Educación y formación, incluyendo organización y realización de talleres de formación en directo y en video relativas a la gestión de bosques, gestión de silvicultura, silvicultura, productos forestales, servicios de medio ambiente y la industria procesadora de la madera.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
 9/Nombre: RICARDO ANÍBAL MEJÍA M.
 E.- SUSTITUYE PODER
 10/Nombre:
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículos 88 de la Ley de Propiedad Industrial.
 11/Fecha de emisión: 13-12-2019
 12/Reservas:
 Abogado FRANKLIN OMAR LÓPEZ SANTOS
@@ -6710,8 +4970,7 @@ Servicios bancarios y financieros.
 D.- APODERADO LEGAL
 [9] Nombre: SANDRA YADIRA AMAYA VALLADARES.
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 20 de noviembre del año 2019.
 [12] Reservas: No tiene reservas.
 Abogado FIDEL ANTONIO MEDINA
@@ -6736,8 +4995,7 @@ Telecomunicaciones.
 D.- APODERADO LEGAL
 [9] Nombre: SANDRA YADIRA AMAYA VALLADARES.
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 21 de noviembre del año 2019.
 [12] Reservas: No tiene reservas.
 Abogado FIDEL ANTONIO MEDINA
@@ -6763,8 +5021,7 @@ Servicios bancarios y financieros.
 D.- APODERADO LEGAL
 [9] Nombre: SANDRA YADIRA AMAYA VALLADARES.
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 20 de noviembre del año 2019.
 [12] Reservas: No tiene reservas.
 Abogado FIDEL ANTONIO MEDINA
@@ -6813,11 +5070,9 @@ Telecomunicaciones.
 D.- APODERADO LEGAL
 [9] Nombre: SANDRA YADIRA AMAYA VALLADARES.
 USO EXCLUSIVO DE LA OFICINA
-Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de
-Propiedad Industrial.
+Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 21 de noviembre del año 2019.
-[12] Reservas: No se reivindica la palabra PAY, la marca se protege contra otras denominaciones idénticas,
-pero no con las similares
+[12] Reservas: No se reivindica la palabra PAY, la marca se protege contra otras denominaciones idénticas, pero no con las similares
 Abogado FIDEL ANTONIO MEDINA
 Registro de la Propiedad Industrial
 5, 20 F. y 6 M. 2020
@@ -6843,8 +5098,7 @@ D.- APODERADO LEGAL
 USO EXCLUSIVO DE LA OFICINA
 Lo que se pone en conocimiento público para efectos de ley correspondiente. Artículo 88 de la Ley de Propiedad Industrial.
 [11] Fecha de emisión: 20 de noviembre del año 2019.
-[12] Reservas: No se reivindica la palabra PAY, la marca se protege contra otras denominaciones idénticas, pero no con
-las similares.
+[12] Reservas: No se reivindica la palabra PAY, la marca se protege contra otras denominaciones idénticas, pero no con las similares.
 Abogado FIDEL ANTONIO MEDINA
 Registro de la Propiedad Industrial
 5, 20 F. y 6 M. 2020
@@ -6868,8 +5122,7 @@ Tipo de Signo: Denominativa
 6.2/ Reivindicaciones:
 7/Clase Internacional: 04
 8/ Protege y distingue:
-Aceites y grasas para uso industrial, ceras, lubricantes; composiciones para absorber, rociar y asentar el polvo; combustibles
-y materiales de alumbrado; velas y mechas de iluminación.
+Aceites y grasas para uso industrial, ceras, lubricantes; composiciones para absorber, rociar y asentar el polvo; combustibles y materiales de alumbrado; velas y mechas de iluminación.
 8.1/ Página Adicional
 D.- APODERADO LEGAL.
 9/Nombre: SANDRA YADIRA AMAYA VALLADARES.
@@ -6980,8 +5233,7 @@ VUYOL
 ## Plazo (según el documento)
 
 Vigencia
-Artículo 15.- El presente Reglamento entrará en vigencia a
-partir de su publicación en el Diario Oficial La Gaceta.
+Artículo 15.- El presente Reglamento entrará en vigencia a partir de su publicación en el Diario Oficial La Gaceta.
 ABOG. JUAN CARLOS RIVERA
 DIRECTOR GENERAL
 ABOG. CINTIA HERNANDEZ
@@ -6991,48 +5243,28 @@ SECRETARIA GENERAL
 A.
 Sección A Acuerdos y Leyes
 
-Dirección General de la
-Marina Mercante
+Dirección General de la Marina Mercante
 ACUERDO DGMM No. 003-2020
 Tegucigalpa, M.D.C., 22 de enero de 2020
 CONSIDERANDO: Que la Dirección General de la Marina
-Mercante tiene la facultad de establecer un nuevo marco
-normativo de la Marina Mercante Nacional y, en general, de
-todas las actividades marítimas.
-CONSIDERANDO: Que la Profesionalización del recurso
-humano dentro de la Administración Pública es un proceso
-continuo que se desarrolla a través del tiempo de forma
-coordinada con otras reformas de gestión pública y que
-abarca la revisión de su estructura orgánica y el marco legal,
-la definición de una política salarial y el establecimiento de
-una carrera administrativa.
+Mercante tiene la facultad de establecer un nuevo marco normativo de la Marina Mercante Nacional y, en general, de todas las actividades marítimas.
+CONSIDERANDO: Que la Profesionalización del recurso humano dentro de la Administración Pública es un proceso continuo que se desarrolla a través del tiempo de forma coordinada con otras reformas de gestión pública y que abarca la revisión de su estructura orgánica y el marco legal, la definición de una política salarial y el establecimiento de una carrera administrativa.
 CONSIDERANDO: Que mediante Acuerdo DGMM No.
-006-2016 se aprobó el Reglamento Interno Especial de Trabajo
-de la Dirección General de la Marina Mercante.
+006-2016 se aprobó el Reglamento Interno Especial de Trabajo de la Dirección General de la Marina Mercante.
 POR TANTO
 En uso de las facultades que le confiere el artículo 245 numeral
-11) de la Constitución de la República y los artículos 116,
-118 numeral 2) y 119 de la Ley General de la Administración
-Pública, artículos, 1, 2, 4, 91 y 93 de la Ley Orgánica de la
-Marina Mercante Nacional, Acuerdo DGMM No.006-2016.
+11) de la Constitución de la República y los artículos 116, 118 numeral 2) y 119 de la Ley General de la Administración
+Pública, artículos, 1, 2, 4, 91 y 93 de la Ley Orgánica de la Marina Mercante Nacional, Acuerdo DGMM No. 006-2016.
 ACUERDA:
 PRIMERO: Reformar el artículo 44 del Reglamento Interno
 Especial de Trabajo de la Dirección General de la Marina
-Mercante aprobado mediante Acuerdo DGMM No.06-2016
-de fecha 29 de marzo de 2016 de la siguiente forma:
-…Artículo 44.- La DGMM concederá vacaciones anuales
-remuneradas a todos sus empleados, que se computarán
-por cada año completo de servicio continuo prestado a la
-institución de acuerdo con la siguiente escala:
+Mercante aprobado mediante Acuerdo DGMM No. 06-2016 de fecha 29 de marzo de 2016 de la siguiente forma:
+…Artículo 44.- La DGMM concederá vacaciones anuales remuneradas a todos sus empleados, que se computarán por cada año completo de servicio continuo prestado a la institución de acuerdo con la siguiente escala:
 a. Por un (1) año de servicio, quince (15) días laborables.
-b. Por dos (2) años de servicio, veinte (20) días labo-
-rables.
-c. Por tres (3) años de servicio, veinticinco (25) días
-laborables.
-d. De cuatro años de servicio en adelante; treinta (30)
-días laborables.
-SEGUNDO: El presente Acuerdo entrará en vigencia a partir
-de su publicación en el Diario Oficial “La Gaceta”.
+b. Por dos (2) años de servicio, veinte (20) días laborables.
+c. Por tres (3) años de servicio, veinticinco (25) días laborables.
+d. De cuatro años de servicio en adelante; treinta (30) días laborables.
+SEGUNDO: El presente Acuerdo entrará en vigencia a partir de su publicación en el Diario Oficial “La Gaceta”.
 ABOG. JUAN CARLOS RIVERA
 DIRECTOR GENERAL
 ABOG. CINTIA HERNÁNDEZ
@@ -7042,82 +5274,24 @@ SECRETARIA GENERAL
 A.
 Sección A Acuerdos y Leyes
 
-Dirección General de la
-Marina Mercante
+Dirección General de la Marina Mercante
 ACUERDO DGMM No. 004/2020
-Tegucigalpa, M.D.C., veintitrés (23) de enero de dos mil
-veinte (2020)
+Tegucigalpa, M.D.C., veintitrés (23) de enero de dos mil veinte (2020)
 CONSIDERANDO: Que la Convención de las Naciones
 Unidas sobre el Derecho del Mar, de la cual Honduras es
-Estado Parte desde el 5 de octubre de 1993, en su Parte XII,
-contentiva de las directrices en cuanto a la Protección y
-Preservación del Medio Marino, en su Artículo 194 “Medidas
-para prevenir, reducir y controlar la contaminación del medio
-marino”, menciona la importancia de que los Estados definan
-estrategias y políticas individuales e integradas, con el
-objetivo de disminuir el riesgo y el impacto de los episodios
-de contaminación sobre el ecosistema marino;
-CONSIDERANDO: Que Honduras es Estado Parte de
-tratados internacionales adoptados con el fin de proteger
-el medio marino, a través del uso sostenible de los
-recursos marinos y costeros, vivos y no vivos, así como la
-prevención de la contaminación marina por fuentes marinas
-y terrestres tales como: el Convenio para la Prevención de
-la Contaminación por Buques (MARPOL 73/78), Convenio
+Estado Parte desde el 5 de octubre de 1993, en su Parte XII, contentiva de las directrices en cuanto a la Protección y Preservación del Medio Marino, en su Artículo 194 “Medidas para prevenir, reducir y controlar la contaminación del medio marino”, menciona la importancia de que los Estados definan estrategias y políticas individuales e integradas, con el objetivo de disminuir el riesgo y el impacto de los episodios de contaminación sobre el ecosistema marino;
+CONSIDERANDO: Que Honduras es Estado Parte de tratados internacionales adoptados con el fin de proteger el medio marino, a través del uso sostenible de los recursos marinos y costeros, vivos y no vivos, así como la prevención de la contaminación marina por fuentes marinas y terrestres tales como: el Convenio para la Prevención de la Contaminación por Buques (MARPOL 73/78), Convenio
 Internacional Sobre Responsabilidad Civil Nacida de Daños
-Debidos a Contaminación por Hidrocarburos (CLC 92),
-Convenio Sobre la Prevención de la Contaminación del Mar
-por Vertimiento de Desechos y Otras Materias (Convenio
-de Londres), Convenio Internacional para el Control y la
-Gestión del Agua de Lastre y los Sedimentos de los Buques
-(BWM, 2004), Convenio Internacional sobre Cooperación,
-Preparación y Lucha Contra la Contaminación por
-Hidrocarburos (OPRC, 90) y el Convenio para la Protección
-y el Desarrollo del Medio Marino de la Región del Gran
+Debidos a Contaminación por Hidrocarburos (CLC 92), Convenio Sobre la Prevención de la Contaminación del Mar por Vertimiento de Desechos y Otras Materias (Convenio de Londres), Convenio Internacional para el Control y la Gestión del Agua de Lastre y los Sedimentos de los Buques
+(BWM, 2004), Convenio Internacional sobre Cooperación, Preparación y Lucha Contra la Contaminación por Hidrocarburos (OPRC, 90) y el Convenio para la Protección y el Desarrollo del Medio Marino de la Región del Gran
 Caribe (Convenio de Cartagena);
 CONSIDERANDO: Que la Ley Orgánica de la Marina
-Mercante, en su Artículo 5, Numerales 7, 11, 12, 14, 15, 16
-y 19, establece que el uso, protección y preservación de los
-litorales, la prevención de la contaminación marina por buques,
-plataformas fijas u otras instalaciones en aguas jurisdiccionales
-hondureñas, la colocación de estructuras fijas o no en el suelo
-o subsuelo marino, los rellenos, dragados, u otras obras de
-ingeniería oceánica, los astilleros y construcciones navales,
-la inspección técnica de buques, operaciones y mercancías y
-la investigación científica marina, son actividades marinas
-reguladas por esta Dirección General;
+Mercante, en su Artículo 5, Numerales 7, 11, 12, 14, 15, 16 y 19, establece que el uso, protección y preservación de los litorales, la prevención de la contaminación marina por buques, plataformas fijas u otras instalaciones en aguas jurisdiccionales hondureñas, la colocación de estructuras fijas o no en el suelo o subsuelo marino, los rellenos, dragados, u otras obras de ingeniería oceánica, los astilleros y construcciones navales, la inspección técnica de buques, operaciones y mercancías y la investigación científica marina, son actividades marinas reguladas por esta Dirección General;
 CONSIDERANDO: Que la Ley Orgánica de la Marina
-Mercante, en su Artículo 92, numerales 4, 6, 12, 13, 20, 21,
-26, 27, 28 reformados, establece como atribuciones de esta
-Dirección General dirigir y controlar actividades relacionadas
-con la lucha contra la contaminación marina desde buques
-y artefactos navales, así como desde fuentes terrestres en
-caso de derrames de hidrocarburos y sustancias nocivas y
-potencialmente peligrosas; autorizar y controlar las actividades
-de dragado, relleno, vertimiento y demás obras de ingeniería
-oceánica; regular, autorizar y controlar la construcción y el
-uso de las estructuras artificiales que se levanten en las aguas
-sometidas a la jurisdicción de Honduras, incluyendo estructuras
-destinadas a la explotación de la plataforma continental,
-islas artificiales y muelles de instalaciones portuarias que
-hayan sido habilitadas por la autoridad competente; regular
-y controlar la seguridad de la navegación y la protección del
-medio marino; proponer, coordinar y ejecutar las políticas
-y estrategias marítimas del Estado de Honduras; autorizar,
-regular y supervisar las actividades de la industria marítima
-auxiliar; autorizar, regular e inscribir empresas que realizan
-actividades relacionadas con el sector marítimo; coordinar
-la implementación y actualización del Plan Nacional de
-Contingencia ante Derrames de Hidrocarburos y Sustancias
-Nocivas y Potencialmente Peligrosas en el medio acuático de
-Honduras; autorizar los planes de contingencia locales de las
-instalaciones portuarias, empresas dedicadas a la importación
-y exportación de las referidas sustancias, así como de las
-Corporaciones Municipales;
-POR TANTO,
-La Dirección General de la Marina Mercante, en uso de
-las facultades que la Ley le confiere y en aplicación de los
-artículos: 1, 5, 91 y 92 de la Ley Orgánica de la Marina
+Mercante, en su Artículo 92, numerales 4, 6, 12, 13, 20, 21, 26, 27, 28 reformados, establece como atribuciones de esta
+Dirección General dirigir y controlar actividades relacionadas con la lucha contra la contaminación marina desde buques y artefactos navales, así como desde fuentes terrestres en caso de derrames de hidrocarburos y sustancias nocivas y potencialmente peligrosas; autorizar y controlar las actividades de dragado, relleno, vertimiento y demás obras de ingeniería oceánica; regular, autorizar y controlar la construcción y el uso de las estructuras artificiales que se levanten en las aguas sometidas a la jurisdicción de Honduras, incluyendo estructuras destinadas a la explotación de la plataforma continental, islas artificiales y muelles de instalaciones portuarias que hayan sido habilitadas por la autoridad competente; regular y controlar la seguridad de la navegación y la protección del medio marino; proponer, coordinar y ejecutar las políticas y estrategias marítimas del Estado de Honduras; autorizar, regular y supervisar las actividades de la industria marítima auxiliar; autorizar, regular e inscribir empresas que realizan actividades relacionadas con el sector marítimo; coordinar la implementación y actualización del Plan Nacional de Contingencia ante Derrames de Hidrocarburos y Sustancias
+Nocivas y Potencialmente Peligrosas en el medio acuático de Honduras; autorizar los planes de contingencia locales de las instalaciones portuarias, empresas dedicadas a la importación y exportación de las referidas sustancias, así como de las Corporaciones Municipales;
+POR TANTO, La Dirección General de la Marina Mercante, en uso de las facultades que la Ley le confiere y en aplicación de los artículos: 1, 5, 91 y 92 de la Ley Orgánica de la Marina
 8
 
 A.
@@ -7128,312 +5302,126 @@ Mercante y su reforma mediante Decreto Legislativo No. 120-
 Pública y demás artículos aplicables.
 ACUERDA aprobar el siguiente:
 REGLAMENTO RELATIVO A LAS POTESTADES
-AMBIENTALES DE LA DIRECCIÓN GENERAL DE
-LA MARINA MERCANTE
+AMBIENTALES DE LA DIRECCIÓN GENERAL DE LA MARINA MERCANTE
 TÍTULO I
 DISPOSICIONES GENERALES
 CAPÍTULO I
 
 ## Procedimiento (según el documento)
 
-PROCEDIMIENTOS TÉCNICOS Y
-ADMINISTRATIVOS DEL DEPARTAMENTO DE
-PROTECCIÓN DEL MEDIO MARINO
+PROCEDIMIENTOS TÉCNICOS Y ADMINISTRATIVOS DEL DEPARTAMENTO DE PROTECCIÓN DEL MEDIO MARINO
 CAPÍTULO I
 DE LAS INSPECCIONES TÉCNICAS
 AMBIENTALES
-Artículo 15.- Las inspecciones técnicas ambientales, son el
-fundamento del cual se originan las opiniones técnicas del
-Departamento de Protección del Medio Marino, respecto
-a una solicitud externa o interna, a un accidente marítimo,
-a una denuncia ambiental o a un SINEIA, las cuales son
-realizadas por un oficial con formación técnica ambiental,
-quien corroborará la información brindada por el proponente
-o por el denunciante (documentación, ubicación geográfica,
-descripción del medio y los recursos vivos y no vivos), para
-lo que utilizará mecanismos tales como registros fotográficos,
-entrevistas e inspecciones submarinas, entre otros, de acuerdo
-corresponda a cada caso.
-Artículo 16.- Una vez finalizada la inspección, el oficial
-responsable del Departamento de Protección del Medio
-Marino, remitirá en físico y electrónicamente su informe
-técnico correspondiente a la jefatura de la Sección de
-Inspección Ambiental del Departamento de Protección del
-Medio Marino. Dicho documento debe contener, al menos,
-la siguiente información:
+Artículo 15.- Las inspecciones técnicas ambientales, son el fundamento del cual se originan las opiniones técnicas del Departamento de Protección del Medio Marino, respecto a una solicitud externa o interna, a un accidente marítimo, a una denuncia ambiental o a un SINEIA, las cuales son realizadas por un oficial con formación técnica ambiental, quien corroborará la información brindada por el proponente o por el denunciante (documentación, ubicación geográfica, descripción del medio y los recursos vivos y no vivos), para lo que utilizará mecanismos tales como registros fotográficos, entrevistas e inspecciones submarinas, entre otros, de acuerdo corresponda a cada caso.
+Artículo 16.- Una vez finalizada la inspección, el oficial responsable del Departamento de Protección del Medio
+Marino, remitirá en físico y electrónicamente su informe técnico correspondiente a la jefatura de la Sección de Inspección Ambiental del Departamento de Protección del Medio Marino. Dicho documento debe contener, al menos, la siguiente información:
 - Código correlativo del informe;
 - Fecha y lugar de la inspección;
 - Localización geográfica del caso inspeccionado (en
 sistema de coordenadas UTM-WGS 84);
 - Descripción detallada de lo observado durante la
-inspección (caracterización físico-ambiental del
-14
+inspección (caracterización físico-ambiental del 14
 
 A.
 Sección A Acuerdos y Leyes
 
-área, ecosistemas cercanos, actividades humanas
-que impactan, con especial énfasis en las actividades
-marítimas);
+área, ecosistemas cercanos, actividades humanas que impactan, con especial énfasis en las actividades marítimas);
 - Registro fotográfico detallado de la inspección, inclu-
 yendo recorridos submarinos, cuando aplique;
 - Fecha y lugar de emisión del informe;
 - Firma del inspector en la última página.
-De igual manera, de ser necesario, el informe irá acompañado
-de información complementaria, como ser mapas, nombre del
-personal del sitio que atendió la visita, documentación cotejada,
-así como la mención de las autoridades o representantes de
-otros organismos que hayan participado en la inspección.
-Artículo 17.- En el caso de acaecer un episodio de
-contaminación por derrame de hidrocarburos y/u otra sustancia
-nociva y potencialmente peligrosa, el oficial técnico ambiental
-del Departamento de Protección del Medio Marino, o en su
-defecto, un oficial de la Capitanía de Puerto más cercana,
-deberá desplazarse inmediatamente al sitio del incidente a
-fin de verificar la situación y deberá permanecer durante el
-tiempo que dure la emergencia y la respuesta, notificando
-de primera mano al jefe del Departamento de Protección del
-Medio Marino, de acuerdo a la organización de la respuesta
-establecida en el Plan Nacional de Contingencias ante
-Derrames de Hidrocarburos y Otras Sustancias Nocivas y
-Potencialmente Peligrosas en Espacios Acuáticos de Honduras
+De igual manera, de ser necesario, el informe irá acompañado de información complementaria, como ser mapas, nombre del personal del sitio que atendió la visita, documentación cotejada, así como la mención de las autoridades o representantes de otros organismos que hayan participado en la inspección.
+Artículo 17.- En el caso de acaecer un episodio de contaminación por derrame de hidrocarburos y/u otra sustancia nociva y potencialmente peligrosa, el oficial técnico ambiental del Departamento de Protección del Medio Marino, o en su defecto, un oficial de la Capitanía de Puerto más cercana, deberá desplazarse inmediatamente al sitio del incidente a fin de verificar la situación y deberá permanecer durante el tiempo que dure la emergencia y la respuesta, notificando de primera mano al jefe del Departamento de Protección del Medio Marino, de acuerdo a la organización de la respuesta establecida en el Plan Nacional de Contingencias ante
+Derrames de Hidrocarburos y Otras Sustancias Nocivas y Potencialmente Peligrosas en Espacios Acuáticos de Honduras
 (PNCH).
 Artículo 18.- Las solicitudes ingresadas a esta Dirección
-General, relativas a actividades u obras a las que les aplica
-el proceso de licenciamiento ambiental, serán analizadas
-e inspeccionadas por un oficial técnico ambiental de este
-Departamento de Protección del Medio Marino, dentro del
-Sistema Nacional de Evaluación de Impacto Ambiental
-(SINEIA) que se instala previo a la emisión de dicho permiso
-y que es convocado por la Secretaría de Recursos Naturales
-y Ambiente, de acuerdo a lo establecido en el Acuerdo 008-
+General, relativas a actividades u obras a las que les aplica el proceso de licenciamiento ambiental, serán analizadas e inspeccionadas por un oficial técnico ambiental de este
+Departamento de Protección del Medio Marino, dentro del Sistema Nacional de Evaluación de Impacto Ambiental
+(SINEIA) que se instala previo a la emisión de dicho permiso y que es convocado por la Secretaría de Recursos Naturales y Ambiente, de acuerdo a lo establecido en el Acuerdo 008-
 2015, relativo al Reglamento del SINEIA.
-Artículo 19.- Al darse la circunstancia de que el proyecto que
-está siendo sometido a aprobación por parte de esta Dirección
-General, ya cuente con una Licencia Ambiental emitida por la
-autoridad competente, la cual deriva de un SINEIA en el cual
-no participó esta Autoridad Marítima, la Dirección General de
-la Marina Mercante realizará una inspección a fin de detectar
-cualquier factor, tanto físico como documental, dentro del
-ámbito específico de su competencia, que pudo haber sido
-omitido, lo cual dará lugar al establecimiento de condiciones
-de estricto cumplimiento para el proponente del proyecto, las
-cuales serán trasladas a la Autoridad Ambiental.
-Artículo 20.- En caso de que el Departamento de Protección
-del Medio Marino realice una inspección donde se detecten
-contravenciones a otros marcos normativos nacionales e
-internacionales (Convención sobre el Comercio Internacional
-de Especies Amenazadas de Fauna y Flora Silvestres-CITES;
+Artículo 19.- Al darse la circunstancia de que el proyecto que está siendo sometido a aprobación por parte de esta Dirección
+General, ya cuente con una Licencia Ambiental emitida por la autoridad competente, la cual deriva de un SINEIA en el cual no participó esta Autoridad Marítima, la Dirección General de la Marina Mercante realizará una inspección a fin de detectar cualquier factor, tanto físico como documental, dentro del ámbito específico de su competencia, que pudo haber sido omitido, lo cual dará lugar al establecimiento de condiciones de estricto cumplimiento para el proponente del proyecto, las cuales serán trasladas a la Autoridad Ambiental.
+Artículo 20.- En caso de que el Departamento de Protección del Medio Marino realice una inspección donde se detecten contravenciones a otros marcos normativos nacionales e internacionales (Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres-CITES;
 Convenio sobre la Diversidad Biológica-CDB; Convención
-Relativa a los Humedales de Importancia Internacional
-especialmente como Hábitat de Aves Acuáticas -RAMSAR;
-Convenio para la Protección y el Desarrollo del Medio Marino
-e la Región del Gran Caribe; Convención de Basilea sobre el
-control de los movimientos transfronterizos de los desechos
-peligrosos y su eliminación; Ley General del Ambiente;
+Relativa a los Humedales de Importancia Internacional especialmente como Hábitat de Aves Acuáticas -RAMSAR;
+Convenio para la Protección y el Desarrollo del Medio Marino e la Región del Gran Caribe; Convención de Basilea sobre el control de los movimientos transfronterizos de los desechos peligrosos y su eliminación; Ley General del Ambiente;
 Ley General de Pesca y Acuicultura; Ley Forestal, Áreas
-Protegidas y Vida Silvestre; Plan de Arbitrios municipales,
-Ley Especial de las Áreas Protegidas de Islas de la Bahía, Normas
-Generales para el Control del Desarrollo de Islas de la Bahía,
-Planes de Manejo de las áreas protegidas marino-costeras, entre
+Protegidas y Vida Silvestre; Plan de Arbitrios municipales, Ley Especial de las Áreas Protegidas de Islas de la Bahía, Normas
+Generales para el Control del Desarrollo de Islas de la Bahía, Planes de Manejo de las áreas protegidas marino-costeras, entre
 15
 
 A.
 Sección A Acuerdos y Leyes
 
-otros), se remitirá una copia del informe de inspección a la(s)
-autoridad(es) competente(s).
-Artículo 21.- Las industrias marítimas y portuarias auxiliares
-y cualquier empresa que se desarrolle dentro de este ámbito
-y cuyas actividades son propensas de provocar un perjuicio
-al medio marino, al momento de inscribirse o renovar su
-inscripción en el registro que para tal fin lleva esta Dirección
-General, deberán ser inspeccionadas por este Departamento de
-Protección del Medio Marino de manera que se garantice que
-sus operaciones no representan riesgos para la salud ambiental
-ni de las personas.
+otros), se remitirá una copia del informe de inspección a la(s) autoridad(es) competente(s).
+Artículo 21.- Las industrias marítimas y portuarias auxiliares y cualquier empresa que se desarrolle dentro de este ámbito y cuyas actividades son propensas de provocar un perjuicio al medio marino, al momento de inscribirse o renovar su inscripción en el registro que para tal fin lleva esta Dirección
+General, deberán ser inspeccionadas por este Departamento de Protección del Medio Marino de manera que se garantice que sus operaciones no representan riesgos para la salud ambiental ni de las personas.
 CAPÍTULO II
 
-PROCEDIMIENTOS ADMINISTRATIVOS DEL
-DEPARTAMENTO DE PROTECCIÓN DEL MEDIO
+PROCEDIMIENTOS ADMINISTRATIVOS DEL DEPARTAMENTO DE PROTECCIÓN DEL MEDIO
 MARINO
-Artículo 22.- Las solicitudes que requieran Opinión Técnica
-del Departamento de Protección del Medio Marino, deben ser
-ingresadas a esta Dirección General a través de la Ventanilla
-de Receptoría de Documentos de la Secretaría General, la cual
-deberá de contar con las formalidades exigidas en la Ley de
-Procedimiento Administrativo.
-Artículo 23.- Los requisitos que debe presentar el solicitante,
-son los establecidos en el Manual de Procedimientos del
-Departamento de Protección del Medio Marino.
+Artículo 22.- Las solicitudes que requieran Opinión Técnica del Departamento de Protección del Medio Marino, deben ser ingresadas a esta Dirección General a través de la Ventanilla de Receptoría de Documentos de la Secretaría General, la cual deberá de contar con las formalidades exigidas en la Ley de Procedimiento Administrativo.
+Artículo 23.- Los requisitos que debe presentar el solicitante, son los establecidos en el Manual de Procedimientos del Departamento de Protección del Medio Marino.
 Artículo 24.- El cobro de los servicios prestados por esta
-Dirección General, se hará de acuerdo al tarifario vigente
-según la Ley Orgánica de la Marina Mercante Nacional.
-Artículo 25.- Toda autorización para desarrollar actividades
-marítimas, debe renovarse anualmente, en caso de que el
-proyecto tenga una duración mayor a un año.
+Dirección General, se hará de acuerdo al tarifario vigente según la Ley Orgánica de la Marina Mercante Nacional.
+Artículo 25.- Toda autorización para desarrollar actividades marítimas, debe renovarse anualmente, en caso de que el proyecto tenga una duración mayor a un año.
 TÍTULO III
 PREVENCIÓN DE LA CONTAMINACIÓN MARINA
 DESDE BUQUES Y FUENTES TERRESTRES
 CAPÍTULO I
 MEDIDAS APLICABLES A LOS BUQUES
-Artículo 26.- Los Oficiales del Estado Rector de Puerto
-verificarán la documentación y demás evidencias de que los
-buques de bandera extranjera que ingresan a aguas nacionales,
-cumplan con los requerimientos tipificados en los convenios
-internacionales de los que Honduras es Estado Parte.
-Artículo 27.- De acuerdo a lo establecido en el Reglamento
-de Prevención de la Contaminación, los buques de navegación
-internacional que operen en aguas jurisdiccionales hondureñas,
-deben presentar una póliza de seguro y un Certificado de
-Cobertura OSRO.
-Artículo 28.- En cuanto a las embarcaciones de navegación
-nacional, éstas deben dar estricto cumplimiento a lo establecido
-en la normativa nacional relativa a las medidas de prevención
-de la contaminación desde buques, en aplicación del Acuerdo
-003-2009 y el Acuerdo 001-2001, sobre la implementación
-del Convenio MARPOL en el país.
-Artículo 29.- La actividad de trasiego de hidrocarburos
-de buque a buque que se realice en aguas jurisdiccionales
-hondureñas, debe contar con previa autorización de esta
-Dirección General, a través del Departamento de Protección
-del Medio Marino y debe acompañarse de un Manual de
-Operaciones de Transferencia de Hidrocarburos de Buque a
-Buque aprobado por esta Dirección General.
-Artículo 30.- Los armadores de las embarcaciones hondureñas
-que se dediquen a operaciones de trasiego de combustible
+Artículo 26.- Los Oficiales del Estado Rector de Puerto verificarán la documentación y demás evidencias de que los buques de bandera extranjera que ingresan a aguas nacionales, cumplan con los requerimientos tipificados en los convenios internacionales de los que Honduras es Estado Parte.
+Artículo 27.- De acuerdo a lo establecido en el Reglamento de Prevención de la Contaminación, los buques de navegación internacional que operen en aguas jurisdiccionales hondureñas, deben presentar una póliza de seguro y un Certificado de Cobertura OSRO.
+Artículo 28.- En cuanto a las embarcaciones de navegación nacional, éstas deben dar estricto cumplimiento a lo establecido en la normativa nacional relativa a las medidas de prevención de la contaminación desde buques, en aplicación del Acuerdo
+003-2009 y el Acuerdo 001-2001, sobre la implementación del Convenio MARPOL en el país.
+Artículo 29.- La actividad de trasiego de hidrocarburos de buque a buque que se realice en aguas jurisdiccionales hondureñas, debe contar con previa autorización de esta
+Dirección General, a través del Departamento de Protección del Medio Marino y debe acompañarse de un Manual de Operaciones de Transferencia de Hidrocarburos de Buque a Buque aprobado por esta Dirección General.
+Artículo 30.- Los armadores de las embarcaciones hondureñas que se dediquen a operaciones de trasiego de combustible
 16
 
 A.
 Sección A Acuerdos y Leyes
 
 de buque a buque, deben de presentar ante esta Dirección
-General, con una periodicidad trimestral, registro de los
-volúmenes y el tipo de combustible trasegados, así como
-evidencia de un contrato con la empresa OSRO habilitada.
-Artículo 31.- Las actividades de reparación y mantenimiento
-de embarcaciones mayores y menores deben realizarse en
-astilleros y talleres autorizados por esta Dirección General.
-Las actividades menores de mantenimiento, de acuerdo a lo
-estipulado en el Manual de Procedimientos del Departamento
-de Protección del Medio Marino, podrán realizarse fuera de
-este ámbito, sólo cuando haya una evaluación y aprobación
-previa por parte de esta Dirección General.
+General, con una periodicidad trimestral, registro de los volúmenes y el tipo de combustible trasegados, así como evidencia de un contrato con la empresa OSRO habilitada.
+Artículo 31.- Las actividades de reparación y mantenimiento de embarcaciones mayores y menores deben realizarse en astilleros y talleres autorizados por esta Dirección General.
+Las actividades menores de mantenimiento, de acuerdo a lo estipulado en el Manual de Procedimientos del Departamento de Protección del Medio Marino, podrán realizarse fuera de este ámbito, sólo cuando haya una evaluación y aprobación previa por parte de esta Dirección General.
 CAPÍTULO II
-MEDIDAS APLICABLES A LAS TERMINALES Y
-EMPRESAS CON RIESGO DE DERRAMES
-Artículo 32.- Todos los puertos, terminales, empresas y
-demás instalaciones dedicadas a la importación, exportación,
-recepción, almacenaje, trasvase, transporte, manejo y
-distribución de hidrocarburos en todas sus formas, así como
-otras sustancias nocivas y potencialmente peligrosas en
-aguas jurisdiccionales hondureñas, deben contar con un
-Plan de Contingencias aprobado y auditado por la Dirección
-General de la Marina Mercante, a través del Departamento
-de Protección del Medio Marino.
-Artículo 33.- Los Planes de Contingencia ante derrames de
-hidrocarburos y otras sustancias nocivas y potencialmente
-peligrosas, serán analizados de acuerdo a la estructura y
-contenido establecido en la Guía Funcional sobre Planes
-de Contingencia para Empresas con Riesgo de Derrames
-de Hidrocarburos y Sustancias Nocivas y Potencialmente
-Peligrosas, aprobada mediante Resolución 123-2017,
-aprobado en fecha 11 de septiembre de 2017.
-Artículo 34.- Una vez revisado y aprobado el Plan de
-Contingencias, el Departamento de Protección del Medio
-Marino es responsable de auditar periódicamente las
-capacidades de las empresas a las que les aplica la Resolución
+MEDIDAS APLICABLES A LAS TERMINALES Y EMPRESAS CON RIESGO DE DERRAMES
+Artículo 32.- Todos los puertos, terminales, empresas y demás instalaciones dedicadas a la importación, exportación, recepción, almacenaje, trasvase, transporte, manejo y distribución de hidrocarburos en todas sus formas, así como otras sustancias nocivas y potencialmente peligrosas en aguas jurisdiccionales hondureñas, deben contar con un Plan de Contingencias aprobado y auditado por la Dirección
+General de la Marina Mercante, a través del Departamento de Protección del Medio Marino.
+Artículo 33.- Los Planes de Contingencia ante derrames de hidrocarburos y otras sustancias nocivas y potencialmente peligrosas, serán analizados de acuerdo a la estructura y contenido establecido en la Guía Funcional sobre Planes de Contingencia para Empresas con Riesgo de Derrames de Hidrocarburos y Sustancias Nocivas y Potencialmente
+Peligrosas, aprobada mediante Resolución 123-2017, aprobado en fecha 11 de septiembre de 2017.
+Artículo 34.- Una vez revisado y aprobado el Plan de Contingencias, el Departamento de Protección del Medio
+Marino es responsable de auditar periódicamente las capacidades de las empresas a las que les aplica la Resolución
 123-2017.
-Artículo 35.- De acuerdo a lo establecido en el Reglamento
-de Prevención de la Contaminación (Acuerdo 022-2015), las
-terminales donde operen buques que se dedican a operaciones
-de carga y descarga de hidrocarburos y otras SNPP, deben
-colocar barreras de contención como medida preventiva y
-de control de posibles derrames. De igual manera, deben
-cumplir con todo lo establecido en tal Reglamento, de manera
-que cuenten con una preparación y equipamiento mínimo
-para dar respuesta ante un eventual incidente de derrame, en
-concordancia al precitado Acuerdo y el correspondiente Plan
-de Contingencias.
+Artículo 35.- De acuerdo a lo establecido en el Reglamento de Prevención de la Contaminación (Acuerdo 022-2015), las terminales donde operen buques que se dedican a operaciones de carga y descarga de hidrocarburos y otras SNPP, deben colocar barreras de contención como medida preventiva y de control de posibles derrames. De igual manera, deben cumplir con todo lo establecido en tal Reglamento, de manera que cuenten con una preparación y equipamiento mínimo para dar respuesta ante un eventual incidente de derrame, en concordancia al precitado Acuerdo y el correspondiente Plan de Contingencias.
 CAPÍTULO III
 SOBRE LA RECEPCIÓN DE DESECHOS
 PROVENIENTES DE BUQUES
 Artículo 36.- De acuerdo a lo establecido en el Convenio
-MARPOL, la Autoridad Marítima es la llamada a implementar
-de manera segura, tanto para las personas, como para el
-medio marino, los procedimientos de descarga de desechos de
-buques. Dicho proceso implica la participación coordinada de
-instituciones públicas y privadas que cumplen con funciones
-específicas, tales como terminales y operadores portuarios,
-ENP, SENASA, municipalidades, empresas navieras, entre
-otros.
-Artículo 37.- La Dirección General de la Marina Mercante,
-a través del Departamento de Protección del Medio Marino,
-17
+MARPOL, la Autoridad Marítima es la llamada a implementar de manera segura, tanto para las personas, como para el medio marino, los procedimientos de descarga de desechos de buques. Dicho proceso implica la participación coordinada de instituciones públicas y privadas que cumplen con funciones específicas, tales como terminales y operadores portuarios, ENP, SENASA, municipalidades, empresas navieras, entre otros.
+Artículo 37.- La Dirección General de la Marina Mercante, a través del Departamento de Protección del Medio Marino, 17
 
 A.
 Sección A Acuerdos y Leyes
 
-es responsable de aprobar los Planes de Gestión de Desechos
-provenientes de buques, así como autorizar a las empresas
-dedicadas a tales actividades, de manera que tal proceso se
-realice de manera adecuada y en cumplimiento del marco
-normativo nacional e internacional, de acuerdo a lo estipulado
-en el Artículo 6 del Acuerdo 053-2012. Lo anterior sin
-perjuicio de las competencias de otras entidades del Estado
-competentes.
-Artículo 38.- Las operaciones interinstitucionales de las que
-depende el procedimiento de descarga, tratamiento, manejo,
-transporte y disposición final de los desechos provenientes
-de los buques, deben ser supervisadas y aprobadas por esta
-Autoridad Marítima, a través del Departamento de Protección
-del Medio Marino, en cumplimiento de lo establecido en el
-Convenio MARPOL y al Reglamento sobre Instalaciones de
-Recepción Portuarias (Acuerdo 053-2012 aprobado en fecha
+es responsable de aprobar los Planes de Gestión de Desechos provenientes de buques, así como autorizar a las empresas dedicadas a tales actividades, de manera que tal proceso se realice de manera adecuada y en cumplimiento del marco normativo nacional e internacional, de acuerdo a lo estipulado en el Artículo 6 del Acuerdo 053-2012. Lo anterior sin perjuicio de las competencias de otras entidades del Estado competentes.
+Artículo 38.- Las operaciones interinstitucionales de las que depende el procedimiento de descarga, tratamiento, manejo, transporte y disposición final de los desechos provenientes de los buques, deben ser supervisadas y aprobadas por esta
+Autoridad Marítima, a través del Departamento de Protección del Medio Marino, en cumplimiento de lo establecido en el Convenio MARPOL y al Reglamento sobre Instalaciones de Recepción Portuarias (Acuerdo 053-2012 aprobado en fecha
 3 de julio de 2012).
 CAPÍTULO IV
 DE LA REMOCIÓN DE RESTOS DE NAUFRAGIOS
 Artículo 39.- De acuerdo a lo establecido en el Convenio
 Internacional sobre Remoción de Riesgos de Naufragio
-(Convenio de Nairobi, 2007), en el caso que, un buque, sus
-partes, así como cualquier objeto que esté o haya estado a
-bordo del buque y que se encuentre varado o hundido, o que
-se espere, razonablemente, que quede varado o hundido, se
-considerará un resto de naufragio. De igual forma, lo aquí
-planteado será aplicable cuando dichos restos representen un
-riesgo a la navegación y a la seguridad marítima, al estado de
-salud ambiental del medio marino y/o a los intereses marítimos
-conexos del país.
-Artículo 40.- En apego a las atribuciones de la Ley Orgánica de
-la Marina Mercante Nacional, la Dirección General de la Marina
-Mercante coordinará con las instituciones gubernamentales
-y no gubernamentales que tengan competencia en el tema,
-la remoción de los restos de embarcaciones, menores y
-mayores, hundidas o semihundidas en aguas jurisdiccionales
-hondureñas.
-Artículo 41.- Para tales fines, en caso de que se identifique el
-propietario de la embarcación, éste deberá hacerse responsable
-de todas las actividades de remoción de la misma, bajo la
-supervisión constante de esta Autoridad, que deberá aprobar
-un plan de remoción previo al inicio de las acciones.
-Artículo 42.- En caso de que no logre identificarse el
-propietario de la embarcación, esta Dirección General u
-otra institución con competencia en el tema, deberá iniciar
-el proceso civil para que se declare en abandono, el cual
-se realizará ante la instancia judicial competente. Una vez
-finalizado el proceso, la institución solicitante, se encargará
-de realizar las gestiones que correspondan para asegurarse que
-las embarcaciones abandonadas sean removidas.
-Artículo 43.- Si la embarcación está bajo responsabilidad
-de otra instancia gubernamental, esta Dirección General
-realizará las gestiones correspondientes para que, de manera
-coordinada, se ejecuten las acciones de remoción.
-Artículo 44.- El destino final de la embarcación, sea éste
-hundimiento o desguace, deberá también ser autorizado por
-la Dirección General de la Marina Mercante. En el segundo
-de los casos, esta actividad deberá realizarse en un astillero o
-taller de reparación bajo la responsabilidad de una empresa
-certificada por esta Autoridad.
+(Convenio de Nairobi, 2007), en el caso que, un buque, sus partes, así como cualquier objeto que esté o haya estado a bordo del buque y que se encuentre varado o hundido, o que se espere, razonablemente, que quede varado o hundido, se considerará un resto de naufragio. De igual forma, lo aquí planteado será aplicable cuando dichos restos representen un riesgo a la navegación y a la seguridad marítima, al estado de salud ambiental del medio marino y/o a los intereses marítimos conexos del país.
+Artículo 40.- En apego a las atribuciones de la Ley Orgánica de la Marina Mercante Nacional, la Dirección General de la Marina
+Mercante coordinará con las instituciones gubernamentales y no gubernamentales que tengan competencia en el tema, la remoción de los restos de embarcaciones, menores y mayores, hundidas o semihundidas en aguas jurisdiccionales hondureñas.
+Artículo 41.- Para tales fines, en caso de que se identifique el propietario de la embarcación, éste deberá hacerse responsable de todas las actividades de remoción de la misma, bajo la supervisión constante de esta Autoridad, que deberá aprobar un plan de remoción previo al inicio de las acciones.
+Artículo 42.- En caso de que no logre identificarse el propietario de la embarcación, esta Dirección General u otra institución con competencia en el tema, deberá iniciar el proceso civil para que se declare en abandono, el cual se realizará ante la instancia judicial competente. Una vez finalizado el proceso, la institución solicitante, se encargará de realizar las gestiones que correspondan para asegurarse que las embarcaciones abandonadas sean removidas.
+Artículo 43.- Si la embarcación está bajo responsabilidad de otra instancia gubernamental, esta Dirección General realizará las gestiones correspondientes para que, de manera coordinada, se ejecuten las acciones de remoción.
+Artículo 44.- El destino final de la embarcación, sea éste hundimiento o desguace, deberá también ser autorizado por la Dirección General de la Marina Mercante. En el segundo de los casos, esta actividad deberá realizarse en un astillero o taller de reparación bajo la responsabilidad de una empresa certificada por esta Autoridad.
 18
 
 A.
@@ -7442,124 +5430,48 @@ Sección A Acuerdos y Leyes
 TÍTULO IV
 SOBRE ESTUDIOS E INVESTIGACIONES
 CIENTÍFICAS MARINAS
-Artículo 45.- Las actividades relativas a la investigación
-científica marina, tales como monitoreos biológicos, estudios
-físico químicos de calidad de agua y sedimentos marinos,
-estudios oceanográficos e hidrográficos, sensibilidad
-ambiental ante episodios de contaminación, valorización
-económica de los recursos marino-costeros y similares,
-son potestades ambientales de esta Dirección General, a
-través del Departamento de Protección del Medio Marino,
-sin perjuicio de las responsabilidades legalmente atribuidas
-a otras instituciones del Estado, con las cuales deben
-planearse y ejecutarse tales actividades de manera integrada
-y complementaria.
-Artículo 46.- El proponente de un estudio y/o investigación
-científica marina a desarrollarse en aguas jurisdiccionales
-hondureñas, deberá cumplir con el procedimiento establecido
-en el Manual de Procedimientos de este Departamento de
-Protección del Medio Marino. De igual manera, debe entregar
-copia de los resultados y/o productos de la investigación.
+Artículo 45.- Las actividades relativas a la investigación científica marina, tales como monitoreos biológicos, estudios físico químicos de calidad de agua y sedimentos marinos, estudios oceanográficos e hidrográficos, sensibilidad ambiental ante episodios de contaminación, valorización económica de los recursos marino-costeros y similares, son potestades ambientales de esta Dirección General, a través del Departamento de Protección del Medio Marino, sin perjuicio de las responsabilidades legalmente atribuidas a otras instituciones del Estado, con las cuales deben planearse y ejecutarse tales actividades de manera integrada y complementaria.
+Artículo 46.- El proponente de un estudio y/o investigación científica marina a desarrollarse en aguas jurisdiccionales hondureñas, deberá cumplir con el procedimiento establecido en el Manual de Procedimientos de este Departamento de Protección del Medio Marino. De igual manera, debe entregar copia de los resultados y/o productos de la investigación.
 Artículo 47.- De acuerdo a las competencias de esta Autoridad
-Marítima, las propuestas de investigación científica marina
-que requieren de su autorización son las que cumplen con las
-siguientes condiciones: a) utilizan artefactos navales como
-parte de la metodología de investigación; b) introducen al
-medio marino cualquier sustancia, material o producto extraño
-y/o potencialmente perjudicial; y, c) requiere la colocación de
-estructuras artificiales dentro del mar.
+Marítima, las propuestas de investigación científica marina que requieren de su autorización son las que cumplen con las siguientes condiciones: a) utilizan artefactos navales como parte de la metodología de investigación; b) introducen al medio marino cualquier sustancia, material o producto extraño y/o potencialmente perjudicial; y, c) requiere la colocación de estructuras artificiales dentro del mar.
 TÍTULO V
-DE LAS INFRACCIONES Y SANCIONES EN EL
-ÁMBITO DE LA PROTECCIÓN DEL MEDIO
+DE LAS INFRACCIONES Y SANCIONES EN EL ÁMBITO DE LA PROTECCIÓN DEL MEDIO
 MARINO
-Artículo 48.- Son consideradas infracciones administrativas
-dentro del ámbito de la protección del medio marino, en el
-marco de lo establecido en la Ley Orgánica de la Marina
+Artículo 48.- Son consideradas infracciones administrativas dentro del ámbito de la protección del medio marino, en el marco de lo establecido en la Ley Orgánica de la Marina
 Mercante Nacional, las que se describen a continuación:
-a. La contaminación marina producida por buques,
-embarcaciones menores y cualquier otro artefacto
-naval, así como por fuentes terrestres;
-b. Desarrollar actividades de dragado, relleno y
-vertimientos en el mar de cualquier sustancia, material
-o desecho sin previa autorización de esta Dirección
+a. La contaminación marina producida por buques, embarcaciones menores y cualquier otro artefacto naval, así como por fuentes terrestres;
+b. Desarrollar actividades de dragado, relleno y vertimientos en el mar de cualquier sustancia, material o desecho sin previa autorización de esta Dirección
 General;
-c. Ejecutar actividades de reparación, ampliación y/o
-construcción de muelles sin previa aprobación de esta
+c. Ejecutar actividades de reparación, ampliación y/o construcción de muelles sin previa aprobación de esta
 Autoridad Marítima;
-d. No solicitar autorización previa a la colocación de toda
-estructura artificial sobre el mar, sin importar el tipo
-de material o la metodología a utilizar, es considerada
-una infracción de acuerdo al marco normativo de esta
-Dirección General, ya que hay una modificación de las
-características físicas, químicas, biológicas, ecológicas
-del medio marino, así como la dinámica hidrológica y
-costera, las cuales deben ser planificadas y evaluadas
-con anticipación;
-e. Las operaciones de los astilleros, diques, marinas y
-empresas con riesgo de derrames de hidrocarburos y
-otras sustancias nocivas y potencialmente peligrosas,
-sin autorización y supervisión de esta Dirección
-General, a través de su unidad ambiental y Capitanías
-de Puerto;
+d. No solicitar autorización previa a la colocación de toda estructura artificial sobre el mar, sin importar el tipo de material o la metodología a utilizar, es considerada una infracción de acuerdo al marco normativo de esta
+Dirección General, ya que hay una modificación de las características físicas, químicas, biológicas, ecológicas del medio marino, así como la dinámica hidrológica y costera, las cuales deben ser planificadas y evaluadas con anticipación;
+e. Las operaciones de los astilleros, diques, marinas y empresas con riesgo de derrames de hidrocarburos y otras sustancias nocivas y potencialmente peligrosas, sin autorización y supervisión de esta Dirección
+General, a través de su unidad ambiental y Capitanías de Puerto;
 19
 
 A.
 Sección A Acuerdos y Leyes
 
-f. Desarrollar cualquier actividad de mantenimiento,
-reparación, pintura y demás en embarcaciones en
-aguas jurisdiccionales hondureñas sin la aprobación
-de la Marina Mercante es constitutivo de infracción;
-g. Las operaciones de distribución y transferencia de
-hidrocarburos en el mar, sin la autorización previa de
-esta Dirección General, a través del Departamento de
-Protección del Medio Marino;
-h. Realizar operaciones de distribución y transferencia
-de hidrocarburos en el mar o desde tierra hacia el mar
-sin usar el equipo de contención y de prevención de la
-contaminación correspondiente y autorizado por esta
+f. Desarrollar cualquier actividad de mantenimiento, reparación, pintura y demás en embarcaciones en aguas jurisdiccionales hondureñas sin la aprobación de la Marina Mercante es constitutivo de infracción;
+g. Las operaciones de distribución y transferencia de hidrocarburos en el mar, sin la autorización previa de esta Dirección General, a través del Departamento de Protección del Medio Marino;
+h. Realizar operaciones de distribución y transferencia de hidrocarburos en el mar o desde tierra hacia el mar sin usar el equipo de contención y de prevención de la contaminación correspondiente y autorizado por esta
 Dirección General.
-i. El abandono de embarcaciones menores y mayores en
-aguas jurisdiccionales hondureñas. La remoción de
-embarcaciones no navegables, es responsabilidad de
-su propietario, quien debe notificar a esta Autoridad
+i. El abandono de embarcaciones menores y mayores en aguas jurisdiccionales hondureñas. La remoción de embarcaciones no navegables, es responsabilidad de su propietario, quien debe notificar a esta Autoridad
 Marítima, de acuerdo a lo establecido en la Ley
 Orgánica de la Marina Mercante;
-j. El reciclaje de buques y demás embarcaciones en
-desuso, ya sea a través del desguace o del hundimiento,
-sin la debida autorización y supervisión de esta
+j. El reciclaje de buques y demás embarcaciones en desuso, ya sea a través del desguace o del hundimiento, sin la debida autorización y supervisión de esta
 Autoridad;
-k. Toda actividad relativa a la investigación científica,
-establecimiento de arrecifes artificiales, museos
-submarinos, así como la explotación y exploración
-de los recursos del fondo marino y la navegación de
-embarcaciones extranjeras con ese u otros fines, sin
-autorización por parte de esta Dirección General, a
-través de su unidad ambiental;
-l. El daño físico al arrecife coralino, pasto marino y a
-cualquier otro ecosistema marino-costero, provocado
-por actividades marítimas;
-m. La introducción de especies no nativas en el medio
-marino a través del agua de lastre de los buques o
-de cualquier otra fuente, en vista que constituye un
-riesgo la salud humana y el equilibrio ecológico del
-medio marino;
-n. No solicitar autorización a esta Dirección General
-previo a la realización de cualquier otra actividad
-marítima, distinta a las mencionadas anteriormente,
-es también una acción constitutiva de infracción y
-sanción;
-o. El incumplimiento al marco legal de esta Autoridad
-en el ámbito marítimo ambiental.
-Artículo 49.- Las sanciones aplicables para cada uno de los
-casos antes descritos, serán las establecidas en la Ley Orgánica
-de la Marina Mercante Nacional.
+k. Toda actividad relativa a la investigación científica, establecimiento de arrecifes artificiales, museos submarinos, así como la explotación y exploración de los recursos del fondo marino y la navegación de embarcaciones extranjeras con ese u otros fines, sin autorización por parte de esta Dirección General, a través de su unidad ambiental;
+l. El daño físico al arrecife coralino, pasto marino y a cualquier otro ecosistema marino-costero, provocado por actividades marítimas;
+m. La introducción de especies no nativas en el medio marino a través del agua de lastre de los buques o de cualquier otra fuente, en vista que constituye un riesgo la salud humana y el equilibrio ecológico del medio marino;
+n. No solicitar autorización a esta Dirección General previo a la realización de cualquier otra actividad marítima, distinta a las mencionadas anteriormente, es también una acción constitutiva de infracción y sanción;
+o. El incumplimiento al marco legal de esta Autoridad en el ámbito marítimo ambiental.
+Artículo 49.- Las sanciones aplicables para cada uno de los casos antes descritos, serán las establecidas en la Ley Orgánica de la Marina Mercante Nacional.
 TÍTULO VI
 DISPOSICIONES FINALES
-Artículo 50. La Autoridad Marítima, velará por el cumplimiento
-y aplicación de las disposiciones del presente Reglamento.
-Artículo 51.- El presente Reglamento entrará en vigencia
-veinte (20) días después de su publicación en el Diario Oficial
+Artículo 50. La Autoridad Marítima, velará por el cumplimiento y aplicación de las disposiciones del presente Reglamento.
+Artículo 51.- El presente Reglamento entrará en vigencia veinte (20) días después de su publicación en el Diario Oficial
 La Gaceta. PUBLÍQUESE.-
 ABOG. OSCAR PONCE SIERCKE
 SUBDIRECTOR GENERAL
@@ -7617,8 +5529,7 @@ $
 6HFFLyQ$$FXHUGRV\/H\HV
 5(3Ò%/,&$'(+21'85$67(*8&,*$/3$0'&'(6(37,(0%5('(/1R
 OHYH VHJ~QORHVWDEOHFLGRHQOD/H\2UJiQLFDGHOD0DULQD
-0HUFDQWHHQVXDUWtFXORQXPHUDOLQFLVRE
-
+0HUFDQWHHQVXDUWtFXORQXPHUDOLQFLVRE 
 $UWtFXOR (OLQFXPSOLPLHQWRGHODVREOLJDFLRQHVHVWDEOHFLGDV
 HQORVDUWtFXORV\
 GHOSUHVHQWHUHJODPHQWRGDUiOXJDUD
@@ -7647,8 +5558,7 @@ LQVWLWXLGRHQHO$UWtFXORGHOD/H\2UJiQLFDGHOD0DULQD
 $UWtFXOR (QFDVRGHUHLQFLGHQFLDHQODVLQIUDFFLRQHVDQWHV
 GHVFULWDVVHDSOLFDUiGHFRQIRUPLGDGDORGHWHUPLQDGRHQHO
 $UWtFXORGHOD/H\2UJiQLFDGHOD0DULQD0HUFDQWH
-&$3,78/2;,
-',6326,&,21(6),1$/(6
+&$3,78/2;, ',6326,&,21(6),1$/(6
 $UWtFXOR /D'LUHFFLyQ*HQHUDOGHOD0DULQD0HUFDQWH
 SRGUi HVWDEOHFHU RWUDV GLVSRVLFLRQHV HVSHFtILFDV SDUD HO
 IXQFLRQDPLHQWRGHOVLVWHPDGHPRQLWRUHRVDWHOLWDOTXHFRQVLGHUH
@@ -7675,8 +5585,7 @@ $%2*52%(572(&$5'21$
 $%2*$1721,2$5,7$$*8,/$5
 6(&5(7$5,2*(1(5$/
 BBBBBBB
-Dirección General de la
-Marina Mercante
+Dirección General de la Marina Mercante
 $&8(5'2'*001R
 7HJXFLJDOSDPXQLFLSLRGHO'LVWULWR&HQWUDO
 GHDJRVWRGHO
@@ -7704,8 +5613,7 @@ $SUREDUHOSUHVHQWH
 3(/,*526$6
 7,78/235,0(52
 ',6326,&,21(6*(1(5$/(6
-&$3,78/2,
-2%-(72'(/5(*/$0(172
+&$3,78/2, 2%-(72'(/5(*/$0(172
 $UWtFXOR (OREMHWRGHOSUHVHQWH5HJODPHQWRHVSUHYHQLU
 PLWLJDU\FRQWURODUORVGDxRVHQORVHFRVLVWHPDV\HOPHGLRDPELHQWH
 
@@ -7929,8 +5837,7 @@ FRQVLGHUDGDVHQHOSUHVHQWH5HJODPHQWR
 SRUGHVHFKRVXRWUDVPDWHULDVHIHFWXDGDVGHVGHEXTXHV
 DHURQDYHV\ODVTXHUHDOLFHQSRUHVWRVPHGLRVODVSODWDIRUPDV
 \RWUDVHVWUXFWXUDV
-&$3,78/2,,
-25*$1,=$&,Ï1<&203(7(1&,$
+&$3,78/2,, 25*$1,=$&,Ï1<&203(7(1&,$
 $UWtFXOR  (O SUHVHQWH 5HJODPHQWR VH DSOLFDUi D ORV
 YHUWLPLHQWRVRGHVFDUJDVDFFLGHQWDOHVGHPDWHULDVVXVWDQFLDVR
 GHVHFKRVHQODVDJXDVMXULVGLFFLRQDOHVKRQGXUHxDVFRPSXHVWDV
@@ -7938,8 +5845,7 @@ SRU
 
 D
 (O0DU7HUULWRULDO
-E
-/D=RQD&RQWLJXD
+E /D=RQD&RQWLJXD
 F
 /D=RQD(FRQyPLFD([FOXVLYD
 \
@@ -7954,8 +5860,7 @@ ODLPSRUWDFLyQH[SRUWDFLyQPDQLSXODFLyQWUDQVSRUWH\
 DOPDFHQDPLHQWRGH+LGURFDUEXURVR6XVWDQFLDV1RFLYDV\
 3RWHQFLDOPHQWH3HOLJURVDVHQHVWDGRVyOLGROtTXLGRRJDVHRVR
 
-E
-ODUHVSXHVWDDGHUUDPHVWDQWRPDUtWLPDFRPRWHUUHVWUH
+E ODUHVSXHVWDDGHUUDPHVWDQWRPDUtWLPDFRPRWHUUHVWUH
 'H LJXDO IRUPD VHUi DSOLFDEOH D EXTXHV HQ JHQHUDO
 HPEDUFDFLRQHVSHTXHxDVGHFDERWDMHSHVTXHURV\DWHVGHSODFHU
 
@@ -7973,8 +5878,7 @@ $
 5(3Ò%/,&$'(+21'85$67(*8&,*$/3$0'&'(6(37,(0%5('(/1R
 7,78/26(*81'2
 '(/$65(63216$%,/,'$'(6
-&$3,78/2,
-(48,3$0,(1720,1,02
+&$3,78/2, (48,3$0,(1720,1,02
 $UWtFXOR (QODGHWHUPLQDFLyQGHOHTXLSDPLHQWRPtQLPR
 QHFHVDULRTXHGHEHUiQSRVHHUHQSURSLHGDGODVHPSUHVDV\
 DFWLYLGDGHVDIHFWDVDOSUHVHQWH5HJODPHQWR\ODVGHGLFDGDVDWDUHDV
@@ -7988,8 +5892,7 @@ D
 3UHYHQFLyQ
 3ODQHV GH &RQWLQJHQFLD FDSDFLWDFLyQ \
 FRORFDFLyQGHEDUUHUDVHQORVSURFHGLPLHQWRVGHWUDVLHJR
-E
-&RQWHQFLyQ\3URWHFFLyQORFXDOLQFOXLUiHTXLSRGH+$=0$7
+E &RQWHQFLyQ\3URWHFFLyQORFXDOLQFOXLUiHTXLSRGH+$=0$7
 HQFDVRGHVXVWDQFLDVQRFLYDV\SRWHQFLDOPHQWHSHOLJURVDV
 F
 5HFXSHUDFLyQ
@@ -8044,8 +5947,7 @@ GHORVDFRSOHVHTXLSRFRPSOHPHQWDULR
 FDQWLGDG\WLSRGH
 DQFODMHVSXQWHUDVHWF
 
-E
-(TXLSRGHUHFXSHUDFLyQGHKLGURFDUEXURVFRQFDSDFLGDG
+E (TXLSRGHUHFXSHUDFLyQGHKLGURFDUEXURVFRQFDSDFLGDG
 HIHFWLYDGLDULDGHP GtD $FUHGLWDUPHGLDQWHLQIRUPDFLyQ
 GHOSURYHHGRU
 WLSRGLVHxRFDSDFLGDGGHUHFXSHUDFLyQ
@@ -8172,8 +6074,7 @@ GH
 ,, &XUVR0RGHOR20,235&1LYHO±2SHUDGRUHV
 
 ,,, &XUVR VREUH 0$7(5,$/(6 3(/,*52626 ±
-0$73(/1LYHO2SHUDFLRQHVR&XUVR0RGHOR20,
-61331LYHO2SHUDFLRQHV
+0$73(/1LYHO2SHUDFLRQHVR&XUVR0RGHOR20, 61331LYHO2SHUDFLRQHV
 'HEHUiQ H[LVWLU GH IRUPD HVFULWD ORV SURFHGLPLHQWRV
 RSHUDWLYRV \ SURFHGLPLHQWRV GH WUDWDPLHQWR SDUD GHVHFKRV
 JHQHUDGRV
@@ -8208,8 +6109,7 @@ $
 5(3Ò%/,&$'(+21'85$67(*8&,*$/3$0'&'(6(37,(0%5('(/1R
 VXVWDQFLDVQRFLYDV\SRWHQFLDOPHQWHSHOLJURVDVEDVDGRHQOD
 SUHFLWDGDHYDOXDFLyQGHULHVJRV
-&$3,78/2,,
-2%/,*$&,21(6
+&$3,78/2,, 2%/,*$&,21(6
 $UWtFXOR /RV3XHUWRV3~EOLFRV\3ULYDGRVODV(PSUHVDV
 LPSRUWDGRUDV\H[SRUWDGRUDV\DTXHOODVGHGLFDGDVDOWUDQVSRUWH
 PDQLSXODFLyQWUDVHJDGR\DOPDFHQDPLHQWRGHODVVXVWDQFLDV
@@ -8338,8 +6238,7 @@ PHUFDQFtDVSHOLJURVDVRVXVWDQFLDVQRFLYDV\SRWHQFLDOPHQWH
 SHOLJURVDVHQORVUHFLQWRVSRUWXDULRVGHEHUiQFXPSOLUFRQORV
 SURFHGLPLHQWRVHVWDEOHFLGRVSRUOD(PSUHVD1DFLRQDO3RUWXDULD
 \OD$XWRULGDG0DUtWLPDSDUDHVWRVILQHV
-&$3,78/2,,,
-*$6726325&217$0,1$&,21
+&$3,78/2,,, *$6726325&217$0,1$&,21
 $UWtFXOR (QFDVRGHGHVFDUJDVGHORVEXTXHVTXHJHQHUHQ
 FRQWDPLQDFLyQ VXEVLVWH OD UHVSRQVDELOLGDG VROLGDULD GH ORV
 SURSLHWDULRV\DUPDGRUHVGHORVEXTXHVTXHRFDVLRQDUHQOD
@@ -8358,8 +6257,7 @@ ORVJDVWRVGHFRQWDPLQDFLyQRFDVLRQDGRVSRUHOGHUUDPH
 &$3,78/2,9
 32/,=$'(6(*852
 $UWtFXOR 6LQSHUMXLFLRGHORGLVSXHVWRHQORV$UWtFXORV
-E
-GHOD/H\2UJiQLFDGHOD0DULQD0HUFDQWH\
+E GHOD/H\2UJiQLFDGHOD0DULQD0HUFDQWH\
 F
 GHO5HJODPHQWRGH7UDQVSRUWH0DUtWLPR\HQDWHQFLyQDOD
 UHVSRQVDELOLGDGGHFXEULUORVJDVWRVTXHGHPDQGHODFRQWDPLQDFLyQ
@@ -8378,8 +6276,7 @@ ODMXULVGLFFLyQ0XQLFLSDOHQGRQGHVHSUHWHQGHLQJUHVDU\UHDOL]DU
 RSHUDFLRQHV
 7,78/27(5&(52
 '(/$6&217,1*(1&,$6
-&$3,78/2,
-&$3$&,'$''(5(638(67$
+&$3,78/2, &$3$&,'$''(5(638(67$
 $UWtFXOR $ILQGHJDUDQWL]DUUHVSXHVWDLQPHGLDWDHQXQ
 HYHQWR GH GHUUDPH ODV (QWLGDGHV DIHFWDV SRU HO SUHVHQWH
 5HJODPHQWRHVWDUiQHQODREOLJDFLyQGHWHQHUHTXLSRV\PDWHULDOHV
@@ -8420,8 +6317,7 @@ UHVSRQVDEOHVGHOEXTXHQROLEHUDDOSURSLHWDULRQLDODUPDGRUGH
 VXUHVSRQVDELOLGDGSRUORVGDxRV\SUHMXLFLRVFDXVDGRVSRUODYtD
 QDYHJDEOHDODFDOLGDGGHODVDJXDVUHFXUVRVFRVWDVRELHQHVGH
 WHUFHURV
-&$3,78/2,,
-&2175$7262&219(1,26&21(035(6$6
+&$3,78/2,, &2175$7262&219(1,26&21(035(6$6
 '(5(638(67$$'(55$0(6
 $UWtFXOR /D(PSUHVDVLPSRUWDGRUDVH[SRUWDGRUDV
 PDQLSXODGRUDVDOPDFHQDGRUDVWUDVHJDGRUDV\WUDQVSRUWLVWDV
@@ -8458,8 +6354,7 @@ DOPDFHQDGRUDVWUDVHJDGRUDV\WUDQVSRUWLVWDVPDUtWLPRVGHEHUiQ
 SUHVHQWDUDOD$XWRULGDG0DUtWLPDORVFRQWUDWRVRFRQYHQLRVHQ
 ORVTXHODHPSUHVDVROLFLWDQWHDVHJXUHODSRVLELOLGDGSHUPDQHQWH
 GHGLVSRQHUHOHTXLSDPLHQWRGHVFULSWRHQHOFDVRGHVHUQHFHVDULR
-&$3,78/2,,,
-,163(&&,21(6
+&$3,78/2,,, ,163(&&,21(6
 $UWtFXOR /D'LUHFFLyQ*HQHUDOGH0DULQD0HUFDQWH
 YLJLODUiODHVWULFWDREVHUYDQFLDGHHVWH5HJODPHQWRPHGLDQWHORV
 LQVSHFWRUHVTXHDOHIHFWRGHVLJQHVLQSHUMXLFLRGHODVIDFXOWDGHV
@@ -8507,8 +6402,7 @@ UHVSXHVWDHQXQ~QLFRGRFXPHQWRDORVUHTXHULPLHQWRVGHOD
 QRUPDWLYDHQYLJRU
 7,78/248,172
 '(/269(57,0,(1726
-&$3,78/2,
-'(/352&(',0,(1723$5$/26
+&$3,78/2, '(/352&(',0,(1723$5$/26
 9(57,0,(1726
 $UWtFXOR 1LQJ~QLQGLYLGXRRVRFLHGDGRHQWLGDGGH
 GHUHFKRS~EOLFRRSULYDGRSRGUiHIHFWXDUYHUWLPLHQWRVGHOLEHUDGRV
@@ -8660,8 +6554,7 @@ H[SHGLFLyQ
 $UWtFXOR /DDXWRULGDGFRPSHWHQWHWRPDUiHQFXHQWDSDUD
 ODH[SHGLFLyQGHWRGRSHUPLVRORVIDFWRUHVDTXHVHUHILHUHHO
 $QH[R,,,GHOSUHVHQWH5HJODPHQWR
-&$3Ë78/2,,
-'(/$,163(&&,Ï1<9,*,/$1&,$'(/26
+&$3Ë78/2,, '(/$,163(&&,Ï1<9,*,/$1&,$'(/26
 9(57,0,(1726
 $UWtFXOR
 /RVLQVSHFWRUHVSDUDHOFXPSOLPLHQWRGHVXV
@@ -8673,8 +6566,7 @@ D
 $ERUGDU R LQWURGXFLUVH HQ FXDOTXLHU EDUFR DHURQDYH R
 DOPDFpQHQTXHVHSUHVXPDODH[LVWHQFLDGHDOJXQDVXVWDQFLD
 TXHYD\DDVHUYHUWLGDVLQODDXWRUL]DFLyQFRUUHVSRQGLHQWH
-E
-([DPLQDUODVVXVWDQFLDVRPDWHULDVHQFRQWUDGDVHQHOEDUFR
+E ([DPLQDUODVVXVWDQFLDVRPDWHULDVHQFRQWUDGDVHQHOEDUFR
 DHURQDYHRDOPDFpQREMHWRGHVX,QVSHFFLyQ
 F
 ([LJLUDOHQFDUJDGRGHOEXTXHDHURQDYHRDOPDFpQORV
@@ -8741,8 +6633,7 @@ ODVHQXPHUDGDVHQHOSUHVHQWH5HJODPHQWR
 ORKDUiQVLHPSUHSURFXUDQGRFDXVDUHOPHQRUGDxRRSHUMXLFLR
 DODYLGDKXPDQDDODIDXQDPDUtWLPD\DODV]RQDVGH
 HVSDUFLPLHQWR
-E
-&XDQGRHOYHUWLPLHQWRVHSURGX]FDFRQPRWLYRGHXQVLQLHVWUR
+E &XDQGRHOYHUWLPLHQWRVHSURGX]FDFRQPRWLYRGHXQVLQLHVWUR
 QRLPSXWDEOHDOSURSLHWDULR
 $UWtFXOR  1LQJXQD SHUVRQD VHUi UHOHYDGD GH VX
 UHVSRQVDELOLGDGVLODQHFHVLGDGGHHIHFWXDUHOYHUWLPLHQWRHUDSDUD
@@ -8804,8 +6695,7 @@ XQPLVPRDFWRXRPLVLyQVHFRPHWDQYDULDVIDOWDVDOSUHVHQWH
 GH0DULQD0HUFDQWHPHGLDQWHVROLFLWXGGHOLQWHUHVDGRTXHVHUi
 SUHVHQWDGDSRUHVFULWRGHQWURGHOWpUPLQRGHWUHLQWDGtDVKiELOHV
 VLJXLHQWHVDOGHVXQRWLILFDFLyQ
-&$3Ë78/29,,
-',6326,&,21(6*(1(5$/(63$5$/26
+&$3Ë78/29,, ',6326,&,21(6*(1(5$/(63$5$/26
 9(57,0,(1726
 $UWtFXOR /D'LUHFFLyQ*HQHUDOGH0DULQD0HUFDQWH
 GHVLJQDUiGRV'HOHJDGRVHQORV3XHUWRR7HUPLQDOHV$pUHDVHQ
@@ -8880,8 +6770,7 @@ $%2*$1721,2$5,7$$*8,/$5
 $
 6HFFLyQ$$FXHUGRV\/H\HV
 5(3Ò%/,&$'(+21'85$67(*8&,*$/3$0'&'(6(37,(0%5('(/1R
-$1(;2,
-
+$1(;2, 
 &RPSXHVWRVRUJiQLFRVKDORJHQDGRV
 
 0HUFXULR\FRPSXHVWRVGHPHUFXULR
@@ -8936,8 +6825,7 @@ FRQWDPLQDQWHVODVPDWHULDVDTXHVHKDFHUHIHUHQFLDHQORV
 DSDUWDGRVGHOSUHVHQWHDQH[R(VWRVGHVHFKRVHVWDUiQ
 VXMHWRVDODVGLVSRVLFLRQHVGHORVDQH[RV,,\,,,VHJ~Q
 SURFHGD
-$1(;2,,
-/DVVXVWDQFLDV\PDWHULDVTXHSDUDVXYHUWLPLHQWRUHTXLHUHQ
+$1(;2,, /DVVXVWDQFLDV\PDWHULDVTXHSDUDVXYHUWLPLHQWRUHTXLHUHQ
 HVSHFLDODWHQFLyQVHHQXPHUDQDFRQWLQXDFLyQ
 
 
@@ -8978,8 +6866,7 @@ LQWHUQDFLRQDOFRPSHWHQWHHQHVWDHVIHUDHQODDFWXDOLGDGHO
 $
 6HFFLyQ$$FXHUGRV\/H\HV
 5(3Ò%/,&$'(+21'85$67(*8&,*$/3$0'&'(6(37,(0%5('(/1R
-$1(;2,,,
-(QWUHORVIDFWRUHVTXHGHEHUiQHQFDPLQDUVHDOHVWDEOHFHU
+$1(;2,,, (QWUHORVIDFWRUHVTXHGHEHUiQHQFDPLQDUVHDOHVWDEOHFHU
 FULWHULRVTXHULMDQODFRQFHVLyQGHSHUPLVRVSDUDHOYHUWLPLHQWRGH
 PDWHULDVHQHOPDUHVWiQORVVLJXLHQWHV
 
@@ -9195,20 +7082,17 @@ $SUREDUHOSUHVHQWH
 
 7,78/235,0(52
 ',6326,&,21(6*(1(5$/(6
-&$3,78/2,
-2%-(72'(/5(*/$0(172
+&$3,78/2, 2%-(72'(/5(*/$0(172
 $UWtFXOR (OREMHWRGHOSUHVHQWH5HJODPHQWRHVUHJXODUOD
 DFWLYLGDGGHODV(PSUHVDVSUHVWDGRUDVGHVHUYLFLRVGHFRQWUROGH
 GHUUDPHV GH KLGURFDUEXURV \ RWUDV VXVWDQFLDV QRFLYDV \
 SRWHQFLDOPHQWH SHOLJURVDV HQ DJXDV FRVWDV \ ULEHUDV
 MXULVGLFFLRQDOHVGHOD5HS~EOLFDGH+RQGXUDV
-&$3,78/2,,
-È0%,72'($3/,&$&,Ï1<&$7(*25Ë$6
+&$3,78/2,, È0%,72'($3/,&$&,Ï1<&$7(*25Ë$6
 $UWtFXOR (OUHJODPHQWRVHUiDSOLFDGRDWRGDHPSUHVD
 OHJDOPHQWHDXWRUL]DGDSDUDRSHUDUHQOD5HS~EOLFDGH+RQGXUDV
 KDELOLWDGDVSRUOD'LUHFFLyQ*HQHUDOGH0DULQD0HUFDQWHTXH
-Dirección General de la
-Marina Mercante
+Dirección General de la Marina Mercante
 $&8(5'2'*001R
 
 ## Otro texto del documento — Reglamento OSRO
@@ -9219,8 +7103,7 @@ $
 6HFFLyQ$$FXHUGRV\/H\HV
 5(3Ò%/,&$'(+21'85$67(*8&,*$/3$0'&'(6(37,(0%5('(/1R
 OHYH VHJ~QORHVWDEOHFLGRHQOD/H\2UJiQLFDGHOD0DULQD
-0HUFDQWHHQVXDUWtFXORQXPHUDOLQFLVRE
-
+0HUFDQWHHQVXDUWtFXORQXPHUDOLQFLVRE 
 $UWtFXOR (OLQFXPSOLPLHQWRGHODVREOLJDFLRQHVHVWDEOHFLGDV
 HQORVDUWtFXORV\
 GHOSUHVHQWHUHJODPHQWRGDUiOXJDUD
@@ -9249,8 +7132,7 @@ LQVWLWXLGRHQHO$UWtFXORGHOD/H\2UJiQLFDGHOD0DULQD
 $UWtFXOR (QFDVRGHUHLQFLGHQFLDHQODVLQIUDFFLRQHVDQWHV
 GHVFULWDVVHDSOLFDUiGHFRQIRUPLGDGDORGHWHUPLQDGRHQHO
 $UWtFXORGHOD/H\2UJiQLFDGHOD0DULQD0HUFDQWH
-&$3,78/2;,
-',6326,&,21(6),1$/(6
+&$3,78/2;, ',6326,&,21(6),1$/(6
 $UWtFXOR /D'LUHFFLyQ*HQHUDOGHOD0DULQD0HUFDQWH
 SRGUi HVWDEOHFHU RWUDV GLVSRVLFLRQHV HVSHFtILFDV SDUD HO
 IXQFLRQDPLHQWRGHOVLVWHPDGHPRQLWRUHRVDWHOLWDOTXHFRQVLGHUH
@@ -9277,8 +7159,7 @@ $%2*52%(572(&$5'21$
 $%2*$1721,2$5,7$$*8,/$5
 6(&5(7$5,2*(1(5$/
 BBBBBBB
-Dirección General de la
-Marina Mercante
+Dirección General de la Marina Mercante
 $&8(5'2'*001R
 7HJXFLJDOSDPXQLFLSLRGHO'LVWULWR&HQWUDO
 GHDJRVWRGHO
@@ -9306,8 +7187,7 @@ $SUREDUHOSUHVHQWH
 3(/,*526$6
 7,78/235,0(52
 ',6326,&,21(6*(1(5$/(6
-&$3,78/2,
-2%-(72'(/5(*/$0(172
+&$3,78/2, 2%-(72'(/5(*/$0(172
 $UWtFXOR (OREMHWRGHOSUHVHQWH5HJODPHQWRHVSUHYHQLU
 PLWLJDU\FRQWURODUORVGDxRVHQORVHFRVLVWHPDV\HOPHGLRDPELHQWH
 
@@ -9531,8 +7411,7 @@ FRQVLGHUDGDVHQHOSUHVHQWH5HJODPHQWR
 SRUGHVHFKRVXRWUDVPDWHULDVHIHFWXDGDVGHVGHEXTXHV
 DHURQDYHV\ODVTXHUHDOLFHQSRUHVWRVPHGLRVODVSODWDIRUPDV
 \RWUDVHVWUXFWXUDV
-&$3,78/2,,
-25*$1,=$&,Ï1<&203(7(1&,$
+&$3,78/2,, 25*$1,=$&,Ï1<&203(7(1&,$
 $UWtFXOR  (O SUHVHQWH 5HJODPHQWR VH DSOLFDUi D ORV
 YHUWLPLHQWRVRGHVFDUJDVDFFLGHQWDOHVGHPDWHULDVVXVWDQFLDVR
 GHVHFKRVHQODVDJXDVMXULVGLFFLRQDOHVKRQGXUHxDVFRPSXHVWDV
@@ -9540,8 +7419,7 @@ SRU
 
 D
 (O0DU7HUULWRULDO
-E
-/D=RQD&RQWLJXD
+E /D=RQD&RQWLJXD
 F
 /D=RQD(FRQyPLFD([FOXVLYD
 \
@@ -9556,8 +7434,7 @@ ODLPSRUWDFLyQH[SRUWDFLyQPDQLSXODFLyQWUDQVSRUWH\
 DOPDFHQDPLHQWRGH+LGURFDUEXURVR6XVWDQFLDV1RFLYDV\
 3RWHQFLDOPHQWH3HOLJURVDVHQHVWDGRVyOLGROtTXLGRRJDVHRVR
 
-E
-ODUHVSXHVWDDGHUUDPHVWDQWRPDUtWLPDFRPRWHUUHVWUH
+E ODUHVSXHVWDDGHUUDPHVWDQWRPDUtWLPDFRPRWHUUHVWUH
 'H LJXDO IRUPD VHUi DSOLFDEOH D EXTXHV HQ JHQHUDO
 HPEDUFDFLRQHVSHTXHxDVGHFDERWDMHSHVTXHURV\DWHVGHSODFHU
 
@@ -9575,8 +7452,7 @@ $
 5(3Ò%/,&$'(+21'85$67(*8&,*$/3$0'&'(6(37,(0%5('(/1R
 7,78/26(*81'2
 '(/$65(63216$%,/,'$'(6
-&$3,78/2,
-(48,3$0,(1720,1,02
+&$3,78/2, (48,3$0,(1720,1,02
 $UWtFXOR (QODGHWHUPLQDFLyQGHOHTXLSDPLHQWRPtQLPR
 QHFHVDULRTXHGHEHUiQSRVHHUHQSURSLHGDGODVHPSUHVDV\
 DFWLYLGDGHVDIHFWDVDOSUHVHQWH5HJODPHQWR\ODVGHGLFDGDVDWDUHDV
@@ -9590,8 +7466,7 @@ D
 3UHYHQFLyQ
 3ODQHV GH &RQWLQJHQFLD FDSDFLWDFLyQ \
 FRORFDFLyQGHEDUUHUDVHQORVSURFHGLPLHQWRVGHWUDVLHJR
-E
-&RQWHQFLyQ\3URWHFFLyQORFXDOLQFOXLUiHTXLSRGH+$=0$7
+E &RQWHQFLyQ\3URWHFFLyQORFXDOLQFOXLUiHTXLSRGH+$=0$7
 HQFDVRGHVXVWDQFLDVQRFLYDV\SRWHQFLDOPHQWHSHOLJURVDV
 F
 5HFXSHUDFLyQ
@@ -9646,8 +7521,7 @@ GHORVDFRSOHVHTXLSRFRPSOHPHQWDULR
 FDQWLGDG\WLSRGH
 DQFODMHVSXQWHUDVHWF
 
-E
-(TXLSRGHUHFXSHUDFLyQGHKLGURFDUEXURVFRQFDSDFLGDG
+E (TXLSRGHUHFXSHUDFLyQGHKLGURFDUEXURVFRQFDSDFLGDG
 HIHFWLYDGLDULDGHP GtD $FUHGLWDUPHGLDQWHLQIRUPDFLyQ
 GHOSURYHHGRU
 WLSRGLVHxRFDSDFLGDGGHUHFXSHUDFLyQ
@@ -9774,8 +7648,7 @@ GH
 ,, &XUVR0RGHOR20,235&1LYHO±2SHUDGRUHV
 
 ,,, &XUVR VREUH 0$7(5,$/(6 3(/,*52626 ±
-0$73(/1LYHO2SHUDFLRQHVR&XUVR0RGHOR20,
-61331LYHO2SHUDFLRQHV
+0$73(/1LYHO2SHUDFLRQHVR&XUVR0RGHOR20, 61331LYHO2SHUDFLRQHV
 'HEHUiQ H[LVWLU GH IRUPD HVFULWD ORV SURFHGLPLHQWRV
 RSHUDWLYRV \ SURFHGLPLHQWRV GH WUDWDPLHQWR SDUD GHVHFKRV
 JHQHUDGRV
@@ -9810,8 +7683,7 @@ $
 5(3Ò%/,&$'(+21'85$67(*8&,*$/3$0'&'(6(37,(0%5('(/1R
 VXVWDQFLDVQRFLYDV\SRWHQFLDOPHQWHSHOLJURVDVEDVDGRHQOD
 SUHFLWDGDHYDOXDFLyQGHULHVJRV
-&$3,78/2,,
-2%/,*$&,21(6
+&$3,78/2,, 2%/,*$&,21(6
 $UWtFXOR /RV3XHUWRV3~EOLFRV\3ULYDGRVODV(PSUHVDV
 LPSRUWDGRUDV\H[SRUWDGRUDV\DTXHOODVGHGLFDGDVDOWUDQVSRUWH
 PDQLSXODFLyQWUDVHJDGR\DOPDFHQDPLHQWRGHODVVXVWDQFLDV
@@ -9940,8 +7812,7 @@ PHUFDQFtDVSHOLJURVDVRVXVWDQFLDVQRFLYDV\SRWHQFLDOPHQWH
 SHOLJURVDVHQORVUHFLQWRVSRUWXDULRVGHEHUiQFXPSOLUFRQORV
 SURFHGLPLHQWRVHVWDEOHFLGRVSRUOD(PSUHVD1DFLRQDO3RUWXDULD
 \OD$XWRULGDG0DUtWLPDSDUDHVWRVILQHV
-&$3,78/2,,,
-*$6726325&217$0,1$&,21
+&$3,78/2,,, *$6726325&217$0,1$&,21
 $UWtFXOR (QFDVRGHGHVFDUJDVGHORVEXTXHVTXHJHQHUHQ
 FRQWDPLQDFLyQ VXEVLVWH OD UHVSRQVDELOLGDG VROLGDULD GH ORV
 SURSLHWDULRV\DUPDGRUHVGHORVEXTXHVTXHRFDVLRQDUHQOD
@@ -9960,8 +7831,7 @@ ORVJDVWRVGHFRQWDPLQDFLyQRFDVLRQDGRVSRUHOGHUUDPH
 &$3,78/2,9
 32/,=$'(6(*852
 $UWtFXOR 6LQSHUMXLFLRGHORGLVSXHVWRHQORV$UWtFXORV
-E
-GHOD/H\2UJiQLFDGHOD0DULQD0HUFDQWH\
+E GHOD/H\2UJiQLFDGHOD0DULQD0HUFDQWH\
 F
 GHO5HJODPHQWRGH7UDQVSRUWH0DUtWLPR\HQDWHQFLyQDOD
 UHVSRQVDELOLGDGGHFXEULUORVJDVWRVTXHGHPDQGHODFRQWDPLQDFLyQ
@@ -9980,8 +7850,7 @@ ODMXULVGLFFLyQ0XQLFLSDOHQGRQGHVHSUHWHQGHLQJUHVDU\UHDOL]DU
 RSHUDFLRQHV
 7,78/27(5&(52
 '(/$6&217,1*(1&,$6
-&$3,78/2,
-&$3$&,'$''(5(638(67$
+&$3,78/2, &$3$&,'$''(5(638(67$
 $UWtFXOR $ILQGHJDUDQWL]DUUHVSXHVWDLQPHGLDWDHQXQ
 HYHQWR GH GHUUDPH ODV (QWLGDGHV DIHFWDV SRU HO SUHVHQWH
 5HJODPHQWRHVWDUiQHQODREOLJDFLyQGHWHQHUHTXLSRV\PDWHULDOHV
@@ -10022,8 +7891,7 @@ UHVSRQVDEOHVGHOEXTXHQROLEHUDDOSURSLHWDULRQLDODUPDGRUGH
 VXUHVSRQVDELOLGDGSRUORVGDxRV\SUHMXLFLRVFDXVDGRVSRUODYtD
 QDYHJDEOHDODFDOLGDGGHODVDJXDVUHFXUVRVFRVWDVRELHQHVGH
 WHUFHURV
-&$3,78/2,,
-&2175$7262&219(1,26&21(035(6$6
+&$3,78/2,, &2175$7262&219(1,26&21(035(6$6
 '(5(638(67$$'(55$0(6
 $UWtFXOR /D(PSUHVDVLPSRUWDGRUDVH[SRUWDGRUDV
 PDQLSXODGRUDVDOPDFHQDGRUDVWUDVHJDGRUDV\WUDQVSRUWLVWDV
@@ -10060,8 +7928,7 @@ DOPDFHQDGRUDVWUDVHJDGRUDV\WUDQVSRUWLVWDVPDUtWLPRVGHEHUiQ
 SUHVHQWDUDOD$XWRULGDG0DUtWLPDORVFRQWUDWRVRFRQYHQLRVHQ
 ORVTXHODHPSUHVDVROLFLWDQWHDVHJXUHODSRVLELOLGDGSHUPDQHQWH
 GHGLVSRQHUHOHTXLSDPLHQWRGHVFULSWRHQHOFDVRGHVHUQHFHVDULR
-&$3,78/2,,,
-,163(&&,21(6
+&$3,78/2,,, ,163(&&,21(6
 $UWtFXOR /D'LUHFFLyQ*HQHUDOGH0DULQD0HUFDQWH
 YLJLODUiODHVWULFWDREVHUYDQFLDGHHVWH5HJODPHQWRPHGLDQWHORV
 LQVSHFWRUHVTXHDOHIHFWRGHVLJQHVLQSHUMXLFLRGHODVIDFXOWDGHV
@@ -10109,8 +7976,7 @@ UHVSXHVWDHQXQ~QLFRGRFXPHQWRDORVUHTXHULPLHQWRVGHOD
 QRUPDWLYDHQYLJRU
 7,78/248,172
 '(/269(57,0,(1726
-&$3,78/2,
-'(/352&(',0,(1723$5$/26
+&$3,78/2, '(/352&(',0,(1723$5$/26
 9(57,0,(1726
 $UWtFXOR 1LQJ~QLQGLYLGXRRVRFLHGDGRHQWLGDGGH
 GHUHFKRS~EOLFRRSULYDGRSRGUiHIHFWXDUYHUWLPLHQWRVGHOLEHUDGRV
@@ -10262,8 +8128,7 @@ H[SHGLFLyQ
 $UWtFXOR /DDXWRULGDGFRPSHWHQWHWRPDUiHQFXHQWDSDUD
 ODH[SHGLFLyQGHWRGRSHUPLVRORVIDFWRUHVDTXHVHUHILHUHHO
 $QH[R,,,GHOSUHVHQWH5HJODPHQWR
-&$3Ë78/2,,
-'(/$,163(&&,Ï1<9,*,/$1&,$'(/26
+&$3Ë78/2,, '(/$,163(&&,Ï1<9,*,/$1&,$'(/26
 9(57,0,(1726
 $UWtFXOR
 /RVLQVSHFWRUHVSDUDHOFXPSOLPLHQWRGHVXV
@@ -10275,8 +8140,7 @@ D
 $ERUGDU R LQWURGXFLUVH HQ FXDOTXLHU EDUFR DHURQDYH R
 DOPDFpQHQTXHVHSUHVXPDODH[LVWHQFLDGHDOJXQDVXVWDQFLD
 TXHYD\DDVHUYHUWLGDVLQODDXWRUL]DFLyQFRUUHVSRQGLHQWH
-E
-([DPLQDUODVVXVWDQFLDVRPDWHULDVHQFRQWUDGDVHQHOEDUFR
+E ([DPLQDUODVVXVWDQFLDVRPDWHULDVHQFRQWUDGDVHQHOEDUFR
 DHURQDYHRDOPDFpQREMHWRGHVX,QVSHFFLyQ
 F
 ([LJLUDOHQFDUJDGRGHOEXTXHDHURQDYHRDOPDFpQORV
@@ -10343,8 +8207,7 @@ ODVHQXPHUDGDVHQHOSUHVHQWH5HJODPHQWR
 ORKDUiQVLHPSUHSURFXUDQGRFDXVDUHOPHQRUGDxRRSHUMXLFLR
 DODYLGDKXPDQDDODIDXQDPDUtWLPD\DODV]RQDVGH
 HVSDUFLPLHQWR
-E
-&XDQGRHOYHUWLPLHQWRVHSURGX]FDFRQPRWLYRGHXQVLQLHVWUR
+E &XDQGRHOYHUWLPLHQWRVHSURGX]FDFRQPRWLYRGHXQVLQLHVWUR
 QRLPSXWDEOHDOSURSLHWDULR
 $UWtFXOR  1LQJXQD SHUVRQD VHUi UHOHYDGD GH VX
 UHVSRQVDELOLGDGVLODQHFHVLGDGGHHIHFWXDUHOYHUWLPLHQWRHUDSDUD
@@ -10406,8 +8269,7 @@ XQPLVPRDFWRXRPLVLyQVHFRPHWDQYDULDVIDOWDVDOSUHVHQWH
 GH0DULQD0HUFDQWHPHGLDQWHVROLFLWXGGHOLQWHUHVDGRTXHVHUi
 SUHVHQWDGDSRUHVFULWRGHQWURGHOWpUPLQRGHWUHLQWDGtDVKiELOHV
 VLJXLHQWHVDOGHVXQRWLILFDFLyQ
-&$3Ë78/29,,
-',6326,&,21(6*(1(5$/(63$5$/26
+&$3Ë78/29,, ',6326,&,21(6*(1(5$/(63$5$/26
 9(57,0,(1726
 $UWtFXOR /D'LUHFFLyQ*HQHUDOGH0DULQD0HUFDQWH
 GHVLJQDUiGRV'HOHJDGRVHQORV3XHUWRR7HUPLQDOHV$pUHDVHQ
@@ -10482,8 +8344,7 @@ $%2*$1721,2$5,7$$*8,/$5
 $
 6HFFLyQ$$FXHUGRV\/H\HV
 5(3Ò%/,&$'(+21'85$67(*8&,*$/3$0'&'(6(37,(0%5('(/1R
-$1(;2,
-
+$1(;2, 
 &RPSXHVWRVRUJiQLFRVKDORJHQDGRV
 
 0HUFXULR\FRPSXHVWRVGHPHUFXULR
@@ -10538,8 +8399,7 @@ FRQWDPLQDQWHVODVPDWHULDVDTXHVHKDFHUHIHUHQFLDHQORV
 DSDUWDGRVGHOSUHVHQWHDQH[R(VWRVGHVHFKRVHVWDUiQ
 VXMHWRVDODVGLVSRVLFLRQHVGHORVDQH[RV,,\,,,VHJ~Q
 SURFHGD
-$1(;2,,
-/DVVXVWDQFLDV\PDWHULDVTXHSDUDVXYHUWLPLHQWRUHTXLHUHQ
+$1(;2,, /DVVXVWDQFLDV\PDWHULDVTXHSDUDVXYHUWLPLHQWRUHTXLHUHQ
 HVSHFLDODWHQFLyQVHHQXPHUDQDFRQWLQXDFLyQ
 
 
@@ -10580,8 +8440,7 @@ LQWHUQDFLRQDOFRPSHWHQWHHQHVWDHVIHUDHQODDFWXDOLGDGHO
 $
 6HFFLyQ$$FXHUGRV\/H\HV
 5(3Ò%/,&$'(+21'85$67(*8&,*$/3$0'&'(6(37,(0%5('(/1R
-$1(;2,,,
-(QWUHORVIDFWRUHVTXHGHEHUiQHQFDPLQDUVHDOHVWDEOHFHU
+$1(;2,,, (QWUHORVIDFWRUHVTXHGHEHUiQHQFDPLQDUVHDOHVWDEOHFHU
 FULWHULRVTXHULMDQODFRQFHVLyQGHSHUPLVRVSDUDHOYHUWLPLHQWRGH
 PDWHULDVHQHOPDUHVWiQORVVLJXLHQWHV
 
@@ -10797,20 +8656,17 @@ $SUREDUHOSUHVHQWH
 
 7,78/235,0(52
 ',6326,&,21(6*(1(5$/(6
-&$3,78/2,
-2%-(72'(/5(*/$0(172
+&$3,78/2, 2%-(72'(/5(*/$0(172
 $UWtFXOR (OREMHWRGHOSUHVHQWH5HJODPHQWRHVUHJXODUOD
 DFWLYLGDGGHODV(PSUHVDVSUHVWDGRUDVGHVHUYLFLRVGHFRQWUROGH
 GHUUDPHV GH KLGURFDUEXURV \ RWUDV VXVWDQFLDV QRFLYDV \
 SRWHQFLDOPHQWH SHOLJURVDV HQ DJXDV FRVWDV \ ULEHUDV
 MXULVGLFFLRQDOHVGHOD5HS~EOLFDGH+RQGXUDV
-&$3,78/2,,
-È0%,72'($3/,&$&,Ï1<&$7(*25Ë$6
+&$3,78/2,, È0%,72'($3/,&$&,Ï1<&$7(*25Ë$6
 $UWtFXOR (OUHJODPHQWRVHUiDSOLFDGRDWRGDHPSUHVD
 OHJDOPHQWHDXWRUL]DGDSDUDRSHUDUHQOD5HS~EOLFDGH+RQGXUDV
 KDELOLWDGDVSRUOD'LUHFFLyQ*HQHUDOGH0DULQD0HUFDQWHTXH
-Dirección General de la
-Marina Mercante
+Dirección General de la Marina Mercante
 $&8(5'2'*001R
 
 ## Otro texto del documento — Guía Funcional para Plan Local de Contingencia para Empresas con Riesgo de Derrames
@@ -10818,44 +8674,23 @@ $&8(5'2'*001R
 ES DIRECCIÓN GENERAL DE LA MARINA MERCANTE
 
 RESOLUCIÓN No. DGMM/123/2017. DIRECCIÓN GENERAL DE LA MARINA
-MERCANTE. TEGUCIGALPA, MUNICIPIO DEL DISTRITO CENTRAL, ONCE DE
-SEPTIEMBRE DEL AÑO DOS MIL DIECISIETE.
+MERCANTE. TEGUCIGALPA, MUNICIPIO DEL DISTRITO CENTRAL, ONCE DE SEPTIEMBRE DEL AÑO DOS MIL DIECISIETE.
 
-VISTA: Para emitir Resolución relativa a Planes de Contingencia para empresas
-con riesgos de derrames de hidrocarburos, sus derivados y otras sustancias nocivas
+VISTA: Para emitir Resolución relativa a Planes de Contingencia para empresas con riesgos de derrames de hidrocarburos, sus derivados y otras sustancias nocivas
 
 y potencialmente peligrosas (SNPP).
 
-CONSIDERANDO: La importancia biológica, ecológica, social, cultural y económica
-de los ecosistemas marinos y costeros hondureños, así como de todos los recursos,
-usos y servicios asociados a ellos, de los cuales depende el comercio nacional e
-internacional, el transporte de personas, el turismo, las pesquerías, las condiciones
-meteorológicas locales y globales, la seguridad alimentaria y el equilibrio ecológico
-general del medio marino;
+CONSIDERANDO: La importancia biológica, ecológica, social, cultural y económica de los ecosistemas marinos y costeros hondureños, así como de todos los recursos, usos y servicios asociados a ellos, de los cuales depende el comercio nacional e internacional, el transporte de personas, el turismo, las pesquerías, las condiciones meteorológicas locales y globales, la seguridad alimentaria y el equilibrio ecológico general del medio marino;
 
-CONSIDERANDO: Que uno de los riesgos más significativos sobre el ecosistema
-marino y costero a escala nacional, regional y global, es la contaminación por
-derrames de hidrocarburos, sus derivados y otras sustancias nocivas y
-potencialmente peligrosas, la cual puede presentarse en forma de derrame, fuga,
-incendio, explosión, escape y emisión y representa un impacto significativo para el
+CONSIDERANDO: Que uno de los riesgos más significativos sobre el ecosistema marino y costero a escala nacional, regional y global, es la contaminación por derrames de hidrocarburos, sus derivados y otras sustancias nocivas y potencialmente peligrosas, la cual puede presentarse en forma de derrame, fuga, incendio, explosión, escape y emisión y representa un impacto significativo para el
 
 medio marino, el litoral y los recursos e intereses asociados;
 
-CONSIDERANDO: Que el efecto y los daños derivados de un episodio de
-contaminación por hidrocarburos, sus derivados y otras sustancias nocivas y
-potencialmente peligrosas son totalmente dependientes del sitio del suceso, de las
-condiciones ambientales y de la naturaleza de la sustancia misma, lo cual implica
+CONSIDERANDO: Que el efecto y los daños derivados de un episodio de contaminación por hidrocarburos, sus derivados y otras sustancias nocivas y potencialmente peligrosas son totalmente dependientes del sitio del suceso, de las condiciones ambientales y de la naturaleza de la sustancia misma, lo cual implica
 
-un amplio rango de posibilidades y escenarios de riesgo ante los cuales se debe
-estar adecuadamente preparado;
+un amplio rango de posibilidades y escenarios de riesgo ante los cuales se debe estar adecuadamente preparado;
 
-CONSIDERANDO: Que la Convención de las Naciones Unidas sobre el Derecho
-del Mar, de la cual Honduras es contratante desde el 5 de octubre de 1993, en su
-Parte XII, contentiva de las directrices en cuanto a la Protección y Preservación del
-Medio Marino, en su Artículo 194 “Medidas para prevenir, reducir y controlar la
-contaminación del medio marino”, menciona la importancia de que los Estados
-definan estrategias y políticas individuales e integradas, con el objetivo de disminuir
-el riesgo y el impacto de los episodios de contaminación sobre el ecosistema
+CONSIDERANDO: Que la Convención de las Naciones Unidas sobre el Derecho del Mar, de la cual Honduras es contratante desde el 5 de octubre de 1993, en su Parte XII, contentiva de las directrices en cuanto a la Protección y Preservación del Medio Marino, en su Artículo 194 “Medidas para prevenir, reducir y controlar la contaminación del medio marino”, menciona la importancia de que los Estados definan estrategias y políticas individuales e integradas, con el objetivo de disminuir el riesgo y el impacto de los episodios de contaminación sobre el ecosistema
 
 marino; Boulevard Suyapa, colonia Florencia Sur, contiguo a Alupac, Apdo. Postal 3625,
 
@@ -10868,91 +8703,50 @@ CONSIDERANDO: Que la Ley Orgánica de la Marina Mercante, en su Artículo 5,
 
 Numerales 7 y 11, establece que el uso, protección y preservación de los litorales,
 
-así como la prevención de la contaminación marina, son actividades marítimas
-reguladas por esta Administración, mientras que en el Artículo 92 reformado,
-numeral 28 establece como atribución de esta Autoridad: “Coordinar la
-implementación y actualización del Plan Nacional de Contingencia ante derrames
-de hidrocarburos y otras sustancias nocivas y potencialmente peligrosas (SNPP) en
-el medio acuático de Honduras, autorizar los Planes de Contingencia locales de las
-instalaciones portuarias, empresas dedicadas a la importación y exportación de las
+así como la prevención de la contaminación marina, son actividades marítimas reguladas por esta Administración, mientras que en el Artículo 92 reformado, numeral 28 establece como atribución de esta Autoridad: “Coordinar la implementación y actualización del Plan Nacional de Contingencia ante derrames de hidrocarburos y otras sustancias nocivas y potencialmente peligrosas (SNPP) en el medio acuático de Honduras, autorizar los Planes de Contingencia locales de las instalaciones portuarias, empresas dedicadas a la importación y exportación de las
 
 referidas sustancias, así como de las Corporaciones Municipales”;
 
-CONSIDERANDO: Que en fecha 27 de agosto de 2015 fue aprobado el
-Reglamento de Prevención y Control de la Contaminación Marina por Derrames y
-Vertimiento de Desechos, Hidrocarburos y Sustancias Nocivas Potencialmente
+CONSIDERANDO: Que en fecha 27 de agosto de 2015 fue aprobado el Reglamento de Prevención y Control de la Contaminación Marina por Derrames y Vertimiento de Desechos, Hidrocarburos y Sustancias Nocivas Potencialmente
 Peligrosas, mediante Acuerdo DGMM No. 022-2015;
 
-CONSIDERANDO: Que mediante Acuerdo DGMM No. 023-2015, fue aprobado el
-Reglamento para la Habilitación, Inscripción y Reinscripción de las Empresas
+CONSIDERANDO: Que mediante Acuerdo DGMM No. 023-2015, fue aprobado el Reglamento para la Habilitación, Inscripción y Reinscripción de las Empresas
 Prestadoras de Servicios de Control de Derrames de Hidrocarburos y otras
-Sustancias Nocivas y Potencialmente Peligrosas en las Aguas, Costas y Riberas de
-la Jurisdicción Hondureña (OSRO), el cual regula el funcionamiento de las
-empresas legalmente autorizadas por esta Dirección General para hacer frente a
-sucesos de contaminación que involucran hidrocarburos, sus derivados y
-sustancias nocivas y potencialmente peligrosas;
+Sustancias Nocivas y Potencialmente Peligrosas en las Aguas, Costas y Riberas de la Jurisdicción Hondureña (OSRO), el cual regula el funcionamiento de las empresas legalmente autorizadas por esta Dirección General para hacer frente a sucesos de contaminación que involucran hidrocarburos, sus derivados y sustancias nocivas y potencialmente peligrosas;
 
-CONSIDERANDO: Que desde el 7 de julio de 2016, el Plan Nacional de
-Contingencia ante derrame de hidrocarburos y otras sustancias nocivas y
-potencialmente peligrosas en el medio acuático de Honduras (PNCH), fue
-oficialmente aprobado e integrado al Sistema Nacional de Gestión de Riesgos
-(SINAGER), constituyéndose así en un documento de carácter normativo y
-administrativo para organizar la preparación y respuesta a emergencias en la
-República de Honduras, ante los riesgos de derrames de hidrocarburos, sustancias
-nocivas y potencialmente peligrosas;
+CONSIDERANDO: Que desde el 7 de julio de 2016, el Plan Nacional de Contingencia ante derrame de hidrocarburos y otras sustancias nocivas y potencialmente peligrosas en el medio acuático de Honduras (PNCH), fue oficialmente aprobado e integrado al Sistema Nacional de Gestión de Riesgos
+(SINAGER), constituyéndose así en un documento de carácter normativo y administrativo para organizar la preparación y respuesta a emergencias en la República de Honduras, ante los riesgos de derrames de hidrocarburos, sustancias nocivas y potencialmente peligrosas;
 
-CONSIDERANDO: Que el Plan Nacional de Contingencia ante derrame de
-hidrocarburos y otras sustancias nocivas y potencialmente peligrosas en el medio
-acuático de Honduras (PNCH) establece que el primer nivel de preparación y
-respuesta ante sucesos de contaminación se desarrolla con los planes locales de
+CONSIDERANDO: Que el Plan Nacional de Contingencia ante derrame de hidrocarburos y otras sustancias nocivas y potencialmente peligrosas en el medio acuático de Honduras (PNCH) establece que el primer nivel de preparación y respuesta ante sucesos de contaminación se desarrolla con los planes locales de
 
-Raulavard Suvana calania Flarencia Sur. contiauo a Alupac. Apdo. Postal 3625,
-tE DIRECCIÓN GENERAL DE LA MARINA MERCANTE
+Raulavard Suvana calania Flarencia Sur. contiauo a Alupac. Apdo. Postal 3625, tE DIRECCIÓN GENERAL DE LA MARINA MERCANTE
 
-contingencia y es el primer nivel de respuesta que se activa en el evento de un
-incidente, por lo que debe contar con los recursos humanos y equipos en el sitio
+contingencia y es el primer nivel de respuesta que se activa en el evento de un incidente, por lo que debe contar con los recursos humanos y equipos en el sitio
 
 para un tiempo de respuesta expedito;
 
 POR TANTO
 
-La Dirección General de la Marina Mercante, en uso de las facultades de las que se
-encuentra investida y en aplicación de los Artículos 1, 63, 92 numeral 1; 127 y 129
-de la Ley orgánica de la Marina Mercante; 83, 84, 137, 138, 139 y 150 de la Ley de
-Procedimiento Administrativo; 116 y 120 de la Ley General de la Administración
+La Dirección General de la Marina Mercante, en uso de las facultades de las que se encuentra investida y en aplicación de los Artículos 1, 63, 92 numeral 1; 127 y 129 de la Ley orgánica de la Marina Mercante; 83, 84, 137, 138, 139 y 150 de la Ley de Procedimiento Administrativo; 116 y 120 de la Ley General de la Administración
 Pública, RESUELVE:
 
-PRIMERO: Aprobar la presente GUÍA FUNCIONAL PARA PLANES LOCALES DE
-CONTINGENCIA PARA EMPRESAS CON RIESGOS DE DERRAMES DE
-HIDROCARBUROS, SUS DERIVADOS Y OTRAS SUSTANCIAS NOCIVAS Y
-POTENCIALMENTE PELIGROSAS (SNPP), creadas con el fin de prevenir y mitigar
-de manera eficiente episodios de contaminación y consecuentemente proteger y
+PRIMERO: Aprobar la presente GUÍA FUNCIONAL PARA PLANES LOCALES DE CONTINGENCIA PARA EMPRESAS CON RIESGOS DE DERRAMES DE HIDROCARBUROS, SUS DERIVADOS Y OTRAS SUSTANCIAS NOCIVAS Y POTENCIALMENTE PELIGROSAS (SNPP), creadas con el fin de prevenir y mitigar de manera eficiente episodios de contaminación y consecuentemente proteger y
 
 conservar el ecosistema marino y costero del país;
 
-SEGUNDO: La presente guía será aplicable para puertos, terminales, empresas y
-demás instalaciones dedicadas a la importación, exportación, recepción,
-almacenaje, trasvase, transporte, manejo y distribución de hidrocarburos en todas
-sus formas, así como de otras sustancias nocivas y potencialmente peligrosas que
-operen en la jurisdicción del Estado de Honduras;
+SEGUNDO: La presente guía será aplicable para puertos, terminales, empresas y demás instalaciones dedicadas a la importación, exportación, recepción, almacenaje, trasvase, transporte, manejo y distribución de hidrocarburos en todas sus formas, así como de otras sustancias nocivas y potencialmente peligrosas que operen en la jurisdicción del Estado de Honduras;
 
 TERCERO: El Plan Local de Contingencia de cada empresa deberá cumplir con las
 
-disposiciones establecidas en la Guía Funcional elaborada para tal fin, la cual se
-adjunta en el Anexo 1;
+disposiciones establecidas en la Guía Funcional elaborada para tal fin, la cual se adjunta en el Anexo 1;
 
-CUARTO: Se otorgará un término de noventa (90) días calendario, a partir de la
-publicación de esta Resolución, a todas las empresas a las que les sean aplicables
-las disposiciones aquí establecidas, a fin de que presenten ante esta Autoridad
+CUARTO: Se otorgará un término de noventa (90) días calendario, a partir de la publicación de esta Resolución, a todas las empresas a las que les sean aplicables las disposiciones aquí establecidas, a fin de que presenten ante esta Autoridad
 
-Marítima su Plan Local de Contingencia para su verificación y aprobación
-correspondiente;
+Marítima su Plan Local de Contingencia para su verificación y aprobación correspondiente;
 
-QUINTO: Una vez finalizado este plazo, esta Dirección General desarrollará un
-taller especializado en esta temática, con el propósito de asistir y reforzar los
+QUINTO: Una vez finalizado este plazo, esta Dirección General desarrollará un taller especializado en esta temática, con el propósito de asistir y reforzar los
 
-borradores de los Planes presentados, el cual se llevará a cabo en diciembre del
-año en curso;
+borradores de los Planes presentados, el cual se llevará a cabo en diciembre del año en curso;
 
 Teauciaalva. M.D.C.. Honduras. C.A. PBX: (504) 2239-8228, 2239-8335, 2239-8221, 2239-8168
 LAA_A”*
@@ -10961,17 +8755,14 @@ DIRECCIÓN GENERAL DE LA MARINA MERCANTE
 
 SEXTO: La Dirección General de la Marina Mercante a través del Departamento de
 
-Protección , del Medio Marino y su página web oficial
+Protección, del Medio Marino y su página web oficial
 
 htto://marinamercante.gob.hn/?page id=2500, pondrá a disposición de las
 
-empresas interesadas para su consulta, las guías internacionales de la industria
-mencionadas en el Anexo 1, numeral 4, así como una copia del Plan Nacional de
-Contingencia ante Derrames de Hidrocarburos y Sustancias Potencialmente
+empresas interesadas para su consulta, las guías internacionales de la industria mencionadas en el Anexo 1, numeral 4, así como una copia del Plan Nacional de Contingencia ante Derrames de Hidrocarburos y Sustancias Potencialmente
 Peligrosas (PNCH);
 
-PODER E
-DIRECTOR
+PODER E DIRECTOR
 Hondur:
 
 ARLOS RIVERA
@@ -10984,70 +8775,42 @@ Secretaria General de la Marina Mercante de Honduras
 DIRECCIÓN GENERAL DE LA MARINA MERCANTE DE HONDURAS
 ANEXO 1
 
-GUÍA FUNCIONAL PARA PLAN LOCAL DE CONTINGENCIA PARA
-EMPRESAS CON RIESGOS DE DERRAMES DE HIDROCARBUROS, SUS
-DERIVADOS Y OTRAS SUSTANCIAS NOCIVAS Y POTENCIALMENTE
+GUÍA FUNCIONAL PARA PLAN LOCAL DE CONTINGENCIA PARA EMPRESAS CON RIESGOS DE DERRAMES DE HIDROCARBUROS, SUS DERIVADOS Y OTRAS SUSTANCIAS NOCIVAS Y POTENCIALMENTE
 
 PELIGROSAS EN AGUAS ABIERTAS O AGUAS INTERIORES
 
 S
 
 1.- El Plan Nacional de Contingencias ante Derrames de Hidrocarburos y Sustancias
-Nocivas Potencialmente Peligrosas en Espacios Acuáticos de Honduras se
-encuentra en vigencia desde el 7 de julio del año 2016.
+Nocivas Potencialmente Peligrosas en Espacios Acuáticos de Honduras se encuentra en vigencia desde el 7 de julio del año 2016.
 
-2.- En el marco de sus potestades, la DGMM entiende necesario indicar a las
-empresas y otros actores involucrados, los requerimientos concretos en relación a
-los Planes Locales de Contingencias específicos de cada empresa.
+2.- En el marco de sus potestades, la DGMM entiende necesario indicar a las empresas y otros actores involucrados, los requerimientos concretos en relación a los Planes Locales de Contingencias específicos de cada empresa.
 
-3.- Atal fin, se ha establecido una Guía Funcional para la confección de los mismos,
-acorde a los escenarios de riesgos específicos de cada una de ellas, la que se
-detalla a continuación.
+3.- Atal fin, se ha establecido una Guía Funcional para la confección de los mismos, acorde a los escenarios de riesgos específicos de cada una de ellas, la que se detalla a continuación.
 
-4.- La presente Guía Funcional tiene en consideración las normas ARPEL de
-Diciembre del año 1997, la Guía Internacional Propuesta para la Evaluación de
-Planes y Preparativos para Respuesta a Derrames de Hidrocarburos (I0SC 2008),
-IPIECA de Enero del 2015 e ITOPF del año 2016. Se contemplan así las
-experiencias previas y muy especialmente las principales innovaciones de la
-industria al respecto y en especial las lecciones aprendidas tras los eventos del
-Golfo de México del año 2010.
+4.- La presente Guía Funcional tiene en consideración las normas ARPEL de Diciembre del año 1997, la Guía Internacional Propuesta para la Evaluación de Planes y Preparativos para Respuesta a Derrames de Hidrocarburos (I0SC 2008), IPIECA de Enero del 2015 e ITOPF del año 2016. Se contemplan así las experiencias previas y muy especialmente las principales innovaciones de la industria al respecto y en especial las lecciones aprendidas tras los eventos del Golfo de México del año 2010.
 
-5.- Las empresas tendrán un plazo de 90 días para revisar y enmendar sus actuales
-planes de contingencia, los que deberán ser entregados a la DGMM -—
-Departamento de Protección del Medio Marino (DPMM), a efectos de la evaluación
-correspondiente.
+5.- Las empresas tendrán un plazo de 90 días para revisar y enmendar sus actuales planes de contingencia, los que deberán ser entregados a la DGMM -—
+Departamento de Protección del Medio Marino (DPMM), a efectos de la evaluación correspondiente.
 
-6.- El DPMM deberá expedirse en un plazo máximo de 30 días y en caso de
-observaciones serán entregadas para los ajustes que correspondan, debiendo ser
-retornadas en un plazo perentorio de 30 días, luego de lo cual se aplicaran las
-sanciones correspondientes.
+6.- El DPMM deberá expedirse en un plazo máximo de 30 días y en caso de observaciones serán entregadas para los ajustes que correspondan, debiendo ser retornadas en un plazo perentorio de 30 días, luego de lo cual se aplicaran las sanciones correspondientes.
 
-7.- En relación a los equipos de respuesta a derrames, estos deberán tener
-condiciones adecuadas de mantenimiento y almacenamiento, siendo posible de
-desplegar en forma eficaz en caso de contingencias. A tal fin se dispondrán de
-manera coordinada con las empresas, las inspecciones que pudieran corresponder.
+7.- En relación a los equipos de respuesta a derrames, estos deberán tener condiciones adecuadas de mantenimiento y almacenamiento, siendo posible de desplegar en forma eficaz en caso de contingencias. A tal fin se dispondrán de manera coordinada con las empresas, las inspecciones que pudieran corresponder.
 
-8.- Todo el proceso de actualización de los Planes Locales de Contingencia será
-seguido por el DPMM, auditando a las empresas con sus inspectores calificados en
+8.- Todo el proceso de actualización de los Planes Locales de Contingencia será seguido por el DPMM, auditando a las empresas con sus inspectores calificados en
 
-el tema y que verificarán in situ todas las condiciones indicadas en el Plan
-entregado.
+el tema y que verificarán in situ todas las condiciones indicadas en el Plan entregado.
 
-9.- Acorde al Reglamento OSRO (Empresas Prestadoras de Servicios de Control
-de Derrames de Hidrocarburos y otras Sustancias Nocivas y Potencialmente
+9.- Acorde al Reglamento OSRO (Empresas Prestadoras de Servicios de Control de Derrames de Hidrocarburos y otras Sustancias Nocivas y Potencialmente
 Peligrosas en las Aguas, Costas y Riberas de la República de Honduras - Acuerdo
 DGMM N* 023-2015 de fecha 27.08.2015), las empresas podrán indicar en su Plan
-Locales de Contingencias eventuales acuerdos con empresas OSRO certificadas
-por la DGMM y que cubran aspectos puntuales en materia de prevención y
-respuesta de ese Plan de Contingencias.
+Locales de Contingencias eventuales acuerdos con empresas OSRO certificadas por la DGMM y que cubran aspectos puntuales en materia de prevención y respuesta de ese Plan de Contingencias.
 
 - . co es e ARANA EDAN ADAN AAA AMADA AA. ANN 00NA 10020 0420
 AS > DIRECCIÓN GENERAL DE LA MARINA MERCANTE
 
 GUÍA FUNCIONAL PARA LA ELABORACIÓN DEL PLAN LOCAL DEsrúsucaor nonouras
-CONTINGENCIAS PARA EMPRESAS CON RIESGOS DE DERRAMES DE
-HIDROCARBUROS, SUS DERIVADOS Y OTRAS SUSTANCIAS NOCIVAS Y
-POTENCIALMENTE PELIGROSAS EN AGUAS ABIERTAS O AGUAS
+CONTINGENCIAS PARA EMPRESAS CON RIESGOS DE DERRAMES DE HIDROCARBUROS, SUS DERIVADOS Y OTRAS SUSTANCIAS NOCIVAS Y POTENCIALMENTE PELIGROSAS EN AGUAS ABIERTAS O AGUAS
 : INTERIORES
 
 Puesta en vigor
@@ -11058,9 +8821,7 @@ Tabla de Contenido (Índice)
 
 ## Otro texto del documento — Libro Verde
 
-Código de Conducta Ambiental
-para la Gestión Portuaria
-en Centroamérica
+Código de Conducta Ambiental para la Gestión Portuaria en Centroamérica
 Mayo 2014
 
 1
@@ -11069,8 +8830,7 @@ Mayo 2014
 
 INDICE
 I. INTRODUCCIÓN ............................................................ 4
-II. El Código De Conducta Para El Manejo Ambiental De Los
-Puertos Marítimos De Centroamérica ................................ 5
+II. El Código De Conducta Para El Manejo Ambiental De Los Puertos Marítimos De Centroamérica ................................ 5
 SSEECCCCIIOONN II.. .................................................................................................................................................................. 77
 1.1. Marco Jurídico.................................................................................................................................... 7
 1.1.1. Convenios Regionales Ambientales .......................................................................... 7
@@ -11088,9 +8848,7 @@ SSeecccciióónn IIII ..........................................................
 2.8. El papel de las autoridades y empresas portuarias en el medio ambiente del puerto ......13
 2.9. La participación institucional ........................................................................................................14
 SSEECCCCIIÓÓNN IIIIII .......................................................................................................................................................... 1155
-3.1. Las acciones ambientales en los puertos marítimos, las acciones de política, las acciones
-de control de la contaminación, las acciones de planeación y gestión, acciones de
-fortalecimiento y creación de las capacidades ..........................................................................15
+3.1. Las acciones ambientales en los puertos marítimos, las acciones de política, las acciones de control de la contaminación, las acciones de planeación y gestión, acciones de fortalecimiento y creación de las capacidades ..........................................................................15
 3.2. Acciones de política operativa ......................................................................................................17
 A. Definición de objetivos ambientales: .......................................................................................17
 i. Definición de acuerdos y objetivos ambientales comunes. .............................................17
@@ -11107,23 +8865,17 @@ C. Control en el dragado de mantenimiento. .....................................
 D. Contaminación atmosférica: ......................................................................................................20
 E. Reducción de la contaminación por ruido: ..............................................................................21
 F. Control de la contaminación marina por petróleo en caso de accidente. .........................21
-G. Identificación de las áreas críticas, recursos vulnerables y prioridades de protección
-contra la contaminación accidental por petróleo: .................................................................22
-i) Políticas para la aplicación de dispersantes de petróleo en operaciones de respuesta
-contra el control de la contaminación: ...............................................................................22
+G. Identificación de las áreas críticas, recursos vulnerables y prioridades de protección contra la contaminación accidental por petróleo: .................................................................22
+i) Políticas para la aplicación de dispersantes de petróleo en operaciones de respuesta contra el control de la contaminación: ...............................................................................22
 H. Afectación a ecosistema marino costero: ................................................................................22
-i) Afectación al paisaje y ecosistemas: ....................................................................................22
-ii) Pintura de barco con compuestos órgano estánnicos Tributiltina(TBT) y la
-Trifeniltina (TPT): ....................................................................................................................22
+i) Afectación al paisaje y ecosistemas: ....................................................................................22 ii) Pintura de barco con compuestos órgano estánnicos Tributiltina(TBT) y la Trifeniltina (TPT): ....................................................................................................................22
 I. Riesgo de contaminación por mal manejo de mercancías: ..................................................23
-i) Manejo de graneles ................................................................................................................23
-ii) Manejo de mercancías peligrosas: .......................................................................................23
+i) Manejo de graneles ................................................................................................................23 ii) Manejo de mercancías peligrosas: .......................................................................................23
 3.4. Acciones de manejo, planeación y prevención. ............................................................................23
 A. Apoyo al manejo integrado de la zona costera ......................................................................24
 B. Protección de la infraestructura portuaria contra fenómenos naturales extremos ........24
 C. Planes de emergencia. ................................................................................................................24
-D. Sistemas de información estructurados para comunicación con los medios, la población
-civil y otras autoridades ..............................................................................................................24
+D. Sistemas de información estructurados para comunicación con los medios, la población civil y otras autoridades ..............................................................................................................24
 E. Auditorías ambientales: ..............................................................................................................24
 F. Acciones de fortalecimiento y creación de las capacidades: ...............................................25
 G. Mejora continua: ..........................................................................................................................25
@@ -11138,17 +8890,13 @@ D. Posibles efectos y adaptación en las zonas portuarias ......................
 E. Adaptación y mitigación en las zonas portuarias ...................................................................28
 4.2. Evaluación ambiental del Transporte Marítimo y El Puerto...................................................28
 A. Impactos de las actividades .......................................................................................................29
-i. El agua .......................................................................................................................................29
-ii. El suelo ......................................................................................................................................29
-iii. Problemas socioculturales .....................................................................................................30
+i. El agua .......................................................................................................................................29 ii. El suelo ......................................................................................................................................29 iii. Problemas socioculturales .....................................................................................................30
 B. El dragado de mantenimiento ...................................................................................................30
 C. Ubicación de los puertos y bahías .............................................................................................31
 D. Alternativas de los proyectos ....................................................................................................31
-i. Selección del sitio ....................................................................................................................31
-ii. Diagnóstico ambiental ............................................................................................................32
+i. Selección del sitio ....................................................................................................................31 ii. Diagnóstico ambiental ............................................................................................................32
 SSEECCCCIIOONN VV.. .......................................................................................................................................................... 3333
-5.1. Sistemas de información ambiental portuaria, normas marítimas, productos del Código
-y monitoreo .....................................................................................................................................33
+5.1. Sistemas de información ambiental portuaria, normas marítimas, productos del Código y monitoreo .....................................................................................................................................33
 A. Sistema regional de información...............................................................................................33
 B. Normas marítimas ......................................................................................................................33
 III. Otros códigos y material relacionado con la gestión ambiental en la operación portuaria: ...... 34
@@ -11158,47 +8906,18 @@ III. Otros códigos y material relacionado con la gestión ambiental en la opera
 I. INTRODUCCIÓN
 
 El Protocolo al Tratado General de la Integración Centroamericana, suscrito por los Presidentes
-Centroamericanos en 1993, enfatizó la necesidad de perfeccionar y vigorizar sustancialmente la infraestructura
-física de los puertos de Centroamérica para insertar su economía en los mercados mundiales. El Programa:
-Proyectos de Infraestructura de Transporte en Centroamérica en la Década del 90 (PRODECA), de la Reunión de
-Ministros Responsables del Transporte en Centroamérica (REMITRAN), propuso la ampliación del sistema
-portuario, la modernización de su equipamiento y la realización de estudios básicos para coordinar, a nivel
-regional, los servicios de transporte marítimo.
+Centroamericanos en 1993, enfatizó la necesidad de perfeccionar y vigorizar sustancialmente la infraestructura física de los puertos de Centroamérica para insertar su economía en los mercados mundiales. El Programa:
+Proyectos de Infraestructura de Transporte en Centroamérica en la Década del 90 (PRODECA), de la Reunión de Ministros Responsables del Transporte en Centroamérica (REMITRAN), propuso la ampliación del sistema portuario, la modernización de su equipamiento y la realización de estudios básicos para coordinar, a nivel regional, los servicios de transporte marítimo.
 
-En esta perspectiva, la Comisión Centroamericana de Transporte Marítimo (COCATRAM), que es parte del
-Sistema de la Integración Centroamericana (SICA), con apoyo del Programa Ambiental Regional para
-Centroamérica (PROARCA Costas) y la Comisión Centroamericana de Ambiente y Desarrollo (CCAD), elaboraron
-en el 2000 la “Agenda Centroamericana para la Seguridad Ambiental Marítima y Portuaria de Centroamérica”,
-que constituye un esfuerzo mancomunado de los sectores de ambiente y transporte de la región. Esta agenda
-tonifica la gestión portuaria con elementos ambientales propios del transporte marítimo y de la actividad
-portuaria.
+En esta perspectiva, la Comisión Centroamericana de Transporte Marítimo (COCATRAM), que es parte del Sistema de la Integración Centroamericana (SICA), con apoyo del Programa Ambiental Regional para Centroamérica (PROARCA Costas) y la Comisión Centroamericana de Ambiente y Desarrollo (CCAD), elaboraron en el 2000 la “Agenda Centroamericana para la Seguridad Ambiental Marítima y Portuaria de Centroamérica”, que constituye un esfuerzo mancomunado de los sectores de ambiente y transporte de la región. Esta agenda tonifica la gestión portuaria con elementos ambientales propios del transporte marítimo y de la actividad portuaria.
 
-Dicha Agenda está orientada a brindar orientaciones efectivas a los puertos y terminales portuarios de la
-región, en el mejoramiento de la operación portuaria a través de la incorporación gradual de los aspectos
-ambientales inherentes a las actividades marítimo portuarias y conexas.
+Dicha Agenda está orientada a brindar orientaciones efectivas a los puertos y terminales portuarios de la región, en el mejoramiento de la operación portuaria a través de la incorporación gradual de los aspectos ambientales inherentes a las actividades marítimo portuarias y conexas.
 
-Algunas de las acciones propuestas son: “fortalecer o crear unidades de seguridad industrial y protección
-ambiental en puertos, el monitoreo de la situación ambiental de los mismos y de las vías de acceso y áreas de
-maniobras en puertos, establecer relaciones y acuerdos entre puertos cercanos para el intercambio de
-experiencias y de información,...”, por lo cual se propone otorgar a REPICA un papel protagónico en la
-protección del medio marino y en la seguridad portuaria. Para asegurar la implementación y el monitoreo se
-aprobó un plan de acción y se encomendó a la COCATRAM el respectivo seguimiento.
+Algunas de las acciones propuestas son: “fortalecer o crear unidades de seguridad industrial y protección ambiental en puertos, el monitoreo de la situación ambiental de los mismos y de las vías de acceso y áreas de maniobras en puertos, establecer relaciones y acuerdos entre puertos cercanos para el intercambio de experiencias y de información,...”, por lo cual se propone otorgar a REPICA un papel protagónico en la protección del medio marino y en la seguridad portuaria. Para asegurar la implementación y el monitoreo se aprobó un plan de acción y se encomendó a la COCATRAM el respectivo seguimiento.
 
-A fin de crear un marco para la aplicación del plan de acción que permita operar la Agenda, la COCATRAM
-diseñó el Código de Conducta Ambiental para la Gestión Portuaria en Centroamérica, el cual fue aprobado por
-la XXVII REPICA, Reunión de Empresas Portuarias del Istmo Centroamericano en Guatemala, el 11 de mayo de
-2007. El presente es una actualización al primer Código el cual será presentado en la XXXVI REPICA a celebrarse
-en mayo del 2014 en Nicaragua, y se espera contar con la aprobación de los estados miembros
+A fin de crear un marco para la aplicación del plan de acción que permita operar la Agenda, la COCATRAM diseñó el Código de Conducta Ambiental para la Gestión Portuaria en Centroamérica, el cual fue aprobado por la XXVII REPICA, Reunión de Empresas Portuarias del Istmo Centroamericano en Guatemala, el 11 de mayo de 2007. El presente es una actualización al primer Código el cual será presentado en la XXXVI REPICA a celebrarse en mayo del 2014 en Nicaragua, y se espera contar con la aprobación de los estados miembros
 
-La naturaleza del código es de aplicación voluntaria en el cual se prioriza el cumplimiento de la legislación
-ambiental de cada país y los compromisos regionales e internacionales, en el cual las autoridades portuarias de
-cada país puedan retomar en dependencia de sus actividades, prioridades y recursos para que de manera
-gradual cada país logre en corto y mediano plazo establecer un sistema que controle y disminuya el impacto
-ambiental de las actividades portuarias. El Código entonces, refiere los aspectos y actividades que deben ser
-considerados por la administración portuaria para satisfacer los estándares ambientales. El Código es en sí, un
-elemento orientador del trabajo del puerto con relación a sus obligaciones ambientales. En este sentido,
-instrumenta la Agenda Ambiental para el Transporte Marítimo de Centroamérica en armonía con las políticas
-ambientales de los países miembros de COCATRAM y es por definición, el “Libro Verde” de la Conducta
+La naturaleza del código es de aplicación voluntaria en el cual se prioriza el cumplimiento de la legislación ambiental de cada país y los compromisos regionales e internacionales, en el cual las autoridades portuarias de cada país puedan retomar en dependencia de sus actividades, prioridades y recursos para que de manera gradual cada país logre en corto y mediano plazo establecer un sistema que controle y disminuya el impacto ambiental de las actividades portuarias. El Código entonces, refiere los aspectos y actividades que deben ser considerados por la administración portuaria para satisfacer los estándares ambientales. El Código es en sí, un elemento orientador del trabajo del puerto con relación a sus obligaciones ambientales. En este sentido, instrumenta la Agenda Ambiental para el Transporte Marítimo de Centroamérica en armonía con las políticas ambientales de los países miembros de COCATRAM y es por definición, el “Libro Verde” de la Conducta
 Ambiental de las Autoridades y Empresas Portuarias de Centroamérica.
 
 5
@@ -11206,57 +8925,23 @@ Ambiental de las Autoridades y Empresas Portuarias de Centroamérica.
 II. El Código De Conducta Para El Manejo Ambiental De Los Puertos
 Marítimos De Centroamérica
 
-El Código de Conducta para el Manejo Ambiental de los Puertos Marítimos de Centroamérica ha sido diseñado
-como una herramienta de autorregulación, que abarque a todos los Puertos y terminales marítimos de los
-países miembros de la COCATRAM, independientemente de sus recursos y niveles de tráfico, para que asuman
-la protección del medio ambiente como parte de la cultura portuaria.
+El Código de Conducta para el Manejo Ambiental de los Puertos Marítimos de Centroamérica ha sido diseñado como una herramienta de autorregulación, que abarque a todos los Puertos y terminales marítimos de los países miembros de la COCATRAM, independientemente de sus recursos y niveles de tráfico, para que asuman la protección del medio ambiente como parte de la cultura portuaria.
 
-En el código reconoce como punto de partida la responsabilidad de la aplicación de la legislaciones y políticas
-ambientales de cada país, y los compromisos ambientales regionales e internacionales asumidos por los
-Estados miembros de COCATRAM. El Código es voluntario, pero tiene acciones mandatarías vinculadas a
-instrumentos legales de cada país y compromisos internacionales de los cuales los países miembros de
-COCATRAM son parte.
+En el código reconoce como punto de partida la responsabilidad de la aplicación de la legislaciones y políticas ambientales de cada país, y los compromisos ambientales regionales e internacionales asumidos por los Estados miembros de COCATRAM. El Código es voluntario, pero tiene acciones mandatarías vinculadas a instrumentos legales de cada país y compromisos internacionales de los cuales los países miembros de COCATRAM son parte.
 
-Las autoridades portuarias con apoyo de COCATRAM deben desarrollar sus capacidades para incorporar la
-variable ambiental de manejo portuario, haciendo que éste sea ambientalmente más seguro, económicamente
-viable y efectivo, así como prácticamente posible.
+Las autoridades portuarias con apoyo de COCATRAM deben desarrollar sus capacidades para incorporar la variable ambiental de manejo portuario, haciendo que éste sea ambientalmente más seguro, económicamente viable y efectivo, así como prácticamente posible.
 
-El Código no crea nuevas tareas ambientales para los puertos, sino que proporciona un marco para las acciones
-derivadas de la normativa nacional e internacional que pueden ayudar a proteger sustancialmente el
-medioambiente del puerto y su entorno a través de su aplicación en la rutina portuaria.
+El Código no crea nuevas tareas ambientales para los puertos, sino que proporciona un marco para las acciones derivadas de la normativa nacional e internacional que pueden ayudar a proteger sustancialmente el medioambiente del puerto y su entorno a través de su aplicación en la rutina portuaria.
 
-No es un documento rígido, sino flexible y abierto que puede y debe ser modificado, implementado y
-completado según evolucionen las legislaciones ambientales y las prácticas del trabajo portuario, el comercio
-internacional y surjan nuevos aspectos ambientales y tecnologías que requieran ser atendidos, el Código forma
-parte de un proceso a largo plazo para mejorar los niveles de manejo ambiental en los puertos, a través del
-progresivo mejoramiento del trabajo portuario con relación al medio ambiente. El Código reconoce las
-oportunidades que ofrece la promoción del medio marítimo de transporte, incluido el cabotaje regional, a
-través de un trabajo portuario amigable con el ambiente.
+No es un documento rígido, sino flexible y abierto que puede y debe ser modificado, implementado y completado según evolucionen las legislaciones ambientales y las prácticas del trabajo portuario, el comercio internacional y surjan nuevos aspectos ambientales y tecnologías que requieran ser atendidos, el Código forma parte de un proceso a largo plazo para mejorar los niveles de manejo ambiental en los puertos, a través del progresivo mejoramiento del trabajo portuario con relación al medio ambiente. El Código reconoce las oportunidades que ofrece la promoción del medio marítimo de transporte, incluido el cabotaje regional, a través de un trabajo portuario amigable con el ambiente.
 
-El objetivo de REPICA es propiciar el
-intercambio de ideas y experiencias en la
-discusión de la problemática portuaria. La
-temática de estas reuniones gira en torno a
-los avances de la tecnología en materia
-portuaria, mejoras organizativas y legislativas,
-planes de modernización, innovaciones,
-cumplimiento de las normas internacionales,
-medio ambiente
+El objetivo de REPICA es propiciar el intercambio de ideas y experiencias en la discusión de la problemática portuaria. La temática de estas reuniones gira en torno a los avances de la tecnología en materia portuaria, mejoras organizativas y legislativas, planes de modernización, innovaciones, cumplimiento de las normas internacionales, medio ambiente
 
 Países miembro de la COCATRAM y REPICA
 Fuente: Sistema de Integración Centroamericana (SICA)
 6
 
-“Para integrar de manera eficaz el ambiente y el
-desarrollo en la política y en las practicas de cada
-país, es esencial desarrollar y aplicar leyes y
-reglamentos basados en sanos principios sociales,
-ecológicos, económicos y científicos....La
-promulgación y aplicación de leyes y reglamentos (a
-nivel regional, nacional, estatal/provincial, o
-local/municipal) son igualmente esenciales para
-aplicar la mayoría de los acuerdos internacionales
-ambientales...”
+“Para integrar de manera eficaz el ambiente y el desarrollo en la política y en las practicas de cada país, es esencial desarrollar y aplicar leyes y reglamentos basados en sanos principios sociales, ecológicos, económicos y científicos....La promulgación y aplicación de leyes y reglamentos (a nivel regional, nacional, estatal/provincial, o local/municipal) son igualmente esenciales para aplicar la mayoría de los acuerdos internacionales ambientales...”
 
 La Agenda 21
 Artículo 8.14
@@ -11265,32 +8950,23 @@ Artículo 8.14
 SSEECCCCIIOONN II..
 1.1. Marco Jurídico
 
-Debido al carácter internacional del transporte marítimo, desde hace mucho tiempo se reconoce que las
-medidas encaminadas a mejorar la seguridad de las operaciones marítimas serian más eficaces si se realizan en
-un marco regional e internacional en lugar de depender de las acciones unilaterales de cada país sin
-coordinación con el resto. La región centroamericana cuenta con numerosos instrumentos legales nacionales,
-convenios regionales, e internacionales en materia ambiental. A continuación se mencionan los principales
-instrumentos legales:
+Debido al carácter internacional del transporte marítimo, desde hace mucho tiempo se reconoce que las medidas encaminadas a mejorar la seguridad de las operaciones marítimas serian más eficaces si se realizan en un marco regional e internacional en lugar de depender de las acciones unilaterales de cada país sin coordinación con el resto. La región centroamericana cuenta con numerosos instrumentos legales nacionales, convenios regionales, e internacionales en materia ambiental. A continuación se mencionan los principales instrumentos legales:
 1.1.1. Convenios Regionales Ambientales
 
-Protocolo Concerniente a la Cooperación en el Combate de los Derrames de Petróleo en la Región del
-Gran Caribe. Cartagena de Indias, 1983.
+Protocolo Concerniente a la Cooperación en el Combate de los Derrames de Petróleo en la Región del Gran Caribe. Cartagena de Indias, 1983.
 Convenio para la Conservación de la Biodiversidad y Protección de Áreas Silvestres Prioritarias en América
 Central. Managua, 1992.
 Acuerdo Regional sobre el Movimiento Transfronterizos de Desechos Peligrosos. Panamá, 1992.
 Convenio Regional sobre el Cambio Climático, Guatemala, 1993.
-Convenio de Cooperación para la Protección y el Desarrollo Sostenible de las Zonas Marinas y Costeras
-del Pacífico Nordeste y su Plan de Acción. Guatemala, 2002.
+Convenio de Cooperación para la Protección y el Desarrollo Sostenible de las Zonas Marinas y Costeras del Pacífico Nordeste y su Plan de Acción. Guatemala, 2002.
 
 1.1.2. Convenios Internacionales Ambientales
 
-Los convenios que han sido ratificados vinculan en forma obligatoria a los estados en cumplimiento de sus
-disposiciones.
+Los convenios que han sido ratificados vinculan en forma obligatoria a los estados en cumplimiento de sus disposiciones.
 El Convenio Internacional para prevenir la Contaminación de las Aguas del Mar por Hidrocarburos.
 Londres, 1954.
 Convención Relativa a los Humedales de Importancia Internacional (Ramsar). Irán, 1971.
-Convenio Internacional para Prevenir la Contaminación del Mar por los Buques. Constituye el principal
-instrumento vigente en la lucha contra la contaminación procedente de los buques, MARPOL 73/78:
+Convenio Internacional para Prevenir la Contaminación del Mar por los Buques. Constituye el principal instrumento vigente en la lucha contra la contaminación procedente de los buques, MARPOL 73/78:
 
 Anexo I: Contaminación por Hidrocarburos.
 Anexo II: Sustancias Nocivas Líquidas a Granel (químicos).
@@ -11300,24 +8976,20 @@ Anexo V: Basura (desechos sólidos).
 Anexo VI: Contaminación Atmosférica Ocasionada por los Buques.
 
 Convenio Internacional para la Seguridad de la Vida Humana en el Mar. (SOLAS). Londres, 1974.
-Convenio Internacional sobre Cooperación, Preparación y Lucha contra la Contaminación por
-Hidrocarburos. (OPRC), 1990.
+Convenio Internacional sobre Cooperación, Preparación y Lucha contra la Contaminación por Hidrocarburos. (OPRC), 1990.
 Convención de las Naciones Unidas sobre el Derecho del Mar, 1982 (CONVEMAR).
 8
 
-Convenio de Basilea sobre el Control de los Movimientos Transfronterizos de los Desechos Peligrosos y su
-Eliminación. Basilea, 1989.
+Convenio de Basilea sobre el Control de los Movimientos Transfronterizos de los Desechos Peligrosos y su Eliminación. Basilea, 1989.
 Convenio Marco de las Naciones Unidas sobre el Cambio Climático. Nueva York, 1992.
 Convenio sobre la Diversidad Biológica. Rio de Janeiro, 1992.
 Protocolo de Kyoto del Convenio Marco de Naciones Unidas sobre el Cambio Climático. Kyoto, 1997.
-Protocolo Internacional sobre Contaminación, preparación y Lucha contra los Sucesos de Contaminación
-por Sustancias Nocivas y Potencialmente Peligrosas. OPRC-HNS, 2000.
+Protocolo Internacional sobre Contaminación, preparación y Lucha contra los Sucesos de Contaminación por Sustancias Nocivas y Potencialmente Peligrosas. OPRC-HNS, 2000.
 Convenio sobre la Gestión del Agua de Lastre. Londres, 2004.
 Código Marítimo Internacional de Mercancías Peligrosas. (IMDG), Londres, 2004.
 
 1.1.3. Organización Marítima Internacional (OMI)
-Los países miembros de COCATRAM son también miembros de OMI, agencia de las Naciones Unidas cuyo
-objetivo principal es la mejora de la seguridad marítima y la prevención de la contaminación del mar.
+Los países miembros de COCATRAM son también miembros de OMI, agencia de las Naciones Unidas cuyo objetivo principal es la mejora de la seguridad marítima y la prevención de la contaminación del mar.
 
 País Año
 Guatemala 1983
@@ -11333,176 +9005,86 @@ Fuente:www.omi.org
 
 Este Código se fundamenta en los siguientes principios:
 
-Principio de la INTERNACIONALIDAD del Puerto. Los puertos constituyen una interface de los sistemas
-de transporte para el comercio internacional, por lo que muchas de sus actividades tienen naturaleza
-internacional, reconocida y reglamentada por estándares, guías y principios normativos de
-convenciones internacionales, que deben ser aplicadas en los puertos. Algunos impactos ambientales
-producidos por la actividad portuaria pueden afectar ecosistemas y recursos compartidos por dos o
-más países.
+Principio de la INTERNACIONALIDAD del Puerto. Los puertos constituyen una interface de los sistemas de transporte para el comercio internacional, por lo que muchas de sus actividades tienen naturaleza internacional, reconocida y reglamentada por estándares, guías y principios normativos de convenciones internacionales, que deben ser aplicadas en los puertos. Algunos impactos ambientales producidos por la actividad portuaria pueden afectar ecosistemas y recursos compartidos por dos o más países.
 
-Principio de la MOVILIDAD SOSTENIBLE, que significa que el transporte marítimo debe ser capaz de
-cumplir con su papel económico y social sin deterioro del medio ambiente.
+Principio de la MOVILIDAD SOSTENIBLE, que significa que el transporte marítimo debe ser capaz de cumplir con su papel económico y social sin deterioro del medio ambiente.
 
-Principio de RESPONSABILIDAD COMÚN, PERO DIFERENCIADA, nace de la idea que los puertos se
-ubican en tramos de la costa donde generalmente tienen lugar otros desarrollos, que pueden influirse
-ambientalmente de forma mutua, por lo que existe una responsabilidad común para la protección del
-medio ambiente marino y de la costa, pero diferenciada.
+Principio de RESPONSABILIDAD COMÚN, PERO DIFERENCIADA, nace de la idea que los puertos se ubican en tramos de la costa donde generalmente tienen lugar otros desarrollos, que pueden influirse ambientalmente de forma mutua, por lo que existe una responsabilidad común para la protección del medio ambiente marino y de la costa, pero diferenciada.
 
 9
 
-Principio de PRECAUCIÓN, que significa que en ausencia de una certeza científica o en presencia de una
-duda razonable, con relación a los efectos ambientales de nuevas condiciones u operaciones
-portuarias, no existe justificación alguna para que las autoridades y empresas portuarias no tomen
-previsiones razonables para reducir y evitar los efectos ambientales “no conocidos o inciertos” de una
-actividad portuaria.
+Principio de PRECAUCIÓN, que significa que en ausencia de una certeza científica o en presencia de una duda razonable, con relación a los efectos ambientales de nuevas condiciones u operaciones portuarias, no existe justificación alguna para que las autoridades y empresas portuarias no tomen previsiones razonables para reducir y evitar los efectos ambientales “no conocidos o inciertos” de una actividad portuaria.
 
-Principio de FLEXIBILIDAD, el Código puede ser aplicado a todo tipo de puertos y estructuras portuarias
-existentes en Centroamérica, independiente de la gama de actividades que se realizan en ellos y de la
-diversidad de estructuras administrativas y/o formas de administración portuaria.
+Principio de FLEXIBILIDAD, el Código puede ser aplicado a todo tipo de puertos y estructuras portuarias existentes en Centroamérica, independiente de la gama de actividades que se realizan en ellos y de la diversidad de estructuras administrativas y/o formas de administración portuaria.
 
 10
 
 SECCIÓN II
 2.1. Naturaleza del Código
-El presente es un código voluntario, si bien una parte de las acciones ambientales que identifica para aplicar en
-la rutina del puerto provienen de la legislación internacional, lo que le da cierto carácter vinculante, debe ser
-interpretado principalmente como una guía orientadora sobre las acciones a realizar en el trabajo portuario
-desde el punto de vista ambiental, para la buena gerencia portuaria.
+El presente es un código voluntario, si bien una parte de las acciones ambientales que identifica para aplicar en la rutina del puerto provienen de la legislación internacional, lo que le da cierto carácter vinculante, debe ser interpretado principalmente como una guía orientadora sobre las acciones a realizar en el trabajo portuario desde el punto de vista ambiental, para la buena gerencia portuaria.
 
-Se aplica a los diferentes tipos de puertos y terminales portuarios marítimos en la región, incluyendo
-terminales petroleros y estructuras asociadas, independientemente de sus formas de administración. Se
-considera que su aplicación ayudará a las Autoridades Portuarias, Marítimas y REPICA según proceda, al
-cumplimiento de los marcos normativos pertinentes y a un ordenamiento más integral de sus actividades
-desde la perspectiva del desarrollo sostenible. El Código crea también el marco de trabajo en el cual, las
-autoridades portuarias y la REPICA pueden abordar y discutir los temas ambientales inherentes a su trabajo.
+Se aplica a los diferentes tipos de puertos y terminales portuarios marítimos en la región, incluyendo terminales petroleros y estructuras asociadas, independientemente de sus formas de administración. Se considera que su aplicación ayudará a las Autoridades Portuarias, Marítimas y REPICA según proceda, al cumplimiento de los marcos normativos pertinentes y a un ordenamiento más integral de sus actividades desde la perspectiva del desarrollo sostenible. El Código crea también el marco de trabajo en el cual, las autoridades portuarias y la REPICA pueden abordar y discutir los temas ambientales inherentes a su trabajo.
 
-El presente Código no se refiere al tránsito marítimo, ayudas a la navegación y otros aspectos de la
-administración marítima, ni a la seguridad y defensa naval, pero reconoce que la aplicación de las normas que
-cubren estos aspectos es fundamental para el trabajo ambiental en los puertos.
+El presente Código no se refiere al tránsito marítimo, ayudas a la navegación y otros aspectos de la administración marítima, ni a la seguridad y defensa naval, pero reconoce que la aplicación de las normas que cubren estos aspectos es fundamental para el trabajo ambiental en los puertos.
 
-Las acciones señaladas están basadas en las reglamentaciones internacionales y en la legislación pertinente. No
-suplanta las normas ambientales nacionales relacionadas con la protección del medio marino y costero en el
-área de los puertos, sino al contrario ayuda a su compresión y facilita su aplicación.
+Las acciones señaladas están basadas en las reglamentaciones internacionales y en la legislación pertinente. No suplanta las normas ambientales nacionales relacionadas con la protección del medio marino y costero en el área de los puertos, sino al contrario ayuda a su compresión y facilita su aplicación.
 
 2.2. ¿Por qué el Código de Conducta?
 
-Los puertos marítimos en Centroamérica constituyen un eje fundamental de articulación cultural y económica
-de la región con el resto del mundo y son elementos claves para el desarrollo sostenible de los países. Los
-puertos contribuyen significativamente al crecimiento de las ciudades y comunidades donde están ubicados,
-también generan impactos ambientales a través de operaciones portuarias defectuosas, que pueden llegar más
-allá del área del puerto. A su vez, las actividades que se realizan alrededor del área del puerto pueden tener
-impacto significativo en la operación portuaria, por lo que existe una corresponsabilidad ambiental de los
-diferentes usuarios de la costa donde se ubican. Se hace necesario que la administración portuaria sea provista
-de elementos de gestión costera para controlar y apoyar, según proceda, en soluciones efectivas derivadas de
-esta doble situación.
+Los puertos marítimos en Centroamérica constituyen un eje fundamental de articulación cultural y económica de la región con el resto del mundo y son elementos claves para el desarrollo sostenible de los países. Los puertos contribuyen significativamente al crecimiento de las ciudades y comunidades donde están ubicados, también generan impactos ambientales a través de operaciones portuarias defectuosas, que pueden llegar más allá del área del puerto. A su vez, las actividades que se realizan alrededor del área del puerto pueden tener impacto significativo en la operación portuaria, por lo que existe una corresponsabilidad ambiental de los diferentes usuarios de la costa donde se ubican. Se hace necesario que la administración portuaria sea provista de elementos de gestión costera para controlar y apoyar, según proceda, en soluciones efectivas derivadas de esta doble situación.
 
-La gama de diferentes actividades que tienen lugar en los puertos y los diferentes actores en su área pueden
-representar distintas actitudes y compromisos con relación al medio ambiente y no existe una normativa
-específica que cubra todos los aspectos relativos al manejo ambiental de los puertos y tampoco una institución
-u organización, que se refiera a todos los impactos ambientales que se producen en ellos, por lo que es
-necesario abordar estos vacíos con criterios comunes y propósitos unificados. A lo anterior, se adiciona el
-hecho de que no existe mucha claridad en las acciones que deben ser realizadas por las autoridades y
-empresas portuarias con relación a las normativas sobre medio ambiente portuario. Los clientes del servicio
-portuario se diferencian por el tamaño de sus intereses y del servicio deseado; tienen diferentes actitudes y
-responsabilidades respecto al medio ambiente en el área del puerto. Esta variedad de impactos, los vacíos
+La gama de diferentes actividades que tienen lugar en los puertos y los diferentes actores en su área pueden representar distintas actitudes y compromisos con relación al medio ambiente y no existe una normativa específica que cubra todos los aspectos relativos al manejo ambiental de los puertos y tampoco una institución u organización, que se refiera a todos los impactos ambientales que se producen en ellos, por lo que es necesario abordar estos vacíos con criterios comunes y propósitos unificados. A lo anterior, se adiciona el hecho de que no existe mucha claridad en las acciones que deben ser realizadas por las autoridades y empresas portuarias con relación a las normativas sobre medio ambiente portuario. Los clientes del servicio portuario se diferencian por el tamaño de sus intereses y del servicio deseado; tienen diferentes actitudes y responsabilidades respecto al medio ambiente en el área del puerto. Esta variedad de impactos, los vacíos
 11
 
-existentes, la presencia de múltiples actores y la existencia de una débil y limitada integración hacen difícil el
-trabajo portuario con relación a la protección ambiental.
-La industria portuaria tiene procesos más complejos en la preparación de las revisiones ambientales de sus
-operaciones y en ella existen como mínimo más de 20 factores ambientales con el mismo nivel de agregación.
-Los sistemas de prevención y alerta contra la contaminación por petróleo y otras sustancias nocivas; los
-sistemas de alerta contra incendio y otros accidentes que determinan impactos ambientales y en la seguridad
-de la vida humana; los riesgos de manejo, almacenamiento y embarque de sustancias peligrosas; las
-instalaciones de recepción de desechos sólidos generado por barcos; el control sobre la introducción de
-organismos foráneos contenidos en el agua de lastre; el consumo de agua y energía, así como la disposición de
-desechos son factores mínimos cuando son comparados con el manejo real ambiental de los puertos. Varios de
-los puertos manejados ambientalmente requieren que la industria portuaria trabaje estrechamente con un
-amplio rango de autoridades gubernamentales y locales.
+existentes, la presencia de múltiples actores y la existencia de una débil y limitada integración hacen difícil el trabajo portuario con relación a la protección ambiental.
+La industria portuaria tiene procesos más complejos en la preparación de las revisiones ambientales de sus operaciones y en ella existen como mínimo más de 20 factores ambientales con el mismo nivel de agregación.
+Los sistemas de prevención y alerta contra la contaminación por petróleo y otras sustancias nocivas; los sistemas de alerta contra incendio y otros accidentes que determinan impactos ambientales y en la seguridad de la vida humana; los riesgos de manejo, almacenamiento y embarque de sustancias peligrosas; las instalaciones de recepción de desechos sólidos generado por barcos; el control sobre la introducción de organismos foráneos contenidos en el agua de lastre; el consumo de agua y energía, así como la disposición de desechos son factores mínimos cuando son comparados con el manejo real ambiental de los puertos. Varios de los puertos manejados ambientalmente requieren que la industria portuaria trabaje estrechamente con un amplio rango de autoridades gubernamentales y locales.
 
-Los puertos que operan sin el debido ordenamiento ambiental, son focos importantes de deterioro de las
-costas y constituyen una seria amenaza para los recursos marinos y costeros ubicados en sus áreas y áreas de
-influencia, con efectos marcados para las poblaciones costeras que utilizan esos recursos como medio de vida.
+Los puertos que operan sin el debido ordenamiento ambiental, son focos importantes de deterioro de las costas y constituyen una seria amenaza para los recursos marinos y costeros ubicados en sus áreas y áreas de influencia, con efectos marcados para las poblaciones costeras que utilizan esos recursos como medio de vida.
 Además, pueden afectar la integridad y estabilidad de los ecosistemas y el patrimonio natural nacional.
 
-Los puertos requieren mejorar la proyección de sus acciones en las operaciones de rutina que protegen el
-medio ambiente. Cada actividad principal de manejo portuario debe considerar al medio ambiente como una
-operación normal de la administración portuaria y en ausencia de un código sobre los aspectos ambientales y
-de sistemas ambientales para el manejo portuario, es difícil explicar a los gobiernos, sociedad civil y otro
-público, el alcance y extensión del quehacer portuario.
+Los puertos requieren mejorar la proyección de sus acciones en las operaciones de rutina que protegen el medio ambiente. Cada actividad principal de manejo portuario debe considerar al medio ambiente como una operación normal de la administración portuaria y en ausencia de un código sobre los aspectos ambientales y de sistemas ambientales para el manejo portuario, es difícil explicar a los gobiernos, sociedad civil y otro público, el alcance y extensión del quehacer portuario.
 
-Este Código refleja la diversidad y complejidad de las funciones y situaciones de los puertos marítimos de
-Centroamérica, reconoce que la responsabilidad de la aplicación de la legislación y políticas ambientales varían
-según la naturaleza de cada puerto y según los Estados miembros de COCATRAM, así como las prioridades y
-recursos con lo que se cuentan para la implementación del mismo. La aplicación del Código favorece el
-desarrollo sostenible de los puertos de la región y, a su vez, sirve de plataforma para fortalecer en lo ambiental,
-las políticas portuarias y sobre transporte marítimo, además estimula la construcción de las políticas marítimas
-nacionales.
+Este Código refleja la diversidad y complejidad de las funciones y situaciones de los puertos marítimos de Centroamérica, reconoce que la responsabilidad de la aplicación de la legislación y políticas ambientales varían según la naturaleza de cada puerto y según los Estados miembros de COCATRAM, así como las prioridades y recursos con lo que se cuentan para la implementación del mismo. La aplicación del Código favorece el desarrollo sostenible de los puertos de la región y, a su vez, sirve de plataforma para fortalecer en lo ambiental, las políticas portuarias y sobre transporte marítimo, además estimula la construcción de las políticas marítimas nacionales.
 
 2.3. ¿Qué se espera de la aplicación del Código?
 
-Se espera en el mediano y largo plazo, que las autoridades portuarias y marítimas de Centroamérica y REPICA
-estén en capacidad de:
+Se espera en el mediano y largo plazo, que las autoridades portuarias y marítimas de Centroamérica y REPICA estén en capacidad de:
 
-i) Tomar y ejecutar medidas necesarias para afrontar las exigencias ambientales que requieren los
-puertos y sus estructuras. Las responsabilidades portuarias en materia de medio ambiente presentan
-una tendencia en crecimiento y posiblemente como consecuencia de la globalización, esta
-responsabilidad se hará cada vez más notoria. Las autoridades portuarias podrían requerir de personal
-y recursos necesarios, complementarios para desarrollar esta capacidad.
-ii) Facilitar y aplicar en el TRABAJO del PUERTO, según proceda, los principios guías, orientaciones y
-técnicas recomendadas en los Convenios Internacionales relacionados con la protección del Medio
+i) Tomar y ejecutar medidas necesarias para afrontar las exigencias ambientales que requieren los puertos y sus estructuras. Las responsabilidades portuarias en materia de medio ambiente presentan una tendencia en crecimiento y posiblemente como consecuencia de la globalización, esta responsabilidad se hará cada vez más notoria. Las autoridades portuarias podrían requerir de personal y recursos necesarios, complementarios para desarrollar esta capacidad.
+ii) Facilitar y aplicar en el TRABAJO del PUERTO, según proceda, los principios guías, orientaciones y técnicas recomendadas en los Convenios Internacionales relacionados con la protección del Medio
 Ambiente Marino y mejorar la aplicación de la legislación ambiental nacional pertinente.
 12
 
-iii) Tratar y analizar, en el contexto de REPICA y con apoyo de COCATRAM y de la comunidad internacional
-la elaboración, revisión y adopción de instrumentos ambientales internacionales, que aseguren la
-efectividad del trabajo portuario y la protección del medio ambiente costero, en el sitio del puerto.
-iv) Recomendar, en consulta con las instituciones pertinentes y dentro del marco de su ordenamiento
-interno, representantes de alto nivel para el análisis y discusión de políticas ambientales comunes
-inherentes al trabajo portuario y armónicas con las legislaciones ambientales nacionales.
+iii) Tratar y analizar, en el contexto de REPICA y con apoyo de COCATRAM y de la comunidad internacional la elaboración, revisión y adopción de instrumentos ambientales internacionales, que aseguren la efectividad del trabajo portuario y la protección del medio ambiente costero, en el sitio del puerto.
+iv) Recomendar, en consulta con las instituciones pertinentes y dentro del marco de su ordenamiento interno, representantes de alto nivel para el análisis y discusión de políticas ambientales comunes inherentes al trabajo portuario y armónicas con las legislaciones ambientales nacionales.
 
 2.4. Objetivos del Código
 
-El presente Código establece la agenda de trabajo en la cual las autoridades portuarias con el apoyo de REPICA
-y COCATRAM pueden desarrollar herramientas para implementar la gestión ambiental del que hacer portuario.
+El presente Código establece la agenda de trabajo en la cual las autoridades portuarias con el apoyo de REPICA y COCATRAM pueden desarrollar herramientas para implementar la gestión ambiental del que hacer portuario.
 Los objetivos específicos son:
 
-Fortalecer la cooperación y la asistencia mutua entre las autoridades portuarias y marítimas, y REPICA con
-miras a intercambiar experiencias y brindar apoyo entre los países miembros.
-Servir de marco para promover la responsabilidad ambiental colectiva entre todo el universo de usuarios
-del puerto y estimular la mejora continua de los sistemas de manejo ambiental.
-Ayudar a progresar de forma segura y sostenida hacia puertos ambientalmente sanos, sostenibles,
-técnicamente seguros y competitivos.
+Fortalecer la cooperación y la asistencia mutua entre las autoridades portuarias y marítimas, y REPICA con miras a intercambiar experiencias y brindar apoyo entre los países miembros.
+Servir de marco para promover la responsabilidad ambiental colectiva entre todo el universo de usuarios del puerto y estimular la mejora continua de los sistemas de manejo ambiental.
+Ayudar a progresar de forma segura y sostenida hacia puertos ambientalmente sanos, sostenibles, técnicamente seguros y competitivos.
 Contar con herramientas regionales que faciliten las acciones ambientales.
 
 2.5. Beneficios del Código
 
-Con una mejor compresión de los temas ambientales referidos al trabajo portuario y una mejor coordinación
-en sus aplicaciones, este Código, abre la posibilidad ganar eficiencia operativa y abaratar costos por reparación
-de daños ambientales producidos por las operaciones portuarias y por los accidentes marítimos que
-determinen daños ecológicos al medio marino. Crea un espacio para la interacción de todos los actores e
-intereses en el universo de los puertos, lo que permite unificar criterios, establecer acciones y desarrollar la
-capacidad de los puertos para atender sus propias necesidades ambientales y a su vez prestar servicios
-ambientales portuarios especializados.
+Con una mejor compresión de los temas ambientales referidos al trabajo portuario y una mejor coordinación en sus aplicaciones, este Código, abre la posibilidad ganar eficiencia operativa y abaratar costos por reparación de daños ambientales producidos por las operaciones portuarias y por los accidentes marítimos que determinen daños ecológicos al medio marino. Crea un espacio para la interacción de todos los actores e intereses en el universo de los puertos, lo que permite unificar criterios, establecer acciones y desarrollar la capacidad de los puertos para atender sus propias necesidades ambientales y a su vez prestar servicios ambientales portuarios especializados.
 
 2.6. ¿A quién está dirigido el Código?
 
-Está dirigido a las autoridades portuarias, autoridades marítimas u órganos equivalentes, además de empresas
-portuarias de Centroamérica, terminales petroleras y refinerías costeras y la aplicación de cualquier otra forma
-de administración portuaria que se presente en la región dentro del contexto del “TRABAJO DEL PUERTO”.
+Está dirigido a las autoridades portuarias, autoridades marítimas u órganos equivalentes, además de empresas portuarias de Centroamérica, terminales petroleras y refinerías costeras y la aplicación de cualquier otra forma de administración portuaria que se presente en la región dentro del contexto del “TRABAJO DEL PUERTO”.
 
 13
 
 2.7. Ámbito de aplicación del Código
 
-La zona geográfica de aplicación se refiere al “Área del Puerto”, definida por el espacio terrestre y marino y su
-interfaz ocupada por el puerto y limitada por la legislación nacional. El ámbito de aplicación incluye:
+La zona geográfica de aplicación se refiere al “Área del Puerto”, definida por el espacio terrestre y marino y su interfaz ocupada por el puerto y limitada por la legislación nacional. El ámbito de aplicación incluye:
 
-Terminales petroleras, quimiqueras y de buques para el transporte de gas licuado, incluidos los ductos
-correspondientes, oleoductos asociados, depósitos y tanques de almacenamiento de hidrocarburos en la
-costa, incluyendo refinerías costeras, entre otros.
-Los atracaderos y zonas de almacenamiento, bodegas en las que se guarden y conserven mercancías
-peligrosas.
+Terminales petroleras, quimiqueras y de buques para el transporte de gas licuado, incluidos los ductos correspondientes, oleoductos asociados, depósitos y tanques de almacenamiento de hidrocarburos en la costa, incluyendo refinerías costeras, entre otros.
+Los atracaderos y zonas de almacenamiento, bodegas en las que se guarden y conserven mercancías peligrosas.
 Los atracaderos o zonas especiales para las cargas o descarga de explosivos.
 Las actividades de toma de combustibles.
 Las instalaciones en puerto de productos químicos y petróleo.
@@ -11510,75 +9092,37 @@ Las zonas de acceso a los puertos con alta densidad de tráfico y los fondeadero
 Astilleros, diques secos, marinas y zonas de reparación.
 Las zonas de operaciones generales de carga.
 Las terminales de pasajeros, turísticas, petroleras y los muelles pesqueros.
-Las áreas de acceso en tierra al puerto, carreteras, ferrocarril e instalaciones dentro de ellas, incluyendo
-refinerías costeras.
+Las áreas de acceso en tierra al puerto, carreteras, ferrocarril e instalaciones dentro de ellas, incluyendo refinerías costeras.
 
-2.8. El papel de las autoridades y empresas portuarias en el medio
-ambiente del puerto
-Las autoridades y empresas portuarias tienen la responsabilidad de cumplir y hacer cumplir normas
-consagradas en las regulaciones nacionales e internacionales sobre la materia. Este Código se refiere a las
-siguientes áreas de responsabilidad “clave” del trabajo de las autoridades y empresas portuarias:
+2.8. El papel de las autoridades y empresas portuarias en el medio ambiente del puerto
+Las autoridades y empresas portuarias tienen la responsabilidad de cumplir y hacer cumplir normas consagradas en las regulaciones nacionales e internacionales sobre la materia. Este Código se refiere a las siguientes áreas de responsabilidad “clave” del trabajo de las autoridades y empresas portuarias:
 
-La responsabilidad que tienen las autoridades portuarias para que las actividades realizadas en el área de
-los puertos sean ambientalmente seguras y compatibles con la calidad ambiental de su entorno y no
-produzcan daños ambientales a terceros, ni al medio ambiente de éstos.
-La responsabilidad ambiental de las autoridades portuarias para que sus operaciones sean técnicamente
-viables, de tal manera que los costos ambientales no hagan de la operación portuaria una actividad costosa.
-La responsabilidad de las autoridades portuarias, con relación a los intereses ambientales colectivos de las
-comunidades locales y de los “usuarios” de los puertos, incluyendo la necesidad de estar informados
-adecuadamente sobre nuevos desarrollos tecnológicos que mejoren ambientalmente la actividad portuaria.
+La responsabilidad que tienen las autoridades portuarias para que las actividades realizadas en el área de los puertos sean ambientalmente seguras y compatibles con la calidad ambiental de su entorno y no produzcan daños ambientales a terceros, ni al medio ambiente de éstos.
+La responsabilidad ambiental de las autoridades portuarias para que sus operaciones sean técnicamente viables, de tal manera que los costos ambientales no hagan de la operación portuaria una actividad costosa.
+La responsabilidad de las autoridades portuarias, con relación a los intereses ambientales colectivos de las comunidades locales y de los “usuarios” de los puertos, incluyendo la necesidad de estar informados adecuadamente sobre nuevos desarrollos tecnológicos que mejoren ambientalmente la actividad portuaria.
 
 El Código reconoce que algunas disposiciones ambientales internacionales que corresponden como “Estado
-Rector del Puerto” son realizadas en algunos países de la COCATRAM por las autoridades marítimas y dichas
-disposiciones ambientales, a su vez, se aplican en el área de los puertos. Para ello, las autoridades portuarias (si
-son diferentes), establecerán los mecanismos de coordinación y consulta para la aplicación de sus obligaciones
-ambientales sin interferir con el trabajo de las autoridades marítimas. Las acciones consignadas no interferirán
-con las obligaciones que corresponden como “Estado Rector del Puerto”, al contrario, procurará apoyarlas y
-cuando proceda, las fortalecerá.
+Rector del Puerto” son realizadas en algunos países de la COCATRAM por las autoridades marítimas y dichas disposiciones ambientales, a su vez, se aplican en el área de los puertos. Para ello, las autoridades portuarias (si son diferentes), establecerán los mecanismos de coordinación y consulta para la aplicación de sus obligaciones ambientales sin interferir con el trabajo de las autoridades marítimas. Las acciones consignadas no interferirán con las obligaciones que corresponden como “Estado Rector del Puerto”, al contrario, procurará apoyarlas y cuando proceda, las fortalecerá.
 14
 
 2.9. La participación institucional
 
-Las autoridades portuarias y REPICA crearán espacios de concertación y participación de toda la gama posible
-de actores de la industria portuaria: la sociedad civil con intereses en el puerto, las autoridades ambientales
-pertinentes, las municipalidades, otras autoridades, etc., en la formulación de sus políticas y programas
-ambientales, a fin de que todos los intereses ambientales sobre el puerto queden adecuadamente reflejados
-en los planes de manejo portuario.
+Las autoridades portuarias y REPICA crearán espacios de concertación y participación de toda la gama posible de actores de la industria portuaria: la sociedad civil con intereses en el puerto, las autoridades ambientales pertinentes, las municipalidades, otras autoridades, etc., en la formulación de sus políticas y programas ambientales, a fin de que todos los intereses ambientales sobre el puerto queden adecuadamente reflejados en los planes de manejo portuario.
 
-Actualmente existen controles legislativos con relación a varios aspectos del medio ambiente en las áreas
-portuarias y que están considerados en algunas políticas ambientales globales. Sin embargo, es necesario que
-las autoridades portuarias estimulen la formulación de políticas específicas que reconozcan a largo plazo, las
-ventajas de la explotación de un puerto ambientalmente sano. Para ello, es necesario considerar que las
-medidas podrían variar de puerto a puerto y dependerán de las capacidades financieras y técnicas, así como de
-los marcos institucionales existentes. La aceptación de medidas ambientales por la industria portuaria es mayor
-cuando éstas son rentables y se ajustan a las necesidades de cada puerto.
+Actualmente existen controles legislativos con relación a varios aspectos del medio ambiente en las áreas portuarias y que están considerados en algunas políticas ambientales globales. Sin embargo, es necesario que las autoridades portuarias estimulen la formulación de políticas específicas que reconozcan a largo plazo, las ventajas de la explotación de un puerto ambientalmente sano. Para ello, es necesario considerar que las medidas podrían variar de puerto a puerto y dependerán de las capacidades financieras y técnicas, así como de los marcos institucionales existentes. La aceptación de medidas ambientales por la industria portuaria es mayor cuando éstas son rentables y se ajustan a las necesidades de cada puerto.
 
-Las autoridades ambientales podrán asesorarse y solicitar información de las autoridades portuarias cuando
-preparen nuevas normas sobre el medio ambiente marino y costero de la región. En todo caso este Código
-abre un espacio para que las autoridades portuarias y REPICA, en forma consultiva, adquieran capacidad de
-autorregulación y puedan demostrar las ventajas de la mejoría sostenida del medio ambiente sobre la
-sostenibilidad del puerto.
+Las autoridades ambientales podrán asesorarse y solicitar información de las autoridades portuarias cuando preparen nuevas normas sobre el medio ambiente marino y costero de la región. En todo caso este Código abre un espacio para que las autoridades portuarias y REPICA, en forma consultiva, adquieran capacidad de autorregulación y puedan demostrar las ventajas de la mejoría sostenida del medio ambiente sobre la sostenibilidad del puerto.
 
 15
 
 SECCIÓN III
-3.1. Las acciones ambientales en los puertos marítimos, las acciones de
-política, las acciones de control de la contaminación, las acciones de
-planeación y gestión, acciones de fortalecimiento y creación de las
-capacidades
+3.1. Las acciones ambientales en los puertos marítimos, las acciones de política, las acciones de control de la contaminación, las acciones de planeación y gestión, acciones de fortalecimiento y creación de las capacidades
 
 Las acciones ambientales en los puertos marítimos de Centroamérica
 
-El Código identifica las acciones que, en principio, deben ser realizadas, implementadas, de forma individual o
-en conjunto, según proceda, por las autoridades portuarias y REPICA, para cumplir objetivos ambientales. Las
-acciones deben ser seleccionadas para cada puerto en particular y aplicadas de forma gradual, cuidando el no
-afectar la actividad comercial del puerto y no distorsionar los arreglos administrativos actuales del
-ordenamiento de los puertos.
+El Código identifica las acciones que, en principio, deben ser realizadas, implementadas, de forma individual o en conjunto, según proceda, por las autoridades portuarias y REPICA, para cumplir objetivos ambientales. Las acciones deben ser seleccionadas para cada puerto en particular y aplicadas de forma gradual, cuidando el no afectar la actividad comercial del puerto y no distorsionar los arreglos administrativos actuales del ordenamiento de los puertos.
 
-Dicho Código identifica y señala, entre otros, los siguientes tipos de acciones ambientales a ser realizadas por
-las Autoridades portuarias o por cualquier autoridad o entidad de gerenciamiento portuario en Centroamérica,
-sin perjuicio de aquellas, que además de ser recomendadas por el Código, son estatutarias e impositivas, tanto
-por las reglamentaciones nacionales como internacionales:
+Dicho Código identifica y señala, entre otros, los siguientes tipos de acciones ambientales a ser realizadas por las Autoridades portuarias o por cualquier autoridad o entidad de gerenciamiento portuario en Centroamérica, sin perjuicio de aquellas, que además de ser recomendadas por el Código, son estatutarias e impositivas, tanto por las reglamentaciones nacionales como internacionales:
 
 16
 
@@ -11586,26 +9130,20 @@ por las reglamentaciones nacionales como internacionales:
 
 3.2. Acciones de política operativa
 
-A. Definición de objetivos ambientales: las actividades de control y de reducción de la
-contaminación, así como otras formas de deterioro ambiental en el área del puerto, incluyendo el uso de
-técnicas y métodos ambientalmente seguros, deberán ser establecidos de acuerdo con estándares y
+A. Definición de objetivos ambientales: las actividades de control y de reducción de la contaminación, así como otras formas de deterioro ambiental en el área del puerto, incluyendo el uso de técnicas y métodos ambientalmente seguros, deberán ser establecidos de acuerdo con estándares y
 
 ## Otro texto del documento — Reglamento sobre Potestades Ambientales
 
 EMPRESA NACIONAL DE ARTES GRÁFICAS
 E.N.A.G.
-Sección A
-AÑO CXLII TEGUCIGALPA, M. D. C., HONDURAS, C. A. MIÉRCOLES 5 DE FEBRERO DEL 2020. NUM. 35,167
-Dirección General de la
-Marina Mercante
+Sección A AÑO CXLII TEGUCIGALPA, M. D. C., HONDURAS, C. A. MIÉRCOLES 5 DE FEBRERO DEL 2020. NUM. 35,167
+Dirección General de la Marina Mercante
 ACUERDO DGMM No. 001-2020
 1A.
 SUMARIO
-Sección A
-Decretos y Acuerdos
-DIRECCIÓN GENERAL DE LA
-MARINA MERCANTE
-Acuerdos DGMM Nos.001-2020, 003-2020,
+Sección A Decretos y Acuerdos
+DIRECCIÓN GENERAL DE LA MARINA MERCANTE
+Acuerdos DGMM Nos. 001-2020, 003-2020,
 
 AVANCE
 A. 1 - 19
@@ -11617,30 +9155,14 @@ Tegucigalpa, M.D.C., 14 de enero de 2020
 LA DIRECCIÓN GENERAL DE LA MARINA
 MERCANTE
 CONSIDERANDO: Que la Ley Orgánica de la Marina
-Mercante Nacional establece que la Dirección General de
-la Marina Mercante tendrá como atribución cumplir y hacer
-cumplir la Constitución de la República, los Convenios
-Internacionales de los que Honduras forme parte, la Ley y
-demás disposiciones legales reglamentarias que guarden
-relación con sus cometidos.
-CONSIDERANDO: Que el artículo 91 de la Ley Orgánica
-de la Marina Mercante dispone que la Dirección General de
-la Marina Mercante (DGMM) funcionará como una entidad
-desconcentrada del Poder Ejecutivo adscrita al Gabinete
-Sectorial de Prevención, Seguridad y Defensa aprobado
-mediante Decreto Ejecutivo No. PCM-009-2018.
+Mercante Nacional establece que la Dirección General de la Marina Mercante tendrá como atribución cumplir y hacer cumplir la Constitución de la República, los Convenios
+Internacionales de los que Honduras forme parte, la Ley y demás disposiciones legales reglamentarias que guarden relación con sus cometidos.
+CONSIDERANDO: Que el artículo 91 de la Ley Orgánica de la Marina Mercante dispone que la Dirección General de la Marina Mercante (DGMM) funcionará como una entidad desconcentrada del Poder Ejecutivo adscrita al Gabinete
+Sectorial de Prevención, Seguridad y Defensa aprobado mediante Decreto Ejecutivo No. PCM-009-2018.
 CONSIDERANDO: Que la Dirección General de la Marina
-Mercante eventualmente efectúa erogaciones por concepto de
-asistencia social al personal de esta Dirección General, con el
-propósito de atender necesidades personales de emergencia,
-tales como enfermedad grave, fallecimiento de pariente
-cercano u otras calificadas como calamidad doméstica.
+Mercante eventualmente efectúa erogaciones por concepto de asistencia social al personal de esta Dirección General, con el propósito de atender necesidades personales de emergencia, tales como enfermedad grave, fallecimiento de pariente cercano u otras calificadas como calamidad doméstica.
 POR TANTO:
-En aplicación de lo dispuesto en el Artículo 36 numerales 6 y
-8, 116 y 118 de la Ley General de la Administración Pública,
-Artículo 24 del Reglamento de Organización, Funcionamiento
-y Competencias del Poder Ejecutivo y artículos 1, 91 y 92 de la
-Ley Orgánica de la Marina Mercante Nacional y sus Reformas.
+En aplicación de lo dispuesto en el Artículo 36 numerales 6 y 8, 116 y 118 de la Ley General de la Administración Pública, Artículo 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y artículos 1, 91 y 92 de la Ley Orgánica de la Marina Mercante Nacional y sus Reformas.
 ACUERDA:
 APROBAR EL “REGLAMENTO DE AYUDAS
 SOCIALES DE LA DGMM”.
@@ -11652,55 +9174,40 @@ DIARIO OFICIA!
 
 O,
 
-La primera imprenta llegó a Honduras en 1829,
-siendo instalada en Tegucigalpa, en el cuartel San
-Francisco, lo primero que se imprimid fue una
-proclama del General Morazán, con fecha 4 de
-Giciembre de 1829.
+La primera imprenta llegó a Honduras en 1829, siendo instalada en Tegucigalpa, en el cuartel San
+Francisco, lo primero que se imprimid fue una proclama del General Morazán, con fecha 4 de Giciembre de 1829.
 
 Euenesa Naciona. DE Artes Gaáricas
 ENAG
 
-Después se imprimió el primer periódico oficial del
-Gobierno con fecha 25 de mayo de 1830, conocido
-hoy, como Diario Oficial "La Gaceta”.
+Después se imprimió el primer periódico oficial del Gobierno con fecha 25 de mayo de 1830, conocido hoy, como Diario Oficial "La Gaceta”.
 
 AÑÓ CXXXV TEGUCIGALPA, M. D. C., HONDURAS, C.A.
 
 MIÉRCOLES. 25 DEJULIO DEL 2012. NÚM. 32,881:
 
-Dirección General de la
-Marina Mercante
+Dirección General de la Marina Mercante
 
 "ACUERDO No.
 
 Tegucigalpa, M.D.C., tres de julio de 2012 :
 La Dirección General de la Marina Mercante:
 
-CONSIDERANDO: Que mediante Decreto N*. 167-94
-del cuatro de noviembre de mil novecientos noventa y cuatro, se
-creó la Dirección Genera! de la Marina Mercante.
+CONSIDERANDO: Que mediante Decreto N*. 167-94 del cuatro de noviembre de mil novecientos noventa y cuatro, se creó la Dirección Genera! de la Marina Mercante.
 
 CONSIDERANDO: Que la Ley Orgánica de la Marina
-Mercante Nacional tiene por objeto establecer el marco
-normativo de la Institución, y, en general de las actividades
-marítimas, así como la de regular la administración a la cual está
-sujeta,
+Mercante Nacional tiene por objeto establecer el marco normativo de la Institución, y, en general de las actividades marítimas, así como la de regular la administración a la cual está sujeta,
 
 CONSIDERANDO: Que la Ley Orgánica de la Marina
 Mercante establece que la Dirección General de la Marina
-Mercante tendrá como atribución cumplir y hacer cumplir la
-Constitución de la República, los Convenios Internacionales de
+Mercante tendrá como atribución cumplir y hacer cumplir la Constitución de la República, los Convenios Internacionales de
 
-los que Honduras forme parte, la Ley y demás disposiciones :
+los que Honduras forme parte, la Ley y demás disposiciones:
 
 legales Reglamentarias que guarden relación con sus cometidos.
 
 CONSIDERANDO: Que la Dirección General de la Marina
-Mercante está a cargo de la administración, control y coordinación
-de todas las actividades relacionadas con la marina mercante y
-el transporte maritimo, la seguridad marítima y la protección del
-medio ambiente marino.
+Mercante está a cargo de la administración, control y coordinación de todas las actividades relacionadas con la marina mercante y el transporte maritimo, la seguridad marítima y la protección del medio ambiente marino.
 
 Sección A
 
@@ -11710,16 +9217,11 @@ Estado Miembro de la Organización Marítima Internacional
 (OMID) y es signataria de un número de Convenio Marítimos
 Internacionales.
 
-CONSIDERANDO: Que el Reglamento relativo a las
-Instalaciones Portuarias de Recepción de Desechos generados
-por los buques residuos de carga es un complemento al Acuerdo
-DGMM 001/2001, sobre el Reglamento para la implementación
-del Convenio Internacional para prevenir la Contaminación por
-los buques 1973 y su protocolo de Enmiendas 1978 (MARPOL
+CONSIDERANDO: Que el Reglamento relativo a las Instalaciones Portuarias de Recepción de Desechos generados por los buques residuos de carga es un complemento al Acuerdo
+DGMM 001/2001, sobre el Reglamento para la implementación del Convenio Internacional para prevenir la Contaminación por los buques 1973 y su protocolo de Enmiendas 1978 (MARPOL
 73/78).
 
-CONSIDERANDO: Que dicho Reglamento contiene las
-disposiciones técnicas que deben cumplir para poner en
+CONSIDERANDO: Que dicho Reglamento contiene las disposiciones técnicas que deben cumplir para poner en
 
 funcionamiento una instalación de recepción de residuos oleosos
 
@@ -11730,173 +9232,97 @@ os y Leyes
 
 REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 25 DE JULIO DEL 2012 No. 32,881
 
-que conlleven los procedimientos de descarga, transporte y
-disposición final de desechos (tratamiento recuperación y
+que conlleven los procedimientos de descarga, transporte y disposición final de desechos (tratamiento recuperación y
 
 eliminación).
 
-CONSIDERANDO: Que el Reglamento antes mencionado
-tiene por finalidad inmediata complementar las particularidades
-operativas del proceso de descarga de residuos provenientes de
-buques que utilicen los puertos de Honduras, mejorando la
-disponibilidad real y el uso de instalaciones portuarias derecepción
-de dichos residuos y desechos e incrementando así la prevención
-de la contaminación y protección del medio marino.
+CONSIDERANDO: Que el Reglamento antes mencionado tiene por finalidad inmediata complementar las particularidades operativas del proceso de descarga de residuos provenientes de buques que utilicen los puertos de Honduras, mejorando la disponibilidad real y el uso de instalaciones portuarias derecepción de dichos residuos y desechos e incrementando así la prevención de la contaminación y protección del medio marino.
 
 CONSIDERANDO: Que es potestad de la Dirección
-General de la marina Mercante la vigilancia técnica sobre las
-condiciones de seguridad y protección del medio ambiente
-marítimo, a fin de dar cumplimiento con los requerimientos de los
+General de la marina Mercante la vigilancia técnica sobre las condiciones de seguridad y protección del medio ambiente marítimo, a fin de dar cumplimiento con los requerimientos de los
 
 Convenios Internacionales en vigor, sus enmiendas y protocolos.
 
 CONSIDERANDO; Que esta Dirección General conforme
-Ley, puede emitirresoluciones, acuerdos, providencias o autos,
-en asunto de su competencia para darle agilidad a la
-administración.
+Ley, puede emitirresoluciones, acuerdos, providencias o autos, en asunto de su competencia para darle agilidad a la administración.
 
 POR TANTO
 
-La Dirección General de la Marina Mercante, en uso de las
-facultades que la Ley le confiere en aplicación de los artículos
+La Dirección General de la Marina Mercante, en uso de las facultades que la Ley le confiere en aplicación de los artículos
 116 y 118 numeral 2 de la Ley General de la Administración
 Pública;l, 5, 91 reformado, 92 numerales 1 y 18 de la Ley
-Orgánica de la Marina Mercante y demás aplicables; 1, 4, 5, 8 y
-17 Convenio Internacional para prevenir la Contaminación por
-los buques 1973 y su protocolo de Enmiendas 1978 (MARPOL
-73/78) y Decreto N*, 173-99 adhesión al Convenio Internacional
-para Prevenir la Contaminación por los Buques.
+Orgánica de la Marina Mercante y demás aplicables; 1, 4, 5, 8 y 17 Convenio Internacional para prevenir la Contaminación por los buques 1973 y su protocolo de Enmiendas 1978 (MARPOL
+73/78) y Decreto N*, 173-99 adhesión al Convenio Internacional para Prevenir la Contaminación por los Buques.
 
 ACUERDA
 
 PRIMERO: Adoptar e Implementar el “Reglamento
-Relativo a las Instalaciones Portuarias de Recepción de
-Desechos Generados por los Buques y Residuos de Carga”,
-los cuales se leerán de la siguiente manera:
+Relativo a las Instalaciones Portuarias de Recepción de Desechos Generados por los Buques y Residuos de Carga”, los cuales se leerán de la siguiente manera:
 
 REGLAMENTO RELATIVO A LAS INSTALACIONES
 PORTUARIAS DE RECEPCIÓN DE DESECHOS
-GENERADOS POR LOS BUQUES Y RESIDUOS DE
-CARGA
+GENERADOS POR LOS BUQUES Y RESIDUOS DE CARGA
 
 Antecedentes
 
-El Convenio Internacional para prevenir la contaminación por los
-buques, 1973, modificado por el Protocolo de 1978 - MARPOL
-limita en gran medida la descarga de desechos en el mar y, en
-algunas zonas, la prohíbe terminantemente, tal y comg sucede en
-el Caríbe con la declaratoria de Zona Especial bajo el Anexo Y
-del citado Convenio. En contrapartida es de hacer notar que si en
-los puertos no se instalan medios de recepción, los capitanes de
-buques deben evacuar los desechos de alguna otra manera y la
-tentación de hacerlo ilegalmente se incrementa exponencialmente.
+El Convenio Internacional para prevenir la contaminación por los buques, 1973, modificado por el Protocolo de 1978 - MARPOL limita en gran medida la descarga de desechos en el mar y, en algunas zonas, la prohíbe terminantemente, tal y comg sucede en el Caríbe con la declaratoria de Zona Especial bajo el Anexo Y del citado Convenio. En contrapartida es de hacer notar que si en los puertos no se instalan medios de recepción, los capitanes de buques deben evacuar los desechos de alguna otra manera y la tentación de hacerlo ilegalmente se incrementa exponencialmente.
 
-Ciertamente la falta de instalaciones que permitan recibir los
-desechos generados por los buques (hidrocarburos, productos
-químicos y basuras), en nuestro país se muestran como una de
-las más serias desventajas en los programas nacionales de
-prevención y combate de la contaminación del medio marino y la
-protección del medio marino.
+Ciertamente la falta de instalaciones que permitan recibir los desechos generados por los buques (hidrocarburos, productos químicos y basuras), en nuestro país se muestran como una de las más serias desventajas en los programas nacionales de prevención y combate de la contaminación del medio marino y la protección del medio marino.
 
-Si bien es cierto, el acuerdo emitido por la Dirección General de
-la Marina Mercante (DGMM), DGMM 001/2001 relativo a!
+Si bien es cierto, el acuerdo emitido por la Dirección General de la Marina Mercante (DGMM), DGMM 001/2001 relativo a!
 Reglamento MARPOL, establece un marco normativo de
 
 ERIN RePoBUICA DE HONDURAS - TEGUCIGALPA, ML D. C., 25 DE JULIO DEL 2012
 
-implantación no menos cierto es que se evidencia lagunas legales
-que afectan la operación en sí. Resulta evidente la necesidad de
-estructurar un conjunto de normativas mínimas que propicien
-esquemas de gestión ambiental adecuada en los servicios
+implantación no menos cierto es que se evidencia lagunas legales que afectan la operación en sí. Resulta evidente la necesidad de estructurar un conjunto de normativas mínimas que propicien esquemas de gestión ambiental adecuada en los servicios
 
 relacionados con las instalaciones requeridas por MARPOL.
 
-El Reglamento aquí presentado tiene por finalidad inmediata el
-complementar las particularidades operativas del proceso de
-descarga de residuos provenientes de buques que utilicen los
-puertos de Honduras, mejorando la disponibilidad real y el uso
-de instalaciones portuarias de recepción de dichos residuos y
-desechos e incrementando asi la prevención de la contaminación
-y protección del medio marino.
+El Reglamento aquí presentado tiene por finalidad inmediata el complementar las particularidades operativas del proceso de descarga de residuos provenientes de buques que utilicen los puertos de Honduras, mejorando la disponibilidad real y el uso de instalaciones portuarias de recepción de dichos residuos y desechos e incrementando asi la prevención de la contaminación y protección del medio marino.
 
 Artículo 1. Definiciones.
 
-1.1. A efectos de lo dispuesto en este Reglamento, se entiende
-por:
+1.1. A efectos de lo dispuesto en este Reglamento, se entiende por:
 
 a) “Autoridad Marítima”: La Dirección General de la Marina
 Mercante.
 
-b) “Buque”: Todo tipo de embarcaciones de navegación marítima
-que operen en el medio marino, incluidos los aliscafos, asi como
+b) “Buque”: Todo tipo de embarcaciones de navegación marítima que operen en el medio marino, incluidos los aliscafos, asi como
 
 los aerodeslizadores, los sumergibles y los artefactos flotantes.
 
-e) “MARPOL”: El Convenio internacional para prevenir la
-contaminación ocasionada por los buques, de 1973, modificado
+e) “MARPOL”: El Convenio internacional para prevenir la contaminación ocasionada por los buques, de 1973, modificado
 
 por su Protocolo de 1978, en su versión vigente.
 
-d) “Desechos generados por los buques”: Todos los desechos,
-incluidas las aguas residuales y los residuos distintos de los del
-cargamento, producidos durante el servicio del buque y que estén
-regulados por los anexos 1, 11, IV, V y VI de MARPOL, así
-como los desechos relacionados con'el cargamento según se
+d) “Desechos generados por los buques”: Todos los desechos, incluidas las aguas residuales y los residuos distintos de los del cargamento, producidos durante el servicio del buque y que estén regulados por los anexos 1, 11, IV, V y VI de MARPOL, así como los desechos relacionados con'el cargamento según se
 
-definen en las Directrices para la aplicación del Anexo III de
-MARPOL.
+definen en las Directrices para la aplicación del Anexo III de MARPOL.
 
 e) “Dirección General de la Marina Mercante (DGMM)”:
-Autoridad Marítima de la República de Honduras sobre la cual
-recae la correcta Implantación del Convenio MARPOL y que
-ostenta exclusiva potestad de Autorizar tanto a entidades públicas
+Autoridad Marítima de la República de Honduras sobre la cual recae la correcta Implantación del Convenio MARPOL y que ostenta exclusiva potestad de Autorizar tanto a entidades públicas
 
-como privadas la prestación de servicios de recepción de
-desechos generados por buques.
+como privadas la prestación de servicios de recepción de desechos generados por buques.
 
-f) “Residuos de Carga”: Los restos de cualquier material del
-cargamento que se encuentren a bordo en bodegas de carga o
-tanques y que permanecen una vez completados los
-procedimientos de descarga y las operaciones de limpieza,
-incluidos los residuos resultantes de las operaciones de carga y
-descarga y los derrames.
+f) “Residuos de Carga”: Los restos de cualquier material del cargamento que se encuentren a bordo en bodegas de carga o tanques y que permanecen una vez completados los procedimientos de descarga y las operaciones de limpieza, incluidos los residuos resultantes de las operaciones de carga y descarga y los derrames.
 
-£) “Instalación Portuaria Receptora”: La entidad gestora del Puerto
-y/o la empresa autorizada para la recepción de desechos generados
+£) “Instalación Portuaria Receptora”: La entidad gestora del Puerto y/o la empresa autorizada para la recepción de desechos generados
 
 «porlos buques y residuos de carga, el almacenamiento, clasificación
 
-y tratamiento previo de aquéllos, y su traslado a una instalación
-detratamiento también autorizada por la Administración Marítima.
-Dicha empresa-deberá contar en calidad de propiedad de todos
-los medios materiales, fijos, flotantes o móviles, medios humanos,
-organizativos y procedimentales adecuados para el desarrollo de
-la actividad de recepción y, si procede, de las demás actividades
-referidas, en las condiciones establecidas en el presente
+y tratamiento previo de aquéllos, y su traslado a una instalación detratamiento también autorizada por la Administración Marítima.
+Dicha empresa-deberá contar en calidad de propiedad de todos los medios materiales, fijos, flotantes o móviles, medios humanos, organizativos y procedimentales adecuados para el desarrollo de la actividad de recepción y, si procede, de las demás actividades referidas, en las condiciones establecidas en el presente
 
 Reglamento y en las demás normas que sean aplicables.
 
-h) “Buque de Pesca”: Todo buque equipado o utilizado a efectos
-comerciales para la captura de peces u otros recursos vivos del
-mar.
+h) “Buque de Pesca”: Todo buque equipado o utilizado a efectos comerciales para la captura de peces u otros recursos vivos del mar.
 
-1) “Embarcación de Recreo”: Todo tipo de embarcación, con
-independencia de su medio de propulsión, destinada a actividades
-deportivas o de ocio.
+1) “Embarcación de Recreo”: Todo tipo de embarcación, con independencia de su medio de propulsión, destinada a actividades deportivas o de ocio.
 
-5) “Puerto”: Un lugar o zona marítima que reúna condiciones físicas,
-naturales o artificiales y de organización que permitan la realización
-de operaciones de tráfico portuario de buques, incluyendo los
-buques de pesca y las embarcaciones de recreo, y sea autorizado
-para el desarrollo de estas actividades por la Administración
-competente.
+5) “Puerto”: Un lugar o zona marítima que reúna condiciones físicas, naturales o artificiales y de organización que permitan la realización de operaciones de tráfico portuario de buques, incluyendo los buques de pesca y las embarcaciones de recreo, y sea autorizado para el desarrollo de estas actividades por la Administración competente.
 
-k) “Entidad Gestora del Puerto”: La entidad pública o privada a
-cuyo cargo se encuentra la administración y gestión de un Puerto,
-embarcadero, terminales marítimas e instalaciones mar adentro.
-Bajo el presente Reglamento en caso de que preste el servicio
-directamente está sometida a las autorizaciones y controles aquí
-descritos.
+k) “Entidad Gestora del Puerto”: La entidad pública o privada a cuyo cargo se encuentra la administración y gestión de un Puerto, embarcadero, terminales marítimas e instalaciones mar adentro.
+Bajo el presente Reglamento en caso de que preste el servicio directamente está sometida a las autorizaciones y controles aquí descritos.
 
 AMEN
 Acuerdos y
@@ -11906,139 +9332,83 @@ L:
 eta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 25 DE JULIO DEL 2012
 
 \|) “Manejo”: La recolección, el transporte, la eliminación y
-disposición final de los desechos generados por los buques, incluida
-la vigilancia de los lugares de eliminación.
+disposición final de los desechos generados por los buques, incluida la vigilancia de los lugares de eliminación.
 
 1) “Autoridad Ambiental Competente”: La Secretaría de Recursos
-Naturales y Ambiente (SERNA) y bajo los marcos pertinentes
-de procesos de descentralización las Unidades o Departamentos
+Naturales y Ambiente (SERNA) y bajo los marcos pertinentes de procesos de descentralización las Unidades o Departamentos
 Ambientales de las Corporaciones Municipales en donde el manejo
 
 serealice.
 
-1n) “Acuerdo 001/2001”: Instrumento legal contentivo del
-Reglamento para Implementar el Convenio Internacional para
-Prevenir la Contaminación por los Buques 1973, y su Protocolo
-de Enmienda 1978 (MARPOL).
+1n) “Acuerdo 001/2001”: Instrumento legal contentivo del Reglamento para Implementar el Convenio Internacional para Prevenir la Contaminación por los Buques 1973, y su Protocolo de Enmienda 1978 (MARPOL).
 
-1.2. Sin perjuicio de las definiciones de los párrafos e) y d) del
-apartado 1, los “desechos generados por los buques” y los
-“desechos de carga” se consideran “residuos”.
+1.2. Sin perjuicio de las definiciones de los párrafos e) y d) del apartado 1, los “desechos generados por los buques” y los “desechos de carga” se consideran “residuos”.
 
 Artículo 2. Ámbito de Aplicación.
 2.1. Las disposiciones de este Reglamento se aplicarán a:
 
-a) Todos los buques, incluidos los buques de pesca y las
-embarcaciones de recreo, que naveguen en aguas nacionales o
-internacionales, cualquiera que sea el pabellón que enarbolen, que
-hagan escala o presten servicio en un puerto de Honduras,
-excepto los buques de guerra, las unidades navales auxiliares y
-los buques que, siendo propiedad de un Estado o estando a su
-servicio, sólo presten por el momento servicios gubernamentales
-de carácter no comercial,
+a) Todos los buques, incluidos los buques de pesca y las embarcaciones de recreo, que naveguen en aguas nacionales o internacionales, cualquiera que sea el pabellón que enarbolen, que hagan escala o presten servicio en un puerto de Honduras, excepto los buques de guerra, las unidades navales auxiliares y los buques que, siendo propiedad de un Estado o estando a su servicio, sólo presten por el momento servicios gubernamentales de carácter no comercial,
 
-b) Todos los puertos de Honduras en los que normal y
-habitualmente hagan escala los buques incluidos en el ámbito de
-aplicación previsto en el párrafo anterior.
+b) Todos los puertos de Honduras en los que normal y habitualmente hagan escala los buques incluidos en el ámbito de aplicación previsto en el párrafo anterior.
 
-+) Todos los desechos generados por los buques y los residuos
-de carga contemplados en los anexos técnicos del Convenio
++) Todos los desechos generados por los buques y los residuos de carga contemplados en los anexos técnicos del Convenio
 MARPOL que hayan sido ratificados por Honduras.
 
-d) Las actividades de toda Instalación portuaria receptora en el
-ámbito de aplicabilidad del Convenio ya sea Pública o Privada.
+d) Las actividades de toda Instalación portuaria receptora en el ámbito de aplicabilidad del Convenio ya sea Pública o Privada.
 
-2.2, Como principio Rector la Autoridad Maritima declara que el
-concepto de operación de recepción de desechos provenientes
+2.2, Como principio Rector la Autoridad Maritima declara que el concepto de operación de recepción de desechos provenientes
 
 de buques está constituida por 3 procesos básicos:
 
 + Descarga;
-+ Transporte; y
-+ Disposición final de desechos (tratamiento, recuperación y
++ Transporte; y + Disposición final de desechos (tratamiento, recuperación y
 
 eliminación).
 
-La suma de los tres (3) operaciones constituyen una sola unidad
-en lo que a servicio de Instalación Portuaria Receptora respecta
-y las medidas de autorización y control deberán considerar cada
+La suma de los tres (3) operaciones constituyen una sola unidad en lo que a servicio de Instalación Portuaria Receptora respecta y las medidas de autorización y control deberán considerar cada
 
 una de las particularidades propias de cada proceso.
 
 Bajo esa línea la Autoridad Marítima en colaboración con otras
-Entidades Competentes verificará que los procesos de descarga,
-transporte y disposición final de desechos provenientes de buques
-sean realizados en concordancia con la Legislación Nacional y el
+Entidades Competentes verificará que los procesos de descarga, transporte y disposición final de desechos provenientes de buques sean realizados en concordancia con la Legislación Nacional y el
 
 presente Reglamento.
 
-2.3. La Autoridad Maritima de la República de Honduras, es la
-Entidad Gubernamental encargada de velar cumplimiento del
-Convenio MARPOL y ental sentido autorizará de forma exclusiva
-el servicio de las instalaciones receptoras públicas o privadas
-mediante Acuerdo sólo y cuando se cumplan con cada uno de los
+2.3. La Autoridad Maritima de la República de Honduras, es la Entidad Gubernamental encargada de velar cumplimiento del Convenio MARPOL y ental sentido autorizará de forma exclusiva el servicio de las instalaciones receptoras públicas o privadas mediante Acuerdo sólo y cuando se cumplan con cada uno de los
 
 requisitos señalados en el artículo 4 del presente Reglamento.
 Artículo 3. Instalaciones Portuarias Receptoras.
 
-3.1. Los puertos bajo los lineamientos ya establecidos en el
-Acuerdo 001/2001, dispondrán de instalaciones adecuadas para
-la recepción de los desechos generados por los buques y de los
-residuos de carga, que satisfagan las necesidades de los buques
-que habitualmente utilicen el puerto y de aquellos tipos de buques
-que, aunque no utilicen habitualmente el puerto, participen en el
-tráfico más relevante de mercancías con dicho puerto, sin causarles
-demoras innecesarias.
+3.1. Los puertos bajo los lineamientos ya establecidos en el Acuerdo 001/2001, dispondrán de instalaciones adecuadas para la recepción de los desechos generados por los buques y de los residuos de carga, que satisfagan las necesidades de los buques que habitualmente utilicen el puerto y de aquellos tipos de buques que, aunque no utilicen habitualmente el puerto, participen en el tráfico más relevante de mercancías con dicho puerto, sin causarles demoras innecesarias.
 
-El Principio Rector de toda operación de descarga en
-concordancia con la Resolución MEPC.83(44) de la OMI y
+El Principio Rector de toda operación de descarga en concordancia con la Resolución MEPC.83(44) de la OMI y
 
 AMM
 Acuerdo:
 
 MXN TT uerderica DE HONDURAS --TEGUCIGALPA, M. D. C.. 25 DE JULIO DEL 2012
 
-apartado 7.2 del presente Reglamento es evitar que el buque sufra
-demoras innecesarias y en tal sentido la Autoridad Marítima
-tomará todas las medidas que estime conducentes para garantizar
+apartado 7.2 del presente Reglamento es evitar que el buque sufra demoras innecesarias y en tal sentido la Autoridad Marítima tomará todas las medidas que estime conducentes para garantizar
 
 celeridad debida sin mermar la seguridad implícita del servicio.
 
 Artículo 4. Empresas Autorizadas
 
-4.1. La Dirección General de la Marina Mercante, garantizará la
-prestación del servicio, bien a través de empresas autorizadas
-para el ejercicio de la actividad, bien a través de la gestión directa
-oindirecta cuando, con arreglo a la legislación aplicable, sea titular
-de aquél.
+4.1. La Dirección General de la Marina Mercante, garantizará la prestación del servicio, bien a través de empresas autorizadas para el ejercicio de la actividad, bien a través de la gestión directa oindirecta cuando, con arreglo a la legislación aplicable, sea titular de aquél.
 
-Para prestar el servicio de recepción y obtener la autorización de
-la DGMM, los operadores de las instalaciones portuarias, tanto
-públicas como privadas, y/o empresas autorizadas deberán cumplir,
-como minimo, con las autorizaciones, certificados y
+Para prestar el servicio de recepción y obtener la autorización de la DGMM, los operadores de las instalaciones portuarias, tanto públicas como privadas, y/o empresas autorizadas deberán cumplir, como minimo, con las autorizaciones, certificados y
 
 consideraciones que a continuación se relacionan:
 
-a) Los operadores de las Instalaciones Portuarias Receptoras
-que recojan, transporten, manipulen o traten desechos generados
-por buques o residuos de carga deberán disponer de las
-autorizaciones otorgadas de conformidad con la legislación
-ambiental vigente o en las normas que en su desarrollo, dicten las
-Municipalidades bajo esquemas de descentralización, en cuyo
+a) Los operadores de las Instalaciones Portuarias Receptoras que recojan, transporten, manipulen o traten desechos generados por buques o residuos de carga deberán disponer de las autorizaciones otorgadas de conformidad con la legislación ambiental vigente o en las normas que en su desarrollo, dicten las Municipalidades bajo esquemas de descentralización, en cuyo
 
 ámbito presten servicio.
 
-En concordancia a la sección 2.2 del presente Reglamento, la
-Licencia Ambiental deberá concebir como una unidad todos los
+En concordancia a la sección 2.2 del presente Reglamento, la Licencia Ambiental deberá concebir como una unidad todos los
 
 procesos que constituyen la operación de descarga.
 
-b) Las empresas autorizadas, a efectos de que el servicio esté
-indudablemente disponible durante la visita del buque al Puerto y
-evitar demoras innecesarias, deberán tener control total de todos
-los elementos del proceso descrito en la sección 2.2. lo que incluirá
-descarga, transporte y disposición final y al efecto deberán contar
-en su haber a título de propiedad con todos los elementos
+b) Las empresas autorizadas, a efectos de que el servicio esté indudablemente disponible durante la visita del buque al Puerto y evitar demoras innecesarias, deberán tener control total de todos los elementos del proceso descrito en la sección 2.2. lo que incluirá descarga, transporte y disposición final y al efecto deberán contar en su haber a título de propiedad con todos los elementos
 
 necesarios para realizar las citadas actividades.
 
@@ -12046,46 +9416,27 @@ Los operadores de las Instalaciones Portuarias Receptoras, que
 
 utilicen embarcaciones flotantes para prestar servicio de recepción
 
-alos buques deberán procurar embarcaciones especificamente
-diseñadas para prestar tal servicio y con capacidad de
-almacenamiento no menor a 12 M3. La Autoridad Marítima no
-autorizará el trasiego/descarga de desechos a medios flotantes
-improvisados o embarcaciones que porten barriles o no diseñadas
+alos buques deberán procurar embarcaciones especificamente diseñadas para prestar tal servicio y con capacidad de almacenamiento no menor a 12 M3. La Autoridad Marítima no autorizará el trasiego/descarga de desechos a medios flotantes improvisados o embarcaciones que porten barriles o no diseñadas
 
 para la actividad a realizar.
 
-La Dirección General de la Marina Mercante, previo a la
-inscripción en el Registro de Empresas Dedicadas a Actividades
-del Sector Marítimo y a la emisión del Certificado de Instalación
+La Dirección General de la Marina Mercante, previo a la inscripción en el Registro de Empresas Dedicadas a Actividades del Sector Marítimo y a la emisión del Certificado de Instalación
 MARPOL, verificará a su satisfacción los extremos aqui señalados.
 
-e) Póliza de Seguro de Responsabilidad Civil por Daños a
-Terceros con cobertura no menor de Doscientos Cincuenta Mil
+e) Póliza de Seguro de Responsabilidad Civil por Daños a Terceros con cobertura no menor de Doscientos Cincuenta Mil
 Dólares de los Estados Unidos de Norteamérica
 (US$250,000.00).
 
-d) La Dirección General de la Marina Mercante en caso que la
-disposición final serealice fuera del Puerto, velará que los desechos
-se transporten de conformidad con la normativa nacional y
-subnacional en lo que respecta a medidas de seguridad, materia
-de embalaje, etiquetado y transporte;
+d) La Dirección General de la Marina Mercante en caso que la disposición final serealice fuera del Puerto, velará que los desechos se transporten de conformidad con la normativa nacional y subnacional en lo que respecta a medidas de seguridad, materia de embalaje, etiquetado y transporte;
 
 e) Cualquier otro requisito que la Autoridad Marítima estime
 
 necesario en base a la naturaleza del servicio a prestar.
 Artículo 5. Control
 
-5.1. La Autoridad Marítima establecerá lazos de cooperación
-con las Autoridades Ambientales y/o Municipales, con
-competencia en el lugar en donde se realiza la descarga proveniente
-del buque y seubica la instalación de disposición final mediante
-el establecimiento de puntos de contacto/focales.
+5.1. La Autoridad Marítima establecerá lazos de cooperación con las Autoridades Ambientales y/o Municipales, con competencia en el lugar en donde se realiza la descarga proveniente del buque y seubica la instalación de disposición final mediante el establecimiento de puntos de contacto/focales.
 
-Deiigual forma la Autoridad Marítima exigirá que los desechos
-vayan acompañados de un documento sobre el movimiento desde
-el punto en que se realice la descarga hasta el punto en que se
-eliminen los desechos. Dicho documento deberá ser firmado y
-sellado por un oficial de supervisor nombrado por la DGMM.
+Deiigual forma la Autoridad Marítima exigirá que los desechos vayan acompañados de un documento sobre el movimiento desde el punto en que se realice la descarga hasta el punto en que se eliminen los desechos. Dicho documento deberá ser firmado y sellado por un oficial de supervisor nombrado por la DGMM.
 
 5.2. Bajo lo dispuesto en la sección 5.1 la Autoridad Marítima
 
@@ -12096,11 +9447,8 @@ AE
 
 REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 25 DE JULIO DEL 2012
 
-autoridad ambiental competente del lugar en donde se ubica la
-instalación de disposición final el movimiento de desechos. Tal
-notificación deberá ser debidamente refrendada por un Oficial
-Supervisor nombrado por la DGMM y contendrá sin que sea
-entendido en numerus clausus la siguiente información y
+autoridad ambiental competente del lugar en donde se ubica la instalación de disposición final el movimiento de desechos. Tal notificación deberá ser debidamente refrendada por un Oficial
+Supervisor nombrado por la DGMM y contendrá sin que sea entendido en numerus clausus la siguiente información y
 
 «declaraciones:
 
@@ -12115,206 +9463,109 @@ d) Número OMI del buque.
 
 f) Incidencias acaecidas durante la prestación del servicio.
 
-2) Copia del Certificado MARPOL de Recepción de Residuos
-delos Buques Recibo MARPOL señalado en el artículo 31.1 del
-Acuerdo 001/2001
+2) Copia del Certificado MARPOL de Recepción de Residuos delos Buques Recibo MARPOL señalado en el artículo 31.1 del Acuerdo 001/2001
 
-La autoridad ambiental competente del lugar en donde seubicala
-instalación de disposición final verificará que la cantidad y calidad
+La autoridad ambiental competente del lugar en donde seubicala instalación de disposición final verificará que la cantidad y calidad
 
 del producto extraído ha llegado sin variar a su destino final.
 
-Sin perjuicio de las responsabilidades civiles y penales aplicables,
-la variación no justificada de cantidad y calidad dará lugar a las
-sanciones pecuniarias ya designadas en la Ley Orgánica de la
-Marina Mercante de Honduras y a la subsecuente cancelación de
+Sin perjuicio de las responsabilidades civiles y penales aplicables, la variación no justificada de cantidad y calidad dará lugar a las sanciones pecuniarias ya designadas en la Ley Orgánica de la Marina Mercante de Honduras y a la subsecuente cancelación de
 
 la Autorización otorgada.
 
-5.3. En caso de que el punto de la disposición final se encuentre
-localizado en un territorio fuera de Honduras, se estará
-estrictamente a lo dispuesto enel Convenio de Basilea y sin peguicio
-de las potestades del Punto Focal Hondureño del Convenio, la
-Dirección General de la Marina Mercante verificará de forma
-presencial que los desechos lleguen en calidad y cantidad a la
-frontera respectiva. Los costos de la verificación aquí señalados
+5.3. En caso de que el punto de la disposición final se encuentre localizado en un territorio fuera de Honduras, se estará estrictamente a lo dispuesto enel Convenio de Basilea y sin peguicio de las potestades del Punto Focal Hondureño del Convenio, la Dirección General de la Marina Mercante verificará de forma presencial que los desechos lleguen en calidad y cantidad a la frontera respectiva. Los costos de la verificación aquí señalados
 
 correrán por cuenta de la Empresa Autorizada,
 
-5.4. Los operadores de las Instalaciones Portuarias Receptoras
-deberán cumplimentar documentalmente un registro de los
-servicios que prestan a los buques, donde habrán de figurar como
+5.4. Los operadores de las Instalaciones Portuarias Receptoras deberán cumplimentar documentalmente un registro de los servicios que prestan a los buques, donde habrán de figurar como
 
 mínimo, los siguientes datos.
 a) Fecha y hora de comienzo de la prestación del servicio;
 b) Fecha y hora de finalización del servicio;
 
-e) Nombre, bandera, número OMI y distintivo de llamada del
-buque;
+e) Nombre, bandera, número OMI y distintivo de llamada del buque;
 
 d) Cantidad (peso/volumen) y tipo del residuo recibido;
 
-€) Incidencias acaecidas durante la prestación del servicio de
-descarga.
+€) Incidencias acaecidas durante la prestación del servicio de descarga.
 
-f) Copia del Certificado MARPOL de Recepción de Residuos
-delos Buques Recibo MARPOL señalado en cl artículo 31.1 del
-Acuerdo 001/2001.
+f) Copia del Certificado MARPOL de Recepción de Residuos delos Buques Recibo MARPOL señalado en cl artículo 31.1 del Acuerdo 001/2001.
 
-£) Información relativa al transporte utilizado para el movimiento
-desde el punto en que se realice la descarga hasta el punto en
-que se eliminen los desechos (hora de salida de la instalación
+£) Información relativa al transporte utilizado para el movimiento desde el punto en que se realice la descarga hasta el punto en que se eliminen los desechos (hora de salida de la instalación
 Portuaria, hora de llegada a la instalación de disposición final,
 
 tipo de transporte, matricula, nombre del operario y otros).
 h) Lugar y método de disposición final.
 
-5.5. El registro indicado en la sección 5.4 deberá documentarse
-en un libro foliado, aprobado a tal efecto por la Dirección General
-de la Marina Mercante tal y como se señala en el articulo 32 del
-Acuerdo 001/2001. La Autoridad Marítima podrá autorizar la
-sustitución del libro registro por un registro informatizado que reúna
-las debidas garantías de fiabilidad.
+5.5. El registro indicado en la sección 5.4 deberá documentarse en un libro foliado, aprobado a tal efecto por la Dirección General de la Marina Mercante tal y como se señala en el articulo 32 del Acuerdo 001/2001. La Autoridad Marítima podrá autorizar la sustitución del libro registro por un registro informatizado que reúna las debidas garantías de fiabilidad.
 
-5.6. Sin perjuicio del procedimiento de notificación trimestral
-señalado en el artículo 33 del Acuerdo 001/2001, el libro registro
-o, en su caso el registro informatizado podrán ser consultados
-porlas autoridades competentes y la información en ellos contenida
-estará disponible para dichas consultas durante un período de
-cinco años.
+5.6. Sin perjuicio del procedimiento de notificación trimestral señalado en el artículo 33 del Acuerdo 001/2001, el libro registro o, en su caso el registro informatizado podrán ser consultados porlas autoridades competentes y la información en ellos contenida estará disponible para dichas consultas durante un período de cinco años.
 
 A. MN
 REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 25 DE JULIO DEL 2012
 
-5.7. Las rectamaciones relacionadas con posibles deficiencias en
-la prestación del servicio de recepción de desechos generados
-por los buques y residuos de carga deberán ser dirigidas a la
-Autoridad Marítima y se tramitarán de acuerdo con las normas y
+5.7. Las rectamaciones relacionadas con posibles deficiencias en la prestación del servicio de recepción de desechos generados por los buques y residuos de carga deberán ser dirigidas a la Autoridad Marítima y se tramitarán de acuerdo con las normas y
 
 procedimientos administrativos aplicables a su naturaleza.
 
-5.8. Las empresas autorizadas deberán contar con un seguro,
-una fianza u otra garantía que cubra los daños a terceros nacidos
-de la operación realizada bajo los términos del artículo 4.1.C del
-presente Reglamento.
+5.8. Las empresas autorizadas deberán contar con un seguro, una fianza u otra garantía que cubra los daños a terceros nacidos de la operación realizada bajo los términos del artículo 4.1.C del presente Reglamento.
 
-Artículo 6. Planes de Recepción y Manipulación de
-Desechos.
+Artículo 6. Planes de Recepción y Manipulación de Desechos.
 
-6.1. La Dirección General de la Marina Mercante, aprobará y
-aplicará, previa consulta con las partes interesadas y los usuarios
-del puerto y de conformidad con las normativas ambientales
-vigentes, un plan de recepción y manipulación de desechos. El
-contenido del plan garantizará la correcta gestión ambiental de
-los residuos y deberá actualizarse al menos cada tres años y siempre
-gue se introduzcan cambios significativos que afecten al
-funcionamiento del servicio.
+6.1. La Dirección General de la Marina Mercante, aprobará y aplicará, previa consulta con las partes interesadas y los usuarios del puerto y de conformidad con las normativas ambientales vigentes, un plan de recepción y manipulación de desechos. El contenido del plan garantizará la correcta gestión ambiental de los residuos y deberá actualizarse al menos cada tres años y siempre gue se introduzcan cambios significativos que afecten al funcionamiento del servicio.
 
-6.2. En el caso de terminales gestionadas o coordinadas bajo una
-misma autoridad pública o bajo un área espacial común, podrá
-elaborarse un plan de recepción y manipulación de desechos común
-para todos ellos, con la adecuada participación de cada uno de
-ellos y siempre que se precisen las necesidades y las caracteristicas
-delas instalaciones disponibles para cada uno de ellos.
+6.2. En el caso de terminales gestionadas o coordinadas bajo una misma autoridad pública o bajo un área espacial común, podrá elaborarse un plan de recepción y manipulación de desechos común para todos ellos, con la adecuada participación de cada uno de ellos y siempre que se precisen las necesidades y las caracteristicas delas instalaciones disponibles para cada uno de ellos.
 
-6.3. El Departamento de Seguridad Marítima, a través de la Oficina
-de Prevención de la Contaminación Marina de la Dirección General
-de la Marina Mercante, supervisará la aplicación de los planes de
+6.3. El Departamento de Seguridad Marítima, a través de la Oficina de Prevención de la Contaminación Marina de la Dirección General de la Marina Mercante, supervisará la aplicación de los planes de
 
-recepción y manipulación de desechos y su actualización conforme
-alo previsto en el acápite 6.1.
+recepción y manipulación de desechos y su actualización conforme alo previsto en el acápite 6.1.
 
 Artículo 7. Notificación.
 
-7.1 El capitán de un buque o su agente que se dirija a un Puerto
-de Honduras deberá cumplimentar con veracidad y exactitud el
-formulario que al efecto ofrecerá la Autoridad Marítima y notificar
-dicha información a la Dirección General de la Marina Mercante,
-con la antelación que a continuación se establece:
+7.1 El capitán de un buque o su agente que se dirija a un Puerto de Honduras deberá cumplimentar con veracidad y exactitud el formulario que al efecto ofrecerá la Autoridad Marítima y notificar dicha información a la Dirección General de la Marina Mercante, con la antelación que a continuación se establece:
 
-a) Como mínimo veinticuatro horas antes de la llegada prevista
-del buque; o,
+a) Como mínimo veinticuatro horas antes de la llegada prevista del buque; o,
 
-b) En cuanto se conozca el puerto de escala si se dispone de esa
-información menos de veinticuatro horas antes de su llegada; o,
+b) En cuanto se conozca el puerto de escala si se dispone de esa información menos de veinticuatro horas antes de su llegada; o,
 
-c) A más tardar en el momento de zarpar del puerto de salida, si
-la duración del viaje es inferior a veinticuatro horas.
+c) A más tardar en el momento de zarpar del puerto de salida, si la duración del viaje es inferior a veinticuatro horas.
 
-7.2. En el caso en que el buque no haya indicado en la notificación
-su intención de entregar desechos o residuos en la instalación
-portuaria receptora, pero haya sido obligado en base a inspección
-de Estado Rector de Puerto, conforme a lo previsto en el apartado
-3 del artículo 8, el capitán del buque deberá solicitar el servicio
-de recepción a una instalación portuaria receptora autorizada en
-dicho puerto, remitiendo copia de dicha solicitud a la entidad
-gestora y haciendo frente al pago de la tarifa correspondiente al
+7.2. En el caso en que el buque no haya indicado en la notificación su intención de entregar desechos o residuos en la instalación portuaria receptora, pero haya sido obligado en base a inspección de Estado Rector de Puerto, conforme a lo previsto en el apartado
+3 del artículo 8, el capitán del buque deberá solicitar el servicio de recepción a una instalación portuaria receptora autorizada en dicho puerto, remitiendo copia de dicha solicitud a la entidad gestora y haciendo frente al pago de la tarifa correspondiente al
 
 servicio de recepción de desechos solicitado.
 
-El principio rector en todo momento será cl evitar que el buque
-sufra demoras innecesarias y en tal sentido la Autoridad Marítima
-tomará las medidas pertinentes a efectos de asegurar un servicio
+El principio rector en todo momento será cl evitar que el buque sufra demoras innecesarias y en tal sentido la Autoridad Marítima tomará las medidas pertinentes a efectos de asegurar un servicio
 
 que no afecte la operación del buque.
 
-Siguiendo las pautas señaladas en el Manual General sobre
-instalaciones portuarias de recepción de la OMI, se considerará
-que la hora del trasvase [de desechos] será convenida mutuamente
-y el trasvase de los desechos tendrá lugar durante las horas de
-trabajo de manipulación de la carga del puerto a menos que la
-hora normal de llegada del buque al puerto no esté comprendida
-en ese periodo. Sin perjuicio de lo anterior y en base a estrictos
-criterios de necesidad operacional se podrá convenir horas que
+Siguiendo las pautas señaladas en el Manual General sobre instalaciones portuarias de recepción de la OMI, se considerará que la hora del trasvase [de desechos] será convenida mutuamente y el trasvase de los desechos tendrá lugar durante las horas de trabajo de manipulación de la carga del puerto a menos que la hora normal de llegada del buque al puerto no esté comprendida en ese periodo. Sin perjuicio de lo anterior y en base a estrictos criterios de necesidad operacional se podrá convenir horas que
 
 satisfagan a los usuarios del servicio.
 
-7.3. Una copia de la notificación se conservará a bordo hasta el
-siguiente puerto de escala y estará a disposición de la Autoridad
-Marítima de dicho puerto si se trata de un puerto hondureño y de
-las autoridades competentes correspondientes si se trata de un
+7.3. Una copia de la notificación se conservará a bordo hasta el siguiente puerto de escala y estará a disposición de la Autoridad
+Marítima de dicho puerto si se trata de un puerto hondureño y de las autoridades competentes correspondientes si se trata de un
 
 puerto extranjero.
 
-, A. WN
-nÁ Acuerd s
+, A. WN nÁ Acuerd s
 
 \| La Gaceta
 
 REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 25 DE JULIO DEL 2012
 
-7.4. Los buques de pesca y embarcaciones deportivas o derecreo
-autorizadas para un máximo de doce pasajeros realizarán una
-notificación reducida.
+7.4. Los buques de pesca y embarcaciones deportivas o derecreo autorizadas para un máximo de doce pasajeros realizarán una notificación reducida.
 
-a) En el caso de buques o embarcaciones de cualquier tipo con
-base en un Puerto de Honduras, justificarán anualmente ante la
-Capitanía de Puerto de su puerto base la entrega de toda clase de
+a) En el caso de buques o embarcaciones de cualquier tipo con base en un Puerto de Honduras, justificarán anualmente ante la Capitanía de Puerto de su puerto base la entrega de toda clase de
 
 desechos a una instalación portuaria receptora autorizada.
 
-b) Enlos demás casos a la llegada de la embarcación al primer
-puerto de Honduras, cuando se trate de buques o embarcaciones
-procedentes de puertos extranjeros o caladeros internacionales.
-Artículo 8. Entrega de los Desechos Generados por los
-Buques.
+b) Enlos demás casos a la llegada de la embarcación al primer puerto de Honduras, cuando se trate de buques o embarcaciones procedentes de puertos extranjeros o caladeros internacionales.
+Artículo 8. Entrega de los Desechos Generados por los Buques.
 
-8.1. El capitán de un buque que haga escala en un puerto de
-Honduras, entregará obligatoriamente, antes de abandonar el
-puerto, todos los desechos generados por el buque en una
-instalación portuaria receptora autorizada,
+8.1. El capitán de un buque que haga escala en un puerto de Honduras, entregará obligatoriamente, antes de abandonar el puerto, todos los desechos generados por el buque en una instalación portuaria receptora autorizada,
 
-8.2. El buque podrá salir del puerto de escala sin entregar los
-desechos en dicho puerto, no obstante, si ha sido expresamente
-autorizado para ello por la Autoridad Marítima, que fundamentará
-dicha autorización en la información facilitada en la notificación
-emitida de conformidad con el artículo 8 y con el resultado de la
-inspección realizada a bordo del buque por ERP, en caso de que
-se hubiese efectuado, si de ella se deduce que el buque dispone
-de suficiente capacidad de almacenamiento destinada para todos
-los desechos generados acumulados y los que previsiblemente se
-generen durante la travesía hasta el siguiente puerto de escala. El
-mínimo permitido a bordo es de 30% de la capacidad total de los
+8.2. El buque podrá salir del puerto de escala sin entregar los desechos en dicho puerto, no obstante, si ha sido expresamente autorizado para ello por la Autoridad Marítima, que fundamentará dicha autorización en la información facilitada en la notificación emitida de conformidad con el artículo 8 y con el resultado de la inspección realizada a bordo del buque por ERP, en caso de que se hubiese efectuado, si de ella se deduce que el buque dispone de suficiente capacidad de almacenamiento destinada para todos los desechos generados acumulados y los que previsiblemente se generen durante la travesía hasta el siguiente puerto de escala. El mínimo permitido a bordo es de 30% de la capacidad total de los
 
 tanques de mezclas oleosas y sentinas.
 
@@ -12322,34 +9573,17 @@ Las inspecciones de ERP, serealizarán bajos los términos atisbados
 
 en la Sección 1 del Capítulo II del Acuerdo 001/2001.
 
-8.3. Cuando existan motivos razonables para suponer que el puerto
-en el que el buque pretende entregar los desechos no dispone de
-Instalaciones Portuarias Receptoras adecuadas o si dicho puerto
-es indeterminado y existe el riesgo de que los desechos sean
-vertidos en el mar, la Autoridad Marítima ordenará la descarga
+8.3. Cuando existan motivos razonables para suponer que el puerto en el que el buque pretende entregar los desechos no dispone de Instalaciones Portuarias Receptoras adecuadas o si dicho puerto es indeterminado y existe el riesgo de que los desechos sean vertidos en el mar, la Autoridad Marítima ordenará la descarga
 
 de todos los desechos que se encuentran a bordo. La misma
 
-resolución se adoptará si se ha incumplido la obligación de
-notificación establecida en el artículo 7, si estado Rector de Puerto
-comprueba que las condiciones de almacenamiento de los
-desechos a bordo no es adecuada para su almacenaje o que se
-puede rebasar la capacidad de los espacios destinados a tal fin
-durante la travesía hasta el siguiente puerto que disponga de
+resolución se adoptará si se ha incumplido la obligación de notificación establecida en el artículo 7, si estado Rector de Puerto comprueba que las condiciones de almacenamiento de los desechos a bordo no es adecuada para su almacenaje o que se puede rebasar la capacidad de los espacios destinados a tal fin durante la travesía hasta el siguiente puerto que disponga de
 
 Instalaciones Portuarias Receptoras adecuadas.
 
-8.4. Las Instalaciones Portuarias Receptoras expedirán a cada
-buque queutilice sus servicios de recepción de desechos un recibo
-de residuos MARPOL.
+8.4. Las Instalaciones Portuarias Receptoras expedirán a cada buque queutilice sus servicios de recepción de desechos un recibo de residuos MARPOL.
 
-Para tener validez, este documento deberá contar con el refrendo
-del representante de la Autoridad Marítima del puerto donde se
-realizó la entrega. Para los buques de pesca y las embarcaciones
-de recreo autorizadas para un máximo de doce pasajeros, la
-instalación portuaria receptora expedirá un único recibo anual que
-declare la entrega regular en dicha instalación, a lo largo de dicho
-periodo, de los desechos de la embarcación. El recibo deberá
+Para tener validez, este documento deberá contar con el refrendo del representante de la Autoridad Marítima del puerto donde se realizó la entrega. Para los buques de pesca y las embarcaciones de recreo autorizadas para un máximo de doce pasajeros, la instalación portuaria receptora expedirá un único recibo anual que declare la entrega regular en dicha instalación, a lo largo de dicho periodo, de los desechos de la embarcación. El recibo deberá
 
 presentarse a la Autoridad Marítima para su refrendo.
 
@@ -12363,18 +9597,14 @@ tarifas que correspondan al coste.del servicio efectivamente
 
 recibido.
 
-9.2. Las tarifas serán equitativas, transparentes y no
-discriminatorias, y reflejarán el coste de las instalaciones y los
-servicios. Se deberá informar a los usuarios del puerto de los
+9.2. Las tarifas serán equitativas, transparentes y no discriminatorias, y reflejarán el coste de las instalaciones y los servicios. Se deberá informar a los usuarios del puerto de los
 
 importes de dichas tarifas y de las bases de cálculo
 
 correspondientes.
 Artículo 10. Entrega de los Residuos de Carga.
 
-10.1. El capitán de un buque que haga escala en un Puerto de
-Honduras se asegurará que los residuos de la carga scan
-entregados en una instalación portuaria receptora de dicho puerto
+10.1. El capitán de un buque que haga escala en un Puerto de Honduras se asegurará que los residuos de la carga scan entregados en una instalación portuaria receptora de dicho puerto
 
 de conformidad con las disposiciones del Convenio MARPOL.
 
@@ -12417,6 +9647,7 @@ A MEM
 - Resolución 868-2019 → no aparece en la colección de La Gaceta de la bóveda
 - Acuerdo 118-2019 → no aparece en la colección de La Gaceta de la bóveda
 - Acuerdo 114-2019 → no aparece en la colección de La Gaceta de la bóveda
+- Resolución 870-2019 → no aparece en la colección de La Gaceta de la bóveda
 - Decreto Ejecutivo PCM-009-2018 → anterior a 2019: no está en la colección de La Gaceta de la bóveda
 <!-- normas:fin -->
 <!-- portal:fin -->

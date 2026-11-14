@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS SOLICITUD DE ACTIVACIÓN O
-CANCELACIÓN DE DOCUMENTOS FISCALES
+REQUISITOS SOLICITUD DE ACTIVACIÓN O CANCELACIÓN DE DOCUMENTOS FISCALES
 PENDIENTES DE ACTIVAR POR IMPRENTA
 FUERA DE LA TABLA PÚBLICA
 Dirección Nacional de Cumplimiento Tributario
@@ -48,10 +47,8 @@ Departamento de Asistencia al Cumplimiento Nacional
 REQUISITOS SOLICITUD DE ACTIVACIÓN O CANCELACIÓN DE DOCUMENTOS
 FISCALES PENDIENTES DE ACTIVAR POR IMPRENTA FUERA DE LA TABLA
 PÚBLICA
-Esta solicitud puede ser realizada a través de la Oficina Virtual y en las ventanillas de
-Recepción y Notificación.
-1. Escrito de solicitud ante la Administración Tributaria que debe contener lo
-siguiente:
+Esta solicitud puede ser realizada a través de la Oficina Virtual y en las ventanillas de Recepción y Notificación.
+1. Escrito de solicitud ante la Administración Tributaria que debe contener lo siguiente:
 - Nombre del trámite o petición que se formula– SOLICITUD DE
 ACTIVACIÓN O CANCELACIÓN DE DOCUMENTOS FISCALES.
 - Órgano a quien se dirige – Servicio de Administración de Rentas (SAR).
@@ -70,42 +67,23 @@ debe acompañar lo siguiente:
 - Documento Nacional de Identificación para hondureños (Original).
 - Pasaporte o carné de residente vigente para extranjeros (Original).
 
-SE SOLICITA ACTIVACIÓN O CANCELACIÓN DE
-DOCUMENTOS FISCALES
+SE SOLICITA ACTIVACIÓN O CANCELACIÓN DE DOCUMENTOS FISCALES
 SE SOLICITA ACTIVACIÓN O CANCELACIÓN DE DOCUMENTOS FISCALES
 MINISTRA (O) DIRECTORA (O)
 SERVICIO DE ADMINISTRACIÓN DE RENTAS
 
-Yo: _____________________________________________________________________,
-hondureño(a), mayor de edad, profesión __________________________________________________,
-portador de la tarjeta de identidad número ______________________________, con teléfono celular
-número ____________________, correo electrónico_____________________________ actuando en mi
-condición ________________________________________________ ( personal, propietario del
-negocio, apoderado legal, representante legal o procesal ), de ______________________________
-(razón, denominación o nombre comercial del negocio), con R.T.N
-número_____________________________, del domicilio
-tributario________________________________________________________, ( domicilio tributario
-completo), con teléfono número _____________________, celular número ___________________,
-correo electrónico___________________________________, comparezco ante usted Señora (o) Ministra
-(o) Directora (o), para solicitar LA ACTIVACIÓN DE LOS DOCUMENTOS FISCALES, en virtud de que la
-imprenta asignada para la elaboración de dichos documentos ha realizado la entrega física
-correspondiente. Sin embargo, no cumplió con el procedimiento de activación en tiempo y forma, y
-actualmente se encuentra fuera de la Tabla Publica da de Imprentas autorizadas. Por lo tanto, solicito
-respetuosamente se considere la activación de los siguientes documentos fiscales entregados, a fin de
-garantizar la continuidad de las operaciones y el cumplimiento de las obligaciones tributarias
-correspondientes.
+Yo: _____________________________________________________________________, hondureño(a), mayor de edad, profesión __________________________________________________, portador de la tarjeta de identidad número ______________________________, con teléfono celular número ____________________, correo electrónico_____________________________ actuando en mi condición ________________________________________________ ( personal, propietario del negocio, apoderado legal, representante legal o procesal ), de ______________________________
+(razón, denominación o nombre comercial del negocio), con R.T.N número_____________________________, del domicilio tributario________________________________________________________, ( domicilio tributario completo), con teléfono número _____________________, celular número ___________________, correo electrónico___________________________________, comparezco ante usted Señora (o) Ministra
+(o) Directora (o), para solicitar LA ACTIVACIÓN DE LOS DOCUMENTOS FISCALES, en virtud de que la imprenta asignada para la elaboración de dichos documentos ha realizado la entrega física correspondiente. Sin embargo, no cumplió con el procedimiento de activación en tiempo y forma, y actualmente se encuentra fuera de la Tabla Publica da de Imprentas autorizadas. Por lo tanto, solicito respetuosamente se considere la activación de los siguientes documentos fiscales entregados, a fin de garantizar la continuidad de las operaciones y el cumplimiento de las obligaciones tributarias correspondientes.
 
 Asimismo, para soportar y documentar mi petición acompaño lo siguiente:
 ____________________________________________________________________________________
 __________________________________________________________________________
 
-Fundo mi petición en los Artículo 80 de Constitución de la República, Artículos 29, 55 numeral 5), 8) y 56
-numerales 4), 86 del Código Tributario y sus reformas, Artículos 49, 53, 69, Artículos 59, 60, 61,62, 63, 64
-y 72 Acuerdo 481- 2017 contentivo del Reglamento del Régimen de Facturación, Otros Documentos
+Fundo mi petición en los Artículo 80 de Constitución de la República, Artículos 29, 55 numeral 5), 8) y 56 numerales 4), 86 del Código Tributario y sus reformas, Artículos 49, 53, 69, Artículos 59, 60, 61,62, 63, 64 y 72 Acuerdo 481-2017 contentivo del Reglamento del Régimen de Facturación, Otros Documentos
 Fiscales y Registro Fiscal de Imprentas y sus reformas.
 
-A la Señora (o) Ministra (o) Directora (o) respetuosamente pido: admitir el presente escrito y resolver de
-conformidad.
+A la Señora (o) Ministra (o) Directora (o) respetuosamente pido: admitir el presente escrito y resolver de conformidad.
 
 En la ciudad _____________________________a los ______ del mes de________________ de 20___.
 
@@ -122,6 +100,14 @@ Formato de Muestra
 
 - Ficha: https://www.sar.gob.hn/download/solicitud-activacion-o-cancelacion-de-documentos-fiscales/
 - Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
+
+<!-- normas:inicio -->
+## Normas citadas
+
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2019). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+
+- Acuerdo 481-2017 → anterior a 2019: no está en la colección de La Gaceta de la bóveda
+<!-- normas:fin -->
 <!-- portal:fin -->
 
 ## Notas propias

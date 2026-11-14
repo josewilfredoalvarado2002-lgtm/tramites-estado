@@ -38,31 +38,25 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE RENOVACIÓN DEL
-REGISTRO DE CIGARRILLOS
+REQUISITOS DE RENOVACIÓN DEL REGISTRO DE CIGARRILLOS
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
-REQUISITOS DE RENOVACIÓN DEL REGISTRO DE
-CIGARRILLOS
+REQUISITOS DE RENOVACIÓN DEL REGISTRO DE CIGARRILLOS
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de Procedimiento
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
 Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Estados Financieros debidamente timbrados, sellados y
-firmados por un perito colegiado (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Estados Financieros debidamente timbrados, sellados y firmados por un perito colegiado (Formato PDF)
 
 Estados Financieros (EXCEL)
 Balance inicial de operaciones (Formato PDF)
 Balance inicial de operaciones (EXCEL)
 Permiso de Operación extendido por la alcaldía municipal
 (Formato PDF)
-Contrato de marcas y patentes o el registro de su propia
-marca (Formato PDF)
+Contrato de marcas y patentes o el registro de su propia marca (Formato PDF)
 Comprobante de boletín de pago L200.00 (Impuesto: 156
 - Actos administrativos, concepto: 1 Propio Computo)
 

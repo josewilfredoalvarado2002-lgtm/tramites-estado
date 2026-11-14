@@ -44,8 +44,7 @@ Autorizan a las empresas que importan materiales o mercaderías con el pago de i
 ## Requisitos (según el documento oficial)
 
 file:///D|/nuevoSitio/Produccion/procedimientos/Requisito12.txt[27/02/2019 04:03:10 p.m.]
-1. Solicitud mediante Apoderado legal con los alegatos que se considere necesario debidamente justificados con poder
-autenticado
+1. Solicitud mediante Apoderado legal con los alegatos que se considere necesario debidamente justificados con poder autenticado
 2. Escritura de constitución de la empresa.
 3. Mapa topográfico del lugar autorizado
 4. Los antecedentes del caso si anteriormente se han emitido resoluciones sobre ello.
@@ -54,17 +53,12 @@ autenticado
 ## Procedimiento (según el documento)
 
 file:///D|/nuevoSitio/Produccion/procedimientos/Procedimiento12.txt[27/02/2019 04:03:09 p.m.]
-1. El solicitante se presenta a Secretaría General la solicitud con la documentación correspondiente a la vez se asigna
-número al caso.
-2. Se elabora Auto remitiendo el expediente a la institución gubernamental correspondiente (como Dirección Ejecutiva
-de Ingresos Comisión Nacional de Bancos y Seguros Tesorería General de la Republica etc.) para que se emita
+1. El solicitante se presenta a Secretaría General la solicitud con la documentación correspondiente a la vez se asigna número al caso.
+2. Se elabora Auto remitiendo el expediente a la institución gubernamental correspondiente (como Dirección Ejecutiva de Ingresos Comisión Nacional de Bancos y Seguros Tesorería General de la Republica etc.) para que se emita
 Dictamen Técnico o Informe de dicha dependencia.
-3. Recepción del expediente devuelto de la Unidad o Dependencia que ha elaborado el Dictamen respectivo se elabora
-el recibido y se remite mediante Auto a la Unidad de Servicios Legales para elaborar el borrador de la resolución.
-4. Una vez emitida el borrador de resolución por Asesoria Legal se remite a firmas del Secretario Gral. y el titular de
-esta Secretaría de Estado.
-5. Una vez suscrita la resolución se remite al Departamento de Correspondencia de la Secretaría General para su
-notificación el cual lo admite y se Revisa el Expediente en el Departamento de Correspondencia de la Secretaría
+3. Recepción del expediente devuelto de la Unidad o Dependencia que ha elaborado el Dictamen respectivo se elabora el recibido y se remite mediante Auto a la Unidad de Servicios Legales para elaborar el borrador de la resolución.
+4. Una vez emitida el borrador de resolución por Asesoria Legal se remite a firmas del Secretario Gral. y el titular de esta Secretaría de Estado.
+5. Una vez suscrita la resolución se remite al Departamento de Correspondencia de la Secretaría General para su notificación el cual lo admite y se Revisa el Expediente en el Departamento de Correspondencia de la Secretaría
 General para su notificación.
 6. Notificación de la resolución al Apoderado Legal o representante legal.
 7. Una vez que se acredita el pago de L.200.00 por la certificación (recibo de la TGR) se entrega la correspondiente

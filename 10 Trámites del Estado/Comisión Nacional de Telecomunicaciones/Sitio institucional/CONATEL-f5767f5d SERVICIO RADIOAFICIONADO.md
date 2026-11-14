@@ -47,17 +47,14 @@ SERVICIO DE RADIOAFICIONADO
 ITEM REQUISITO NS RN MD
 1.
 Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de Procedimiento
-Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono celular y correo
-electrónico.
+Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono celular y correo electrónico.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante.
 3. Carta Poder debidamente autenticada, o Poder en Escritura Pública (debidamente autenticada)
 4. Declaración Jurada de No estar Comprendido, en lo preceptuado según el artículo 92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente autenticada).
 5. RTN y Documentos de Identidad del Operador (Persona Natural o Jurídica) debidamente autenticada
 6. Acreditar pago del aviso de Trámite según Resolución Normativa de Tasas y Canon Vigente.
 7.
-Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el Departamento
-de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de diez (10) días hábiles desde su
-emisión.
+Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de diez (10) días hábiles desde su emisión.
 8. Forma 100, debe ser llenada y completada con la información del solicitante, y de su apoderado legal, siendo necesario que venga firmada y sellada por este último.
 9. Forma 402 (La que podrá ser llenada directamente por el solicitante).
 10. Presentar Constancia de estar debidamente afiliado a un Radio Club Reconocido en el país.
@@ -67,14 +64,10 @@ ITEM REQUISITO PARA CANCELACIONES CP
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
 3. Acreditar pago de aviso por Cancelación Permiso o de licencia según Resolución Normativa de Tasas y Canon Vigente.
 4.
-Presentar Constancia de Solvencia Económica emitida por el Departamento de Administración de Cartera y Cobranzas,
-cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión. En el caso que la cancelación sea autorizada
-por CONATEL, se realizará el cobro total de las obligaciones económicas conforme a lo establecido en la Resolución
+Presentar Constancia de Solvencia Económica emitida por el Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión. En el caso que la cancelación sea autorizada por CONATEL, se realizará el cobro total de las obligaciones económicas conforme a lo establecido en la Resolución
 NR017/99.
 5.
-Para la cancelación de cualquier sistema del servicio de Radioaficionado, es necesario detallar en la Solicitud lo que
-se desea cancelar, especificando ya sea si es el Permiso que le fue autorizado o si es una cancelación parcial de
-licencia. Lo anterior para evitar que se le cancelen otras Licencias autorizadas.
+Para la cancelación de cualquier sistema del servicio de Radioaficionado, es necesario detallar en la Solicitud lo que se desea cancelar, especificando ya sea si es el Permiso que le fue autorizado o si es una cancelación parcial de licencia. Lo anterior para evitar que se le cancelen otras Licencias autorizadas.
 NS Nueva Solicitud
 RN Renovación
 MD Modificación

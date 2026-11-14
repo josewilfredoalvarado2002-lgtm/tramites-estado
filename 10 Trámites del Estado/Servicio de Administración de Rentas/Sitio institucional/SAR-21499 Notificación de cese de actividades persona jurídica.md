@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE NOTIFICACIÓN DE CESE DE
-ACTIVIDADES PERSONA JURÍDICA
+REQUISITOS DE NOTIFICACIÓN DE CESE DE ACTIVIDADES PERSONA JURÍDICA
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
@@ -48,63 +47,37 @@ REQUISITOS DE NOTIFICACIÓN DE CESE DE ACTIVIDADES PERSONA
 JURÍDICA
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Balanza de comprobación de los últimos dos años
-de operación. (Excel)
-Cualquier otra información que el OT considere
-necesaria para sustentar su petición
-Estados financieros firmados, sellados y
-timbrados, de los últimos dos años de operación
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Balanza de comprobación de los últimos dos años de operación. (Excel)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Estados financieros firmados, sellados y timbrados, de los últimos dos años de operación
 (Formato PDF)
 Ejecución del gasto (Instituciones públicas)
 (Formato PDF)
-Estados financieros de los últimos dos años de
-operación (Excel)
+Estados financieros de los últimos dos años de operación (Excel)
 Permiso de operación de la Alcaldía Municipal
-(En caso de no tenerlo, presentar constancia de
-no estar inscrito) (Formato PDF)
+(En caso de no tenerlo, presentar constancia de no estar inscrito) (Formato PDF)
 Punto de acta de la disolución de la sociedad
 (Persona jurídica) (Formato PDF)
-Acta de liquidación o acta de entrega del bien o
-activo que administra, firmada por el
-fideicomitente y el fiduciario en original y copia
+Acta de liquidación o acta de entrega del bien o activo que administra, firmada por el fideicomitente y el fiduciario en original y copia
 (Fideicomisos) (Formato PDF)
-Protocolización de acta donde conste la
-disolución de la sociedad mercantil debidamente
-registrada en el registro mercantil de la Cámara
-de Comercio de Honduras (Persona Jurídica)
+Protocolización de acta donde conste la disolución de la sociedad mercantil debidamente registrada en el registro mercantil de la Cámara de Comercio de Honduras (Persona Jurídica)
 (Formato PDF)
 
-Certificación de acuerdo de liquidación emitida
-por CONSUCOOP en original y copia
+Certificación de acuerdo de liquidación emitida por CONSUCOOP en original y copia
 (Cooperativas) (Formato PDF)
-Instrumento público de liquidación (escritura de
-liquidación), debidamente inscrita en el registro
-mercantil o centro asociado correspondiente
+Instrumento público de liquidación (escritura de liquidación), debidamente inscrita en el registro mercantil o centro asociado correspondiente
 (Personas Jurídicas) (Formato PDF)
-Certificación de resolución de cierre definitivo de
-operaciones emitido por la Secretaría de Estado
-en los despachos de Gobernación, Justicia y
-descentralización en original y copia
+Certificación de resolución de cierre definitivo de operaciones emitido por la Secretaría de Estado en los despachos de Gobernación, Justicia y descentralización en original y copia
 (Asociaciones Civiles) (Formato PDF)
-Constancia de cierre de operaciones extendida
-por la Alcaldía Municipal, (en caso de no tener
-constancia adjuntar respaldo que la misma se
-encuentra en trámite) (Formato PDF)
+Constancia de cierre de operaciones extendida por la Alcaldía Municipal, (en caso de no tener constancia adjuntar respaldo que la misma se encuentra en trámite) (Formato PDF)
 Contrato de constitución del fideicomiso
 (Fideicomisos) (Formato PDF)
 Constancia de solvencia Aduanera vigente
 (Personas Jurídicas) (Formato PDF)
-Certificación de resolución de cierre de
-operaciones emitida por el ente regulador en
-original y copia (Empresas asociativas del
-sector social de la economía) (Formato PDF)
-Libro diario, libros mayores y plantillas de
-empleados de los últimos dos años (Excel)
+Certificación de resolución de cierre de operaciones emitida por el ente regulador en original y copia (Empresas asociativas del sector social de la economía) (Formato PDF)
+Libro diario, libros mayores y plantillas de empleados de los últimos dos años (Excel)
 
 Comprobante de boletín de pago L200.00
 (Impuesto: 156 - Actos administrativos, concepto:

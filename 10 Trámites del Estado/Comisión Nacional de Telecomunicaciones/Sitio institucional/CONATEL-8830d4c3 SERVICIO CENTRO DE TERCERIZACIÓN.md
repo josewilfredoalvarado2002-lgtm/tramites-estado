@@ -40,16 +40,13 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 REQUISITOS
-CENTRO DE TERCERIZACIÓN DE SERVICIOS EMPRESARIALES EN
-TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES (BPO-ITO)
+CENTRO DE TERCERIZACIÓN DE SERVICIOS EMPRESARIALES EN TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES (BPO-ITO)
 
 *Requisitos y formatos en la página Web de CONATEL:
 
 ITEM REQUISITO NS RN MT
 1.
-Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de
-Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo,
-teléfono celular y correo electrónico.
+Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono celular y correo electrónico.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante.
 3. Carta Poder debidamente autenticada, o Poder en Escritura Pública (debidamente autenticada)
 4. Declaración Jurada de No estar Comprendido, en lo preceptuado según el Artículo 92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente autenticada).
@@ -57,16 +54,9 @@ teléfono celular y correo electrónico.
 6. Declaración de Comerciante Individual o Escritura de Constitución de Sociedad debidamente registrada (autenticada o cotejada)
 7. Forma 100, debe ser llenada y completada con la información del solicitante, y de su apoderado legal, siendo necesario que venga firmada y sellada por este último.
 8.
-*Informe Técnico que explique detalladamente, el tipo o los tipos de servicios basados en las
-tecnologías de información y comunicaciones que pretende tercerizar, informando el operador de
-Internet o de otro servicio de telecomunicaciones que cuente con Título Habilitante vigente emitido
-por CONATEL, sobre el cual se soporta para la operación de la actividad de Tercerización.
-Asimismo, indicar como se conoce la empresa en el ámbito comercial, la ubicación exacta y las
-coordenadas geográficas del sitio desde donde opera.
-* Servicios Tercerizados de tipo tecnológico que se prestan exclusivamente en línea primordialmente utilizando las redes del Servicio de Internet o Acceso a
-Redes Informáticas a modo de ejemplo: las notificaciones electrónicas, gestión de autenticación de datos, procesamiento de redes, manejo de redes
-sociales, chat empresarial, procesamiento de compras en línea, correos electrónicos corporativos, encriptación, seguridad, vigilancia y monitoreo para
-protección de las comunicaciones, entre otros que cumplan con esta características.
+*Informe Técnico que explique detalladamente, el tipo o los tipos de servicios basados en las tecnologías de información y comunicaciones que pretende tercerizar, informando el operador de Internet o de otro servicio de telecomunicaciones que cuente con Título Habilitante vigente emitido por CONATEL, sobre el cual se soporta para la operación de la actividad de Tercerización.
+Asimismo, indicar como se conoce la empresa en el ámbito comercial, la ubicación exacta y las coordenadas geográficas del sitio desde donde opera.
+* Servicios Tercerizados de tipo tecnológico que se prestan exclusivamente en línea primordialmente utilizando las redes del Servicio de Internet o Acceso a Redes Informáticas a modo de ejemplo: las notificaciones electrónicas, gestión de autenticación de datos, procesamiento de redes, manejo de redes sociales, chat empresarial, procesamiento de compras en línea, correos electrónicos corporativos, encriptación, seguridad, vigilancia y monitoreo para protección de las comunicaciones, entre otros que cumplan con esta características.
 NS Nueva Solicitud
 RN Renovación
 MT Modificación Técnica

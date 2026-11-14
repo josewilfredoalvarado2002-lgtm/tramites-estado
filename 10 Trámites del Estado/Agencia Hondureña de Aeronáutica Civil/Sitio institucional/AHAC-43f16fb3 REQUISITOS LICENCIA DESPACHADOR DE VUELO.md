@@ -38,41 +38,32 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-DOCUMENTOS NECESARIOS PARA OTORGAR LA
-LICENCIA DE DESPACHADOR DE VUELO
+DOCUMENTOS NECESARIOS PARA OTORGAR LA LICENCIA DE DESPACHADOR DE VUELO
 
 1. Llenar la Forma PEL-FORM-007.
 2. Edad 21 años.
 3. Copia de tarjeta de identidad.
 4. Certificación médica clase 3 vigente.
 5. Constancia de haber aprobado la educación media.
-6. Constancia de haber aprobado la prueba teórica en los últimos 12 meses
-precedentes.
-7. Constancia de haber aprobado la Prueba Práctica con un Inspector o examinador
-designado de la AHAC.
+6. Constancia de haber aprobado la prueba teórica en los últimos 12 meses precedentes.
+7. Constancia de haber aprobado la Prueba Práctica con un Inspector o examinador designado de la AHAC.
 8. Contar con la Experiencia requerida por RAC LPTA 260, (a), (1), (iii).
-9. Habrá prestado servicio bajo la supervisión de un despachador de vuelo durante 90
-días como mínimo, en el período de 6 meses que preceda inmediatamente a su
-solicitud RAC LPTA 260, (a), (3).
+9. Habrá prestado servicio bajo la supervisión de un despachador de vuelo durante 90 días como mínimo, en el período de 6 meses que preceda inmediatamente a su solicitud RAC LPTA 260, (a), (3).
 10. Dos fotografías tamaño cédula reciente.
-11. Recibo de pago por renovación por otorgamiento de la licencia de despachador de
-vuelo.
+11. Recibo de pago por renovación por otorgamiento de la licencia de despachador de vuelo.
 
 DOCUMENTOS NECESARIOS PARA RENOVACIÓN
 LICENCIA DESPACHADOR DE VUELO
 
 1. Llenar Forma PEL-FORM-008
 2. Certificación médica clase 3 vigente.
-3. Recibo de pago por renovación para renovación de certificado de validez de
-despachador de vuelo.
+3. Recibo de pago por renovación para renovación de certificado de validez de despachador de vuelo.
 4. Debe cumplir con los requisitos de experiencia reciente establecidos en la RAC
 LPTA 260, (b), (3).
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deb erá presentar el original y la copia de
-todos los documentos solicitados. Los orig inales serán devueltos al solicitante una
-vez constatados por el responsable de licencias. Las formas PEL-FORM-007 y PEL-
+Presentada la información el solicitante deb erá presentar el original y la copia de todos los documentos solicitados. Los orig inales serán devueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL-FORM-007 y PEL-
 FORM-008 puede solicitarlas en la AHAC o en la página Web: www.ahac.gob.hn.
 
 ## Otro texto del documento

@@ -38,38 +38,27 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-DOCUMENTOS NECESARIOS PARA OBETENER LA
-HABILITACION DE VUELOS POR INSTRUMENTOS
+DOCUMENTOS NECESARIOS PARA OBETENER LA HABILITACION DE VUELOS POR INSTRUMENTOS
 
 1. Llenar la Forma PEL-FORM-006
-2. Poseer como mínimo Licencia de Piloto Privado o Comercial vigente en la categoría
-de aeronave en la cual aplica.
+2. Poseer como mínimo Licencia de Piloto Privado o Comercial vigente en la categoría de aeronave en la cual aplica.
 3. Copia de tarjeta de identidad o Fe de Edad.
-4. Constancia de cursos teórico y práctico aprobados por la AHAC para la Habilitación
-de Instrumentos.
+4. Constancia de cursos teórico y práctico aprobados por la AHAC para la Habilitación de Instrumentos.
 5. Debe haber aprobado la prueba teórica en los últimos 6 meses precedentes.
-6. Debe haber aprobado la prueba práctica con un Inspector o Examinador Designado
-por la AHAC.
-7. El libro de record de horas con el endoso por un instructor autorizado, detalladas de
-conformidad a RAC-LPTA 170, (c), según aplique.
+6. Debe haber aprobado la prueba práctica con un Inspector o Examinador Designado por la AHAC.
+7. El libro de record de horas con el endoso por un instructor autorizado, detalladas de conformidad a RAC-LPTA 170, (c), según aplique.
 8. Recibo de pago por otorgamiento de habilitación.
 
-DOCUMENTOS NECESARIOS PARA RENOVAR LA
-HABILITACION DE VUELOS POR INSTRUMENTOS
+DOCUMENTOS NECESARIOS PARA RENOVAR LA HABILITACION DE VUELOS POR INSTRUMENTOS
 
 1. Llenar la Forma PEL-FORM-008, especificando la licencia a renovar.
 2. Licencia Piloto Privado o Comercial Vigente, según aplique.
-3. Recibo de pago por renovación de certificado de validez, ya que dicha habilitación
-será renovada con la licencia de piloto.
-4. Libro de record de horas de vuelo totalizado, debe haber cumplido con los requisitos
-de experiencia reciente establecidos en RAC LPTA 170, (e), según aplique.
+3. Recibo de pago por renovación de certificado de validez, ya que dicha habilitación será renovada con la licencia de piloto.
+4. Libro de record de horas de vuelo totalizado, debe haber cumplido con los requisitos de experiencia reciente establecidos en RAC LPTA 170, (e), según aplique.
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deberá presentar el original y la copia de todos los
-documentos solicitados. Los originales serán de vueltos al solicitante una vez constatados
-por el responsable de licencias. Las formas PEL -FORM-006 Y PEL -FORM-008 puede
-solicitarlas en la AHAC o en la página Web: www.ahac.gob.hn.
+Presentada la información el solicitante deberá presentar el original y la copia de todos los documentos solicitados. Los originales serán de vueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL -FORM-006 Y PEL -FORM-008 puede solicitarlas en la AHAC o en la página Web: www.ahac.gob.hn.
 
 ## Otro texto del documento
 

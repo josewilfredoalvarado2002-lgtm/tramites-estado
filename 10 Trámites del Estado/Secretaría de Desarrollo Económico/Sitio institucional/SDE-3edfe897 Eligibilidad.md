@@ -40,10 +40,8 @@ estado_sitio: "Vigente"
 
 Requisitos Certificado de Elegibilidad:
 
-1. Presentar el Certificado de Elegibilidad debidamente llenado sin borrones,
-alteraciones o enmiendas.
-2. Adjuntar nota de la Embajada Americana que describa la cantidad autorizada para
-exportar.
+1. Presentar el Certificado de Elegibilidad debidamente llenado sin borrones, alteraciones o enmiendas.
+2. Adjuntar nota de la Embajada Americana que describa la cantidad autorizada para exportar.
 
 ## Otro texto del documento
 

@@ -45,24 +45,19 @@ Autorizacion de Excepcion de Ejecucion de gasto para: ? Anticipos de Fondos Rota
 
 1. Remitir mediante oficio a la Contaduría la documentación soporte que respalda la carga de los F01 SIP
 2.Impresión del F01 en estado elaborado.
-3. impresión de la Reversión del documento cuando se trate de documentos convertidos que se deben sustituir por
-problemas en las cuentas de los beneficiarios.
+3. impresión de la Reversión del documento cuando se trate de documentos convertidos que se deben sustituir por problemas en las cuentas de los beneficiarios.
 4. Copia del dictamen de la DEI cuando se trate de devolución de impuestos.
 5. la documentación establecida en el procedimiento cuando se trate de devolución de garantías.
-6. Documento soporte del Codigo de Trabajo o legalidad que aplique sobre prestamo a empleados o anticipos de
-sueldos.
+6. Documento soporte del Codigo de Trabajo o legalidad que aplique sobre prestamo a empleados o anticipos de sueldos.
 
 ## Requisitos (según el documento oficial) — Requisitos — Autorización de Excepciones de Ejecución del Gasto
 
 file:///D|/nuevoSitio/Produccion/procedimientos/Requisito4.txt[27/02/2019 04:03:10 p.m.]
 La Gerencia involucrada de la Institución del Sector Público debe realizar lo siguiente:
 A) Elaborar en el SIAFI el F-01 SIP dejarlo en estado ELABORADO.
-B) Enviar oficio dirigido al Contador General de la República con la explicación del asunto adjuntando los documentos
-de respaldo correspondientes:
+B) Enviar oficio dirigido al Contador General de la República con la explicación del asunto adjuntando los documentos de respaldo correspondientes:
 1. Impresión del (los) documentos(F01-SIP)
-2. El Documento respaldo por el que se esta realizando la transacción. 3. Una vez cargada y aprobada la autorización la
-CGR debe notificar a la Gerencia para que esta proceda a verificar y aprobar los documentos en el tiempo establesido
-según los procedimientos normales de SIAFI.
+2. El Documento respaldo por el que se esta realizando la transacción. 3. Una vez cargada y aprobada la autorización la CGR debe notificar a la Gerencia para que esta proceda a verificar y aprobar los documentos en el tiempo establesido según los procedimientos normales de SIAFI.
 
 ## Tasa_derechos
 

@@ -39,10 +39,7 @@ estado_sitio: "Vigente"
 ## Para qué se hace (según el documento)
 
 DESCRIPCIÓN DEL TRÁMITE
-Consiste en solicitar la rectificación del monto de las cuotas de Pagos a Cuenta o Anticipos
-del Impuesto Sobre la Renta y Aportación Solidaria, en situaciones en las que existen motivos
-evidenciados que sustentan una disminución razonable en los ingresos o utilidad del período
-impositivo.
+Consiste en solicitar la rectificación del monto de las cuotas de Pagos a Cuenta o Anticipos del Impuesto Sobre la Renta y Aportación Solidaria, en situaciones en las que existen motivos evidenciados que sustentan una disminución razonable en los ingresos o utilidad del período impositivo.
 
 ## Requisitos (según el documento oficial)
 
@@ -62,30 +59,23 @@ Cuenta
 a) Recibo Oficial de Pago con el Código de Impuesto 156 y Código de Concepto de Pago
 1 por valor de L 200.00 (mes y año de ingreso de la solicitud).
 
-c) Si la petición es por medio de Apoderado o Representante Legal, debe adjuntar la
-respectiva acreditación de poder autenticado. En caso de presentar copia del instrumento
-el mismo deberá ser cotejado con el original.
+c) Si la petición es por medio de Apoderado o Representante Legal, debe adjuntar la respectiva acreditación de poder autenticado. En caso de presentar copia del instrumento el mismo deberá ser cotejado con el original.
 
 DOCUMENTOS REQUERIDOS
 
 - Si es persona jurídica o comerciante individual:
 
-o Estados Financieros del período impositivo al mes inmediato anterior al mes que
-presente la solicitud y proyectado al 31 de diciembre o de acuerdo a la fecha que
-cierra su período fiscal (firmados, timbrados y sellados por un contador
-colegiado);
+o Estados Financieros del período impositivo al mes inmediato anterior al mes que presente la solicitud y proyectado al 31 de diciembre o de acuerdo a la fecha que cierra su período fiscal (firmados, timbrados y sellados por un contador colegiado);
 
 o Balanza de Comprobación con saldos mensuales
 
 2
 
 o Conciliación Contable de sus Estados Financieros tanto de los Estados
-Financieros cerrados al mes inmediatamente anterior al mes que presenta su
-solicitud, así como los Estados Financieros Proyectados.
+Financieros cerrados al mes inmediatamente anterior al mes que presenta su solicitud, así como los Estados Financieros Proyectados.
 
 - Si es Persona Natural (profesional independiente o con ingresos mixtos) presentar
-Constancias de Retención y Recibos por honorarios extendidas a la fecha y/o
-Comprobantes de Retención y Constancia Laboral.
+Constancias de Retención y Recibos por honorarios extendidas a la fecha y/o Comprobantes de Retención y Constancia Laboral.
 
 ## Base legal (según el documento)
 
@@ -109,8 +99,7 @@ SEÑOR (A)
 MINISTRO (A) DIRECTOR (A)
 SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)
 
-YO: ______________________________________________, HONDUREÑO, MAYOR DE EDAD,
-CON NÚMERO DE IDENTIDAD _____________________ PROFESIÓN U OFICIO
+YO: ______________________________________________, HONDUREÑO, MAYOR DE EDAD, CON NÚMERO DE IDENTIDAD _____________________ PROFESIÓN U OFICIO
 _____________________, DEL DOMICILIO DE _____________________ , CON R.T.N. Nº
 ___________________; DIRECCIÓN COMPLETA
 ______________________________________________________________________ TELÉFONO
@@ -118,17 +107,13 @@ No: _________________ TELÉFONO MÓVIL No _________________ CORREO ELECTRÓNICO
 ___________________________, COMPAREZCO ANTE USTED SEÑOR(A) MINISTRO (A)
 DIRECTOR (A), ACTUANDO EN MI CONDICIÓN DE ______________________ (SI ES
 PERSONA JURÍDICA ESPECIFICAR EL NOMBRE DE LA EMPRESA
-________________________________ Y EL RTN ________________________), PARA
-SOLICITAR “RECTIFICACIÓN DE PAGOS A CUENTA”, DEL PERÍODO
-_____________________, AL MONTO DE _____________________________ POR LAS
-RAZONES Y HECHOS SIGUIENTES:
+________________________________ Y EL RTN ________________________), PARA SOLICITAR “RECTIFICACIÓN DE PAGOS A CUENTA”, DEL PERÍODO
+_____________________, AL MONTO DE _____________________________ POR LAS RAZONES Y HECHOS SIGUIENTES:
 __________________________________________________________________________________
 __________________________________________________________________________________
 ______________________________________________
 
-AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL
-PRESENTE ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y
-RESOLVER DE CONFORMIDAD:
+AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL PRESENTE ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y RESOLVER DE CONFORMIDAD:
 
 LUGAR Y FECHA: ___________________________________________________________
 
@@ -139,8 +124,7 @@ NOMBRE Y FIRMA
 ## Otro texto del documento
 
 TRÁMITES DE RECAUDACIÓN
-RECTIFICACIÓN DE PAGOS A
-CUENTA O ANTICIPOS
+RECTIFICACIÓN DE PAGOS A CUENTA O ANTICIPOS
 
 1
 

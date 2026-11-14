@@ -38,47 +38,31 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-DOCUMENTOS NECESARIOS PARA OTORGAR LICENCIA DE
-TECNICO DE MANTENIMIENTO DE AERONAVES (TMA) TIPO II.
+DOCUMENTOS NECESARIOS PARA OTORGAR LICENCIA DE TECNICO DE MANTENIMIENTO DE AERONAVES (TMA) TIPO II.
 
 1. Llenar la Forma PEL-FORM-007.
 2. Edad de 18 años.
 3. Copia de Tarjeta de identidad.
 4. Haber aprobado la educación secundaria.
-5. Estar en posesión de Licencia de Ayudante de Técnico de Mantenimiento de
-Aeronaves.
-6. Certificado de Calificaciones, diploma aprobado de curso teórico práctico de
-Mantenimiento aprobado por la AHAC o la documentación requerida para sustentar
-los requisitos de conocimiento requeridos por la RAC LPTA, si aplica.
-7. Demostrar experiencia previa de acuerdo a lo requerido por la RAC LPTA 240, La
-experiencia podrá ser comprobada únicamente cuando demuestre que dicha
-experiencia fue en posesión de una Licencia de Ayudante de Técnico de
-Mantenimiento de Aeronaves. prestando servicios en un organismo de
-mantenimiento aprobado.
+5. Estar en posesión de Licencia de Ayudante de Técnico de Mantenimiento de Aeronaves.
+6. Certificado de Calificaciones, diploma aprobado de curso teórico práctico de Mantenimiento aprobado por la AHAC o la documentación requerida para sustentar los requisitos de conocimiento requeridos por la RAC LPTA, si aplica.
+7. Demostrar experiencia previa de acuerdo a lo requerido por la RAC LPTA 240, La experiencia podrá ser comprobada únicamente cuando demuestre que dicha experiencia fue en posesión de una Licencia de Ayudante de Técnico de Mantenimiento de Aeronaves. prestando servicios en un organismo de mantenimiento aprobado.
 8. Certificación Médica clase 3, vigente.
 9. Constancia de haber aprobado la prueba teórica en los doce meses precedentes.
-10. Haber aprobado la prueba oral-práctica tres meses precedentes por un inspector de
-la AHAC.
+10. Haber aprobado la prueba oral-práctica tres meses precedentes por un inspector de la AHAC.
 11. Dos fotografías tamaño carne.
-12. Recibo de pago por otorgamiento de la Licencia de Técnico de Mantenimiento de
-Aeronaves (TMA) Tipo II.
+12. Recibo de pago por otorgamiento de la Licencia de Técnico de Mantenimiento de Aeronaves (TMA) Tipo II.
 
-DOCUMENTOS NECESARIOS PARA RENOVACION LICENCIA DE
-TECNICO DE MANTENIMIENTO DE AERONAVES (TMA) TIPO II.
+DOCUMENTOS NECESARIOS PARA RENOVACION LICENCIA DE TECNICO DE MANTENIMIENTO DE AERONAVES (TMA) TIPO II.
 
 1. Llenar la Forma PEL-FORM-008.
 2. El solicitante deberá demostrar experiencia reciente en los últimos 12 meses.
-3. Recibo de pago por renovación de Licencia de Técnico de Mantenimiento de
-Aeronaves (TMA) Tipo II.
-4. Certificación de la empresa donde presta sus servicios en la que se haga constar
-en que fechas ha laborado el solicitante.
+3. Recibo de pago por renovación de Licencia de Técnico de Mantenimiento de Aeronaves (TMA) Tipo II.
+4. Certificación de la empresa donde presta sus servicios en la que se haga constar en que fechas ha laborado el solicitante.
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deb erá presentar el original y la copia de
-todos los documentos solicitados. Los orig inales serán devueltos al solicitante una
-vez constatados por el responsable de licencias. Las formas PEL -FORM-007 Y
-PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
+Presentada la información el solicitante deb erá presentar el original y la copia de todos los documentos solicitados. Los orig inales serán devueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL -FORM-007 Y PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
 
 ## Otro texto del documento
 

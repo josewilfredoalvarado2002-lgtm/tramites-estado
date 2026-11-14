@@ -45,18 +45,14 @@ TARIFA ESPECIAL
 
 ITEM REQUISITO NS
 1.
-Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de
-Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo,
-teléfono celular y correo electrónico.
+Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono celular y correo electrónico.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública (debidamente autenticada).
 3.
 Declaración Jurada de No estar Comprendido, en lo preceptuado según el Artículo 92 inciso del
-e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente
-autenticada).
+e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente autenticada).
 4. Acreditar pago del aviso de Trámite según Resolución Normativa de Tasas y Canon Vigente.
 5.
-Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el
-Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de 10
+Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de 10
 (diez) días hábiles desde su emisión.
 6. Presentar Constancia de que está Solvente Documentalmente ante CONATEL, emitida por la Dirección de Planificación y Desarrollo.
 NS Nueva Solicitud

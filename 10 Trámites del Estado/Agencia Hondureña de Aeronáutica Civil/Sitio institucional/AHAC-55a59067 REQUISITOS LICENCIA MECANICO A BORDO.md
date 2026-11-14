@@ -45,35 +45,26 @@ LICENCIA DE MECÁNICO DE ABORDO
 2. Edad 18 años.
 3. copia de Tarjeta de identidad.
 4. Constancia de haber aprobado la educación a nivel diversificado.
-5. Certificado o diploma aprobado de curso teórico de Ingeniero de Vuelo aprobado
-por la AHAC.
+5. Certificado o diploma aprobado de curso teórico de Ingeniero de Vuelo aprobado por la AHAC.
 6. Debe haber aprobado la prueba teórica en los últimos 12 meses precedentes.
-7. Debe haber aprobado la prueba práctica con un Inspector o Examinador Designado
-por la AHAC.
-8. El libro de record de horas con el endoso requerido por el instructor autorizado y con
-el mínimo de horas, experiencia requerida y detallado de conformidad a RAC LPTA
+7. Debe haber aprobado la prueba práctica con un Inspector o Examinador Designado por la AHAC.
+8. El libro de record de horas con el endoso requerido por el instructor autorizado y con el mínimo de horas, experiencia requerida y detallado de conformidad a RAC LPTA
 220, (b).
 9. Dos fotografías tamaño carne.
 10. Certificación médica clase 2. Vigente.
 11. Recibo de pago por otorgamiento de licencia de ingeniero de vuelo.
 
-DOCUMENTOS NECESARIOS PARA RENOVACIÓN DE
-LICENCIA DE MECÁNICO ABORDO
+DOCUMENTOS NECESARIOS PARA RENOVACIÓN DE LICENCIA DE MECÁNICO ABORDO
 
 1. Llenar Forma PEL-FORM-008.
 2. Certificación médica clase 2 vigente.
 3. Recibo de pago por renovación de licencia de Ingeniero de vuelo.
-4. Constancia de ultimo recurrente o prueba de proeficiencia si la persona labora para
-una Empresa de Transporte Aéreo Comercial Hondureña.
-5. Libro de record de vuelo totalizado y debe haber cumplido con los requisitos de
-experiencia reciente establecidos en RAC-LPTA, 220, (f).
+4. Constancia de ultimo recurrente o prueba de proeficiencia si la persona labora para una Empresa de Transporte Aéreo Comercial Hondureña.
+5. Libro de record de vuelo totalizado y debe haber cumplido con los requisitos de experiencia reciente establecidos en RAC-LPTA, 220, (f).
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deberá presentar el original y la copia de
-todos los documentos solicitados. Los originales serán devueltos al solicitante una
-vez constatados por el responsable de licencias. Las formas PEL-FORM-007 Y
-PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
+Presentada la información el solicitante deberá presentar el original y la copia de todos los documentos solicitados. Los originales serán devueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL-FORM-007 Y PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
 
 ## Otro texto del documento
 

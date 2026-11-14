@@ -286,7 +286,7 @@ Porcentaje de participación*:
 
 En caso de ser necesario, copie y pegue aquí los campos que deben ser duplicados
 
-Fundo la presente solicitud en el Artículo 80 de la Constitución de la República de Honduras y el Articulo 3 y Artículo 5 de la Ley General de la Industria Eléctrica. Lugar , Haga clic para desplegar el calendario .
+Fundo la presente solicitud en el Artículo 80 de la Constitución de la República de Honduras y el Articulo 3 y Artículo 5 de la Ley General de la Industria Eléctrica. Lugar, Haga clic para desplegar el calendario .
 
 Nombre completo y firma del representante legal
 
@@ -594,7 +594,7 @@ En caso de ser necesario, copie y pegue aquí los campos que deben ser duplicado
 
 ANEXO III
 DECLARACIÓN JURADA
-Yo _____________________ , mayor de edad, estado civil , profesión y con Documento Nacional de Identificación (carné de residente o pasaporte) número _____________ , con domicilio en la ciudad de ______________ , departamento de ______________ , actuando en mi condición de representante legal de la sociedad mercantil ___________________________ , condición y facultades que acredito mediante el instrumento público número ______ de fecha ___________ , inscrito bajo número __________ del Registro Mercantil de ______________________ ; declaro bajo juramento que: la información suministrada en el Formulario de Inscripción para Empresa Generadora en el Registro Público de Empresas del Sector Eléctrico, así como la información incorporada en los anexos y documentos presentados es exacta, veraz y completa.
+Yo _____________________ , mayor de edad, estado civil, profesión y con Documento Nacional de Identificación (carné de residente o pasaporte) número _____________ , con domicilio en la ciudad de ______________ , departamento de ______________ , actuando en mi condición de representante legal de la sociedad mercantil ___________________________ , condición y facultades que acredito mediante el instrumento público número ______ de fecha ___________ , inscrito bajo número __________ del Registro Mercantil de ______________________ ; declaro bajo juramento que: la información suministrada en el Formulario de Inscripción para Empresa Generadora en el Registro Público de Empresas del Sector Eléctrico, así como la información incorporada en los anexos y documentos presentados es exacta, veraz y completa.
 
 Consciente de los efectos y responsabilidades legales que conlleva, firmo la presente declaración jurada en __________________ a los _________ días del mes de _________ de _______ .
 

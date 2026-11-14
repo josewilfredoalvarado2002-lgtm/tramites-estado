@@ -40,16 +40,13 @@ estado_sitio: "Vigente"
 
 Permiso Especial
 De Exportador de Hidrocarburos
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
-Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
-agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
 2025).
 Artículo No. 15
 1
 Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
 Administrativo.
-Declarar el número de expediente donde se otorgó o se encuentra en trámite la Inscripción bajo la Figura de
-Exportador de Hidrocarburos.
+Declarar el número de expediente donde se otorgó o se encuentra en trámite la Inscripción bajo la Figura de Exportador de Hidrocarburos.
 2 Poder del representante legal.
 3 Documento Nacional de Identificación del representante legal.
 4 Poder del apoderado legal.
@@ -62,8 +59,7 @@ Exportador de Hidrocarburos.
 11 Presentar toda la documentación de forma digital, previo al ingreso en físico debe presentarse mediante el correo electrónico ventanillaunica@sen.hn;
 12
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en CONCEPTO DE INSPECCIÓN para el Permiso Especial de
-Exportación de Hidrocarburos del Establecimiento de la siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en CONCEPTO DE INSPECCIÓN para el Permiso Especial de Exportación de Hidrocarburos del Establecimiento de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12199 – Tasas Varias.
 
@@ -75,16 +71,14 @@ Islas de la Bahía y la Mosquitia L 32,000.00
 El resto del País L 22,000.00
 13
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en concepto de para el PERMISO ESPECIAL de Exportación de
-Hidrocarburos del Establecimiento de la Sociedad de la siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en concepto de para el PERMISO ESPECIAL de Exportación de Hidrocarburos del Establecimiento de la Sociedad de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12209 – Otras Licencias.
 
 Monto: L 30,000.00
 14
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la
-Sociedad de la siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la Sociedad de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
 
@@ -92,9 +86,7 @@ Monto: L 200.00
 15 Cualquier otro requisito solicitado por la Secretaría de Estado en el Despacho de Energía (SEN);
 
 En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas
-(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una de
-las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello estampado
-del notario.
+(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello estampado del notario.
 
 ## Documentos
 

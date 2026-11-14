@@ -38,37 +38,26 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS NOTIFICACIÓN DE BAJA DE
-OBLIGACIÓN EN MATERIA DE PRECIOS DE
+REQUISITOS NOTIFICACIÓN DE BAJA DE OBLIGACIÓN EN MATERIA DE PRECIOS DE
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
-La notificación está orientada para los Obligados Tributarios que, al finalizar su período fiscal,
-con una obligación pendiente en su Oficina Virtual, realicen un análisis de vinculación con sus
-partes relacionadas e identifiquen los siguientes hechos, según su categoría:
-•Grandes y Medianos Contribuyentes: Durante el periodo fiscal cerrado, no tienen partes
-relacionadas o no realizaron ninguna operación comercial con ellas.
-•Pequeños Contribuyentes: El monto con sus partes relacionadas no superó el millón de dólares
-americanos ($1,000,000.00).
-•Grandes, Medianos y Pequeños Contribuyentes: Durante el periodo fiscal cerrado, se
-encontraron acogidos a un Régimen Especial.
-Estos trámites pueden realizarlos en línea desde la Oficina Virtual o, si lo prefiere, de manera
-presencial en nuestras oficinas regionales y departamentales.
-A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y presencial
-según el tipo de notificación.
+La notificación está orientada para los Obligados Tributarios que, al finalizar su período fiscal, con una obligación pendiente en su Oficina Virtual, realicen un análisis de vinculación con sus partes relacionadas e identifiquen los siguientes hechos, según su categoría:
+•Grandes y Medianos Contribuyentes: Durante el periodo fiscal cerrado, no tienen partes relacionadas o no realizaron ninguna operación comercial con ellas.
+•Pequeños Contribuyentes: El monto con sus partes relacionadas no superó el millón de dólares americanos ($1,000,000.00).
+•Grandes, Medianos y Pequeños Contribuyentes: Durante el periodo fiscal cerrado, se encontraron acogidos a un Régimen Especial.
+Estos trámites pueden realizarlos en línea desde la Oficina Virtual o, si lo prefiere, de manera presencial en nuestras oficinas regionales y departamentales.
+A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y presencial según el tipo de notificación.
 
 REQUISITOS NOTIFICACIÓN DE BAJA DE OBLIGACIÓN EN MATERIA DE PRECIOS DE
 
-1. Escrito de Notificación que contenga los requisitos establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo, si lo ingresa mediante Oficina Virtual debe ser en Formato PDF.
+1. Escrito de Notificación que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo, si lo ingresa mediante Oficina Virtual debe ser en Formato PDF.
 Debe contener el período fiscal desde el cual notifica la baja de obligación.
 2. Justificante boletín de pago libre por Actos Administrativos (L. 200.00).
 
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las
-siguientes facultades:
+Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
+(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firmar.
 

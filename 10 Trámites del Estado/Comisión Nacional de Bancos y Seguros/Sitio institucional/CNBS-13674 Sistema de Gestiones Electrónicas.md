@@ -41,13 +41,9 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-12. Luego le aparecerá un mensaje que le indica que la solicitud ya está siendo
-procesada por la autoridad certificadora de la CNBS.
+12. Luego le aparecerá un mensaje que le indica que la solicitud ya está siendo procesada por la autoridad certificadora de la CNBS.
 
-13. Le mostrara a continuación la pantalla indicándole que el certificado ya fue
-emitido por la autoridad certificadora de la CNBS, pero no se ha instalado
-en la computadora, para realizar esa acción, hacer clic en “Instalar este
-certificado”.
+13. Le mostrara a continuación la pantalla indicándole que el certificado ya fue emitido por la autoridad certificadora de la CNBS, pero no se ha instalado en la computadora, para realizar esa acción, hacer clic en “Instalar este certificado”.
 
 14. En este momento el proceso ha concluido satisfactoriamente.
 
@@ -56,13 +52,11 @@ certificado”.
 Consideraciones:
 
 - Debe verificar que siempre este ejecutándose el “cnbsCAHttpListener” desde el inicio
-del proceso, así como se indica en este manual, de lo contrario se le pueden
-presentar los mensajes siguientes:
+del proceso, así como se indica en este manual, de lo contrario se le pueden presentar los mensajes siguientes:
 
 Verificar instalación de certificado
 
-1. Poner en la búsqueda de Windows “mmc” (Microsoft Management Console),
-hacer clic en programa.
+1. Poner en la búsqueda de Windows “mmc” (Microsoft Management Console), hacer clic en programa.
 
 2. En el menú de “Archivo” escoger “Agregar o quitar complemento”.
 
@@ -72,21 +66,13 @@ hacer clic en programa.
 
 5. Al regresar a la pantalla anterior, hacer clic en “Aceptar”.
 
-6. En la sección izquierda de la ventana, hacer clic en “Certificados: usuario
-actual/Personal/Certificados” y busque en la sección siguiente el certificado,
-hacer doble clic en el mismo.
+6. En la sección izquierda de la ventana, hacer clic en “Certificados: usuario actual/Personal/Certificados” y busque en la sección siguiente el certificado, hacer doble clic en el mismo.
 
-7. Le presentara una nueva pantalla con la descripción del certificado, la viñeta
-general, le describe los propósitos de ese certificado, el dueño, y su rango
-de tiempo de validez.
+7. Le presentara una nueva pantalla con la descripción del certificado, la viñeta general, le describe los propósitos de ese certificado, el dueño, y su rango de tiempo de validez.
 
-8. En la viñeta “Detalles”, le presenta varios datos como el número de serie,
-el emisor, la fecha de inicio y hora, fecha fenal, etc, en este ejemplo se
-muestra el detalle del sujeto a quien se le emitió.
+8. En la viñeta “Detalles”, le presenta varios datos como el número de serie, el emisor, la fecha de inicio y hora, fecha fenal, etc, en este ejemplo se muestra el detalle del sujeto a quien se le emitió.
 
-9. En la viñeta “Ruta de certificación”, podrá ver toda la cadena de certificación
-administrada por IFE-CNBS (Infraestructura de Firma Electrónica de la
-Comisión Nacional de Bancos y Seguros).
+9. En la viñeta “Ruta de certificación”, podrá ver toda la cadena de certificación administrada por IFE-CNBS (Infraestructura de Firma Electrónica de la Comisión Nacional de Bancos y Seguros).
 
 ## Requisitos (según el documento oficial) — 00-Guia-para-uso-de-firma-digital-WEB-de-la-CNBS-V02.pdf
 
@@ -94,8 +80,7 @@ Comisión Nacional de Bancos y Seguros).
 
 6. Marcar con el puntero de la pantalla el área donde colocara la firma
 
-7. Después de un tiempo le aparecerá su firma como una etiqueta o sello en área marcada
-del documento
+7. Después de un tiempo le aparecerá su firma como una etiqueta o sello en área marcada del documento
 
 8. Al hacer clic en el botón “GUARDAR” le creara una copia en la carpeta de descargas
 
@@ -103,13 +88,9 @@ del documento
 
 Pasos para la generación de certificados
 
-Previamente habiéndose registrado en el portal del S. G. E., tanto los
-administradores de interconexión como las personas a las que se les va a
-generar un certificado, e instalados los certificados de confianza, hacer lo
-siguiente:
+Previamente habiéndose registrado en el portal del S. G. E., tanto los administradores de interconexión como las personas a las que se les va a generar un certificado, e instalados los certificados de confianza, hacer lo siguiente:
 
-1. Digitar en el Explorador https://cert.cnbs.gob.hn/ , luego le aparecerá
-una pantalla así:
+1. Digitar en el Explorador https://cert.cnbs.gob.hn/ , luego le aparecerá una pantalla así:
 
 Aquí deberá colocar el correo electrónico del administrador de interconexión
 (previamente registrado en el S.G.E.):
@@ -122,44 +103,33 @@ En su buzón de correo le aparecerá un correo como este:
 
 Copiar y pegar o digitar el código, clic en “Enviar”.
 
-4. Le aparece una pantalla donde le solicita ejecutar el “cnbsCAHttpListener”,
-hacer clic en “cnbsCAHttpListener”.
+4. Le aparece una pantalla donde le solicita ejecutar el “cnbsCAHttpListener”, hacer clic en “cnbsCAHttpListener”.
 
 5. En esta pantalla le solicita descargar o ejecutar el programa:
 
-a. Si es la primera vez que utiliza este sitio, debe descargar el programa,
-haciendo clic en “Run” y luego ejecutar el archivo “setup.exe”.
+a. Si es la primera vez que utiliza este sitio, debe descargar el programa, haciendo clic en “Run” y luego ejecutar el archivo “setup.exe”.
 
-b. Si no es la primera vez y ya lo descargo anteriormente, solo debe hacer
-clic en “launch”.
+b. Si no es la primera vez y ya lo descargo anteriormente, solo debe hacer clic en “launch”.
 
-Esta acción levantara una ventana en la que no se tiene participación, solo
-es de visualización.
+Esta acción levantara una ventana en la que no se tiene participación, solo es de visualización.
 
 6. Volver a la pestaña inicial y hacer clic en “Inicio”.
 
-7. Le aparece una nueva pantalla, solicitándole el correo electrónico del
-usuario al que se le va a generar el certificado (previamente registrado en
-el S.G.E.) luego hacer clic en “Validar correo electrónico”.
+7. Le aparece una nueva pantalla, solicitándole el correo electrónico del usuario al que se le va a generar el certificado (previamente registrado en el S.G.E.) luego hacer clic en “Validar correo electrónico”.
 
-8. Le aparece un mensaje que le informa que en ese momento está buscando
-la información.
+8. Le aparece un mensaje que le informa que en ese momento está buscando la información.
 
 Luego le presentara la información así:
 
-Simultáneamente se verán los pasos que se van ejecutando en la ventana
-del programa.
+Simultáneamente se verán los pasos que se van ejecutando en la ventana del programa.
 
-9. Le solicitara una confirmación del usuario al que se le está generando el
-certificado, debe digitar la misma clave con que se registró en el S.G.E así:
+9. Le solicitara una confirmación del usuario al que se le está generando el certificado, debe digitar la misma clave con que se registró en el S.G.E así:
 
-10. La clave que se tiene que digitar es la del usuario al que se la va a generar
-el certificado y debe ser la misma con que se registró en el S.G.E.
+10. La clave que se tiene que digitar es la del usuario al que se la va a generar el certificado y debe ser la misma con que se registró en el S.G.E.
 
 11. Luego le solicitara el proveedor de servicio de encriptación.
 
-En este caso escogemos “Microsoft Software Key Storage Provider” o
-“Microsoft Enhanced Cryptographic Provider v1.0”.
+En este caso escogemos “Microsoft Software Key Storage Provider” o “Microsoft Enhanced Cryptographic Provider v1.0”.
 
 Seguimos viendo los pasos en la ventana del programa:
 
@@ -171,13 +141,11 @@ IMPORTANTE
 Indispensable tener internet
 Solamente se puede firmar en computadoras que pertenecen al dominio COMISION
 
-1. Abrir el documento a firmar en Acrobat Reader, seleccionar Herramientas y dar clic
-en Certificados
+1. Abrir el documento a firmar en Acrobat Reader, seleccionar Herramientas y dar clic en Certificados
 
 2. En la siguiente pantalla dar clic en la opción Firmar digitalmente
 
-3. En el mensaje mostrado a continuación favor de marcar el recuadro No volver a
-mostrar este mensaje y luego dar clic en aceptar.
+3. En el mensaje mostrado a continuación favor de marcar el recuadro No volver a mostrar este mensaje y luego dar clic en aceptar.
 
 1
 2
@@ -185,30 +153,22 @@ mostrar este mensaje y luego dar clic en aceptar.
 4
 5
 
-4. A continuación, dentro del documento con el mouse hacer un cuadro en el cual
-aparecerá una pantalla mostrando el certificado que lo identifica como firmante y
-dar clic en Aceptar
+4. A continuación, dentro del documento con el mouse hacer un cuadro en el cual aparecerá una pantalla mostrando el certificado que lo identifica como firmante y dar clic en Aceptar
 
 6
-5. La siguiente pantalla muestra la información de hora y fecha que se está firmando,
-en campo “Aspecto” seleccionar “Firma-cnbs”. Dar clic en Firmar
+5. La siguiente pantalla muestra la información de hora y fecha que se está firmando, en campo “Aspecto” seleccionar “Firma-cnbs”. Dar clic en Firmar
 
-6. Especificar dirección donde se guardará el documento ya firmado, especificar
-nombre y dar clic en Guardar
+6. Especificar dirección donde se guardará el documento ya firmado, especificar nombre y dar clic en Guardar
 
-7. En la imagen siguiente favor marcar el cuadro Recordar esta acción para este sitio
-en todos los documentos PDF y dar clic en Permitir
+7. En la imagen siguiente favor marcar el cuadro Recordar esta acción para este sitio en todos los documentos PDF y dar clic en Permitir
 
 6
 7
 8
 9
-8. En este momento el documento ha sido firmado y deberá aparecer similar a la
-siguiente imagen
+8. En este momento el documento ha sido firmado y deberá aparecer similar a la siguiente imagen
 
-9. Para verificar si la firma es válida dar clic en la firma y seguido se desplegará una
-imagen con la información del estado de la firma. Si la firma es válida dar clic en
-Cerrar
+9. Para verificar si la firma es válida dar clic en la firma y seguido se desplegará una imagen con la información del estado de la firma. Si la firma es válida dar clic en Cerrar
 
 10
 11
@@ -273,8 +233,7 @@ Ingresar Ahora
 
 ## Otro texto del documento
 
-GUIA DE USUARIO PARA
-FIRMA DE DOCUMENTOS
+GUIA DE USUARIO PARA FIRMA DE DOCUMENTOS
 Acrobat Reader
 Comisión Nacional de Bancos y Seguros
 10/06/2020
@@ -294,12 +253,9 @@ FIRMA DIGITAL DE DOCUMENTOS
 1
 2
 3
-3. Una vez seleccionada la opción de Firmas, desplegará la siguiente imagen en la cual
-se procederá a configurar cada opción. Seleccionar la primera opción Creación y
-aspecto > Más…
+3. Una vez seleccionada la opción de Firmas, desplegará la siguiente imagen en la cual se procederá a configurar cada opción. Seleccionar la primera opción Creación y aspecto > Más…
 
-4. Una vez seleccionado, desplegará la siguiente imagen y proceder a cambiar las
-opciones como se muestra, dar clic en Nuevo
+4. Una vez seleccionado, desplegará la siguiente imagen y proceder a cambiar las opciones como se muestra, dar clic en Nuevo
 
 4
 5
@@ -311,14 +267,11 @@ opciones como se muestra, dar clic en Nuevo
 6
 7. Seleccionar la segunda opción Verificación > Más…
 
-8. La siguiente imagen desplegará la información que deberá cambiarse y dar clic en
-Aceptar
+8. La siguiente imagen desplegará la información que deberá cambiarse y dar clic en Aceptar
 
 7
 8
-9. Seleccionar tercer opción Identidades y certificados de confianza > Más… y verificar
-que aparezca la información del certificado del usuario, así como se muestra a
-continuación
+9. Seleccionar tercer opción Identidades y certificados de confianza > Más… y verificar que aparezca la información del certificado del usuario, así como se muestra a continuación
 
 9
 
@@ -328,14 +281,12 @@ continuación
 
 10
 11
-12. Llenar la siguiente pantalla con la información que se muestra a continuación y dar
-clic en Aceptar
+12. Llenar la siguiente pantalla con la información que se muestra a continuación y dar clic en Aceptar
 
 Nombre: TSS-CNBS
 Dirección URL del servidor: http://tss.cnbs.gob.hn/TSS/HttpTspServer
 
-13. Deberá aparecer el nombre del servidor y el URL agregados, tal como se muestra,
-dar clic en la opción Establecer predeterminado
+13. Deberá aparecer el nombre del servidor y el URL agregados, tal como se muestra, dar clic en la opción Establecer predeterminado
 
 12
 13
@@ -366,8 +317,7 @@ Luego de Hacer clic en https://esign.cnbs.gob.hn/ :
 
 4. Hacer clic en “Seleccionar el archivo” para cargar el archivo que quiere firmar
 
-Nota: considerar que solo se pueden cargar archivos PDF, igualmente su tamaño no pude ser
-mayor de 50 MB.
+Nota: considerar que solo se pueden cargar archivos PDF, igualmente su tamaño no pude ser mayor de 50 MB.
 
 ## Documentos
 

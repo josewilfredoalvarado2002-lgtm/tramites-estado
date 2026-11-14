@@ -40,16 +40,13 @@ estado_sitio: "Vigente"
 
 Permiso de Instalación
 Exportador de Hidrocarburos
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
-Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
-agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
 2025).
 Artículo No. 7
 
 Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
 Administrativo.
-Solicitud de Inscripción bajo la figura de Exportador de Hidrocarburos se otorgó bajo resolución número xxxx o se
-encuentra en trámite bajo el expediente número xxxx.
+Solicitud de Inscripción bajo la figura de Exportador de Hidrocarburos se otorgó bajo resolución número xxxx o se encuentra en trámite bajo el expediente número xxxx.
 
 ## Costo (según el documento)
 
@@ -59,16 +56,14 @@ Islas de la Bahía y la Mosquitia L 32,000.00
 El resto del País L 22,000.00
 16
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en concepto de Permiso de Instalación del Establecimiento
-bajo la Figura de Exportador de Hidrocarburos de la siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en concepto de Permiso de Instalación del Establecimiento bajo la Figura de Exportador de Hidrocarburos de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12209 – Otras Licencias.
 
 Monto: L 10,000.00
 17
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la
-siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
 
@@ -77,17 +72,12 @@ Monto: L 200.00
 19 Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden de este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada requisito.
 
 En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas
-(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una
-de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello
-estampado del notario.
+(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello estampado del notario.
 Artículo No. 11B
 Requisitos Adicionales para Gas Natural Licuado (GNL)
-Para efectos de este artículo debe presentar declaración jurada firmada por el representante legal sobre el
-cumplimiento de los requisitos establecidos y documento oficial de cumplimiento a normas; este queda sujeto a la
-comprobación a través de una inspección de campo:
+Para efectos de este artículo debe presentar declaración jurada firmada por el representante legal sobre el cumplimiento de los requisitos establecidos y documento oficial de cumplimiento a normas; este queda sujeto a la comprobación a través de una inspección de campo:
 
-Los tanques y/o isotanques de GNL que se utilicen para el transporte y/o en instalaciones de GNL deben cumplir
-con las normas internacionales vigentes ISO, UNE, ASTM, API, ASME, ANSI, NFPA, OIML, DOT o ADR (European
+Los tanques y/o isotanques de GNL que se utilicen para el transporte y/o en instalaciones de GNL deben cumplir con las normas internacionales vigentes ISO, UNE, ASTM, API, ASME, ANSI, NFPA, OIML, DOT o ADR (European
 Agreement concerning the International Carriage of Dangerous Goods by Road) según corresponda”.
 
 ## Notas (según el documento)
@@ -100,17 +90,13 @@ Los Permiso de Instalación deben solicitarse individualmente por cada estableci
 6 Dirección exacta del establecimiento principal con croquis y georreferenciación (Universal Transverse Mercator UTM o latitud y longitud).
 7 Escritura, contrato o documento que acredite la propiedad, arrendamiento o subarrendamiento donde se realizará la instalación.
 8
-Licencia Operativa del proyecto a instalar otorgada por Mi Ambiente, acompañando el respectivo contrato de
-cumplimiento de medidas de mitigación o de control ambiental para el desarrollo del proyecto suscrito por el
-solicitante y Mi Ambiente.
+Licencia Operativa del proyecto a instalar otorgada por Mi Ambiente, acompañando el respectivo contrato de cumplimiento de medidas de mitigación o de control ambiental para el desarrollo del proyecto suscrito por el solicitante y Mi Ambiente.
 9
 Sistema de transporte estacionario;
 Adjuntar copia de la norma internacional de fabricación e instalación que se utilizará;
 Capacidad de transporte;
 Tipos de hidrocarburos para lo cual se instala el sistema de transporte estacionario.
-En caso de no instalar sistema de transporte estacionario, presentar declaración jurada firmada por el
-representante legal del solicitante, declarando bajo juramento la justificación o razones técnicas por la cuales el
-proyecto a instalar no cuenta con sistema de Transporte Estacionario.
+En caso de no instalar sistema de transporte estacionario, presentar declaración jurada firmada por el representante legal del solicitante, declarando bajo juramento la justificación o razones técnicas por la cuales el proyecto a instalar no cuenta con sistema de Transporte Estacionario.
 10 Permiso de construcción vigente emitido por la municipalidad donde se realizará la instalación.
 11 Constancia de cumplimiento con el plan maestro y las ordenanzas municipales, emitido por la municipalidad donde se realizará la instalación.
 12 Fecha proyectada del inicio de la construcción.
@@ -120,8 +106,7 @@ proyecto a instalar no cuenta con sistema de Transporte Estacionario.
 
 15
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019.
-Presentar Recibo TGR con su comprobante de pago en CONCEPTO DE INSPECCIÓN para el Permiso de Instalación
-del Establecimiento bajo la Figura de Exportador de Hidrocarburos de la siguiente forma:
+Presentar Recibo TGR con su comprobante de pago en CONCEPTO DE INSPECCIÓN para el Permiso de Instalación del Establecimiento bajo la Figura de Exportador de Hidrocarburos de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12199 – Tasas Varias.
 

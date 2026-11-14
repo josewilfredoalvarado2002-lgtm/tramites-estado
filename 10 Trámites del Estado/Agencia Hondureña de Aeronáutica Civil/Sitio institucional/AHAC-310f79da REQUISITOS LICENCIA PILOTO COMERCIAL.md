@@ -39,50 +39,37 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 DOCUMENTOS NECESARIOS PARA OTORGAMIENTO DE LICENCIA
-COMERCIAL AVIÓN, HELICÓPTERO, DIRIGIBLE Y AERONAVES DE
-DESPEGUE VERTICAL:
+COMERCIAL AVIÓN, HELICÓPTERO, DIRIGIBLE Y AERONAVES DE DESPEGUE VERTICAL:
 
 1. Llenar la Forma PEL-FORM-006.
 2. Edad mínima 18 años.
-3. Poseer licencia de piloto privado vigente Avión, Helicóptero, Dirigible o Aeronaves
-de Despegue Vertical según aplique.
+3. Poseer licencia de piloto privado vigente Avión, Helicóptero, Dirigible o Aeronaves de Despegue Vertical según aplique.
 4. Copia de tarjeta de identidad.
 5. Constancia de haber aprobado la educación media.
-6. Constancia aprobado de cursos teóricos y practico aprobados por la AHAC para
-piloto comercial.
+6. Constancia aprobado de cursos teóricos y practico aprobados por la AHAC para piloto comercial.
 7. Debe haber aprobado la prueba teórica en los últimos 06 meses precedentes.
-8. Debe haber aprobado la prueba práctica con un Inspector o Examinador Designado
-por la AHAC.
-9. El libro de record de horas con el endoso por un instructor autorizado si aplica, con
-el mínimo de horas requerido y detallado de conformidad a RAC-LPTA 155, (c), (d),
+8. Debe haber aprobado la prueba práctica con un Inspector o Examinador Designado por la AHAC.
+9. El libro de record de horas con el endoso por un instructor autorizado si aplica, con el mínimo de horas requerido y detallado de conformidad a RAC-LPTA 155, (c), (d),
 (e) y (f), según aplique.
 10. Dos fotografías tamaño cédula.
 11. Certificado médico clase 1, vigente.
-12. Debe presentar la Certificación de Evaluación de la AHAC con el nivel de
-competencia lingüística.
+12. Debe presentar la Certificación de Evaluación de la AHAC con el nivel de competencia lingüística.
 13. Recibo de pago por otorgamiento de licencia comercial.
 
 DOCUMENTOS NECESARIOS PARA RENOVACIÓN LICENCIAS
-COMERCIAL AVIÓN, HELICÓPTERO, DIRIGIBLE Y AERONAVES DE
-DESPEGUE VERTICAL:
+COMERCIAL AVIÓN, HELICÓPTERO, DIRIGIBLE Y AERONAVES DE DESPEGUE VERTICAL:
 
 1. Llenar la Forma PEL-FORM-008.
 2. Certificación Médica clase 1, vigente.
 3. Recibo de pago por renovación.
-4. Constancia de ultimo recurrente o prueba de proeficiencia si la persona labora para
-una Empresa de Transporte Aéreo Comercial Hondureño.
+4. Constancia de ultimo recurrente o prueba de proeficiencia si la persona labora para una Empresa de Transporte Aéreo Comercial Hondureño.
 5. Cuando la persona NO labore dentro de una Empresa de Transporte Aéreo
-Comercial Hondureño solo deberá de cumplir con los requisitos de experiencia
-reciente y verificaciones de competencia respectivas, enlistadas en el numeral 6.
-6. Libro de record de horas de vuelo totalizado, debe haber cumplido con los requisitos
-de experiencia reciente establecidos en RAC LPTA 155 (g), según aplique.
+Comercial Hondureño solo deberá de cumplir con los requisitos de experiencia reciente y verificaciones de competencia respectivas, enlistadas en el numeral 6.
+6. Libro de record de horas de vuelo totalizado, debe haber cumplido con los requisitos de experiencia reciente establecidos en RAC LPTA 155 (g), según aplique.
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deberá presentar el original y la copia de todos los
-documentos solicitados. Los originales serán de vueltos al solicitante una vez constatados
-por el responsable de licencias. Las formas PEL -FORM-006 Y PEL -FORM-008 puede
-solicitarlas en la AHAC o en la página Web: www.ahac.gob.hn.
+Presentada la información el solicitante deberá presentar el original y la copia de todos los documentos solicitados. Los originales serán de vueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL -FORM-006 Y PEL -FORM-008 puede solicitarlas en la AHAC o en la página Web: www.ahac.gob.hn.
 
 ## Otro texto del documento
 

@@ -39,8 +39,7 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 REQUISITOS SOLICITUD DE AUTORIZACIÓN
-DE DEDUCCIÓN DEL 25% DE ISR POR
-REINVERSIÓN DE ACTIVOS
+DE DEDUCCIÓN DEL 25% DE ISR POR REINVERSIÓN DE ACTIVOS
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
@@ -49,31 +48,18 @@ REQUISITOS SOLICITUD DE AUTORIZACIÓN DE DEDUCCIÓN DEL 25%
 DE ISR POR REINVERSIÓN DE ACTIVOS
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial,
-debidamente autenticado
-Estados financieros originales firmados, sellados
-y timbrados (Formato PDF)
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Estados financieros originales firmados, sellados y timbrados (Formato PDF)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
 Estados financieros (EXCEL) Listado de los activos Adquiridos
-Detallado (descripción, valor en lempiras,
-número de serie, número de factura)
+Detallado (descripción, valor en lempiras, número de serie, número de factura)
 (EXCEL)
-Contratos Relacionados Reconciliación de la Renta Neta Gravable
-del período que comprende la petición
-formato
-Balanza de comprobación del período que
-comprende la petición (EXCEL)
-Escritura de Constitución y sus
-modificaciones
+Contratos Relacionados Reconciliación de la Renta Neta Gravable del período que comprende la petición formato
+Balanza de comprobación del período que comprende la petición (EXCEL)
+Escritura de Constitución y sus modificaciones
 Mayor de propiedad planta y equipo (EXCEL)
-Registro contable y documentación soporte de
-las compras de los activos solicitados en la
-petición
+Registro contable y documentación soporte de las compras de los activos solicitados en la petición
 Comprobante de boletín de pago L200.00
 (Impuesto: 156 - Actos administrativos, concepto:
 1 Propio Computo)

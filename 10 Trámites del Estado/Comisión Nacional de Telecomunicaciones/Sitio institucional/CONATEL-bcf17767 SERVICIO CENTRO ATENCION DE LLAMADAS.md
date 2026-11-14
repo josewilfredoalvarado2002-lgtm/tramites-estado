@@ -52,38 +52,24 @@ CENTRO DE ATENCIÓN DE LLAMADAS (CALL CENTER)
 
 ITEM REQUISITO NS RN MT AM
 1.
-Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de
-La Ley de Procedimiento Administrativo, que deberá contener: domicilio, datos
-generales, teléfono fijo, teléfono celular y correo electrónico.
+Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono celular y correo electrónico.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante.
 3. Carta Poder debidamente autenticada, o Poder en Escritura Pública (debidamente autenticada).
 4.
 Declaración Jurada de No estar Comprendido, en lo preceptuado según el Artículo
-92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de
-Telecomunicaciones (debidamente autenticada).
+92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente autenticada).
 5. RTN y documentos de Identidad del Operador (persona natural o jurídica).
 6. Declaración de comerciante individual o escritura de constitución de sociedad debidamente registrada (autenticada o cotejada).
 7. Forma 100, debe ser llenada y completada con la información del solicitante, y de su apoderado legal, siendo necesario que venga firmada y sellada por este último.
 8.
-Forma 101 debe ser llenada, firmada, sellada y timbrada por un profesional de la
-ingeniería, habilitado en el ejercicio de su profesión afín a la especialidad en
-telecomunicaciones que se encuentre debidamente colegiado en el CIMEQH.
+Forma 101 debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería, habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se encuentre debidamente colegiado en el CIMEQH.
 9.
-Forma 880 debe ser llenada, firmada, sellada y timbrada por un profesional de la
-ingeniería, habilitado en el ejercicio de su profesión afín a la especialidad en
-telecomunicaciones que se encuentre debidamente colegiado en el CIMEQH.
+Forma 880 debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería, habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se encuentre debidamente colegiado en el CIMEQH.
 10.
-Diagrama de enrutamiento de las comunicaciones, debe ser elaborado, firmado y
-sellado por un profesional de la ingeniería, habilitado en el ejercicio de su
-profesión, con experiencia comprobada en la especialidad en telecomunicaciones,
-que se encuentre debidamente colegiado en el CIMEQH. (observar el modelo de
-diagrama que va adjunto a la Forma Técnica 880)
+Diagrama de enrutamiento de las comunicaciones, debe ser elaborado, firmado y sellado por un profesional de la ingeniería, habilitado en el ejercicio de su profesión, con experiencia comprobada en la especialidad en telecomunicaciones, que se encuentre debidamente colegiado en el CIMEQH. (observar el modelo de diagrama que va adjunto a la Forma Técnica 880)
 11. Presentar Constancia de Solvencia Documentaría ante CONATEL, emitida por la Dirección de Planificación y Desarrollo.
 12.
-Presentar Constancia de Solvencia Económica ante CONATEL, emitida por el
-Departamento de Administración de Créditos y Cobranzas, esto únicamente aplica
-a los operadores que han contado con un registro y que ahora se adecuarán al
-nuevo régimen de Inscripción.
+Presentar Constancia de Solvencia Económica ante CONATEL, emitida por el Departamento de Administración de Créditos y Cobranzas, esto únicamente aplica a los operadores que han contado con un registro y que ahora se adecuarán al nuevo régimen de Inscripción.
 NS Nueva Solicitud
 RN Renovación
 MT Modificación Técnica

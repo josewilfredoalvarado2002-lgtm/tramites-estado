@@ -46,8 +46,7 @@ PRÓRROGA PARA INICIO DE OPERACIONES
 ITEM REQUISITO NS
 1.
 Solicitud por medio de Apoderado Legal en base a los Art. 56, 60 y 61 de la Ley de Procedimiento
-Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono celular y correo
-electrónico.
+Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono celular y correo electrónico.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
 3. Acreditar pago del aviso de Trámite según Resolución Normativa de Tasas y Canon Vigente.
 4. Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el Departamento de Créditos y Cobranzas, cuya vigencia aceptada será de diez (10) días hábiles desde su emisión.

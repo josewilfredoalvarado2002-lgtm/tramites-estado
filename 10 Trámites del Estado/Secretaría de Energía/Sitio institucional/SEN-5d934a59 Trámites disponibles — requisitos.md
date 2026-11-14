@@ -51,77 +51,39 @@ Con el propósito de dar cumplimiento, Clausula Segunda de dicho acuerdo que est
 
 COMUNICADO
 
-Con fundamento en el Acuerdo No. SEN 132-2023 publicado el 10 de enero de 2024 en
-el diario oficial La Gaceta, No. 36,430, por este medio se les hace un llamado a las
-empresas suplidoras de equipos y sistemas de energía solar fotovoltaica y solar térmica
-para que se presenten ante la Secretaría de Estado en el Despacho de Energía (SEN) a
-realizar las siguientes gestiones:
+Con fundamento en el Acuerdo No. SEN 132-2023 publicado el 10 de enero de 2024 en el diario oficial La Gaceta, No. 36,430, por este medio se les hace un llamado a las empresas suplidoras de equipos y sistemas de energía solar fotovoltaica y solar térmica para que se presenten ante la Secretaría de Estado en el Despacho de Energía (SEN) a realizar las siguientes gestiones:
 
-1. Para el cumplimiento del artículo 6, Clausula Primera, Inscripción de renovación
-e inspecciones de las empresas suplidoras de equipos y sistemas de
-energía solar fotovoltaica y solar térmica, que establece: “Todas aquellas
-empresas que cuenten con su debido registro y para el cual, haya transcurrido
-tres (3) años o más, contados a partir de la fecha de emisión de la certificación,
-deben presentar la respectiva solicitud de renovación de inscripción ante la SEN,
-cumpliendo con los artículos 2 y 3 del acuerdo SEN 132-2023”, en los que se
-detalla los documentos completos a presentar por la empresa solicitante a ser
-inscritas como empresa suplidora de equipos y sistemas de energía solar térmica
-y solar fotovoltaica, e, información que debe contener la memoria técnica.
+1. Para el cumplimiento del artículo 6, Clausula Primera, Inscripción de renovación e inspecciones de las empresas suplidoras de equipos y sistemas de energía solar fotovoltaica y solar térmica, que establece: “Todas aquellas empresas que cuenten con su debido registro y para el cual, haya transcurrido tres (3) años o más, contados a partir de la fecha de emisión de la certificación, deben presentar la respectiva solicitud de renovación de inscripción ante la SEN, cumpliendo con los artículos 2 y 3 del acuerdo SEN 132-2023”, en los que se detalla los documentos completos a presentar por la empresa solicitante a ser inscritas como empresa suplidora de equipos y sistemas de energía solar térmica y solar fotovoltaica, e, información que debe contener la memoria técnica.
 
-Se les insta atentamente a enviar la solicitud de renovación de inscripción, si
-corresponde, a más tardar el 15 de marzo del año en curso.
+Se les insta atentamente a enviar la solicitud de renovación de inscripción, si corresponde, a más tardar el 15 de marzo del año en curso.
 
-2. Con el propósito de dar cumplimiento, Clausula Segunda de dicho acuerdo que
-establece: Remisión de datos estadísticos por parte de las empresas
-suplidoras de equipos y sistemas de energía solar fotovoltaica y solar
-térmica. Las empresas inscritas como suplidoras de equipos y sistemas de
-energía solar fotovoltaica y solar térmica deberán remitir a la SEN los datos de
-sistemas solares fotovoltaicos (aislados o conectados a la red), o, solares térmicos
-instalados en los sectores, vivienda, industria y comercio, para lo cual deberán
-incluir datos históricos, y, posteriormente de forma anual el 15 de enero de cada
-año y a partir del presente acuerdo, a la Secretaria en el Despacho de Energía
+2. Con el propósito de dar cumplimiento, Clausula Segunda de dicho acuerdo que establece: Remisión de datos estadísticos por parte de las empresas suplidoras de equipos y sistemas de energía solar fotovoltaica y solar térmica. Las empresas inscritas como suplidoras de equipos y sistemas de energía solar fotovoltaica y solar térmica deberán remitir a la SEN los datos de sistemas solares fotovoltaicos (aislados o conectados a la red), o, solares térmicos instalados en los sectores, vivienda, industria y comercio, para lo cual deberán incluir datos históricos, y, posteriormente de forma anual el 15 de enero de cada año y a partir del presente acuerdo, a la Secretaria en el Despacho de Energía
 (SEN), a través de la Dirección General de Energía Renovable y Eficiencia
 Energética (DGEREE) la siguiente información:
 
-e Para sistemas solares fotovoltaicos (aislados o conectados a la red), potencia
-instalada; watt kW, MW, en caso de contar con almacenamiento, detallar la
-capacidad instalada en wh, kWh o MWh.
+e Para sistemas solares fotovoltaicos (aislados o conectados a la red), potencia instalada; watt kW, MW, en caso de contar con almacenamiento, detallar la capacidad instalada en wh, kWh o MWh.
 
-+ Punto georreferenciado en coordenadas UTM WGS84 del lugar donde se
-instaló. En caso de no contar con este dato, se deberá incluir la dirección
-exacta de la instalación.
++ Punto georreferenciado en coordenadas UTM WGS84 del lugar donde se instaló. En caso de no contar con este dato, se deberá incluir la dirección exacta de la instalación.
 
 Especificar si se encuentra conectado a la red o si es aislado.
 
 Fecha de instalación ya sea sistema solar fotovoltaico o solar térmico.
-Estimación de generación de energía anual wh, kWh, MWh para sistemas
-solares fotovoltaicos.
+Estimación de generación de energía anual wh, kWh, MWh para sistemas solares fotovoltaicos.
 
 Metros cuadrados del área de captación solar para sistemas solares térmicos.
 
-En aras de fortalecer la planificación estratégica que en materia de acceso a
-electricidad que conduce esta secretaría, y en el caso particular de los sistemas
-solares fotovoltaicos instalados en zonas rurales o remotas, a partir de la
-publicación del presente, se deberá remitir a la Secretaría en el Despacho de
-Energía la siguiente información:
+En aras de fortalecer la planificación estratégica que en materia de acceso a electricidad que conduce esta secretaría, y en el caso particular de los sistemas solares fotovoltaicos instalados en zonas rurales o remotas, a partir de la publicación del presente, se deberá remitir a la Secretaría en el Despacho de Energía la siguiente información:
 
-Potencia instalada; kW, en caso de contar con almacenamiento, detallar la
-capacidad instalada kWh o Ah.
+Potencia instalada; kW, en caso de contar con almacenamiento, detallar la capacidad instalada kWh o Ah.
 
-Punto georreferenciado en coordenadas UTM WGS84 del lugar donde se
-instalará el sistema solar.
+Punto georreferenciado en coordenadas UTM WGS84 del lugar donde se instalará el sistema solar.
 
-Si se cuenta con estos datos históricos de sistemas solares fotovoltaicos aislados
-instalados en áreas remotas, las empresas suplidoras de sistemas de energía
-solar fotovoltaica y solar térmica, deben remitir esta información a la Secretaría de
-Energía a través de la Dirección General de Energía Renovable y Eficiencia
+Si se cuenta con estos datos históricos de sistemas solares fotovoltaicos aislados instalados en áreas remotas, las empresas suplidoras de sistemas de energía solar fotovoltaica y solar térmica, deben remitir esta información a la Secretaría de Energía a través de la Dirección General de Energía Renovable y Eficiencia
 Energética.
 
-Se les insta atentamente a enviar datos actualizados en el marco de la anterior
-clausula, a más tardar el 30 de marzo del año en curso.
+Se les insta atentamente a enviar datos actualizados en el marco de la anterior clausula, a más tardar el 30 de marzo del año en curso.
 
-Se adjunta copia de acuerdo No. SEN-132-2023 para mayor conocimiento del
-alcance de este y seguimiento de las disposiciones que contiene.
+Se adjunta copia de acuerdo No. SEN-132-2023 para mayor conocimiento del alcance de este y seguimiento de las disposiciones que contiene.
 
 Dado en la ciudad de Tegucigalpa.attos-21 días del mes de enero de 2024
 

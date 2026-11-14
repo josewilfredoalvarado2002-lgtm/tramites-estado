@@ -38,30 +38,23 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS PARA INSCRIPCIÓN DE EMPRESA SUPLIDORA DE MATERIALES Y
-EQUIPOS DE ENERGIA SOLAR (SOLAR FOTOVOLTAICO COMO SOLAR
+REQUISITOS PARA INSCRIPCIÓN DE EMPRESA SUPLIDORA DE MATERIALES Y EQUIPOS DE ENERGIA SOLAR (SOLAR FOTOVOLTAICO COMO SOLAR
 TÉRMICO)
 
-1. Escrito de solicitud de inscripción dirigida al señor secretario de Estado en los
-Despachos de la Secretaría de Energía.
-2. Carta Poder Autenticada y otra Autentica para los demás documentos,
-Datos Generales
+1. Escrito de solicitud de inscripción dirigida al señor secretario de Estado en los Despachos de la Secretaría de Energía.
+2. Carta Poder Autenticada y otra Autentica para los demás documentos, Datos Generales
 Nombre de la empresa suplidora
 Ubicación (Dirección Aldea, Municipio, Departamento)
-Apoderado Legal (Nombre, dirección, teléfono, correo electrónico, copia de
-identidad, copia de carnet de colegiado vigente)
-Representante Legal o propietario(s) (Nombre, dirección, teléfono, correo
-electrónico, copia de Identidad)
+Apoderado Legal (Nombre, dirección, teléfono, correo electrónico, copia de identidad, copia de carnet de colegiado vigente)
+Representante Legal o propietario(s) (Nombre, dirección, teléfono, correo electrónico, copia de Identidad)
 3. Copia de Escritura de Constitución de Sociedad.
 4. Memoria Técnica de la empresa (Ver formato de memoria técnica a presentar)
 5. Estados financieros (aprobado por un perito colegiado).
 6. Constancia de Registro por la Cámara de Comercio e Industria (de la zona).
 7. Permiso de operación del negocio.
-8. Recibo TGR para la emisión de Certificación de Registro de Empresa según el
-Acuerdo Ministerial No. 002-2019.
+8. Recibo TGR para la emisión de Certificación de Registro de Empresa según el Acuerdo Ministerial No. 002-2019.
 9. Copia de RTN Numérico de la empresa.
-10. Declaración Jurada que la información contenida en la memoria técnica es
-verdadera y verificable en todo su contenido.
+10. Declaración Jurada que la información contenida en la memoria técnica es verdadera y verificable en todo su contenido.
 
 ## Documentos
 

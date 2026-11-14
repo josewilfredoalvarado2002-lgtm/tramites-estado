@@ -41,8 +41,7 @@ estado_sitio: "Vigente"
 Requisitos para Certificado de Origen SGP:
 
 1. Compra del Certificado en la ANDI, valor US$.3.00.
-2. Llenado del Formulario a máquina sin borrones, alteraciones o
-enmiendas.
+2. Llenado del Formulario a máquina sin borrones, alteraciones o enmiendas.
 3. Adjuntar fotocopia de factura comercial.
 
 ## Otro texto del documento

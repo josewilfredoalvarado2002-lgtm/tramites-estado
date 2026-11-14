@@ -38,44 +38,26 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS NOTIFICACIÓN DE BAJA DE
-OBLIGACIONES POR CIERRE TEMPORAL DE
-OPERACIONES
+REQUISITOS NOTIFICACIÓN DE BAJA DE OBLIGACIONES POR CIERRE TEMPORAL DE OPERACIONES
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
-La notificación está orientada para los Obligados Tributarios que debido a diferentes
-factores económicos o sociales cierran temporalmente su negocio y necesitan que se
-realice la suspensión de las Obligaciones tributarias, para que durante este periodo de
-tiempo no se generen omisiones y sanciones.
-Este trámite puede realizarlo en línea desde la Oficina Virtual o, si lo prefiere, de manera
-presencial en nuestras oficinas regionales y departamentales.
-A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y
-presencial según el tipo de notificación.
+La notificación está orientada para los Obligados Tributarios que debido a diferentes factores económicos o sociales cierran temporalmente su negocio y necesitan que se realice la suspensión de las Obligaciones tributarias, para que durante este periodo de tiempo no se generen omisiones y sanciones.
+Este trámite puede realizarlo en línea desde la Oficina Virtual o, si lo prefiere, de manera presencial en nuestras oficinas regionales y departamentales.
+A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y presencial según el tipo de notificación.
 
 REQUISITOS NOTIFICACIÓN DE BAJA DE OBLIGACIÓN POR CIERRE TEMPORAL
 DE OPERACIONES
-1. Escrito de Notificación que contenga los requisitos establecidos en el Artículo 61
-de la Ley de Procedimiento Administrativo, si lo ingresa mediante Oficina Virtual
-debe ser en Formato PDF. La solicitud de baja temporal debe especificar
-claramente los períodos fiscales comprendidos, los cuales no podrán exceder
-de un (1) período fiscal completo, con cierre al 31 de diciembre del año
-correspondiente.
+1. Escrito de Notificación que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo, si lo ingresa mediante Oficina Virtual debe ser en Formato PDF. La solicitud de baja temporal debe especificar claramente los períodos fiscales comprendidos, los cuales no podrán exceder de un (1) período fiscal completo, con cierre al 31 de diciembre del año correspondiente.
 2. Fotocopia de los últimos 5 documentos fiscales utilizados.
 3. Formulario de Notificación de Documentos Fiscales No Utilizados.
 4. Justificante boletín de pago libre por Actos Administrativos (L. 200.00).
-5. Estados Financieros preliminares a la fecha de cierre debidamente timbrados y
-sellados por un profesional de contaduría pública debidamente inscrito.
+5. Estados Financieros preliminares a la fecha de cierre debidamente timbrados y sellados por un profesional de contaduría pública debidamente inscrito.
 
-Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se
-debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de
-Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros ,
-indicando si posee las siguientes facultades:
+Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firma.
-Nota 2: En caso de reactivar operaciones antes del periodo establecido, debe
-presentarse ante el SAR para abrir nuevamente sus obligaciones tributarias o realizar la
-reactivación desde Oficina Virtual.
+Nota 2: En caso de reactivar operaciones antes del periodo establecido, debe presentarse ante el SAR para abrir nuevamente sus obligaciones tributarias o realizar la reactivación desde Oficina Virtual.
 
 ## Documentos
 

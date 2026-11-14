@@ -45,8 +45,7 @@ Manténgase al tanto de las ultimas actualizaciones.
 
 ## Requisitos (según el documento oficial)
 
-SECRETARÍA DE
-RECURSOS NATURALES
+SECRETARÍA DE RECURSOS NATURALES
 * Y AMBIENTE
 
 Comunicado Oficial
@@ -57,15 +56,11 @@ Requisitos de Renovación de licenciamiento ambiental SLAS 2
 
 2.Copia de Licencia Ambiental.
 
-3.Pago de Inspección Ambiental: si el Proyecto es fuera de Jurisdicción de
-M.D.C., dicho pago deberá realizarse en la cuenta del fondo Rotatorio de la
-DECA, cuenta N. 02-001-000131-0, BANADESA.
+3.Pago de Inspección Ambiental: si el Proyecto es fuera de Jurisdicción de M.D.C., dicho pago deberá realizarse en la cuenta del fondo Rotatorio de la DECA, cuenta N. 02-001-000131-0, BANADESA.
 
-4.Si existe Apoderado Legal, deberán presentarse los documentos que acrediten
-el cambio.
+4.Si existe Apoderado Legal, deberán presentarse los documentos que acrediten el cambio.
 
-5.Constancia de monto de inversión, firmada por el dueño del proyecto o
-contador de la empresa.
+5.Constancia de monto de inversión, firmada por el dueño del proyecto o contador de la empresa.
 
 6.Si existe cambio de Propietario se debera acreditar junto con los documentos
 
@@ -74,8 +69,7 @@ pertinentes que acrediten dicho extremo.
 ## Notas (según el documento)
 
 + La fotocopia deberá ser autenticada o cotejada conforme a su original.
-+ La Solicitud de Renovación deberá ser presentada con 4 meses de antelación al
-vencimiento de la licencia ambiental.
++ La Solicitud de Renovación deberá ser presentada con 4 meses de antelación al vencimiento de la licencia ambiental.
 
 ## Documentos
 

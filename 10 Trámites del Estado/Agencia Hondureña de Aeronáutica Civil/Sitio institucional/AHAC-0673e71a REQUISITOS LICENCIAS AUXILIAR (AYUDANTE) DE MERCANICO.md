@@ -38,32 +38,24 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-DOCUMENTOS NECESARIOS PARA OTORGAR LA LICENCIA DE
-AYUDANTE DE TECNICO DE MANTENIMIENTO DE AERONAVES:
+DOCUMENTOS NECESARIOS PARA OTORGAR LA LICENCIA DE AYUDANTE DE TECNICO DE MANTENIMIENTO DE AERONAVES:
 
 1. Llenar la Forma PEL-FORM-007.
 2. Edad 17 años.
 3. Copia de Fe de Edad o Tarjeta de identidad.
 4. Estudios secundarios completos (Copia Diploma y traer el original para cotejo)
 5. Una fotografía tamaño carné reciente.
-6. Constancia en la que conste que estará laborando en una Empresa de
-Mantenimiento de Aeronaves aprobada.
-7. Recibo de pago por otorgamiento de Licencia de Ayudante de Técnico de
-Mantenimiento de Aeronaves.
+6. Constancia en la que conste que estará laborando en una Empresa de Mantenimiento de Aeronaves aprobada.
+7. Recibo de pago por otorgamiento de Licencia de Ayudante de Técnico de Mantenimiento de Aeronaves.
 
-DOCUMENTOS NECESARIOS PARA RENOVACIÓN DE LICENCIA DE
-AYUDANTE DE TECNICO DE MANTENIMIENTO DE AERONAVES:
+DOCUMENTOS NECESARIOS PARA RENOVACIÓN DE LICENCIA DE AYUDANTE DE TECNICO DE MANTENIMIENTO DE AERONAVES:
 
 1. Llenar Forma PEL-FORM-008.
 2. Una fotografía tamaño carné reciente.
-3. Constancia de que continúa prestando servicios de auxiliar de mecánico en una
-organización de mantenimiento.
-4. Recibo de pago por Renovación de Licencia de Ayudante de Técnico de
-Mantenimiento de Aeronaves.
+3. Constancia de que continúa prestando servicios de auxiliar de mecánico en una organización de mantenimiento.
+4. Recibo de pago por Renovación de Licencia de Ayudante de Técnico de Mantenimiento de Aeronaves.
 
-NOTA: Presentada la información el solicitant e deberá presentar el original y la
-copia de todos los documentos solicitado s. Los originales serán devueltos al
-solicitante una vez constatados por el responsable de licencias. Las formas PEL
+NOTA: Presentada la información el solicitant e deberá presentar el original y la copia de todos los documentos solicitado s. Los originales serán devueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL
 FORM-007 Y PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
 
 ## Otro texto del documento

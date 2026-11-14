@@ -39,44 +39,32 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 DOCUMENTOS NECESARIOS PARA OTORGAMIENTO DE LICENCIA
-PRIVADO AVIÓN, HELICÓPTERO, DIRIGIBLE Y AERONAVES DE
-DESPEGUE VERTICAL:
+PRIVADO AVIÓN, HELICÓPTERO, DIRIGIBLE Y AERONAVES DE DESPEGUE VERTICAL:
 
 1. Llenar la Forma PEL-FORM-006
-2. Edad mínima 17 años, demostrar que cuenta con autorización de los padres o
-tutores, por medio de una carta notarial.
+2. Edad mínima 17 años, demostrar que cuenta con autorización de los padres o tutores, por medio de una carta notarial.
 3. Copia de tarjeta de identidad o Fe de Edad.
 4. Constancia de haber aprobado la educación media.
-5. Certificado de Calificaciones y diploma de haber aprobado los cursos teóricos
-aprobados por la AHAC de piloto privado.
+5. Certificado de Calificaciones y diploma de haber aprobado los cursos teóricos aprobados por la AHAC de piloto privado.
 6. Debe haber aprobado la prueba teórica en los últimos 06 meses precedentes.
 7. Debe haber aprobado la prueba práctica con un Inspector o Examinador Designado.
-8. Libro de record de horas de vuelo, con los endosos correspondientes de un
-Instructor de Vuelo autorizado con el mínimo de horas requerido y detallado de
-conformidad a RAC LPTA 150, (c), (d), (e) y (f), según aplique.
+8. Libro de record de horas de vuelo, con los endosos correspondientes de un Instructor de Vuelo autorizado con el mínimo de horas requerido y detallado de conformidad a RAC LPTA 150, (c), (d), (e) y (f), según aplique.
 9. Dos fotografías tamaño carne.
 10. Certificación médica clase 2 vigente.
-11. Debe presentar la Certificación de Evaluación de la AHAC con el nivel de
-competencia lingüística.
+11. Debe presentar la Certificación de Evaluación de la AHAC con el nivel de competencia lingüística.
 12. Recibo de pago por otorgamiento de licencia privada.
 
 DOCUMENTOS NECESARIOS PARA RENOVACIÓN LICENCIAS
-PRIVADO AVIÓN, HELICÓPTERO, DIRIGIBLE Y AERONAVES DE
-DESPEGUE VERTICAL:
+PRIVADO AVIÓN, HELICÓPTERO, DIRIGIBLE Y AERONAVES DE DESPEGUE VERTICAL:
 
 1. Llenar la Forma PEL-FORM-008.
 2. Certificación Médica clase 2, vigente.
 3. Recibo de pago por renovación
-4. Libro de record de horas de vuelo, totalizado y debe haber cumplido con los
-requisitos de experiencia reciente establecido en RAC-LPTA 150, (g), según
-aplique.
+4. Libro de record de horas de vuelo, totalizado y debe haber cumplido con los requisitos de experiencia reciente establecido en RAC-LPTA 150, (g), según aplique.
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deberá presentar el original y la copia de todos los
-documentos solicitados. Los originales serán de vueltos al solicitante una vez constatados
-por el responsable de licencias. Las formas PEL -FORM-006 Y PEL -FORM-008 puede
-solicitarlas en la AHAC o en la página Web: www.ahac.gob.hn.
+Presentada la información el solicitante deberá presentar el original y la copia de todos los documentos solicitados. Los originales serán de vueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL -FORM-006 Y PEL -FORM-008 puede solicitarlas en la AHAC o en la página Web: www.ahac.gob.hn.
 
 ## Otro texto del documento
 

@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE DEVOLUCIÓN O NOTA DE
-CRÉDITO GANANCIA DE CAPITAL
+REQUISITOS DE DEVOLUCIÓN O NOTA DE CRÉDITO GANANCIA DE CAPITAL
 NETO Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
@@ -47,27 +46,19 @@ REQUISITOS DE DEVOLUCIÓN O NOTA DE CRÉDITO
 GANANCIA DE CAPITAL
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial,
-debidamente autenticado
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
 Escritura Pública de la Venta del Bien. (Formato
 PDF)
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
-Libro Mayor de Propiedad Planta y Equipo al
-cierre de los períodos de la solicitud (Excel)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Libro Mayor de Propiedad Planta y Equipo al cierre de los períodos de la solicitud (Excel)
 Detalle de la Depreciación del bien vendido
 (Excel)
 Detalle de Mejoras comprobadas (Excel)
 Detalle de Gastos de Legalización (Excel)
-Escritura Pública por Cancelación de
-Compraventa (Formato PDF)
+Escritura Pública por Cancelación de Compraventa (Formato PDF)
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
 
 ## Documentos
 

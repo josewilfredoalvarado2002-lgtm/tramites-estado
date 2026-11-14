@@ -39,21 +39,12 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 REQUISITOS
-1. Solicitud dirigida al Registrador Nacional de Cooperativas y firmada por
-persona interesada, describiendo su nombre, número de identidad, correo
-electrónico y número de teléfono y agregando un timbre cooperativo de L10.00
-respectivo en la solicitud.
-2. El costo de la Constancia es de L150.00 y lleva un Timbre Cooperativo de
-L10.00 adjunto, el cual pueden cancelar en el área de caja de las oficinas del
-Consejo Nacional Supervisor de Cooperativas en su oficina principal o en las
-oficinas regionales; o pueden realizar deposito por L170.00(que incluye el
-valor de la constancia y los timbres cooperativos respectivos) en cuenta de
-Banco Cuscatlán No. 11-105-0000276 a nombre de CONSUCOOP.
+1. Solicitud dirigida al Registrador Nacional de Cooperativas y firmada por persona interesada, describiendo su nombre, número de identidad, correo electrónico y número de teléfono y agregando un timbre cooperativo de L10.00 respectivo en la solicitud.
+2. El costo de la Constancia es de L150.00 y lleva un Timbre Cooperativo de L10.00 adjunto, el cual pueden cancelar en el área de caja de las oficinas del Consejo Nacional Supervisor de Cooperativas en su oficina principal o en las oficinas regionales; o pueden realizar deposito por L170.00(que incluye el valor de la constancia y los timbres cooperativos respectivos) en cuenta de Banco Cuscatlán No. 11-105-0000276 a nombre de CONSUCOOP.
 
 OBSERVE ESTOS ASPECTOS:
 
-Relacionar en la misma solicitud si requieren la confirmación de dos o tres nombres de
-cooperativas y sus siglas( si las tiene).
+Relacionar en la misma solicitud si requieren la confirmación de dos o tres nombres de cooperativas y sus siglas( si las tiene).
 
 *Cualquier consulta o duda pueden abocarse al correo electrónico:
 registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp del RNC

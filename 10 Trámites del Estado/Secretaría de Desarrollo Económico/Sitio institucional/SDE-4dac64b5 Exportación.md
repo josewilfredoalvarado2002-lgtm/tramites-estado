@@ -40,8 +40,7 @@ estado_sitio: "Vigente"
 
 Requisitos Constancia de Exportación:
 
-1. Solicitud por escrito del Propietario o Representante Legal de la Empresa. La misma
-debe detallar el año (s) o periodo del cual necesita los datos.
+1. Solicitud por escrito del Propietario o Representante Legal de la Empresa. La misma debe detallar el año (s) o periodo del cual necesita los datos.
 2. Recibo de pago TGR-1 por un monto de Lps.200.00.
 
 ## Otro texto del documento

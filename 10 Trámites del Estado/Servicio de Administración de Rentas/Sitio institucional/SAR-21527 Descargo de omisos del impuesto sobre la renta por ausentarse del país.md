@@ -43,34 +43,23 @@ LA RENTA POR AUSENTARSE DEL PAÍS
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
-REQUISITOS DESCARGO DE OMISOS DEL IMPUESTO SOBRE LA RENTA POR
-AUSENTARSE DEL PAÍS
+REQUISITOS DESCARGO DE OMISOS DEL IMPUESTO SOBRE LA RENTA POR AUSENTARSE DEL PAÍS
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
 Comprobante de boletín de pago L200.00 (Impuesto:
 156 - Actos administrativos, concepto: 1 Propio
 Computo)
-Cualquier otra información que el OT considere
-necesaria para sustentar su petición
-Pasaporte donde conste la salida del país en los
-períodos que solicita el descargo de omisos y su
-retorno (Formato PDF)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Pasaporte donde conste la salida del país en los períodos que solicita el descargo de omisos y su retorno (Formato PDF)
 Boletos de transporte (Aéreo, terrestre, etc.)
 (Formato PDF)
-Documentos fiscales utilizados y dos
-subsiguientes sin utilizar vigentes en los
-períodos que solicita el descargo de omisos
+Documentos fiscales utilizados y dos subsiguientes sin utilizar vigentes en los períodos que solicita el descargo de omisos
 (Formato PDF)
-Comprobante de notificación de documentos
-fiscales (Motivos Art 42 - Acuerdo 481-2017)
+Comprobante de notificación de documentos fiscales (Motivos Art 42 - Acuerdo 481-2017)
 (Formato PDF)
-Contratos de trabajo o carta de aceptación para
-realizar estudios en el extranjero. (Formato PDF)
+Contratos de trabajo o carta de aceptación para realizar estudios en el extranjero. (Formato PDF)
 
 ## Documentos
 

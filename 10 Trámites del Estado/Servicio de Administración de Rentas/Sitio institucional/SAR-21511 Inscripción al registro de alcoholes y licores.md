@@ -44,41 +44,26 @@ DE ALCOHOLES Y LICORES
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
-REQUISITOS DE INSCRIPCIÓN AL REGISTRO DE ALCOHOLES Y
-LICORES
+REQUISITOS DE INSCRIPCIÓN AL REGISTRO DE ALCOHOLES Y LICORES
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los
-requisitos establecidos en el Artículo 61 de la
-Ley de Procedimiento Administrativo
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo
 (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Autorización o dictamen favorable por parte
-de SEFIN (Formato PDF)
-Cualquier otra información que el OT considere
-necesaria para sustentar su petición
+Carta poder o poder especial, debidamente autenticado
+Autorización o dictamen favorable por parte de SEFIN (Formato PDF)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
 Dictamen favorable vigente del Instituto
-Hondureño para la Prevención del
-Alcoholismo y Fármaco Dependencia
+Hondureño para la Prevención del Alcoholismo y Fármaco Dependencia
 (IHADFA) (Formato PDF)
-Permiso de operación extendido por la
-Alcaldía Municipal (Formato PDF)
-Estados financieros del período, que está
-solicitando y el anterior (EXCEL)
-Estados Financieros Firmados, Sellados y
-Timbrados por el contador público o firma
-auditora (Formato PDF)
-Registro Sanitario vigente otorgado por la
-Secretaría de Salud. (Formato PDF)
+Permiso de operación extendido por la Alcaldía Municipal (Formato PDF)
+Estados financieros del período, que está solicitando y el anterior (EXCEL)
+Estados Financieros Firmados, Sellados y Timbrados por el contador público o firma auditora (Formato PDF)
+Registro Sanitario vigente otorgado por la Secretaría de Salud. (Formato PDF)
 Presentar un plano e Inventario de la Planta
 (Formato PDF)
-Describir el espacio que tendrá el delegado
-del SAR, asimismo como el equipo de
-cómputo (Formato PDF)
+Describir el espacio que tendrá el delegado del SAR, asimismo como el equipo de cómputo (Formato PDF)
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
 
 ## Documentos
 

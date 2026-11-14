@@ -39,23 +39,16 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 Requisitos
-1.Solicitud firmada por el Gerente General o Presidente de Junta Directiva y timbre
-cooperativo de L10.00 respectivo.
-2.Balance General y estado de excedentes o pérdidas y ganancias al cierre de cada
-ejercicio social en original, con sus respectivas notas complementarias y dictamen del
-auditor externo, sellados y con timbres cooperativos y del colegio profesional
-correspondiente
-3.Constancia de solvencia de la cooperativa, otorgada por su organismo de integración,
-según acuerdo del Acta No. 378/2025 de Junta Directiva del CONSUCOOP y Articulo
-No. 7, literal h) de la Ley de Cooperativas de Honduras y el Articulo 10, literal m) de su
-Reglamento.
+1.Solicitud firmada por el Gerente General o Presidente de Junta Directiva y timbre cooperativo de L10.00 respectivo.
+2.Balance General y estado de excedentes o pérdidas y ganancias al cierre de cada ejercicio social en original, con sus respectivas notas complementarias y dictamen del auditor externo, sellados y con timbres cooperativos y del colegio profesional correspondiente
+3.Constancia de solvencia de la cooperativa, otorgada por su organismo de integración, según acuerdo del Acta No. 378/2025 de Junta Directiva del CONSUCOOP y Articulo
+No. 7, literal h) de la Ley de Cooperativas de Honduras y el Articulo 10, literal m) de su Reglamento.
 
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
 SOLICITUD PARA PUBLICACIÓN DE ESTADOS FINANCIEROS
-Cualquier consulta o duda pueden abocarse al correo electrónico registro@consucoop.hn; Teléfono 2235-9281
-ext. 105 y mensajes al WhatsApp 31622364.
+Cualquier consulta o duda pueden abocarse al correo electrónico registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp 31622364.
 
 ## Documentos
 

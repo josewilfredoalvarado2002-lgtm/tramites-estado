@@ -38,9 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS CAMBIO DE
-REPRESENTANTE LEGAL Y/O
-RESPONSABLES SUBSIDARIOS
+REQUISITOS CAMBIO DE REPRESENTANTE LEGAL Y/O RESPONSABLES SUBSIDARIOS
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional0
 
@@ -51,26 +49,16 @@ CAMBIO DE REPRESENTANTE LEGAL Y/O RESPONSABLES SUBSIDARIOS
 2. Pasaporte o Carné de Residente vigente del nuevo Representante Legal para extranjeros
 (Original1).
 3. Instrumento que acredita el cambio debidamente inscrito (Original).
-4. Documento Nacional de Identificación, Pasaporte o Carné de Residencia vigente de los
-nuevos administradores de hecho y derecho, integrantes de una administración
-concursal, liquidadores de sociedades y entidades en general, administradores legales o
-judiciales de herencias y titulares de los encargados o administradores de las empresas
-públicas o de capital mixto u otro Responsable Subsidiario de la Administración, los cuales
-deben previamente estar inscrito en el Registro Tributario Nacional (Fotocopia).
+4. Documento Nacional de Identificación, Pasaporte o Carné de Residencia vigente de los nuevos administradores de hecho y derecho, integrantes de una administración concursal, liquidadores de sociedades y entidades en general, administradores legales o judiciales de herencias y titulares de los encargados o administradores de las empresas públicas o de capital mixto u otro Responsable Subsidiario de la Administración, los cuales deben previamente estar inscrito en el Registro Tributario Nacional (Fotocopia).
 
-Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente vigente para extranjeros, indicando si
-posee las siguientes facultades:
+Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
+(DNI) para hondureños, Pasaporte o carné de residente vigente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firmar.
 
-Nota 2: En caso de que la Información registrada en el RTN no se encuentre actualizada, se le
-solicitara los requisitos de Inscripción para subsanar cualquier información pendiente o
-desactualizada.
+Nota 2: En caso de que la Información registrada en el RTN no se encuentre actualizada, se le solicitara los requisitos de Inscripción para subsanar cualquier información pendiente o desactualizada.
 
-1 En caso de delegar a un representante procesal o apoderado legal, se deberá acompañar de copia del Documento de
-Identificación del representante legal.
+1 En caso de delegar a un representante procesal o apoderado legal, se deberá acompañar de copia del Documento de Identificación del representante legal.
 
 ## Documentos
 

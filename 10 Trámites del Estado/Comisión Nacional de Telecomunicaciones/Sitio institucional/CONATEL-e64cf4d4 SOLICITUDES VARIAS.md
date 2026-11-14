@@ -49,29 +49,21 @@ ITEM En el Renglón de Trámites varios se contemplan, entre otros, los siguient
 5 Otros. Licencias Temporales
 ITEM REQUISITO NS RN MD AM
 1.
-Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de La Ley de
-Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo,
-teléfono celular y correo electrónico.
+Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, teléfono celular y correo electrónico.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
 3. Declaración Jurada de No estar Comprendido, en lo preceptuado según el Artículo 92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones
 4. Aviso de Trámite.
 
-Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el
-Departamento de Créditos y Cobranzas, cuya vigencia aceptada será de 10 (diez) días
-hábiles desde su emisión
+Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el Departamento de Créditos y Cobranzas, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión
 6.
-Presentar Constancia de que está Solvente Documentalmente ante CONATEL, emitida por
-la Dirección de Planificación y Desarrollo, cuya vigencia aceptada será de 10 (diez) días
-hábiles desde su emisión, aplica únicamente según el servicio que se pretende resolver.
+Presentar Constancia de que está Solvente Documentalmente ante CONATEL, emitida por la Dirección de Planificación y Desarrollo, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión, aplica únicamente según el servicio que se pretende resolver.
 7. Presentar las formas técnicas correspondientes en los casos que apliquen
-Todas las peticiones presentadas ante CONATEL están sujetas al cobro de la Tasa por Trámite de Solicitudes con Excepción del trámite de las
-solicitudes tendientes a resolver:
-i. Arreglos de Pago ii. Recursos de Reposición
-iii. Impugnaciones y Nulidades iv. Presentación de Escritos por Inicio de Operaciones
+Todas las peticiones presentadas ante CONATEL están sujetas al cobro de la Tasa por Trámite de Solicitudes con Excepción del trámite de las solicitudes tendientes a resolver:
+i. Arreglos de Pago ii. Recursos de Reposición iii. Impugnaciones y Nulidades iv. Presentación de Escritos por Inicio de Operaciones
 v. Reconsideraciones de Cobro vi. Acogerse a los Decretos de Amnistía.
 vii. Adendum a Solicitudes en Trámite siempre y cuando se basen en hechos esencialmente idénticos a la petición inicial
 ITEM REQUISITO PARA CANCELACIONES CPL CTL CP CR
-1. Solicitud por medio de Apoderado Legal en base a los artículos No.56, 60 y 61 de la Ley de Procedimiento Administrativo.
+1. Solicitud por medio de Apoderado Legal en base a los artículos No. 56, 60 y 61 de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
 3.
 Acreditar pago de aviso por:
@@ -85,15 +77,9 @@ REQUISITOS
 *Requisitos y formatos en la página Web de CONATEL:
 
 4.
-Presentar Constancias de que está Solvente Económica y documentalmente emitida por el
-Departamento de Administración de Cartera y Cobranzas y la Dirección de Planificación y
-Desarrollo, respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su
-emisión. Excepto en los casos en los cuales el operador adeuda el canon radioeléctrico del
-año en curso.
+Presentar Constancias de que está Solvente Económica y documentalmente emitida por el Departamento de Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo, respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión. Excepto en los casos en los cuales el operador adeuda el canon radioeléctrico del año en curso.
 
-*Para la cancelación de cualquier sistema es necesario detallar en la Solicitud lo que se
-deseacancelar, especificando ya sea la totalidad del permiso que le fue autorizado o si es
-parcial aclararlo para que siempre le quede subsistente el permiso.
+*Para la cancelación de cualquier sistema es necesario detallar en la Solicitud lo que se deseacancelar, especificando ya sea la totalidad del permiso que le fue autorizado o si es parcial aclararlo para que siempre le quede subsistente el permiso.
 NS Nueva Solicitud
 RN Renovación
 MD Modificación

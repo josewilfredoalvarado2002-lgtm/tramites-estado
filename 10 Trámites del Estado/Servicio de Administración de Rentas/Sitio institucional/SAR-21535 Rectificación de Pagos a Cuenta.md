@@ -40,10 +40,7 @@ estado_sitio: "Vigente"
 
 Descripción del trámite
 
-Consiste en solicitar la rectificación del monto de las cuotas de Pagos a Cuenta o
-Anticipos del Impuesto Sobre la Renta y Aportación Solidaria, en situaciones en las
-que existen motivos debidamente justificados que sustentan una variación razonable
-en los ingresos o utilidad del período fiscal vigente.
+Consiste en solicitar la rectificación del monto de las cuotas de Pagos a Cuenta o Anticipos del Impuesto Sobre la Renta y Aportación Solidaria, en situaciones en las que existen motivos debidamente justificados que sustentan una variación razonable en los ingresos o utilidad del período fiscal vigente.
 
 Este trámite se puede realizar de forma presencial o a través de la Oficina Virtual.
 Para la opción digital, ingrese con su RTN y contraseña, y siga estos pasos:
@@ -52,49 +49,30 @@ Para la opción digital, ingrese con su RTN y contraseña, y siga estos pasos:
 2. Seleccione “Solicitudes de Cuenta Corriente.”
 3. Haga clic “Rectificación de pagos a cuenta”
 4. Complete los campos con la información solicitada a continuación:
-a) En la sección “Datos” detalle brevemente las razones que fundamentan su
-petición. Luego debe elegir la acción que desea solicitar (anular o rectificar)
-Si selecciona la opción “Anular”, debe elegir la cuota o cuotas a anular, en
-caso de seleccionar la opción “Rectificar” debe consignar el monto del
-impuesto causado que proyecta tener durante el periodo fiscal vigente.
+a) En la sección “Datos” detalle brevemente las razones que fundamentan su petición. Luego debe elegir la acción que desea solicitar (anular o rectificar)
+Si selecciona la opción “Anular”, debe elegir la cuota o cuotas a anular, en caso de seleccionar la opción “Rectificar” debe consignar el monto del impuesto causado que proyecta tener durante el periodo fiscal vigente.
 Una vez realizado lo anterior, dar clic en el botón “Calcular”.
-b) En la sección de “Documentación”, adjunte el Escrito de Solicitud en
-formato PDF, cumpliendo con los requisitos del Artículo 61 de la Ley de
-Procedimiento Administrativo. Con el fin de agilizar su solicitud puede
-adjuntar documentos adicionales que complementen la petición.
-c) En la sección “Presentación” debe seleccionar el método de pago, para lo
-que puede elegir un Boletín de pago Libre disponible o bien aportar el
-Boletín de Pago más adelante.
+b) En la sección de “Documentación”, adjunte el Escrito de Solicitud en formato PDF, cumpliendo con los requisitos del Artículo 61 de la Ley de Procedimiento Administrativo. Con el fin de agilizar su solicitud puede adjuntar documentos adicionales que complementen la petición.
+c) En la sección “Presentación” debe seleccionar el método de pago, para lo que puede elegir un Boletín de pago Libre disponible o bien aportar el Boletín de Pago más adelante.
 
-Importante: La recepción de la petición por parte de la Administración Tributaria no da
-inicio al trámite. La solicitud solo comenzará a procesarse una vez validado el pago.
+Importante: La recepción de la petición por parte de la Administración Tributaria no da inicio al trámite. La solicitud solo comenzará a procesarse una vez validado el pago.
 
 ## Requisitos (según el documento oficial)
 
 REQUISITOS
 
 a) Realizar el pago por actos administrativos por el valor de L200.00.
-b) Presente un escrito de solicitud que indique con claridad los hechos y razones
-en los que fundamenta su petición.
-c) Si la petición se realiza por medio de Apoderado o Representante Legal,
-debe adjuntar la respectiva acreditación de poder autenticado. En caso
-de realizar la solicitud de manera presencial adjuntar copia del
-instrumento el mismo deberá ser cotejado con el original.
-d) Presente la documentación legal correspondiente si actúa como persona
-jurídica o comerciante individual según se detalla:
+b) Presente un escrito de solicitud que indique con claridad los hechos y razones en los que fundamenta su petición.
+c) Si la petición se realiza por medio de Apoderado o Representante Legal, debe adjuntar la respectiva acreditación de poder autenticado. En caso de realizar la solicitud de manera presencial adjuntar copia del instrumento el mismo deberá ser cotejado con el original.
+d) Presente la documentación legal correspondiente si actúa como persona jurídica o comerciante individual según se detalla:
 - Estados financieros del período impositivo actualizados al mes inmediato
 anterior y proyectados al 31 de diciembre o al cierre de su período fiscal.
-Los documentos deben estar firmados, timbrados y sellados por un
-contador público colegiado.
+Los documentos deben estar firmados, timbrados y sellados por un contador público colegiado.
 - Balanza de Comprobación con saldos mensuales
 - Conciliación contable de los Estados Financieros cerrados al mes
-inmediatamente anterior a la fecha de presentación de la solicitud, así como
-de los Estados Financieros Proyectados, asegurando la consistencia y
-razonabilidad de la información financiera presentada.
+inmediatamente anterior a la fecha de presentación de la solicitud, así como de los Estados Financieros Proyectados, asegurando la consistencia y razonabilidad de la información financiera presentada.
 - Si actúa como Persona Natural (profesional independiente o con ingresos
-mixtos) presentar constancias de retención, recibos por honorarios
-extendidas a la fecha y/o comprobantes de retención, así como constancia
-laboral.
+mixtos) presentar constancias de retención, recibos por honorarios extendidas a la fecha y/o comprobantes de retención, así como constancia laboral.
 
 ## Base legal (según el documento)
 
@@ -114,35 +92,26 @@ FORMATO: SOLICITUD RECTIFICACIÓN DE PAGOS A CUENTA O ANTICIPOS
 SEÑOR (A)
 MINISTRO (A) DIRECTOR (A)
 SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)
-YO: , HONDUREÑO, MAYOR DE
-EDAD, CON NÚMERO DE IDENTIDAD_________________________PROFESIÓN U
-OFICIO ________________________DEL DOMICILIO DE_____________________, CON
-R.T.N. N.º__________________________________________; DIRECCIÓN
+YO: , HONDUREÑO, MAYOR DE EDAD, CON NÚMERO DE IDENTIDAD_________________________PROFESIÓN U OFICIO ________________________DEL DOMICILIO DE_____________________, CON R.T.N. N.º__________________________________________; DIRECCIÓN
 COMPLETA_________________________________________________________________
 __________________________________________________________________________
 TELÉFONO No: _____________________ TELÉFONO MÓVIL No__________________
-CORREO ELECTRÓNICO____________________,
-COMPAREZCO ANTE USTED SEÑOR(A) MINISTRO (A) DIRECTOR (A), ACTUANDO EN
-MI CONDICIÓN DE: _________________________________________ (SI ES PERSONA
+CORREO ELECTRÓNICO____________________, COMPAREZCO ANTE USTED SEÑOR(A) MINISTRO (A) DIRECTOR (A), ACTUANDO EN MI CONDICIÓN DE: _________________________________________ (SI ES PERSONA
 JURÍDICA ESPECIFICAR EL NOMBRE DE LA EMPRESA
 ____________________________________________Y EL RTN_____________________)
-PARA SOLICITAR “RECTIFICACIÓN DE PAGOS A CUENTA”, DEL PERÍODO___________,
-AL MONTO DE______________________________________
+PARA SOLICITAR “RECTIFICACIÓN DE PAGOS A CUENTA”, DEL PERÍODO___________, AL MONTO DE______________________________________
 POR LAS RAZONES Y HECHOS SIGUIENTES:
 _________________________________________________________________________
 _________________________________________________________________________
 _________________________________________________________________________
-AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL
-PRESENTE ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y
-RESOLVER DE CONFORMIDAD: LUGAR Y FECHA:
+AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL PRESENTE ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y RESOLVER DE CONFORMIDAD: LUGAR Y FECHA:
 
 NOMBRE Y FIRMA
 
 ## Otro texto del documento
 
 TRÁMITES DE RECAUDACIÓN
-RECTIFICACIÓN DE PAGOS A
-CUENTA O ANTICIPOS
+RECTIFICACIÓN DE PAGOS A CUENTA O ANTICIPOS
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Recaudación

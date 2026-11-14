@@ -38,31 +38,17 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-1. La Hoja de Reclamación se presenta conforme al formato adjunto, debiéndose
-llenar original y copia por cada Reclamo, con una descripción sencilla y clara de los
-hechos reclamados. A la misma podrá acompañarse escrito o nota complementaria
-en caso de ser necesario con sus respectivas copias.
+1. La Hoja de Reclamación se presenta conforme al formato adjunto, debiéndose llenar original y copia por cada Reclamo, con una descripción sencilla y clara de los hechos reclamados. A la misma podrá acompañarse escrito o nota complementaria en caso de ser necesario con sus respectivas copias.
 
-2. La Hoja de Reclamación original será para la Institución Supervisada y la copia
-de la misma será para el usuario financiero, ambas debidamente selladas y donde se
-haga constar la fecha de recibo por parte de la Institución Supervisada.
+2. La Hoja de Reclamación original será para la Institución Supervisada y la copia de la misma será para el usuario financiero, ambas debidamente selladas y donde se haga constar la fecha de recibo por parte de la Institución Supervisada.
 
-3. La Institución Supervisada debe consignar el No. de Identificación del Reclamo,
-debiendo indicarse lo siguiente: [cód_entidad] / [cód_sucursal] / [No. correlativo
-de reclamo para la entidad y sucursal]; identificando el código de tipificación del
-reclamo conforme a la Tipología señalada en el Anexo 2 de las presentes Normas.
+3. La Institución Supervisada debe consignar el No. de Identificación del Reclamo, debiendo indicarse lo siguiente: [cód_entidad] / [cód_sucursal] / [No. correlativo de reclamo para la entidad y sucursal]; identificando el código de tipificación del reclamo conforme a la Tipología señalada en el Anexo 2 de las presentes Normas.
 
-4. El Usuario Financiero, en caso de no estar conforme con la respuesta emitida por
-la Institución Supervisada, podrá recurrir a la Comisión Nacional de Bancos y
-Seguros (CNBS), a través de la Gerencia de Protección al Usuario Financiero
-(GPUF), debiendo entregar la copia de la Hoja de Reclamación que le proporcionó
-la Institución Supervisada según lo indicado en el numeral 2 anterior, misma que
-deberá ser sellada por esta Comisión como acuse de recibo. Además, el Usuario
-Financiero, podrá adjuntar el resto de documentación que considere pertinente para
-el trámite de su Reclamo.
+4. El Usuario Financiero, en caso de no estar conforme con la respuesta emitida por la Institución Supervisada, podrá recurrir a la Comisión Nacional de Bancos y Seguros (CNBS), a través de la Gerencia de Protección al Usuario Financiero
+(GPUF), debiendo entregar la copia de la Hoja de Reclamación que le proporcionó la Institución Supervisada según lo indicado en el numeral 2 anterior, misma que deberá ser sellada por esta Comisión como acuse de recibo. Además, el Usuario
+Financiero, podrá adjuntar el resto de documentación que considere pertinente para el trámite de su Reclamo.
 
-5. El Usuario Financiero debe consignar correctamente sus datos personales,
-específicamente su domicilio, teléfono, celular y correo electrónico.
+5. El Usuario Financiero debe consignar correctamente sus datos personales, específicamente su domicilio, teléfono, celular y correo electrónico.
 
 ## ¿Qué es el Sistema de Gestión de Reclamos (SIGER)?
 
@@ -88,7 +74,7 @@ Ver listado
 
 ## Otro texto del documento
 
-ANEXO No.1.- HOJA DE RECLAMACIÓN
+ANEXO No. 1.- HOJA DE RECLAMACIÓN
 (Anverso o primera página)
 
 No. de Identificación del Reclamo: _______/________/________

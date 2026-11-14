@@ -48,23 +48,12 @@ REQUISITOS DE DEVOLUCIÓN O NOTA DE CRÉDITO DE IMPUESTO
 SOBRE LA RENTA (PERSONA ASALARIADA)
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los
-requisitos establecidos en el Artículo 61 de la
-Ley de Procedimiento Administrativo
-Carta poder o poder especial, debidamente
-autenticado
-Constancia original de salario, especificando
-el año, valor de ingresos mensuales y valor
-retenido mensual, período fiscal y
-deducciones.
-Comprobante de la ejecución de gastos F01
-por cada uno de los meses laborados (si el
-retenedor es empresa privada, adjuntar
-documento que indique que no cuenta con
-dicho comprobante)
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo
+Carta poder o poder especial, debidamente autenticado
+Constancia original de salario, especificando el año, valor de ingresos mensuales y valor retenido mensual, período fiscal y deducciones.
+Comprobante de la ejecución de gastos F01 por cada uno de los meses laborados (si el retenedor es empresa privada, adjuntar documento que indique que no cuenta con dicho comprobante)
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
 
 ## Documentos
 

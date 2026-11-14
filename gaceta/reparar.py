@@ -133,6 +133,72 @@ def texto(md, voc=frozenset()):
     return "\n\n".join(p if _es_bloque(p) else linea(p, voc) for p in out)
 
 
+# ---------- texto de documentos de los trámites (renglón por renglón) ----------
+
+_CORTE_FIN = re.compile(rf"\b(?:y|e|o|u|de|del|la|las|el|los|en|a|al|con|por|para|que|su|sus|un|una|se|sin|como)$", re.I)
+_ITEM = re.compile(r"^(?:[-•●▪■–*]\s|\d{1,3}[.)-]\s|[a-zñ][.)]\s|[IVXL]{1,5}[.)]\s|\(\w{1,3}\)\s|\\)")
+_GUION_FIN = re.compile(rf"([{MAY}{MIN}]{{2,}})-$")
+
+
+def documento(md, voc=frozenset()):
+    """Rearma los párrafos de un texto de PDF que viene renglón por renglón: une el renglón que sigue
+    a media frase (empieza en minúscula, o el anterior termina en coma o en «y», «de», «la»...) y
+    las palabras partidas con guion al final del renglón. No une viñetas, numerales ni títulos."""
+    out = []
+    for x in md.split("\n"):
+        if out and out[-1].strip() and x.strip() and not _ITEM.match(x) and not _es_bloque(x) \
+                and not _es_bloque(out[-1]):
+            a = out[-1].rstrip()
+            m = _GUION_FIN.search(a)
+            if m and x[0].isalpha():
+                b = re.match(rf"[{MAY}{MIN}]+", x).group(0)
+                if (m.group(1) + b).lower() in voc:
+                    out[-1] = a[:-1] + x
+                    continue
+            elif a[-1] not in ".:;!?" and (x[0].islower() or a[-1] == "," or _CORTE_FIN.search(a)):
+                out[-1] = a + " " + x
+                continue
+        out.append(x)
+    return "\n".join(linea(x, voc) if x.strip() and not _es_bloque(x) else x for x in out)
+
+
+def es_seccion_documento(titulo):
+    return "según el documento" in titulo or "Otro texto del documento" in titulo
+
+
+def reparar_tramite(nota, voc):
+    partes = re.split(r"(?m)^(## .*)$", nota)
+    for i in range(1, len(partes) - 1, 2):
+        if es_seccion_documento(partes[i]):
+            cuerpo = partes[i + 1]
+            fin = cuerpo.find("<!-- portal:fin -->")
+            pedazo, resto = (cuerpo[:fin], cuerpo[fin:]) if fin >= 0 else (cuerpo, "")
+            partes[i + 1] = documento(pedazo, voc) + resto
+    return "".join(partes)
+
+
+def reparar_tramites(repo, voc=None):
+    voc = voc if voc is not None else vocabulario_repo(repo)
+    cambiadas = 0
+    for raiz, _, archivos in os.walk(os.path.join(repo, "10 Trámites del Estado")):
+        for a in archivos:
+            if not a.endswith(".md"):
+                continue
+            ruta = os.path.join(raiz, a)
+            with open(ruta, encoding="utf-8") as f:
+                t = f.read()
+            partes = t.split("<!-- portal:fin -->", 1)
+            if len(partes) != 2 or "según el documento" not in partes[0]:
+                continue
+            nuevo = reparar_tramite(partes[0], voc) + "<!-- portal:fin -->" + partes[1]
+            if nuevo != t:
+                with open(ruta, "w", encoding="utf-8", newline="\n") as f:
+                    f.write(nuevo)
+                cambiadas += 1
+    print(f"Reparación del texto: {cambiadas} trámites con texto de documentos corregidos.")
+    return cambiadas
+
+
 # ---------- notas ya cargadas ----------
 
 def _seccion(nota, ini, fin):
@@ -199,4 +265,6 @@ def reparar_repo(repo):
 
 
 if __name__ == "__main__":
-    reparar_repo(sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    repo = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    reparar_repo(repo)
+    reparar_tramites(repo)

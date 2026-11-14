@@ -40,8 +40,7 @@ estado_sitio: "Vigente"
 
 Requisitos Certificado de Origen Sin Preferencia Arancelaria:
 
-1. Llenado a traves del Sistema Electronico de Comercio Exterior de
-Honduras SECEH.
+1. Llenado a traves del Sistema Electronico de Comercio Exterior de Honduras SECEH.
 2. Adjuntar fotocopia de factura comercial.
 
 ## Otro texto del documento

@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE RENOVACIÓN DEL
-REGISTRO DE PRESTAMISTAS NO
+REQUISITOS DE RENOVACIÓN DEL REGISTRO DE PRESTAMISTAS NO
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
@@ -47,37 +46,20 @@ Departamento de Gestión Tributaria
 REQUISITOS DE RENOVACIÓN DEL REGISTRO DE PRESTAMISTAS NO
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Balanza de Comprobación mensual (deberá
-incluir saldo inicial, débito, crédito y saldo final)
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Balanza de Comprobación mensual (deberá incluir saldo inicial, débito, crédito y saldo final)
 (Excel)
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
-Balanza de Comprobación mensual (deberá
-incluir saldo inicial, débito, crédito y saldo final)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Balanza de Comprobación mensual (deberá incluir saldo inicial, débito, crédito y saldo final)
 (PDF)
-Estados Financieros correspondiente al año
-anterior en que se presenta la petición (Excel)
-Estados Financieros, debidamente firmados,
-sellados y timbrados, correspondiente al año
-anterior en que se presenta la petición (PDF)
-Integración del saldo de la cartera de préstamos
-por clientes, (al cierre del año anterior en formato
-excel)
-Recibo TGR-1 -Institución 449 - Rubro 12205 por
-el monto de préstamos otorgados en el año, con
-su comprobante de pago o Timbres de
-contratación del Estado en Físico
-Informe anual consolidado resumen y detalle en
-formato PDF o Excel
+Estados Financieros correspondiente al año anterior en que se presenta la petición (Excel)
+Estados Financieros, debidamente firmados, sellados y timbrados, correspondiente al año anterior en que se presenta la petición (PDF)
+Integración del saldo de la cartera de préstamos por clientes, (al cierre del año anterior en formato excel)
+Recibo TGR-1 -Institución 449 - Rubro 12205 por el monto de préstamos otorgados en el año, con su comprobante de pago o Timbres de contratación del Estado en Físico
+Informe anual consolidado resumen y detalle en formato PDF o Excel
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
 
 ## Documentos
 

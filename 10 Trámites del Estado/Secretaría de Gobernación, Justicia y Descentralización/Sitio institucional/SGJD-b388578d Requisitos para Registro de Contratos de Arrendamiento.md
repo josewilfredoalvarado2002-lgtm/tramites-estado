@@ -43,10 +43,7 @@ EN EL DEPARTAMENTO ADMINISTRATIVO DE INQUILINATO (DAI)
 Copia de DNI del arrendador.
 Recibos TGR-01 pagados.
 Contrato Original suscrito entre las partes (mas dos fotocopias).
-Si la persona que se presenta a realizar el registro del contrato de
-arrendamiento no es el arrendador, deberá presentar una autorización
-simple, debidamente firmada por el arrendador, así como copia de su
-Documento Nacional de Identificación (DNI) y copia del DNI del arrendador.
+Si la persona que se presenta a realizar el registro del contrato de arrendamiento no es el arrendador, deberá presentar una autorización simple, debidamente firmada por el arrendador, así como copia de su Documento Nacional de Identificación (DNI) y copia del DNI del arrendador.
 
 ## Otro texto del documento
 

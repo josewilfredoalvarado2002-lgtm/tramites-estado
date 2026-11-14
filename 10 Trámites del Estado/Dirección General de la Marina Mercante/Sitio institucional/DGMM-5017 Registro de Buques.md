@@ -66,12 +66,12 @@ FORMTEXT
 1.15
 Créditos hipotecarios?
 Mortgages?
-SI/YES  NO
+SI/YES NO
 1.16
 Buque Equipado para Operar en Áreas SMSSS:
 Equipped to Operate in
 GMDSS area(s):
-SI/YES  NO
+SI/YES NO
 1.17
 Autoridad Contable:
 Radio Accounting Entity:
@@ -81,7 +81,7 @@ Arribará en puertos EEUU?
 Especifique Puertos:
 Calling US Ports?
 Please Specify Ports:
-SI/YES  NO
+SI/YES NO
 
 FORMTEXT
 1.19
@@ -551,37 +551,29 @@ Address(es) of its safety management activities:
 10. Número de Identificación de la compañía:
 Company identification Number:
 
-11. Nombre de todas las Sociedades de Clasificación que hayan clasificado al
-buque:
-Name of all classification societies with which the ship is
-classed:
+11. Nombre de todas las Sociedades de Clasificación que hayan clasificado al buque:
+Name of all classification societies with which the ship is classed:
 
-12. Administración / Gobierno / Organización Reconocida que ha expedido el
-Documento de Cumplimiento (DOC):
+12. Administración / Gobierno / Organización Reconocida que ha expedido el Documento de Cumplimiento (DOC):
 Administration / Government / Recognized Organization which issued Document of
 Compliance (DOC):
 
 Autoridad que ha realizado la auditoria (si es diferente)
 Body which carried out audit ( If Different):
 
-13. Administración / Gobierno / Organización Reconocida que expidió el
-Certificado de Gestión de la Seguridad (IGS)
-Administration / Government / Recognized Organization which
-issued Safety Management Certificate (SMC):
+13. Administración / Gobierno / Organización Reconocida que expidió el Certificado de Gestión de la Seguridad (IGS)
+Administration / Government / Recognized Organization which issued Safety Management Certificate (SMC):
 
 Autoridad que ha realizado la auditoria (si es diferente)
 Body which carried out audit ( If Different):
 
-14. Administración / Gobierno / Organización Reconocida de Protección que
-expidió el Certificado Internacional de Protección del Buque (PBIP)
-Administration / Government / Recognized Security Organization
-which issued International Ship Security Certificate (ISSC):
+14. Administración / Gobierno / Organización Reconocida de Protección que expidió el Certificado Internacional de Protección del Buque (PBIP)
+Administration / Government / Recognized Security Organization which issued International Ship Security Certificate (ISSC):
 
 Autoridad que ha realizado la auditoria (si es diferente)
 Body which carried out audit ( If Different):
 
-15. Fecha en que el buque dejó de estar matriculado en el Estado indicado en la
-casilla N. 2.
+15. Fecha en que el buque dejó de estar matriculado en el Estado indicado en la casilla N. 2.
 Date on which the ship ceased to be registered with the state indicated in 2:
 
 16. Observaciones:

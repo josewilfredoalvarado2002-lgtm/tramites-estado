@@ -38,32 +38,23 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE INSCRIPCIÓN DEL
-REGISTRO DE CIGARRILLOS
+REQUISITOS DE INSCRIPCIÓN DEL REGISTRO DE CIGARRILLOS
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
-REQUISITOS DE INSCRIPCIÓN DEL REGISTRO DE
-CIGARRILLOS
+REQUISITOS DE INSCRIPCIÓN DEL REGISTRO DE CIGARRILLOS
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Estados financieros del período (EXCEL) Cualquier otra información que el OT considere
-necesaria para sustentar su petición
-Estados Financieros debidamente timbrados,
-sellados y firmados por un perito colegiado.
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Estados financieros del período (EXCEL) Cualquier otra información que el OT considere necesaria para sustentar su petición
+Estados Financieros debidamente timbrados, sellados y firmados por un perito colegiado.
 (Formato PDF)
 Balance inicial de operaciones (EXCEL)
 Balance inicial de operaciones (Formato PDF)
-Permiso de Operación extendido por la alcaldía
-municipal (Formato PDF)
-Contrato de marcas y patentes o el registro de su
-propia marca (Formato PDF)
+Permiso de Operación extendido por la alcaldía municipal (Formato PDF)
+Contrato de marcas y patentes o el registro de su propia marca (Formato PDF)
 Comprobante de boletín de pago L200.00
 (Impuesto: 156 - Actos administrativos, concepto: 1
 Propio Computo)

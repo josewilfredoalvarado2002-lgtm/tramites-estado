@@ -38,41 +38,30 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-DOCUMENTOS NECESARIOS PARA OTORGAMIENTO DE
-LICENCIAS DE ALUMNO PILOTO:
+DOCUMENTOS NECESARIOS PARA OTORGAMIENTO DE LICENCIAS DE ALUMNO PILOTO:
 
 1. Llenar la Forma PEL-FORM-006
-2. Edad mínima 17 años, deberá demostrar que cuenta con el consentimiento de sus
-padres o tutores por medio de acta notarial.
+2. Edad mínima 17 años, deberá demostrar que cuenta con el consentimiento de sus padres o tutores por medio de acta notarial.
 3. Fotocopia de identidad o Fe de Edad.
 4. Constancia de haber aprobado la educación media.
-5. Haber aprobado o estar inscrito en un curso teórico de instrucción. Autorizado por
-la AHAC.
-6. Libro para record de horas de vuelo, debidamente identificado con fotografía y datos
-personales.
-7. Carta de responsabilidad de la instrucción práctica de vuelo firmada por un instructor
-de vuelo habilitado.
+5. Haber aprobado o estar inscrito en un curso teórico de instrucción. Autorizado por la AHAC.
+6. Libro para record de horas de vuelo, debidamente identificado con fotografía y datos personales.
+7. Carta de responsabilidad de la instrucción práctica de vuelo firmada por un instructor de vuelo habilitado.
 8. Dos fotografías tamaño carne recientes.
 9. Recibo de pago para otorgamiento de la licencia.
 10. Certificado Médico Clase 2, vigente.
 
-DOCUMENTO NECESARIOS PARA RENOVACIÓN DE
-LICENCIAS DE ALUMNO PILOTO:
+DOCUMENTO NECESARIOS PARA RENOVACIÓN DE LICENCIAS DE ALUMNO PILOTO:
 
 1. Llenar la Forma PEL-FORM-008
 2. Certificación Médica Clase 2 vigente.
-3. Libro de record de horas de vuelo, debidamente totalizado y endosado por el
-Instructor responsable.
-4. Carta de responsabilidad de la instrucción práctica de vuelo actualizada firmada por
-un instructor de vuelo habilitado.
+3. Libro de record de horas de vuelo, debidamente totalizado y endosado por el Instructor responsable.
+4. Carta de responsabilidad de la instrucción práctica de vuelo actualizada firmada por un instructor de vuelo habilitado.
 5. Recibo de pago por renovación de licencia.
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deb erá presentar el original y la copia de
-todos los documentos solicitados. Los orig inales serán devueltos al solicitante una
-vez constatados por el responsable de licencias. Las formas PEL -FORM-006 Y
-PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
+Presentada la información el solicitante deb erá presentar el original y la copia de todos los documentos solicitados. Los orig inales serán devueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL -FORM-006 Y PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
 
 ## Otro texto del documento
 

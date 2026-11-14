@@ -48,8 +48,7 @@ DENUNCIAS POR INTERFERENCIA
 ITEM REQUISITO NS
 1.
 Para presentar denuncias de interferencia ante CONATEL:
-Acreditar pago del aviso de Trámite según Resolución Normativa de Tasas y Canon Vigente según se
-describe a continuación:
+Acreditar pago del aviso de Trámite según Resolución Normativa de Tasas y Canon Vigente según se describe a continuación:
 
 - Trámite de solicitudes de estudios de interferencia en el espectro
 radioeléctrico, Francisco Morazán.
@@ -58,17 +57,13 @@ radioeléctrico, Francisco Morazán.
 Islas de la Bahía y Gracias a Dios)
 - Islas de la Bahía y Gracias a Dios
 2.
-Llenar Forma Técnica 700 debidamente firmada y sellada por el denunciante, y con firma y sello del
-Responsable Técnico (Persona o Empresa que brinda el servicio de mantenimiento al equipo que ha
-resultado interferido).
+Llenar Forma Técnica 700 debidamente firmada y sellada por el denunciante, y con firma y sello del Responsable Técnico (Persona o Empresa que brinda el servicio de mantenimiento al equipo que ha resultado interferido).
 
 3.
-Acompañar documentos con una nota dirigida a La Comisión, detallando la información general de la
-interferencia:
+Acompañar documentos con una nota dirigida a La Comisión, detallando la información general de la interferencia:
 a) Zona afectada
 b) Frecuencia afectada
-c) Características de la interferencia (si es permanente o temporal, cómo se manifiesta en el sistema
-afectado, etc.)
+c) Características de la interferencia (si es permanente o temporal, cómo se manifiesta en el sistema afectado, etc.)
 d) posible sistema interferente (si se ha podido detectar).
 
 NS Nueva Solicitud

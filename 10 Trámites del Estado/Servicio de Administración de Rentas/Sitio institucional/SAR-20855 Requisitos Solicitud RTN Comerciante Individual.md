@@ -41,8 +41,7 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Servicio de Administració
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE INSCRIPCIÓN DEL
-RTN PARA COMERCIANTE INDIVIDUAL
+REQUISITOS DE INSCRIPCIÓN DEL RTN PARA COMERCIANTE INDIVIDUAL
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
@@ -57,10 +56,7 @@ REQUISITOS DE INSCRIPCIÓN RTN COMERCIANTE INDIVIDUAL
 - Constancia de la Vecindad.
 - Recibo de suscripción de Servicios Privados (Internet, cable, telefonía)
 
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se
-debe acompañar poder o carta poder debidamente autenticado, Documento Nacional
-de Identificación (DNI) para hondureños, Pasaporte o carné de residente para
-extranjeros, indicando si posee las siguientes facultades:
+Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las siguientes facultades:
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firmar.
 

@@ -44,31 +44,20 @@ MENSUAL DE COMPRAS (DMC)
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
-REQUISITOS DESCARGO DE OMISOS DECLARACIÓN MENSUAL DE
-COMPRAS (DMC)
+REQUISITOS DESCARGO DE OMISOS DECLARACIÓN MENSUAL DE COMPRAS (DMC)
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Libro de compras de los períodos que solicita el
-descargo de omisos (Formato PDF)
-Cualquier otra información que el OT considere
-necesaria para sustentar su petición
-Libro de compras de los períodos que solicita el
-descargo de omisos (EXCEL)
-Estados financieros firmados, sellados y
-timbrados, de los períodos que solicita el
-descargo de omisos (Formato PDF)
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Libro de compras de los períodos que solicita el descargo de omisos (Formato PDF)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Libro de compras de los períodos que solicita el descargo de omisos (EXCEL)
+Estados financieros firmados, sellados y timbrados, de los períodos que solicita el descargo de omisos (Formato PDF)
 Comprobante de boletín de pago L200.00 (Impuesto:
 156 - Actos administrativos, concepto: 1 Propio
 Computo)
-Estados financieros de los períodos que solicita
-el descargo de omisos (EXCEL)
-Balanzas de comprobación mensuales de los
-períodos que solicita el descargo de omisos
+Estados financieros de los períodos que solicita el descargo de omisos (EXCEL)
+Balanzas de comprobación mensuales de los períodos que solicita el descargo de omisos
 (EXCEL)
 
 ## Documentos

@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DESCARGO DE OMISO DE
-IMPUESTO DE TASA TURÍSTICA
+REQUISITOS DESCARGO DE OMISO DE IMPUESTO DE TASA TURÍSTICA
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
@@ -47,32 +46,19 @@ Departamento de Gestión Tributaria
 REQUISITOS DESCARGO DE OMISO DE IMPUESTO DE TASA TURÍSTICA
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
 Comprobante de boletín de pago L200.00
 (Impuesto: 156 - Actos administrativos, concepto:
 1 Propio Computo)
-Cualquier otra información que el OT considere
-necesaria para sustentar su petición
-Documentos fiscales utilizados y dos
-subsiguientes sin utilizar, vigentes en los
-períodos que solicita el descargo de omisos
-Estados financieros de los períodos que
-solicita el descargo de omisos (EXCEL)
-Comprobante de notificación de documentos
-fiscales (Motivos Art 42 - Acuerdo 481-2017)
-Libro de ventas de los años que solicita el
-descargo de omisos
-Integración de los ingresos percibidos en los
-períodos que solicita el descargo de omisos
-Estados financieros firmados, sellados y
-timbrados, de los períodos que solicita el
-descargo de omisos (Formato PDF)
-Libro de ventas de los años que solicita el
-descargo de omisos
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Documentos fiscales utilizados y dos subsiguientes sin utilizar, vigentes en los períodos que solicita el descargo de omisos
+Estados financieros de los períodos que solicita el descargo de omisos (EXCEL)
+Comprobante de notificación de documentos fiscales (Motivos Art 42 - Acuerdo 481-2017)
+Libro de ventas de los años que solicita el descargo de omisos
+Integración de los ingresos percibidos en los períodos que solicita el descargo de omisos
+Estados financieros firmados, sellados y timbrados, de los períodos que solicita el descargo de omisos (Formato PDF)
+Libro de ventas de los años que solicita el descargo de omisos
 
 ## Documentos
 

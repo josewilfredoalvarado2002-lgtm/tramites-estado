@@ -43,38 +43,28 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Secretaría de Energía/TR
 
 REQUISITOS PARA REGISTRO DE PRESTADORES DE
 
-No. Requisitos Legales y Técnicos  Base Legal
+No. Requisitos Legales y Técnicos Base Legal
 1. Formulario de Registro de Prestadores de Servicios
-Técnicos en Protección Radiológica, firmado y sellado
-por el solicitante. (Formato disponible en Microsoft
+Técnicos en Protección Radiológica, firmado y sellado por el solicitante. (Formato disponible en Microsoft
 Word, portal web: https://sen.hn/tramites-dgsr/).
 
-2. Hoja de Vida que incluya por lo menos la siguiente
-información:
+2. Hoja de Vida que incluya por lo menos la siguiente información:
 - Datos generales del profesional: Nombre,
-nacionalidad, profesión, RTN, dirección exacta, correo
-electrónico, teléfono móvil o fijo y otros.
+nacionalidad, profesión, RTN, dirección exacta, correo electrónico, teléfono móvil o fijo y otros.
 - Comprobar experiencia mínima de cinco (05) año en el
 ejercicio profesional.
 - Datos Académicos
 - Cursos de entrenamiento en temas de protección
-radiológica o de su especialidad con la respectiva copia
-de los diplomas obtenidos.
+radiológica o de su especialidad con la respectiva copia de los diplomas obtenidos.
 - Idiomas que domina
 - Publicaciones realizadas en temas sobre las radiaciones
 ionizantes o de su especialidad.
 - Copia de Títulos Universitarios obtenidos o
-reconocidos por la UNAH. Los títulos a nivel de
-Licenciatura, Ingeniería, Maestría, Doctorado o
-Profesorado obtenidos en el extranjero requerirán ser
-autenticados por la Embajada o Consulado de
-Honduras en el país donde se obtuvieron y apostillado
-en la Secretaría de Relaciones Exteriores en Honduras.
+reconocidos por la UNAH. Los títulos a nivel de Licenciatura, Ingeniería, Maestría, Doctorado o Profesorado obtenidos en el extranjero requerirán ser autenticados por la Embajada o Consulado de Honduras en el país donde se obtuvieron y apostillado en la Secretaría de Relaciones Exteriores en Honduras.
 - El currículo deberá contener la firma del solicitante
 
 3. Copia del Documento Nacional de Identificación
-(DNI) en caso de ser hondureño; residencia y permiso de
-trabajo en caso de ser extranjero.
+(DNI) en caso de ser hondureño; residencia y permiso de trabajo en caso de ser extranjero.
 
 4. Hoja de antecedentes penales
 
@@ -84,51 +74,37 @@ REQUISITOS PARA REGISTRO DE PRESTADORES DE
 
 6 Dos fotografías tamaño Carnet.
 
-7. Constancia original de Solvencia extendida por el
-colegio profesional respectivo o afín.
+7. Constancia original de Solvencia extendida por el colegio profesional respectivo o afín.
 
-8. Declaración Jurada debidamente autenticada, en la que
-el solicitante manifieste no incluir información falsa, datos
-incorrectos u omisión de información en los trabajos o
-estudios elaborados y a presentar ante la SEN.
+8. Declaración Jurada debidamente autenticada, en la que el solicitante manifieste no incluir información falsa, datos incorrectos u omisión de información en los trabajos o estudios elaborados y a presentar ante la SEN.
 
 Radiológica
-9. Presentar Recibo TGR-1 con su comprobante de pago
-para la emisión de la constancia y carnet respectivo:
+9. Presentar Recibo TGR-1 con su comprobante de pago para la emisión de la constancia y carnet respectivo:
 
-Nombre o Razón Social: Detallar el nombre de la
-persona natural que solicita el Registro de Prestador de
-Servicios en Protección Radiológica.
+Nombre o Razón Social: Detallar el nombre de la persona natural que solicita el Registro de Prestador de Servicios en Protección Radiológica.
 
 Institución: 310 - Secretaría de Energía.
-Rubro: 12121 – Emisión, Constancias
-y Otros.
+Rubro: 12121 – Emisión, Constancias y Otros.
 
 ## Costo (según el documento)
 
 Monto: L. 500.00
 
-Ver nota No.1.
+Ver nota No. 1.
 
 Art. 11 del Registro Nacional de
 
 Nota 1: Con base a las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la Republica
-Ejercicio Fiscal vigente, el Recibo TGR solo es vigente y admitido en la SEN durante 15 días, los cuales son
-contados a partir de la fecha que se realiza el pago en la entidad bancaria, por tanto, debe presentarse en físico
-ante las oficinas de la Secretaría de Energía en dicho tiempo, caso contrario será requerido nuevamente.
-Nota: 2: Toda la información presentada debe ser en idioma español, los documentos emitidos en un idioma
-extranjero deberán ser traducidos y apostillados
+Ejercicio Fiscal vigente, el Recibo TGR solo es vigente y admitido en la SEN durante 15 días, los cuales son contados a partir de la fecha que se realiza el pago en la entidad bancaria, por tanto, debe presentarse en físico ante las oficinas de la Secretaría de Energía en dicho tiempo, caso contrario será requerido nuevamente.
+Nota: 2: Toda la información presentada debe ser en idioma español, los documentos emitidos en un idioma extranjero deberán ser traducidos y apostillados
 Consultas:
 Secretaría de Energía (SEN)
 Dirección General de Seguridad Radiológica (DGSR)
-Dirección: Torre Altamira, a inmediaciones del anillo periférico; 1.2 Km del puente a desnivel, salida a Valle de
-Ángeles, Tegucigalpa, M.D.C, Francisco Morazan, Honduras.
+Dirección: Torre Altamira, a inmediaciones del anillo periférico; 1.2 Km del puente a desnivel, salida a Valle de Ángeles, Tegucigalpa, M.D.C, Francisco Morazan, Honduras.
 Teléfono:2232-8500 Ext: 121, E-mail: dgsr@sen.hn
 Condiciones generales:
-● El solicitante debe presentar la información referida en este documento siguiendo el orden establecido en
-los términos de referencia, tanto para los requisitos legales como técnicos.
-● Aunque la Autoridad Reguladora tramitará la solicitud con prontitud, no puede garantizarse que se otorgue
-la Autorización para una fecha determinada.
+● El solicitante debe presentar la información referida en este documento siguiendo el orden establecido en los términos de referencia, tanto para los requisitos legales como técnicos.
+● Aunque la Autoridad Reguladora tramitará la solicitud con prontitud, no puede garantizarse que se otorgue la Autorización para una fecha determinada.
 
 ## Documentos
 

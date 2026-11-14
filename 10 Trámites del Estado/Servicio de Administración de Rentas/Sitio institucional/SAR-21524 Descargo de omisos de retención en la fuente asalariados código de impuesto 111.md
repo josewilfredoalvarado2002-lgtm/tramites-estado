@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DESCARGO DE OMISOS DE RETENCIÓN EN LA
-FUENTE ASALARIADOS CÓDIGO DE IMPUESTO 111
+REQUISITOS DESCARGO DE OMISOS DE RETENCIÓN EN LA FUENTE ASALARIADOS CÓDIGO DE IMPUESTO 111
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
@@ -48,46 +47,20 @@ REQUISITOS DESCARGO DE OMISOS DE RETENCIÓN EN LA FUENTE ASALARIADOS
 CÓDIGO DE IMPUESTO 111
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial,
-debidamente autenticado
-Planillas de sueldos y salarios, selladas y
-firmadas por el contador, que contenga sueldo,
-horas extras, comisiones, bonificaciones, 13vo
-y 14vo mes y deducciones. (De los períodos
-que solicita el descargo de omisos). (EXCEL)
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
-Planillas de sueldos y salarios, selladas y
-firmadas por el contador, que contenga sueldo,
-horas extras, comisiones, bonificaciones, 13vo
-y 14vo mes y deducciones. (De los períodos
-que solicita el descargo de omisos). (Formato
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Planillas de sueldos y salarios, selladas y firmadas por el contador, que contenga sueldo, horas extras, comisiones, bonificaciones, 13vo y 14vo mes y deducciones. (De los períodos que solicita el descargo de omisos). (EXCEL)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Planillas de sueldos y salarios, selladas y firmadas por el contador, que contenga sueldo, horas extras, comisiones, bonificaciones, 13vo y 14vo mes y deducciones. (De los períodos que solicita el descargo de omisos). (Formato
 PDF que contenga firmas y sellos)
-Integración de la cuenta de sueldos y
-salarios reflejado en los costos o gastos
-del estado de resultado del período que
-solicita el descargo de omisos (EXCEL)
-Estados financieros firmados, sellados y
-timbrados, de los períodos que solicita el
-descargo de omisos (Formato PDF)
-Movimiento contable diario donde se
-refleje los registros por sueldos y salarios
+Integración de la cuenta de sueldos y salarios reflejado en los costos o gastos del estado de resultado del período que solicita el descargo de omisos (EXCEL)
+Estados financieros firmados, sellados y timbrados, de los períodos que solicita el descargo de omisos (Formato PDF)
+Movimiento contable diario donde se refleje los registros por sueldos y salarios
 (EXCEL)
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
-Balanzas de comprobación mensuales
-de los períodos que solicita el descargo
-de omisos (EXCEL)
-En el caso que el empleado o los
-empleados que estaba sujeto a retención
-en la fuente asalariados dejó o dejaron de
-laborar con la empresa, presentar la
-documentación soporte
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
+Balanzas de comprobación mensuales de los períodos que solicita el descargo de omisos (EXCEL)
+En el caso que el empleado o los empleados que estaba sujeto a retención en la fuente asalariados dejó o dejaron de laborar con la empresa, presentar la documentación soporte
 
 ## Documentos
 

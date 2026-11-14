@@ -46,23 +46,16 @@ Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
 REQUISITOS DESCARGO DE OMISOS DE IMPUESTO SOBRE LA RENTA
-PERSONA JURÍDICA. (INSTITUCIONES PÚBLICAS Y LOS CONTENIDOS EN EL
-ART. 7)
+PERSONA JURÍDICA. (INSTITUCIONES PÚBLICAS Y LOS CONTENIDOS EN EL ART. 7)
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
 Comprobante de boletín de pago L200.00
 (Impuesto: 156 - Actos administrativos, concepto:
 1 Propio Computo)
-Cualquier otra información que el OT
-considere necesaria para sustentar su
-petición
-Acuerdo o documento que acredite la
-creación de la institución
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Acuerdo o documento que acredite la creación de la institución
 
 ## Documentos
 

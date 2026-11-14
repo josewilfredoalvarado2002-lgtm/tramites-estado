@@ -39,47 +39,35 @@ estado_sitio: "Vigente"
 ## Requisitos (según el documento oficial)
 
 DOCUMENTOS NECESARIOS PARA OTORGAMIENTO DE LICENCIA PILOTO
-TRANSPORTE DE LÍNEA AÉREA AVIÓN, HELICÓPTERO Y AERONAVES DE
-DESPEGUE VERTICAL.
+TRANSPORTE DE LÍNEA AÉREA AVIÓN, HELICÓPTERO Y AERONAVES DE DESPEGUE VERTICAL.
 
 1. Llenar la Forma PEL-FORM-006.
 2. Edad mínima 21 años.
-3. Poseer licencia de piloto Comercial vigente Avión, Helicóptero o Aeronaves de
-Despegue Vertical, según aplique.
+3. Poseer licencia de piloto Comercial vigente Avión, Helicóptero o Aeronaves de Despegue Vertical, según aplique.
 4. copia de Tarjeta de identidad.
 5. Constancia de haber aprobado la educación media
 6. Debe haber aprobado la prueba teórica en los últimos 06 meses precedentes.
-7. Debe haber aprobado la prueba práctica con un Inspector o Examinador Designado
-por la AHAC.
-8. El libro de record de horas con el mínimo de horas requerido y detallado de
-conformidad a RAC-LPTA 165, (c), (d) y (e), según aplique.
+7. Debe haber aprobado la prueba práctica con un Inspector o Examinador Designado por la AHAC.
+8. El libro de record de horas con el mínimo de horas requerido y detallado de conformidad a RAC-LPTA 165, (c), (d) y (e), según aplique.
 9. Dos fotografías tamaño carne.
 10. Certificado médico clase 1, vigente.
-11. Debe presentar la Certificación de Evaluación de la AHAC con el nivel de
-competencia lingüística.
+11. Debe presentar la Certificación de Evaluación de la AHAC con el nivel de competencia lingüística.
 12. Recibo de pago por otorgamiento de licencias de Transporte de Línea Aérea.
 
 DOCUMENTOS NECESARIOS PARA RENOVACIÓN DE LICENCIA PILOTO
-TRANSPORTE DE LÍNEA AÉREA AVIÓN, HELICÓPTERO Y AERONAVES DE
-DESPEGUE VERTICAL.
+TRANSPORTE DE LÍNEA AÉREA AVIÓN, HELICÓPTERO Y AERONAVES DE DESPEGUE VERTICAL.
 
 1. Llenar la Forma PEL-FORM-008
 2. Certificación Médica clase 1, vigente.
 3. Recibo de pago por renovación.
-4. Constancia de ultimo recurrente o prueba de proeficiencia si la persona labora para
-una Empresa de Transporte Aéreo Comercial Hondureño.
+4. Constancia de ultimo recurrente o prueba de proeficiencia si la persona labora para una Empresa de Transporte Aéreo Comercial Hondureño.
 5. Cuando la persona NO labore dentro de una Empresa de Transporte Aéreo
-Comercial Hondureño solo deberá de cumplir con los requisitos de experiencia
-reciente y verificaciones de competencia respectivas, enlistadas en el numeral 6.
-6. Libro de record de horas de vuelo totalizado, debe haber cumplido con los requisitos
-de experiencia reciente establecidos en RAC LPTA 165, (f), según aplique.
+Comercial Hondureño solo deberá de cumplir con los requisitos de experiencia reciente y verificaciones de competencia respectivas, enlistadas en el numeral 6.
+6. Libro de record de horas de vuelo totalizado, debe haber cumplido con los requisitos de experiencia reciente establecidos en RAC LPTA 165, (f), según aplique.
 
 ## Notas (según el documento)
 
-Presentada la información el solicitante deb erá presentar el original y la copia de
-todos los documentos solicitados. Los orig inales serán devueltos al solicitante una
-vez constatados por el responsable de licencias. Las formas PEL -FORM-006 Y
-PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
+Presentada la información el solicitante deb erá presentar el original y la copia de todos los documentos solicitados. Los orig inales serán devueltos al solicitante una vez constatados por el responsable de licencias. Las formas PEL -FORM-006 Y PEL-FORM-008 puede solicitarlas en la AHAC o en la página Web:
 
 ## Otro texto del documento
 

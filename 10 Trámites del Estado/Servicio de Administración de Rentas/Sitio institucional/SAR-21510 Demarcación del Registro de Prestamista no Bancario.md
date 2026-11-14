@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS D E DEMARCACIÓN DEL
-REGISTRO DE PRESTAMISTA NO BANCARIO
+REQUISITOS D E DEMARCACIÓN DEL REGISTRO DE PRESTAMISTA NO BANCARIO
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
@@ -48,31 +47,17 @@ REQUISITOS DE DEMARCACIÓN DEL REGISTRO DE PRESTAMISTA NO
 BANCARIO
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los
-requisitos establecidos en el Artículo 61 de la
-Ley de Procedimiento Administrativo (Formato
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato
 PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Estados financieros del año anterior y el actual
-donde solicita la Demarcación de PNB estos
-deben estar timbrados, sellados y firmados por
-el propietario y contador (Formato PDF)
-Cualquier otra información que el OT considere
-necesaria para sustentar su petición
-Balanza de comprobación de forma mensual,
-que incluyan los saldos del debe, haber y
-saldos (inicial y final) de todas y cada una de
-las cuentas. (EXCEL)
-Balanza de comprobación de forma mensual,
-que incluyan los saldos del debe, haber y
-saldos (inicial y final) de todas y cada una de
-las cuentas. (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Estados financieros del año anterior y el actual donde solicita la Demarcación de PNB estos deben estar timbrados, sellados y firmados por el propietario y contador (Formato PDF)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Balanza de comprobación de forma mensual, que incluyan los saldos del debe, haber y saldos (inicial y final) de todas y cada una de las cuentas. (EXCEL)
+Balanza de comprobación de forma mensual, que incluyan los saldos del debe, haber y saldos (inicial y final) de todas y cada una de las cuentas. (Formato PDF)
 Último informe trimestral presentado. (Formato
 PDF)
 Comprobante de boletín de pago L200.00
-(Impuesto: 156 - Actos administrativos,
-concepto: 1 Propio Computo)
+(Impuesto: 156 - Actos administrativos, concepto: 1 Propio Computo)
 
 ## Documentos
 

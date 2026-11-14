@@ -41,28 +41,18 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-3. Sustitución de Laminas de contención | Lamina unidades 48
-de Presa, presentar fotografías (Formaleta
-metálica)
+3. Sustitución de Laminas de contención | Lamina unidades 48 de Presa, presentar fotografías (Formaleta metálica)
 
 8.- Planos o diseños de planta u obras a ejecutar en las instalaciones, que justifiquen lo solicitado.
 (Cuando aplique).
 
-9.- Fotografías del proyecto que amplíen la información técnica cuando se estime que ilustrará al
-técnico de la Secretaria en el Despacho de Energía, quien emite opinión técnica de las solicitudes
-presentadas a la Dirección General de Control de Franquicias Aduaneras.
+9.- Fotografías del proyecto que amplíen la información técnica cuando se estime que ilustrará al técnico de la Secretaria en el Despacho de Energía, quien emite opinión técnica de las solicitudes presentadas a la Dirección General de Control de Franquicias Aduaneras.
 
-10.- Declaración jurada y firmada por el representante legal de la empresa generadora, en la que
-constate que los equipos, materiales, repuestos, partes aditamentos, servicios solicitados, serán
-utilizados exclusivamente en el proyecto respectivo (Incluir el nombre del proyecto de energía
-renovable).
+10.- Declaración jurada y firmada por el representante legal de la empresa generadora, en la que constate que los equipos, materiales, repuestos, partes aditamentos, servicios solicitados, serán utilizados exclusivamente en el proyecto respectivo (Incluir el nombre del proyecto de energía renovable).
 
-11.- En caso de que los servicios técnicos involucren una ó más actividades, detallar los alcances de
-cada servicio, mismas que deberán guardar relación directa con la infraestructura de la
-generación de energía eléctrica.
+11.- En caso de que los servicios técnicos involucren una ó más actividades, detallar los alcances de cada servicio, mismas que deberán guardar relación directa con la infraestructura de la generación de energía eléctrica.
 
-Ejemplo: Servicios de operación y mantenimiento de la planta: detallar el área de intervención de
-los servicios (transformadores y subestación, conjunto: turbina-generador, etc.)
+Ejemplo: Servicios de operación y mantenimiento de la planta: detallar el área de intervención de los servicios (transformadores y subestación, conjunto: turbina-generador, etc.)
 
 12.- Información en CD que incluya:
 
@@ -76,30 +66,18 @@ EN EL DESPACHO DE ENERGÍA
 OORIRRSO DIES
 Kurbirica DE os nta
 
-Listado en formato Excel de los equipos, materiales, repuestos, partes aditamentos, servicios
-y cualesquiera bienes y servicios, destinados o relacionados directamente con la construcción
-de infraestructura necesaria para la generación de energía eléctrica con recursos renovables,
-incluyendo, pero sin limitarse a los materiales, maquinarias y equipos para turbinar, generar,
-controlar, regular, proteger, transformar, transmitir la energía, asi como equipos y maquinarias
-para la construcción.
+Listado en formato Excel de los equipos, materiales, repuestos, partes aditamentos, servicios y cualesquiera bienes y servicios, destinados o relacionados directamente con la construcción de infraestructura necesaria para la generación de energía eléctrica con recursos renovables, incluyendo, pero sin limitarse a los materiales, maquinarias y equipos para turbinar, generar, controlar, regular, proteger, transformar, transmitir la energía, asi como equipos y maquinarias para la construcción.
 
 Planos, fotografías u otra información pertinente.
 
-Notas: Las cantidades de materiales, equipos y aditamentos solicitados deben ajustarse a las
-necesidades reales que corresponden al proyecto en el periodo solicitado (según presupuestos del
-período, programas de mantenimiento y posibles contingencias), por lo que se recomienda que el
-listado sea elaborado por el ingeniero de planta para que se presente de forma vinculada.
+Notas: Las cantidades de materiales, equipos y aditamentos solicitados deben ajustarse a las necesidades reales que corresponden al proyecto en el periodo solicitado (según presupuestos del período, programas de mantenimiento y posibles contingencias), por lo que se recomienda que el listado sea elaborado por el ingeniero de planta para que se presente de forma vinculada.
 
-Exoneración ISR y retenciones sobre pagos de servicios/honorarios de personas
-naturales/jurídicas extranjeras necesarios para el proyecto de energía renovable [Art. 2 numeral
+Exoneración ISR y retenciones sobre pagos de servicios/honorarios de personas naturales/jurídicas extranjeras necesarios para el proyecto de energía renovable [Art. 2 numeral
 5) Decreto 70-2007 reformado por 138-2013.]
 
-Incluir detalle de servicios brindados por personas naturales y jurídicas extranjeras: contratos
-o descripción de servicios contratados para el estudio, desarrollo, diseño, ingeniería,
-construcción y monitoreo del proyecto de generación eléctrica.
+Incluir detalle de servicios brindados por personas naturales y jurídicas extranjeras: contratos o descripción de servicios contratados para el estudio, desarrollo, diseño, ingeniería, construcción y monitoreo del proyecto de generación eléctrica.
 
-La solicitud debe contener una declaración jurada del representante legal de la empresa
-generadora en caso de no presentar copia de tales contratos.
+La solicitud debe contener una declaración jurada del representante legal de la empresa generadora en caso de no presentar copia de tales contratos.
 
 Para empresas suplidoras de sistemas de energía solar fotovoltaica y solar térmica:
 
@@ -116,37 +94,28 @@ nombre de partida arancelaria o número de parte.
 Marca y modelo, si corresponde.
 Descripción, uso detallado (capacidades y aplicaciones y/o descripción técnica)
 Cantidad (estrictamente acorde a lo necesario para el periodo solicitado).
-Declaración jurada y firmada por el representante legal de la empresa suplidora en la que
-constate que los equipos y materiales serán usados exclusivamente para instalaciones de
-sistemas de energía solar fotovoltaicas y solar térmica, que se utiliza para uso rural residencial
-e industrial y/o autoconsumo o generación de energia.
+Declaración jurada y firmada por el representante legal de la empresa suplidora en la que constate que los equipos y materiales serán usados exclusivamente para instalaciones de sistemas de energía solar fotovoltaicas y solar térmica, que se utiliza para uso rural residencial e industrial y/o autoconsumo o generación de energia.
 
 2. Información en CD que incluya:
-Listado de los equipos y materiales solicitados para los sistemas de energía solar fotovoltaica
-y solar térmica.
+Listado de los equipos y materiales solicitados para los sistemas de energía solar fotovoltaica y solar térmica.
 Registro de Empresa Suplidora de Sistemas Solares emitido por MiAmbiente o SEN.
 
 Dado en la ciudad de Tegucigalpa a los 20 del mes de enero de 2020.
 
-DIANA LIZZETTE SOLIS:PAZ y
-DIRECCION DE/ENERGÍA RENOVABLE» /
+DIANA LIZZETTE SOLIS:PAZ y DIRECCION DE/ENERGÍA RENOVABLE» /
 Y EFICIENCIA ENERGETICA¿c41c>
 
 ## Otro texto del documento
 
-DIRECCIÓN GENERAL DE CONTROL DE
-FRANQUICIAS ADUANERAS
+DIRECCIÓN GENERAL DE CONTROL DE FRANQUICIAS ADUANERAS
 (DGCFA)
 
-O DIRECCION e
-SECRETARIA DL ESTADO RECIBIDO POR ; Los ia Los ln
+O DIRECCION e SECRETARIA DL ESTADO RECIBIDO POR; Los ia Los ln
 
-o EN EL DESPACHO DI ENERGU
-na FEcHA: 24 Cfr 2090
-sora: 10:55 hv5
+o EN EL DESPACHO DI ENERGU na FEcHA: 24 Cfr 2090 sora: 10:55 hv5
 
 Tegucigalpa, M.D.C., 23 de enero, 2020.
-SEN-DGEREE- 032-2020
+SEN-DGEREE-032-2020
 
 Abogada
 
@@ -159,28 +128,19 @@ Su oficina
 
 Tengo el agrado de dirigirme a usted anticipándole mis mejores deseos en sus delicadas gestiones.
 
-Tal y como acordado en la reunión sostenida entre la DGCFA y la SEN, el pasado martes 14 de enero, le hago
-llegar CIRCULAR SEN-DGEREE-001-2020, que contiene requerimientos de información para procesar los
-informes y dictámenes técnicos de las exoneraciones solicitadas por las empresas generadoras de energía
-renovable, a través de la Dirección a su cargo, mismas que se amparan en la Ley de Promoción a la Generación
-de Energia con Recursos Renovables, Decreto 70 -2007 y su reforma.
+Tal y como acordado en la reunión sostenida entre la DGCFA y la SEN, el pasado martes 14 de enero, le hago llegar CIRCULAR SEN-DGEREE-001-2020, que contiene requerimientos de información para procesar los informes y dictámenes técnicos de las exoneraciones solicitadas por las empresas generadoras de energía renovable, a través de la Dirección a su cargo, mismas que se amparan en la Ley de Promoción a la Generación de Energia con Recursos Renovables, Decreto 70 -2007 y su reforma.
 
-Como podrá apreciar en su contenido, la información que se solicita es de carácter técnico, misma que
-requerimos como órgano consultivo de la SEN en materia de exoneraciones.
+Como podrá apreciar en su contenido, la información que se solicita es de carácter técnico, misma que requerimos como órgano consultivo de la SEN en materia de exoneraciones.
 
-Consideramos que esta solicitud a las empresas generadoras de energía, estarán facilitando en gran medida
-la labor que en esta materia ésta DGEREE realiza, simplificándose los tiempos de dar respuesta a dichas las
-solicitudes y por ende, estaremos dando cumplimiento a la Ley de Procedimientos Administrativos.
+Consideramos que esta solicitud a las empresas generadoras de energía, estarán facilitando en gran medida la labor que en esta materia ésta DGEREE realiza, simplificándose los tiempos de dar respuesta a dichas las solicitudes y por ende, estaremos dando cumplimiento a la Ley de Procedimientos Administrativos.
 
 Agradeciendo por su tiempo y atención a la presente, me suscribo de usted con las muestras de consideración.
 
-Atentamente,
-/ MU cie RS SN
+Atentamente, / MU cie RS SN
 SECRETARÍA DE ESTADO EN El, DESPACHO DE ENERGIA di le a JE
 DESPACHO DE MINISTRO SEN 0
 RECIBIDO ING. DÍANA SOLIS "a Si
-DIRECTORA GENERAL DE ENERGIA dolido
-si Y EFICIENCIA ENERGETICA=
+DIRECTORA GENERAL DE ENERGIA dolido si Y EFICIENCIA ENERGETICA=
 Aral, E. SECRETARÍA DE ENERGÍA
 NOMBRE 3276 ! SECRETARIA GENERAL
 RECIBIDO
@@ -198,36 +158,16 @@ EN EL DESPACHO DE ENERGÍA
 
 CIRCULAR SEN-DGEREE-001-2020
 
-Basados en la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y
-Medidas Anti evasión, y en cumplimiento al artículo 24, del Decreto 278-2013, mismo que establece
-que: “Presentación de solicitud de exoneración...para hacer efectivos los beneficios que han sido
-otorgados deberán presentar una solicitud detallada y calendarizada de los bienes y servicios a
-importar o adquirir localmente, lo cual deberá guardar relación al giro de la actividad en la que
-utilizaran los bienes y servicios exonerados y, relacionado al otorgamiento de exoneraciones para
-personas naturales y jurídicas así como sus contratistas que, se encuentren desarrollando u
-operando proyectos de energía eléctrica con recursos naturales nacionales y empresas suplidoras,
-conforme al Decreto 70-2007 y su reforma, se les comunica que a partir de la presente fecha se
-deberá considerar lo siguiente al momento de presentar la solicitud de exoneración:
+Basados en la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Anti evasión, y en cumplimiento al artículo 24, del Decreto 278-2013, mismo que establece que: “Presentación de solicitud de exoneración...para hacer efectivos los beneficios que han sido otorgados deberán presentar una solicitud detallada y calendarizada de los bienes y servicios a importar o adquirir localmente, lo cual deberá guardar relación al giro de la actividad en la que utilizaran los bienes y servicios exonerados y, relacionado al otorgamiento de exoneraciones para personas naturales y jurídicas así como sus contratistas que, se encuentren desarrollando u operando proyectos de energía eléctrica con recursos naturales nacionales y empresas suplidoras, conforme al Decreto 70-2007 y su reforma, se les comunica que a partir de la presente fecha se deberá considerar lo siguiente al momento de presentar la solicitud de exoneración:
 
-+ Exoneración del pago de ISV de bienes y servicios relacionados con infraestructura
-necesaria para generación de energía eléctrica con recursos renovables [Art 2 numeral
++ Exoneración del pago de ISV de bienes y servicios relacionados con infraestructura necesaria para generación de energía eléctrica con recursos renovables [Art 2 numeral
 1) Decreto 70-2007 reformado por 138-2013]
 
-e Exoneración de gravámenes sobre bienes adquiridos en el exterior
-destinados/relacionados directamente con la generación de energía eléctrica con recursos
-renovables con recursos renovables [Art 2 numeral 2) Decreto 70-2007 reformado por
-138-2013.
+e Exoneración de gravámenes sobre bienes adquiridos en el exterior destinados/relacionados directamente con la generación de energía eléctrica con recursos renovables con recursos renovables [Art 2 numeral 2) Decreto 70-2007 reformado por 138-2013.
 
-La solicitud de exoneración, deberá presentar de una manera detallada, la descripción de los
-equipos, materiales, repuestos, partes aditamentos, servicios y cualesquiera bienes y servicios,
-destinados o relacionados directamente con la construcción/operación de la infraestructura
-necesaria para la generación de energía eléctrica con recursos renovables, incluyendo, pero sin
-limitarse a los materiales, maquinarias y equipos para turbinar, generar, controlar, regular,
-transformar, transmitir la energía así como equipos y maquinarias para la construcción, que incluya
-como minimo lo siguiente:
+La solicitud de exoneración, deberá presentar de una manera detallada, la descripción de los equipos, materiales, repuestos, partes aditamentos, servicios y cualesquiera bienes y servicios, destinados o relacionados directamente con la construcción/operación de la infraestructura necesaria para la generación de energía eléctrica con recursos renovables, incluyendo, pero sin limitarse a los materiales, maquinarias y equipos para turbinar, generar, controlar, regular, transformar, transmitir la energía así como equipos y maquinarias para la construcción, que incluya como minimo lo siguiente:
 
-1.- Nombre que describe el bien (pieza, repuesto, parte, equipo, etc.) y no descripción con códigos,
-nombre de partida arancelaria o número de parte.
+1.- Nombre que describe el bien (pieza, repuesto, parte, equipo, etc.) y no descripción con códigos, nombre de partida arancelaria o número de parte.
 
 2.- Marca y modelo (cuando aplique o ilustre su aplicación).
 
@@ -260,25 +200,14 @@ Ejemplos
 TRABAJOS DE MANTENIMIENTO PRESA
 No | DESCRIPCION Materiales UNIDAD | CANTIDAD
 
-1. | Reparaciones del dique de protección | Bloque de | unidad 4,500
-al portal de entrada al túnel. Se | Concreto
-utilizarán bloques fundidos de
-contrapeso para protección Cemento gris bis 1,266
+1. | Reparaciones del dique de protección | Bloque de | unidad 4,500 al portal de entrada al túnel. Se | Concreto utilizarán bloques fundidos de contrapeso para protección Cemento gris bis 1,266
 (Presentar memoria de cálculo)
 
 TRABAJOS DE MANTENIMIENTO CASA DE MAQUINAS
 No | DESCRIPCION Materiales UNIDAD | CANTIDAD
 
-2. Construcción de barreras de | Bloque de Concreto unidades | 4890
-contención para evitar erosión de
-ladera sobre Casa de maquina (436
-m2) el trabajo consistirá en construir
-barreras de mitigación de la erosión:
-muretes de bloques fundidos y [Cemento gris bls 1,119
-construcción de barreras de concreto
-armado en un área de 1 hectárea
-ubicada en la ladera superior de casa
-de maquina
+2. Construcción de barreras de | Bloque de Concreto unidades | 4890 contención para evitar erosión de ladera sobre Casa de maquina (436 m2) el trabajo consistirá en construir barreras de mitigación de la erosión:
+muretes de bloques fundidos y [Cemento gris bls 1,119 construcción de barreras de concreto armado en un área de 1 hectárea ubicada en la ladera superior de casa de maquina
 
 (Presentar memoria de cálculo)
 

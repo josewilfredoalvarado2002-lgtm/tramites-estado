@@ -99,8 +99,7 @@ estado_sitio: "Vigente"
 
 Descripción del Rubro
 Constancia Por Acreditar
-Establecimientos comercializadores de
-Alimentos y bebidas
+Establecimientos comercializadores de Alimentos y bebidas
 Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de alimentos y bebidas
 Licencia sanitaria según corresponda emitida por ARSA
 
@@ -108,15 +107,13 @@ Transporte de alimentos y bebidas
 Licencia sanitaria según corresponda emitida por ARSA
 
 Fabricación de productos lácteos, cárnicos, pesqueros y acuícolas
-Licencia sanitaria según corresponda emitida por ARSA/Registro sanitario del establecimiento según
-corresponda emitido por SENASA
+Licencia sanitaria según corresponda emitida por ARSA/Registro sanitario del establecimiento según corresponda emitido por SENASA
 
 Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de alimentos y bebidas
 Licencia sanitaria según corresponda emitida por ARSA
 
 Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de semillas
-Registro sanitario del
-establecimiento según corresponda emitido por SENASA
+Registro sanitario del establecimiento según corresponda emitido por SENASA
 
 Establecimientos comercializadores de productos farmacéuticos
 Laboratorio Farmacéutico
@@ -136,8 +133,7 @@ Licencia sanitaria según corresponda emitida por ARSA
 
 Distribuidora de productos Farmacéuticos
 Licencia sanitaria según corresponda emitida por ARSA
-Establecimientos prestadores de servicios de
-salud
+Establecimientos prestadores de servicios de salud
 Atención Medica y Odontológica
 Licencia sanitaria según corresponda emitida por ARSA
 
@@ -158,16 +154,13 @@ Licencia sanitaria según corresponda emitida por ARSA
 
 Bancos de Sangre
 Licencia sanitaria según corresponda emitida por ARSA
-Establecimientos comercializadores de
-productos de sanidad agropecuaria
+Establecimientos comercializadores de productos de sanidad agropecuaria
 
 Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de plaguicidas
-Registro sanitario del
-establecimiento según corresponda emitido por SENASA
+Registro sanitario del establecimiento según corresponda emitido por SENASA
 
 Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de fertilizantes
-Registro sanitario del
-establecimiento según corresponda emitido por SENASA
+Registro sanitario del establecimiento según corresponda emitido por SENASA
 Productos higiénicos
 Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de productos higiénicos.
 Licencia sanitaria según corresponda emitida por ARSA
@@ -184,9 +177,7 @@ Descripción del Rubro
 Constancia Por Acreditar
 Obra Civil
 Consultorías, proyectos, diseños, construcción, estudios y supervisión
-Constancia original y vigente de inscripción en el colegio de ingenieros civiles o del colegio de arquitectos, a nombre de la persona natural o jurídica a ser Inscrita en el
-Registro de Proveedores y
-Contratistas del Estado
+Constancia original y vigente de inscripción en el colegio de ingenieros civiles o del colegio de arquitectos, a nombre de la persona natural o jurídica a ser Inscrita en el Registro de Proveedores y Contratistas del Estado
 Ingeniería Agrícola
 Consultorías, Proyectos y Estudios
 Constancia original y vigente de inscripción en el colegio de ingenieros agrónomos, colegio de profesionales de las ciencias agrícolas a nombre de la persona natural o jurídica
@@ -202,9 +193,7 @@ Otras Afines
 
 Ingeniería Mecánica
 Consultorías, proyectos, diseños, construcción, estudios y supervisión
-Constancia original y vigente de inscripción en el colegio de ingenieros mecánicos, eléctricos y químicos a nombre de la persona natural o jurídica a ser Inscrita en el
-Registro de Proveedores y
-Contratistas del Estado
+Constancia original y vigente de inscripción en el colegio de ingenieros mecánicos, eléctricos y químicos a nombre de la persona natural o jurídica a ser Inscrita en el Registro de Proveedores y Contratistas del Estado
 Ingeniería Eléctrica
 
 Ingeniería Química

@@ -50,49 +50,32 @@ SOLAR.- SE PRESENTAN DOCUMENTOS. PODER
 
 Señor Secretario de Estado, Secretaría de Estado en los Despachos de Energía.
 
-Yo, mayor de edad, casado, hondureño, inscrito en el
-Colegio de Abogados bajo número , con oficinas profesionales en
+Yo, mayor de edad, casado, hondureño, inscrito en el Colegio de Abogados bajo número, con oficinas profesionales en
 
-con teléfono número , y con
-correo electrónico: , actuando en mi condición de
+con teléfono número, y con correo electrónico: , actuando en mi condición de
 
-Apoderado legal de Sociedad Mercantil
-según Poder Genera y Representación que acompaño de fecha
-del 2020, según instrumento número autorizado ante los oficios del Notario
+Apoderado legal de Sociedad Mercantil según Poder Genera y Representación que acompaño de fecha del 2020, según instrumento número autorizado ante los oficios del Notario
 , con el debido respeto comparezco ante usted solicitando se le extienda a mi representada
 Certificación de Inscripción en el Registro de Empresas que proveen y suplen equipos y materiales,
 
-que se utilizan en las instalaciones de sistema de energía solar como solar fotovoltaica solar
-térmica.- Solicitud que encuentra su fundamento en los hechos y consideraciones de derecho
+que se utilizan en las instalaciones de sistema de energía solar como solar fotovoltaica solar térmica.- Solicitud que encuentra su fundamento en los hechos y consideraciones de derecho
 
 siguientes:
 HECHOS
 PRIMERO: Mi representada la Sociedad
-, fue constituida en la ciudad de , según instrumento número ante los oficios del
+, fue constituida en la ciudad de, según instrumento número ante los oficios del
 
 , inscrita bajo el numero tomo del Registro de Comerciantes
 
 Mi representada se dedica a la construcción diseño, consultoría, mantenimiento de
 
-instalaciones eléctricas, mecánicas, civiles, compra y venta de equipos y materiales así como su importación,
-servicios de acarreo de transporte, y demás actividad de licito comercio.
+instalaciones eléctricas, mecánicas, civiles, compra y venta de equipos y materiales así como su importación, servicios de acarreo de transporte, y demás actividad de licito comercio.
 
-SEGUNDO: Mi representada a fin de gozar de los incentivos fiscales establecidos en el artículo número 3 del
-Decreto 138-2013, que reforma al artículo 27 de la Ley de Promoción a la Generación de Energía Eléctrica con
-recursos Renovables, Contenida en el Decreto No. 70-2007, el cual establece: "Los Equipos y materiales utilizados
-para las instalaciones de los sistemas de Energía Solar como la solar fotovoltaica y solar térmica, que utilizan para
-uso rural, residencial e industrial u/o autoconsumo o generación de energía, estarán exonerados del pago de
-impuestos sobre ventas.- Las empresas suplidoras de estos sistemas o equipos deben, para el trámite de dichas
-exoneraciones, acreditar la respectiva inscripción en el registro que para tal efecto lleve la Secretaría de Estado en
-los Despachos Naturales y ambiente (SERNA).
+SEGUNDO: Mi representada a fin de gozar de los incentivos fiscales establecidos en el artículo número 3 del Decreto 138-2013, que reforma al artículo 27 de la Ley de Promoción a la Generación de Energía Eléctrica con recursos Renovables, Contenida en el Decreto No. 70-2007, el cual establece: "Los Equipos y materiales utilizados para las instalaciones de los sistemas de Energía Solar como la solar fotovoltaica y solar térmica, que utilizan para uso rural, residencial e industrial u/o autoconsumo o generación de energía, estarán exonerados del pago de impuestos sobre ventas.- Las empresas suplidoras de estos sistemas o equipos deben, para el trámite de dichas exoneraciones, acreditar la respectiva inscripción en el registro que para tal efecto lleve la Secretaría de Estado en los Despachos Naturales y ambiente (SERNA).
 
-Apegados en dicha normativa, mi representada presenta la correspondiente solicitud con el fin de ser inscrita en el
-Registro de Empresas que proveen y suplen equipos y materiales, que se utilizan en las instalaciones de sistema de
-energía solar como solar fotovoltaica y solar térmica.
+Apegados en dicha normativa, mi representada presenta la correspondiente solicitud con el fin de ser inscrita en el Registro de Empresas que proveen y suplen equipos y materiales, que se utilizan en las instalaciones de sistema de energía solar como solar fotovoltaica y solar térmica.
 
-TERCERO: Para la obtención de dicha Inscripción en el Registro de Empresas que proveen y suplen equipos y
-materiales, que se utilizan en las instalaciones de sistemas de energía solar como solar fotovoltaica y solar térmica,
-se realizó la respectiva Memoria Técnica de la sociedad
+TERCERO: Para la obtención de dicha Inscripción en el Registro de Empresas que proveen y suplen equipos y materiales, que se utilizan en las instalaciones de sistemas de energía solar como solar fotovoltaica y solar térmica, se realizó la respectiva Memoria Técnica de la sociedad
 , mismos que describe algunos, proyectos, y experiencias y proyección de contratos,
 
 así mismos se presentan Balance General y Estado de Resultados.
@@ -118,17 +101,12 @@ Copia de RTN Numérico.
 FUNDAMENTOS DE DERECHO
 
 Fundo la presente solicitud en los artículos 1 y 80 de la Constitución de la República; Decreto No.
-113-2011, de fecha 8 de julio del 2011, Artículo 3 del Decreto 70-2007, Articulo número 3 del
-Decreto 138-2013 que reforma al Artículo 27 de la Ley de la Promoción a la Generación de Energia
+113-2011, de fecha 8 de julio del 2011, Artículo 3 del Decreto 70-2007, Articulo número 3 del Decreto 138-2013 que reforma al Artículo 27 de la Ley de la Promoción a la Generación de Energia
 
 Eléctrica con Recursos Renovables, Contenida en el Decreto No. 70-2007, y demás aplicables.
 PETICIÓN
 
-Al Señor Secretario con el debido respeto PIDO: admitir la presente solicitud, juntamente con la
-documentación que se acompaña, darle el trámite de ley establecido y resolver conforme a lo
-solicitado, concediendo la inscripción en el Registro de Empresas que proveen y suplen equipos y
-materiales, que se utilizan en las instalaciones de sistema de energía solar fotovoltaica y solar
-térmica a mi representada la sociedad
+Al Señor Secretario con el debido respeto PIDO: admitir la presente solicitud, juntamente con la documentación que se acompaña, darle el trámite de ley establecido y resolver conforme a lo solicitado, concediendo la inscripción en el Registro de Empresas que proveen y suplen equipos y materiales, que se utilizan en las instalaciones de sistema de energía solar fotovoltaica y solar térmica a mi representada la sociedad
 
 , y en definitiva resolver conforme a derecho.
 

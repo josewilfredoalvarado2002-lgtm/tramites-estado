@@ -44,23 +44,17 @@ INFORMATIVO DE LA FYDUCA
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
-REQUISITOS DE SOLICITUD DEL REGISTRO DE INGRESO AL PAÍS EN
-EL SISTEMA INFORMATIVO DE LA FYDUCA
+REQUISITOS DE SOLICITUD DEL REGISTRO DE INGRESO AL PAÍS EN EL SISTEMA INFORMATIVO DE LA FYDUCA
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Detalle de las FYDUCAS Cualquier otra información que el OT considere
-necesaria para sustentar su petición
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Detalle de las FYDUCAS Cualquier otra información que el OT considere necesaria para sustentar su petición
 Comprobante de boletín de pago L200.00
 (Impuesto: 156 - Actos administrativos, concepto: 1
 Propio Computo)
 Escritura de Constitución y sus modificaciones
-Declaración Única Centroamericana (DUCA)
-en el caso que sea operación combinada
+Declaración Única Centroamericana (DUCA) en el caso que sea operación combinada
 
 ## Documentos
 

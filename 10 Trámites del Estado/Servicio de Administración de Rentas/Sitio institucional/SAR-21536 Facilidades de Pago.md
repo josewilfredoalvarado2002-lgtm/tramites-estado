@@ -39,27 +39,13 @@ estado_sitio: "Vigente"
 ## Para qué se hace (según el documento)
 
 DESCRIPCIÓN DEL TRÁMITE
-Podrá ser solicitado por el Obligado Tributario (OT) o responsable que a falta de capacidad
-económica no ha podido cubrir el pago de sus obligaciones tributarias y desea hacerlo en forma
-parcial.
-En ningún caso se podrán dar facilidades de pago a las obligaciones tributarias que devienen de
-impuestos retenidos o percibidos.
-El OT o responsable obtendrá el Convenio de Pago donde se le establece las cuotas y los
-vencimientos de cada una de ellas, a fin de hacer efectivo el cumplimiento de su obligación con
-la Administración Tributaria.
-El trámite se puede realizar de forma presencial o por medio de la Oficina Virtual, ingresando
-identificado con su respectivo RTN y contraseña, esta solicitud se encuentra en el menú, en el
-apartado de “Otras Solicitudes”, seleccionando la Solicitud de Facilidad de Pago, registrando los
-campos que se detallan a continuación:
-a) Una breve explicación de los motivos en los que fundamenta su solicitud en la sección de
-Datos.
-b) En la sección de “Documentación”, se debe anexar la documentación obligatoria (Escrito
-de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo en Formato PDF), así mismo, podrá agregar otra
-documentación de carácter opcional.
-c) Para finalizar, previo a la presentación de la solicitud, se debe seleccionar el método de
-pago a través de Boletín de Pago Libre disponible o se podrá aportar un Boletín de Pago
-pendiente, que deberá ser pagado más adelante.
+Podrá ser solicitado por el Obligado Tributario (OT) o responsable que a falta de capacidad económica no ha podido cubrir el pago de sus obligaciones tributarias y desea hacerlo en forma parcial.
+En ningún caso se podrán dar facilidades de pago a las obligaciones tributarias que devienen de impuestos retenidos o percibidos.
+El OT o responsable obtendrá el Convenio de Pago donde se le establece las cuotas y los vencimientos de cada una de ellas, a fin de hacer efectivo el cumplimiento de su obligación con la Administración Tributaria.
+El trámite se puede realizar de forma presencial o por medio de la Oficina Virtual, ingresando identificado con su respectivo RTN y contraseña, esta solicitud se encuentra en el menú, en el apartado de “Otras Solicitudes”, seleccionando la Solicitud de Facilidad de Pago, registrando los campos que se detallan a continuación:
+a) Una breve explicación de los motivos en los que fundamenta su solicitud en la sección de Datos.
+b) En la sección de “Documentación”, se debe anexar la documentación obligatoria (Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo en Formato PDF), así mismo, podrá agregar otra documentación de carácter opcional.
+c) Para finalizar, previo a la presentación de la solicitud, se debe seleccionar el método de pago a través de Boletín de Pago Libre disponible o se podrá aportar un Boletín de Pago pendiente, que deberá ser pagado más adelante.
 
 ## Requisitos (según el documento oficial)
 
@@ -68,16 +54,12 @@ a) Realizar el pago por actos administrativos por el valor de L200.00.
 
 2
 
-b) Presentar un escrito de solicitud Indicando con claridad los hechos y razones en los que
-fundamenta su petición.
+b) Presentar un escrito de solicitud Indicando con claridad los hechos y razones en los que fundamenta su petición.
 c) Si la petición se realiza de forma presencial y por medio de Apoderado o Representante
-Legal, debe adjuntar la respectiva acreditación de poder autenticado. En caso de
-presentar copia del instrumento el mismo deberá ser cotejado con el original.
+Legal, debe adjuntar la respectiva acreditación de poder autenticado. En caso de presentar copia del instrumento el mismo deberá ser cotejado con el original.
 
 - PERSONA JURÍDICA O COMERCIANTE INDIVIDUAL:
-a) Estados financieros Originales (Consolidados) de los últimos 6 meses del año actual; estos
-tienen que estar firmados y sellados por el Representante Legal de la empresa, asimismo
-timbrados, firmados y sellados por Contador debidamente colegiado.
+a) Estados financieros Originales (Consolidados) de los últimos 6 meses del año actual; estos tienen que estar firmados y sellados por el Representante Legal de la empresa, asimismo timbrados, firmados y sellados por Contador debidamente colegiado.
 b) Pago máximo inicial
 
 - PERSONA NATURAL:
@@ -86,8 +68,7 @@ a) Pago máximo inicial (Si aplica)
 
 ## Costo (según el documento)
 
-PAGO, PARA IMPUESTO______________ DEL (LOS) PERÍODO (S) ___________ (EXPLICAR EL
-MOTIVO POR EL CUAL ESTÁ REALIZANDO LA SOLICITUD.)
+PAGO, PARA IMPUESTO______________ DEL (LOS) PERÍODO (S) ___________ (EXPLICAR EL MOTIVO POR EL CUAL ESTÁ REALIZANDO LA SOLICITUD.)
 AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL PRESENTE
 ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y RESOLVER DE CONFORMIDAD:
 TEGUCIGALPA, M.D.C. _____ DE _________________DEL 20____.
@@ -113,16 +94,12 @@ MINISTRO (A) DIRECTOR (A)
 SERVICIO DE ADMINISTRACION DE RENTAS (SAR)
 YO: _____________________, HONDUREÑO, MAYOR DE EDAD, PROFESION
 __________________________, DEL DOMICILIO DE _________________, CON R.T.N. No:
-____________; DIRECCION ______________________ TELEFONO No: _______________,
-TELEFONO MOVIL N°. ___________ CORREO ELECTRONICO ________________________,
-COMPAREZCO ANTE USTED SEÑOR(A) MINISTRO (A) DIRECTOR (A), ACTUANDO EN MI
-CONDICION DE _________________ (SI ES PERSONA JURÍDICA ESPECIFICAR EL NOMBRE DE LA
-EMPRESA _______________Y EL RTN___________________), PARA SOLICITAR FACILIDAD DE
+____________; DIRECCION ______________________ TELEFONO No: _______________, TELEFONO MOVIL N°. ___________ CORREO ELECTRONICO ________________________, COMPAREZCO ANTE USTED SEÑOR(A) MINISTRO (A) DIRECTOR (A), ACTUANDO EN MI
+CONDICION DE _________________ (SI ES PERSONA JURÍDICA ESPECIFICAR EL NOMBRE DE LA EMPRESA _______________Y EL RTN___________________), PARA SOLICITAR FACILIDAD DE
 
 ## Otro texto del documento
 
-TRÁMITES DE
-RECAUDACIÓN
+TRÁMITES DE RECAUDACIÓN
 FACILIDAD DE PAGO
 
 Dirección Nacional de Cumplimiento Tributario

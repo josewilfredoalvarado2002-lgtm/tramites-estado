@@ -38,8 +38,7 @@ estado_sitio: "Vigente"
 
 ## Requisitos (según el documento oficial)
 
-REQUISITOS DE AUTORIZACIÓN PARA
-CAMBIO DE MÉTODO O DEPRECIACIÓN
+REQUISITOS DE AUTORIZACIÓN PARA CAMBIO DE MÉTODO O DEPRECIACIÓN
 ACELERADA
 
 Dirección Nacional de Cumplimiento Tributario
@@ -49,29 +48,16 @@ REQUISITOS DE AUTORIZACIÓN PARA CAMBIO DE MÉTODO
 O DEPRECIACIÓN ACELERADA
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
-Escrito de Solicitud que contenga los requisitos
-establecidos en el Artículo 61 de la Ley de
-Procedimiento Administrativo (Formato PDF)
-Carta poder o poder especial, debidamente
-autenticado
-Balanza de comprobación detallada por cuenta
-contable de forma mensual que contenga: Número
-de cuenta, nombre de cuenta, saldo inicial, debe,
-haber, saldo final (EXCEL)
-Cualquier otra información que el OT considere
-necesaria para sustentar su petición
-Detalle de los activos solicitados (que contenga el
-Ítem Número de Inventario de Activos) para la
-autorización del cambio de método de depreciación
-o depreciación acelerada. (EXCEL)
+Escrito de Solicitud que contenga los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento Administrativo (Formato PDF)
+Carta poder o poder especial, debidamente autenticado
+Balanza de comprobación detallada por cuenta contable de forma mensual que contenga: Número de cuenta, nombre de cuenta, saldo inicial, debe, haber, saldo final (EXCEL)
+Cualquier otra información que el OT considere necesaria para sustentar su petición
+Detalle de los activos solicitados (que contenga el Ítem Número de Inventario de Activos) para la autorización del cambio de método de depreciación o depreciación acelerada. (EXCEL)
 Escritura de Constitución y sus modificaciones
-Estados financieros del período, que está solicitando
-y el anterior (EXCEL)
-Estados financieros firmados, sellados y timbrados
-del período, que está solicitando y el anterior
+Estados financieros del período, que está solicitando y el anterior (EXCEL)
+Estados financieros firmados, sellados y timbrados del período, que está solicitando y el anterior
 (Formato PDF)
-Libro Mayor de Propiedad Planta y Equipo al cierre
-de los períodos de la solicitud (EXCEL)
+Libro Mayor de Propiedad Planta y Equipo al cierre de los períodos de la solicitud (EXCEL)
 Comprobante de boletín de pago L200.00
 (Impuesto: 156 - Actos administrativos, concepto: 1
 Propio Computo)
