@@ -1,0 +1,54 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "112-2020"
+titulo: "ACUERDO No. 112-2020"
+emisor: "Secretaría de Gobernación, Justicia y Descentralización"
+gaceta_numero: 35411
+gaceta_fecha: "2020-10-27"
+gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35411 (2020-10-27)|La Gaceta 35411]]"
+paginas: "A. 4"
+sumario: "Acuerdos Nos. 96-2020, 102-2020, 103-2020, 111-2020, 112-2020, 113-2020, 114-2020, 115-2020, 116-2020DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAFAcuerdos Nos. 256-2020, 258-2020, 271-2020"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201027-35411/download"
+extraido: "2026-11-14"
+huella: "17af2c7292e13b94"
+---
+<!-- portal:inicio -->
+# ACUERDO No. 112-2020
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 112-2020 |
+| Emisor | Secretaría de Gobernación, Justicia y Descentralización |
+| Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35411 (2020-10-27)\|La Gaceta 35411]] del 2020-10-27 |
+| Páginas | A. 4 |
+| Según el sumario de La Gaceta | Acuerdos Nos. 96-2020, 102-2020, 103-2020, 111-2020, 112-2020, 113-2020, 114-2020, 115-2020, 116-2020DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAFAcuerdos Nos. 256-2020, 258-2020, 271-2020 |
+
+## Texto
+
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+
+ACUERDA:
+
+PRIMERO: Nombrar al ciudadano ADAN FLAUBERT RODRIGUEZ SIERRA, en el cargo de Secretario General de la Secretaría de Estado de Desarrollo e Inclusión Social.
+
+SEGUNDO: El nombrado tomará posesión de su cargo inmediatamente después que preste la promesa de ley y el juramento que establece el segundo párrafo del artículo 33 del Código de Conducta Ética del Servidor Público.
+
+TERCERO: El presente Acuerdo es efectivo a partir de su fecha y debe publicarse en “La Gaceta” el Diario Oficial de la República.
+
+La permanencia en el cargo está sujeta a evaluación por resultados en los términos establecidos por la Presidencia de la República.
+
+COMUNÍQUESE Y PUBLÍQUESE.
+
+Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los cinco (05) días del mes de octubre del año dos mil veinte (2020).
+
+RICARDO LEONEL CARDONA LÓPEZ SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO RICARDO ALFREDO MONTES NAJERA SUBSECRETARIO DE ESTADO EN EL DESPACHO DE JUSTICIA
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 35411 del 2020-10-27, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20201027-35411/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

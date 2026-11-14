@@ -1,0 +1,634 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "11/2021"
+titulo: "ACUERDO No.11/2021.- Sesión No.3910 del 9 de julio de"
+emisor: "Banco Central de Honduras"
+gaceta_numero: 35662
+gaceta_fecha: "2021-07-20"
+gaceta: "[[11 Normativa/La Gaceta/2021/La Gaceta 35662 (2021-07-20)|La Gaceta 35662]]"
+paginas: "A. 2 - 20"
+sumario: "Acuerdo No. 11/2021"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210720-35662/download"
+extraido: "2026-11-14"
+huella: "9bcc1f6a2f3b38b1"
+---
+<!-- portal:inicio -->
+# ACUERDO No.11/2021.- Sesión No.3910 del 9 de julio de
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 11/2021 |
+| Emisor | Banco Central de Honduras |
+| Publicado en | [[11 Normativa/La Gaceta/2021/La Gaceta 35662 (2021-07-20)\|La Gaceta 35662]] del 2021-07-20 |
+| Páginas | A. 2 - 20 |
+| Según el sumario de La Gaceta | Acuerdo No. 11/2021 |
+
+## Texto
+
+2021.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
+
+CONSIDERANDO: Que en atención a lo establecido en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras, el Banco Central de Honduras (BCH) y el Banco Hondureño para la Producción y la Vivienda (Banhprovi) suscribieron el 7 de enero de 2009 el Contrato de Fideicomiso de Administración e Inversión No.009-2009, el cual ha sido modificado en diversas ocasiones con el objeto de adecuarlo a las reformas de dicha ley.
+
+CONSIDERANDO: Que la Ley para el Fortalecimiento del Sector Productivo de la Palma Aceitera y el Artículo 14 reformado de la precitada ley facultaron al BCH y al Banhprovi para que, con los recursos de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras, pudieran realizar gastos e inversiones que propiciaran la gestión y capitalización de los fondos de garantía que provean garantías a los sectores prioritarios en generación de empleo y divisas bajo el marco legal del Contrato de Fideicomiso BCH-Banhprovi.
+
+CONSIDERANDO: Que la Constitución de la República establece que las instituciones descentralizadas gozan de independencia funcional y administrativa y a este efecto podrán emitir los reglamentos que sean necesarios de conformidad con la ley.
+
+CONSIDERANDO: Que el Directorio del BCH, mediante Resolución No.123-3/2020 del 31 de marzo de 2020, aprobó el Reglamento del Fondo de Garantía para el Financiamiento de Créditos Redescontados con Recursos del Fideicomiso BCH-Banhprovi, Destinados a los Sectores Prioritarios en Generación de Empleo y/o Divisas para el País, normativa aplicable para los créditos redescontados con recursos del Fideicomiso BCH-Banhprovi, como mecanismo para incentivar el acceso al crédito agroalimentario tecnificado y mitigar los efectos del cambio climático en el sector productivo, el cual fue reformado por medio de Resolución No.207-6/2020 del 26 de junio de 2020 y de los acuerdos No.11/2020, No.14/2020, No.17/2020 y No.21/2020 del 24 de julio, 3 y 24 de septiembre y 28 diciembre de 2020, respectivamente.
+
+CONSIDERANDO: Que la Comisión Fiduciaria (Cofid) del BCH, en la Sesión Ordinaria No.05/2021 del 23 de junio de 2021, oída la opinión de la Unidad Administradora de Fideicomisos, con el objetivo de mejorar la aplicabilidad y una mayor cobertura de los fondos de garantía creados por el BCH que redunde en mayores beneficios para los sectores productivos y para apoyar a los afectados por los fenómenos naturales Eta e Iota, recomienda a este Directorio modificar el Artículo 22 del Reglamento del Fondo de Garantía para el Financiamiento de Créditos Redescontados con Recursos del Fideicomiso BCH-Banhprovi, Destinados a Sectores Prioritarios en Generación de Empleo y/o Divisas para el País.
+
+POR TANTO:
+
+Con fundamento en los artículos 255, 262 y 342 de la Constitución de la República; 6 de la Ley del Banco Central de Honduras;
+
+3 y 5 de la Ley del Banco Hondureño para la Producción y la Vivienda; 2 y 3 de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras; 14 de la Ley para el Fortalecimiento del Sector Productivo de la Palma Aceitera y en las Normas para la Constitución, Administración y Supervisión de Fideicomisos emitidas por la Comisión Nacional de Bancos y Seguros,
+
+A C U E R D A:
+
+I.
+
+Modificar el Artículo 22 del Reglamento del Fondo de Garantía para el Financiamiento de Créditos Redescontados con Recursos del Fideicomiso BCH-Banhprovi, Destinados a los Sectores Prioritarios en Generación de Empleo y/o Divisas para el País, aprobado por el Directorio del Banco Central de Honduras, el cual en adelante se leerá de la manera siguiente:
+
+“Artículo 22. Cobertura del Fondo de Garantía.
+
+El Fondo de Garantía cubre el saldo insoluto del crédito otorgado a los sectores prioritarios en generación de empleo y/o divisas del país, de acuerdo al siguiente cuadro:
+
+El Fondo de Garantía otorgará una cobertura del 100.0% de préstamos nuevos a las personas naturales y jurídicas que fueron afectadas por los fenómenos naturales Eta e Iota y que necesiten recursos para rehabilitación total de su actividad económica.
+
+La IFI deberá presentar informe técnico y declaración jurada que respalde que el Beneficiario fue afectado por los fenómenos naturales Eta e lota y que requiere recursos para su rehabilitación total”.
+
+II.
+
+Como consecuencia de lo anterior, en lo sucesivo el texto íntegro del Reglamento del Fondo de Garantía para el Financiamiento de Créditos Redescontados con Recursos del Fideicomiso BCH-Banhprovi, Destinados a los Sectores Prioritarios en Generación de Empleo y/o Divisas para el País, incluidas las reformas, se leerá así:
+
+“REGLAMENTO DEL FONDO DE GARANTÍA PARA EL FINANCIAMIENTO DE CRÉDITOS REDESCONTADOS CON RECURSOS DEL FIDEICOMISO BCH-BANHPROVI, DESTINADOS A LOS SECTORES PRIORITARIOS EN GENERACIÓN DE EMPLEO Y/O DIVISAS PARA EL PAÍS
+
+CAPÍTULO I GENERALIDADES
+
+#### Artículo 1
+
+Artículo 1. Antecedentes.
+
+El Contrato de Administración e Inversión No.009-2009 suscrito entre el Banco Central de Honduras (BCH) y el Banco Hondureño para la Producción y la Vivienda (Banhprovi), el 7 de enero de 2009, ha sido modificado en varias ocasiones con el fin de adecuar su contenido a las disposiciones contenidas en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras y sus reformas, así como las demás normas jurídicas relacionadas con el mismo, el contrato en referencia estipula entre otros aspectos la constitución de un Fondo de Garantía para el financiamiento de garantías para los sectores prioritarios en generación de empleo y/o divisas del país, comenzando con la emisión de garantías para los destinos estipulados en el “Producto Financiero para el Otorgamiento de Créditos para la Transformación del Sector Agroalimentario de Honduras” que será administrado por el Banhprovi en su condición de Fiduciario al amparo de los Decretos Legislativos No.172-2019 del 22 de enero de 2020 y No.20- 2020 del 26 de febrero de 2020; derivado de lo anterior, es necesario regular la operatividad del Fondo de Garantía a través del presente Reglamento.
+
+#### Artículo 2
+
+Artículo 2. Objeto y Alcance.
+
+El presente reglamento tiene como finalidad definir la operatividad del Fondo de Garantía para el financiamiento de créditos redescontados con recursos del Fideicomiso BCH-Banhprovi, destinados a sectores prioritarios en la generación de empleo y/o divisas, como mecanismo para incentivar el acceso al crédito agroalimentario tecnificado y mitigar los efectos del cambio climático en el sector productivo y los afectados por los Fenómenos Naturales Eta e Iota.
+
+#### Artículo 3
+
+Artículo 3. Legislación Aplicable.
+
+El Fondo de Garantía para el financiamiento de créditos redescontados con recursos del Fideicomiso BCHBanhprovi debe regirse por el presente Reglamento, el Contrato del Fideicomiso de Administración e Inversión suscrito entre el BCH y el Banhprovi al amparo de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras y sus reformas, las disposiciones de la Comisión Fiduciaria del Banco Central (Cofid) y en lo pertinente por el Código de Comercio, Ley del Banco Central de Honduras, Ley del Banco Hondureño para la Producción y la Vivienda, Ley del Sistema Financiero, Ley de la Comisión Nacional de Bancos y Seguros y demás leyes y normas aplicables.
+
+#### Artículo 4
+
+Artículo 4. Definiciones.
+
+a) BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (Banhprovi): Institución creada mediante Decreto Legislativo No.6-2005 del veintiséis (26) de enero del año dos mil cinco (2005), que contiene la Ley del Banco Hondureño Para la Producción y la Vivienda identificado también como la sigla Banhprovi, publicado en el Diario Oficial “La Gaceta” No.30,659 el uno (1) de abril del año dos mil cinco (2005) y reformado mediante Decreto Legislativo No.358-2014 del veinte (20) de enero del año dos mil catorce (2014), publicado en el Diario Oficial “La Gaceta” No.33,431 el veinte (20) de mayo del año dos mil catorce (2014) dicho decreto fue rectificado por Decreto Legislativo No.358-2013, mediante Fe de Errata publicada en el Diario Oficial “La Gaceta” No.33,530 el 12 de septiembre del año dos mil catorce (2014), quien funge como fiduciario del Fideicomiso de Administración e Inversión creado al amparo de lo establecido en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras y sus reformas.
+
+b) BANCO CENTRAL DE HONDURAS (BCH):
+
+Institución creada mediante Decreto Legislativo No.53 del 3 de febrero de 1950, publicado en el Diario Oficial “La Gaceta”, el 23 de febrero de 1953, quien funge como fideicomitente y fideicomisario del Fideicomiso de Administración e Inversión creado al amparo de lo establecido en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras y sus reformas.
+
+c) BENEFICIARIO: Personas naturales o jurídicas que desarrollen proyectos en los sectores prioritarios que generen empleos y/o divisas para el país y se les otorguen créditos redescontados con recursos del Fideicomiso BCHBanhprovi.
+
+d) COMISIÓN NACIONAL DE BANCOS Y SEGUROS (CNBS): Ente encargado de regular las operaciones relativas a la constitución y administración de fideicomisos que realicen las entidades bancarias.
+
+e) COMISIÓN FIDUCIARIA DEL BCH (Cofid):
+
+Comité Técnico Administrativo del Fideicomiso al amparo de lo establecido en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras.
+
+f) CONTRATO DE ADHESIÓN PARA EL USO DEL FONDO DE GARANTÍA: Contrato suscrito entre el Banhprovi y las IFIs calificadas, para el cual se debe contar con una solicitud escrita o mediante correo electrónico oficial de un representante de la IFI. Dicho documento debe reflejar las responsabilidades de la IFI de realizar todas las actividades relacionadas a la gestión crediticia de la cartera sujeta a cobertura por las garantías.
+
+g) CONTRATO DE FIDEICOMISO: Es el Contrato de Administración e Inversión suscrito entre el BCH y el Banhprovi y sus Addéndums de conformidad con los Decretos Legislativos Nos.67-2009, 57-2013, 91-2013, 95-2014, 90-2016, 145-2018 y el párrafo segundo del
+
+Artículo 14 de la Ley para el Fortalecimiento del Sector Productivo de la Palma Aceitera, contenido en el Decreto Legislativo No.130-2019 reformado mediante el Decreto Legislativo No.179-2019 e interpretado mediante el Decreto Legislativo No.20-2020.
+
+h) FIDEICOMISO BCH-Banhprovi (FIBCH):
+
+Fideicomiso de administración e inversión creado al amparo de lo establecido en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras.
+
+i) FONDO DE GARANTÍA: Recursos patrimoniales del FIBCH, con cargo a los que operan todas las actividades para la emisión y administración de Certificados de Garantía de Cobertura para el financiamiento de créditos redescontados con recursos del FIBCH, destinados a sectores prioritarios en generación de empleo y/o divisas para el país.
+
+j) GARANTÍA O CERTIFICADO DE GARANTÍA:
+
+Instrumento jurídico accesorio y autónomo que deriva de una obligación crediticia de una IFI, en la cual el Fondo de Garantía administrado por el fiduciario, se compromete a pagar de forma parcial dicha obligación a favor de la IFI en el evento de incumplimiento de un deudor ante ésta, de conformidad al procedimiento establecido en el presente reglamento.
+
+k) IFI: Institución Financiera Intermediaria que otorga crédito mediante redescuento de fondos del FIBCH y tramita la emisión de Certificados de Garantía Complementarias en los casos que aplique.
+
+l) REGLAMENTO DEL FONDO DE GARANTÍA
+
+PARA EL FINANCIAMIENTO DE CRÉDITOS REDESCONTADOS CON RECURSOS DEL FIDEICOMISO BCH-BANHPROVI, DESTINADOS A SECTORES PRIORITARIOS EN GENERACIÓN DE EMPLEO Y/O DIVISAS PARA EL PAÍS:
+
+Normativa que regula el financiamiento de garantías para los sectores prioritarios en generación de empleo y/o divisas del país, las cuales respaldan créditos redescontados con recursos del Fideicomiso BCH-Banhprovi.
+
+CAPÍTULO II CAPITAL Y USO DE LOS RECURSOS DEL FONDO DE GARANTÍA
+
+#### Artículo 5
+
+Artículo 5. Del Capital.
+
+El Fondo de Garantía se constituye con un capital de quinientos veinticinco millones de lempiras (L525,000,000.00), de conformidad a lo estatuido en la Cláusula Segunda del Addéndum No.016-2020 del 31 de marzo de 2020 al Contrato de Administración e Inversión del Fideicomiso BCH-Banhprovi, con el objetivo de rendir garantías complementarias a favor de la IFI en los casos en que determine el presente Reglamento.
+
+Al monto anteriormente establecido se le sumarán los valores siguientes:
+
+1. Ingresos por Comisiones;
+
+2. Donaciones nacionales e internacionales; y,
+
+3. Aportaciones recibidas del Tesoro de la República.
+
+El capital del Fondo de Garantía únicamente puede ser disminuido por la ejecución de garantías y el consecuente pago a las IFIs participantes. Se prohíbe utilizar el capital del Fondo de Garantías para la emisión de valores que impliquen intermediación financiera; así como invertir dichos recursos en instituciones públicas o privadas financieras.
+
+#### Artículo 6
+
+Artículo 6. Derogado.
+
+#### Artículo 7
+
+Artículo 7. Solvencia del Fondo de Garantía.
+
+Como mecanismo para asegurar el correcto manejo del riesgo transferido al Fondo de Garantía, la solvencia del mismo, la que se define como el valor resultante de dividir el capital del Fondo de Garantía entre el saldo total de las obligaciones garantizadas por el mismo, no deberá ser inferior al 25%, en caso de ser inferior se dejará de emitir nuevos certificados de garantía hasta que se libere el cupo por el repago de las obligaciones garantizadas.
+
+Debido a este límite, el monto máximo de la suma de los valores garantizados por el Fondo de Garantía es de cuatro
+
+(4) veces el total de su capital.
+
+#### Artículo 8
+
+Artículo 8. Uso de los Recursos.
+
+Corresponde al Banhprovi, en su rol de fiduciario, el control de los pasivos contingentes que representan las garantías emitidas, el adecuado control de los límites de exposición, contabilización de reservas y demás necesarias para garantizar el buen funcionamiento del Fondo de Garantía.
+
+Las operaciones que realice el Fondo de Garantía estarán sujetas a la revisión, supervisión y auditorías, conforme lo establecido en la Cláusula Décimo Cuarta del Contrato Fideicomiso de Administración e Inversión suscrito entre el BCH y el Banhprovi y sus Addéndums.
+
+CAPÍTULO III FUNCIONES Y RESPONSABILIDADES
+
+#### Artículo 9
+
+Artículo 9. Responsabilidades del Fideicomitente.
+
+Es responsabilidad del BCH, previo a opinión de la Comisión Fiduciaria (Cofid), en su condición de Fideicomitente, establecer el monto único que capitalice el Fondo de Garantía.
+
+#### Artículo 10
+
+Artículo 10. Funciones de la Comisión Fiduciaria (Cofid).
+
+La Cofid tiene las siguientes funciones:
+
+1. Conocer de las propuestas presentadas para modificar el presente Reglamento y recomendar al Directorio del BCH lo que considere pertinente, siendo dicho órgano colegiado el encargado de tomar la decisión final en relación a tales asuntos.
+
+2. Conocer de la gestión del Banhprovi, la cual deberá ser mensual, respecto a la administración del Fondo de Garantía para el Financiamiento de Créditos Redescontados con Recursos del Fideicomiso BCHBanhprovi, Destinados a los Sectores Prioritarios en Generación de Empleo y/o Divisas para el País, con el objeto de velar por la mejor consecución del patrimonio fideicometido y del capital del Fondo de Garantía, para lo cual podrá girar las instrucciones que correspondan al Banhprovi.
+
+Los aspectos no contemplados en este Reglamento serán resueltos por el Directorio del Banco Central de Honduras.
+
+#### Artículo 11
+
+Artículo 11. Funciones y Responsabilidades del Fiduciario.
+
+Para la adecuada administración del Fondo de Garantía, son funciones del Banhprovi como fiduciario:
+
+1. Mantener el capital del Fondo de Garantía separado de sus propios bienes y de los otros fondos de garantía que administre.
+
+2. Suscribir el Contrato de Adhesión para el Uso del Fondo de Garantía con las IFIs calificadas.
+
+3. Aprobar o denegar las solicitudes de garantía de conformidad a lo establecido en el presente Reglamento.
+
+4. Emitir los certificados de garantía con cargo al Fondo de Garantía, de acuerdo a las condiciones establecidas en el presente Reglamento.
+
+5. Llevar un registro de las garantías emitidas y ejecutadas y establecer los controles que permitan mantener el Fondo de Garantía actualizado.
+
+6. Registrar, contabilizar y dar seguimiento al pago de comisiones al Fondo de Garantía.
+
+7. Realizar los pagos correspondientes a la ejecución de las garantías, una vez que se compruebe el incumplimiento en el pago del crédito y según lo establecido en el Capítulo VII del presente Reglamento.
+
+8. Anular las garantías cuando se determinen anomalías en el proceso de otorgamiento de las mismas o dolo en la solicitud del instrumento por parte de la IFIs; asimismo suspender a las IFIs que realicen estas prácticas.
+
+9. Constituir dentro del Fondo de Garantía las reservas contables de conformidad a lo establecido en el presente Reglamento.
+
+10. Prestar la asesoría requerida por las IFIs participantes sobre la operatividad y realizar la divulgación necesaria para dar a conocer los beneficios del Fondo de Garantía a los beneficiarios.
+
+11. Mantener un estrecho contacto con las IFIs participantes a fin de que el esquema de garantías opere eficazmente.
+
+12. Remitir mensualmente al BCH informes sobre la situación de las garantías emitidas y ejecutadas.
+
+13. Remitir mensualmente al BCH los estados financieros del Fideicomiso FIBCH en el cual se incluyen las operaciones del Fondo de Garantía.
+
+14. Proporcionar mensualmente al fideicomitente un informe sobre la generación de empleo y/o divisas para el país que se hayan generado a partir de la colocación de los recursos del “Producto Financiero para el Otorgamiento de Créditos para la Transformación del Sector Agroalimentario de Honduras” y de otros productos relacionados.
+
+15. Liquidar contra el Fideicomiso BCH-Banhprovi el remanente del capital del Fondo de Garantía, en caso de que concluyan las obligaciones respaldadas con estos recursos.
+
+CAPÍTULO IV DE LAS INSTITUCIONES FINANCIERAS INTERMEDIARIAS
+
+#### Artículo 12
+
+Artículo 12. De las Instituciones Financieras Intermediarias Participantes.
+
+Las IFIs participantes serán todas aquellas instituciones calificadas como elegibles por el Banhprovi.
+
+#### Artículo 13
+
+Artículo 13. Firma del Contrato de Adhesión con las IFIs Participantes.
+
+El Banhprovi está facultado para suscribir del Contrato de Adhesión para el Uso del Fondo de Garantía con las IFIs calificadas. Para iniciar dicha petición, es necesario contar con una solicitud escrita o mediante correo electrónico de un representante legal de la IFI.
+
+Dicho contrato debe reflejar la responsabilidad de la IFI participante de realizar todas las actividades relacionadas a la gestión crediticia de la cartera sujeta a cobertura por las garantías emitidas, incluyendo la selección, aprobación, formalización, desembolsos y gestiones de recuperación de los financiamientos garantizados.
+
+#### Artículo 14
+
+Artículo 14. Endoso del Certificado de Garantía y Remisión de información.
+
+Las IFIs participantes deben devolver al Banhprovi, dentro de los veinte (20) días hábiles siguientes al desembolso del redescuento, el certificado de garantía original debidamente endosado a favor del Banhprovi como Fiduciario del FIBCH.
+
+Asimismo, las IFIs participantes deben enviar mensualmente a Banhprovi, un detalle de los saldos y condiciones de los créditos cubiertos por el Fondo de Garantía; mantener un registro accesible de la información de estos créditos, y permitir a representantes del Banhprovi, en cualquier momento que esta institución lo consideren conveniente, inspeccionar los libros, registros y otros documentos de los créditos respaldados por el Fondo de Garantía.
+
+#### Artículo 15
+
+Artículo 15. De las Medidas por Incumplimiento del Contrato de Adhesión.
+
+El Banhprovi, como administrador del Fondo de Garantía, se reserva el derecho de realizar auditorías e inspecciones para comprobar el correcto otorgamiento de garantías por parte de las IFIs participantes.
+
+Si como resultado de tales auditorías e inspecciones se determinarán anomalías o irregularidades en el proceso de solicitud y otorgamiento de las garantías según lo establecido en el presente Reglamento, así como en la normativa aplicable, corresponderá a la IFI normalizar ante el Banhprovi la cobertura de garantías del respectivo redescuento, lo anterior sin perjuicio que el Banhprovi, a través de su Comité de Crédito de segundo piso y en proporción a la gravedad de las anomalías detectadas, aplique las medidas siguientes:
+
+1. Dejar sin valor y efecto los certificados de garantía otorgados de manera anómala, atípica o irregularmente, sin que el Fondo de Garantía reintegre la respectiva comisión de garantía percibida de la IFI según el Artículo 30 de este Reglamento.
+
+2. Suspender a la IFI el acceso al Fondo de Garantía.
+
+#### Artículo 16
+
+Artículo 16. Definición de Cupos de Garantía por IFI.
+
+El monto máximo hasta el cual el Fondo de Garantía garantizará obligaciones a cargo de un intermediario no debe superar el Límite de Exposición de la IFI aprobado por el Consejo Directivo del Banhprovi en aplicación del Reglamento de Crédito Vigente Operaciones de Segundo Piso del Banhprovi.
+
+Este cupo de disponibilidad de cobertura total a favor de una IFI se revisará de forma trimestral de acuerdo a la correspondiente actualización aprobada por el Consejo Directivo del Banhprovi.
+
+CAPÍTULO V DE LA ELEGIBILIDAD DE LOS CRÉDITOS GARANTIZADOS
+
+#### Artículo 17
+
+Artículo 17. Destinos de los Créditos Garantizados.
+
+Los créditos a garantizar son aquellos que sean redescontados con recursos del Fideicomiso BCH-Banhprovi y deberán estar comprendidos dentro de los sectores prioritarios en generación de empleo y/o divisas para el país, siendo uno de estos los destinos estipulados en el “Producto Financiero para el Otorgamiento de Créditos para la Transformación del Sector Agroalimentario de Honduras”.
+
+No podrán ser sujeto de garantía las operaciones crediticias que no guarden relación y que no sean redescontados por el Banhprovi con recursos del Fideicomiso BCH-Banhprovi.
+
+#### Artículo 18
+
+Artículo 18. De los Requisitos para el Uso de los Recursos del Fondo de Garantía.
+
+Las IFIs participantes calificarán las solicitudes de garantías que los beneficiarios requieran, una vez que se cumplan las condiciones siguientes:
+
+1. Los financiamientos deben corresponder a los sectores prioritarios en generación de empleo y/o divisas del país, siendo uno de estos los destinos definidos en el “Producto Financiero para el Otorgamiento de Créditos para la Transformación del Sector Agroalimentario de Honduras”.
+
+2. La garantía solicitada podrá ser complementaria a la presentada por el beneficiario en el trámite crediticio correspondiente.
+
+3. El Beneficiario debe contar con la asistencia técnica necesaria para la actividad productiva, comercial o de servicio objeto del crédito.
+
+4. La actividad económica desarrollada por el solicitante, que es objeto de un nuevo financiamiento, debe ser viable desde el punto de vista técnico y financiero.
+
+#### Artículo 19
+
+Artículo 19. Derogado.
+
+CAPÍTULO VI DE LA COBERTURA DEL FONDO DE GARANTÍA
+
+#### Artículo 20
+
+Artículo 20. Condiciones de Cobertura de las Garantías.
+
+El carácter parcial, en los casos que corresponda, de las garantías emitidas por el Fondo de Garantía implica obligatoriamente la participación de la IFI en los riesgos inherentes a los financiamientos que otorgue y por tanto a las obligaciones garantizadas.
+
+En caso de negligencia o dolo en el proceso de otorgamiento de una obligación crediticia cubierta, implicando una falta de participación de la IFI en el riesgo transferido, o una falta de participación en el riesgo por parte del beneficiario, el Banhprovi podrá definir a la IFI y al beneficiario como no elegibles para futuras coberturas y financiamientos, de igual manera, el certificado de garantía quedará sin valor ni efecto ipso facto.
+
+#### Artículo 21
+
+Artículo 21. Alcance de la Cobertura de la Garantía.
+
+El Fondo de Garantía limita su responsabilidad a la proporción de cobertura asignada a cada obligación garantizada de conformidad a lo establecido en el Certificado de Garantía emitido y al presente Reglamento.
+
+Será objeto de la cobertura de la Garantía, el resultado del saldo insoluto mantenido por el Beneficiario hasta el momento en que se realiza la solicitud de reclamación de pago por parte de la IFI, multiplicado por el porcentaje de cobertura establecido en el certificado de garantía.
+
+#### Artículo 22
+
+Artículo 22. Cobertura del Fondo de Garantía.
+
+El Fondo de Garantía cubre el saldo insoluto del crédito otorgado a los sectores prioritarios en generación de empleo y/o divisas del país, de acuerdo al siguiente cuadro:
+
+El Fondo de Garantía otorgará una cobertura del 100.0% de préstamos nuevos a las personas naturales y jurídicas que fueron afectadas por los fenómenos naturales Eta e Iota y que necesiten recursos para rehabilitación total de su actividad económica.
+
+La IFI deberá presentar informe técnico y declaración jurada que respalde que el Beneficiario fue afectado por los fenómenos naturales Eta e lota y que requiere recursos para su rehabilitación total.
+
+#### Artículo 23
+
+Artículo 23. De la Complementariedad de Cobertura de la Garantía.
+
+La IFI puede solicitar garantías complementarias (como ser fiduciaria, mobiliaria, hipotecaria, líquida o combinación de las anteriores) al Beneficiario para respaldar la operación, las que deberá notificar al Banhprovi en la solicitud de emisión de garantía con cargo al Fondo de Garantía para el Financiamiento de Créditos Redescontados con Recursos del Fideicomiso BCH-BANHPROVI, Destinados a Sectores Prioritarios en Generación de Empleo y/o Divisas para el País.
+
+La presentación de garantías complementarias por parte del deudor, en ningún caso será una condición que limite el otorgamiento del crédito o la emisión de la garantía.
+
+Asimismo, para aquellos deudores que soliciten un crédito a ser garantizado por el Fondo de Garantía y que tienen operaciones vigentes con la IFI, ésta debe incluir la nueva operación en la estructura de garantías que el Beneficiario mantiene con la IFI.
+
+La garantía emitida por el Fondo de Garantía operará en forma complementaria a la que constituya el beneficiario a favor de la IFI; dicha garantía emitida por el Fondo de Garantía irá disminuyendo su cobertura con el repago del saldo de capital del préstamo de acuerdo con la estructura de garantías del beneficiario.
+
+#### Artículo 24
+
+Artículo 24. Derogado.
+
+#### Artículo 25
+
+Artículo 25. Del Plazo de las Garantías.
+
+El plazo de las garantías será acorde con la vigencia del crédito más un máximo de seis (6) meses. La IFI podrá cancelar la garantía cuando considere que no es necesario mantenerla. En este caso la IFI deberá notificarlo al Banhprovi en un plazo no superior a diez (10) días hábiles.
+
+#### Artículo 26
+
+Artículo 26. Modificación a las Condiciones del Crédito.
+
+La IFI debe notificar al Banhprovi dentro de los diez (10) días hábiles después de haberse realizado las modificaciones de las obligaciones garantizadas referentes a cualquier condición financiera, cambio de deudor o cambio de plazo.
+
+CAPÍTULO VII DE LA EMISIÓN Y CONDICIONES DE GARANTÍAS
+
+#### Artículo 27
+
+Artículo 27. De la Solicitud de Garantía.
+
+Las IFIs solicitarán al Banhprovi la aprobación de la garantía utilizando un formato previamente diseñado para tal efecto (Anexo II del presente Reglamento) y remitiendo la siguiente documentación:
+
+1. Oficio de remisión de documentos requeridos para la emisión de certificados de garantía.
+
+2. Formato de solicitud de garantía complementaria (proporcionado por el Banhprovi) conteniendo la información relevante y certificando que se ha cumplido con lo establecido en el presente Reglamento referente a los requisitos de calificación de garantía.
+
+3. Resolución o constancia de aprobación del préstamo emitida por la IFI.
+
+La presentación de la solicitud de garantía deberá ser remitida en la misma fecha en la que se remita la documentación solicitando el redescuento del crédito objeto de garantía.
+
+#### Artículo 28
+
+Artículo 28. De la Aprobación de Solicitudes de Garantías.
+
+Las solicitudes de garantía serán aprobadas o denegadas por las instancias administrativas del Banhprovi, quienes evaluarán si el financiamiento, intermediario y el beneficiario son aptos para la cobertura de acuerdo con lo estipulado en el presente Reglamento, en un plazo máximo de diez (10) días calendario una vez recibida la documentación completa.
+
+Una vez que el expediente es revisado, el Banhprovi debe informar a la IFI participante sobre la aprobación o denegación de la garantía. Dado que la solicitud de garantía es enviada en conjunto con la solicitud de redescuento del préstamo solicitado, el Banhprovi comunicará en conjunto ambas notificaciones, independientemente del resultado de la evaluación.
+
+La solicitud de la garantía complementaria es independiente de la solicitud del crédito, por lo que la denegación al prestatario del acceso al Fondo de Garantía no implica la denegación del redescuento solicitado.
+
+#### Artículo 29
+
+Artículo 29. De la Formalización de la Garantía.
+
+La formalización de las garantías se hará por medio de la emisión de un Certificado de Garantía, en el que se incluirán los principales términos y condiciones especiales de ésta. El formato del certificado de garantía se incluye como Anexo I del presente Reglamento y forma parte del mismo.
+
+#### Artículo 30
+
+Artículo 30. Del Cobro de la Comisión por Emisión de la Garantía.
+
+Como contraprestación por el riesgo asumido, el Beneficiario pagará al Fondo de Garantía una comisión no reembolsable, por la emisión de la garantía del punto cinco por ciento (0.5%) calculada sobre el monto total del préstamo otorgado. La comisión correspondiente deberá deducirse en el momento del desembolso del crédito. La IFI deberá trasladar al Banhprovi los pagos recibidos en el mes por concepto de la comisión por emisión del CGC, a más tardar el quinto día hábil del mes siguiente.
+
+#### Artículo 31
+
+Artículo 31. Derogado.
+
+#### Artículo 32
+
+Artículo 32. De la Vigencia de la Garantía.
+
+La vigencia de la garantía inicia en la fecha de desembolso de la obligación garantizada, y su valor y efecto se extingue por la ocurrencia de los siguientes eventos:
+
+a. Cancelación total de la obligación garantizada.
+
+b. La ejecución y pago de la garantía por parte del Fondo de Garantía.
+
+c. La no confirmación del saldo por parte de la IFI durante los próximos treinta (30) días calendario después del último mes que reportó.
+
+d. El transcurso de hasta seis (6) meses contados desde la fecha de inicio de la mora no subsanada de la obligación garantizada sin que la IFI Participante haya hecho la solicitud de ejecución de la garantía.
+
+e. La manifestación escrita de la IFI o del Beneficiario de no desear continuar con la Garantía.
+
+f. La cancelación de la garantía por otros motivos previstos en el presente Reglamento.
+
+#### Artículo 33
+
+Artículo 33. Actualización de Cartera.
+
+La actualización de cartera es el proceso por medio del cual la IFI deberá remitir al Banhprovi, mensualmente, la información sobre el estado de las obligaciones garantizadas, la cual servirá de base para actualizar la disponibilidad de la cobertura de la IFI y del beneficiario final, así como realizar el pago de garantías.
+
+El proceso de actualización de cartera deberá ser efectuado por la IFI de forma mensual, dentro de los diez (10) días hábiles del siguiente mes, con la información de cartera garantizada.
+
+#### Artículo 34
+
+Artículo 34. Enajenación de Obligaciones Garantizadas.
+
+Las garantías conservarán su vigencia por el lapso que reste para el cumplimiento de los plazos inicialmente pactados, sobre aquellas obligaciones garantizadas que sean objeto de enajenación, siempre que el adquiriente sea una IFI participante y continúe administrando las obligaciones garantizadas y cumpliendo las disposiciones de este Reglamento.
+
+CAPÍTULO VIII DE LA RECLAMACIÓN DE GARANTÍAS
+
+#### Artículo 35
+
+Artículo 35. Reclamación de las Garantías.
+
+La Reclamación es la solicitud de la ejecución de la garantía que la IFI participante hace al Banhprovi, la cual debe ser formalizada mediante comunicación escrita acompañada de los documentos establecidos en el Anexo III del presente Reglamento.
+
+La solicitud de pago al Banhprovi se hará después que se hayan agotado los esfuerzos de recuperación de conformidad a las políticas de la IFI, considerando como evidencia de tal: cartas y gestiones físicas de cobro, reuniones con el cliente, informes de visita, entre otras. La garantía debe estar vigente cuando se presente la solicitud de su ejecución al Banhprovi.
+
+El Banhprovi cuenta con un plazo de hasta quince (15) días hábiles desde la fecha de presentación por parte de la IFI de la totalidad de los documentos requeridos, para determinar si procede o no la ejecución de la garantía.
+
+En caso de presentarse una inconsistencia, el Banhprovi informará en el período antes definido a la IFI para que ésta proceda a realizar la subsanación respectiva, para lo cual tendrá un plazo máximo de diez (10) días hábiles contados a partir del día siguiente de la notificación realizada por el Banhprovi. Una vez que la IFI presente la información requerida, volverá a comenzar el plazo de los quince (15) día antes citado para el análisis por parte del Banhprovi.
+
+La Reclamación debe ser recibida por la División de Fideicomisos del Banhprovi. El proceso de revisión de la procedencia de la reclamación debe ser realizado por el Departamento Jurídico del banco fiduciario, y todo análisis debe ser remitido al Comité de Créditos de segundo piso del Banhprovi para que se decida la procedencia del reclamo.
+
+En caso de que la reclamación proceda, la División de Fideicomisos debe efectuar la ejecución de la garantía.
+
+En caso de rechazo, la IFI tiene hasta diez (10) días hábiles para solicitar reconsideración, con la documentación justificativa. La resolución tomada por el Banhprovi en esta segunda oportunidad será definitiva.
+
+No habrá lugar a reclamación cuando el crédito haya entrado en impago por causa de la muerte del beneficiario, cuando la obligación garantizada cuente con seguro de vida al que corresponda realizar el pago de la deuda.
+
+#### Artículo 36
+
+Artículo 36. Plazo para la Reclamación de Garantías.
+
+Las reclamaciones deben ser presentadas por las IFIs en un plazo máximo de hasta seis (6) meses a partir de la fecha de inicio de la mora de la obligación garantizada.
+
+La reclamación solo se entiende como presentada una vez que se cumplen la totalidad de los requisitos establecidos en este Reglamento para su formalización.
+
+Este plazo puede ser prorrogado por el Banhprovi, a solicitud de la IFI cuando por caso fortuito, procesos de ejecución extendidos o circunstancias de fuerza mayor, se pueda comprobar que las causas de extensión del plazo no son imputables a la IFI.
+
+#### Artículo 37
+
+Artículo 37. Documentación Requerida para la Reclamación.
+
+Para entender la reclamación como formalizada se requiere la siguiente documentación:
+
+1. Carta de remisión de documentos requeridos para el pago del Certificado de Garantía Complementaria.
+
+2. Formato de solicitud de reclamo de pago de garantía (formato) proporcionado por Banhprovi debidamente llenado, firmado y sellado por la persona responsable.
+
+3. Estado de cuenta del préstamo a la fecha de constitución de mora del prestatario.
+
+4. Constancia extendida y firmada por el empleado autorizado de la IFI de que el crédito ha sido otorgado, supervisado y que han agotado los esfuerzos de recuperación por la vía administrativa y judicial empleando técnicas generalmente aceptadas y enmarcadas dentro de las normas y leyes correspondientes.
+
+5. Evidencia de las supervisiones y gestiones de cobro realizadas.
+
+6. Certificación de la IFI de haber realizado el Gasto por Reservas para Créditos Incobrables en sus Estados Financieros de la parte no garantizada por el Fondo de Garantía del préstamo en los casos que aplique.
+
+7. Evidencia que el deudor ha sido reportado oportunamente ante la Central de Información Crediticia de la CNBS y/o cualquier otra Central de Riesgos cuando aplique.
+
+8. Fotocopia del Certificado de Garantía.
+
+En caso de que la obligación garantizada tuviera garantías mobiliarias o inmobiliarias al momento de la remisión de la solicitud de ejecución de la garantía remitida al Banhprovi, la IFI debe demostrar que el deudor ha sido admitido en un proceso de liquidación judicial, incluyendo una copia del auto mediante el cual se admitió dicho proceso.
+
+El Banhprovi verificará la validez y vigencia de la correspondiente garantía, el resto de la documentación recibida y el valor neto a pagar.
+
+CAPÍTULO IX DE LA EJECUCIÓN DE GARANTÍAS
+
+#### Artículo 38
+
+Artículo 38. Pago de Garantías.
+
+Una vez que se haya establecido por parte del Banhprovi el cumplimiento de los requisitos para el pago del certificado de garantía, se procederá a efectuar la cancelación del monto correspondiente de pago en un término no mayor de quince (15) días hábiles, contados a partir del recibo de la reclamación presentada en forma completa y correcta por la IFI, de acuerdo con los requisitos exigidos en el presente Reglamento.
+
+El pago del valor del certificado de garantía se efectuará mediante un crédito a la cuenta que la IFI designe.
+
+#### Artículo 39
+
+Artículo 39. Reembolso de Recuperación en Exceso.
+
+En los casos en que el Beneficiario (prestatario) incumpla y el valor total que reciba la IFI, el cual consiste en el resultado de la suma del valor del Certificado de Garantía que reciba de Banhprovi mas el valor que reciba por las garantías ejecutadas que rindió el prestatario o en dinero que reciba por concepto de recuperaciones del préstamo, supere el valor del saldo de capital la deuda que sostenía éste al momento del incumplimiento, la IFI debe realizar el traslado de dicho excedente a favor del Fondo de Garantía, hasta liquidar el monto que se le adeude al Fondo de Garantía. Para el cumplimiento de esta disposición, la IFI deberá darle seguimiento a la recuperación del crédito mensualmente, debiendo trasladar los excedentes al fondo de garantía, en los primeros diez (10) días hábiles después de cada mes.
+
+La no aplicación del presente artículo podría conllevar a la definición de la IFI como No Elegible y a dar por vencidas las Garantías vigentes que cubran obligaciones de dicha IFI sin perjuicio del reclamo que proceda.
+
+#### Artículo 40
+
+Artículo 40. Reactivación de Garantías Pagadas.
+
+Cuando después de pagada la garantía, la IFI logre normalizar la obligación garantizada y desee continuar con la cobertura del Fondo de Garantía por el plazo restante o readecuado, deberá restituir al Fondo de Garantía el monto pagado en concepto de garantía, y solicitar al Banhprovi la reactivación de la garantía.
+
+#### Artículo 41
+
+Artículo 41. Del Reclamo y Pago de Garantías y Gestiones de Cobro a Favor del Fondo de Garantía.
+
+En caso de aceptación de pago de la garantía, el Fondo de Garantía pagará a la IFI la proporción garantizada del monto adeudado de capital dejando establecido lo siguiente:
+
+1. Aun cuando se haga efectiva la garantía extendida sobre determinado crédito, tal situación no releva al beneficiario final de la responsabilidad de continuar la amortización de su crédito, ni a las IFIs participantes de continuar las gestiones de recuperación y cobro.
+
+2. Las IFIs deberán informar al Banhprovi, el saldo de capital e intereses pendientes de pago del crédito cuya garantía haya sido hecha efectiva, detallando la parte adeudada a favor del Fondo de Garantía.
+
+3. Las IFIs deberán preservar totalmente las otras garantías que complementan a la garantía ya pagada por el Fondo de Garantía manteniendo las condiciones originalmente pactadas sobre la obligación del beneficiario respecto al total del saldo insoluto del crédito otorgado; incluyendo el monto ya pagado por el fondo en concepto de garantía.
+
+#### Artículo 42
+
+Artículo 42. Efectos de la Ejecución de la Garantía.
+
+Cuando se hubiere ejecutado una garantía emitida por el Fondo de Garantía a favor de un crédito a cuenta del prestatario, éste no será nuevamente sujeto de cualquier tipo de financiamiento que se otorgue con recursos del Fideicomiso BCH-Banhprovi.
+
+CAPÍTULO X DISPOSICIONES FINALES
+
+#### Artículo 43
+
+Artículo 43. De la Supervisión del Fondo de Garantía.
+
+El Fondo de Garantía estará sujeto a la supervisión de la CNBS; así como del Tribunal Superior de Cuentas, auditorías externas y las auditorías internas del BCH y del Banhprovi.
+
+Para tal efecto, el Banhprovi deberá tener a disposición la información que dichos entes le requieran.
+
+#### Artículo 44
+
+Artículo 44. De la Reportería a la CNBS.
+
+La CNBS establecerá los lineamientos para reportar la información necesaria para sus cometidos; para tal efecto, pondrá a disposición del Banhprovi los medios tecnológicos para obtención de la información.
+
+#### Artículo 45
+
+Artículo 45. Vigencia.
+
+El presente Reglamento entrará en vigencia a partir del 1 de octubre de 2020 y será publicado en el Diario Oficial La Gaceta”.
+
+La cobertura de la garantía se calcula de la siguiente forma: El saldo insoluto de la obligación garantizada multiplicado por su correspondiente factor de cobertura, alcanzando como máximo el 100.0% en el caso que corresponda del saldo de la obligación garantizada.
+
+La vigencia de la garantía inicia en la fecha de desembolso de la obligación garantizada, y su valor y efecto se extingue por la ocurrencia de los eventos indicados en el Artículo 32 del Reglamento del Fondo de Garantía para el Financiamiento de Créditos Redescontados con Recursos del Fideicomiso BCH-Banhprovi, Destinados a Sectores Prioritarios en Generación de Empleo y/o Divisas para el País.
+
+Fecha de Expiración del Certificado de Garantía Complementaria __de ___ de 20____ Para hacer efectivo el presente Certificado de Garantía Complementaria, (nombre de la IFI) deberá cumplir con los requisitos descritos en el Reglamento del Fondo de Garantía para el Financiamiento de Créditos Redescontados con Recursos del Fideicomiso BCH-Banhprovi, Destinados a Sectores Prioritarios en Generación de Empleo y/o Divisas para el País.
+
+Tegucigalpa MDC ___ de _____ de 20__ Firma Autorizada Firma Autorizada ANEXO II FORMATO DE SOLICITUD DE GARANTÍA COMPLEMENTARIA FONDO DE GARANTÍA PARA EL FINANCIAMIENTO DE CRÉDITOS REDESCONTADOS CON RECURSOS DEL FIDEICOMISO BCH-BANHPROVI, DESTINADOS A SECTORES PRIORITARIOS EN GENERACIÓN DE EMPLEO Y/O DIVISAS PARA EL PAÍS Solicitud No.______ Código prestatario ________ Institución Financiera Intermediaria (IFI):
+
+1.- PRESTATARIO O REPRESENTANTE LEGAL
+
+Nombre completo:________________________ No. Identidad:______________________ Razón social:________________________ RTN:_____________________________ Dirección: _____________________________Teléfono: _________________________ Aldea: ______________ Municipio: __________ Depto: _______________________ 2.- PROYECTO Descripción especifica de la actividad económica: _______________________________ Dirección del proyecto:
+
+___________________________________________________ Aldea: _____________ Municipio: _______________ Depto: _____________________ La cobertura de la garantía se calcula de la siguiente forma: El saldo insoluto de la obligación garantizada multiplicado por su correspondiente factor de cobertura, alcanzando como máximo el 100.0% en el caso que corresponda del saldo de la obligación garantizada.
+
+4.- CONDICIONES DEL PRÉSTAMO
+
+Monto del préstamo (uno por solicitud) L______ Cód. del Préstamo (IFI)____________ Plazo (meses) __________ Fecha de suscripción de pagaré o contrato crédito_______ Período de Gracia (meses) ____ Fecha de desembolso del préstamo (IFI)____________ Forma de pago ___ Tasa de interés (%) ___ Fecha de vencimiento del préstamo______ 5.- APROBACIÓN POR LA IFI Y EL PRESTATARIO Fecha de presentación de la solicitud_________________ Sucursal o Agencia _______________________________ Teléfono de Sucursal o Agencia ____________________ Nombre Funcionario autorizado (IFI)______________ Firma y Sello________________ Como prestatario acepto que tengo un déficit de garantía para respaldar mi préstamo; y como tal, someto ante el Banhprovi la presente solicitud de garantía complementaria.
+
+Nombre del prestatario __________________________ Firma__________________ 6.- PARA ANÁLISIS BANHPROVI (Uso exclusivo de Banhprovi) Monto aprobado del crédito____________ Porcentaje a garantizar______ Monto del certificado:_______ No. Certificado:
+
+___________ Cód. de préstamo (IFI): _________ Fecha de emisión_________________ Revisado y Analizado: Firma Aprobado: Firma Autorizada NOTA: El Banhprovi se reserva el derecho de someter a análisis únicamente aquellas solicitudes que presenten la documentación completa, correcta y con firmas y sellos autorizados.
+
+ANEXO III FORMATO DE RECLAMACIÓN DE LA GARANTÍA FONDO DE GARANTÍA PARA EL FINANCIAMIENTO DE CRÉDITOS REDESCONTADOS CON RECURSOS DEL FIDEICOMISO BCH-BANHPROVI, DESTINADOS A SECTORES PRIORITARIOS EN GENERACIÓN DE EMPLEO Y/O DIVISAS PARA EL PAÍS Formulario pago FIBCH_______ No. de solicitud_____ Cód. prestatario ______ Institución Financiera Intermediaria (IFI) ____________________________________
+
+1. PRESTATARIO O REPRESENTANTE LEGAL
+
+Nombre completo: ______________________________________________________ No. Identidad ___________________ RTN: __________________________________ Razón social __________________________________________________________ Dirección: ______________________________________ Teléfono: ______________ Aldea: ___________________ Municipio: ____________Depto: __________________
+
+2. PROYECTO
+
+Descripción específica de la actividad económica: _____________________________ Dirección del proyecto: ___________________________________________________ Aldea: ______________ Municipio: ________________ Depto: ___________
+
+3. CONDICIONES ORIGINALES DEL PRÉSTAMO (uno por solicitud) Monto del préstamo L____________________Cód. del Préstamo (IFI)____________ Plazo (meses) __________________ Fecha de suscripción del pagaré ___________ Período de gracia (meses) ____________Fecha de desembolso (IFI)_____________ Forma de pago ____ tasa de interés (%) ___ Fecha de vencimiento del préstamo_____
+
+4. SOBRE LA MORA
+
+Detallar de forma breve y clara las causas de la mora___________________________ Fecha constitución mora _________________________________________________ ¿La IFI procederá a la recuperación por vía judicial? si______ no___________ Saldo de capital adeudado L____________ Saldo interés adeudado L _____________
+
+5. CERTIFICADO DE GARANTÍA DE COBERTURA
+
+Número de certificado___ Monto certificado L___ Porcentaje (%) amparo del crédito____ Fecha de emisión ____________________ Fecha de expiración__________________
+
+6. APROBACIÓN POR LA IFI
+
+Fecha de presentación: __________ Sucursal o Agencia _______________________ Teléfono de Sucursal o Agencia________________ Nombre funcionario autorizado (IFI)__________ Firma y Sello_____________________
+
+7. PARA ANÁLISIS DE BANHPROVI (Uso exclusivo de Banhprovi) Fecha de presentación de la solicitud __________ Código de Préstamo (IFI): _________ Valor garantizado: L_______________ Valor a pagar a la IFI: L__________ %________ Revisado y Analizado: Firma Autorizada Aprobado: Firma Autorizada NOTA: El Banhprovi se reserva el derecho de someter a análisis únicamente aquellas solicitudes que presenten la documentación completa, correcta y con firmas y sellos autorizados.
+
+III.
+
+Comunicar este acuerdo al Tribunal Superior de Cuentas, a la Comisión Nacional de Bancos y Seguros y al Banco Hondureño para la Producción y la Vivienda, para los fines pertinentes.
+
+IV.
+
+El presente acuerdo entrará en vigencia a partir de su publicación en el Diario Oficial La Gaceta.
+
+HUGO DANIEL HERRERA CARDONA
+
+Secretario Avance Próxima Edición
+
+\1) ACUERDA: PRIMERO: Delegar en la Licenciada MONICA REGINA BRAN, Jefe de Cooperación Externa y Movilización de Recursos, las siguientes funciones:
+
+CENTROS DE DISTRIBUCIÓN:
+
+TEGUCIGALPA
+
+Col. Miraflores Sur, Centro Cívico Gubernamental, contiguo al Poder Judicial.
+
+SAN PEDRO SULA
+
+Salida a Puerto Cortés, Centro Comercial, “Los Castaños”, Teléfono:
+
+2552-2699.
+
+La Gaceta está a la vanguardia de la tecnología, ahora ofreciendo a sus clientes el servicio en versión digital a nivel nacional e internacional en su página web www.lagaceta.hn Para mayor información llamar al Tel.: 2230-1339 o al correo: gacetadigitalhn@gmail.com Contamos con:
+
+• Servicio de consulta en línea.
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 35662 del 2021-07-20, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20210720-35662/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

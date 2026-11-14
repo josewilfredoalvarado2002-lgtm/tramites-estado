@@ -1,0 +1,52 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "002-2019"
+titulo: "ACUERDO No. 002-2019"
+emisor: "PODER LEGISLATIVO"
+gaceta_numero: 35194
+gaceta_fecha: "2020-03-07"
+gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35194 (2020-03-07)|La Gaceta 35194]]"
+paginas: "A. 57 - 58"
+sumario: "Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020COPECOAcuerdos Nos. 001-2019, 002-2019SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 21-2020, 79-2019"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200307-35194/download"
+extraido: "2026-11-14"
+huella: "4dbf3cec3af9ad62"
+---
+<!-- portal:inicio -->
+# ACUERDO No. 002-2019
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 002-2019 |
+| Emisor | PODER LEGISLATIVO |
+| Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35194 (2020-03-07)\|La Gaceta 35194]] del 2020-03-07 |
+| Páginas | A. 57 - 58 |
+| Según el sumario de La Gaceta | Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020COPECOAcuerdos Nos. 001-2019, 002-2019SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 21-2020, 79-2019 |
+
+## Texto
+
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL
+
+En uso de las facultades de que fue investido por el Presidente de la República, mediante Acuerdo Ejecutivo No. 009-2018, Delegación Presidencial de fecha 27 de enero del 2018 y en aplicación de los Artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de Administración Pública.
+
+ACUERDA:
+
+PRIMERO: Nombrar interinamente al ciudadano VICTOR ANDERSON ORTEGA MARTINEZ con número de Identidad 0801-1993-06529, en la Institución 041 Comisión Permanente de Contingencias (COPECO), institución adscrita a la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales, puesto METEORÓLOGO II, Programa 011, Actividad/Obra 019, Unidad Ejecutora 002 Unidades Técnicas, No. de puesto 1510, Grupo-Nivel 02-006, Sueldo L. 22,172.70.
+
+SEGUNDO: El presente Acuerdo es efectivo a partir de la toma de posesión del cargo y hasta el 09 de junio de 2020, y deberá publicarse en “LA GACETA”, Diario Oficial de la República.
+
+COMUNÍQUESE Y PUBLÍQUESE.
+
+Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los doce (12) días del mes se diciembre del año dos mil diecinueve (2019).
+
+RICARDO LEONEL CARDONA LÓPEZ MINISTRO SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL GABRIEL ALFREDO RUBI PAREDES SECRETARIO DE ESTADO EN LOS DESPACHOS DE GESTIÓN DE RIESGOS Y CONTINGENCIAS NACIONALES ________
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 35194 del 2020-03-07, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20200307-35194/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

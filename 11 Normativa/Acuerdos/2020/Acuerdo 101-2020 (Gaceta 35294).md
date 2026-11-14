@@ -1,0 +1,98 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "101-2020"
+titulo: "ACUERDO MINISTERIAL No. 101-2020"
+emisor: "Secretaría de Desarrollo Económico"
+gaceta_numero: 35294
+gaceta_fecha: "2020-06-25"
+gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35294 (2020-06-25)|La Gaceta 35294]]"
+paginas: "A. 3 - 8"
+sumario: "Acuerdos Ministeriales Nos. 097-2020,101-2020"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200625-35294/download"
+extraido: "2026-11-14"
+huella: "17ad2d6e1248a3f5"
+---
+<!-- portal:inicio -->
+# ACUERDO MINISTERIAL No. 101-2020
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 101-2020 |
+| Emisor | Secretaría de Desarrollo Económico |
+| Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35294 (2020-06-25)\|La Gaceta 35294]] del 2020-06-25 |
+| Páginas | A. 3 - 8 |
+| Según el sumario de La Gaceta | Acuerdos Ministeriales Nos. 097-2020,101-2020 |
+
+## Texto
+
+LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO
+
+CONSIDERANDO: Que de conformidad con la Constitución de la República, el Estado reconoce, garantiza y fomenta las libertades de consumo y competencia; sin embargo, por razones de orden público e interés social, podrá dictar medidas para encauzar, estimular, supervisar, orientar y suplir la iniciativa privada, con fundamento en una política económica racional y planificada.
+
+CONSIDERANDO: Que el Artículo 8 del Decreto Ejecutivo Número PCM-005-2020, publicado en el Diario Oficial La Gaceta en fecha 10 de febrero del año 2020, instruye a la Secretaría de Estado en el Despacho de Desarrollo Económico a tomar medidas necesarias y aplique los mecanismos de control para evitar el incremento de precios a los productos y medicamentos que son utilizados para combatir los efectos del virus del dengue y coronavirus (COVID-19).
+
+CONSIDERANDO: Que esta Secretaría de Estado a través de la Dirección General de Protección al Consumidor, habiendo realizado las inspecciones y monitoreo de precios de los productos de la Canasta Básica Alimentaria Esencial (CBAE) la tendencia alcista en los precios de los productos no es justificada, ya que se ha presentado una baja en el precio de los combustibles y en el precio de las materias primas utilizadas para su producción y es por consecuencia producto de la especulación misma que causa un perjuicio económico a los consumidores especialmente a aquellos más pobres.
+
+CONSIDERANDO: Que de conformidad con el Artículo 8 de la Ley de Protección al Consumidor y con el objeto de evitar impactos especulativos, la Autoridad de Aplicación debe presentar un Plan de Previsión, Estabilización y Concertación de precios de los artículos que por razón de demanda estacional requieran la participación del Estado.
+
+CONSIDERANDO: Que de conformidad con el Artículo 72 de la Ley de Protección al Consumidor, la Secretaría de Estado en el Despacho de Desarrollo Económico en su condición de Autoridad de Aplicación podrá determinar el precio máximo de comercialización de bienes de primera necesidad o esenciales para el consumo o la salud, los mismos pueden ser: insumos, materias primas, materiales, envases, empaques o productos semielaborados necesarios para la producción.
+
+CONSIDERANDO: Que en el Artículo 73 de la Ley de Protección al Consumidor establece; las causas para la determinación del precio máximo de venta, la autoridad de aplicación deberá determinar el precio, tarifa o margen máximo de comercialización o la modificación de estos, en los casos siguientes: cuando se trate de caso fortuito o fuerza mayor que derive en emergencia, desastre o situación de calamidad sea sectorial, regional o nacional declarada por la autoridad competente y que genere acaparamiento, especulación, desabastecimiento o se niegue la venta de los bienes enunciados con la finalidad de provocar el alza de sus precios o cualquier otro perjuicio económico al consumidor.
+
+CONSIDERANDO: Que esta Secretaría de Estado a fin de proteger la vida, la salud, la seguridad y los intereses económicos de los consumidores y evitar prácticas abusivas, acordó establecer una determinación en el precio máximo de venta de los productos de la Canasta Básica Alimentaria Esencial, debido a la emergencia sanitaria declarada mediante Decreto Ejecutivo Número PCM-005-2020 y que los mismos puedan ser comprados por los consumidores sin alteración en su precio y de esta forma evitar que sean violentados sus derechos.
+
+POR TANTO:
+
+La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las facultades que está investida y de conformidad con los Artículos 321 y 331 de la Constitución de la República de Honduras; Artículos 36 numerales 2) y 8), 116 y 118, de la Ley General de Administración Pública y sus reformas; 6, 8, 72, 73 y 75 de la Ley de Protección al Consumidor; 23 y 24 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; y, el Decreto Ejecutivo Número PCM-005-2020 y sus reformas.
+
+ACUERDA:
+
+PRIMERO: Establecer el precio máximo de venta al consumidor final en todo el territorio nacional de los productos de la canasta básica alimentaria esencial que se detallan a continuación:
+
+DIARIO OFICIAL DE LA REPÚBLICA DE HONDURAS DECANO DE LA PRENSA HONDUREÑA PARA MEJOR SEGURIDAD DE SUS PUBLICACIONES ABOG. THELMA LETICIA NEDA Gerente General JORGE ALBERTO RICO SALINAS Coordinador y Supervisor EMPRESA NACIONAL DE ARTES GRÁFICAS E.N.A.G.
+
+Colonia MirafIores Teléfono/Fax: Gerencia 2230-2520, 2230-1821 Administración: 2230-3026 CENTRO CÍVICO GUBERNAMENTAL
+
+SEGUNDO: En virtud de lo establecido en el artículo 74 de la Ley de Protección al Consumidor, la vigencia del presente Acuerdo Ministerial es por el término de UN (1) MES, contado a partir de la fecha de su aprobación, el que podrá ser prorrogable por igual término mientras persistan las causas que lo originaron.
+
+TERCERO: En cumplimiento del Artículo 4 del Decreto Ejecutivo Número PCM-021-2020 y sus reformas, se instruye a la Dirección General de Protección al Consumidor a realizar las verificaciones necesarias para garantizar el cumplimiento de los precios máximos establecidos en el presente Acuerdo con una fuerte cantidad de personal y el Ministerio Público, debiendo sancionar administrativamente de conformidad con la Ley de Protección al Consumidor y otras leyes administrativas vigentes a todos aquellos proveedores de bienes y servicios que infrinjan lo dispuesto en este Acuerdo.
+
+CUARTO: El presente Acuerdo es de ejecución inmediata y deberá publicarse en el Diario Oficial “LA GACETA”.
+
+Dado en la ciudad de Tegucigalpa, a los veintidós (22) días del mes de junio del año dos mil veinte (2020).
+
+COMUNÍQUESE Y PUBLÍQUESE.
+
+MARIA ANTONIA RIVERA ENCARGADA DE LA SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO DUNIA GRISEL FUENTEZ CÁRCAMO SECRETARIA GENERAL La EMPRESA NACIONAL DE ARTES GRÁFICAS le ofrece los siguientes servicios:
+
+LIBROS FOLLETOS TRIFOLIOS FORMAS CONTINUAS AFICHES FACTURAS TARJETAS DE PRESENTACIÓN CARÁTULAS DE ESCRITURAS CALENDARIOS EMPASTES DE LIBROS REVISTAS.
+
+Avance Próxima Edición
+
+\1) Pendiente Próxima Edición.
+
+CENTROS DE DISTRIBUCIÓN:
+
+TEGUCIGALPA
+
+Col. Miraflores Sur, Centro Cívico Gubernamental, contiguo al Poder Judicial.
+
+SAN PEDRO SULA
+
+Salida a Puerto Cortés, Centro Comercial, “Los Castaños”, Teléfono:
+
+2552-2699.
+
+La Gaceta está a la vanguardia de la tecnología, ahora ofreciendo a sus clientes el servicio en versión digital a nivel nacional e internacional en su página web www.lagaceta.hn Para mayor información llamar al Tel.: 2230-1339 o al correo: gacetadigitalhn@gmail.com Contamos con:
+
+• Servicio de consulta en línea.
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 35294 del 2020-06-25, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20200625-35294/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

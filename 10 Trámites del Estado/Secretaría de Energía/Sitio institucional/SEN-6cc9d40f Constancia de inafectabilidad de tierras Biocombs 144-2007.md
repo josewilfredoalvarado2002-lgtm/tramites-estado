@@ -142,9 +142,9 @@ Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros. Monto: L 200.00
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2021). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2019). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
-- Decreto 144-2007 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Decreto 144-2007 → anterior a 2019: no está en la colección de La Gaceta de la bóveda
 <!-- normas:fin -->
 <!-- portal:fin -->
 
