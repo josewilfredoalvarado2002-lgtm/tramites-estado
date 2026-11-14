@@ -201,4 +201,13 @@ FUENTES = {
                                 "https://ahac.gob.hn/RAN", "https://ahac.gob.hn/RPAS", "https://ahac.gob.hn/Mantenimiento"],
                        "filtro": r"requisit|procedimiento|gu[ií]a|solicitud|form"},
     },
+    "ARSA": {
+        "nombre": "Agencia de Regulación Sanitaria",
+        "carpeta": "Agencia de Regulación Sanitaria",
+        "id_diger": 11153,
+        "adaptador": "calculadora",
+        "parametros": {"urls": [f"https://arsa.gob.hn/{s}/" for s in (
+            "alimentos-y-bebidas", "productos-farmaceuticos", "dispositivos-medicos", "vigilancia-y-fiscalizacion",
+            "hospedaje-y-centros-recreativos", "donaciones-y-autorizaciones-especiales", "emprendedores-y-mipymes")]},
+    },
 }

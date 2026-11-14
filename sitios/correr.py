@@ -42,6 +42,8 @@ def correr(siglas, destino, limite=None):
         cli.cerrar()
     if not fichas:
         log(f"{siglas}: el sitio no devolvió fichas; no se toca la bóveda.")
+        for e in errores[:5]:
+            log(f"  ERROR {e}"[:400])
         return False
     descartadas = [f for f in fichas if not f.relevante()]
     fichas = [f for f in fichas if f.relevante()]

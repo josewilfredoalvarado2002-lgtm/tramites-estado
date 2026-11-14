@@ -61,6 +61,9 @@ Agregar una entrada en `fuentes.py` con el adaptador que corresponda:
 - `tabla` — una fila = un trámite (SEFIN, SDE)
 - `bloques` — un bloque HTML = un trámite (CONATEL, SGJD, ICF, UNAH, STSS)
 - `documentos_enlazados` — un documento = un trámite (SEN, CONSUCOOP, AHAC)
+- `calculadora` — páginas con la calculadora de trámites de WordPress: cada bloque «Requisitos: …» es un trámite (ARSA)
+
+Sin adaptador por ahora: AMDC (sus requisitos solo están en videos del aula virtual; no hay texto que copiar).
 
 Con `"js": True` (o el selector que hay que esperar) la página se abre en un navegador.
 

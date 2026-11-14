@@ -481,3 +481,84 @@ def documentos_enlazados(cli, siglas, urls, filtro=None, tipo="tramite"):
             fichas.append(f)
             log(f"  {siglas} documento: {nombre[:60]} ({'con texto' if d['texto'] else d['aviso'][:40]})")
     return fichas, errores
+
+
+def _requisitos_acordeon(html):
+    """Texto de un bloque de requisitos en acordeón: «1. Solicitud» seguido de su contenido."""
+    from bs4 import BeautifulSoup
+    s = BeautifulSoup(html, "html.parser")
+    for x in s.select(".accordion-icon, script, style"):
+        x.decompose()
+    items = s.select(".accordion-item-calculator")
+    if not items:
+        return _texto_bloque(s)
+    partes = []
+    for it in items:
+        cab = it.select_one(".accordion-header")
+        cue = it.select_one(".accordion-content")
+        t = limpiar(cab.get_text(" ")) if cab else ""
+        c = _texto_bloque(cue) if cue else ""
+        if c and c.replace("\n", " ").strip() != t:
+            # el contenido va sangrado bajo su número para que se lea como una sola entrada
+            c = "\n".join("   " + l for l in c.split("\n"))
+            partes.append(f"{t}\n{c}" if t else c)
+        elif t:
+            partes.append(t)
+    return "\n".join(partes)
+
+
+def calculadora(cli, siglas, urls, prefijo=r"requisitos?\s*:?\s*"):
+    """Páginas con «Cost Calculator Builder» (WordPress): los requisitos de cada trámite vienen como
+    bloques HTML dentro del JSON de la calculadora (atributo :content de <calc-builder-front>) y el
+    sitio los muestra según lo que se elija en los menús. Cada bloque «Requisitos: X» es un trámite. Ej.: ARSA."""
+    import json as _json
+    fichas, errores, vistos = [], [], set()
+    for url in urls:
+        try:
+            sopa, final = cli.sopa(url)
+        except Exception as e:
+            errores.append(f"{url}: {e}")
+            log(f"  ERROR {url}: {e}")
+            continue
+        h1 = sopa.find("h1")
+        cat = limpiar(h1.get_text(" ")) if h1 else ""
+        if not cat and sopa.title:
+            cat = re.sub(r"\s*[-–|].*$", "", limpiar(sopa.title.get_text()))
+        calcs = sopa.find_all("calc-builder-front")
+        if not calcs:
+            errores.append(f"{url}: la página no trae la calculadora de trámites")
+            log(f"  ERROR {errores[-1]}")
+        slug = urlparse(final).path.strip("/").replace("/", "-") or "inicio"
+        for c in calcs:
+            try:
+                datos = _json.loads(c.get(":content") or "{}")
+            except ValueError as e:
+                errores.append(f"{url}: JSON de la calculadora ilegible ({e})")
+                continue
+            for campo in datos.get("fields", []):
+                etiqueta = limpiar(campo.get("label") or "")
+                html = campo.get("htmlContent") or ""
+                if campo.get("_tag") != "cost-html" or not re.match(prefijo, etiqueta, re.I) or not html.strip():
+                    continue
+                titulo = re.sub(r"^" + prefijo, "", etiqueta, flags=re.I).strip(" :-") or etiqueta
+                texto = _requisitos_acordeon(html)
+                # id corto y estable: iniciales de la página + número del bloque («ab-6» = alimentos y bebidas, bloque 6)
+                ini = "".join(w[0] for w in slug.split("-") if w and w not in ("y", "de", "del", "la", "las", "los"))
+                num = re.search(r"(\d+)$", campo.get("alias") or "")
+                idl = f"{ini}-{num.group(1)}" if num else f"{ini}-{_id_texto(titulo)}"
+                if idl in vistos or len(texto) < 40:
+                    continue
+                vistos.add(idl)
+                f = Ficha(siglas=siglas, id_local=idl, titulo=titulo, url_ficha=final, categoria=cat,
+                          secciones={"Requisitos": texto})
+                from bs4 import BeautifulSoup
+                docs = []
+                for a in BeautifulSoup(html, "html.parser").find_all("a", href=True):
+                    u = urljoin(final, a["href"]).strip()
+                    if _es_documento(u) and urlparse(u).netloc == urlparse(final).netloc:
+                        nombre = limpiar(a.get_text(" ")) or unquote(u.rsplit("/", 1)[-1])
+                        docs.append(_leer_doc(cli, nombre, u, leer=False))
+                _agregar_docs(f, docs)
+                fichas.append(f)
+        log(f"  {siglas} {cat or url}: {sum(1 for f in fichas if f.url_ficha == final)} trámites")
+    return fichas, errores
