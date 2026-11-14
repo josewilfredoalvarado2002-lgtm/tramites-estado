@@ -74,12 +74,18 @@ def indice_normativa(repo):
             if not a.endswith(".md"):
                 continue
             with open(os.path.join(raiz, a), encoding="utf-8") as f:
-                cab = f.read(2000)
+                cab = f.read(6000)
             tipo, numero = _prop(cab, "tipo_acto"), _prop(cab, "numero")
             if not re.search(r"\d", numero):
                 # «Otro acto» sin número: el lector de La Gaceta no reconoció el encabezado (p. ej. «ACUERDO
-                # SEN-119-2022», sin «No.»), pero el título lo trae. Solo si el título nombra un único acto.
+                # SEN-119-2022», sin «No.»). Se toma del título o, si no lo trae, de la primera línea del texto
+                # que empieza con ACUERDO / DECRETO / RESOLUCIÓN. Solo si nombra un único acto.
                 enc = citas(_prop(cab, "titulo"))
+                if not enc:
+                    texto = cab.split("## Texto", 1)[1] if "## Texto" in cab else ""
+                    lineas = [x.strip() for x in texto.splitlines() if x.strip()][:6]
+                    cabeza = next((x for x in lineas if re.match(r"(ACUERDO|DECRETO|RESOLUCI[OÓ]N)\b", x)), "")
+                    enc = citas(cabeza)
                 if len(enc) != 1:
                     continue
                 (_, numero), tipo = enc[0][0], enc[0][1].split()[0]

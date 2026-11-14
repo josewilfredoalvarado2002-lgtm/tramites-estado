@@ -55,6 +55,16 @@ class EnlazarNormativa(unittest.TestCase):
         en.enlazar(d)
         self.assertIn("SEN-119-2022 → [[Otros actos (Gaceta 36015)]]", self.leer(ruta))
 
+    def test_otro_acto_sin_titulo_se_busca_en_el_texto(self):
+        d, ruta = self.armar("Acuerdo Ministerial SEN-060-2025.", {})
+        with open(os.path.join(d, en.NORMATIVA, "Decretos", "2026", "Otros actos (Gaceta 36927).md"), "w",
+                  encoding="utf-8") as f:
+            f.write('---\ntipo_acto: "Otro acto"\nnumero: "No consta en la fuente"\ntitulo: "No consta en la fuente"\n'
+                    'emisor: "No consta en la fuente"\ngaceta_fecha: "2025-08-27"\n---\n# X\n\n## Texto\n\n'
+                    'Secretaría de Estado en el Despacho de Energía\n\nACUERDO MINISTERIAL SEN-060-2025 EL SECRETARIO\n')
+        en.enlazar(d)
+        self.assertIn("SEN-060-2025 → [[Otros actos (Gaceta 36927)]]", self.leer(ruta))
+
     def test_sin_citas_no_toca(self):
         d, ruta = self.armar("Nada que citar.", {})
         antes = self.leer(ruta)
