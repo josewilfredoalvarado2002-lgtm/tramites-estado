@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Secretaría de Recursos Naturales y Ambiente"
 dominio_verificado: "serna.gob.hn"
-actualizado: 2026-11-14T00:46
+actualizado: 2026-11-14T07:08
 ---
 # MiAmbiente — Sitio institucional
 
@@ -23,5 +23,5 @@ actualizado: 2026-11-14T00:46
 
 - [[10 Trámites del Estado/Secretaría de Recursos Naturales y Ambiente/Sitio institucional/MiAmbiente-86 Constancia de No Requerir Licenciamiento|Constancia de No Requerir Licenciamiento]] — *solo requisitos*
 - [[10 Trámites del Estado/Secretaría de Recursos Naturales y Ambiente/Sitio institucional/MiAmbiente-84 Requisitos de Licenciamiento Ambiental|Requisitos de Licenciamiento Ambiental]] — *solo requisitos*
-- [[10 Trámites del Estado/Secretaría de Recursos Naturales y Ambiente/Sitio institucional/MiAmbiente-85 Requisitos de Renovación de Licencia Ambiental|Requisitos de Renovación de Licencia Ambiental]] — *solo requisitos*
+- [[10 Trámites del Estado/Secretaría de Recursos Naturales y Ambiente/Sitio institucional/MiAmbiente-85 Requisitos de Renovación de Licencia Ambiental|Requisitos de Renovación de Licencia Ambiental]] — *solo requisitos*
 

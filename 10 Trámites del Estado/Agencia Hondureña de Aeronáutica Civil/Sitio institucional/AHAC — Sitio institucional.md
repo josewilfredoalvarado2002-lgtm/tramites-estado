@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Agencia Hondureña de Aeronáutica Civil"
 dominio_verificado: "ahac.gob.hn"
-actualizado: 2026-11-14T00:48
+actualizado: 2026-11-14T07:08
 ---
 # AHAC — Sitio institucional
 
@@ -51,5 +51,5 @@ Formularios para llenar sin requisitos, o documentos que no son un trámite. No 
 - [[10 Trámites del Estado/Agencia Hondureña de Aeronáutica Civil/Sitio institucional/AHAC-dcc8bd20 REQUISITOS LICENCIAS ALUMNO PILOTO|REQUISITOS LICENCIAS ALUMNO PILOTO]] — *solo requisitos*
 - [[10 Trámites del Estado/Agencia Hondureña de Aeronáutica Civil/Sitio institucional/AHAC-0673e71a REQUISITOS LICENCIAS AUXILIAR (AYUDANTE) DE MERCANICO|REQUISITOS LICENCIAS AUXILIAR (AYUDANTE) DE MERCANICO]] — *solo requisitos*
 - [[10 Trámites del Estado/Agencia Hondureña de Aeronáutica Civil/Sitio institucional/AHAC-72ba7d20 REQUISITOS LICENCIAS OPERADOR DE ESTACION AERONAUTICA|REQUISITOS LICENCIAS OPERADOR DE ESTACION AERONAUTICA]] — *solo requisitos*
-- [[10 Trámites del Estado/Agencia Hondureña de Aeronáutica Civil/Sitio institucional/AHAC-7a10b1b1 REQUISITOS PARA CONVALIDACIÓN DE LICENCIA|REQUISITOS PARA CONVALIDACIÓN DE LICENCIA]] — *solo requisitos*
+- [[10 Trámites del Estado/Agencia Hondureña de Aeronáutica Civil/Sitio institucional/AHAC-7a10b1b1 REQUISITOS PARA CONVALIDACIÓN DE LICENCIA|REQUISITOS PARA CONVALIDACIÓN DE LICENCIA]] — *solo requisitos*
 
