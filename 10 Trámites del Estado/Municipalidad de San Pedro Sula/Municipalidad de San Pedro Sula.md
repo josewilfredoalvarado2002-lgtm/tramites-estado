@@ -2,7 +2,7 @@
 tipo: "institucion"
 nombre: "Municipalidad de San Pedro Sula"
 portal: "https://www.sanpedrosula.hn/gestion-informativa/"
-actualizado: 2026-11-13T17:55
+actualizado: 2026-11-13T22:40
 ---
 # Municipalidad de San Pedro Sula
 
@@ -10,7 +10,7 @@ actualizado: 2026-11-13T17:55
 
 - Trámites: **137**
 - Preguntas frecuentes: **234**
-- Última extracción: 2026-11-13 17:55
+- Última extracción: 2026-11-13 22:40
 - Historial: [[Registro de cambios SPS]]
 
 ## Trámites
