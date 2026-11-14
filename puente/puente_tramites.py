@@ -19,7 +19,11 @@ Disposición de la normativa: el repositorio guarda los actos en "11 Normativa/<
 Además regenera los índices de esa sección (Índice de normativa, Normativa <Año>, <Tipo> <Año> y los meses).
 "00 Mapa ejecutivo", "03 Por área" y "99 Sistema" son tuyas: el puente no las toca.
 
-Reglas: solo escribe dentro de "10 Trámites del Estado" y "11 Normativa", nunca borra, no toca una nota que editaste hace
+Normas reemplazadas: cuando el crawler vuelve a leer una edición y un acto cambia de nombre (por ejemplo, un «Otros actos»
+que se separa en sus acuerdos), la nota vieja de la bóveda se MUEVE a "99 Archivo/Normativa reemplazada" con su misma
+ruta. No se borra nada, y si tenía «Notas propias» queda constancia en el registro.
+
+Reglas: solo escribe dentro de "10 Trámites del Estado", "11 Normativa" y "99 Archivo/Normativa reemplazada", nunca borra, no toca una nota que editaste hace
 menos de 10 minutos y deja constancia en ~/Library/Application Support/CaseDeck/logs/puente_tramites.log.
 Solo usa la biblioteca estándar de Python.
 """
@@ -199,6 +203,55 @@ def mapa_normativa(origen):
             if d:
                 mapa[rel[:-3]] = d[:-3]
     return mapa
+
+
+ARCHIVO_REEMPLAZADAS = "99 Archivo/Normativa reemplazada"
+
+
+def archivar_reemplazadas(repo, boveda, gracia_min=10, minimo_repo=500, ahora=None):
+    """Mueve al archivo las notas de acto de la bóveda que ya no tienen origen en el repositorio.
+    Devuelve (movidas, con_notas_propias). Si el repositorio parece incompleto no hace nada."""
+    ahora = ahora or time.time()
+    esperadas = set(mapa_normativa(os.path.join(repo, NORMATIVA)).values())
+    actos_repo = sum(1 for d in esperadas if d.startswith(INSTRUMENTOS + "/"))
+    base = os.path.join(boveda, NORMATIVA, INSTRUMENTOS)
+    if actos_repo < minimo_repo or not os.path.isdir(base):
+        return 0, []
+    candidatas, total = [], 0
+    for raiz, dirs, archivos in os.walk(base):
+        for a in archivos:
+            if not a.endswith(".md"):
+                continue
+            ruta = os.path.join(raiz, a)
+            try:
+                with open(ruta, encoding="utf-8") as f:
+                    cabeza = f.read(300)
+            except OSError:
+                continue
+            if not re.search(r'^tipo: "?norma"?$', cabeza, re.M):
+                continue      # índices de año, tipo y mes: los regenera el puente
+            total += 1
+            rel = _nfc(os.path.relpath(ruta, os.path.join(boveda, NORMATIVA)).replace(os.sep, "/"))[:-3]
+            if rel not in esperadas and ahora - os.path.getmtime(ruta) > gracia_min * 60:
+                candidatas.append((ruta, rel))
+    if total >= 100 and len(candidatas) > total * 0.15:
+        log(f"AVISO {len(candidatas)} de {total} normas de la bóveda no están en el repositorio: parece un problema "
+            "del repositorio, no se archiva nada.")
+        return 0, []
+    con_notas = []
+    for ruta, rel in candidatas:
+        destino = os.path.join(boveda, ARCHIVO_REEMPLAZADAS, rel + ".md")
+        n = 2
+        while os.path.exists(destino):
+            destino = os.path.join(boveda, ARCHIVO_REEMPLAZADAS, f"{rel} {n}.md")
+            n += 1
+        os.makedirs(os.path.dirname(destino), exist_ok=True)
+        texto = leer(ruta)
+        propias = texto.split(FIN, 1)[1] if FIN in texto else ""
+        if re.sub(r"\s|## Notas propias", "", propias):
+            con_notas.append(rel)
+        os.rename(ruta, destino)
+    return len(candidatas), con_notas
 
 
 def reescribir_enlaces(contenido, mapa):
@@ -499,7 +552,12 @@ def main():
         r = sincronizar(repo, boveda, estado.setdefault("aplicadas", {}), int(cfg.get("minutos_de_gracia", 10)), carpeta=carpeta)
         if _nfc(carpeta) == NORMATIVA and os.path.isdir(os.path.join(boveda, NORMATIVA)):
             falta = not os.path.exists(os.path.join(boveda, NORMATIVA, INDICE_NORMATIVA))
-            if r["nuevas"] or falta:
+            movidas, con_notas = archivar_reemplazadas(repo, boveda, int(cfg.get("minutos_de_gracia", 10)))
+            if movidas:
+                log(f"Normativa: {movidas} notas reemplazadas movidas a {ARCHIVO_REEMPLAZADAS}.")
+            for c in con_notas:
+                log(f"AVISO {c} tenía Notas propias: quedó en {ARCHIVO_REEMPLAZADAS}; pasalas a la nota nueva.")
+            if r["nuevas"] or falta or movidas:
                 log(f"Normativa: {indices_normativa(boveda)} índices regenerados.")
         if res is None:
             res = r

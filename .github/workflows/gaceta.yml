@@ -6,11 +6,12 @@ on:
   workflow_dispatch:
     inputs:
       modo:
-        description: "tanda = sigue cargando de la más reciente hacia atrás; piloto = ediciones 37261 y 37262"
+        description: "tanda = sigue cargando de la más reciente hacia atrás; piloto = ediciones 37261 y 37262; releer = vuelve a leer las ediciones con «Otros actos»"
         type: choice
         options:
           - tanda
           - piloto
+          - releer
         default: tanda
       max:
         description: "Ediciones por corrida"

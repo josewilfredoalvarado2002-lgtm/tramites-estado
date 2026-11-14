@@ -165,6 +165,35 @@ class Sincronizacion(unittest.TestCase):
         self.assertNotIn("\nuno\n", final)
         self.assertIn("11 Normativa/Decretos/2026/Decreto 1-2026 (Gaceta 1).md", self.estado)
 
+    def test_acto_reemplazado_se_archiva_sin_borrar(self):
+        cab = "---\ntipo: \"norma\"\ngaceta_fecha: \"2022-08-30\"\nhuella: \"a\"\n---\n" + P.INICIO + "\nx\n" + P.FIN + "\n\n## Notas propias\n\n"
+        viejo = os.path.join("11 Normativa", "Otros actos", "2022", "Otros actos (Gaceta 5).md")
+        nuevo = os.path.join("11 Normativa", "Acuerdos", "2022", "Acuerdo SEN-119-2022 (Gaceta 5).md")
+        self.escribir(self.repo, viejo, cab)
+        P.sincronizar(self.repo, self.boveda, self.estado, carpeta="11 Normativa")
+        en_boveda = os.path.join(self.boveda, "11 Normativa", "02 Instrumentos normativos", "2022", "99 Otros actos",
+                                 "2022-08 Agosto", "Otros actos (Gaceta 5).md")
+        tipos = P.TIPOS_NORMA["Otros actos"]
+        en_boveda = en_boveda.replace("99 Otros actos", tipos)
+        with open(en_boveda, "a", encoding="utf-8") as f:
+            f.write("mi apunte\n")
+        os.utime(en_boveda, (time.time() - 3600, time.time() - 3600))
+        os.remove(os.path.join(self.repo, viejo))
+        self.escribir(self.repo, nuevo, cab)
+        P.sincronizar(self.repo, self.boveda, self.estado, carpeta="11 Normativa")
+        movidas, con_notas = P.archivar_reemplazadas(self.repo, self.boveda, minimo_repo=1)
+        self.assertEqual(movidas, 1)
+        self.assertEqual(len(con_notas), 1)
+        self.assertFalse(os.path.exists(en_boveda))
+        archivada = os.path.join(self.boveda, P.ARCHIVO_REEMPLAZADAS, "02 Instrumentos normativos", "2022", tipos,
+                                 "2022-08 Agosto", "Otros actos (Gaceta 5).md")
+        with open(archivada, encoding="utf-8") as f:
+            self.assertIn("mi apunte", f.read())
+        self.assertEqual(P.archivar_reemplazadas(self.repo, self.boveda, minimo_repo=1)[0], 0)
+
+    def test_repositorio_incompleto_no_archiva(self):
+        self.assertEqual(P.archivar_reemplazadas(self.repo, self.boveda), (0, []))
+
     def test_normativa_traduce_rutas_enlaces_e_indices(self):
         ed = os.path.join("11 Normativa", "La Gaceta", "2026", "La Gaceta 7 (2026-03-05).md")
         acto = os.path.join("11 Normativa", "Acuerdos", "2026", "Acuerdo 9-2025 (Gaceta 7).md")

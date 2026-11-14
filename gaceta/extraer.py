@@ -3,6 +3,7 @@ las notas en "11 Normativa". Va de la edición más reciente hacia atrás, por t
 
 Uso:  python3 -m gaceta.extraer --modo tanda [--max 40]
       python3 -m gaceta.extraer --modo piloto        (ediciones 37261 y 37262 de octubre de 2026)
+      python3 -m gaceta.extraer --modo releer --max 400   (vuelve a leer las ediciones que tienen «Otros actos»)
 Los PDF no se guardan. El avance queda en estado/gaceta.json. Requiere el paquete pymupdf.
 """
 import argparse
@@ -112,7 +113,7 @@ def procesar(ed, cfg, hoy, previo=None):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--modo", choices=["tanda", "piloto"], default="tanda")
+    ap.add_argument("--modo", choices=["tanda", "piloto", "releer"], default="tanda")
     ap.add_argument("--max", type=int, default=0)
     args = ap.parse_args()
     cfg = {**POR_DEFECTO, **cargar(CONFIG, {})}
@@ -127,6 +128,11 @@ def main():
             completos.discard(r["fecha"][:7])
     if args.modo == "piloto":
         meses, solo = [(2026, 10)], {37261, 37262}
+    elif args.modo == "releer":
+        # ediciones con un «Otros actos»: el lector no reconoció el encabezado de algún acto; se vuelven a leer
+        solo = {int(k) for k, r in hechas.items() if any("/Otros actos/" in x for x in r.get("notas") or [])}
+        meses = sorted({(int(hechas[str(k)]["fecha"][:4]), int(hechas[str(k)]["fecha"][5:7])) for k in solo}, reverse=True)
+        print(f"Releer: {len(solo)} ediciones en {len(meses)} meses.", flush=True)
     else:
         meses, solo = [], None
         a, m = ahora.year, ahora.month

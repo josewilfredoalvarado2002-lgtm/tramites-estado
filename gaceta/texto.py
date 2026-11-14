@@ -18,9 +18,21 @@ RE_CAB = re.compile(
     r"|REP[ÚU]BLICA\s+DE\s+HONDURAS\s*-\s*TEGUCIGALPA.{0,70}No\.\s*[\d,. ]+\S{0,2})$")
 RE_SEC_B = re.compile(r"^Secci[óo]n\s+B\s+Avisos Legales")
 RE_ACTO = re.compile(
-    rf"^(?:CERTIFICACI[ÓO]N,?\s+)?(DECRETO|ACUERDO|RESOLUCI[ÓO]N|CERTIFICACI[ÓO]N)((?: (?!N[ÚU]MERO\b)[{MAYUS}]+){{0,3}})\s*"
-    rf"(No\.?|N[ÚU]MERO|N[°º]\.?)?\s*([A-Z0-9][\w\-/]*(?:\.\d+)?)\s*(?:[.\-]+(?:\s*Sesi[óo]n.*)?)?$")
-RE_NUM_SOLO = re.compile(r"\d\w*[-/][\w\-/]*\d")
+    rf"^(?:CERTIFICACI[ÓO]N,?\s+)?(DECRETO|ACUERDO|RESOLUCI[ÓO]N|CERTIFICACI[ÓO]N)"
+    # calificativo: EJECUTIVO, MINISTERIAL, C.G., S.D.N., /SENASA... (palabras completas, nunca NÚMERO)
+    rf"((?:[ /](?!N[ÚU]MERO\b|No\b)[{MAYUS}][{MAYUS}.]*(?=[\s/]|$)){{0,3}})\s*[-–]?\s*"
+    rf"(No\.?|N[ÚU]MERO(?:\s+No\.?)?|N[°º]\.?)?[\s.\-–]*"
+    # número: 034-2023, SEN-026-2021, PCM 20-2025, PCM- 055-2020, J.D. 001-05-02-2020
+    rf"((?:[A-Z][A-Z.]*(?:-\s?|\s)(?=\d))?[A-Z0-9][\w\-/]*(?:\.\d+)?)\s*"
+    rf"(?:[.\-]+(?:\s*Sesi[óo]n.*)?)?(?:\s+DEL?\s+[{MAYUS} ]+)?$")
+RE_NUM_SOLO = re.compile(r"(?:[A-Z][A-Z.]*-)?\d\w*[-/][\w\-/]*\d")
+
+
+def numero_acto(m):
+    """Número del encabezado normalizado: «PCM 20-2025» y «PCM- 20-2025» -> «PCM-20-2025»."""
+    return re.sub(r"(?<=[A-Z.])(?:-\s|\s)(?=\d)", "-", m.group(4)).rstrip(".-")
+
+
 RE_CERT = re.compile(r"^CERTIFICACI[ÓO]N\.?$")
 RE_SUSCRITO = re.compile(r"^(?:El|La)\s+(?:infrascrit|suscrit)[oa]")
 RE_SUM = re.compile(r"(Decreto|Acuerdo|Resoluci[óo]n|Certificaci[óo]n)[\w ]*?\s(?:No\.?|N[úu]mero)\s*([A-Z0-9][\w\-/]*)")
@@ -158,9 +170,9 @@ def separar_actos(renglones, sumario):
             cortes.append((k, None, ""))
             continue
         m = RE_ACTO.match(x)
-        if not m or len(x) > 90 or (not m.group(3) and not RE_NUM_SOLO.fullmatch(m.group(4).rstrip(".-"))):
+        if not m or len(x) > 90 or (not m.group(3) and not RE_NUM_SOLO.fullmatch(numero_acto(m))):
             continue
-        num = m.group(4).rstrip(".-")
+        num = numero_acto(m)
         if cortes and cortes[-1][2] == num and k - cortes[-1][0] < 15:
             continue
         cerca = [y for y in lin[k + 1:k + 5]]
