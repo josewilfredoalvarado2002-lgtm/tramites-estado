@@ -542,10 +542,11 @@ def calculadora(cli, siglas, urls, prefijo=r"requisitos?\s*:?\s*"):
                     continue
                 titulo = re.sub(r"^" + prefijo, "", etiqueta, flags=re.I).strip(" :-") or etiqueta
                 texto = _requisitos_acordeon(html)
-                # id corto y estable: iniciales de la página + número del bloque («ab-6» = alimentos y bebidas, bloque 6)
+                # id corto y estable: iniciales de la página + número del bloque («ab6» = alimentos y bebidas, bloque 6);
+                # sin guiones, porque el escritor reconoce las notas existentes por «SIGLAS-<letras y números>»
                 ini = "".join(w[0] for w in slug.split("-") if w and w not in ("y", "de", "del", "la", "las", "los"))
                 num = re.search(r"(\d+)$", campo.get("alias") or "")
-                idl = f"{ini}-{num.group(1)}" if num else f"{ini}-{_id_texto(titulo)}"
+                idl = f"{ini}{num.group(1)}" if num else f"{ini}{_id_texto(titulo)}"
                 if idl in vistos or len(texto) < 40:
                     continue
                 vistos.add(idl)

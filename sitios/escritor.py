@@ -8,6 +8,7 @@ Carpeta: 10 Trámites del Estado/<Institución>/Sitio institucional/
 import json
 import os
 import re
+import unicodedata
 from datetime import datetime
 
 INICIO, FIN = "<!-- portal:inicio -->", "<!-- portal:fin -->"
@@ -19,6 +20,8 @@ def q(t):
 
 
 def nombre_archivo(t, maximo=110):
+    # NFC: la misma letra con tilde siempre se escribe igual (si no, Linux y macOS ven dos archivos distintos)
+    t = unicodedata.normalize("NFC", t or "")
     t = re.sub(r'[\\/:*?"<>|#^\[\]]', "", t or "")
     t = re.sub(r"\s+", " ", t).strip(" .")
     return t[:maximo].rstrip(" .") or "sin título"
@@ -167,6 +170,12 @@ class Escritor:
             vistos.add(f.id_local)
             h = __import__("nucleo").huella(f.contenido())
             ruta_vieja = existentes.get(f.id_local)
+            if ruta_vieja and os.path.basename(ruta_vieja) != unicodedata.normalize("NFC", os.path.basename(ruta_vieja)):
+                # nota creada con las tildes descompuestas (NFD): se le pone el nombre normalizado
+                nueva = os.path.join(os.path.dirname(ruta_vieja),
+                                     unicodedata.normalize("NFC", os.path.basename(ruta_vieja)))
+                os.rename(ruta_vieja, nueva)
+                ruta_vieja = nueva
             anterior = leer(ruta_vieja) if ruta_vieja else None
             if anterior and f'huella: "{h}"' in anterior and 'estado_sitio: "Vigente"' in anterior:
                 iguales += 1
