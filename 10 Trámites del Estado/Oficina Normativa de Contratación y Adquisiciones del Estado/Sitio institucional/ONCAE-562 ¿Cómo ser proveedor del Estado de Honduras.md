@@ -7,14 +7,16 @@ aliases:
   - "¿Cómo ser proveedor del Estado de Honduras?"
 institucion: "Oficina Normativa de Contratación y Adquisiciones del Estado"
 categoria: "No consta en el sitio"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "Como proveedor y proveedora puedes vender tus productos y servicios al Estado a través de diferentes modalidades de compra. Sigue los pasos para poder vender tus productos o servicios al gobierno."
+tiene_requisitos: false
 url_ficha: "https://oncae.gob.hn/como-ser-proveedor/"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "oncae.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T21:47
-huella: "38cdfc2bee9085b8f328e3c6ff59dcadf78e96fb340244052fe13a6caa294da6"
+extraido: 2026-11-14T00:15
+huella: "d4985d47729cefa27e614718ce5b58e132819c4575fb4206622b8b507c4f4587"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Oficina Normativa de Contratación y Adquisiciones del Estado |
 | Categoría | No consta en el sitio |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## ¿Cómo ser proveedor del Estado de Honduras?
 
@@ -42,7 +44,7 @@ Regístrate gratis
 ## Fuente
 
 - Ficha: https://oncae.gob.hn/como-ser-proveedor/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

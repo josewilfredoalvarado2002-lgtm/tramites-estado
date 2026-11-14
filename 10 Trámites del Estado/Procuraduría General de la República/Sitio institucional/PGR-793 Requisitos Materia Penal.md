@@ -8,13 +8,15 @@ aliases:
 institucion: "Procuraduría General de la República"
 categoria: "No consta en el sitio"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://pgr.gob.hn/requisitos-materia-penal/"
 documentos: []
 actualizado_sitio: "2026-03-13"
 dominio_verificado: "pgr.gob.hn"
 verificacion_dominio: "verificado (GI)"
-extraido: 2026-11-13T21:32
-huella: "acf0f2a170aa6a36ab22a7eb729e142af846c0505f3fdfce7b7d8e95037b3944"
+extraido: 2026-11-14T00:40
+huella: "a03e3d729e2a8c77a764a8a811bd0cc440ab81ace7f6b554429f4cee5d65b2a3"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -73,7 +75,7 @@ Requisitos para la suscripción de acuerdo y determinación de cuantía, en conc
 ## Fuente
 
 - Ficha: https://pgr.gob.hn/requisitos-materia-penal/
-- Fecha y hora de extracción: 2026-11-13 21:32 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:40 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

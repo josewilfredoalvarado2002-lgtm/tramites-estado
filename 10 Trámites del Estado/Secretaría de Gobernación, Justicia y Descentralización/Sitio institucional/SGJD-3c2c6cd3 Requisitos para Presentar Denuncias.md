@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Gobernación, Justicia y Descentralización/Secretaría de Gobernación, Justicia y Descentralización|Secretaría de Gobernación, Justicia y Descentralización]]"
 categoria: "Departamento Administrativo de Inquilinato (DAI)"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sgjd.gob.hn/tramites/requisitos-y-formatos-departamento-administrativo-de-inquilinato-dai/fce8e38593293e5bd35af3d3251e302b7e51fa43dde13157d52226050a3de8e6"
 documentos:
   - "https://www.sgjd.gob.hn/tramites/requisitos-y-formatos-departamento-administrativo-de-inquilinato-dai/fce8e38593293e5bd35af3d3251e302b7e51fa43dde13157d52226050a3de8e6/descargar"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sgjd.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:11
-huella: "e6895e538de95ad3a9c7b23bce6a19078e2710a469d72f9f3ebd43ee4421ee84"
+extraido: 2026-11-14T00:38
+huella: "a1bc6f9fe7fdf7bf8ac74305096be38d56b6d81ce5c508abfb62f1b43c21abb3"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,11 +34,10 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Boulevard Juan Pablo II, Centro Cívico Gubernamental
-Jose Cecilio del Valle, Tegucigalpa, M.D.C., Honduras.
-www.sgjd.gob.hn
+## Requisitos (según el documento oficial)
+
 REQUISITOS PARA INTERPONER DENUNCIA EN EL
 DEPARTAMENTO ADMINISTRATIVO DE INQUILINATO (DAI)
 Copia del Documento Nacional de Identificación (DNI).
@@ -47,6 +48,11 @@ ante el DAI (Si eres arrendador)
 Último Recibo de pago en concepto de Renta que acredita Solvencia día. (si
 eres arrendatario)
 
+## Otro texto del documento
+
+Boulevard Juan Pablo II, Centro Cívico Gubernamental
+Jose Cecilio del Valle, Tegucigalpa, M.D.C., Honduras.
+
 ## Documentos
 
 - [Requisitos para Presentar Denuncias](https://www.sgjd.gob.hn/tramites/requisitos-y-formatos-departamento-administrativo-de-inquilinato-dai/fce8e38593293e5bd35af3d3251e302b7e51fa43dde13157d52226050a3de8e6/descargar)
@@ -54,7 +60,7 @@ eres arrendatario)
 ## Fuente
 
 - Ficha: https://www.sgjd.gob.hn/tramites/requisitos-y-formatos-departamento-administrativo-de-inquilinato-dai/fce8e38593293e5bd35af3d3251e302b7e51fa43dde13157d52226050a3de8e6
-- Fecha y hora de extracción: 2026-11-13 22:11 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:38 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

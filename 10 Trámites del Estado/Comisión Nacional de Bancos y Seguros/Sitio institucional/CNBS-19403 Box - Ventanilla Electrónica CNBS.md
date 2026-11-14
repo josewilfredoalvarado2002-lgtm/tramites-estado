@@ -7,14 +7,16 @@ aliases:
   - "Box - Ventanilla Electrónica CNBS"
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Bancos y Seguros/Comisión Nacional de Bancos y Seguros|Comisión Nacional de Bancos y Seguros]]"
 categoria: "No consta en el sitio"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "La Ventanilla Electrónica de Correspondencia de la CNBS es un canal digital para la recepción de documentos, que son remitidos por las instituciones supervisadas, así como personas naturales y jurídicas que todavía no han sido capacitadas en el uso del Sistema de Gestiones Electrónicas (SGE). Asimismo, sirve para recibir documentación sobre asuntos y/o solicitudes que no están habilitados en el Si"
+tiene_requisitos: false
 url_ficha: "https://www.cnbs.gob.hn/box-ventanilla-electronica-cnbs/"
 documentos: []
 actualizado_sitio: "2026-04-13"
 dominio_verificado: "cnbs.gob.hn"
 verificacion_dominio: "verificado (GDIE)"
-extraido: 2026-11-13T21:33
-huella: "b114dc38116c9c877fa36b62909a15aba62d02c11a034390bc9009b21d738372"
+extraido: 2026-11-14T00:16
+huella: "22bc1b1a54e8e2000a8ad04102fac8f2e53176d13a884d6b6885d6cb2a1e8363"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Comisión Nacional de Bancos y Seguros |
 | Categoría | No consta en el sitio |
 | Última actualización que muestra el sitio | 2026-04-13 |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Ventanilla Electrónica de Correspondencia de la CNBS
 
@@ -64,7 +66,7 @@ En el caso de la Ventanilla Electrónica de Correspondencia, los plazos de las s
 ## Fuente
 
 - Ficha: https://www.cnbs.gob.hn/box-ventanilla-electronica-cnbs/
-- Fecha y hora de extracción: 2026-11-13 21:33 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:16 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

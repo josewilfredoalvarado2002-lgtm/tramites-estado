@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/10/Tanque-de-Almacenamiento_Art7-11-11B.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "166fe3d48e2d92e3b49690701cf476f505c94b440be285a2610d783579c7e3ae"
+extraido: 2026-11-14T00:44
+huella: "0705119531bb7fbeb7be978aa2c73ba7d375a5434b03b7358f0cfcceeb5f8001"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,24 +34,10 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Página 1 de 3
+## Requisitos (según el documento oficial)
 
-Permiso de Instalación
-Depósitos o Tanques de Almacenamiento de Hidrocarburos para Consumo Propio
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
-Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
-agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
-2025).
-Artículo No. 7
-1
-Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
-Administrativo.
-Solicitud de Inscripción bajo la figura de Depósitos o Tanques de Almacenamiento de Hidrocarburos para Consumo
-Propio se otorgó bajo resolución número xxxx o se encuentra en trámite bajo el expediente número xxxx.
-Nota:
-Los Permiso de Instalación deben solicitarse individualmente por cada establecimiento.
 2 Poder del representante legal.
 3 Documento Nacional de Identificación del representante legal.
 4 Poder del apoderado legal.
@@ -74,8 +62,6 @@ Estacionario.
 13 Volumen estimado a consumir anualmente por producto.
 14 Presentar toda la documentación de forma digital, previo al ingreso en físico debe presentarse mediante el correo electrónico ventanillaunica@sen.hn;
 15 Estudio Económico del Proyecto donde se realizará la instalación.
-
-Página 2 de 3
 
 16
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019.
@@ -111,7 +97,7 @@ En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben p
 de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello
 estampado del notario.
 Artículo No. 11
-Para efectos de este artículo debe presentar declaración jurada firmada por el representante legal sobre el
+
 cumplimiento de los requisitos establecidos y queda sujeto a la comprobación a través de una inspección de campo:
 1 Los tanques para contener diésel serán soterrados o superficiales según el caso y los tanques para contener gasolinas serán debidamente soterrados.
 2
@@ -123,8 +109,6 @@ Los tanques superficiales de combustibles líquidos se instalarán dentro de una
 alrededor del tanque. La altura del muro de retención debe ser por lo menos 15 centímetros más de la altura
 necesaria para contener el volumen del tanque de la pila. Se usará material impermeabilizante, preferiblemente
 concreto.
-
-Página 3 de 3
 
 4
 Se podrán instalar varios tanques dentro de una misma pila de retención con una separación mínima no menor de
@@ -140,13 +124,32 @@ internamente). No se permite utilizar hierro colado ni PVC.
 8 Los tanques para contener GLP, GLPV y GN, deben cumplir con la norma internacional de fabricación e instalación correspondiente.
 Artículo No. 11B
 Requisitos Adicionales para Gas Natural Licuado (GNL)
-Para efectos de este artículo debe presentar declaración jurada firmada por el representante legal sobre el
+
 cumplimiento de los requisitos establecidos y documento oficial de cumplimiento a normas; este queda sujeto a la
 comprobación a través de una inspección de campo:
-1
+
 Los tanques y/o isotanques de GNL que se utilicen para el transporte y/o en instalaciones de GNL deben cumplir
 con las normas internacionales vigentes ISO, UNE, ASTM, API, ASME, ANSI, NFPA, OIML, DOT o ADR (European
 Agreement concerning the International Carriage of Dangerous Goods by Road) según corresponda.
+
+## Notas (según el documento)
+
+Los Permiso de Instalación deben solicitarse individualmente por cada establecimiento.
+
+## Otro texto del documento
+
+Permiso de Instalación
+Depósitos o Tanques de Almacenamiento de Hidrocarburos para Consumo Propio
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
+Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
+agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
+2025).
+Artículo No. 7
+
+Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
+Administrativo.
+Solicitud de Inscripción bajo la figura de Depósitos o Tanques de Almacenamiento de Hidrocarburos para Consumo
+Propio se otorgó bajo resolución número xxxx o se encuentra en trámite bajo el expediente número xxxx.
 
 ## Documentos
 
@@ -155,7 +158,7 @@ Agreement concerning the International Carriage of Dangerous Goods by Road) seg�
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

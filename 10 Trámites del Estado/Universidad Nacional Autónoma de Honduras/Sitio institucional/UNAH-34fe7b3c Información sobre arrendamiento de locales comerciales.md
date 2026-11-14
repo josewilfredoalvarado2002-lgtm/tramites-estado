@@ -7,14 +7,16 @@ aliases:
   - "Información sobre arrendamiento de locales comerciales"
 institucion: "Universidad Nacional Autónoma de Honduras"
 categoria: "Servicios"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "La Secretaría Ejecutiva de Administración y Finanzas genera periódicamente avisos de concurso público para el alquiler de locales comerciales en Ciudad Universitaria y sus campus a nivel nacional."
+tiene_requisitos: false
 url_ficha: "https://www.unah.edu.hn/servicios"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "unah.edu.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:23
-huella: "6f8e16e18b249f6791d9664b2eab2827fc5d2804dd1b3cff5c8d44dfd5f1807d"
+extraido: 2026-11-14T00:45
+huella: "3a6cd2827a6d85e7c5fac507f6cc1b9ab1816a0be2b0a5a44e22f427e41f602e"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Universidad Nacional Autónoma de Honduras |
 | Categoría | Servicios |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -39,7 +41,7 @@ Los detalles de cada convocatoria pueden descargarse en el apartado de avisos:
 ## Fuente
 
 - Ficha: https://www.unah.edu.hn/servicios
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

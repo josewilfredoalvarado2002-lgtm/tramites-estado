@@ -7,14 +7,16 @@ aliases:
   - "Solicitud de equivalencias (externas - otra universidad nacional)"
 institucion: "Universidad Nacional Autónoma de Honduras"
 categoria: "Servicios"
-calidad: "solo_requisitos"
+calidad: "solo_para_que"
+para_que: "Son las que se otorgan a estudiantes que han realizado estudios en instituciones nacionales o extranjeras del nivel superior que el Consejo de educación superior, en su caso, y la UNAH reconoce. Según el acuerdo No. 530-91-97, de Consejo de educación superior se otorgan equivalencias automáticas entre los centros del nivel del país, para las cuatro asignaturas obligatorias de formación general: Es"
+tiene_requisitos: false
 url_ficha: "https://www.unah.edu.hn/servicios"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "unah.edu.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:23
-huella: "d9ff6eba8e2de2dcc3617b1b91d1b5080bb1f5889b45b053bc38379f933dbeab"
+extraido: 2026-11-14T00:45
+huella: "6aac4aafb1d8f5ae6e14bb7e09319df88e600e26100c92b8adbca5f11b5c254d"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Universidad Nacional Autónoma de Honduras |
 | Categoría | Servicios |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -55,7 +57,7 @@ En el caso de solicitud de equivalencias de una o varias asignaturas para un dep
 ## Fuente
 
 - Ficha: https://www.unah.edu.hn/servicios
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

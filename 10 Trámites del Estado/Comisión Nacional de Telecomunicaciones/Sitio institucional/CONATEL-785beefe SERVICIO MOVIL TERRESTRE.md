@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/3123f0b8-897e-48f9-9fad-d98312b021a7"
@@ -15,8 +17,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "74474b01ad3a0a555c055d50fe53b43e97832d37e4035cdf6a26388a996c6b39"
+extraido: 2026-11-14T00:37
+huella: "5de477fd0a67527e40937a657cdadcf8d769d8f92fb9511bb655b596f38eec4f"
 estado_sitio: "Vigente"
 posible_equivalente_diger: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/TR-1008 Servicio Móvil Aeronáutico|Servicio Móvil Aeronáutico]]"
 ---
@@ -36,14 +38,15 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Comisión Nacional de Tele
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
 SERVICIO MÓVIL TERRESTRE
-V.3
-Página 1 de 1
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO PARA CANCELACIONES CPL CTL CP
 1. Solicitud por medio de Apoderado Legal en base a los artículos No.56, 60 y 61la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
@@ -89,13 +92,13 @@ Formas 101 debe ser llenada, firmada, sellada y timbrada por un profesional de l
 afín a la especialidad en telecomunicaciones habilitado en el ejercicio de su profesión y que
 se encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos, Eléctricos,
 Químicos de Honduras (CIMEQH).
-☐
+
 10.
 Formas 400 debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería
 afín a la especialidad en telecomunicaciones habilitado en el ejercicio de su profesión y que
 se encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos, Eléctricos,
 Químicos de Honduras (CIMEQH).
-☐ ☐ ☐
+
 NS Nueva Solicitud MD Modificación CTL Cancelación Total Licencia
 RN Renovación CPL Cancelación Parcial de Licencia CP Cancelación de Permiso
 Nomenclatura
@@ -103,13 +106,12 @@ Nomenclatura
 ## Documentos
 
 - [Forma 400](https://cms.conatel.gob.hn/assets/3123f0b8-897e-48f9-9fad-d98312b021a7)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/56a05a3f-6c82-4a48-b487-7aed9d893fcb)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/56a05a3f-6c82-4a48-b487-7aed9d893fcb)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

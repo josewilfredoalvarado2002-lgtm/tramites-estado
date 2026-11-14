@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/10/Cierre-Temporal-Definitivo_Art18.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "b089622d420124b30781d266d019670908844d480d264c9f667ee2423aafd657"
+extraido: 2026-11-14T00:44
+huella: "eae5126ef4fd75d7232d5daf49a0422cb5a4ad042ba6fd66b4a78a453d245e51"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,9 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Página 1 de 1
+## Requisitos (según el documento oficial)
 
 Permiso Especial de Cierre Temporal o Definitivo
 Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
@@ -67,6 +69,9 @@ Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certi
 la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
+
+## Costo (según el documento)
+
 Monto: L 200.00
 Cualquier otro requisito solicitado por la SEN.
 
@@ -82,7 +87,7 @@ sello estampado del notario.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

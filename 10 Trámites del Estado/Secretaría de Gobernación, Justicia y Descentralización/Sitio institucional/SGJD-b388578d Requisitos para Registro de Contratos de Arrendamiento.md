@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Gobernación, Justicia y Descentralización/Secretaría de Gobernación, Justicia y Descentralización|Secretaría de Gobernación, Justicia y Descentralización]]"
 categoria: "Departamento Administrativo de Inquilinato (DAI)"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sgjd.gob.hn/tramites/requisitos-y-formatos-departamento-administrativo-de-inquilinato-dai/03ada1d316ce88e9282baf2d4b2f5c94240d8cb48d6eda58cb53554a1f11a447"
 documentos:
   - "https://www.sgjd.gob.hn/tramites/requisitos-y-formatos-departamento-administrativo-de-inquilinato-dai/03ada1d316ce88e9282baf2d4b2f5c94240d8cb48d6eda58cb53554a1f11a447/descargar"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sgjd.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:11
-huella: "dc57da5af8753ed8d5e5c7d0be63590100bb5745d85ea39dba9e5aa2a5daa48f"
+extraido: 2026-11-14T00:38
+huella: "97cf50d47a0765a5156c49927543184d24f9d6fd8fdaf6696151ee381520b536"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,11 +34,10 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Boulevard Juan Pablo II, Centro Cívico Gubernamental
-Jose Cecilio del Valle, Tegucigalpa, M.D.C., Honduras.
-www.sgjd.gob.hn
+## Requisitos (según el documento oficial)
+
 REQUISITOS PARA REGISTRO DE CONTRATOS DE ARRENDAMIENTO
 EN EL DEPARTAMENTO ADMINISTRATIVO DE INQUILINATO (DAI)
 Copia de DNI del arrendador.
@@ -47,6 +48,11 @@ arrendamiento no es el arrendador, deberá presentar una autorización
 simple, debidamente firmada por el arrendador, así como copia de su
 Documento Nacional de Identificación (DNI) y copia del DNI del arrendador.
 
+## Otro texto del documento
+
+Boulevard Juan Pablo II, Centro Cívico Gubernamental
+Jose Cecilio del Valle, Tegucigalpa, M.D.C., Honduras.
+
 ## Documentos
 
 - [Requisitos para Registro de Contratos de Arrendamiento](https://www.sgjd.gob.hn/tramites/requisitos-y-formatos-departamento-administrativo-de-inquilinato-dai/03ada1d316ce88e9282baf2d4b2f5c94240d8cb48d6eda58cb53554a1f11a447/descargar)
@@ -54,7 +60,7 @@ Documento Nacional de Identificación (DNI) y copia del DNI del arrendador.
 ## Fuente
 
 - Ficha: https://www.sgjd.gob.hn/tramites/requisitos-y-formatos-departamento-administrativo-de-inquilinato-dai/03ada1d316ce88e9282baf2d4b2f5c94240d8cb48d6eda58cb53554a1f11a447
-- Fecha y hora de extracción: 2026-11-13 22:11 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:38 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

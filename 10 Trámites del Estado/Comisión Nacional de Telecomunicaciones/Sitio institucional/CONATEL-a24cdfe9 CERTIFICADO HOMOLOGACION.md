@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224"
@@ -17,8 +19,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "03aee3afea34226df27348df97e4d65477d57f1323a9a2c2f3ab49c63375b0c4"
+extraido: 2026-11-14T00:37
+huella: "91bc5cd8c306ae539f081d57dca7e87ae068461856ac19c5168d233517eae059"
 estado_sitio: "Vigente"
 posible_equivalente_diger: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/TR-55 Certificado de homologación|Certificado de homologación]]"
 ---
@@ -38,14 +40,14 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Comisión Nacional de Tele
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
-CERTIFICADO DE HOMOLOGACIÓN DE EQUIPOS
-V.3
-Página 1 de 2
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO NS *MMM **MCT **MF **MNE
 1.
 Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de La Ley
@@ -95,7 +97,24 @@ iv. Diagrama electrónico
 v. Diagrama en bloque
 vi. Reporte de pruebas del equipo (Test Report)
 d. Fotografías internas y externas del equipo.
-OBSERVACIONES:
+
+REQUISITOS
+
+*Requisitos y formatos en la página Web de CONATEL:
+
+6
+Un determinado equipo solicitado a homologarse pero que no cuente con Certificado de Homologación y que sea el módulo o módulos alojados en el
+equipo los que cuenten con el Certificado de Homologación, el solicitante está obligado a presentar la carta del fabricante del equipo en donde se indique
+que dicho equipo está integrado por tal o tales módulos.
+NS Nueva Solicitud
+MMM Modificación de Marca y/o Modelo
+MCT Modificación de Características Técnicas
+MF Modificación del Fabricante
+MNE Modificación del Nombre del Equipo
+Nomenclatura
+
+## Notas (según el documento)
+
 1
 Referente al Certificado de Homologación emitido por los organismos Internacionales y Entes Reguladores, por ser un documento de carácter público
 deberán presentarlos debidamente apostillados, (de acuerdo al convenio de la Haya del 5 de Octubre de 1961), lo anterior siempre y cuando no presente
@@ -108,35 +127,17 @@ Referente a las Modificaciones de las características Técnicas del Equipo, o d
 Homologación o el enlace de verificación no informe sobre dicha modificación, el solicitante deberá presentar Nota del Fabricante del Equipo donde se
 informe la modificación solicitada. No obstante, si es de frecuencias y potencia se estará a lo dispuesto por la DIGER.
 
-REQUISITOS
-CERTIFICADO DE HOMOLOGACIÓN DE EQUIPOS
-V.3
-Página 2 de 2
-*Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
-6
-Un determinado equipo solicitado a homologarse pero que no cuente con Certificado de Homologación y que sea el módulo o módulos alojados en el
-equipo los que cuenten con el Certificado de Homologación, el solicitante está obligado a presentar la carta del fabricante del equipo en donde se indique
-que dicho equipo está integrado por tal o tales módulos.
-NS Nueva Solicitud
-MMM Modificación de Marca y/o Modelo
-MCT Modificación de Características Técnicas
-MF Modificación del Fabricante
-MNE Modificación del Nombre del Equipo
-Nomenclatura
-
 ## Documentos
 
 - [Forma 100](https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224)
 - [Forma 870](https://cms.conatel.gob.hn/assets/1c8fd333-9d86-4bc4-b52a-149ff074fa71)
 - [Instructivo 870](https://cms.conatel.gob.hn/assets/1025c36f-9fc8-4753-ab6f-57392fc2a53f)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/78edab0b-b099-44fe-8b96-d10c61dd42e8)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/78edab0b-b099-44fe-8b96-d10c61dd42e8)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

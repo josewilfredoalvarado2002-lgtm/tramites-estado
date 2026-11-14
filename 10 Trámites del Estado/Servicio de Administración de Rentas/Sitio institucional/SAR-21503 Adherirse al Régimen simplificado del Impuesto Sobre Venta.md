@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Solicitudes"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/adherirse-al-regimen-simplificado-del-impuesto-sobre-venta/"
 documentos:
   - "https://www.sar.gob.hn/download/adherirse-al-regimen-simplificado-del-impuesto-sobre-venta/?wpdmdl=21503"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "726c77ec86ab3a2f2e2d745ba7d873d9321a9e3f99e941cfdba9ee1ae3c0c8f6"
+extraido: 2026-11-14T00:15
+huella: "8eadbcd896b49303d9412e7ab7eba0f0efe863828dea7bc9da6d28cf874460e4"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,14 +34,17 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE ADHERIRSE AL RÉGIMEN
-SIMPLIFICADO DEL IMPUESTO SOBRE VENTA
+
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
+
 REQUISITOS DE ADHERIRSE AL RÉGIMEN
-SIMPLIFICADO DEL IMPUESTO SOBRE VENTA
+
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
 Escrito de Solicitud que contenga los requisitos
 establecidos en el Artículo 61 de la Ley de
@@ -82,7 +87,7 @@ Comprobante de boletín de pago L200.00
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/adherirse-al-regimen-simplificado-del-impuesto-sobre-venta/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

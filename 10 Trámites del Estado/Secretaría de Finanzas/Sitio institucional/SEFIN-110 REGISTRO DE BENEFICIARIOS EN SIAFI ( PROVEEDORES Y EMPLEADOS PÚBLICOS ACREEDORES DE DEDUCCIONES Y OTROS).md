@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Tesoreria"
 calidad: "completo"
+para_que: "Inscripción en el Registro de Beneficiarios ( SIAFI ) de todos los proveedores y empleados públicos del Estado"
+tiene_requisitos: true
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos:
   - "https://www.sefin.gob.hn/wp-content/uploads/2026/03/REQUISITOS-DE-BENEFICIARIOS-2026.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "665e2965274ad172e2a3648d31cb1e034ce0094da0ad2a554d648f7aa63b7351"
+extraido: 2026-11-14T00:35
+huella: "9bab321ce038836a6b41614fa5641f8ed63f3c9bb12d4e32b9b08e809301a98d"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,23 +34,17 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | completo |
 
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
 ## Descripcion
 
 Inscripción en el Registro de Beneficiarios ( SIAFI ) de todos los proveedores y empleados públicos del Estado
-
-## Tasa_derechos
-
-No requiere realizar ningún pago.
-
-## Procedimientos
-
-SE RECIBE LA DOCUMENTACION SOPORTE DE ACUERDO AL TIPO DE REGISTRO QUE SE VA A REALIZAR
 
 ## Requisitos
 
 REQUISITOS
 
-## Requisitos (texto del documento oficial)
+## Requisitos (según el documento oficial)
 
 Tesorería General de la República
 
@@ -89,13 +85,11 @@ Requisitos para el Registro de Empleados Públicos
 personal)
 2. Original y copia Legible de Registro Tributario Nacional o Certificado de RTN.
 3. Constancia Bancaria Original de cuenta en la que se acreditará el pago solicitado, dirigida al SIAFI
-(Vigente: no mayor a 2 meses de emitida)
+
 4. Constancia Original de trabajo emitida por el Departamento de Recursos Humanos. (Vigente: no
 mayor a 2 meses de emitida)
 
 IMPORTANTE: En caso de NO presentarse el Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
 
 La persona a la que se le otorgó Carta Poder deberá acompañar copia Legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia a Secretaría General para su cotejo.
@@ -110,7 +104,7 @@ mayor a 2 meses de emitida)
 
 NOTA: Si adiciona una Cuenta Bancaria se deberá presentar la Constancia original del Banco dirigida al
 SIAFI
-(Vigente: no mayor a 2 meses de emitida)
+
 Si es Habilitación presentar constancia bancaria original dirigida al SIAFI (Vigente: no mayor a 2 meses de
 emitida)
 Si es Deshabilitación de Cuentas Bancarias detallar el Número y Nombre del Banco en formato.
@@ -118,6 +112,13 @@ Si es por cambio de Institución de trabajo deberá presentar Constancia Origina
 Departamento de Recursos Humanos. (Vigente: no mayor a 2 meses de emitida)
 
 Si desea reposición por extravío de Constancia de Registro previamente deberá ser revisada en ventanilla
+
+## Tasa_derechos
+
+No requiere realizar ningún pago.
+
+## Dónde se presenta (según el documento)
+
 donde
 se le dirá si debe pagar o no. En caso de pagar serán L. 200.00 en cualquier banco en línea, presentará
 original
@@ -126,8 +127,7 @@ con sello del banco que recibió el pago y la documentación arriba mencionada (
 tiene mas de 2 años debe de presentar el requisito N° 4
 
 IMPORTANTE: En caso de NO presentarse el Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
+
 La persona a la que se le otorgó Carta Poder deberá acompañar copia Legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia a Secretaría General para su cotejo
 
@@ -135,20 +135,16 @@ Requisitos para el Registro de Comerciante Individual
 1- Original y copia Legible de la Escritura de Constitución de Comerciante Individual y sus
 modificaciones si las hubiera.
 2- Constancia Bancaria Original de cuenta en la que se acreditará el pago solicitado, dirigida al SIAFI
-(Vigente: no mayor a 2 meses de emitida)
+
 3- Original y Copia Legible de Registro Tributario Nacional o Certificado de RTN.
 4- Original y copia Legible de DNI del Comerciante Individual (anotar su domicilio, teléfono,
 correo electrónico personal y su actividad comercial)
 5- De no traer escritura y RTN originales para su cotejo, deberán autenticarse las copias que presenten.
 IMPORTANTE: En caso de NO presentarse el Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
 
 La persona a la que se le otorgó Carta Poder deberá acompañar copia Legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para su
 cotejo
-
-Subir…
 
 Requisitos para Modificaciones en el Registro de
 Comerciante Individual
@@ -160,7 +156,7 @@ si las hubiera.
 4. Llenar formato en la ventanilla solicitando cambios a realizar
 NOTA: Si adiciona una Cuenta Bancaria se deberá presentar la Constancia original del Banco dirigida al
 SIAFI.
-(Vigente: no mayor a 2 meses de emitida)
+
 Si es Habilitación presentar constancia bancaria original dirigida al SIAFI (Vigente: no mayor a 2 meses de
 emitida).
 Si es Des habilitación de Cuentas Bancarias detallar el Número y Nombre del Banco en formato.
@@ -170,13 +166,10 @@ original del Recibo TGR-1 conteniendo sus datos personales, rubro 12121, Institu
 del banco que recibió el pago y la documentación arriba mencionada (Incisos 1 ,2 ,3 y copia de libreta bancaria)
 
 IMPORTANTE: En caso de NO presentarse el Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
 
 La persona a la que se le otorgó Carta Poder deberá acompañar copia Legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para su
 cotejo
-Subir…
 
 Requisitos para el Registro de una persona Natural que pretende
 recibir pagos por Embargos, Indemnización, Seguros, Devolución de
@@ -186,7 +179,7 @@ Consultorías y Prestaciones
 personal)
 2. Original y copia legible de Registro Tributario Nacional o Certificado de RTN.
 3. Constancia Bancaria Original de cuenta en la que se acreditará el pago solicitado, dirigida al SIAFI
-(Vigente: no mayor a 2 meses de emitida)
+
 4. Constancia original emitida por la Institución que le adeuda y que justifique porqué o para qué
 necesita inscribirse en el SIAFI, (Vigente: no mayor a 2 meses de emitida):
 5. Pago de prestaciones laborales, presentar Oficio de Despido, Acción de Cesantía o Constancia de
@@ -211,15 +204,8 @@ original del Recibo TGR-1 conteniendo sus datos personales, rubro 12121, Institu
 sello del banco que recibió el pago y la documentación arriba mencionada (Incisos 1 ,2 y copia de libreta
 bancaria) si el registro tiene más de dos años debe presentar inciso N° 4
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para su
 cotejo
-
-Subir…
 
 Requisitos para Modificaciones en el Registro de una persona Natural
 que pretende recibir pagos por Embargos, Indemnización, Seguros,
@@ -233,7 +219,7 @@ Alquileres, Consultorías y Prestaciones
 inscribirse en el SIAFI, (Vigente: no mayor a 2 meses de emitida):
 
 NOTA: Si adiciona una Cuenta Bancaria se deberá presentar la Constancia original del Banco dirigida al SIAFI
-(Vigente: no mayor a 2 meses de emitida)
+
 Si es Habilitación presentar copia de la libreta bancaria
 Si es Des habilitación de Cuentas Bancarias detallar el Número y Nombre del Banco en formato.
 
@@ -242,15 +228,9 @@ original del Recibo TGR-1 conteniendo sus datos personales, rubro 12121, Institu
 sello del banco que recibió el pago y la documentación arriba mencionada (Incisos 1 ,2 y copia de libreta
 bancaria) si el registro tiene mas de dos años debe presentar inciso N°4.
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
 La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para
 su cotejo
-
-Subir…
 
 Requisitos para el Registro de una Persona Jurídica (Sociedades
 Mercantiles)
@@ -261,21 +241,15 @@ donde solicita su ingreso al Registro de Beneficiarios y anota un correo electr�
 persona, el domicilio de la Empresa, teléfono y actividad que realiza.
 2. Original y copia Legible de la Escritura de Constitución y sus modificaciones si las hubiera.
 3. Constancia Bancaria Original de cuenta en la que se acreditará el pago solicitado, dirigida al SIAFI
-(Vigente: no mayor a 2 meses de emitida)
+
 4. Original y copia legible de Registro Tributario Nacional o Certificado de RTN de la Empresa.
 5. Original y copia de DNI del Presidente del Consejo de Administración o Gerente de la Empresa que aparece
 nombrado en la Escritura Pública.
 6. De no traer Escrituras y RTN originales para su cotejo, deberán autenticarse las copias que presenten.
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
 La persona a la que se le otorgó Carta Poder deberá acompañar copia Legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para
 su cotejo
-
-Subir…
 
 Requisitos para Modificaciones en Registro de una Persona Jurídica
 (Sociedades Mercantiles)
@@ -302,15 +276,8 @@ Si desea reposición de Constancia de Registro, pagará L. 200.00 en cualquier b
 número del Recibo TGR-1 conteniendo sus datos de la empresa, rubro 12121, Institución 100 (Finanzas)
 con sello del banco que recibió el pago y la documentación arriba mencionada (Incisos 1 2 ,3, 4).
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para
 su cotejo
-
-Subir…
 
 Requisitos para el Registro de Cooperativas
 1. Solicitud en papel membretado firmado y con sello de la Cooperativa, por parte del
@@ -320,7 +287,7 @@ electrónico designado por su persona, el domicilio de la Empresa, teléfono y a
 2. Original y copia legible de la Personería Jurídica y sus reformas si las hubiera extendida por el
 Consejo Nacional Supervisor de Cooperativas (Consucoop)
 3. Constancia Bancaria Original de cuenta en la que se acreditará el pago solicitado, dirigida al SIAFI
-(Vigente: no mayor a 2 meses de emitida)
+
 4. Original y copia del RTN de la Cooperativa (anotar el domicilio, teléfono móvil o fijo y actividad)
 5. Copia Legible de DNI del Presidente de la junta directiva vigente.
 6. Original y copia legible de la Certificación de la inscripción de la Junta Directiva emitida por
@@ -329,15 +296,8 @@ Consucoop (vigente)
 8. De no traer Personería, estatutos y RTN originales para su cotejo deberán autenticarse las copias que
 presente
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para su
 cotejo
-
-Subir…
 
 Requisitos para Modificaciones en el Registro de Cooperativas
 
@@ -359,15 +319,8 @@ Si desea reposición de Constancia de Registro, pagará L. 200.00 en cualquier b
 original del Recibo TGR-1 conteniendo datos de la cooperativa, rubro 12121, Institución 100 (Finanzas) con
 sello del banco que recibió el pago y la documentación arriba mencionada (Incisos 1,2,3,4,5 y 6)
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para su
 cotejo
-
-Subir…
 
 Requisitos para el Registro de una Fundación, Juntas de Agua,
 Patronatos, Caja Rural, Asociaciones u ONGS.
@@ -378,22 +331,15 @@ electrónico designado por su persona, dirección, teléfono y actividad que rea
 3. Copia legible de Constancia de Junta Directiva y Constancia de Registro extendida por la institución
 que los rige (vigente)
 4. Constancia Bancaria Original de cuenta en la que se acreditará el pago solicitado, dirigida al SIAFI
-(Vigente: no mayor a 2 meses de emitida)
+
 5. Original y copia legible de Registro Tributario Nacional o Certificado de RTN.
 6. Copia legible de DNI del Presidente de la Junta Directiva.
 7. Original y copia legible de los Estatutos y las reformas si las hubiera.
 8. De no traer Personería, estatutos y RTN originales para su cotejo deberán autenticarse las copias que
 presenten.
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para
 su cotejo
-
-Subir…
 
 Requisitos para Modificaciones en el Registro de Fundaciones, Juntas de
 Agua, Patronatos, Caja Rural, Asociaciones u ONGS
@@ -409,22 +355,15 @@ institución que los rige (vigente).
 que presenten.
 
 NOTA: Si adiciona cuenta bancaria deberá presentar la Constancia Original del Banco dirigida al SIAFI
-(Vigente: no mayor a 2 meses de emitida)
+
 Si es Habilitación o Des habilitación de Cuentas Bancarias detallar el Número y Nombre del Banco.
 Si desea reposición de Constancia de Registro, pagará L. 200.00 en cualquier banco en línea, presentará
 original del Recibo TGR-1 conteniendo datos de la Fundación, Patronatos, Asociaciones etc. rubro 12121,
 Institución 100 (Finanzas) con sello del banco que recibió el pago y la documentación arriba mencionada
 (Incisos 1 al 6)
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para
 su cotejo
-
-Subir…
 
 Requisitos para el Registro de Centros Educativos (Matricula Gratis)
 1. Solicitud en papel membretado firmado y sellado por parte del Director de la Escuela dirigida al
@@ -435,18 +374,11 @@ nombre del Centro Educativo, código MG, nombre del Director (a).
 teléfono móvil o fijo y correo electrónico).
 4. Copia legible del acuerdo de nombramiento del Director (a).
 5. Constancia Bancaria Original de cuenta en la que se acreditará el pago solicitado, dirigida al SIAFI
-(Vigente: no mayor a 2 meses de emitida)
+
 Si desea reposición de Constancia de Registro, presentar la documentación arriba mencionada (Incisos 1 al 4)
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para su
 cotejo
-
-Subir…
 
 Requisitos para Modificaciones en el Registro de Centros Educativos
 (Matricula Gratis)
@@ -462,11 +394,6 @@ Si adiciona la cuenta bancaria se deberá presentar la Constancia Original del B
 (Vigente: no mayor a 2 meses de emitida).
 Si es Habilitación o Des habilitación de Cuentas Bancarias detallar el Número y Nombre del Banco.
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para
 su cotejo
 
@@ -479,18 +406,11 @@ Alcaldía
 4. Copia legible de Registro Tributario Nacional o Certificado de RTN de la Alcaldía.
 5. Constancia Bancaria Original de cuenta en la que se acreditará el pago solicitado, conteniendo el Código
 Institucional como tipo de Identificación asignado por el sistema SIAFI (En sustitución del RTN)
-(Vigente: no mayor a 2 meses de emitida)
+
 Si desea reposición de Constancia de Registro, presentar la documentación arriba mencionada (Incisos 1 al 4)
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General
 para su cotejo.
-
-Subir…
 
 Requisitos para Modificaciones en el Registro de las Alcaldías
 1. Oficio en papel membretado firmado y sellado por parte del Alcalde dirigido al Tesorero (a) General de la
@@ -514,15 +434,8 @@ en poder de esta institución
 
 Si desea reposición de Constancia de Registro, presentar la documentación arriba mencionada (Incisos 1 al 4)
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para
 su cotejo
-
-Subir…
 
 Requisitos para el Registro de Proyectos UAP
 
@@ -542,15 +455,8 @@ RTN) (Vigente: no mayor a 2 meses de emitida)
 
 Si desea reposición de Constancia de Registro, presentar la documentación arriba mencionada (Incisos 1 al 6)
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para su
 cotejo
-
-Subir…
 
 Requisitos para Modificaciones en el Registro de Proyectos UAP
 1. Oficio en papel membretado firmado y sellado por la máxima autoridad de la Institución de la cual
@@ -566,11 +472,6 @@ Si es Habilitación o Des habilitación de Cuentas Bancarias detallar el Número
 
 Si desea reposición de Constancia de Registro, presentar la documentación arriba mencionada (Incisos 1 al 5)
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para su
 cotejo
 
@@ -589,14 +490,8 @@ electrónico asignado, teléfono, detallar código institucional y numero de GA.
 a 2 meses de emitida)
 Si desea reposición de Constancia de Registro, presentar la documentación arriba mencionada (Incisos 1 al 7)
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para su
 cotejo
-Subir…
 
 Requisitos para Modificaciones en el Registro de las Instituciones
 Gubernamentales
@@ -611,26 +506,19 @@ solicitan cambios a realizar.
 NOTA: Si es cambio de MAE de una Institución Gubernamental o Gerente administrativo
 se presentará los requisitos 1 al 7
 Si adiciona cuenta bancaria deberá presentar la Constancia Original de BCH, dirigida al SIAFI
-(Vigente: no mayor a 2 meses de emitida)
+
 Si es Habilitación o Des habilitación de Cuentas Bancarias detallar el Número y Nombre del Banco.
 Si agrega libreta debe mencionar a que cuenta de la CUT está relacionada.
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General para su
 cotejo
-
-Subir…
 
 Requisitos para el Registro de una Empresa Extranjera
 
 1. Solicitud en Papel membretado firmado y sellado por Representante Legal dirigida al Tesorero (a)
 General de la República donde solicitan inscripción en el Registro de Beneficiarios
 2. Constancia Bancaria Original de la cuenta donde se acreditará el pago solicitado, dirigida al SIAFI
-(Vigente: no mayor a 2 meses de emitida)
+
 3. Copia legible de DNI del Representante Legal en Honduras.
 4. Original y copia legible del RTN numérico de la Empresa Extranjera.
 5. Original y copia legible del nombramiento del Representante Legal en Honduras.
@@ -640,15 +528,9 @@ hubiera.
 8. Original y copia legible del Registro Mercantil extendido por la Cámara de Comercio E Industrias de
 Tegucigalpa.
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
-
 La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI
 Si es Poder en Escritura Pública, llevar original y copia Legible a Secretaría General
 para su cotejo
-
-Subir…
 
 Requisitos para Modificaciones en el Registro de una Empresa
 Extranjera
@@ -666,20 +548,18 @@ Tegucigalpa.
 NOTA: Si es cambio del Representante Legal presentar protocolización del cambio de representante Legal
 en Honduras
 Si adiciona cuenta bancaria deberá presentar la Constancia Original del Banco, dirigida al SIAFI
-(Vigente: no mayor a 2 meses de emitida)
+
 Si es Habilitación o Des habilitación de Cuentas Bancarias detallar el Número y Nombre del Banco.
 
 Si desea reposición de Constancia de Registro, pagará L. 200.00 en cualquier banco en línea o ventanilla,
 presentará original del Recibo TGR-1 conteniendo datos de la Empresa, rubro 12121, Institución 100
 (Finanzas) con sello del banco que recibió el pago y la documentación arriba mencionada (Incisos 1 al 7)
 
-IMPORTANTE: En caso de NO presentarse Beneficiario a firmar el PIN, se aceptará Carta Poder
-debidamente autenticada por un Abogado, esta debe ser específicamente para entrega del PIN SIAFI,
-quedando la Original en poder de esta Institución.
+## Procedimientos
 
-La persona a la que se le otorgó Carta Poder deberá acompañar copia legible de DNI.
+SE RECIBE LA DOCUMENTACION SOPORTE DE ACUERDO AL TIPO DE REGISTRO QUE SE VA A REALIZAR
 
-Subir…
+## Notas (según el documento)
 
 IMPORTANTE
 
@@ -696,8 +576,6 @@ Lic. Keydi Avila
 Jefe Departamento Registro de Beneficiarios
 Y Servicio al Cliente
 
-Subir…
-
 DAVID DIAZ 24 de marzo 2025
 
 ## Documentos
@@ -707,7 +585,7 @@ DAVID DIAZ 24 de marzo 2025
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

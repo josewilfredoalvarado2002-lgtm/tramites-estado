@@ -7,14 +7,16 @@ aliases:
   - "Servicios de Biblioteca"
 institucion: "Universidad Nacional Autónoma de Honduras"
 categoria: "Servicios"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "Bienvenido al Centro de Atención al Usuario TI (CAUTI) de la Dirección Ejecutiva de Gestión de Tecnología, DEGT-UNAH, donde encontrarás además de los servicios TI, el portal de servicios bibliotecarios de la Universidad Nacional Autónoma de Honduras (UNAH), tu puerta de entrada digital a un universo de conocimiento y recursos académicos."
+tiene_requisitos: false
 url_ficha: "https://www.unah.edu.hn/servicios"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "unah.edu.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:23
-huella: "85ef671948b38764a14a8650bfcbe6f4c36462f74b24e6c4984c278e4dcf1e80"
+extraido: 2026-11-14T00:45
+huella: "32ac361bbb62e8f57fa0e16096dfd61089bac012b6e076af70750db5f54c4ee5"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Universidad Nacional Autónoma de Honduras |
 | Categoría | Servicios |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -41,7 +43,7 @@ Descubre un espacio digital intuitivo y accede fácilmente a catálogos en líne
 ## Fuente
 
 - Ficha: https://www.unah.edu.hn/servicios
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

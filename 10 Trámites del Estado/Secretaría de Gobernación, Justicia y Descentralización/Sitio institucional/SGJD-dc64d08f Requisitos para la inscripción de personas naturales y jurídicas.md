@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Gobernación, Justicia y Descentralización/Secretaría de Gobernación, Justicia y Descentralización|Secretaría de Gobernación, Justicia y Descentralización]]"
 categoria: "Dirección Régimen Departamental"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sgjd.gob.hn/tramites/tramites-direccion-regimen-departamental/25afbd6ac3ba8ba37ee7c57aaaed0b9528e7bbf73c77bca52da3fac1bf4f114e"
 documentos:
   - "https://www.sgjd.gob.hn/tramites/tramites-direccion-regimen-departamental/25afbd6ac3ba8ba37ee7c57aaaed0b9528e7bbf73c77bca52da3fac1bf4f114e/descargar"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sgjd.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:11
-huella: "c7259a08f9eebdccb01c0732d084d57c0344ba1f231c8e2d1a1c6e966532e423"
+extraido: 2026-11-14T00:38
+huella: "2c5ffa7720e096663d9174aafbe3d84cea2971e6c4fd3028eaca847ac049f0b4"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,17 +34,16 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-DIRECCIÓN DE RÉGIMEN DEPARTAMENTAL
+## Requisitos (según el documento oficial)
+
 REQUISITOS PARA LA INSCRIPCIÓN DE PERSONAS NATURALES Y JURÍDICAS
 
 La Dirección de Régimen Departamental, de la Secretaría de Estado en los Despachos
 de Gobernación, Justicia y Descentralización, establece los siguientes requisitos para
 la inscripción de empresas, comerciantes individuales y asociaciones civiles que
 desarrollen actividades sujetas a su competencia.
-
-Documentación requerida:
 
 1. Solicitud de inscripción. Presentar solicitud dirigida a la Secretaría de Estado en los
 Despachos de Gobernación, Justicia y Descentralización y a la Dirección de Régimen
@@ -88,6 +89,18 @@ instrucciones administrativas aplicables.
 documentación adicional cuando resulte necesaria para analizar y resolver la
 solicitud, siempre que corresponda conforme al marco normativo aplicable.
 
+## Dónde se presenta (según el documento)
+
+HORARIO DE ATENCIÓN
+Lunes a viernes
+9:00 a. m. a 5:00 p. m.
+Teléfono institucional
+2242-8227
+Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización ·
+Dirección de Régimen Departamental
+
+## Notas (según el documento)
+
 IMPORTANTE: INSCRIPCIÓN PREVIA OBLIGATORIA
 Las personas naturales o jurídicas que pretendan desarrollar actividades sujetas a la
 competencia de la Dirección de Régimen Departamental deberán completar
@@ -108,13 +121,9 @@ originales junto con sus respectivas fotocopias.
 El cotejo estará sujeto a la disponibilidad del personal responsable y al tiempo
 requerido para realizar la revisión correspondiente.
 
-HORARIO DE ATENCIÓN
-Lunes a viernes
-9:00 a. m. a 5:00 p. m.
-Teléfono institucional
-2242-8227
-Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización ·
-Dirección de Régimen Departamental
+## Otro texto del documento
+
+DIRECCIÓN DE RÉGIMEN DEPARTAMENTAL
 
 ## Documentos
 
@@ -123,7 +132,7 @@ Dirección de Régimen Departamental
 ## Fuente
 
 - Ficha: https://www.sgjd.gob.hn/tramites/tramites-direccion-regimen-departamental/25afbd6ac3ba8ba37ee7c57aaaed0b9528e7bbf73c77bca52da3fac1bf4f114e
-- Fecha y hora de extracción: 2026-11-13 22:11 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:38 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

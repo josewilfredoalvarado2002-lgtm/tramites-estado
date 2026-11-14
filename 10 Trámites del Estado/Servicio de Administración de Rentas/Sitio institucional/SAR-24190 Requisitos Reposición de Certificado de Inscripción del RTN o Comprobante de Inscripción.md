@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "RTN"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/requisitos-reposicion-de-certificado-de-inscripcion-del-rtn-o-comprobante-de-inscripcion/"
 documentos:
   - "https://www.sar.gob.hn/download/requisitos-reposicion-de-certificado-de-inscripcion-del-rtn-o-comprobante-de-inscripcion/?wpdmdl=24190"
 actualizado_sitio: "noviembre 3, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "1674630ac9e1a29f014b7bfd05dd166bdcf257a15f4b4f92a77394f5b28ef054"
+extraido: 2026-11-14T00:15
+huella: "1034e995cd2acdb788a497e722090aaca1fd912e6953e9ac6124e9c8d804f042"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,11 +34,13 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | noviembre 3, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS REPOSICIÓN DE CERTIFICADO
 DE INSCRIPCIÓN DEL RTN O
-COMPROBANTE DE INSCRIPCIÓN
+
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
@@ -47,12 +51,13 @@ A continuación, se detallan los requisitos aplicables para ambas modalidades: v
 según la modalidad que prefiera.
 
 REQUISITOS REPOSICIÓN DE CERTIFICADO DE INSCRIPCIÓN DEL RTN O
-COMPROBANTE DE INSCRIPCIÓN
 
 ➢ VIRTUAL
 Permite reimprimir el certificado de RTN en formato PDF a través de la Oficina Virtual del SAR
 sin costo y sin necesidad de acudir presencialmente a una oficina.
-Pasos para seguir:
+
+## Procedimiento (según el documento)
+
 - Ingrese a oficinavirtual.sar.gob.hn
 - Identifíquese con su RTN y contraseña
 - Seleccioné el “Menú” de la pantalla principal, ingresé a “Mis datos”.
@@ -83,7 +88,7 @@ desactualizada.
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/requisitos-reposicion-de-certificado-de-inscripcion-del-rtn-o-comprobante-de-inscripcion/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

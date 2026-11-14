@@ -7,15 +7,17 @@ aliases:
   - "Reemplazo de Formulario"
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Modificaciones"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "DESCRIPCIÓN DEL TRÁMITE El reemplazo de formulario es aplicable cuando el Obligado Tributario (OT) presenta por error su declaración en un formulario incorrecto. En este caso, el obligado debe elaborar la Declaración Jurada en el formulario correcto previo al envío de la petición. Es indispensable que ambas declaraciones hayan sido presentadas a través de la Oficina Virtual del sistema SIISAR. Si "
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/reemplazo-de-formulario/"
 documentos:
   - "https://www.sar.gob.hn/download/reemplazo-de-formulario/?wpdmdl=21532"
 actualizado_sitio: "septiembre 2, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "1b8890986107e9ca06c122452016226260ea191bd64ae4a738254e9ab63dd8f9"
+extraido: 2026-11-14T00:15
+huella: "18e34d7940a9424ce78cce77efcfe83a0fab53417649449aff13881205843e98"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,16 +32,11 @@ estado_sitio: "Vigente"
 | Institución | Servicio de Administración de Rentas |
 | Categoría | Modificaciones |
 | Última actualización que muestra el sitio | septiembre 2, 2026 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-TRÁMITES DE RECAUDACIÓN
-REEMPLAZO DE FORMULARIO
-Dirección Nacional de Cumplimiento Tributario
-Departamento de Recaudación
-
-REEMPLAZO DE FORMULARIO
+## Para qué se hace (según el documento)
 
 DESCRIPCIÓN DEL TRÁMITE
 El reemplazo de formulario es aplicable cuando el Obligado Tributario (OT) presenta por
@@ -76,7 +73,8 @@ pendiente para pagarlo más adelante.
 Importante: La recepción de la petición por parte de la Administración Tributaria no da
 inicio al trámite. La solicitud solo comenzará a procesarse una vez validado el pago.
 
-REQUISITOS:
+## Requisitos (según el documento oficial)
+
 a) Realizar el pago por actos administrativos por el valor de L200.00.
 b) Presente un escrito de solicitud que indique con claridad los hechos y razones
 en los que fundamenta su petición.
@@ -84,6 +82,8 @@ c) Si la petición se realiza por medio de Apoderado o Representante Legal,
 debe adjuntar la respectiva acreditación de poder autenticado. En caso
 de realizar la solicitud de manera presencial adjuntar copia del
 instrumento el mismo deberá ser cotejado con el original.
+
+## Base legal (según el documento)
 
 BASE LEGAL
 - Constitución de la Republica: Artículos 80, 321 y 351.
@@ -129,6 +129,15 @@ ______________________________________
 
 NOMBRE Y FIRMA
 
+## Otro texto del documento
+
+TRÁMITES DE RECAUDACIÓN
+REEMPLAZO DE FORMULARIO
+Dirección Nacional de Cumplimiento Tributario
+Departamento de Recaudación
+
+REEMPLAZO DE FORMULARIO
+
 ## Documentos
 
 - [Reemplazo de Formulario](https://www.sar.gob.hn/download/reemplazo-de-formulario/?wpdmdl=21532)
@@ -136,7 +145,7 @@ NOMBRE Y FIRMA
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/reemplazo-de-formulario/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

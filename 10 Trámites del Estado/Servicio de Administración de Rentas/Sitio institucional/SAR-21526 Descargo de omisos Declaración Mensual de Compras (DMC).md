@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Descargo de omisos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/descargo-de-omisos-declaracion-mensual-de-compras-dmc/"
 documentos:
   - "https://www.sar.gob.hn/download/descargo-de-omisos-declaracion-mensual-de-compras-dmc/?wpdmdl=21526"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "a57a07ff4928a64944d4f38c1693897af0b13302b7d952db033fa6f1a5cd0db9"
+extraido: 2026-11-14T00:15
+huella: "5b77f5d481e8d1b90dfe438eada6f68581cd3c1dc514c08985fb1d24a28728c3"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DESCARGO DE OMISOS DECLARACIÓN
 MENSUAL DE COMPRAS (DMC)
@@ -74,7 +78,7 @@ períodos que solicita el descargo de omisos
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/descargo-de-omisos-declaracion-mensual-de-compras-dmc/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224"
@@ -15,8 +17,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "d4ecdb78ca31fdeb43237c6b355a6c08f519936bc29f65e65450d7c8db6506a3"
+extraido: 2026-11-14T00:37
+huella: "f6b763a259e2745ecc10d2ab78311c04b5e447bcbded92f553babba470127ebd"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -33,14 +35,14 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
-REGISTRO PARA COMERCIALIZADOR TIPO SUB-OPERADOR
-V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
-Página 1 de 2
+
 ITEM REQUISITO NS RN MD AM
 1.
 Solicitud por medio de Apoderado Legal en base a los artículos No.56, 60 y. 61 de la Ley de
@@ -48,12 +50,12 @@ Procedimiento Administrativo (domicilio, datos generales, firma, sello, correo e
 teléfono fijo, teléfono celular, colegiación y dirección).
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante.
 3. Carta Poder debidamente autenticada o Poder en Escritura Pública.
-4.
+
 Declaración Jurada de No estar Comprendido, en lo preceptuado según el artículo 92 inciso
 del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente
 autenticada).
 5. Acreditar pago del aviso de Trámite según Resolución Normativa de Tasas y Canon Vigente.
-6.
+
 Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el
 Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de 10
 (diez) días hábiles desde su emisión.
@@ -80,26 +82,23 @@ de transmisión (frecuencia, fibra óptica) sobre la cual se soporta en cada tra
 infraestructura instalada. b) La dirección y coordenada geográficas de la ubicación de cada
 uno de los nodos o centros de control primarios y secundarios que conforman la infraestructura.
 c)Las empresas o clientes a los cuales se les provee el Servicio de Portador Nacional.
-☐ ☐ ☐
-11.3 Respecto del Servicio de Telefonía presentar: Copia del Contrato de Interconexión con HONDUTEL vigente a la fecha del trámite presentado ante CONATEL. ☐
+
+11.3 Respecto del Servicio de Telefonía presentar: Copia del Contrato de Interconexión con HONDUTEL vigente a la fecha del trámite presentado ante CONATEL.
 11.4
 Y copias de los Contratos de Interconexión con otros Operadores/Sub-Operadores con los
 cuales esté interconectado directamente. Los Contratos de Interconexión deben estar vigente
 a la fecha del trámite presentado ante CONATEL.
-☐ ☐ ☐ ☐
+
 11.5
 En caso de utilizar espectro radioeléctrico, presentar las formas técnicas 300, 600 o 500,
 timbradas, selladas y firmadas por un ingeniero afín a la especialidad en telecomunicaciones
 que se encuentre debidamente colegiado en el CIMEQH (Colegio de Ingenieros Mecánicos,
 Electricistas y Químicos de Honduras)
-☐ ☐ ☐ ☐
 
 REQUISITOS
-REGISTRO PARA COMERCIALIZADOR TIPO SUB-OPERADOR
-V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
-Página 2 de 2
+
 ITEM REQUISITO PARA CANCELACIONES CPL CTL CR
 1. Solicitud por medio de Apoderado Legal en base a los artículos No.56, 60 y. 61 de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
@@ -109,7 +108,7 @@ Cancelación Parcial en Licencia: según Resolución Normativa de Tasas y Canon 
 Cancelación Total de Licencia: según Resolución Normativa de Tasas y Canon Vigente.
 Cancelación de Registro: según Resolución Normativa de Tasas y Canon Vigente. (la cancelación
 del permiso lleva implícito la cancelación total de la licencia)
-4.
+
 Presentar Constancias de que está Solvente Económica y documentalmente emitida por el
 Departamento de Administración de Cartera y Cobranzas y/o la Dirección de Planificación y
 Desarrollo, respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión
@@ -120,16 +119,16 @@ Para la cancelación de cualquier sistema radioeléctrico del Servicio de Comerc
 Operador, es necesario detallar en la Solicitud lo que se desea cancelar, especificando ya sea si es el
 Permiso que le fue autorizado, o la totalidad de las Licencias, o si se trata de una cancelación parcial.
 Lo anterior para evitar que se le cancelen otras Licencias autorizadas.
-6.
+
 Informar con cuanto tiempo de anticipación informó a los usuarios del Servicio de Telefonía (Fija), que
 iba a cerrar operaciones. Presentando a la vez una copia de dicha comunicación de aviso a los
 usuarios.
-☐
+
 7.
 Informar el nombre del Operador u Sub-Operador autorizado por CONATEL, del Servicio de Telefonía
 (Fija), que continuara prestando el servicio a los usuarios, en la misma zona de cobertura. Lo anterior
 por el Principio de Continuidad en la Prestación del Servicio.
-☐
+
 NS Nueva Solicitud
 RN Renovación
 MD Modificación
@@ -142,13 +141,12 @@ Nomenclatura
 ## Documentos
 
 - [Forma 100](https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/1a9ca5f2-6e91-4aa5-b097-4de5703d8770)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/1a9ca5f2-6e91-4aa5-b097-4de5703d8770)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

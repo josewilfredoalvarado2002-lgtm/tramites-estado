@@ -7,15 +7,17 @@ aliases:
   - "Generalidades de Baja de Obligaciones Fiscales"
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Baja de obligaciones"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "GENERALIDADES NOTIFICACIÓN DE BAJA DE OBLIGACIONES FISCALES Dirección Nacional de Cumplimiento Tributario Departamento de Asistencia al Cumplimiento Nacional Diciembre, 2025 V-1 GENERALIDADES NOTIFICACIÓN DE BAJA DE OBLIGACIONES FISCALES 1. ¿QUÉ ES UNA NOTIFICACIÓN DE BAJA DE OBLIGACIONES? La baja de una obligación tributaria ante el SAR es la cancelación del registro de una obligación fiscal espe"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/generalidades-notificacion-de-baja-de-obligaciones-fiscales/"
 documentos:
   - "https://www.sar.gob.hn/download/generalidades-notificacion-de-baja-de-obligaciones-fiscales/?wpdmdl=22773"
 actualizado_sitio: "octubre 28, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "e3791703084ffbb4a4052bdaca8181a525f152d76442968c8bbe1ee43de3acbd"
+extraido: 2026-11-14T00:15
+huella: "9f32d722f5c03f2d20d27c8c915efabbbf5c18be99be26069a9f3554dfbbb0c9"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,9 +32,11 @@ estado_sitio: "Vigente"
 | Institución | Servicio de Administración de Rentas |
 | Categoría | Baja de obligaciones |
 | Última actualización que muestra el sitio | octubre 28, 2026 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Para qué se hace (según el documento)
 
 GENERALIDADES NOTIFICACIÓN DE
 BAJA DE OBLIGACIONES FISCALES
@@ -102,6 +106,7 @@ fiscal y no cumplir con los criterios de vinculación.
 5. TIPOS DE NOTIFICACIÓN BAJA DE OBLIGACIONES
 - Notificación de baja de Obligación del Impuesto Sobre la Renta a Persona
 Natural por dejar de percibir ingresos
+
 Descripción del trámite
 La notificación está orientada para aquellos obligados tributarios que ya no
 percibirán ingresos por diferentes motivos.
@@ -111,6 +116,7 @@ a dar baja de la obligación.
 
 - Notificación baja de obligación del Impuesto Sobre la Renta a por Salida del
 País
+
 Descripción del trámite
 
 La notificación está orientada para aquellos Obligados Tributarios que ya no
@@ -130,6 +136,7 @@ a dar baja de la obligación.
 
 - Notificación de baja de obligaciones por fallecimiento persona natural no
 constituido comerciante individual
+
 Descripción del trámite
 La notificación está orientada para cancelar las obligaciones a partir del
 fallecimiento de una persona natural que no se haya constituido como
@@ -160,6 +167,7 @@ a dar baja de la obligación.
 
 - Notificación baja de obligación del Impuesto Sobre la Renta a Persona
 Natural por ser asalariado código de impuesto 102
+
 Descripción del trámite
 La notificación está orientada para aquellos obligados tributarios que, a partir de
 un periodo determinado ya no emitirán documentos fiscales, debido a que sus
@@ -172,6 +180,7 @@ El escrito de notificación debe describir claramente los hechos y el período f
 a dar baja de la obligación.
 
 - Notificación baja de obligación impuesto sobre ventas (ISV)
+
 Descripción del trámite
 La notificación está orientada para aquellos obligados tributarios que cambien de
 actividad económica y no estén obligados a recaudar el Impuesto Sobre Ventas o
@@ -182,6 +191,7 @@ a dar baja de la obligación.
 
 - Notificación de suspensión de obligaciones ISR de persona natural (que no
 superan el mínimo exento)
+
 Descripción del trámite
 La notificación está orientada para aquellos obligados tributarios Persona Natural
 que, al cierre del periodo fiscal, no superaron el mínimo exento del Impuesto Sobre
@@ -192,6 +202,7 @@ a dar baja de la obligación.
 
 - Notificación de baja de obligación del impuesto sobre la renta persona
 jurídica, para Instituciones del Sector Público
+
 Descripción del trámite
 La notificación está orientada para los obligados tributarios Persona Jurídica que
 pertenecen al sector público con excepción de empresas públicas ya que éstas sí
@@ -199,6 +210,7 @@ están Obligadas a presentar la Declaración de ISR.
 
 - Notificación de baja de obligación retención en la fuente de asalariados
 código de impuesto 111
+
 Descripción del trámite
 La notificación está orientada para los obligados tributarios Comerciante Individual
 y Persona Jurídica que ya no realizarán la retención en la fuente a los empleados,
@@ -208,6 +220,7 @@ El escrito de notificación debe describir claramente los hechos y el período f
 a dar baja de la obligación.
 
 - Notificación de baja de obligación declaración mensual de compras (DMC)
+
 Descripción del trámite
 La notificación está orientada para los Obligados Tributarios Persona Jurídica y
 Natural, categorizados como pequeños contribuyentes que por desconocimiento
@@ -220,6 +233,7 @@ a dar baja de la obligación.
 
 - Notificación de baja de obligaciones declaración mensual de retenciones
 (DMR) Informativa/Determinativa.
+
 Descripción del trámite
 La notificación está orientada para los obligados tributarios que informan
 retenciones efectuadas por diferentes impuestos y que, debido a los cambios
@@ -230,6 +244,7 @@ El escrito de notificación debe describir claramente los hechos y el período f
 a dar baja de la obligación.
 
 - Notificación de baja de la obligación por tasa turística
+
 Descripción del trámite
 La notificación está orientada para los obligados tributarios que el Instituto
 Hondureño de Turismo les brinde una Certificación de Dictamen o Resolución, en
@@ -238,6 +253,7 @@ El escrito de notificación debe describir claramente los hechos y el período f
 a dar baja de la obligación.
 
 - Notificación de baja de obligaciones Industriales Forestales
+
 Descripción del trámite
 La notificación está orientada para los obligados tributarios que debido a
 cancelación de registro en el Instituyo de Conservación Forestal (ICF), no están
@@ -246,6 +262,7 @@ El escrito de notificación debe describir claramente los hechos y el período f
 a dar baja de la obligación.
 
 - Notificación de baja de obligaciones en materia de precios de trasferencia
+
 Descripción del trámite
 La notificación está orientada para los obligados tributarios que, al finalizar su
 período fiscal, con una obligación pendiente en su Oficina Virtual, realicen un
@@ -263,6 +280,7 @@ El escrito de notificación debe describir claramente los hechos y el período f
 a dar baja de la obligación.
 
 - Notificación baja de obligaciones de otros impuestos
+
 Descripción del trámite
 La notificación está orientada para los obligados tributarios que requieren realizar
 la baja de obligaciones de cualquier otro impuesto que no se encuentre
@@ -300,6 +318,7 @@ o Notificación de baja de obligaciones por cierre temporal de operaciones.
 El escrito de notificación debe describir claramente los hechos y el período fiscal a dar
 baja de la obligación.
 - Notificación de baja de obligación marcación incorrecta de la obligación
+
 Descripción del trámite
 Se consideran los siguientes casos para la baja de obligaciones:
 - Errores en el registro del código de impuesto esporádico: Cuando el Obligado Tributario
@@ -330,6 +349,7 @@ o Cambio de régimen simplificado a Normal, con omisos.
 o Código de Impuesto 202 – Régimen Simplificado de ISV.
 
 - Notificación de baja de obligaciones por cierre temporal de operaciones
+
 Descripción del trámite
 La notificación está orientada para los obligados tributarios que debido a
 diferentes factores económicos o sociales cierran temporalmente su negocio y
@@ -339,92 +359,7 @@ durante este período de tiempo no se generen omisiones y sanciones.
 El escrito debe describir claramente los hechos y el período desde y hasta a dar
 baja de la obligación, el mismo no podrá superar los períodos de prescripción.
 
-6. PLAZOS DE INGRESOS DE BAJA DE OBLIGACIONES
-Las notificaciones de baja de obligaciones fiscales se deben presentar dentro del
-plazo de presentación de la obligación, es decir antes del vencimiento. Ejemplo:
-- Notificación de suspensión de obligaciones ISR de persona natural (que
-no superan el mínimo exento)
-Baja para el período fiscal 2025, debe presentar la solicitud del 1 de enero al
-30 de abril de 2026.
-
-- Notificación de baja de obligaciones en materia de precios de
-trasferencia
-Baja para el período fiscal 2025, debe presentar la solicitud del 1 de enero al
-30 de abril de 2026.
-
-- Notificación de baja de obligación declaración mensual de compras
-(DMC)
-Baja para el período fiscal junio 2025, debe presentar la solicitud del 01 al 08
-de julio de 2025.
-
-- Notificación baja de obligación de Impuesto Sobre Ventas
-Baja para el período fiscal junio 2025, debe presentar la solicitud del 01 al 10
-de julio de 2025.
-
-7. MECANISMOS DE PRESENTACIÓN
-➢ Presencial: Ventanilla de la Coordinación de Recepción y Notificación de:
-o Dirección de Grandes Contribuyentes Tegucigalpa (Centro Cívico
-Gubernamental)
-o Dirección de Grandes Contribuyentes San Pedro Sula
-
-o Dirección Regional Centro Sur (Centro Cívico Gubernamental y Centro de
-Tegucigalpa)
-o Dirección Regional Nor Occidente (Oficina San Pedro Sula)
-o Dirección Regional Nor Oriente (Oficina La Ceiba)
-o Dirección Departamental de Olancho (Oficina de Juticalpa)
-o Dirección Departamental de Choluteca (Oficina de Choluteca)
-o Dirección Departamental de Copán (Oficina de Santa Rosa de Copán)
-o Dirección Departamental de Colón (Oficina de Tocoa)
-o Dirección Departamental Yoro (Oficina de El Progreso)
-o Dirección Departamental de El Paraíso (Oficina de Danlí)
-o Dirección Departamental de Comayagua (Oficina de Comayagua)
-
-➢ Virtual: Seguir los pasos siguientes:
-- Ingrese a la Oficina Virtual Identificado digitando RTN y contraseña tributaria.
-(https://oficinavirtual.sar.gob.hn).
-
-- Ingrese en el apartado del menú y seleccione “Solicitudes” seguidamente
-pulse clic en el botón + Nueva Solicitud seleccione “Solicitudes de RTN” y
-pulse sobre nombre de la Notificación que requiera la baja de la obligación
-según las descritas en el numeral 3 del presente documento.
-
-- Complete los datos requeridos por el sistema, como ser:
-o Solicitud: Descripción corta de la notificación.
-o Datos específicos: Consigna la información de la baja de la obligación,
-información que debe ser incluida en el escrito de notificación.
-o Escrito de Notificación: Escrito de Solicitud que contenga los
-requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
-Administrativo (Formato PDF)
-a) Suma que indique su contenido o el trámite de que se trata;
-b) La indicación del órgano al que se dirige;
-c) El nombre y apellidos, estado, profesión u oficio y domicilio del
-solicitante o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación;
-ch) Los hechos y razones en que se funde y la expresión clara de lo
-que se solicita; y,
-d) Lugar, fecha y firma o huella digital cuando no supiere firmar.
-
-o Documentación opcional
-▪ Carta Poder o Poder especial, debidamente autenticado en caso
-de que aplique, en formato PDF.
-En caso de ser solicitado por un representante procesal o apoderado
-legal, se debe acompañar lo siguiente: Documento Nacional de
-Identificación para hondureños / Pasaporte o carné de residente
-para extranjeros, en formato PDF.
-▪ Otra Información que aportar en formato PDF.
-o Métodos de pago: Recuerde realizar previamente el pago de L200.00
-mediante un Boletín de Pago Libre (Código de Impuesto 156- Actos
-Administrativos).
-
-- Pulse sobre el botón Presentar
-- Descargue el Justificante de Inicio de su solicitud.
-- La providencia de admisión o inadmisión será enviada al correo electrónico del
-presentador de la solicitud. Si no se cumplen los requisitos mínimos, se enviará
-un requerimiento que deberá ser subsanado en un plazo de 10 días hábiles
-para seguir adelante con el proceso.
-- La gestión de la solicitud comenzará el siguiente día hábil tras su admisión.
-- Al concluir el procedimiento administrativo se enviará al correo electrónico del
-solicitante la providencia donde se comunica lo resuelto.
+## Requisitos (según el documento oficial)
 
 8. REQUISITOS BAJA DE OBLIGACIONES
 Ingrese al enlace según la notificación de baja de obligación que requiere
@@ -504,6 +439,96 @@ ____________ de 202_
 
 Firma del Contribuyente
 
+## Plazo (según el documento)
+
+6. PLAZOS DE INGRESOS DE BAJA DE OBLIGACIONES
+Las notificaciones de baja de obligaciones fiscales se deben presentar dentro del
+
+plazo de presentación de la obligación, es decir antes del vencimiento. Ejemplo:
+- Notificación de suspensión de obligaciones ISR de persona natural (que
+no superan el mínimo exento)
+Baja para el período fiscal 2025, debe presentar la solicitud del 1 de enero al
+30 de abril de 2026.
+
+- Notificación de baja de obligaciones en materia de precios de
+trasferencia
+Baja para el período fiscal 2025, debe presentar la solicitud del 1 de enero al
+30 de abril de 2026.
+
+- Notificación de baja de obligación declaración mensual de compras
+(DMC)
+Baja para el período fiscal junio 2025, debe presentar la solicitud del 01 al 08
+de julio de 2025.
+
+- Notificación baja de obligación de Impuesto Sobre Ventas
+Baja para el período fiscal junio 2025, debe presentar la solicitud del 01 al 10
+de julio de 2025.
+
+7. MECANISMOS DE PRESENTACIÓN
+➢ Presencial: Ventanilla de la Coordinación de Recepción y Notificación de:
+o Dirección de Grandes Contribuyentes Tegucigalpa (Centro Cívico
+Gubernamental)
+o Dirección de Grandes Contribuyentes San Pedro Sula
+
+o Dirección Regional Centro Sur (Centro Cívico Gubernamental y Centro de
+Tegucigalpa)
+o Dirección Regional Nor Occidente (Oficina San Pedro Sula)
+o Dirección Regional Nor Oriente (Oficina La Ceiba)
+o Dirección Departamental de Olancho (Oficina de Juticalpa)
+o Dirección Departamental de Choluteca (Oficina de Choluteca)
+o Dirección Departamental de Copán (Oficina de Santa Rosa de Copán)
+o Dirección Departamental de Colón (Oficina de Tocoa)
+o Dirección Departamental Yoro (Oficina de El Progreso)
+o Dirección Departamental de El Paraíso (Oficina de Danlí)
+o Dirección Departamental de Comayagua (Oficina de Comayagua)
+
+➢ Virtual: Seguir los pasos siguientes:
+- Ingrese a la Oficina Virtual Identificado digitando RTN y contraseña tributaria.
+(https://oficinavirtual.sar.gob.hn).
+
+- Ingrese en el apartado del menú y seleccione “Solicitudes” seguidamente
+pulse clic en el botón + Nueva Solicitud seleccione “Solicitudes de RTN” y
+pulse sobre nombre de la Notificación que requiera la baja de la obligación
+según las descritas en el numeral 3 del presente documento.
+
+- Complete los datos requeridos por el sistema, como ser:
+o Solicitud: Descripción corta de la notificación.
+o Datos específicos: Consigna la información de la baja de la obligación,
+información que debe ser incluida en el escrito de notificación.
+o Escrito de Notificación: Escrito de Solicitud que contenga los
+requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
+Administrativo (Formato PDF)
+a) Suma que indique su contenido o el trámite de que se trata;
+b) La indicación del órgano al que se dirige;
+c) El nombre y apellidos, estado, profesión u oficio y domicilio del
+solicitante o de su representante, en cuyo caso deberá presentar el
+documento que acredite su representación;
+ch) Los hechos y razones en que se funde y la expresión clara de lo
+que se solicita; y,
+d) Lugar, fecha y firma o huella digital cuando no supiere firmar.
+
+o Documentación opcional
+Carta Poder o Poder especial, debidamente autenticado en caso
+de que aplique, en formato PDF.
+En caso de ser solicitado por un representante procesal o apoderado
+legal, se debe acompañar lo siguiente: Documento Nacional de
+Identificación para hondureños / Pasaporte o carné de residente
+para extranjeros, en formato PDF.
+Otra Información que aportar en formato PDF.
+o Métodos de pago: Recuerde realizar previamente el pago de L200.00
+mediante un Boletín de Pago Libre (Código de Impuesto 156- Actos
+Administrativos).
+
+- Pulse sobre el botón Presentar
+- Descargue el Justificante de Inicio de su solicitud.
+- La providencia de admisión o inadmisión será enviada al correo electrónico del
+presentador de la solicitud. Si no se cumplen los requisitos mínimos, se enviará
+un requerimiento que deberá ser subsanado en un plazo de 10 días hábiles
+para seguir adelante con el proceso.
+- La gestión de la solicitud comenzará el siguiente día hábil tras su admisión.
+- Al concluir el procedimiento administrativo se enviará al correo electrónico del
+solicitante la providencia donde se comunica lo resuelto.
+
 ## Documentos
 
 - [Generalidades de Baja de Obligaciones Fiscales](https://www.sar.gob.hn/download/generalidades-notificacion-de-baja-de-obligaciones-fiscales/?wpdmdl=22773)
@@ -511,7 +536,7 @@ Firma del Contribuyente
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/generalidades-notificacion-de-baja-de-obligaciones-fiscales/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

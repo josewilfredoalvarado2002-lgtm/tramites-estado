@@ -7,14 +7,16 @@ aliases:
   - "INSTITUTO HONDURE?O DE SEGURIDAD SOCIAL (IHSS) (DONACIONES O COMPRAS)"
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Franquicias"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "Exoneracion de Pago de los Derechos Arancelarios y sobretasas Arancelarias Correspondientes a la Importación y Exportación de Mercancías."
+tiene_requisitos: false
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "beb3dfdf1994f512c0988221f1b640c0bc23764f33541cf4e2b6f541eeb23c23"
+extraido: 2026-11-14T00:35
+huella: "6f15f50d1a6f993e0994333f16dcbf3b352796b48db032f4017893857bb5126d"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Secretaría de Finanzas |
 | Categoría | Franquicias |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Descripcion
 
@@ -38,7 +40,7 @@ Exoneracion de Pago de los Derechos Arancelarios y sobretasas Arancelarias Corre
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

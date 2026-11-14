@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Devolución / Nota de crédito"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/activo-total-neto/"
 documentos:
   - "https://www.sar.gob.hn/download/activo-total-neto/?wpdmdl=21491"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "e7c7e6ba52ffe5ef9d3b397b71fb35a1f905d6311ee3fdd570020d73c346a599"
+extraido: 2026-11-14T00:15
+huella: "7225beefe0df40cbb927345ef2fb40c1dd084cdcb54a05f82561683547b10912"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE DEVOLUCIÓN O NOTA DE
 CRÉDITO DE ACTIVO TOTAL
@@ -72,7 +76,7 @@ concepto: 1 Propio Computo)
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/activo-total-neto/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

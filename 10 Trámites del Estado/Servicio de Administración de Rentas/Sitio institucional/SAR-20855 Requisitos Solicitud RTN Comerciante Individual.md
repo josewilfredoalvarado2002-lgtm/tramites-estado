@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "RTN, RTN comerciante individual"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/requisitos-solicitud-rtn-comerciante-individual/"
 documentos:
   - "https://www.sar.gob.hn/download/requisitos-solicitud-rtn-comerciante-individual/?wpdmdl=20855"
 actualizado_sitio: "junio 8, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "15786193b558b497f2fa679dd5ae503d9691d97448bf45ee17f44453c4876f39"
+extraido: 2026-11-14T00:15
+huella: "4ee32e35dac76adb94a492a334ad17dc5d486ca44143a104d7a3813417c9efa1"
 estado_sitio: "Vigente"
 posible_equivalente_diger: "[[10 Trámites del Estado/Servicio de Administración de Rentas/TR-1118 Preinscripción en el RTN de comerciante individual|Preinscripción en el RTN de comerciante individual]]"
 ---
@@ -35,7 +37,9 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Servicio de Administració
 | Última actualización que muestra el sitio | junio 8, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE INSCRIPCIÓN DEL
 RTN PARA COMERCIANTE INDIVIDUAL
@@ -67,7 +71,7 @@ extranjeros, indicando si posee las siguientes facultades:
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/requisitos-solicitud-rtn-comerciante-individual/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

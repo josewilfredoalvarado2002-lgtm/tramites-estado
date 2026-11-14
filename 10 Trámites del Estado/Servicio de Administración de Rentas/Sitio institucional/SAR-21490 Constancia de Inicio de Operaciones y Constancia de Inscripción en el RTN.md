@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Constancias"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/solicitud-constancia-de-inicio-de-operaciones-prestamistas-no-bancarios-solvencia-de-persona-natural-asalariada-contribucion-especial/"
 documentos:
   - "https://www.sar.gob.hn/download/solicitud-constancia-de-inicio-de-operaciones-prestamistas-no-bancarios-solvencia-de-persona-natural-asalariada-contribucion-especial/?wpdmdl=21490"
 actualizado_sitio: "junio 3, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "5fe0c57a6fd2c894d2dd5c4c19de84728caa15d12dbdc9623c772fb6e7d14c02"
+extraido: 2026-11-14T00:15
+huella: "f5e56c618c36eeccfff8a039b6bc1335f177cbae7b707d8f2f0745f86e28a31c"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | junio 3, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE SOLICITUD DE
 CONSTANCIA DE INICIO DE OPERACIONES
@@ -56,6 +60,8 @@ residente vigente para extranjeros, indicando si posee las siguientes facultades
 - Facultades para comparecer a realizar el trámite.
 - Facultades para firma.
 
+## Dónde se presenta (según el documento)
+
 OFICINA VIRTUAL
 Para generar la constancia de inscripción de Inicio de Operaciones o Constancia de
 Inscripción en el RTN, debe realizar los siguientes pasos desde la Oficina Virtual:
@@ -74,7 +80,7 @@ generará su constancia. Realice la descarga del documento solicitado.
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/solicitud-constancia-de-inicio-de-operaciones-prestamistas-no-bancarios-solvencia-de-persona-natural-asalariada-contribucion-especial/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

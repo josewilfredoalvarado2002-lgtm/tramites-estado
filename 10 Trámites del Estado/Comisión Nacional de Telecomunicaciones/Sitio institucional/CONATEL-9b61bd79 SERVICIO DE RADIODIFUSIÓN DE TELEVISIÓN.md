@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/05a4406a-6797-4021-8b68-98d5606c95e2"
@@ -17,8 +19,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "aa9eca2d973d7d9caf56f4e78f5d0845b18eaf1ab1891f24aca39b413aa8bd03"
+extraido: 2026-11-14T00:37
+huella: "1e728b6f8621713fb8ad0a7c23c005cc0714aff1309e71154ba3f5322ef7ee03"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -35,14 +37,14 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
-SERVICIO DE RADIODIFUSIÓN DE TELEVISIÓN
-V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
-Página 1 de 2
+
 ITEM REQUISITO NS RN MT MRET MNT MNEN
 1.
 Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de
@@ -51,7 +53,7 @@ generales, teléfono fijo, teléfono celular y correo electrónico
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante.
 3. Carta Poder debidamente autenticada, o Poder en Escritura Pública (debidamente
 autenticada)
-4.
+
 Declaración Jurada de No estar Comprendido, en lo preceptuado según el artículo
 92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de
 Telecomunicaciones (debidamente autenticada).
@@ -72,14 +74,14 @@ Forma 101, debe ser llenada, firmada, sellada y timbrada por un profesional de l
 ingeniería, habilitado en el ejercicio de su profesión y afín a la especialidad en
 telecomunicaciones, debidamente colegiado por el Colegio de Ingenieros
 Mecánicos, Eléctricos, Químicos de Honduras (CIMEQH).
-☐
+
 11.
 Forma 203 o 203-D (Analógica o Digital según aplique) ser llenada, firmada, sellada
 y timbrada por un profesional de la i ngeniería, habilitado en el ejercicio de su
 profesión y afín a la especialidad en telecomunicaciones, debidamente colegiado
 por el Colegio de Ingenieros Mecánicos, Eléctricos, Químicos de Honduras
 (CIMEQH).
-☐ ☐ ☐ ☐ ☐
+
 12.
 Forma 204 para enlaces entre Estudios y transmisor o de unidades móviles siempre
 y cuando ocupe enlaces por radiofrecuencia, debe ser llenada, firmada, sellada y
@@ -87,7 +89,7 @@ timbrada por un profesional de la ingeniería, habilitado en el ejercicio de su
 profesión afín a la especialidad en telecomunicaciones que se encuentre
 debidamente colegiado, por el Colegio de Ingenieros Mecánicos, Eléctricos,
 Químicos de Honduras (CIMEQH)
-☐ ☐ ☐ ☐ ☐
+
 13.
 Carta de Intención de parte de una Institución Financiera debidamente autorizada
 por la Comisión Nacional de Bancos y Seguros, en la que se compromete a
@@ -111,11 +113,11 @@ por la Comisión Nacional de Bancos y Seguros (CNBS), que acredite el monto de
 la inversión inicial indicada en la memoria económica financiera
 
 REQUISITOS
-SERVICIO DE RADIODIFUSIÓN DE TELEVISIÓN
+
 MIS-03-DC-## V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
-Página 2 de 2
+
 ITEM REQUISITO PARA CANCELACIONES CPL CTL CP
 1. Solicitud por medio de Apoderado Legal en base al Artículos No. 56, 60 y 61 de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
@@ -125,7 +127,7 @@ Cancelación Parcial en Licencia: según Resolución Normativa de Tasas y Canon 
 Cancelación Total de Licencia: según Resolución Normativa de Tasas y Canon Vigente
 Cancelación de Permiso: según Resolución Normativa de Tasas y Canon Vigente (la cancelación
 del permiso lleva implícito la cancelación total de la licencia)
-4.
+
 Presentar Constancias de que está Solvente Económica y documentalmente (esta última cuando el
 operador tenga autorizado un servicio de carácter público), emitidas por el Departamento
 de Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo,
@@ -158,13 +160,12 @@ Nomenclatura
 - [Forma 203](https://cms.conatel.gob.hn/assets/05a4406a-6797-4021-8b68-98d5606c95e2)
 - [Forma 203-D](https://cms.conatel.gob.hn/assets/2ac434b0-2b8c-472d-aa19-dd49a696b1a9)
 - [Instructivo 203](https://cms.conatel.gob.hn/assets/55bbc5a0-409e-4ee1-a1b3-6ffcaee077d0)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/db5bdc7b-2881-4aeb-b306-67ef385d37ef)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/db5bdc7b-2881-4aeb-b306-67ef385d37ef)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

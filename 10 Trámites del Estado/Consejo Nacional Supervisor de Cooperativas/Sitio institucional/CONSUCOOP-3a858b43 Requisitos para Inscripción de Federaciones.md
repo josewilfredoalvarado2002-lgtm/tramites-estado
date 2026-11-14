@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/Consejo Nacional Supervisor de Cooperativas|Consejo Nacional Supervisor de Cooperativas]]"
 categoria: "No consta en el sitio"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://consucoop.hn/requisitos/"
 documentos:
-  - "https://consucoop.hn/download/12473/?tmstv=1794630135"
+  - "https://consucoop.hn/download/12473/?tmstv=1794638671"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "consucoop.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DI)"
-extraido: 2026-11-13T22:23
-huella: "4cac10cec344d54a28fd0750a92e0909db7d8fac41bf8e58f870f30e8f6804e6"
+extraido: 2026-11-14T00:45
+huella: "2da6495d4dd7c2b6627ea3baacc250e8042d1cf14f82a927b0471267da0fd64d"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,15 +34,10 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Afiliados mínimos de ingreso: a) Organismos de segundo grado veinte (20) cooperativas.
-* Sirviendo como referencia la categoría económica más baja del salario mínimo vigente
-(S.M.V.) en la zona donde se constituirá la cooperativa, deben constituirse con un
-patrimonio, no inferior al:
-a). Las de Servicio, un mínimo del 50% del S.M.V.
-b). Las de Producción, un mínimo del 25 % del S.M.V.
-c). Las de Centros Educativos, un mínimo de 12.5% del S.M.V.
+## Requisitos (según el documento oficial)
+
 Requisitos
 1. Solicitar constancia de la búsqueda de nombres de Federaciones ya existentes en el RNC.
 2. Solicitud de Personalidad Jurídica e inscripción en el Registro Nacional de
@@ -50,10 +47,11 @@ indicando generales de Ley completas, correo electrónico y números de teléfon
 debidamente autenticado.
 4.Original y fotocopia del Acta de Constitución con firmas y huellas debidamente
 autenticadas.
-www.consucoop.hn
+
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
+
 REQUISITOS PARA CONSTITUIR COOPERATIVA DE SEGUNDO
 GRADO
 DOCUMENTOS POR PRESENTAR AL SOLICITAR LA PERSONALIDAD JURIDICA
@@ -85,8 +83,7 @@ cooperativos en cada documento adjunto. Si el pago es mediante cheque o
 transferencia bancaria deberá hacerse a nombre de CONSUCOOP, presentar copia del
 recibo con datos generales de la cooperativa, teléfono, dirección exacta y correo
 electrónico, para futuras notificaciones. (OBLIGATORIO)
-www.consucoop.hn
-www.consucoop.hn
+
 OBSERVE ESTOS ASPECTOS: En cada documento relativo a hechos y relaciones
 jurídicas sujetas a inscripción de conformidad a la Ley y a su Reglamento deberá llevar
 un timbre Cooperativo de Cincuenta Lempiras (L.50.00), o pueden realizar deposito en
@@ -98,14 +95,24 @@ está EN FORMACION.
 registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp del RNC
 31622364.
 
+## Otro texto del documento
+
+Afiliados mínimos de ingreso: a) Organismos de segundo grado veinte (20) cooperativas.
+* Sirviendo como referencia la categoría económica más baja del salario mínimo vigente
+(S.M.V.) en la zona donde se constituirá la cooperativa, deben constituirse con un
+patrimonio, no inferior al:
+a). Las de Servicio, un mínimo del 50% del S.M.V.
+b). Las de Producción, un mínimo del 25 % del S.M.V.
+c). Las de Centros Educativos, un mínimo de 12.5% del S.M.V.
+
 ## Documentos
 
-- [Requisitos para Inscripción de Federaciones](https://consucoop.hn/download/12473/?tmstv=1794630135)
+- [Requisitos para Inscripción de Federaciones](https://consucoop.hn/download/12473/?tmstv=1794638671)
 
 ## Fuente
 
 - Ficha: https://consucoop.hn/requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

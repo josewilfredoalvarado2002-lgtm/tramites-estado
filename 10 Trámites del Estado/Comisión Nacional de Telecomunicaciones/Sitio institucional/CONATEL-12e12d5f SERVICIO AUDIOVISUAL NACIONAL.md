@@ -7,7 +7,9 @@ aliases:
   - "SERVICIO AUDIOVISUAL NACIONAL"
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "Constancia de Solvencia Económica del Operador de Cable a través del cual va a retransmitir.(a gestionarse por parte del Departamento de Seguimiento y Atención al Ciudadano (DESAC) 11. Constancia de Solvencia Documental del Operador de Cable a través del cual va a retransmitir. (a gestionarse por parte del Departamento de Seguimiento y Atención al Ciudadano (DESAC) 12."
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224"
@@ -24,8 +26,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "c3b752e794ea9f7f279d021848b68969f0f50e635e47fc682eb99478f83f2552"
+extraido: 2026-11-14T00:37
+huella: "ef1616caf8ff7f4e17bf3a8a702f1112332ef0126f8c738127e376f490b4eadb"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -40,16 +42,21 @@ estado_sitio: "Vigente"
 | Institución | Comisión Nacional de Telecomunicaciones |
 | Categoría | Formas y requisitos |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Para qué se hace (según el documento)
+
+Constancia de Solvencia Económica del Operador de Cable a través del cual va a retransmitir.(a gestionarse por parte del Departamento de Seguimiento y Atención al Ciudadano (DESAC) 11.
+Constancia de Solvencia Documental del Operador de Cable a través del cual va a retransmitir. (a gestionarse por parte del Departamento de Seguimiento y Atención al Ciudadano (DESAC) 12.
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
-SERVICIO AUDIOVISUAL NACIONAL
-V.5
-Página 1 de 2
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO NS RN MD AM
 1.
 Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de La Ley de
@@ -57,7 +64,7 @@ Procedimiento Administrativo, que deberá contener: domicilio, datos generales, 
 teléfono celular y correo electrónico.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante.
 3. Carta Poder debidamente autenticada, o Poder en Escritura Pública (debidamente autenticada)
-4.
+
 Declaración Jurada debidamente autenticada, de No estar Comprendido, en lo preceptuado
 según el Artículo 92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de
 Telecomunicaciones.
@@ -85,19 +92,19 @@ Ciudadano (DESAC)
 Forma 101 debe ser llenada, firmada y sellada por un profesional de la ingeniería, habilitado
 en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se encuentre
 debidamente colegiado por el (CIMEQH).
-☐
+
 14.
 Forma 860 debe ser llenada, firmada y sellada por un profesional de la ingeniería, habilitado
 en el ejercicio de su profesión, afín a la especialidad en telecomunicaciones que se encuentre
 debidamente colegiado por el (CIMEQH).
-☐ ☐ ☐
-15. Adjuntar la información la Tabla de programación, indicando periodicidad y horarios de los programas de lunes a Domingo, en lo que aplicase. ☐ ☐ ☐
+
+15. Adjuntar la información la Tabla de programación, indicando periodicidad y horarios de los programas de lunes a Domingo, en lo que aplicase.
 16.
 Formas técnicas 500 si va a utilizar espectro radioeléctrico debido a que el medio de enlace
 con el operador del Servicios por Suscripción es de la modalidad punto a punto, sujeto a lo
 dispuesto en el Resolutivo Quinto de la Resolución Normativa NR001/15 o la Resolución
 Normativa vigente que la suceda.
-☐ ☐ ☐ ☐
+
 17.
 Forma técnica 600 Debe ser llenada, firmada y sellada por un profesional de la ingeniería,
 habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se
@@ -105,19 +112,16 @@ encuentre debidamente colegiado por el (CIMEQH).si el medio de enlace con el(los
 operador(es) del Servicio por Suscripción es Satelital, adjuntando además el estudio de
 interferencia, sujeto a lo dispuesto en el Resolutivo Quinto de la Resolución Normativa
 NR001/15 o la Resolución de la Normativa vigente que la suceda.
-☐ ☐ ☐
+
 18.
 Copia de las Constancias de Derechos de Autor y Derechos Conexos en caso de estar
 brindando contenido de programación extranjera o bien programación nacional que es
 exclusiva de un operador.
-☐ ☐ ☐
 
 REQUISITOS
-SERVICIO AUDIOVISUAL NACIONAL
-V.5
-Página 2 de 2
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 19.
 Forma 900 o 920 (Ver tabla de monto de inversiones para determinar si la forma
 correspondiente es la 900 o la 920) de la Memoria Económico-Financiera, cuyo responsable
@@ -134,8 +138,8 @@ Nota de intención de suscripción del contrato entre la persona natural o jurí
 operar el canal televisivo de Servicio Audiovisual y la empresa del Servicio de Televisión por
 Suscripción por Cable que le va a transmitir o retransmitir dicho canal televisivo.
 (debidamente autenticada).
-☐ ☐ ☐
-22. Copia del Contrato Suscrito ☐
+
+22. Copia del Contrato Suscrito
 ITEM REQUISITO PARA CANCELACIONES CP CTL
 1. Solicitud por medio de Apoderado Legal en base a los artículos No.56, 60 y 61de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
@@ -143,7 +147,7 @@ ITEM REQUISITO PARA CANCELACIONES CP CTL
 Acreditar pago de aviso por:
 a) Cancelación Permiso: según Resolución Normativa de Tasas y Canon Vigente.
 b) Cancelación Total de Licencia: según Resolución Normativa de Tasas y Canon Vigente.
-4.
+
 Presentar Constancia de que está Solvente Económica y documentalmente emitida por el Departamento de
 Administración de Cartera y Cobranzas y/o la Dirección de Planificación y Desarrollo, respectivamente, cuya vigencia
 aceptada será de 10 (diez) días hábiles desde su emisión En el caso que la cancelación sea autorizada por CONATEL,
@@ -172,13 +176,12 @@ Nomenclatura
 - [Instructivo 101](https://cms.conatel.gob.hn/assets/c925e915-fae2-4739-92e3-59db81c43eb5)
 - [Instructivo 860](https://cms.conatel.gob.hn/assets/a18cbedf-6a2e-491d-81e3-c08aed37e3f8)
 - [Instructivo 600](https://cms.conatel.gob.hn/assets/beb49327-4701-4748-b0e6-e9a51a3f0baf)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/92c45227-3b8d-42d8-b9de-3c484197c96c)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/92c45227-3b8d-42d8-b9de-3c484197c96c)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

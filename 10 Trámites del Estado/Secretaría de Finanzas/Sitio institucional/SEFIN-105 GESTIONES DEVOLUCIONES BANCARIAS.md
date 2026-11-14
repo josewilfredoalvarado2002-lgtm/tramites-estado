@@ -15,7 +15,7 @@ dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T22:08
 huella: "99cb0f5594c3ed62113e8265be28de3ef29778a5c0e836b8458637cb5fd8658e"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # GESTIONES DEVOLUCIONES BANCARIAS

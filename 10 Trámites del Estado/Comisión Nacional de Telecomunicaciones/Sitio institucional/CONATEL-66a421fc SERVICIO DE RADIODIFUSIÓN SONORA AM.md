@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224"
@@ -24,8 +26,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "95e3842234e38278e30b4d76440da4955e746f9a24d76c69054ce9093f320a31"
+extraido: 2026-11-14T00:37
+huella: "72008143dc9391355274fa8e4258f1275e7c5d556cc8a4c0535a4d1128adb2dd"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -42,14 +44,14 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
-SERVICIO DE RADIODIFUSIÓN SONORA
-V.3
-Página 1 de 2
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO NS RN MT MRET MNR MNEN
 1.
 Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61
@@ -57,7 +59,7 @@ de La Ley de Procedimiento Administrativo, que deberá contener: domicilio, dato
 generales, teléfono fijo, teléfono celular y correo electrónico.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante.
 3. Carta Poder debidamente autenticada la firma, o copia de Poder en Escritura Pública (debidamente autenticada o cotejada)
-4.
+
 Declaración Jurada de No estar Comprendido, en lo preceptuado según el artículo
 92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de
 Telecomunicaciones (debidamente autenticada).
@@ -115,11 +117,11 @@ solicitud para llevar a cabo el proyecto. Esta constancia no aplica para estacio
 en FM en la modalidad de baja potencia (según Resolución Normativa NR015/03).
 
 REQUISITOS
-SERVICIO DE RADIODIFUSIÓN SONORA
+
 MIS-03-DC-## V.3
-Página 2 de 2
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO PARA CANCELACIONES CPL CTL CP
 1. Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de Procedimiento Administrativo
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
@@ -129,7 +131,7 @@ Cancelación Parcial en Licencia: según Resolución Normativa de Tasas y Canon 
 Cancelación Total de Licencia: según Resolución Normativa de Tasas y Canon Vigente.
 Cancelación de Permiso: según Resolución Normativa de Tasas y Canon Vigente. (la cancelación
 del permiso lleva implícito la cancelación total de la licencia, la cual se paga por separado)
-4.
+
 Presentar Constancias de que está Solvente Económica y documentalmente (esta última cuando el
 operador tenga autorizado un servicio de carácter público), emitidas por el Departamento
 de Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo,
@@ -169,13 +171,12 @@ Nomenclatura
 - [Instructivo 201](https://cms.conatel.gob.hn/assets/ff6f26fd-96e5-4d70-8b7f-7e35be576770)
 - [Instructivo 202](https://cms.conatel.gob.hn/assets/6322ece6-2f31-472f-a85a-af927b468724)
 - [Instructivo 204](https://cms.conatel.gob.hn/assets/be68ae70-6f50-4f85-970a-c379d1b6a7a6)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/b4b89631-8b3a-4a2f-b93f-7c9431d8f785)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/b4b89631-8b3a-4a2f-b93f-7c9431d8f785)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

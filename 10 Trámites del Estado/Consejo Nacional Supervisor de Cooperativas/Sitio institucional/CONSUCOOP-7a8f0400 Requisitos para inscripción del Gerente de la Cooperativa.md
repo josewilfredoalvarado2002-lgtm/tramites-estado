@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/Consejo Nacional Supervisor de Cooperativas|Consejo Nacional Supervisor de Cooperativas]]"
 categoria: "No consta en el sitio"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://consucoop.hn/requisitos/"
 documentos:
-  - "https://consucoop.hn/download/12454/?tmstv=1794630135"
+  - "https://consucoop.hn/download/12454/?tmstv=1794638671"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "consucoop.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DI)"
-extraido: 2026-11-13T22:23
-huella: "2c0319f9632dcd05ab88105297086747212fea5a247620fb4cc58a276703b382"
+extraido: 2026-11-14T00:45
+huella: "16a033aec9ea2413830b91ee4bdedfc1a535152838fdd7d3aac4a6a9132310ae"
 estado_sitio: "Vigente"
 posible_equivalente_diger: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/TR-254 Inscripción de Gerente General|Inscripción de Gerente General]]"
 ---
@@ -35,7 +37,9 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Consejo Nacional Superviso
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 Requisitos
 1.Solicitud de inscripción presentada por el Representante o Apoderado Legal (en el último caso
@@ -54,28 +58,29 @@ valor a favor de la Cooperativa”.
 según acuerdo del Acta No. 378/2025 de Junta Directiva del CONSUCOOP y Articulo
 No. 7, literal h) de la Ley de Cooperativas de Honduras y el Articulo No. 10, literal m)
 de su Reglamento.
-www.consucoop.hn
+
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
+
 REQUISITOS PARA LA INSCRIPCION DE GERENTE DE UNA
 COOPERATIVA
 6. Pago en concepto de la emisión de la certificación de la inscripción del gerente. (L150.00) y
 pago de timbres cooperativo de L50.00 (1) por cada documento presentado y un timbre
 cooperativo para la Certificación de L50.00 o pueden realizar deposito en cuenta de Banco
 Cuscatlán No. 11-105-0000276 a nombre de CONSUCOOP.
-www.consucoop.hn
+
 *Cualquier consulta o duda pueden abocarse al correo electrónico
 registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp 31622364.
 
 ## Documentos
 
-- [Requisitos para inscripción del Gerente de la Cooperativa](https://consucoop.hn/download/12454/?tmstv=1794630135)
+- [Requisitos para inscripción del Gerente de la Cooperativa](https://consucoop.hn/download/12454/?tmstv=1794638671)
 
 ## Fuente
 
 - Ficha: https://consucoop.hn/requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

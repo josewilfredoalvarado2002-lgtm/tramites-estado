@@ -7,15 +7,17 @@ aliases:
   - "Solicitud de devolución (Estudiantes)"
 institucion: "Universidad Nacional Autónoma de Honduras"
 categoria: "Servicios"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "A través de la Secretaría Ejecutiva de Administración y Finanzas, se brinda la atención a solicitudes de devolución de gastos realizados por estudiantes en las siguientes situaciones:"
+tiene_requisitos: false
 url_ficha: "https://www.unah.edu.hn/servicios"
 documentos:
   - "https://seaf.unah.edu.hn/assets/SEAF/documentos-2024/FORMATO-DEVOLUCION-ESTUDIANTE.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "unah.edu.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:23
-huella: "f7253434370adc72d388878e9839e705c56c455a5f8431b42495ec85970078ac"
+extraido: 2026-11-14T00:45
+huella: "300b08c86f9d4d1b6b4b76be5328b867e4ab92d744477faeac457fc47a150cb8"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,7 +32,7 @@ estado_sitio: "Vigente"
 | Institución | Universidad Nacional Autónoma de Honduras |
 | Categoría | Servicios |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -39,7 +41,7 @@ A través de la Secretaría Ejecutiva de Administración y Finanzas, se brinda l
 El estudiante deberá presentar la solicitud bajo el formato pre-impreso disponible en el siguiente enlace: y deberá presentarla en las oficinas ubicadas en el sexto piso del edificio Alma Máter o vía correo electrónico en seaf@unah.edu.hn
 Recibida la solicitud, el estudiante deberá esperar el dictamen que se emita dando paso a la devolución o denegación, en los casos que procedan. Se incluyen en el dictamen el gasto administrativo generado por este proceso.
 
-## Documento: SOLICITUD DE DEVOLUCIÓN
+## Otro texto del documento
 
 SOLICITUD DE DEVOLUCIÓN
 Tel: (504) 2216-6100
@@ -87,7 +89,7 @@ Firma de Solicitante
 ## Fuente
 
 - Ficha: https://www.unah.edu.hn/servicios
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

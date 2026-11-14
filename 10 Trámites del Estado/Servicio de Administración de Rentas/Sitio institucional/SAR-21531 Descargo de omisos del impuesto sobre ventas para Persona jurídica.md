@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Descargo de omisos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/descargo-de-omisos-del-impuesto-sobre-ventas-para-persona-juridica/"
 documentos:
   - "https://www.sar.gob.hn/download/descargo-de-omisos-del-impuesto-sobre-ventas-para-persona-juridica/?wpdmdl=21531"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "8b0245344c4d5e720a838dff85de7aaf504e2d7166ca76c026c34a44fa8d8fd2"
+extraido: 2026-11-14T00:15
+huella: "93a24fbe4b3de4f7fabc0e9bca1b579e1d263a5735feb1377951b6f33f1d5b53"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DESCARGO DE OMISOS DEL IMPUESTO SOBRE
 VENTAS PARA PERSONA JURÍDICA
@@ -81,7 +85,7 @@ períodos de la petición (Formato Excel)
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/descargo-de-omisos-del-impuesto-sobre-ventas-para-persona-juridica/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

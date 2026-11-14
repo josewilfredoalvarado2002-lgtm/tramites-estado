@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Devolución / Nota de crédito"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/pago-indebido/"
 documentos:
   - "https://www.sar.gob.hn/download/pago-indebido/?wpdmdl=21497"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "9bd05845af91bd9a7b81dad266c1fce518913a8ffe90457804dbfb64c20dc257"
+extraido: 2026-11-14T00:15
+huella: "866e18725882122145a1d1c4c8e3a306d11c18d3810b1ee5b7eb9e75bfb48f9a"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE DEVOLUCIÓN Y NOTAS DE
 CRÉDITOS DE PAGOS INDEBIDOS
@@ -40,7 +44,6 @@ Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
 REQUISITOS DE DEVOLUCIÓN Y NOTAS DE CRÉDITOS DE
-PAGOS INDEBIDOS
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
 Escrito de Solicitud que contenga los requisitos
@@ -61,6 +64,10 @@ Comprobante de boletín de pago L200.00
 (Impuesto: 156 - Actos administrativos,
 concepto: 1 Propio Computo)
 
+## Costo (según el documento)
+
+PAGOS INDEBIDOS
+
 ## Documentos
 
 - [Devolución y Nota de Crédito Pagos Indebidos](https://www.sar.gob.hn/download/pago-indebido/?wpdmdl=21497)
@@ -68,7 +75,7 @@ concepto: 1 Propio Computo)
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/pago-indebido/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

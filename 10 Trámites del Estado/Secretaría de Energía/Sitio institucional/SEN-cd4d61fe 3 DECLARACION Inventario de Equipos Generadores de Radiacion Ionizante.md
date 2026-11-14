@@ -16,7 +16,7 @@ dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
 extraido: 2026-11-13T22:22
 huella: "a1ed34e8c003ae2c030821587b051546daa5d08a424786240310900cafe5b28d"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # 3 DECLARACION Inventario de Equipos Generadores de Radiacion Ionizante

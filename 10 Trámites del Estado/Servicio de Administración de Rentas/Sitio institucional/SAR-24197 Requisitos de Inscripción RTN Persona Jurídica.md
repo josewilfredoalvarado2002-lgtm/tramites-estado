@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "RTN"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/requisitos-de-inscripcion-rtn-persona-juridica/"
 documentos:
   - "https://www.sar.gob.hn/download/requisitos-de-inscripcion-rtn-persona-juridica/?wpdmdl=24197"
 actualizado_sitio: "noviembre 3, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "556c5f848a1e004845ed70cda67f9470872090ce3503fdbd4c5b195825e63543"
+extraido: 2026-11-14T00:15
+huella: "0e9571b84b31a46ef7ba68b7ad145a60a09ba6db14b97aa5a8437df2fe50311e"
 estado_sitio: "Vigente"
 posible_equivalente_diger: "[[10 Trámites del Estado/Servicio de Administración de Rentas/TR-1121 Preinscripción en el RTN de Persona Jurídica|Preinscripción en el RTN de Persona Jurídica]]"
 ---
@@ -35,7 +37,9 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Servicio de Administració
 | Última actualización que muestra el sitio | noviembre 3, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE INSCRIPCIÓN DEL
 RTN PARA PERSONA JURIDICA
@@ -46,16 +50,22 @@ CONTENIDO
 
 REQUISITOS DE INSCRIPCIÓN RTN SOCIEDAD MERCANTIL .............................................. 3
 REQUISITOS DE INSCRIPCIÓN RTN COOPERATIVAS .......................................................... 4
+
 REQUISITOS DE INSCRIPCIÓN RTN SOCIEDADES EXTRANJERAS .................................... 5
+
 REQUISITOS DE INSCRIPCIÓN RTN ASOCIACIONES O SOCIEDADES DE HECHO ............ 6
+
 REQUISITOS DE INSCRIPCIÓN RTN PROGRAMAS FINANCIEROS POR ORGANISMOS
 INTERNACIONALES ................................................................................................................. 7
+
 REQUISITOS DE INSCRIPCIÓN RTN INSTITUCIONES PÚBLICAS ........................................ 8
 REQUISITOS DE INSCRIPCIÓN RTN ASOCIACIONES CIVILES ............................................ 9
+
 REQUISITOS DE INSCRIPCIÓN RTN EMPRESAS Y ORGANIZACIONES DEL SECTOR
 SOCIAL DE LA ECONOMÍA .....................................................................................................10
 REQUISITOS DE INSCRIPCIÓN RTN FIDEICOMISOS ........................................................... 11
 REQUISITOS FONDOS DE INVERSIÓN .................................................................................12
+
 REQUISITOS SOCIEDADES EXTRAJERAS NO INCORPORADAS, CON REPRESENTACIÓN
 DE UN AGENTE O AGENCIA CONSTITUIDA EN EL PAÍS.......................................................13
 
@@ -78,17 +88,6 @@ Carné de Residencia vigente.
 apostillada y traducida de la Escritura o Certificado de Constitución o identificador
 tributario de país de procedencia.
 5. Documento que acredite dirección exacta (original), por ejemplo:
-- Recibo de un Servicio Público.
-- Contrato de Alquiler o Arrendamiento Comercial.
-- Constancia de la Vecindad.
-- Recibo de suscripción de Servicios Privados (Internet, cable, telefonía).
-
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las
-siguientes facultades:
-- Facultades para comparecer a realizar el trámite.
-- Facultades para firmar.
 
 REQUISITOS DE INSCRIPCIÓN RTN COOPERATIVAS
 1. Certificación con Personalidad Jurídica otorgada por el ente regulador (Original).
@@ -100,17 +99,6 @@ Nacional.
 4. Documento Nacional de Identificación, Pasaporte o Carné de Residencia vigente de la
 Junta Directiva y otros subsidiario de la Administración. (Fotocopia)
 5. Documento que acredite dirección exacta (original), por ejemplo:
-- Recibo de un Servicio Público.
-- Contrato de Alquiler o Arrendamiento Comercial.
-- Constancia de la Vecindad.
-- Recibo de suscripción de Servicios Privados (Internet, cable, telefonía).
-
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las
-siguientes facultades:
-- Facultades para comparecer a realizar el trámite.
-- Facultades para firmar.
 
 REQUISITOS DE INSCRIPCIÓN RTN SOCIEDADES EXTRANJERAS
 1. Documento que acredite la creación de la empresa en Honduras, debidamente inscrito
@@ -120,17 +108,6 @@ Representante Legal el cual debe previamente estar inscrito en el RTN.
 3. Fotocopia del Documento Nacional de Identificación, Pasaporte o Carné de Residencia
 de la Junta Directiva y otros subsidiario de la Administración.
 4. Documento que acredite dirección exacta (original), por ejemplo:
-- Recibo de un Servicio Público.
-- Contrato de Alquiler o Arrendamiento Comercial.
-- Constancia de la Vecindad.
-- Recibo de suscripción de Servicios Privados (Internet, cable, telefonía).
-
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las
-siguientes facultades:
-- Facultades para comparecer a realizar el trámite.
-- Facultades para firmar.
 
 REQUISITOS DE INSCRIPCIÓN RTN ASOCIACIONES O SOCIEDADES DE HECHO
 
@@ -140,17 +117,6 @@ Representante Legal el cual debe previamente estar inscrito en el RTN.
 3. Fotocopia del Documento Nacional de Identificación de las partes del Contrato o Escritura
 de Constitución de los socios que conforman la sociedad de hecho.
 4. Documento que acredite dirección exacta (original), por ejemplo:
-- Recibo de un Servicio Público.
-- Contrato de Alquiler o Arrendamiento Comercial.
-- Constancia de la Vecindad.
-- Recibo de suscripción de Servicios Privados (Internet, cable, telefonía).
-
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las
-siguientes facultades:
-- Facultades para comparecer a realizar el trámite.
-- Facultades para firmar.
 
 REQUISITOS DE INSCRIPCIÓN RTN PROGRAMAS FINANCIEROS POR
 ORGANISMOS INTERNACIONALES
@@ -161,17 +127,6 @@ Representante Legal el cual debe previamente estar inscrito en el Registro Tribu
 Nacional.
 3. Número de RTN del Beneficiario y Financiador.
 4. Documento que acredite dirección exacta (original), por ejemplo:
-- Recibo de un Servicio Público.
-- Contrato de Alquiler o Arrendamiento Comercial.
-- Constancia de la Vecindad.
-- Recibo de suscripción de Servicios Privados (Internet, cable, telefonía).
-
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las
-siguientes facultades:
-- Facultades para comparecer a realizar el trámite.
-- Facultades para firmar.
 
 REQUISITOS DE INSCRIPCIÓN RTN INSTITUCIONES PÚBLICAS
 
@@ -185,17 +140,6 @@ Nacional Electoral (CNE).
 3. Fotocopia del Documento Nacional de Identificación del Representante Legal el cual debe
 previamente estar inscrito en el Registro Tributario Nacional.
 4. Documento que acredite dirección exacta (original), por ejemplo:
-- Recibo de un Servicio Público.
-- Contrato de Alquiler o Arrendamiento Comercial.
-- Constancia de la Vecindad.
-- Recibo de suscripción de Servicios Privados (Internet, cable, telefonía).
-
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las
-siguientes facultades:
-- Facultades para comparecer a realizar el trámite.
-- Facultades para firmar.
 
 REQUISITOS DE INSCRIPCIÓN RTN ASOCIACIONES CIVILES
 1. Certificación de Resolución (Personería Jurídica) emitida por el Ente Regulador (Original).
@@ -208,17 +152,6 @@ Nacional.
 6. Fotocopia del Documento Nacional de Identificación (DNI), Pasaporte o Carné de
 Residencia vigente de los miembros de la Junta Directiva.
 7. Documento que acredite dirección exacta (original), por ejemplo:
-- Recibo de un Servicio Público.
-- Contrato de Alquiler o Arrendamiento Comercial.
-- Constancia de la Vecindad.
-- Recibo de suscripción de Servicios Privados (Internet, cable, telefonía).
-
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las
-siguientes facultades:
-- Facultades para comparecer a realizar el trámite.
-- Facultades para firmar.
 
 REQUISITOS DE INSCRIPCIÓN RTN EMPRESAS Y ORGANIZACIONES DEL
 SECTOR SOCIAL DE LA ECONOMÍA
@@ -233,17 +166,6 @@ Nacional.
 6. Fotocopia del Documento Nacional de Identificación (DNI), Pasaporte o Carné de
 Residencia vigente de los miembros de la Junta Directiva.
 7. Documento que acredite dirección exacta (original), por ejemplo:
-- Recibo de un Servicio Público.
-- Contrato de Alquiler o Arrendamiento Comercial.
-- Constancia de la Vecindad.
-- Recibo de suscripción de Servicios Privados (Internet, cable, telefonía).
-
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las
-siguientes facultades:
-- Facultades para comparecer a realizar el trámite.
-- Facultades para firmar.
 
 REQUISITOS DE INSCRIPCIÓN RTN FIDEICOMISOS
 1. Contrato del Fideicomiso (Original y fotocopia).
@@ -253,17 +175,6 @@ Registro Tributario Nacional.
 3. Fotocopia del RTN de las partes del Contrato (Fideicomitente, Fiduciario, Cofiduciario,
 Fideicomisario).
 4. Documento que acredite dirección exacta (original), por ejemplo:
-- Recibo de un Servicio Público.
-- Contrato de Alquiler o Arrendamiento Comercial.
-- Constancia de la Vecindad.
-- Recibo de suscripción de Servicios Privados (Internet, cable, telefonía).
-
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las
-siguientes facultades:
-- Facultades para comparecer a realizar el trámite.
-- Facultades para firmar.
 
 REQUISITOS FONDOS DE INVERSIÓN
 1. Contrato de Administración y en caso de que aplique Addendum (Original y fotocopia).
@@ -273,17 +184,6 @@ en el Registro Tributario Nacional.
 3. Fotocopia de Acuerdo de Nombramiento del Administrador (BANHPROVI).
 4. Fotocopia del RTN de las partes del Contrato: Administrador y Aportante.
 5. Documento que acredite dirección exacta (original), por ejemplo:
-- Recibo de un Servicio Público.
-- Contrato de Alquiler o Arrendamiento Comercial.
-- Constancia de la Vecindad.
-- Recibo de suscripción de Servicios Privados (Internet, cable, telefonía).
-
-Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las
-siguientes facultades:
-- Facultades para comparecer a realizar el trámite.
-- Facultades para firmar.
 
 REQUISITOS SOCIEDADES EXTRAJERAS NO INCORPORADAS, CON
 REPRESENTACIÓN DE UN AGENTE O AGENCIA CONSTITUIDA EN EL PAÍS
@@ -297,10 +197,7 @@ constituida en el país.
 del Representante Legal el cual debe previamente estar inscrito en el Registro Tributario
 Nacional.
 5. Documento que acredite dirección exacta (original), por ejemplo:
-- Recibo de un Servicio Público.
-- Contrato de Alquiler o Arrendamiento Comercial.
-- Constancia de la Vecindad.
-- Recibo de suscripción de Servicios Privados (Internet, cable, telefonía).
+
 6. Otra documentación soporte:
 - En caso de no contar con la escritura de constitución de la sociedad extranjera el
 Agente o Agencia que lo representa debe presentar acta notarial donde identifique
@@ -312,8 +209,7 @@ de las fotocopias ante notario público.
 Nota 1: El Representante Legal de la sociedad extranjera no incorporada será el
 Representante Legal del Agente o Agencia constituida en el país.
 Nota 2: En caso de ser solicitado por un representante procesal o apoderado legal, se debe
-acompañar poder o carta poder debidamente autenticado, Documento Nacional de Identificación
-(DNI) para hondureños, Pasaporte o carné de residente para extranjeros, indicando si posee las
+
 siguientes facultades: Facultades para comparecer a realizar el trámite y facultades para firmar.
 
 ## Documentos
@@ -323,7 +219,7 @@ siguientes facultades: Facultades para comparecer a realizar el trámite y facul
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/requisitos-de-inscripcion-rtn-persona-juridica/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

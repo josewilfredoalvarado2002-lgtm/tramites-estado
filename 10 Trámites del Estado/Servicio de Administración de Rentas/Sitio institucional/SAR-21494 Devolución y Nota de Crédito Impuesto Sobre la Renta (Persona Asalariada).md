@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Devolución / Nota de crédito"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/impuesto-sobre-la-renta-persona-asalariada/"
 documentos:
   - "https://www.sar.gob.hn/download/impuesto-sobre-la-renta-persona-asalariada/?wpdmdl=21494"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "edbba7e297460079d964935985ada1fc2a1b5560d4583a1b3d87dbdac30c2299"
+extraido: 2026-11-14T00:15
+huella: "642116b3607a0ad4f6a4a5d9172b5777356001e8c36c3e6844e823de50a7153f"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE DEVOLUCIÓN O NOTA DE CRÉDITO
 DE IMPUESTO SOBRE LA RENTA (PERSONA
@@ -69,7 +73,7 @@ concepto: 1 Propio Computo)
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/impuesto-sobre-la-renta-persona-asalariada/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

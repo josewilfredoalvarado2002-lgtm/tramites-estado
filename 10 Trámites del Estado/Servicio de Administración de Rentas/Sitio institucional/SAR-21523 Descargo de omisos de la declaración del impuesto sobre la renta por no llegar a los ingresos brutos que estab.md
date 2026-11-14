@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Descargo de omisos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/descargo-de-omisos-de-la-declaracion-del-impuesto-sobre-la-renta-por-no-llegar-a-los-ingresos-brutos-que-establece-el-articulo-28-de-la-ley-del-impuesto-sobre-la-renta/"
 documentos:
   - "https://www.sar.gob.hn/download/descargo-de-omisos-de-la-declaracion-del-impuesto-sobre-la-renta-por-no-llegar-a-los-ingresos-brutos-que-establece-el-articulo-28-de-la-ley-del-impuesto-sobre-la-renta/?wpdmdl=21523"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "ce53d1e8cffa5d3d8ad9b0dbf2cd8eada4d7c84643b8242680fc0fcad5925831"
+extraido: 2026-11-14T00:15
+huella: "306b52e71e36a88d80ebef373b7f88c185d02161a969e75b8a0c977261b5e28a"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DESCARGO DE OMISOS DE LA DECLARACIÓN
 DEL IMPUESTO SOBRE LA RENTA POR NO LLEGAR A LOS
@@ -72,7 +76,7 @@ Acuerdo 481-2017)
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/descargo-de-omisos-de-la-declaracion-del-impuesto-sobre-la-renta-por-no-llegar-a-los-ingresos-brutos-que-establece-el-articulo-28-de-la-ley-del-impuesto-sobre-la-renta/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

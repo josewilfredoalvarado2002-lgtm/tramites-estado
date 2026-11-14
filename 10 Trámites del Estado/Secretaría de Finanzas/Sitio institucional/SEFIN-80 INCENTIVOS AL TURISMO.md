@@ -7,14 +7,16 @@ aliases:
   - "INCENTIVOS AL TURISMO"
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Franquicias"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "Exoneracion de Pago de los Derechos Arancelarios y sobretasas Arancelarias Correspondientes a la Importación y Exportación de Mercancías."
+tiene_requisitos: false
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "9ad6bb477b2536d1adf5ac21fdca5d0c862dc10a853f91363225a33745f36d0f"
+extraido: 2026-11-14T00:35
+huella: "85f3ebf2fe9ff81e62f7074ae3007a4196a395503fbc98b722d221ea73fc6a9d"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Secretaría de Finanzas |
 | Categoría | Franquicias |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Descripcion
 
@@ -38,7 +40,7 @@ Exoneracion de Pago de los Derechos Arancelarios y sobretasas Arancelarias Corre
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

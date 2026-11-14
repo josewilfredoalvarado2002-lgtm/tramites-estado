@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "DGSR-013 Requisitos Registro de Prestadores de Servicios Técnicos en Protección\r\n Radiológica"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-dgsr/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/04/DGSR-014_Requisitos-Autorirzacion-de-Construccion-Instalacion-Radioterapia.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "88ee1bd13ad4f2384495ed20e64bec8dde6f3b2ce1146b3dc35e4f0680c0b79c"
+extraido: 2026-11-14T00:44
+huella: "7adef428a58b991f32e9439c40058e879cdc7f6354f4a2e6722ee4d91b771954"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -33,23 +35,13 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-014
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
+## Requisitos (según el documento oficial)
 
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN DE CONSTRUCCION DE INSTALACION
-PARA LA PRÁCTICA DE RADIOTERAPIA
 
-V. 2.0
-
-Página 1 de 5
-
-No. Requisitos Legales y Técnicos ❒ Base Legal
+No. Requisitos Legales y Técnicos  Base Legal
 1. Escrito de Solicitud, presentado a través de un Apoderado
 Legal, cumpliendo con lo siguiente:
 
@@ -79,52 +71,14 @@ fijo y móvil, correo electrónico, número de colegiación.
 Dirección postal exacta y especificar coordenadas según
 mapa de ubicación catastral, teléfonos, e-mail de la
 instalación.
-□
-Art 56, 61 y 63 de la Ley de
-Procedimiento Administrativo
-2. Copia de Escritura de Constitución de la Sociedad o
-Comerciante Individual y sus modificaciones
-debidamente inscritas.
-□
-Art. 54 de la Ley de Procedimiento
-Administrativo.
-3. Copia de Registro Tributario Nacional (RTN) a
-nombre de la Sociedad o Comerciante Individual. □ Art. Artículo 61 de la Ley de Procedimiento Administrativo.
-4. Copia del Documento Nacional de Identificación
-(DNI) del representante legal. □
-Art. Artículo 61 de la Ley de
-Procedimiento Administrativo. Art. 11.
-Reglamento de Protección Radiológica.
-5. Poder del Representante Legal, debidamente inscrito
-de la empresa solicitante. □
-Art. Artículo 61 de la Ley de
-Procedimiento Administrativo. Art. 11.
-Reglamento de Protección Radiológica.
-6. Poder del Apoderado Legal, otorgado por el
-Representante Legal. □
-Art. Artículo 61 de la Ley de
-Procedimiento Administrativo. Art. 11.
-Reglamento de Protección Radiológica
-7. Copia del Carnet Vigente del Apoderado Legal
-emitido por el Colegio de Abogados de Honduras. □ Art. Artículo 61 de la Ley de Procedimiento Administrativo.
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-014
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
+Art 56, 61 y 63 de la Ley de
 
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN DE CONSTRUCCION DE INSTALACION
-PARA LA PRÁCTICA DE RADIOTERAPIA
-
-V. 2.0
-
-Página 2 de 5
 
 8. Copia del Documento Nacional de Identificación
 (DNI) del personal que esté involucrado en la práctica de
-Radioterapia. □
+Radioterapia.
 Art. 5 de la Ley sobre Actividades
 Nucleares y Seguridad Radiológica. Art.
 11. Reglamento de Protección
@@ -174,26 +128,13 @@ emisores de radiaciones ionizantes, de las fuentes
 radiactivas con indicación de la utilización estimada de
 estas fuentes, expresada en horas por mes.
 
-□
 Art.14 inciso a) numeral del
 Reglamento de Autorización para
 Instalaciones Radiactivas y Equipos
 Generadores de Radiaciones
 Ionizantes.
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-014
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
-
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN DE CONSTRUCCION DE INSTALACION
-PARA LA PRÁCTICA DE RADIOTERAPIA
-
-V. 2.0
-
-Página 3 de 5
 
 10. Declaración Jurada del Prestador de Servicios
 Técnicos en Protección Radiológica, firmada, sellada y
@@ -209,10 +150,9 @@ Radiológica.
 11. Declaración Jurada del Representante Legal,
 firmada, sellada y autenticada. (Formato disponible en
 Microsoft Word, portal web:
-https://sen.hn/tramites-dgsr/).
 
 Ver nota No. 2.
-□
+
 Art. 5 de la Ley sobre Actividades
 Nucleares y Seguridad Radiológica. Art.
 11. Reglamento de Protección
@@ -220,11 +160,10 @@ Radiológica.
 12. Declaración de inventario de equipos generadores
 de radiación ionizante. (Disponible en formato
 Microsoft Word el portal web:
-https://sen.hn/tramites-dgsr/).
 
 Nota: Aplica en caso de contar con la información presentar
 esta declaración, sino se cuenta con la misma debe justificar.
-□
+
 Art. 11. Reglamento de Protección
 Radiológica.
 13. Declaración de Inventario de Equipos Generadores
@@ -234,7 +173,7 @@ Word, portal web: https://sen.hn/tramites-dgsr/).
 
 Nota: Aplica en caso de contar con la información presentar
 esta declaración, sino se cuenta con la misma debe justificar
-□
+
 Art. 11. Reglamento de Protección
 Radiológica.
 14. Admitida la solicitud y habiendo cumplido con los requisitos
@@ -260,24 +199,11 @@ Zona I: Francisco Morazán: L. 12,000.00
 Zona II: Resto del País: L. 22,000.00
 Zona III: Islas de la Bahía y la Mosquitia: L. 32,000.00
 
-□
 Art. Artículo 3 del Acuerdo Ministerial
 No. 002-2019, publicado en el Diario la
 Gaceta el 10 de abril del 2019.
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-014
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
-
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN DE CONSTRUCCION DE INSTALACION
-PARA LA PRÁCTICA DE RADIOTERAPIA
-
-V. 2.0
-
-Página 4 de 5
 
 Ver notas Nos.3 y 4
 15. Emitida favorable la Autorización, habiendo cumplido con
@@ -297,59 +223,8 @@ de Radioterapia.
 
 Institución: 310 - Secretaría de Energía.
 Rubro: 12209 – Otras Licencias.
-Monto: L. 6,000.00
-
-Ver notas Nos.3 y 4
-□
-Art. 6 del Acuerdo Ministerial No. 002-
-2019, publicado en el Diario la Gaceta
-el 10 de abril de 2019.
-16 Emitida favorable la Autorización, habiendo cumplido con
-los requisitos legales y técnicos la Secretaría requerirá el
-recibo de pago en concepto de emisión de Certificación y
-Autorización.
-
-Presentar Recibo TGR con su comprobante de pago en
-concepto de Emisión de Certificación de Resolución, de la
-siguiente forma:
-
-Institución: 310 - Secretaría de Energía.
-Rubro: 12121 – Emisión, Constancias,
-Certificaciones y Otros.
-Monto: L 200.00
-Ver nota No. 4
-□
-Disposiciones Generales del
-Presupuesto General de Ingresos y
-Egresos de la Republica Ejercicio
-Fiscal Vigente.
-Notas:
-
-Nota 1: La Secretaría de Energía reconocerá únicamente los servicios técnicos e información generada por las
-personas naturales y/o jurídicas que se incorporen al Registro Nacional de Prestadores de Servicios Técnicos en
-Protección Radiológica, emitido bajo el Acuerdo Ministerial SEN-015-2021.
-
-Nota 2: Con base en el Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Auténtica
-de firmas (documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados.
-Cada una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y
-sello estampado del notario.
-
-Nota 3: Previo a cualquier pago correspondiente a Inspección o Autorización, la Secretaría de Energía enviará
-una notificación vía correo electrónico, indicando cuando debe pagar el respectivo TGR.
-
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-014
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
 
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN DE CONSTRUCCION DE INSTALACION
-PARA LA PRÁCTICA DE RADIOTERAPIA
-
-V. 2.0
-
-Página 5 de 5
 
 Nota 4: Con base a las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la Republica
 Ejercicio Fiscal vigente, el Recibo TGR solo es vigente y admitido en la SEN durante 15 días, los cuales son
@@ -370,6 +245,79 @@ los términos de referencia, tanto para los requisitos legales como técnicos.
 ● Aunque la Autoridad Reguladora tramitará la solicitud con prontitud, no puede garantizarse que se otorgue
 la Autorización para una fecha determinada.
 
+## Costo (según el documento)
+
+Monto: L. 6,000.00
+
+Ver notas Nos.3 y 4
+
+Art. 6 del Acuerdo Ministerial No. 002-
+2019, publicado en el Diario la Gaceta
+el 10 de abril de 2019.
+16 Emitida favorable la Autorización, habiendo cumplido con
+los requisitos legales y técnicos la Secretaría requerirá el
+recibo de pago en concepto de emisión de Certificación y
+Autorización.
+
+Presentar Recibo TGR con su comprobante de pago en
+concepto de Emisión de Certificación de Resolución, de la
+siguiente forma:
+
+Institución: 310 - Secretaría de Energía.
+Rubro: 12121 – Emisión, Constancias,
+Certificaciones y Otros.
+
+Monto: L 200.00
+Ver nota No. 4
+
+Disposiciones Generales del
+Presupuesto General de Ingresos y
+Egresos de la Republica Ejercicio
+Fiscal Vigente.
+
+## Procedimiento (según el documento)
+
+Procedimiento Administrativo
+2. Copia de Escritura de Constitución de la Sociedad o
+Comerciante Individual y sus modificaciones
+debidamente inscritas.
+
+Art. 54 de la Ley de Procedimiento
+Administrativo.
+3. Copia de Registro Tributario Nacional (RTN) a
+nombre de la Sociedad o Comerciante Individual.  Art. Artículo 61 de la Ley de Procedimiento Administrativo.
+4. Copia del Documento Nacional de Identificación
+(DNI) del representante legal.
+Art. Artículo 61 de la Ley de
+Procedimiento Administrativo. Art. 11.
+Reglamento de Protección Radiológica.
+5. Poder del Representante Legal, debidamente inscrito
+de la empresa solicitante.
+Art. Artículo 61 de la Ley de
+Procedimiento Administrativo. Art. 11.
+Reglamento de Protección Radiológica.
+6. Poder del Apoderado Legal, otorgado por el
+Representante Legal.
+Art. Artículo 61 de la Ley de
+Procedimiento Administrativo. Art. 11.
+Reglamento de Protección Radiológica
+7. Copia del Carnet Vigente del Apoderado Legal
+emitido por el Colegio de Abogados de Honduras.  Art. Artículo 61 de la Ley de Procedimiento Administrativo.
+
+## Notas (según el documento)
+
+Nota 1: La Secretaría de Energía reconocerá únicamente los servicios técnicos e información generada por las
+personas naturales y/o jurídicas que se incorporen al Registro Nacional de Prestadores de Servicios Técnicos en
+Protección Radiológica, emitido bajo el Acuerdo Ministerial SEN-015-2021.
+
+Nota 2: Con base en el Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Auténtica
+de firmas (documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados.
+Cada una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y
+sello estampado del notario.
+
+Nota 3: Previo a cualquier pago correspondiente a Inspección o Autorización, la Secretaría de Energía enviará
+una notificación vía correo electrónico, indicando cuando debe pagar el respectivo TGR.
+
 ## Documentos
 
 - [DGSR 014 Requisitos Autorirzacion de Construccion Instalacion Radioterapia](https://sen.hn/wp-content/uploads/2026/04/DGSR-014_Requisitos-Autorirzacion-de-Construccion-Instalacion-Radioterapia.pdf)
@@ -377,7 +325,7 @@ la Autorización para una fecha determinada.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-dgsr/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

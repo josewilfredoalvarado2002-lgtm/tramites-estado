@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/10/Marca-Envasador-Cilindros-GLP_Art22.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "84dab5506a9d1639c7e5b591e8e958863b692b1cb1b06b1d394ab0a5d2a595b2"
+extraido: 2026-11-14T00:44
+huella: "6db9133780a62a3d7ce2b7962a9fab0d4155cacfe01b1d38bf10bbbb1f4e0e37"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,16 +34,10 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Página 1 de 1
+## Requisitos (según el documento oficial)
 
-Inscripción De la Marca del Envasador de Cilindros para Contener Gas Licuado del Petróleo
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
-Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
-agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de
-agosto 2025).
-Artículo No. 22.
 1
 Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
 Administrativo.
@@ -80,6 +76,15 @@ En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben p
 una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y
 sello estampado del notario.
 
+## Otro texto del documento
+
+Inscripción De la Marca del Envasador de Cilindros para Contener Gas Licuado del Petróleo
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
+Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
+agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de
+agosto 2025).
+Artículo No. 22.
+
 ## Documentos
 
 - [Marca Envasador Cilindros GLP_Art22](https://sen.hn/wp-content/uploads/2026/10/Marca-Envasador-Cilindros-GLP_Art22.pdf)
@@ -87,7 +92,7 @@ sello estampado del notario.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

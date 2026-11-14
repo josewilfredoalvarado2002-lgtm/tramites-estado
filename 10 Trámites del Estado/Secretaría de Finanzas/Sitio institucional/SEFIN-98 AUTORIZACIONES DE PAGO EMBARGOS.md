@@ -7,15 +7,17 @@ aliases:
   - "AUTORIZACIONES DE PAGO EMBARGOS"
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Tesoreria"
-calidad: "completo"
+calidad: "solo_para_que"
+para_que: "TRANSFERENCIAS BANCARIAS A LOS BENEFICIARIOS DE UN EMBARGO"
+tiene_requisitos: false
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos:
   - "https://www.sefin.gob.hn/wp-content/uploads/2026/05/Recibo-de-autorizacion-de-pagos-embargos-2026-R.-TGR-EMB-AP-03-ED.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "054383217f73c9478d9616c064d1387d19cb321cd3493e10c83e2aaf08e6ec2e"
+extraido: 2026-11-14T00:35
+huella: "82e4037100ae82767339921f61606bb8d52a42180a45bfe6f67aafeae76fb2b9"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,11 +32,15 @@ estado_sitio: "Vigente"
 | Institución | Secretaría de Finanzas |
 | Categoría | Tesoreria |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | completo |
+| Calidad de la extracción | solo para que |
 
 ## Descripcion
 
 TRANSFERENCIAS BANCARIAS A LOS BENEFICIARIOS DE UN EMBARGO
+
+## Requisitos
+
+LA INFORMACION DE DEMANDADO: 1. NUMERO DE IDENTIDAD Y DONDE LABORA 2. NOMBRE DEL DEMANDANTE 3. NUMERO DE IDENTIDAD 4. ESTADO DE CUENTA SI LA PERSONA TIENE MAS DE 6 MESES DE NO COBRAR.
 
 ## Tasa_derechos
 
@@ -44,11 +50,7 @@ No requiere realizar ningún pago.
 
 ESTE ES REVISADO POR CADA ANALISTA DE PAGO DADO SI HAY UN ERROR EN LOS VALORES A QUE CORRRESPONDES LOS MONTOS A PAGAR.ESTE FINALIZA CON EL DEPOSITO A CADA CUENTA DE LOS BENEFICIARIOS VIA BCH (CEPROBAN)
 
-## Requisitos
-
-LA INFORMACION DE DEMANDADO: 1. NUMERO DE IDENTIDAD Y DONDE LABORA 2. NOMBRE DEL DEMANDANTE 3. NUMERO DE IDENTIDAD 4. ESTADO DE CUENTA SI LA PERSONA TIENE MAS DE 6 MESES DE NO COBRAR.
-
-## Formatos (texto del documento oficial)
+## Otro texto del documento
 
 R. TGR-EMB-AP-03
 
@@ -89,7 +91,7 @@ Vo.Bo. JUEZ Vo.Bo. SECRETARIO DE JUZGADO
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

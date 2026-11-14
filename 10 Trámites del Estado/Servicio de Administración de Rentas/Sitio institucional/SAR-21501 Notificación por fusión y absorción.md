@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Otras notificaciones"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/notificacion-por-fusion-y-absorcion/"
 documentos:
   - "https://www.sar.gob.hn/download/notificacion-por-fusion-y-absorcion/?wpdmdl=21501"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "b829ad3b16df51e71b6446994c162cbe6fbb2fbe867ca260ae62be2e53abc11c"
+extraido: 2026-11-14T00:15
+huella: "1efe45d2f4387415b770455253eb128fcf7ac093f53471fb2fb9e149143e4408"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE NOTIFICACIÓN POR FUSIÓN Y
 ABSORCIÓN
@@ -77,7 +81,7 @@ Comprobante de boletín de pago L200.00 (Impuesto: 156
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/notificacion-por-fusion-y-absorcion/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

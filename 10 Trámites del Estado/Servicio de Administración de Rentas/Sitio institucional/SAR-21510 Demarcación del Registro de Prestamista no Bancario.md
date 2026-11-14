@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Solicitudes"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/demarcacion-del-registro-de-prestamista-no-bancario/"
 documentos:
   - "https://www.sar.gob.hn/download/demarcacion-del-registro-de-prestamista-no-bancario/?wpdmdl=21510"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "26eb06809ed0d73043bcc2cbb33080dc680033847011e468e9af72a78ddad70e"
+extraido: 2026-11-14T00:15
+huella: "128b13961a60f6e5f31c261913f17d638e3cc65c52b8f78b4f78cd98021c9be2"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS D E DEMARCACIÓN DEL
 REGISTRO DE PRESTAMISTA NO BANCARIO
@@ -77,7 +81,7 @@ concepto: 1 Propio Computo)
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/demarcacion-del-registro-de-prestamista-no-bancario/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

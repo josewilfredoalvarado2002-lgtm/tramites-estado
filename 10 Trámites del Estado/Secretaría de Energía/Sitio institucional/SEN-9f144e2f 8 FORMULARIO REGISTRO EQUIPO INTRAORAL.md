@@ -16,7 +16,7 @@ dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
 extraido: 2026-11-13T22:22
 huella: "323d71cceb6489a1dc5610e32e1f4d12ee158e2c60e03c99413f1f805541b1bb"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # 8 FORMULARIO REGISTRO EQUIPO INTRAORAL 

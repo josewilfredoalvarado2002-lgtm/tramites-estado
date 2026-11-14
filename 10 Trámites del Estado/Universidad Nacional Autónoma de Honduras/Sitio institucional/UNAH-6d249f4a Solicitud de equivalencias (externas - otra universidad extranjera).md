@@ -7,14 +7,16 @@ aliases:
   - "Solicitud de equivalencias (externas - otra universidad extranjera)"
 institucion: "Universidad Nacional Autónoma de Honduras"
 categoria: "Servicios"
-calidad: "solo_requisitos"
+calidad: "solo_para_que"
+para_que: "Equivalencias externas para estudiantes provenientes de universidades extranjeras."
+tiene_requisitos: false
 url_ficha: "https://www.unah.edu.hn/servicios"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "unah.edu.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:23
-huella: "d5fc3d7b085f80c12b41a88618859b8832e5460cca02d2a0757b0e098fbd5485"
+extraido: 2026-11-14T00:45
+huella: "ff030784ede3d537495022c3c78f0f60401a20dfd2da2376f31ec29bbf405e3f"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Universidad Nacional Autónoma de Honduras |
 | Categoría | Servicios |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -53,7 +55,7 @@ La Secretaría General de la UNAH enviará auto de aprobación de inmediato a la
 ## Fuente
 
 - Ficha: https://www.unah.edu.hn/servicios
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

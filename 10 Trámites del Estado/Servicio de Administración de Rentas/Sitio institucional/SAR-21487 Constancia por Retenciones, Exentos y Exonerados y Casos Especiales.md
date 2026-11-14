@@ -7,15 +7,17 @@ aliases:
   - "Constancia por Retenciones, Exentos y Exonerados y Casos Especiales"
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Constancias"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "DESCRIPCIÓN DEL TRÁMITE Este tipo de constancias se solicita por aquellos Obligados Tributarios que no tienen reflejados en su Cuenta Corriente transacciones que validen su solvencia ante la Administración Tributaria, debido a que han sido objeto de retenciones por terceros o que por diferentes situaciones como en el caso de las personas asalariadas, no están obligados a la presentación de declara"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/constancia-por-retenciones-exentos-y-exonerados-y-casos-especiales/"
 documentos:
   - "https://www.sar.gob.hn/download/constancia-por-retenciones-exentos-y-exonerados-y-casos-especiales/?wpdmdl=21487"
 actualizado_sitio: "junio 4, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "39900389190c44c1d8dc8f90955e6458be2635b5c1c62aa3440b320ac9c81601"
+extraido: 2026-11-14T00:15
+huella: "b3e0df15c1ac4a96ab35d0e55b1b62fea511eb62f06bbb875c0608741017110e"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,19 +32,12 @@ estado_sitio: "Vigente"
 | Institución | Servicio de Administración de Rentas |
 | Categoría | Constancias |
 | Última actualización que muestra el sitio | junio 4, 2026 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-REQUISITOS DE SOLICITUD DE
-CONSTANCIA POR RETENCIONES,
-EXENTOS Y EXONERADOS Y CASOS
-ESPECIALES
-Dirección Nacional de Cumplimiento Tributario
-Departamento de Recaudación
+## Para qué se hace (según el documento)
 
-CONSTANCIA POR RETENCIONES, EXENTOS Y EXONERADOS Y CASOS
-ESPECIALES
 DESCRIPCIÓN DEL TRÁMITE
 Este tipo de constancias se solicita por aquellos Obligados Tributarios que no tienen
 reflejados en su Cuenta Corriente transacciones que validen su solvencia ante la
@@ -67,6 +62,18 @@ mismo, podrá agregar otra documentación de carácter opcional.
 c) Para finalizar, previo a la presentación de la solicitud, se debe seleccionar el
 método de pago a través de Boletín de Pago Libre disponible o se podrá aportar
 un Boletín de Pago pendiente, que deberá ser pagado más adelante.
+
+## Requisitos (según el documento oficial)
+
+REQUISITOS DE SOLICITUD DE
+CONSTANCIA POR RETENCIONES,
+EXENTOS Y EXONERADOS Y CASOS
+ESPECIALES
+Dirección Nacional de Cumplimiento Tributario
+Departamento de Recaudación
+
+CONSTANCIA POR RETENCIONES, EXENTOS Y EXONERADOS Y CASOS
+ESPECIALES
 
 REQUISITOS PARA CONSTANCIA POR RETENCIONES, EXENTOS Y
 EXONERADOS Y CASOS ESPECIALES
@@ -112,7 +119,7 @@ NOMBRE Y FIRMA
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/constancia-por-retenciones-exentos-y-exonerados-y-casos-especiales/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

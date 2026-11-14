@@ -7,14 +7,16 @@ aliases:
   - "Central de Información Crediticia"
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Bancos y Seguros/Comisión Nacional de Bancos y Seguros|Comisión Nacional de Bancos y Seguros]]"
 categoria: "No consta en el sitio"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "La Central de Información Crediticia, es el sistema administrado por la Comisión Nacional de Bancos y Seguros, mediante el cual se consolida la información proporcionada por las instituciones supervisadas de todas las personas naturales y jurídicas que adquieren compromisos u obligaciones crediticias con ellas, de su calidad de deudores, codeudores, avales o fiadores. Éste sistema permite a las In"
+tiene_requisitos: false
 url_ficha: "https://www.cnbs.gob.hn/central-de-informacion-crediticia/"
 documentos: []
 actualizado_sitio: "2026-05-06"
 dominio_verificado: "cnbs.gob.hn"
 verificacion_dominio: "verificado (GDIE)"
-extraido: 2026-11-13T21:33
-huella: "fbbfe925c1b07cfe755b93b51a78cd3bf44c66bc52b6c83a0aeabea9f106a60b"
+extraido: 2026-11-14T00:16
+huella: "e7ae9d4b35f0eb09aa7cca5f89f59518f36d58c7123e645909b0cfadc08962ac"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Comisión Nacional de Bancos y Seguros |
 | Categoría | No consta en el sitio |
 | Última actualización que muestra el sitio | 2026-05-06 |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## ¿Qué es la Central de Información Crediticia ?
 
@@ -74,7 +76,7 @@ Ingresar a Mi Reporte Crediticio
 ## Fuente
 
 - Ficha: https://www.cnbs.gob.hn/central-de-informacion-crediticia/
-- Fecha y hora de extracción: 2026-11-13 21:33 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:16 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

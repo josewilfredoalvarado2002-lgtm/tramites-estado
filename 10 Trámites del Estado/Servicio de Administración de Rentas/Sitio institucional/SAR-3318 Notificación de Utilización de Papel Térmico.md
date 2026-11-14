@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Facturación"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/notificacion-de-utilizacion-de-papel-termico/"
 documentos:
   - "https://www.sar.gob.hn/download/notificacion-de-utilizacion-de-papel-termico/?wpdmdl=3318"
 actualizado_sitio: "junio 9, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "46b97784a95df05a55697dc6c3f5e972837d4aa50e60e5c9e875ee3f582636f7"
+extraido: 2026-11-14T00:15
+huella: "431a14b422ccdbf081341d96c76a25b300c184aadba7f5d84d08e80f18c14f70"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | junio 9, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS NOTIFICACIÓN DE
 UTILIZACIÓN DE PAPEL TÉRMICO
@@ -55,6 +59,7 @@ teléfono, celular y correo Electrónico).
 del papel térmico y la garantía de impresión que permita conservar la
 información por un plazo no menor a cinco años.
 Nota: En caso de ser solicitado por un representante procesal o apoderado legal, se
+
 debe acompañar lo siguiente:
 - Poder o carta poder debidamente autenticado (Original).
 - Documento Nacional de Identificación para hondureños (Original).
@@ -107,7 +112,7 @@ Formato de Muestra
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/notificacion-de-utilizacion-de-papel-termico/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

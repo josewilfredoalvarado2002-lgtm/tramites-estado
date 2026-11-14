@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/28ae54d5-6344-4ab9-af4b-ccc7c25533a1"
@@ -15,8 +17,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "ef418b6106662621a1a2e6adfa409492ad8281d317510674ddf404727b6aed99"
+extraido: 2026-11-14T00:37
+huella: "c32ca15df8f2e06838dd15188b989d06b1fe6a0804e96aec29ddaa8d9ea0d95e"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -33,14 +35,15 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
 SERVICIO FIJO TERRESTRE
-V.3
-Página 1 de 1
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO NS RN MD
 1.
 Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de La Ley de
@@ -58,19 +61,19 @@ autenticada).
 Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el
 Departamento de Administración de Cartera y Cobranzas, cuya vigencia aceptada será de
 10 (diez) días hábiles desde su emisión.
-8. Forma 100, debe ser llenada y completada con la información del solicitante, y de su apoderado legal, siendo necesario que venga firmada y sellada por este último. ☐ ☐ ☐
+8. Forma 100, debe ser llenada y completada con la información del solicitante, y de su apoderado legal, siendo necesario que venga firmada y sellada por este último.
 9.
 Forma 101 debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería,
 habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se
 encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos, Eléctricos,
 Químicos de Honduras (CIMEQH).
-☐
+
 10.
 Forma 300 debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería,
 habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se
 encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos,
 Eléctricos, Químicos de Honduras (CIMEQH)
-☐ ☐ ☐
+
 ITEM REQUISITO PARA CANCELACIONES CPL CTL CP
 1. Solicitud por medio de Apoderado Legal en base a los artículos No.56, 60 y 61 de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
@@ -98,13 +101,12 @@ Nomenclatura
 ## Documentos
 
 - [Forma 300](https://cms.conatel.gob.hn/assets/28ae54d5-6344-4ab9-af4b-ccc7c25533a1)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/f62bf3ea-b687-4df0-9f43-10d6cc03879e)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/f62bf3ea-b687-4df0-9f43-10d6cc03879e)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

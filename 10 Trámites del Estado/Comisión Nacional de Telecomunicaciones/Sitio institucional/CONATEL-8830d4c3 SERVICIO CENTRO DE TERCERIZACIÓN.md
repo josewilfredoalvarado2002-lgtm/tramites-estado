@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224"
@@ -15,8 +17,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "a10a9347cb5ed834fdf92ad473d3d63385e41352c7cdae16200313762479c6c9"
+extraido: 2026-11-14T00:37
+huella: "044753c09004e28ef0420b23f0649768f0eb8cbd096922b811d965077de51fbb"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -33,14 +35,16 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
 CENTRO DE TERCERIZACIÓN DE SERVICIOS EMPRESARIALES EN
 TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES (BPO-ITO)
-V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO NS RN MT
 1.
 Solicitud por medio de Apoderado Legal, en base a los artículos No. 56, 60 y 61 de La Ley de
@@ -71,13 +75,12 @@ Nomenclatura
 ## Documentos
 
 - [Forma 100](https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/9d5d287b-5890-4102-b7ae-8dfe50133542)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/9d5d287b-5890-4102-b7ae-8dfe50133542)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

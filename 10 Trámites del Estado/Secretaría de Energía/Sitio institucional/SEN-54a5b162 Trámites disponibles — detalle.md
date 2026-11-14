@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2020/03/2.Requisitos-Registro-Autoproductor-Acuerdo-No.-023-2019.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "ced7cf88dc0963db168dbd7ab6f116921890d122c018586f22f872b5842188a6"
+extraido: 2026-11-14T00:44
+huella: "4cbed1d46f716b4b48607e20dec29639ce64fe6c9536fa1c36f62766b3933f11"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,10 +34,50 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-EMPRESA NACIONAL DE ARTES GRÁFICAS
-E.N.A.G.
+## Requisitos (según el documento oficial)
+
+1.- Solicitud presentada de Registro como Autoproductor o
+de Autoconsumo presentada ante Secretaría General de
+la Secretaría de Energía.
+2.- Documentos de Identificación del solicitante, sea
+persona natural, Constitución de Sociedad o cualquiera
+que acredite la personalidad jurídica.
+3.- La Secretaría de Estado en el Despacho de Energía a través
+de sus órganos competentes por sí o en Coordinación
+con la Comisión Reguladora de Energía podrán realizar
+inspecciones técnicas y practicar las pruebas que estime
+convenientes, así como solicitar la documentación que
+considere necesaria.
+4.- Comunicar a la Comisión Reguladora de Energía
+los Registros que se realicen para los efectos que
+correspondan, sin perjuicio de los requerimientos o
+información que ésta solicite o requiera el marco de sus
+competencias a los generadores para autoconsumo.
+Artículo 2.- La Dirección de Energía Renovable y Eficiencia
+Energética será responsable de llevar el archivo físico y
+electrónico, y los registros, procesamiento de datos y demás
+acciones relacionadas, a fin de transmitir la información que
+se estime pertinente o sea solicitada por la Empresa Nacional
+de Energía Eléctrica, la Comisión Reguladora de Energía
+Eléctrica, el Operador del Sistema, para el cumplimiento
+de las obligaciones contenidas en Ley. Asimismo, podrá
+incorporar de oficio al Registro de Autoproductores aquellos
+que se identifiquen para los efectos antes indicados.
+SEGUNDO: El presente Acuerdo tienen vigencia a partir
+de la fecha y debe publicarse en el Diario Oficial La Gaceta.
+COMUNÍQUESE Y CÚMPLASE.
+Dado en la ciudad de Tegucigalpa, M.D.C. a los veintiséis de
+agosto de dos mil diecinueve.
+ROBERTO A. ORDOÑEZ WOLFOVICH
+SECRETARIO DE ESTADO EN EL DESPACHO DE
+ENERGÍA.
+ERICKA MOLINA
+SECRETARIA GENERAL
+
+## Otro texto del documento
+
 Sección A
 AÑO CXLI TEGUCIGALPA, M. D. C., HONDURAS, C. A. LUNES 16 DE SEPTIEMBRE DEL 2019. NUM. 35,050
 Secretaría de Estado en el
@@ -107,9 +149,7 @@ Cooperación establecido en el artículo 32 de la Ley General
 de la Administración Pública.
 CONSIDERANDO: Que corresponde a la Dirección de
 Energía Renovable y Eficiencia Energética comunicar a la
-Procesamiento Técnico Documental Digital UDI-DEGT- UNAH.
-Derechos Reservados ENAG
-UDI-DEGT-UNAH
+
 2
 La Gaceta
 A.
@@ -122,8 +162,7 @@ ABOG. CÉSAR AUGUSTO CÁCERES CANO
 Gerente General
 JORGE ALBERTO RICO SALINAS
 Coordinador y Supervisor
-EMPRESA NACIONAL DE ARTES GRÁFICAS
-E.N.A.G.
+
 Colonia MirafIores
 Teléfono/Fax: Gerencia 2230-4956
 Administración: 2230-3026
@@ -155,46 +194,6 @@ Energética, mismo que se regirá bajo las siguientes normas:
 Artículo 1.- REQUISITOS: Los peticionarios que soliciten su
 inscripción en el registro, deberán acompañar a su solicitud
 lo siguiente:
-1.- Solicitud presentada de Registro como Autoproductor o
-de Autoconsumo presentada ante Secretaría General de
-la Secretaría de Energía.
-2.- Documentos de Identificación del solicitante, sea
-persona natural, Constitución de Sociedad o cualquiera
-que acredite la personalidad jurídica.
-3.- La Secretaría de Estado en el Despacho de Energía a través
-de sus órganos competentes por sí o en Coordinación
-con la Comisión Reguladora de Energía podrán realizar
-inspecciones técnicas y practicar las pruebas que estime
-convenientes, así como solicitar la documentación que
-considere necesaria.
-4.- Comunicar a la Comisión Reguladora de Energía
-los Registros que se realicen para los efectos que
-correspondan, sin perjuicio de los requerimientos o
-información que ésta solicite o requiera el marco de sus
-competencias a los generadores para autoconsumo.
-Artículo 2.- La Dirección de Energía Renovable y Eficiencia
-Energética será responsable de llevar el archivo físico y
-electrónico, y los registros, procesamiento de datos y demás
-acciones relacionadas, a fin de transmitir la información que
-se estime pertinente o sea solicitada por la Empresa Nacional
-de Energía Eléctrica, la Comisión Reguladora de Energía
-Eléctrica, el Operador del Sistema, para el cumplimiento
-de las obligaciones contenidas en Ley. Asimismo, podrá
-incorporar de oficio al Registro de Autoproductores aquellos
-que se identifiquen para los efectos antes indicados.
-SEGUNDO: El presente Acuerdo tienen vigencia a partir
-de la fecha y debe publicarse en el Diario Oficial La Gaceta.
-COMUNÍQUESE Y CÚMPLASE.
-Dado en la ciudad de Tegucigalpa, M.D.C. a los veintiséis de
-agosto de dos mil diecinueve.
-ROBERTO A. ORDOÑEZ WOLFOVICH
-SECRETARIO DE ESTADO EN EL DESPACHO DE
-ENERGÍA.
-ERICKA MOLINA
-SECRETARIA GENERAL
-Procesamiento Técnico Documental Digital UDI-DEGT- UNAH.
-Derechos Reservados ENAG
-UDI-DEGT-UNAH
 
 ## Documentos
 
@@ -203,7 +202,7 @@ UDI-DEGT-UNAH
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

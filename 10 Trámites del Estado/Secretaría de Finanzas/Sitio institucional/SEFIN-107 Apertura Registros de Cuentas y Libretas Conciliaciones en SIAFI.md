@@ -7,15 +7,17 @@ aliases:
   - "Apertura Registros de Cuentas y Libretas Conciliaciones en SIAFI"
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Tesoreria"
-calidad: "completo"
+calidad: "solo_para_que"
+para_que: "REGISTROS SOLICITADOS POR LAS UNIDADES EJECUTORAS GERENCIAS ADMINISTRATIVAS DE CADA INSTITUCION QUE OPERAN SUS REGISTROS EN EL SISTEMA INTEGRADO DE ADMINISTRACION FINANCIERA"
+tiene_requisitos: false
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos:
   - "https://www.sefin.gob.hn/wp-content/uploads/2026/03/Autorizacion-de-apertu-libreta-2026-E-.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "3792f6a0f133da9c641fd3bc8a6abf2e949ed627df5676ac032e55f1fd373abb"
+extraido: 2026-11-14T00:35
+huella: "6df8276150ff469bd6a157fdb9720b18c8cd3dcecf1d786c3ffb016250f7a627"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,11 +32,15 @@ estado_sitio: "Vigente"
 | Institución | Secretaría de Finanzas |
 | Categoría | Tesoreria |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | completo |
+| Calidad de la extracción | solo para que |
 
 ## Descripcion
 
 REGISTROS SOLICITADOS POR LAS UNIDADES EJECUTORAS GERENCIAS ADMINISTRATIVAS DE CADA INSTITUCION QUE OPERAN SUS REGISTROS EN EL SISTEMA INTEGRADO DE ADMINISTRACION FINANCIERA
+
+## Requisitos
+
+SOLICITUDES DE LAS INSTITUCIONES
 
 ## Tasa_derechos
 
@@ -44,11 +50,7 @@ No requiere realizar ningún pago.
 
 SE RECIBEN LAS SOLICITUDES DE PARTE DE LAS DIFERENTES INSTITUCIONES DEL ESTADO
 
-## Requisitos
-
-SOLICITUDES DE LAS INSTITUCIONES
-
-## Formatos (texto del documento oficial)
+## Otro texto del documento
 
 DAVID DIAZ
 
@@ -93,7 +95,7 @@ Tesorería General de la República
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

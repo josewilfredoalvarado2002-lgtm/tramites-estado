@@ -7,14 +7,16 @@ aliases:
   - "Emisión de Constancias de Trabajo a los Ex Empleados de Instituciones Liquidadas"
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Descentralizadas"
-calidad: "completo"
+calidad: "solo_para_que"
+para_que: "Emisión de Certificación a Ex-empleados de Instituciones del Sector Público Descentralizado(SPD) que fueron liquidadas."
+tiene_requisitos: false
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "c62b38ff1edad84cdb3af0ae0c9c8765a4d1cc88c1cfb58020a51b5d61fa83e9"
+extraido: 2026-11-14T00:35
+huella: "f168ddfebbb29a071456ddfd58bcade01ab030f6f2bd1efe0640ff64611b911b"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,11 +31,15 @@ estado_sitio: "Vigente"
 | Institución | Secretaría de Finanzas |
 | Categoría | Descentralizadas |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | completo |
+| Calidad de la extracción | solo para que |
 
 ## Descripcion
 
 Emisión de Certificación a Ex-empleados de Instituciones del Sector Público Descentralizado(SPD) que fueron liquidadas.
+
+## Requisitos
+
+Solcitud del interesado indicando la institución para la cual laboró con copia de Identidad y recibo de pago del banco por la cantidad de L.200.00 (T.G.R-1).
 
 ## Tasa_derechos
 
@@ -43,14 +49,10 @@ Conforme al Articulo No.49 del Decreto 17-2010 de la Ley de Fortalecimiento de l
 
 1. Se llena recibo de la TGR-1 con datos del solicitante para posteriormente ir al banco a pagar los L.200.00 2.Buscar y revisar expediente del solicitante 3. Emitir Certificación de Trabajo a los Expleados de Instituciones liquidadas del SPD firmada por el Director de la DGID.
 
-## Requisitos
-
-Solcitud del interesado indicando la institución para la cual laboró con copia de Identidad y recibo de pago del banco por la cantidad de L.200.00 (T.G.R-1).
-
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

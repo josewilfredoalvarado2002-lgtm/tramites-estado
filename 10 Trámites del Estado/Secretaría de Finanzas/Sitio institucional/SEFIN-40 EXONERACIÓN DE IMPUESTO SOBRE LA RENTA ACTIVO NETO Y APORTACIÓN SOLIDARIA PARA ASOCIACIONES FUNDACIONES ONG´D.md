@@ -15,7 +15,7 @@ dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T22:08
 huella: "3dd70a5f889773685502d77a997d61d8f2cf83f9da47e9f25d2b01cb2f80ac89"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # EXONERACIÓN DE IMPUESTO SOBRE LA RENTA ACTIVO NETO Y APORTACIÓN SOLIDARIA PARA ASOCIACIONES FUNDACIONES ONG´D

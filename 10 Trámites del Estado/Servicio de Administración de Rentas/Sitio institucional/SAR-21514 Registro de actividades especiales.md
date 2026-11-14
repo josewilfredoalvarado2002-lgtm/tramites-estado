@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Solicitudes"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/registro-de-actividades-especiales-2/"
 documentos:
   - "https://www.sar.gob.hn/download/registro-de-actividades-especiales-2/?wpdmdl=21514"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "640c06057a6be7e03431bba510ac43a6855a9c2ca0ab3ee9a9fc2d533983eb2c"
+extraido: 2026-11-14T00:15
+huella: "a29b1b79493d703793e313ba93e1e3dfb3d3dfb32458df3fe4fbf866041b5410"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,16 +34,16 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE REGISTRO DE ACTIVIDADES
-ESPECIALES
 
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
 
 REQUISITOS DE REGISTRO DE ACTIVIDADES
-ESPECIALES
 
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
 Escrito de Solicitud que contenga los requisitos
@@ -82,7 +84,7 @@ Computo)
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/registro-de-actividades-especiales-2/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

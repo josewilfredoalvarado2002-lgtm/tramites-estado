@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Solicitudes"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/solicitud-del-registro-de-ingreso-al-pais-en-el-sistema-informativo-de-la-fyduca/"
 documentos:
   - "https://www.sar.gob.hn/download/solicitud-del-registro-de-ingreso-al-pais-en-el-sistema-informativo-de-la-fyduca/?wpdmdl=21520"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "5756ebc177de173090066b3d04476b65e7fd736422abd61ba49f17613b337503"
+extraido: 2026-11-14T00:15
+huella: "9b0cfc26d96f876bf10b3e44652f9852b4365b33c05965db85ca9f3ca774d286"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,15 +34,19 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE SOLICITUD DEL REGISTRO
 DE INGRESO AL PAÍS EN EL SISTEMA
 INFORMATIVO DE LA FYDUCA
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
+
 REQUISITOS DE SOLICITUD DEL REGISTRO DE INGRESO AL PAÍS EN
 EL SISTEMA INFORMATIVO DE LA FYDUCA
+
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
 Escrito de Solicitud que contenga los requisitos
 establecidos en el Artículo 61 de la Ley de
@@ -63,7 +69,7 @@ en el caso que sea operación combinada
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/solicitud-del-registro-de-ingreso-al-pais-en-el-sistema-informativo-de-la-fyduca/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -7,14 +7,16 @@ aliases:
   - "Declaración por cese de funciones"
 institucion: "Tribunal Superior de Cuentas"
 categoria: "Servicios prestados"
-calidad: "sin_requisitos"
+calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.tsc.gob.hn/index.php/servicios-prestados/"
 documentos: []
 actualizado_sitio: "2026-06-29"
 dominio_verificado: "tsc.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T21:32
-huella: "cbdec2f0cc95dc7936eca82803bfa57d0fb78e1034870ac9600edabbdd02a204"
+extraido: 2026-11-14T00:45
+huella: "6b05fe38f7bf30aeff38e76f9d1e0554f1d420ea913c2fd3479935d61b7a7a87"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Tribunal Superior de Cuentas |
 | Categoría | Servicios prestados |
 | Última actualización que muestra el sitio | 2026-06-29 |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo requisitos |
 
 ## Contenido
 
@@ -43,7 +45,7 @@ estado_sitio: "Vigente"
 ## Fuente
 
 - Ficha: https://www.tsc.gob.hn/index.php/servicios-prestados/
-- Fecha y hora de extracción: 2026-11-13 21:32 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

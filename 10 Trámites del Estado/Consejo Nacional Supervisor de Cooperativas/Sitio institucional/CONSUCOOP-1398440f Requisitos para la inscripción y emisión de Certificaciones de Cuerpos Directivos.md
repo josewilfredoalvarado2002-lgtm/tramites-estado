@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/Consejo Nacional Supervisor de Cooperativas|Consejo Nacional Supervisor de Cooperativas]]"
 categoria: "No consta en el sitio"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://consucoop.hn/requisitos/"
 documentos:
-  - "https://consucoop.hn/download/12467/?tmstv=1794630135"
+  - "https://consucoop.hn/download/12467/?tmstv=1794638671"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "consucoop.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DI)"
-extraido: 2026-11-13T22:23
-huella: "1cb7e1276c462d4994fc56dd2a41a8db0e0613eda87df273b75a3a46f8d8aa0d"
+extraido: 2026-11-14T00:45
+huella: "a806b4b051c60f25122671a7e0b99d339e900a447d0485136d04fd4033fd7a76"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 Requisitos
 1. Solicitud dirigida al Registrador Nacional de Cooperativas firmada por el Presidente
@@ -52,10 +56,11 @@ cooperativa del mismo Subsector”.
 al momento de su elección, firmada por el Tesorero o Gerente de la cooperativa.
 6. Certificación con el punto y acta donde establezca el número de votos obtenidos por
 cada cargo sometido a votación en caso de ser un tercer periodo de gobierno.
-www.consucoop.hn
+
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
+
 REQUISITOS PARA LA INSCRIPCIÓN Y EMISION DE
 CERTIFICACION DE JUNTA DIRECTIVA Y JUNTA DE VIGILANCIA
 7.Lista de asistencia de las personas presentes en la Asamblea General Ordinaria donde
@@ -75,18 +80,18 @@ nombres de los directivos que cumplen con estos requisitos en ambas juntas.
 timbre cooperativo de L50.00 para la certificación y 1 timbre cooperativo de L.10.00
 para la solicitud y cada uno de los requisitos adjuntos o pueden realizar deposito en
 cuenta de Banco Cuscatlán No. 11-105-0000276 a nombre de CONSUCOOP.
-www.consucoop.hn
+
 *Cualquier consulta o duda pueden abocarse al correo electrónico
 registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp 31622364.
 
 ## Documentos
 
-- [Requisitos para la inscripción y emisión de Certificaciones de Cuerpos Directivos](https://consucoop.hn/download/12467/?tmstv=1794630135)
+- [Requisitos para la inscripción y emisión de Certificaciones de Cuerpos Directivos](https://consucoop.hn/download/12467/?tmstv=1794638671)
 
 ## Fuente
 
 - Ficha: https://consucoop.hn/requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

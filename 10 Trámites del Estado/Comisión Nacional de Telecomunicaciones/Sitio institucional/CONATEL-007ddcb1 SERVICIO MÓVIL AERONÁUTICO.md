@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224"
@@ -17,8 +19,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "2d2d447b9709e310ef9708ee7688fdb9b083aebeca79d4efa357e49e4be30a43"
+extraido: 2026-11-14T00:37
+huella: "438ad5f18bb1574eaf09e32dfb8acacc8386a7e50c74fdca3278f395166d6473"
 estado_sitio: "Vigente"
 posible_equivalente_diger: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/TR-1008 Servicio Móvil Aeronáutico|Servicio Móvil Aeronáutico]]"
 ---
@@ -38,20 +40,23 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Comisión Nacional de Tele
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
 SERVICIO MÓVIL AERONÁUTICO
 MIS-03-DC-## V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO NS RN MD
 1. Solicitud por medio de Apoderado Legal, con base en los artículos 56, 60 y 61 de la Ley de Procedimiento Administrativo, que deberá contener: domicilio, datos generales, teléfono fijo, celular y correo electrónico.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante.
 3. Carta Poder debidamente autenticada, o Poder en Escritura Pública (debidamente autenticada)
 4. Declaración Jurada de No estar Comprendido, en lo preceptuado según el artículo 92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente autenticada).
 5. RTN y Documentos de Identidad del Operador (Persona Natural o Jurídica) debidamente autenticada
-6. Acreditar el pago del Aviso de Trámite según la Resolución Normativa de Tasas y Canon vigente. ☐
+6. Acreditar el pago del Aviso de Trámite según la Resolución Normativa de Tasas y Canon vigente.
 7.
 Presentar Constancia de que está Solvente Económicamente ante Conatel, emitida por el Departamento de
 Administración de Cartera y Cobranzas, cuya vigencia aceptada será de diez (10) días hábiles desde su
@@ -65,7 +70,7 @@ Colegio de Ingenieros Mecánicos, Eléctricos, Químicos de Honduras (CIMEQH).
 Forma 600 deben ser llenadas, firmadas, selladas y timbradas por un profesional de la ingeniería, habilitado
 en el ejercicio de su profesión y afín a la especialidad en telecomunicaciones, debidamente colegiado por el
 Colegio de Ingenieros Mecánicos, Eléctricos, Químicos de Honduras (CIMEQH).
-☐ ☐ ☐
+
 ITEM REQUISITO PARA CANCELACIONES CPL CTL CP
 1. Solicitud por medio de Apoderado Legal , en base a los artículos No.56, 60 y 61 de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
@@ -101,13 +106,12 @@ Nomenclatura
 - [Forma 100](https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224)
 - [Forma 600](https://cms.conatel.gob.hn/assets/4d457902-fcda-4e14-8c42-cc57afd41fab)
 - [Instructivo 600](https://cms.conatel.gob.hn/assets/beb49327-4701-4748-b0e6-e9a51a3f0baf)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/adbfab5f-a348-46be-a6df-fd3b339fb407)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/adbfab5f-a348-46be-a6df-fd3b339fb407)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

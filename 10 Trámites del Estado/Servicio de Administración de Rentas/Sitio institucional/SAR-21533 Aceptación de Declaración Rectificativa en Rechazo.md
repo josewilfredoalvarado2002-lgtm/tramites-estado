@@ -7,15 +7,17 @@ aliases:
   - "Aceptación de Declaración Rectificativa en Rechazo"
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Modificaciones"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "DESCRIPCIÓN DEL TRÁMITE En aquellos casos que el OT ha presentado declaración rectificativa y esta queda en estado de rechazo por disminución del tributo o aumento del crédito a favor del OT. El trámite se puede realizar de forma presencial o por medio de la Oficina Virtual, ingresando identificado con su respectivo RTN y contraseña, esta solicitud se encuentra en el menú, en el apartado de “Solic"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/aceptacion-de-declaracion-rectificativa-en-rechazo/"
 documentos:
   - "https://www.sar.gob.hn/download/aceptacion-de-declaracion-rectificativa-en-rechazo/?wpdmdl=21533"
 actualizado_sitio: "marzo 21, 2025"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "07f10d3a5945e5d94e3947be6d7c94c37bea6f7c8dd5ce199834c9db590a3eb6"
+extraido: 2026-11-14T00:15
+huella: "f138e778182cc67f3b6cea161cfb1447e9dc099dc9f0db414997d118edc9ba1f"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,23 +32,11 @@ estado_sitio: "Vigente"
 | Institución | Servicio de Administración de Rentas |
 | Categoría | Modificaciones |
 | Última actualización que muestra el sitio | marzo 21, 2025 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-TRÁMITES DE
-RECAUDACIÓN
-ACEPTACIÓN DE
-DECLARACIÓN
-RECTIFICATIVA EN
-RECHAZO
-Dirección Nacional de Cumplimiento Tributario
-Departamento de Recaudación
-
-1
-
-ACEPTACIÓN DE DECLARACIÓN RECTIFICATIVA EN RECHAZO
-_____________________________________________________________________________________
+## Para qué se hace (según el documento)
 
 DESCRIPCIÓN DEL TRÁMITE
 En aquellos casos que el OT ha presentado declaración rectificativa y esta queda en estado de
@@ -66,6 +56,9 @@ del proceso.
 c) Para finalizar, previo a la presentación de la solicitud, se debe seleccionar el método de
 pago a través de Boletín de Pago Libre disponible o se podrá aportar un Boletín de Pago
 pendiente, que deberá ser pagado más adelante.
+
+## Requisitos (según el documento oficial)
+
 REQUISITOS
 a) Realizar el pago por actos administrativos por el valor de L200.00.
 b) Presentar un escrito de solicitud Indicando con claridad los hechos y razones en los que
@@ -75,6 +68,8 @@ Legal, debe adjuntar la respectiva acreditación de poder autenticado. En caso d
 presentar copia del instrumento el mismo deberá ser cotejado con el original.
 
 2
+
+## Base legal (según el documento)
 
 BASE LEGAL
 - Constitución de la Republica: Artículos 80, 321 y 351
@@ -111,6 +106,22 @@ LUGAR Y FECHA: ___________________________________________________________
 ____________________
 NOMBRE Y FIRMA
 
+## Otro texto del documento
+
+TRÁMITES DE
+RECAUDACIÓN
+ACEPTACIÓN DE
+DECLARACIÓN
+RECTIFICATIVA EN
+RECHAZO
+Dirección Nacional de Cumplimiento Tributario
+Departamento de Recaudación
+
+1
+
+ACEPTACIÓN DE DECLARACIÓN RECTIFICATIVA EN RECHAZO
+_____________________________________________________________________________________
+
 ## Documentos
 
 - [Aceptación de Declaración Rectificativa en Rechazo](https://www.sar.gob.hn/download/aceptacion-de-declaracion-rectificativa-en-rechazo/?wpdmdl=21533)
@@ -118,7 +129,7 @@ NOMBRE Y FIRMA
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/aceptacion-de-declaracion-rectificativa-en-rechazo/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

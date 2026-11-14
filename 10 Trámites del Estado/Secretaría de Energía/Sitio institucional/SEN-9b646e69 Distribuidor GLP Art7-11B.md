@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/10/Distribuidor-GLP_Art7-11B.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "2cc676a946651cbfaf9e3350b90a64675ebe0fc0bb2a0c48faf99fce3af66613"
+extraido: 2026-11-14T00:44
+huella: "0598109e2acee900f6151c58985c8526c35fa0d2a81f367fd71a1b9c840f7ea3"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,9 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Página 1 de 2
+## Requisitos (según el documento oficial)
 
 Permiso de Instalación
 Distribuidor de Gas Licuado del Petróleo
@@ -43,12 +45,53 @@ Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Of
 agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
 2025).
 Artículo No. 7
-1
+
 Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
 Administrativo.
 Solicitud de Inscripción bajo la figura de Distribuidor de Gas Licuado del Petróleo se otorgó bajo resolución
 número xxxx o se encuentra en trámite bajo el expediente número xxxx.
-Nota:
+
+## Costo (según el documento)
+
+Monto de acuerdo con la Ubicación física del establecimiento:
+Francisco Morazán 12,000.00
+Islas de la Bahía y la Mosquitia L 32,000.00
+El resto del País L 22,000.00
+16
+En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
+Presentar Recibo TGR con su comprobante de pago en concepto de Permiso de Instalación del Establecimiento
+bajo la Figura de Distribuidor de Gas Licuado del Petróleo de la siguiente forma:
+Institución: 310 - Secretaría de Energía.
+Rubro: 12209 – Otras Licencias.
+
+Monto: L 25,000.00
+17
+En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
+Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la
+siguiente forma:
+Institución: 310 - Secretaría de Energía.
+Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
+
+Monto: L 200.00
+18 Cualquier otro requisito solicitado por la SEN.
+19 Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden de este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada requisito.
+
+En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas
+(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una
+de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello
+estampado del notario.
+Artículo No. 11B
+Requisitos Adicionales para Gas Natural Licuado (GNL)
+Para efectos de este artículo debe presentar declaración jurada firmada por el representante legal sobre el
+cumplimiento de los requisitos establecidos y documento oficial de cumplimiento a normas; este queda sujeto a la
+comprobación a través de una inspección de campo:
+
+Los tanques y/o isotanques de GNL que se utilicen para el transporte y/o en instalaciones de GNL deben cumplir
+con las normas internacionales vigentes ISO, UNE, ASTM, API, ASME, ANSI, NFPA, OIML, DOT o ADR (European
+Agreement concerning the International Carriage of Dangerous Goods by Road) según corresponda”.
+
+## Notas (según el documento)
+
 Los Permiso de Instalación deben solicitarse individualmente por cada establecimiento.
 2 Poder del representante legal.
 3 Documento Nacional de Identificación del representante legal.
@@ -75,48 +118,12 @@ proyecto a instalar no cuenta con sistema de Transporte Estacionario.
 14 Presentar toda la documentación de forma digital, previo al ingreso en físico debe presentarse mediante el correo electrónico ventanillaunica@sen.hn;
 15 Estudio Económico del Proyecto donde se realizará la instalación.
 
-Página 2 de 2
-
 15
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019.
 Presentar Recibo TGR con su comprobante de pago en CONCEPTO DE INSPECCIÓN para el Permiso de Instalación
 del Establecimiento bajo la Figura de Distribuidor de Gas Licuado del Petróleo de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12199 – Tasas Varias.
-Monto de acuerdo con la Ubicación física del establecimiento:
-Francisco Morazán 12,000.00
-Islas de la Bahía y la Mosquitia L 32,000.00
-El resto del País L 22,000.00
-16
-En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en concepto de Permiso de Instalación del Establecimiento
-bajo la Figura de Distribuidor de Gas Licuado del Petróleo de la siguiente forma:
-Institución: 310 - Secretaría de Energía.
-Rubro: 12209 – Otras Licencias.
-Monto: L 25,000.00
-17
-En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la
-siguiente forma:
-Institución: 310 - Secretaría de Energía.
-Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
-Monto: L 200.00
-18 Cualquier otro requisito solicitado por la SEN.
-19 Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden de este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada requisito.
-
-En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas
-(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una
-de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello
-estampado del notario.
-Artículo No. 11B
-Requisitos Adicionales para Gas Natural Licuado (GNL)
-Para efectos de este artículo debe presentar declaración jurada firmada por el representante legal sobre el
-cumplimiento de los requisitos establecidos y documento oficial de cumplimiento a normas; este queda sujeto a la
-comprobación a través de una inspección de campo:
-1
-Los tanques y/o isotanques de GNL que se utilicen para el transporte y/o en instalaciones de GNL deben cumplir
-con las normas internacionales vigentes ISO, UNE, ASTM, API, ASME, ANSI, NFPA, OIML, DOT o ADR (European
-Agreement concerning the International Carriage of Dangerous Goods by Road) según corresponda”.
 
 ## Documentos
 
@@ -125,7 +132,7 @@ Agreement concerning the International Carriage of Dangerous Goods by Road) seg�
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

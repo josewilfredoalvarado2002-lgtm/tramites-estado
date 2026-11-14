@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/10/Color-Cilindros-GLP_Art21.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "e9de0b174a778cc544f9515877b34f364373aac02cac3d593588b671b9fcceb8"
+extraido: 2026-11-14T00:44
+huella: "af074988b46da5c0310d47e811be57356376096ddfc8a88f73c08124a1137405"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,9 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Página 1 de 1
+## Requisitos (según el documento oficial)
 
 Inscripción de Color de Cilindros para Contener Gas Licuado del Petróleo.
 Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
@@ -61,6 +63,9 @@ Presentar Recibo TGR con su comprobante de pago en concepto de Inscripción de C
 Contener Gas Licuado del Petróleo a favor de la Sociedad de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12209 – Otras Licencias.
+
+## Costo (según el documento)
+
 Monto: L 15,000.00
 11
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019.
@@ -68,6 +73,7 @@ Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certi
 de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
+
 Monto: L 200.00
 12 Cualquier otro requisito solicitado por la SEN.
 13 Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden de este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada requisito.
@@ -84,7 +90,7 @@ sello estampado del notario.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

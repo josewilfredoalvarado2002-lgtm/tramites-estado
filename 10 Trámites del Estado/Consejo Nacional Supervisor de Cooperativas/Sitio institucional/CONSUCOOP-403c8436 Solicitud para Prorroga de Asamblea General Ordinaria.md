@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/Consejo Nacional Supervisor de Cooperativas|Consejo Nacional Supervisor de Cooperativas]]"
 categoria: "No consta en el sitio"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://consucoop.hn/requisitos/"
 documentos:
-  - "https://consucoop.hn/download/12491/?tmstv=1794630135"
+  - "https://consucoop.hn/download/12491/?tmstv=1794638671"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "consucoop.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DI)"
-extraido: 2026-11-13T22:23
-huella: "1e58f81a48707dac4f745bab54d4940411dc90b500340dca171e30ba6ff1fdaa"
+extraido: 2026-11-14T00:45
+huella: "e0234fd0468fcfdf6407d61dd2cad924cb97b880f82d2204f2e8ab519e72d645"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 Requisitos
 1.Solicitud dirigida al Director Ejecutivo de CONSUCOOP firmada por el Presidente de
@@ -51,7 +55,7 @@ su Reglamento, con timbre de L10.00.
 entregado, y se debe cancelar al ingresar la solicitud, más los timbres de L10.00 por
 cada documento presentado en la Solicitud o pueden realizar deposito en cuenta de
 Banco Cuscatlán No. 11-105-0000276 a nombre de CONSUCOOP.
-www.consucoop.hn
+
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
@@ -62,12 +66,12 @@ ext. 105 y mensajes al WhatsApp 31622364.
 
 ## Documentos
 
-- [Solicitud para Prorroga de Asamblea General Ordinaria](https://consucoop.hn/download/12491/?tmstv=1794630135)
+- [Solicitud para Prorroga de Asamblea General Ordinaria](https://consucoop.hn/download/12491/?tmstv=1794638671)
 
 ## Fuente
 
 - Ficha: https://consucoop.hn/requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

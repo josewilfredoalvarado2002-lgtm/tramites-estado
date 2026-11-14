@@ -7,14 +7,16 @@ aliases:
   - "Solicitud de equivalencias (Internas)"
 institucion: "Universidad Nacional Autónoma de Honduras"
 categoria: "Servicios"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "Equivalencia interna se otorga a los estudiantes por cambio de carrera en la misma institución y dentro de estas se reconocen las siguientes: a) Equivalencia automática: Se concede por cambio o modificación de un proyecto curricular o plan de estudios al interior de una carrera específica."
+tiene_requisitos: false
 url_ficha: "https://www.unah.edu.hn/servicios"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "unah.edu.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:23
-huella: "1e431c3dbe63fc3ed970d8db049e08b0fceebee11ae0c6594ad6da3671c18977"
+extraido: 2026-11-14T00:45
+huella: "0083e0306922fee5b2482cb13bef85e33e0fcc0da95f496912e66744b3b5d716"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Universidad Nacional Autónoma de Honduras |
 | Categoría | Servicios |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -49,7 +51,7 @@ Cambio de carrera a otra área del conocimiento. En el caso que el estudiante co
 ## Fuente
 
 - Ficha: https://www.unah.edu.hn/servicios
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

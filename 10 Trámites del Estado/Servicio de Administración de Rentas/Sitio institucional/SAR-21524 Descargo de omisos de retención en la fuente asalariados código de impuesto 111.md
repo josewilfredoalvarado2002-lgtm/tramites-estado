@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Descargo de omisos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/descargo-de-omisos-de-retencion-en-la-fuente-asalariados-codigo-de-impuesto-111/"
 documentos:
   - "https://www.sar.gob.hn/download/descargo-de-omisos-de-retencion-en-la-fuente-asalariados-codigo-de-impuesto-111/?wpdmdl=21524"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "8eb7ab16f4828c0be42da4d132edbe4535bf9d7ddf9209dfbb77e1d7b8852725"
+extraido: 2026-11-14T00:15
+huella: "f035bd503dc037eed1b320e635f89abeadc5670708f454709fb4014500e642c2"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DESCARGO DE OMISOS DE RETENCIÓN EN LA
 FUENTE ASALARIADOS CÓDIGO DE IMPUESTO 111
@@ -92,7 +96,7 @@ documentación soporte
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/descargo-de-omisos-de-retencion-en-la-fuente-asalariados-codigo-de-impuesto-111/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -7,7 +7,9 @@ aliases:
   - "SERVICIO TELEVISION SUSCRIPCION POR CABLE"
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "Presentar Constancia de que está Solvente Económica y documentalmente, emitida por el Departamento de Administración de Cartera y Cobranzas y/o la Dirección de Planificación y Desarrollo, respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión (este caso no excluye que este insolvente porque al final con la Resolución de Cancelación se emite el cobro total conforme "
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224"
@@ -20,8 +22,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "ad3f8e7765daec961bc1c59d6d5cf26fc1c4fef08e92e7527c9d305ece0dbe4e"
+extraido: 2026-11-14T00:37
+huella: "2a02e2bc74e4cd8f2964262847ad1b09b9410f101c0feb4a63402d3efa4b5a5c"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -36,16 +38,20 @@ estado_sitio: "Vigente"
 | Institución | Comisión Nacional de Telecomunicaciones |
 | Categoría | Formas y requisitos |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Para qué se hace (según el documento)
+
+Presentar Constancia de que está Solvente Económica y documentalmente, emitida por el Departamento de Administración de Cartera y Cobranzas y/o la Dirección de Planificación y Desarrollo, respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión (este caso no excluye que este insolvente porque al final con la Resolución de Cancelación se emite el cobro total conforme la NR017/99). 5.
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
-SERVICIO TELEVISION POR SUSCRIPCIÓN POR CABLE
-V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
-Página 1 de 2
+
 ITEM REQUISITO NS RN MT MDC AC
 1.
 Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de
@@ -53,12 +59,12 @@ La Ley de Procedimiento Administrativo, que deberá contener: domicilio, datos
 generales, teléfono fijo, teléfono celular y correo electrónico.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante.
 3. Carta Poder debidamente autenticada, o Poder en Escritura Pública (debidamente autenticada)
-4.
+
 Declaración Jurada de No estar Comprendido, en lo preceptuado según el artículo
 92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de
 Telecomunicaciones (debidamente autenticada).
 5. RTN y Documentos de Identidad del Operador (Persona Natural o Jurídica) debidamente autenticada
-6.
+
 Escritura de Constitución de Sociedad debidamente registrada y actualizada sobre
 la composición de las sociedades o integración de las Juntas Directivas o
 Declaración de Comerciante Individual o de personería jurídica en caso de ser
@@ -105,11 +111,9 @@ echos de Autor y Derechos Conexos. (copia autenticada o debidamente
 cotejada).
 
 REQUISITOS
-SERVICIO TELEVISION POR SUSCRIPCIÓN POR CABLE
-V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
-Página 2 de 2
+
 17.
 Notificar presentando diagrama con las especificaciones indicadas en la Resolución
 Normativa NR012/15 artículo 6, o bien la Resolución Normativa vigente que la
@@ -119,7 +123,7 @@ ITEM REQUISITO PARA CANCELACIONES CP
 1. Solicitud por medio de Apoderado Legal en base a los artículos No.56, 60 y 61 de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
 3. Acreditar el pago del aviso por Cancelación de Permiso según Resolución Normativa de Tasas y Canon Vigente.
-4.
+
 Presentar Constancia de que está Solvente Económica y documentalmente, emitida por el
 Departamento de Administración de Cartera y Cobranzas y/o la Dirección de Planificación y Desarrollo,
 respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión (este caso
@@ -130,7 +134,7 @@ Informar el nombre del Operador autorizado por CONATEL, del Servicio de Televisi
 por Cable, que absorberá o absorbió a los usuarios a los cuales el Operador les prestaba el mismo
 servicio, en la misma zona de cobertura. Lo anterior por el Principio de Continuidad en la Prestación
 del Servicio.
-6.
+
 Informar con cuanto tiempo de anticipación informó a los usuarios del Servicio de Televisión por
 Suscripción por Cable, que iba a cerrar operaciones. Presentando a la vez una copia de dicho aviso a
 los usuarios.
@@ -150,13 +154,12 @@ Nomenclatura
 - [Forma 900](https://cms.conatel.gob.hn/assets/c0ad5a62-c02d-4b2a-b2e3-84559a5ed643)
 - [Forma 920](https://cms.conatel.gob.hn/assets/6bc9122e-1940-4e3b-b830-f5de759f4223)
 - [Instructivo 101](https://cms.conatel.gob.hn/assets/c925e915-fae2-4739-92e3-59db81c43eb5)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/4ef3f81d-7859-4cee-97d3-dfa68aabac6b)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/4ef3f81d-7859-4cee-97d3-dfa68aabac6b)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

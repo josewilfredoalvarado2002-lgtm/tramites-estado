@@ -7,15 +7,17 @@ aliases:
   - "CNBS - GPUF - Sección de Reclamos"
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Bancos y Seguros/Comisión Nacional de Bancos y Seguros|Comisión Nacional de Bancos y Seguros]]"
 categoria: "No consta en el sitio"
-calidad: "sin_requisitos"
+calidad: "completo"
+para_que: "El Sistema de Gestión de Reclamos (SIGER) de la Comisión Nacional de Bancos y Seguros (CNBS) es un módulo dentro del Sistema de Gestiones Electrónicas de la CNBS (SGE), para presentar reclamos cuando han recibido una respuesta desfavorable por parte de una Institución Supervisada, respecto a los productos y servicios que estas ofrecen. Ingresar"
+tiene_requisitos: true
 url_ficha: "https://www.cnbs.gob.hn/reclamos/"
 documentos:
   - "http://www.cnbs.gob.hn/files/GPUF/RECLAMOS/FORMATO-RECLAMO-SF-GPUF.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "cnbs.gob.hn"
 verificacion_dominio: "verificado (GDIE)"
-extraido: 2026-11-13T21:33
-huella: "5b2855a7c3b96d5e27430a57d7448243a704d747539c6c7373ea6d6a2b038f54"
+extraido: 2026-11-14T00:16
+huella: "2adeeca12a2828a713edd47bc11d857dab443f9612b8c270553c6c9c7c99e1f1"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,54 +32,12 @@ estado_sitio: "Vigente"
 | Institución | Comisión Nacional de Bancos y Seguros |
 | Categoría | No consta en el sitio |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | completo |
 
-## ¿Qué es el Sistema de Gestión de Reclamos (SIGER)?
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-El Sistema de Gestión de Reclamos (SIGER) de la Comisión Nacional de Bancos y Seguros (CNBS) es un módulo dentro del Sistema de Gestiones Electrónicas de la CNBS (SGE), para presentar reclamos cuando han recibido una respuesta desfavorable por parte de una Institución Supervisada, respecto a los productos y servicios que estas ofrecen.
-Ingresar
+## Requisitos (según el documento oficial)
 
-## Como presentar un reclamo
-
-,
-Pasos para presentar un Reclamo ante las Instituciones Supervisadas
-- Presentarse en el Área de Reclamos de la Institución Supervisada en donde requiera presentar su Reclamo.
-- Solicitar la «HOJA DE RECLAMACIÓN» al Oficial de Atención al Usuario Financiero.
-Llene la HOJA DE RECLAMACIÓN sobre su queja, entréguela, y verifique que le devuelvan una Copia que contenga fecha y sello de recibido por parte de la Institución reclamada.
-La respuesta se entregará en 10 días hábiles contados a partir de la fecha de su reclamo.
-Pasos para presentar un Reclamo ante la CNBS
-Si transcurridos los 10 días hábiles en que presentó su Reclamo ante la Institución Supervisada, ésta no respondió por escrito a su Reclamo, o la respuesta obtenida no le es satisfactoria, puede presentar Reclamo ingresando al Sistema de Gestiones Electrónicas (SGE), siguiendo los pasos detallados en el siguiente manual:
-Manuales del Sistema de Reclamos
-Ingresar a SGE
-
-## Contra Quiénes se Interpone un Reclamo
-
-Ver listado
-
-## Documento: FORMATO-RECLAMO-SF-GPUF.pdf
-
-Comisión Nacional de Bancos y Seguros +504 2290-4500
-Tegucigalpa, Honduras,
-Francisco Morazán
-
-CNBS Honduras
-https://www.cnbs.gob.hn/
-
-ANEXO No.1.- HOJA DE RECLAMACIÓN
-(Anverso o primera página)
-
-No. de Identificación del Reclamo: _______/________/________
-
-Comisión Nacional de Bancos y Seguros +504 2290-4500
-Tegucigalpa, Honduras,
-Francisco Morazán
-
-CNBS Honduras
-https://www.cnbs.gob.hn/
-
-(Reverso o segunda página)
-HOJA DE RECLAMACIÓN
-INSTRUCCIONES PARA COMPLETAR EL FORMULARIO:
 1. La Hoja de Reclamación se presenta conforme al formato adjunto, debiéndose
 llenar original y copia por cada Reclamo, con una descripción sencilla y clara de los
 hechos reclamados. A la misma podrá acompañarse escrito o nota complementaria
@@ -104,6 +64,39 @@ el trámite de su Reclamo.
 5. El Usuario Financiero debe consignar correctamente sus datos personales,
 específicamente su domicilio, teléfono, celular y correo electrónico.
 
+## ¿Qué es el Sistema de Gestión de Reclamos (SIGER)?
+
+El Sistema de Gestión de Reclamos (SIGER) de la Comisión Nacional de Bancos y Seguros (CNBS) es un módulo dentro del Sistema de Gestiones Electrónicas de la CNBS (SGE), para presentar reclamos cuando han recibido una respuesta desfavorable por parte de una Institución Supervisada, respecto a los productos y servicios que estas ofrecen.
+Ingresar
+
+## Como presentar un reclamo
+
+,
+Pasos para presentar un Reclamo ante las Instituciones Supervisadas
+- Presentarse en el Área de Reclamos de la Institución Supervisada en donde requiera presentar su Reclamo.
+- Solicitar la «HOJA DE RECLAMACIÓN» al Oficial de Atención al Usuario Financiero.
+Llene la HOJA DE RECLAMACIÓN sobre su queja, entréguela, y verifique que le devuelvan una Copia que contenga fecha y sello de recibido por parte de la Institución reclamada.
+La respuesta se entregará en 10 días hábiles contados a partir de la fecha de su reclamo.
+Pasos para presentar un Reclamo ante la CNBS
+Si transcurridos los 10 días hábiles en que presentó su Reclamo ante la Institución Supervisada, ésta no respondió por escrito a su Reclamo, o la respuesta obtenida no le es satisfactoria, puede presentar Reclamo ingresando al Sistema de Gestiones Electrónicas (SGE), siguiendo los pasos detallados en el siguiente manual:
+Manuales del Sistema de Reclamos
+Ingresar a SGE
+
+## Contra Quiénes se Interpone un Reclamo
+
+Ver listado
+
+## Otro texto del documento
+
+ANEXO No.1.- HOJA DE RECLAMACIÓN
+(Anverso o primera página)
+
+No. de Identificación del Reclamo: _______/________/________
+
+(Reverso o segunda página)
+HOJA DE RECLAMACIÓN
+INSTRUCCIONES PARA COMPLETAR EL FORMULARIO:
+
 ## Documentos
 
 - [FORMATO-RECLAMO-SF-GPUF.pdf](http://www.cnbs.gob.hn/files/GPUF/RECLAMOS/FORMATO-RECLAMO-SF-GPUF.pdf)
@@ -111,7 +104,7 @@ específicamente su domicilio, teléfono, celular y correo electrónico.
 ## Fuente
 
 - Ficha: https://www.cnbs.gob.hn/reclamos/
-- Fecha y hora de extracción: 2026-11-13 21:33 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:16 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

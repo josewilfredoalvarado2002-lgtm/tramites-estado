@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/10/Envasador-Gas-Natural_Art5-1.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "3392d22e897500856df8ddb3ac03158cc6422f9bf581cf8c39381d5428b33ea0"
+extraido: 2026-11-14T00:44
+huella: "c43876e61c61a6379c0a6d69d668fc239a53f3fdf40adc9336c8a120fde5b85e"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,18 +34,10 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Página 1 de 2
+## Requisitos (según el documento oficial)
 
-Inscripción bajo la Figura de Envasador de Gas Natural
-(Documentación del Establecimiento que opera como oficina principal).
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
-Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
-agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
-2025).
-
-Artículo No. 5.
 1
 Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
 Administrativo.
@@ -96,12 +90,21 @@ de aclarar o corroborar la información presentada).
 Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden
 de este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada requisito.
 
-Página 2 de 2
-
 En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas
 (documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una
 de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello
 estampado del notario.
+
+## Otro texto del documento
+
+Inscripción bajo la Figura de Envasador de Gas Natural
+(Documentación del Establecimiento que opera como oficina principal).
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
+Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
+agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
+2025).
+
+Artículo No. 5.
 
 ## Documentos
 
@@ -110,7 +113,7 @@ estampado del notario.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

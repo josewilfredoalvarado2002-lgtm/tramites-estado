@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "DGCP"
 calidad: "completo"
+para_que: "Requerimientos para Emisión de Dictamenes de Endeudamiento Empresas Públicas"
+tiene_requisitos: true
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos:
   - "https://www.sefin.gob.hn/download_file.php?download_file=/wp-content/uploads/2023/04/INFORMACION_REQUERIDA_DICTAMEN_ENDEUDAMIENTO_EMPRESAS_PuBLICAS.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "6cb428792d9dde18a36279802b33e25451b3063f0ed6188e3fd5e61a5a05293b"
+extraido: 2026-11-14T00:35
+huella: "7e0b282b470f20420b6b75f546c449a16ad6f312ab72f03de167b51dab6b90cd"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,11 +34,13 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | completo |
 
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
 ## Descripcion
 
 Requerimientos para Emisión de Dictamenes de Endeudamiento Empresas Públicas
 
-## Formatos (texto del documento oficial)
+## Requisitos (según el documento oficial)
 
 INFORMACION REQUERIDA POR LA SECRETARÍA DE FINANZAS PARA EMITIR DICTAMEN DE
 CAPACIDAD DE ENDEUDAMIENTO O READECUACIÓN DE DEUDA POR PARTE DE LAS
@@ -100,7 +104,7 @@ la secretaria de Finanzas relacionada con la emisión del Dictamen el de Capacid
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

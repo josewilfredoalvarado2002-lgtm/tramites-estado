@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Otras notificaciones"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/notificacion-del-uso-temporal-de-comprobantes-fiscales-en-eventos-y-espectaculos-publicos/"
 documentos:
   - "https://www.sar.gob.hn/download/notificacion-del-uso-temporal-de-comprobantes-fiscales-en-eventos-y-espectaculos-publicos/?wpdmdl=21500"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "d486e1af87afa9d9e3727b26538a0bff8fb3a14ece5af182a6cf3a558f8fa340"
+extraido: 2026-11-14T00:15
+huella: "58bfc987233b7ba18c8146dc210a3dc05cce627bb876b740c8d2c5c7991dbd59"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE NOTIFICACIÓN DEL USO
 TEMPORAL DE COMPROBANTES FISCALES EN
@@ -42,6 +46,7 @@ Departamento de Gestión Tributaria
 
 REQUISITOS DE NOTIFICACIÓN DEL USO TEMPORAL DE
 COMPROBANTES FISCALES EN EVENTOS Y ESPECTÁCULOS PÚBLICOS
+
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
 Escrito de Solicitud que contenga los requisitos
 establecidos en el Artículo 61 de la Ley de
@@ -59,6 +64,9 @@ Cualquier otra información que el OT
 considere necesaria para sustentar su
 petición
 Contrato de arrendamiento de las instalaciones
+
+## Dónde se presenta (según el documento)
+
 donde se realizará el evento
 Otros documentos que son necesarios
 para otro tipo de eventos: Circos, juegos
@@ -130,7 +138,7 @@ concepto: 1 Propio Computo)
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/notificacion-del-uso-temporal-de-comprobantes-fiscales-en-eventos-y-espectaculos-publicos/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

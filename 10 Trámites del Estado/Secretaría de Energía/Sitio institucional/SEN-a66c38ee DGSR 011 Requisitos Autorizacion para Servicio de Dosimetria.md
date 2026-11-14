@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "DGSR-010 Requisitos Importación, Exportación, Transfencia de Equipos Generadores de\r\n Radaición Ioni"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-dgsr/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/04/DGSR-011_-Requisitos-Autorizacion-para-Servicio-de-Dosimetria.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "3fb8c3f244d18562341de8facc05dff2aa07a274e4a2975e57847bd87610383c"
+extraido: 2026-11-14T00:44
+huella: "32882304b64baec4f3bee39ebeed0141a9cca5c5ccce461c702e44fc23e6d1c5"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -33,20 +35,13 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-011
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
+## Requisitos (según el documento oficial)
 
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN PARA SERVICIO DE DOSIMETRIA V.2.0
 
-Página 1 de 5
-
-No. Requisitos Legales y Técnicos ❒ Base Legal
+No. Requisitos Legales y Técnicos  Base Legal
 1. Escrito de Solicitud, presentado a través de un Apoderado
 Legal, cumpliendo con lo siguiente:
 
@@ -74,67 +69,23 @@ Dirección postal exacta y especificar coordenadas según
 mapa de ubicación catastral, teléfonos, e-mail de la
 instalación.
 
-□
 Art 56, 61 y 63 de la Ley de
-Procedimiento Administrativo
-2. Copia de Escritura de Constitución de la Sociedad o
-Comerciante Individual y sus modificaciones
-debidamente inscritas.
-□
-Art. 54 de la Ley de Procedimiento
-Administrativo.
-3. Copia de Registro Tributario Nacional (RTN) a
-nombre de la Sociedad o Comerciante Individual. □ Art. Artículo 61 de la Ley de Procedimiento Administrativo.
-4. Copia del Documento Nacional de Identificación
-(DNI) del representante legal. □
-Art. Artículo 61 de la Ley de
-Procedimiento Administrativo. Art. 11.
-Reglamento de Protección Radiológica
-5. Poder del Representante Legal, debidamente inscrito
-de la empresa solicitante. □
-Art. Artículo 61 de la Ley de
-Procedimiento Administrativo. Art. 11.
-Reglamento de Protección Radiológica.
-6. Poder del Apoderado Legal, otorgado por el
-Representante Legal. □
-Art. Artículo 61 de la Ley de
-Procedimiento Administrativo. Art. 11.
-Reglamento de Protección Radiológica.
-7. Copia del Carnet Vigente del Apoderado Legal
-emitido por el Colegio de Abogados de Honduras. □ Art. Artículo 61 de la Ley de Procedimiento Administrativo.
-8. Copia del Documento Nacional de Identificación
-(DNI) del personal que esté involucrado en servicio de
-dosimetría. □
-Art. 5 de la Ley sobre Actividades
-Nucleares y Seguridad Radiológica. Art.
-11. Reglamento de Protección
-Radiológica
-
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-011
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
 
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN PARA SERVICIO DE DOSIMETRIA V.2.0
-
-Página 2 de 5
 
 9. Declaración Jurada del Representante Legal,
 firmada, sellada y autenticada. (Formato disponible en
 Microsoft Word, portal web:
-https://sen.hn/tramites-dgsr/).
 
 Ver nota No. 1.
-□
+
 Art. 5 de la Ley sobre Actividades
 Nucleares y Seguridad Radiológica. Art.
 11. Reglamento de Protección
 Radiológica.
 10. Copia de la Licencia Ambiental, o constancia de
 tramite vigente, a nombre de la Sociedad o Comerciante
-Individual. □
+Individual.
 Art. 5. Ley General del Ambiente.
 Art. 24. Reglamento del Sistema
 Nacional de Evaluación de Impacto
@@ -142,12 +93,12 @@ Ambiental.
 Art. 11. Reglamento de Protección
 Radiológica.
 11. Copia del permiso de operación vigente, emitido por
-la Alcaldía Municipal de su jurisdicción. □
+la Alcaldía Municipal de su jurisdicción.
 Art. 11. Reglamento de Protección
-Radiológica
+
 12. Indicar la fecha prevista a iniciar las labores de
 prestación de servicios de monitoreo radiológico. Si
-ya comenzó operaciones indicar la fecha inicio. □
+ya comenzó operaciones indicar la fecha inicio.
 Articulo No. 5 de la Ley Sobre
 Actividades Nucleares y Seguridad
 Radiológica y el Articulo No. 11 del
@@ -163,50 +114,40 @@ adecuadas a los tipos y energías de la radiación a que están
 expuestos los trabajadores y con arreglo a los procedimientos
 de trabajo que garanticen la calidad y fiabilidad de los
 resultados generados.
-□
+
 13.2 Los mecanismos y procedimientos para manipular,
 almacenar y controlar aquellas fuentes radiactivas necesarias
 para la verificación de la calibración de los sistemas
 dosimétricos, de conformidad a la Reglamentación Nacional
 vigente.
-□
+
 13.3 Los procedimientos para informar a la empresa
 contratante del servicio sobre la capacidad del sistema
 dosimétrico utilizado por el Servicio de Dosimetría Personal
 para la determinación de la dosis efectiva a que los
 trabajadores estén expuestos.
-□
+
 13.4 Los procedimientos asociados a la asignación de dosis
 en aquellos casos que den lugar a la pérdida de la información
-dosimétrica. □
+dosimétrica.
 13.5 Los procedimientos para remitir periódicamente
 información dosimétrica a la Dirección General de Seguridad
 Radiológica de la Secretaría de Energía, conforme a lo
 acordado mediante comunicaciones oficiales.
-□
-
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-011
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
 
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN PARA SERVICIO DE DOSIMETRIA V.2.0
-
-Página 3 de 5
 
 13.6 Los procedimientos establecidos para la entrega de los
 dosímetros a la empresa contratante y la recepción de estos
 por parte del Servicio de Dosimetría Personal.
-□
+
 14. Descripción de la instalación en donde se brindará el servicio
 de dosimetría, mediante plano el cual deber ser presentado
 en una escala de 1:75 o 1:100, en un tamaño tabloide, con
 leyendas, tablas de áreas en metros cuadrados y coordenadas
 de ubicación, estos planos deberán ser firmados, sellados y
 timbrados por un profesional Civil o Arquitecto.
-□
+
 Articulo No. 11 del Reglamento de
 Protección Radiológica
 15. Hoja de vida (debe contener; Nombres y Apellidos,
@@ -214,24 +155,23 @@ Documento Nacional de Identificación (DNI), las
 cualificaciones, entrenamiento con sus respectivos diplomas,
 Informe de las pruebas psicofísicas), de todo el personal
 involucrado en el servicio de dosimetría.
-□
+
 Articulo No. 11 del Reglamento de
 Protección Radiológica
 16. Programa de capacitación en temas de dosimetría y
 protección Radiologica para el personal que trabaja en el
 servicio de dosimetría.
-□
+
 Articulo No. 11 del Reglamento de
 Protección Radiológica
-17. Certificado de calidad de la lectora. □ Articulo No. 11 del Reglamento de Protección Radiológica
-18. Programa de mantenimiento de la lectora. □ Articulo No. 11 del Reglamento de Protección Radiológica
-19. Certificado de buen funcionamiento de las lectoras. □ Articulo No. 11 del Reglamento de Protección Radiológica
+17. Certificado de calidad de la lectora.  Articulo No. 11 del Reglamento de Protección Radiológica
+18. Programa de mantenimiento de la lectora.  Articulo No. 11 del Reglamento de Protección Radiológica
+19. Certificado de buen funcionamiento de las lectoras.  Articulo No. 11 del Reglamento de Protección Radiológica
 20. Inventario de material radiactivo utilizado en el servicio de
-dosimetría □ Articulo No. 11 del Reglamento de Protección Radiológica
+dosimetría  Articulo No. 11 del Reglamento de Protección Radiológica
 21. Programa de inducción del uso adecuado de los dosímetros
 dirigido a los usuarios que contraten el servicio.
 
-□
 Articulo No. 11 del Reglamento de
 Protección Radiológica
 22. Admitida la solicitud y habiendo cumplido con los requisitos
@@ -256,21 +196,12 @@ Zona II: Resto del País: L. 22,000.00
 Zona III: Islas de la Bahía y la Mosquitia: L. 32,000.00
 
 Ver notas Nos.2 y 3.
-□
+
 Art. Artículo 3 del Acuerdo Ministerial
 No. 002-2019, publicado en el Diario la
 Gaceta el 10 de abril del 2019.
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-011
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
-
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN PARA SERVICIO DE DOSIMETRIA V.2.0
-
-Página 4 de 5
 
 23. Emitida favorable la Autorización, habiendo cumplido con
 los requisitos legales y técnicos la Secretaría de Energía
@@ -287,9 +218,8 @@ Institución: 310 - Secretaría de Energía.
 Rubro: 12209 – Otras Licencias.
 
 Ver notas No.2 y 3.
-□
+
 Art. 11. Reglamento de Protección
-Radiológica
 
 24. Emitida favorable la Autorización, habiendo cumplido con
 los requisitos legales y técnicos la Secretaría requerirá el
@@ -303,15 +233,68 @@ siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión, Constancias,
 Certificaciones y Otros.
+
+REQUISITOS PARA LA SOLICITUD DE
+
+Consultas:
+Secretaría de Energía (SEN)
+Dirección General de Seguridad Radiológica (DGSR)
+Dirección: Torre Altamira, a inmediaciones del anillo periférico; 1.2 Km del puente a desnivel, salida a Valle de
+Ángeles, Tegucigalpa, M.D.C, Francisco Morazan, Honduras.
+Teléfono:2232-8500 Ext: 121, E-mail: dgsr@sen.hn
+Condiciones generales:
+● El solicitante debe presentar la información referida en este documento siguiendo el orden establecido en
+los términos de referencia, tanto para los requisitos legales como técnicos.
+● Aunque la Autoridad Reguladora tramitará la solicitud con prontitud, no puede garantizarse que se otorgue
+la Autorización para una fecha determinada.
+
+## Costo (según el documento)
+
 Monto: L 200.00
 
 Ver nota No.3.
-□
+
 Disposiciones Generales del
 Presupuesto General de Ingresos y
 Egresos de la Republica Ejercicio
 Fiscal Vigente.
-Notas:
+
+## Procedimiento (según el documento)
+
+Procedimiento Administrativo
+2. Copia de Escritura de Constitución de la Sociedad o
+Comerciante Individual y sus modificaciones
+debidamente inscritas.
+
+Art. 54 de la Ley de Procedimiento
+Administrativo.
+3. Copia de Registro Tributario Nacional (RTN) a
+nombre de la Sociedad o Comerciante Individual.  Art. Artículo 61 de la Ley de Procedimiento Administrativo.
+4. Copia del Documento Nacional de Identificación
+(DNI) del representante legal.
+Art. Artículo 61 de la Ley de
+Procedimiento Administrativo. Art. 11.
+Reglamento de Protección Radiológica
+5. Poder del Representante Legal, debidamente inscrito
+de la empresa solicitante.
+Art. Artículo 61 de la Ley de
+Procedimiento Administrativo. Art. 11.
+Reglamento de Protección Radiológica.
+6. Poder del Apoderado Legal, otorgado por el
+Representante Legal.
+Art. Artículo 61 de la Ley de
+Procedimiento Administrativo. Art. 11.
+Reglamento de Protección Radiológica.
+7. Copia del Carnet Vigente del Apoderado Legal
+emitido por el Colegio de Abogados de Honduras.  Art. Artículo 61 de la Ley de Procedimiento Administrativo.
+8. Copia del Documento Nacional de Identificación
+(DNI) del personal que esté involucrado en servicio de
+dosimetría.
+Art. 5 de la Ley sobre Actividades
+Nucleares y Seguridad Radiológica. Art.
+11. Reglamento de Protección
+
+## Notas (según el documento)
 
 Nota 1: Con base en el Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Auténtica
 de firmas (documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados.
@@ -329,29 +312,6 @@ ante las oficinas de la Secretaría de Energía en dicho tiempo, caso contrario 
 Nota: 4: Toda la información presentada debe ser en idioma español, los documentos emitidos en un idioma
 extranjero deberán ser traducidos y apostillados.
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-011
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
-
-REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN PARA SERVICIO DE DOSIMETRIA V.2.0
-
-Página 5 de 5
-
-Consultas:
-Secretaría de Energía (SEN)
-Dirección General de Seguridad Radiológica (DGSR)
-Dirección: Torre Altamira, a inmediaciones del anillo periférico; 1.2 Km del puente a desnivel, salida a Valle de
-Ángeles, Tegucigalpa, M.D.C, Francisco Morazan, Honduras.
-Teléfono:2232-8500 Ext: 121, E-mail: dgsr@sen.hn
-Condiciones generales:
-● El solicitante debe presentar la información referida en este documento siguiendo el orden establecido en
-los términos de referencia, tanto para los requisitos legales como técnicos.
-● Aunque la Autoridad Reguladora tramitará la solicitud con prontitud, no puede garantizarse que se otorgue
-la Autorización para una fecha determinada.
-
 ## Documentos
 
 - [DGSR 011  Requisitos Autorizacion para Servicio de Dosimetria](https://sen.hn/wp-content/uploads/2026/04/DGSR-011_-Requisitos-Autorizacion-para-Servicio-de-Dosimetria.pdf)
@@ -359,7 +319,7 @@ la Autorización para una fecha determinada.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-dgsr/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

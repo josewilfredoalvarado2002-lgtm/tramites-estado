@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Facturación"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/solicitud-de-verificacion-de-autorizacion-de-impresion/"
 documentos:
   - "https://www.sar.gob.hn/download/solicitud-de-verificacion-de-autorizacion-de-impresion/?wpdmdl=3320"
 actualizado_sitio: "junio 9, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "5b28bf382d763fcd8ef975c6fae4e6427fc69e17adf0b15a6a812b626cc51517"
+extraido: 2026-11-14T00:15
+huella: "ddafd772f285df0bcc57950cc8ffded5282886808c80d890067ab2e70fea73a6"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,12 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | junio 9, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-SOLICITUD DE VERIFICACIÓN DE
-AUTORIZACIÓN DE IMPRESIÓN
-Dirección Nacional de Cumplimiento Tributario
-Departamento de Asistencia al Cumplimiento Nacional
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE VERIFICACIÓN DE AUTORIZACIÓN DE IMPRESIÓN
 Esta solicitud puede ser realizada a través de la Oficina Virtual y en las ventanillas de
@@ -109,6 +108,13 @@ Formato de Muestra
 Formato de Muestra
 Formato de Muestra
 
+## Otro texto del documento
+
+SOLICITUD DE VERIFICACIÓN DE
+AUTORIZACIÓN DE IMPRESIÓN
+Dirección Nacional de Cumplimiento Tributario
+Departamento de Asistencia al Cumplimiento Nacional
+
 ## Documentos
 
 - [Solicitud de Verificación de Autorización de Impresión](https://www.sar.gob.hn/download/solicitud-de-verificacion-de-autorizacion-de-impresion/?wpdmdl=3320)
@@ -116,7 +122,7 @@ Formato de Muestra
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/solicitud-de-verificacion-de-autorizacion-de-impresion/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

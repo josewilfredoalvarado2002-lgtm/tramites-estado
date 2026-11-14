@@ -7,15 +7,17 @@ aliases:
   - "ESTADOS DE CUENTAS DE EMBARGOS"
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Tesoreria"
-calidad: "completo"
+calidad: "solo_para_que"
+para_que: "BRINDAR LOS MOVIMIENTOS DE LOS EMBARGOS EN UN PERIODO DE TIEMPO POR DEMANDADO"
+tiene_requisitos: false
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos:
   - "https://www.sefin.gob.hn/wp-content/uploads/2026/02/Solicitud-estado-de-cuenta-embargos-2026-S.-TGR-EMB-EC-03-ED-1-1.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "4797ab5fa26e7bb0d5c53eee12fa6afefac718b837068f2f0cb70c5f09884318"
+extraido: 2026-11-14T00:35
+huella: "979d021590eb3f9635de65747676b30d04ff4d56ec8bef24ab648c2f74c82704"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,25 +32,25 @@ estado_sitio: "Vigente"
 | Institución | Secretaría de Finanzas |
 | Categoría | Tesoreria |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | completo |
+| Calidad de la extracción | solo para que |
 
 ## Descripcion
 
 BRINDAR LOS MOVIMIENTOS DE LOS EMBARGOS EN UN PERIODO DE TIEMPO POR DEMANDADO
 
-## Procedimientos
-
-ESTE SE ENCARGA DE REVISAR SI LOS DOCUMENTOS ESTAN CORRECTAMENTE LUEGO DE ESTO SE ENVIAN A FIRMA POR VISTO BUENO DEL DEPOSITARIO.
-
 ## Requisitos
 
 1. ACTA JUDICIAL
+
+## Procedimientos
+
+ESTE SE ENCARGA DE REVISAR SI LOS DOCUMENTOS ESTAN CORRECTAMENTE LUEGO DE ESTO SE ENVIAN A FIRMA POR VISTO BUENO DEL DEPOSITARIO.
 
 ## Formatos
 
 Solicitud de Estado de Cuenta
 
-## Formatos (texto del documento oficial)
+## Otro texto del documento
 
 S. TGR-EMB-EC-03
 
@@ -86,7 +88,7 @@ Firma
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "RTN, RTN persona natural"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/requisitos-solicitud-rtn-persona-natural/"
 documentos:
   - "https://www.sar.gob.hn/download/requisitos-solicitud-rtn-persona-natural/?wpdmdl=20854"
 actualizado_sitio: "junio 8, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "3288a85bbca9ba66f63b86ebb7b6c352ba55c257142d7a38c4fc47f822e0afac"
+extraido: 2026-11-14T00:15
+huella: "5c7255bb90148e5233344fd414c3afd8f5dcdd641ce67895f8cf6eadec656564"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | junio 8, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE INSCRIPCIÓN DEL
 RTN PARA PERSONA NATURAL
@@ -79,8 +83,6 @@ Integrados de la Unión Aduanera Guatemala, Honduras y El Salvador, para aquella
 personas ciudadanos de los Estados Parte que no presentan Declaración Mensual de
 Impuesto Sobre Ventas.
 
-REQUISITOS:
-
 1. Documento de identificación:
 
 - Pasaporte o carné de residente vigente.
@@ -92,7 +94,7 @@ REQUISITOS:
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/requisitos-solicitud-rtn-persona-natural/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

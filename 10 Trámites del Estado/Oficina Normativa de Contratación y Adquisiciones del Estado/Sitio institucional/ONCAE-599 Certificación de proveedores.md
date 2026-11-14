@@ -15,7 +15,7 @@ dominio_verificado: "oncae.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T21:47
 huella: "87577a5a670f0ff83785990ab5a85404dc4465ea907298042cbf4d351d6d430e"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # Certificación de proveedores

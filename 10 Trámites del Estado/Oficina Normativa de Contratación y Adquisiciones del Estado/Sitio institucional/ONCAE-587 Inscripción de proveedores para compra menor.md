@@ -15,7 +15,7 @@ dominio_verificado: "oncae.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T21:47
 huella: "47591c60ce9ab580fe8904ce4f0a1b285330a8dcb60b268e4b81f716677b1eaf"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # Inscripción de proveedores para compra menor

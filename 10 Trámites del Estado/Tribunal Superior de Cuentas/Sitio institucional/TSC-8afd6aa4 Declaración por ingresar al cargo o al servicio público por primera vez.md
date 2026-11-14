@@ -7,14 +7,16 @@ aliases:
   - "Declaración por ingresar al cargo o al servicio público por primera vez"
 institucion: "Tribunal Superior de Cuentas"
 categoria: "Servicios prestados"
-calidad: "sin_requisitos"
+calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.tsc.gob.hn/index.php/servicios-prestados/"
 documentos: []
 actualizado_sitio: "2026-06-29"
 dominio_verificado: "tsc.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T21:32
-huella: "101966cffd4c7a5f5dab63227c6efb8272909e11847a10e7e0aac8f8f8f06ac3"
+extraido: 2026-11-14T00:45
+huella: "6a9928f1b40bffd08acb033b0f31e616052cdb5d0958ac8a36ca66650391bb5e"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Tribunal Superior de Cuentas |
 | Categoría | Servicios prestados |
 | Última actualización que muestra el sitio | 2026-06-29 |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo requisitos |
 
 ## Contenido
 
@@ -48,7 +50,7 @@ estado_sitio: "Vigente"
 ## Fuente
 
 - Ficha: https://www.tsc.gob.hn/index.php/servicios-prestados/
-- Fecha y hora de extracción: 2026-11-13 21:32 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

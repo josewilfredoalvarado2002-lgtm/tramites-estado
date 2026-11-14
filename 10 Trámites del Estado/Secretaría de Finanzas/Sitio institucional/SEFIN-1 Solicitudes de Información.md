@@ -7,7 +7,9 @@ aliases:
   - "Solicitudes de Información"
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Transparencia"
-calidad: "completo"
+calidad: "solo_para_que"
+para_que: "Las personas solicitan información de diferentes temas a través de la página web o avocandose a las instalaciones de la Secretaría de Finanzas."
+tiene_requisitos: false
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos:
   - "https://www.sefin.gob.hn/download_file.php?download_file=/wp-content/uploads/2018/11/Procedimiento1.pdf"
@@ -16,8 +18,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "7c2eeaee538f2d5d5f8f0c78af66373b8b4ccd5eceeabf3224cb3f78e8e64673"
+extraido: 2026-11-14T00:35
+huella: "dbfaf61149797c4d0e8823a071d6647dc1ad45e6090119e8ae945ff7a5beb6ac"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -35,27 +37,11 @@ estado_sitio: "Vigente"
 | Institución | Secretaría de Finanzas |
 | Categoría | Transparencia |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | completo |
+| Calidad de la extracción | solo para que |
 
-## Descripcion
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Las personas solicitan información de diferentes temas a través de la página web o avocandose a las instalaciones de la Secretaría de Finanzas.
-
-## Tasa_derechos
-
-No se ha aplicado ninguna tasa de derecho aunque la Ley del Instituto de Acceso a la Información Pública lo permite pero la aplicabilidad dependerá de la cantidad de información a reproducir.
-
-## Procedimientos (texto del documento oficial)
-
-file:///D|/nuevoSitio/Produccion/procedimientos/Procedimiento1.txt[27/02/2019 04:03:02 p.m.]
-1) La persona interesada se presenta a la Dirección de Transparencia o lo realiza a través de la página web
-institucional para solicitar la información.
-2) La Dirección de Transparencia procesa la información y lo envía de manera formal la solicitud a la Dependencia
-responsable dentro de la SEFIN
-3) La Dirección de Transparencia recibe la información por la Dependencia responsable y le comunica al solicitante
-que la respuesta ha sido generada.
-
-## Requisitos (texto del documento oficial)
+## Para qué se hace (según el documento)
 
 ¿Qué es el Derecho de Acceso a la
 Información Pública?
@@ -81,6 +67,17 @@ información solicitada.
 Presentación de la solicitud: mediante el formulario correspondiente, en formato
 impreso o por correo electrónico.
 ¿Qué requisitos debe cumplir la solicitud?
+
+## Descripcion
+
+Las personas solicitan información de diferentes temas a través de la página web o avocandose a las instalaciones de la Secretaría de Finanzas.
+
+## Tasa_derechos
+
+No se ha aplicado ninguna tasa de derecho aunque la Ley del Instituto de Acceso a la Información Pública lo permite pero la aplicabilidad dependerá de la cantidad de información a reproducir.
+
+## Dónde se presenta (según el documento)
+
 ¿Dónde puede presentar su solicitud?
 Puede realizarla por cualquiera de los siguientes medios:
 Correo electrónico: transparencia@seﬁn.gob.hn
@@ -104,6 +101,16 @@ especialmente difícil.
 1
 2
 
+## Procedimiento (según el documento)
+
+file:///D|/nuevoSitio/Produccion/procedimientos/Procedimiento1.txt[27/02/2019 04:03:02 p.m.]
+1) La persona interesada se presenta a la Dirección de Transparencia o lo realiza a través de la página web
+institucional para solicitar la información.
+2) La Dirección de Transparencia procesa la información y lo envía de manera formal la solicitud a la Dependencia
+responsable dentro de la SEFIN
+3) La Dirección de Transparencia recibe la información por la Dependencia responsable y le comunica al solicitante
+que la respuesta ha sido generada.
+
 ## Documentos
 
 - [Procedimientos — Solicitudes de Información](https://www.sefin.gob.hn/download_file.php?download_file=/wp-content/uploads/2018/11/Procedimiento1.pdf)
@@ -113,7 +120,7 @@ especialmente difícil.
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

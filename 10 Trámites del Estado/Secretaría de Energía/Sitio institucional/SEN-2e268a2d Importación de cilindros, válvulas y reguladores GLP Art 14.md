@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/10/Importa-Cilindros-Valvulas-Reguladores-GLP_Art14.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "01d658cab62d356993eee1d6cbf5c160c809b9a9a51887042ccf480c77fc31c6"
+extraido: 2026-11-14T00:44
+huella: "15c73a292ce1e45f35e2735705dff1db7e4f59ebcde66d6756741a6ba9bd73cc"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,18 +34,10 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Página 1 de 2
+## Requisitos (según el documento oficial)
 
-Permiso Especial
-de Importación de Cilindros para Contener Gas Licuado del Petróleo, Válvulas y Reguladores de Cilindros para
-Contener Gas Licuado del Petróleo.
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
-Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
-agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de
-agosto 2025).
-Artículo No. 14
 1
 Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
 Administrativo.
@@ -82,16 +76,14 @@ En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 d
 Presentar Recibo TGR con su comprobante de pago en concepto de Permiso Especial de Importación de
 Cilindros para Contener Gas Licuado del Petróleo, Válvulas y Reguladores de Cilindros para Contener Gas
 Licuado del Petróleo de la siguiente forma:
-Institución: 310 - Secretaría de Energía.
+
 Rubro: 12209 – Otras Licencias.
 Monto: L 30,000.00
 19 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
 
-Página 2 de 2
-
 Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución,
 de la siguiente forma:
-Institución: 310 - Secretaría de Energía.
+
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
 Monto: L 200.00
 20 Cualquier otro requisito solicitado por la SEN
@@ -102,6 +94,17 @@ En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben p
 una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y
 sello estampado del notario.
 
+## Otro texto del documento
+
+Permiso Especial
+de Importación de Cilindros para Contener Gas Licuado del Petróleo, Válvulas y Reguladores de Cilindros para
+Contener Gas Licuado del Petróleo.
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
+Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
+agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de
+agosto 2025).
+Artículo No. 14
+
 ## Documentos
 
 - [Importación de cilindros, válvulas y reguladores GLP Art 14](https://sen.hn/wp-content/uploads/2026/10/Importa-Cilindros-Valvulas-Reguladores-GLP_Art14.pdf)
@@ -109,7 +112,7 @@ sello estampado del notario.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

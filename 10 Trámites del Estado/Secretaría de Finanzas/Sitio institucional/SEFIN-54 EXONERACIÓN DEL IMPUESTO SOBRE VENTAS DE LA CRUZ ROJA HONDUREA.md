@@ -15,7 +15,7 @@ dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T22:08
 huella: "f63ac7fb295e580ccaed479bbf5a4076a8e00ca5ff828e91063c417ed3bb8b4a"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # EXONERACIÓN DEL IMPUESTO SOBRE VENTAS DE LA CRUZ ROJA HONDURE?A

@@ -7,14 +7,16 @@ aliases:
   - "Solicitud de historial académico y certificación de estudios"
 institucion: "Universidad Nacional Autónoma de Honduras"
 categoria: "Servicios"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "La UNAH, a través de la Dirección de Ingreso, Permanencia y Promoción (Registro-DIPP), extiende los siguientes documentos para el seguimiento académico del estudiante:"
+tiene_requisitos: false
 url_ficha: "https://www.unah.edu.hn/servicios"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "unah.edu.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:23
-huella: "f24a68a7a9da85c4b63edd58310d1689b444bda5ca6a8b4e5d49bc015cdb8a9c"
+extraido: 2026-11-14T00:45
+huella: "9b9ae7e021fd045c28ec2ce57ed0b47deced5608bc624f479e5ed5d59f62b4c9"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Universidad Nacional Autónoma de Honduras |
 | Categoría | Servicios |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -51,7 +53,7 @@ Certificado de Estudios (Graduados)
 ## Fuente
 
 - Ficha: https://www.unah.edu.hn/servicios
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

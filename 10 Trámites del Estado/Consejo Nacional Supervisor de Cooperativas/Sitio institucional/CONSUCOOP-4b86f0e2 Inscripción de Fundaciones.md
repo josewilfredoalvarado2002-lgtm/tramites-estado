@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/Consejo Nacional Supervisor de Cooperativas|Consejo Nacional Supervisor de Cooperativas]]"
 categoria: "No consta en el sitio"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://consucoop.hn/requisitos/"
 documentos:
-  - "https://consucoop.hn/download/12488/?tmstv=1794630135"
+  - "https://consucoop.hn/download/12488/?tmstv=1794638671"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "consucoop.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DI)"
-extraido: 2026-11-13T22:23
-huella: "4fd5070448627c01a6076710822b54a1478ed4149420fdba798fc6f14b0015b8"
+extraido: 2026-11-14T00:45
+huella: "5f2283edd771f4ca28cfc8989d6e7f8a66e929fda28fbcc1c0b8f5528a90f68e"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 Requisitos
 1.Solicitud firmada por el Gerente General o Presidente de Junta Directiva, con timbre
@@ -53,7 +57,7 @@ de su Reglamento.
 6.Debe pagar en CONSUCOOP L150.00 por la Inscripción y timbres de L50.00 por
 cada documento adjunto y uno para la inscripción o pueden realizar deposito en
 cuenta de Banco Cuscatlán No. 11-105-0000276 a nombre de CONSUCOOP.
-www.consucoop.hn
+
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
@@ -63,12 +67,12 @@ WhatsApp 31622364.
 
 ## Documentos
 
-- [Inscripción de Fundaciones](https://consucoop.hn/download/12488/?tmstv=1794630135)
+- [Inscripción de Fundaciones](https://consucoop.hn/download/12488/?tmstv=1794638671)
 
 ## Fuente
 
 - Ficha: https://consucoop.hn/requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

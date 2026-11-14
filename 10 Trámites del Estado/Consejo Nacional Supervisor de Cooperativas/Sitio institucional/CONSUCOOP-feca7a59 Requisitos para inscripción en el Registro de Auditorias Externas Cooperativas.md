@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/Consejo Nacional Supervisor de Cooperativas|Consejo Nacional Supervisor de Cooperativas]]"
 categoria: "No consta en el sitio"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://consucoop.hn/requisitos/"
 documentos:
-  - "https://consucoop.hn/download/12464/?tmstv=1794630135"
+  - "https://consucoop.hn/download/12464/?tmstv=1794638671"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "consucoop.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DI)"
-extraido: 2026-11-13T22:23
-huella: "9f8a85d8fce15ea33ae13ebeb9089cb29079452de814f4e719cdc1f57507f0ce"
+extraido: 2026-11-14T00:45
+huella: "419b80831e51ae647b35bd1372e2e8c5f54f07f00bb4ccc60d9f630df92247f6"
 estado_sitio: "Vigente"
 posible_equivalente_diger: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/TR-465 Inscripción de Firmas de Auditorias Externas|Inscripción de Firmas de Auditorias Externas]]"
 ---
@@ -35,7 +37,9 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Consejo Nacional Superviso
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 Requisitos
 1.Solicitud por Escrito dirigida al Registrador Nacional de Cooperativas
@@ -54,10 +58,11 @@ responsables de suscribir informes.
 miembros del staff de auditoría y personas habilitadas para dirigir y ejecutar auditorias
 o responsables de suscribir informes, acreditando con copia de los documentos, los
 estudios realizados, (revés y derecho) experiencia y otros conocimientos adquiridos
-www.consucoop.hn
+
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
+
 REQUISITOS PARA INSCRIPCIÓN EN REGISTRO AUDITORIAS
 EXTERNAS COOPERATIVAS (RAEC)
 8. Descripción de la organización según lo estipulado en el Articulo No. 6), Inciso No. 7) de la
@@ -78,13 +83,13 @@ corresponsal o firma miembro.
 al anexo No. 2 de la Norma para la Contratación y RAEC.
 15. Detallar que personal de la Firma labora a medio tiempo o tiempo completo.
 16.Poliza acorde a categoría otorgada en la inscripción de RAEC.
-www.consucoop.hn
+
 Nota: para actualización anual y reclasificación de categoría en RAEC, son los mismos
 requisitos para presentar en la inscripción al RAEC, exceptuando el ítem: 3, 4, 7, 8.1, 8.5,
 8.6, 11, 12 y 14 si acorde a lo presentado en la inscripción se mantiene igual, sin ningún
 cambio o reforma a su escritura, en la estructura, altas y bajas de profesionales responsables
 de dirigir, ejecutar y firmar auditorias.
-www.consucoop.hn
+
 Por cada documento presentado se debe cancelar timbre cooperativo de L50.00 en c/u y
 la Certificación a entregar tiene un costo de L150.00, pueden realizar deposito en cuenta
 de Banco Cuscatlán No. 11-105-0000276 a nombre de CONSUCOOP.
@@ -93,12 +98,12 @@ registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp 31622
 
 ## Documentos
 
-- [Requisitos para inscripción en el Registro de Auditorias Externas Cooperativas](https://consucoop.hn/download/12464/?tmstv=1794630135)
+- [Requisitos para inscripción en el Registro de Auditorias Externas Cooperativas](https://consucoop.hn/download/12464/?tmstv=1794638671)
 
 ## Fuente
 
 - Ficha: https://consucoop.hn/requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

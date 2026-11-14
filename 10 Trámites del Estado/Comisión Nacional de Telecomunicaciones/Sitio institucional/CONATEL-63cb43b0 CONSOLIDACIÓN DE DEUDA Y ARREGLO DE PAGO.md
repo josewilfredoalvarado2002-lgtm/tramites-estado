@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224"
@@ -15,8 +17,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "5cacb35c18e7a936d5d0670c45b8d77a41ecf2936758f591ba25714c0890348d"
+extraido: 2026-11-14T00:37
+huella: "0f1fe8b5b467a47f9b078538d9e21da547916adf386682ee4baf53ec0ed7a1e1"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -33,13 +35,15 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
 CONSOLIDACIÓN DE DEUDA Y ARREGLO DE PAGO
-V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO NS
 1. Carta de Intención de Consolidación de Deuda de un Arreglo de Pago presentado por el solicitante o su apoderado legal.
 2. Cuando el trámite se realice por medio de Apoderado Legal, se deberá presentar Carta-Poder debidamente autenticada, o poder general o especial otorgado en Escritura Publica
@@ -53,13 +57,12 @@ Nomenclatura
 ## Documentos
 
 - [Forma 100](https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/83a9b26e-aee0-482f-a78e-7acab664581e)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/83a9b26e-aee0-482f-a78e-7acab664581e)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -16,7 +16,7 @@ dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
 extraido: 2026-11-13T22:22
 huella: "aa0d4f76a3ebe3203667d4c44ad00e6263d12a4da124421d69f047e09525fb8d"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # 6 DESIGNACION OFICIAL DE OPR

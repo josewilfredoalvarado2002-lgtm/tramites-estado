@@ -16,7 +16,7 @@ dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
 extraido: 2026-11-13T22:22
 huella: "c499147446e230d27ae4d00f0bcab9f361e3ec7b21ffed67f5bd4b6cdcd2d02d"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # 1 DECLARACION JURADA REPRESENTANTE LEGAL

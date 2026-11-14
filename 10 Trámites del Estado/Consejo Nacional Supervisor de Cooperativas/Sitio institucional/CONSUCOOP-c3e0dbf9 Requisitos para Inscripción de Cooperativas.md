@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/Consejo Nacional Supervisor de Cooperativas|Consejo Nacional Supervisor de Cooperativas]]"
 categoria: "No consta en el sitio"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://consucoop.hn/requisitos/"
 documentos:
-  - "https://consucoop.hn/download/12506/?tmstv=1794630135"
+  - "https://consucoop.hn/download/12506/?tmstv=1794638671"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "consucoop.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DI)"
-extraido: 2026-11-13T22:23
-huella: "9012f5445d6296760debc0916ce05911cf53d078e6b42b863c0018e6adf278e1"
+extraido: 2026-11-14T00:45
+huella: "315890370ac1fb43f994c69fb467d10ea6c6b3a6bb1844ecb198e3bcc6b29208"
 estado_sitio: "Vigente"
 posible_equivalente_diger: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/TR-1055 Emisión de constancia de inscripción de cooperativas|Emisión de constancia de inscripción de cooperativas]]"
 ---
@@ -35,7 +37,9 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Consejo Nacional Superviso
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 Requisitos
 
@@ -66,6 +70,7 @@ no inferior al:
 a) Las de Servicio, un mínimo del 50% del S.M.V.
 b) Las de Producción, un mínimo del 25 % del S.M.V.
 c) Las de Centros Educativos, un mínimo de 12.5% del S.M.V.
+
 REQUISITOS PARA INSCRIBIR UNA COOPERATIVA DE
 PRIMER GRADO
 5. Lista de afiliados(as), especificando nombre completo, número de DNI, edad, domicilio,
@@ -98,12 +103,12 @@ RNC 31622364.
 
 ## Documentos
 
-- [Requisitos para Inscripción de Cooperativas](https://consucoop.hn/download/12506/?tmstv=1794630135)
+- [Requisitos para Inscripción de Cooperativas](https://consucoop.hn/download/12506/?tmstv=1794638671)
 
 ## Fuente
 
 - Ficha: https://consucoop.hn/requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

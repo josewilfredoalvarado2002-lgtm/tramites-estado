@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Solicitudes"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/solicitud-de-autorizacion-de-deduccion-del-25-de-isr-por-reinversion-de-activos/"
 documentos:
   - "https://www.sar.gob.hn/download/solicitud-de-autorizacion-de-deduccion-del-25-de-isr-por-reinversion-de-activos/?wpdmdl=21519"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "f83d42b8f6f51b86e533879be210eca0fd1dccd5d545fecd883cda973809e359"
+extraido: 2026-11-14T00:15
+huella: "a64ef6dc941b11439970c0d41ac7ec3a4b5f79c230ab58140e25eaeedfb5979a"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS SOLICITUD DE AUTORIZACIÓN
 DE DEDUCCIÓN DEL 25% DE ISR POR
@@ -81,7 +85,7 @@ Comprobante de boletín de pago L200.00
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/solicitud-de-autorizacion-de-deduccion-del-25-de-isr-por-reinversion-de-activos/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

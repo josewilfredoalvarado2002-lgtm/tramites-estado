@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Solicitudes"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/autorizacion-y-aprobacion-del-plan-social-de-empleados-para-personas-juridicas/"
 documentos:
   - "https://www.sar.gob.hn/download/autorizacion-y-aprobacion-del-plan-social-de-empleados-para-personas-juridicas/?wpdmdl=21507"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "0cbf756336bc825c0172b920d4d4613f2d793d8a3af29b461d189a0186998daa"
+extraido: 2026-11-14T00:15
+huella: "6a9fffb51232666c2d2b0c3d1155559823c4fda357eea0094cb38ef52cfa1394"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 Requisitos para Autorización
 y aprobación del plan social
@@ -82,7 +86,7 @@ Computo)
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/autorizacion-y-aprobacion-del-plan-social-de-empleados-para-personas-juridicas/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

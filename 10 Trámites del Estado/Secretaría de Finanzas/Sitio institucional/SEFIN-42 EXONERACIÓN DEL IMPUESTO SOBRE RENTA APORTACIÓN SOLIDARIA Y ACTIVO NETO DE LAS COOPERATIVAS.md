@@ -15,7 +15,7 @@ dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T22:08
 huella: "43119834d7c8213e8c981984b0fc7cf3caedb9aec322a76d4f32a1cf6db71faf"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # EXONERACIÓN DEL IMPUESTO SOBRE RENTA APORTACIÓN SOLIDARIA Y ACTIVO NETO DE LAS COOPERATIVAS

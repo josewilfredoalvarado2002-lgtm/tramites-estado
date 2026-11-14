@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224"
@@ -20,8 +22,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "6e2a440798640880e79c7ed5171e3d9e493533365dc8b4e4ad09bad930098ba7"
+extraido: 2026-11-14T00:37
+huella: "8f6a20e05c5c8fe9caaad9c6ad4366f6bdb25c6327d67665bb819e9b2ce3d504"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -38,14 +40,16 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
+
 REQUISITOS SERVICIO DE TELEVISIÓN POR SUSCRIPCIÓN POR
-MEDIOS INALÁMBRICOS
-V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO NS RN MT MDC
 1.
 Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de La Ley de
@@ -53,12 +57,12 @@ Procedimiento Administrativo, que deberá contener: domicilio, datos generales, 
 teléfono celular y correo electrónico.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante.
 3. Carta Poder debidamente autenticada, o Poder en Escritura Pública (debidamente autenticada)
-4.
+
 Declaración Jurada de No estar Comprendido, en lo preceptuado según el Artículo 92 inciso
 del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente
 autenticada).
 5. RTN y Documentos de Identidad del Operador (Persona Natural o Jurídica) debidamente autenticada
-6.
+
 Declaración de Comerciante Individual o Escritura de Constitución de Sociedad debidamente
 registrada y actualizada sobre la composición de las sociedades o integración de las Juntas
 Directivas. (autenticada, o fotocopia integra para su cotejo).
@@ -108,11 +112,11 @@ obtenido la aprobación para distribuir la programación que ofrecerá a sus sus
 indicación de cuáles señales de los canales televisivos son codificadas y cuales descodificadas.
 
 REQUISITOS
+
 REQUISITOS SERVICIO DE TELEVISIÓN POR SUSCRIPCIÓN POR
-MEDIOS INALÁMBRICOS
-V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO PARA CANCELACIONES CTL CP
 1. Solicitud por medio de Apoderado Legal , en base a los artículos No.56, 60 y 61 de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
@@ -121,7 +125,7 @@ Acreditar pago de aviso por:
 Cancelación Total de Licencia: según Resolución Normativa de Tasas y Canon Vigente.
 Cancelación de Permiso: según Resolución Normativa de Tasas y Canon Vigente. (la cancelación
 del permiso lleva implícito la cancelación total de la licencia,)
-4.
+
 Presentar Constancias de que está Solvente Económica y documentalmente emitidas por el
 Departamento de Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo,
 respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión excepto en
@@ -133,7 +137,7 @@ Para la cancelación de cualquier sistema del servicio de Televisión por Suscri
 Inalámbricos, es necesario detallar en la Solicitud lo que se desea cancelar, especificando ya sea si es
 el Permiso que le fue autorizado, o la totalidad de las Licencias, o si es una cancelación parcial. Lo
 anterior para evitar que se le cancelen Licencias no solicitadas.
-6.
+
 En la cancelación del Permiso debe informar que operador va a continuar brindando el servicio a los
 usuarios/suscriptores, también debe presentar el aviso por el cual informó a los usuarios/suscriptores
 que el ya no iba a continuar prestándoles el servicio.
@@ -153,13 +157,12 @@ Nomenclatura
 - [Forma 910](https://cms.conatel.gob.hn/assets/cd80bf38-949b-4611-86ef-402460acb7c6)
 - [Forma 930](https://cms.conatel.gob.hn/assets/15068f09-28b4-4469-b840-e681132524a5)
 - [Instructivo 101](https://cms.conatel.gob.hn/assets/c925e915-fae2-4739-92e3-59db81c43eb5)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/b1d614ac-2fd9-46c2-b608-75df81c27579)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/b1d614ac-2fd9-46c2-b608-75df81c27579)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

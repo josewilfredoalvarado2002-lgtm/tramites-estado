@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "RTN"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/requisitos-solicitud-de-enlace-por-duplicidad-persona-natural/"
 documentos:
   - "https://www.sar.gob.hn/download/requisitos-solicitud-de-enlace-por-duplicidad-persona-natural/?wpdmdl=24191"
 actualizado_sitio: "noviembre 3, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "00de39f42aaa4f60ef2f201b6ae9a9fbc29e87916e9e6fdf7399f7c8bf47e116"
+extraido: 2026-11-14T00:15
+huella: "980e6036ddaca64494f0c82aa217109d7cab1de4b7597cc17a603413c0a45143"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | noviembre 3, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS SOLICITUD DE ENLACE POR
 DUPLICIDAD PERSONA NATURAL
@@ -47,7 +51,6 @@ estado Alta o Activo, este trámite se recibirá por medio de Oficina Virtual o 
 Ventanillas de la Coordinación Recepción y Notificación. Con la realización de este trámite el
 Obligado Tributario obtendrá: nuevo RTN por cambio o error de número.
 
-REQUISITOS:
 1. Presentar un escrito1 de solicitud que debe contener lo siguiente:
 - Nombre del trámite o petición que se formula: Se solicita enlace del RTN por
 duplicidad en el número y/o tipo de identificación.
@@ -117,7 +120,7 @@ Formato de Muestra
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/requisitos-solicitud-de-enlace-por-duplicidad-persona-natural/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -15,7 +15,7 @@ dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T22:08
 huella: "c22962f892062aad23cf8d2e11a3c5be7d9a8118c9909bb941cdede2421709f8"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # ZONAS LIBRE (ZOLI) ZONA LIBRE TURÍSTICA DE LAS ISLAS DE LA BAHÍA (ZOLITUR) ZONA LIBRE TURÍSTICA Y LEY DE INCENTIVOS AL TURISMO (LIT)

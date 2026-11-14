@@ -7,15 +7,17 @@ aliases:
   - "Registro Público de Empresas del Sector Eléctrico"
 institucion: "Comisión Reguladora de Energía Eléctrica"
 categoria: "No consta en el sitio"
-calidad: "sin_requisitos"
+calidad: "completo"
+para_que: "FORMULARIO DE INSCRIPCIÓN Y ACTUALIZACIÓN DE REGISTRO PÚBLICO PARA EMPRESAS GENERADORAS DEL SECTOR ELÉCTRICO Con el fin de iniciar el proceso de inscripción en el Registro Público de empresas del sector eléctrico que maneja la Comisión Reguladora de Energía Eléctrica (CREE), la Empresa Generadora deberá presentar el Formulario de Inscripción para Empresa Generadora y sus anexos, junto con la docum"
+tiene_requisitos: true
 url_ficha: "https://www.cree.gob.hn/registro-publico-de-empresas-del-sector-electrico/"
 documentos:
   - "https://www.cree.gob.hn/wp-content/uploads/2019/02/Formulario-de-Inscripción-y-Actualización-para-Empresa-Generadora-2026.docx"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "cree.gob.hn"
 verificacion_dominio: "verificado (GI)"
-extraido: 2026-11-13T22:11
-huella: "d120339c5443202b857f5ecda450e7d0b6473a6107ddec5be79a7a4f01fb6e03"
+extraido: 2026-11-14T00:38
+huella: "5d3892ac77e6a96f405f0167875f5ca068b7d371280a789c0ff0451bddcf42d7"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,91 +32,41 @@ estado_sitio: "Vigente"
 | Institución | Comisión Reguladora de Energía Eléctrica |
 | Categoría | No consta en el sitio |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | completo |
 
-## Contenido
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Empresas Generadoras
-Generación: En los términos de la Ley, es la actividad regulada que se basa exclusivamente en la producción de electricidad mediante el aprovechamiento y transformación de la energía de diversas clases de fuentes.
-Según el Artículo 5 de la Ley, las Empresas Generadoras deberán inscribirse en el Registro Público de Empresas del Sector Eléctrico que llevará la Comisión Reguladora de Energía Eléctrica (CREE), suministrando toda la información que se les pida en el formulario de inscripción. Cada vez que se produzcan cambios en las características de las instalaciones o de su operación, las empresas deberán notificar a la Comisión Reguladora de Energía Eléctrica (CREE), para los fines de la actualización de su inscripción en el registro antes referido.
-DESCARGAR FORMULARIO DE INSCRIPCIÓN Y ACTUALIZACIÓN PARA EMPRESA GENERADORA
-Empresas Distribuidoras del Sistema Interconectado Nacional
-Distribución: En los términos de la Ley, es la actividad regulada que se basa exclusivamente en el transporte de la energía desde la red eléctrica de alta tensión hasta las instalaciones de los consumidores finales; las redes de distribución están formadas por instalaciones de tensión inferior a sesenta mil voltios más los transformadores y equipos asociados para conectarlas a la red de transmisión.
-Las Empresas Distribuidoras además de inscribirse en el Registro Público de Empresas del Sector Eléctrico, deberán solicitar y obtener de la Comisión Reguladora de Energía Eléctrica (CREE), una licencia de operación para el servicio público de electricidad.
-Empresas Distribuidoras de Sistemas Aislados
-Distribución: En los términos de la Ley, es la actividad regulada que se basa exclusivamente en el transporte de la energía desde la red eléctrica de alta tensión hasta las instalaciones de los consumidores finales; las redes de distribución están formadas por instalaciones de tensión inferior a sesenta mil voltios más los transformadores y equipos asociados para conectarlas a la red de transmisión.
-Las Empresas Distribuidoras además de inscribirse en el Registro Público de Empresas del Sector Eléctrico, deberán solicitar y obtener de la Comisión Reguladora de Energía Eléctrica (CREE), una licencia de operación para el servicio público de electricidad.
-Empresas Transmisoras
-Transmisión: En los términos de la Ley, es la actividad regulada que se basa exclusivamente en el transporte de la energía a través de la red eléctrica de alta tensión; se entenderá por alta tensión aquella que es igual o superior a sesenta mil voltios; la red de transmisión liga a centrales generadoras, empresas distribuidoras y a grandes consumidores.
-Las Empresas Transmisoras además de inscribirse en el Registro Público de Empresas del Sector Eléctrico, deberán solicitar y obtener de la Comisión Reguladora de Energía Eléctrica (CREE), una licencia de operación para el servicio público de electricidad.
-Ingreso a Documentos de Registro Público
+## Requisitos (según el documento oficial)
 
-## Documento: DESCARGAR FORMULARIO DE INSCRIPCIÓN Y ACTUALIZACIÓN PARA EMPRESA GENERADORA
-
-FORMULARIO DE INSCRIPCIÓN Y ACTUALIZACIÓN DE REGISTRO PÚBLICO PARA EMPRESAS GENERADORAS DEL SECTOR ELÉCTRICO
-Con el fin de iniciar el proceso de inscripción en el Registro Público de empresas del sector eléctrico que maneja la Comisión Reguladora de Energía Eléctrica (CREE), la Empresa Generadora deberá presentar el Formulario de Inscripción para Empresa Generadora y sus anexos, junto con la documentación requerida por la CREE. Adicionalmente, deberá notificar y actualizar su información cada vez que se produzcan cambios en esta.
-Toda copia presentada deberá estar debidamente autenticada.
-Todo documento proveniente del extranjero deberá venir legalizado para que surta efecto en el país. En caso de que algún documento esté en idioma diferente al español, deberá presentarse conjuntamente una traducción con aprobación oficial emitida por la Secretaría de Relaciones Exteriores.
-DOCUMENTACIÓN GENERAL
-1
-Documento Nacional de Identificación (DNI) o pasaporte del representante legal de la sociedad mercantil.
-☐
-2
-Poder de Administración del representante legal inscrito en el Registro Mercantil.
-☐
-3
-Carné de colegiación del apoderado legal.
-☐
-4
-Documento de representación del apoderado legal.
-☐
-5
-Registro de constitución de la sociedad mercantil o demás documentos que acrediten la autorización para ejercer actos de comercio en el país.
-☐
-6
-Registro Tributario Nacional (RTN) de la sociedad mercantil.
-☐
-7
-Distribución accionaria de la sociedad mercantil.
-☐
-8
-Constancia de participación en el capital social, extendida por la empresa del sector eléctrico con la cual tiene relación directa o indirecta (si aplica).
-☐
-9
-Recibo de pago (TGR-1) por la cantidad de L.200.00 por la emisión del documento de inscripción https://tgr1.sefin.gob.hn/tgr1/tgr
-☐
-
-DOCUMENTACIÓN ESPECÍFICA
 10
 Documento de concesión de derechos de aprovechamiento de aguas (si aplica) de cada central de generación propiedad de la sociedad mercantil publicado en el Diario Oficial La Gaceta.
-☐
+
 11
 Licencia ambiental o en su defecto licencia operativa de cada central de generación propiedad de la sociedad mercantil.
-☐
+
 12
 Contrato de operación (si aplica) de cada central de generación propiedad de la sociedad mercantil publicado en el Diario Oficial La Gaceta.
-☐
+
 13
 Contrato de Acceso, Conexión y Uso a la red de transmisión o distribución, o en su defecto dictamen técnico que demuestre la factibilidad de la conexión emitido por el ente competente, para cada central de generación propiedad de la sociedad mercantil.
-☐
+
 14
 Copia de los contratos suscritos con Agentes del MEN incluidas las adendas emitidas, en los cuales la Empresa Generadora sea la parte vendedora. Los documentos deben permitir corroborar la información suministrada en el Anexo II (Contratos con Agentes del MEN).
-☐
+
 15
 Diagrama unifilar actualizado de cada central que incluya como mínimo la información nominal de las unidades de generación, equipos de transformación, servicios auxiliares o cargas y los equipos de medición comercial.
-☐
+
 16
 Fotografías de las placas de cada una de las unidades de generación declaradas en el formulario debidamente etiquetadas.
-☐
+
 17
 Certificación de inicio de operación comercial una vez emitida.
-☐
+
 18
 Diagrama de calor o vapor con su simbología respectiva (en caso de que la central de generación cuente con equipos de cogeneración).
-☐
+
 19
 Diagrama simple de energía eléctrica y calor o vapor (en caso de que la central de generación cuente con equipos de cogeneración).
-☐
 
 FORMULARIO DE INSCRIPCIÓN PARA EMPRESA GENERADORA
 Instrucciones: La información solicitada en los numerales 2.1. Distribución del capital social y 2.2. Participación en otras empresas del sector eléctrico, deberá ser completada para cada socio y empresa del sector eléctrico según lo requerido. Duplique los campos las veces que necesite.
@@ -652,6 +604,59 @@ Consciente de los efectos y responsabilidades legales que conlleva, firmo la pre
 
 Nombre completo, firma y sello del representante legal
 
+## Contenido
+
+Empresas Generadoras
+Generación: En los términos de la Ley, es la actividad regulada que se basa exclusivamente en la producción de electricidad mediante el aprovechamiento y transformación de la energía de diversas clases de fuentes.
+Según el Artículo 5 de la Ley, las Empresas Generadoras deberán inscribirse en el Registro Público de Empresas del Sector Eléctrico que llevará la Comisión Reguladora de Energía Eléctrica (CREE), suministrando toda la información que se les pida en el formulario de inscripción. Cada vez que se produzcan cambios en las características de las instalaciones o de su operación, las empresas deberán notificar a la Comisión Reguladora de Energía Eléctrica (CREE), para los fines de la actualización de su inscripción en el registro antes referido.
+DESCARGAR FORMULARIO DE INSCRIPCIÓN Y ACTUALIZACIÓN PARA EMPRESA GENERADORA
+Empresas Distribuidoras del Sistema Interconectado Nacional
+Distribución: En los términos de la Ley, es la actividad regulada que se basa exclusivamente en el transporte de la energía desde la red eléctrica de alta tensión hasta las instalaciones de los consumidores finales; las redes de distribución están formadas por instalaciones de tensión inferior a sesenta mil voltios más los transformadores y equipos asociados para conectarlas a la red de transmisión.
+Las Empresas Distribuidoras además de inscribirse en el Registro Público de Empresas del Sector Eléctrico, deberán solicitar y obtener de la Comisión Reguladora de Energía Eléctrica (CREE), una licencia de operación para el servicio público de electricidad.
+Empresas Distribuidoras de Sistemas Aislados
+Distribución: En los términos de la Ley, es la actividad regulada que se basa exclusivamente en el transporte de la energía desde la red eléctrica de alta tensión hasta las instalaciones de los consumidores finales; las redes de distribución están formadas por instalaciones de tensión inferior a sesenta mil voltios más los transformadores y equipos asociados para conectarlas a la red de transmisión.
+Las Empresas Distribuidoras además de inscribirse en el Registro Público de Empresas del Sector Eléctrico, deberán solicitar y obtener de la Comisión Reguladora de Energía Eléctrica (CREE), una licencia de operación para el servicio público de electricidad.
+Empresas Transmisoras
+Transmisión: En los términos de la Ley, es la actividad regulada que se basa exclusivamente en el transporte de la energía a través de la red eléctrica de alta tensión; se entenderá por alta tensión aquella que es igual o superior a sesenta mil voltios; la red de transmisión liga a centrales generadoras, empresas distribuidoras y a grandes consumidores.
+Las Empresas Transmisoras además de inscribirse en el Registro Público de Empresas del Sector Eléctrico, deberán solicitar y obtener de la Comisión Reguladora de Energía Eléctrica (CREE), una licencia de operación para el servicio público de electricidad.
+Ingreso a Documentos de Registro Público
+
+## Otro texto del documento
+
+FORMULARIO DE INSCRIPCIÓN Y ACTUALIZACIÓN DE REGISTRO PÚBLICO PARA EMPRESAS GENERADORAS DEL SECTOR ELÉCTRICO
+Con el fin de iniciar el proceso de inscripción en el Registro Público de empresas del sector eléctrico que maneja la Comisión Reguladora de Energía Eléctrica (CREE), la Empresa Generadora deberá presentar el Formulario de Inscripción para Empresa Generadora y sus anexos, junto con la documentación requerida por la CREE. Adicionalmente, deberá notificar y actualizar su información cada vez que se produzcan cambios en esta.
+Toda copia presentada deberá estar debidamente autenticada.
+Todo documento proveniente del extranjero deberá venir legalizado para que surta efecto en el país. En caso de que algún documento esté en idioma diferente al español, deberá presentarse conjuntamente una traducción con aprobación oficial emitida por la Secretaría de Relaciones Exteriores.
+DOCUMENTACIÓN GENERAL
+1
+Documento Nacional de Identificación (DNI) o pasaporte del representante legal de la sociedad mercantil.
+
+2
+Poder de Administración del representante legal inscrito en el Registro Mercantil.
+
+3
+Carné de colegiación del apoderado legal.
+
+4
+Documento de representación del apoderado legal.
+
+5
+Registro de constitución de la sociedad mercantil o demás documentos que acrediten la autorización para ejercer actos de comercio en el país.
+
+6
+Registro Tributario Nacional (RTN) de la sociedad mercantil.
+
+7
+Distribución accionaria de la sociedad mercantil.
+
+8
+Constancia de participación en el capital social, extendida por la empresa del sector eléctrico con la cual tiene relación directa o indirecta (si aplica).
+
+9
+Recibo de pago (TGR-1) por la cantidad de L.200.00 por la emisión del documento de inscripción https://tgr1.sefin.gob.hn/tgr1/tgr
+
+DOCUMENTACIÓN ESPECÍFICA
+
 ## Documentos
 
 - [DESCARGAR FORMULARIO DE INSCRIPCIÓN Y ACTUALIZACIÓN PARA EMPRESA GENERADORA](https://www.cree.gob.hn/wp-content/uploads/2019/02/Formulario-de-Inscripción-y-Actualización-para-Empresa-Generadora-2026.docx)
@@ -659,7 +664,7 @@ Nombre completo, firma y sello del representante legal
 ## Fuente
 
 - Ficha: https://www.cree.gob.hn/registro-publico-de-empresas-del-sector-electrico/
-- Fecha y hora de extracción: 2026-11-13 22:11 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:38 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

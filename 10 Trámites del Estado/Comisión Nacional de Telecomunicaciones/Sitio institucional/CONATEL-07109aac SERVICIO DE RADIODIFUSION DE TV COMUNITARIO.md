@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224"
@@ -22,8 +24,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "1f6e098e1cddf9302dfc86548710ebcb5524a7b4b1cdc207f119b35226e443da"
+extraido: 2026-11-14T00:37
+huella: "33f3bd31777fc6b4f381ea5c29ae1982a45215614d403a18819f0be19c99579c"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -40,14 +42,14 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
-RADIODIFUSIÓN DE TELEVISIÓN CON FINES COMUNITARIOS
-V.3
-Página 1 de 2
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 Nota: El solicitante no debe ser titular de ningún Servicio de Difusión, (Radiodifusión Sonora o de Radiodifusión de Televisión)
 ITEM REQUISITO NS RN MD
 1.
@@ -72,7 +74,7 @@ Nota de la Asociación de Medios de Comunicación Comunitarios de Honduras, (AMC
 legalizada, que manifieste que el solicitante se encuentra en operación y pertenece a esta asociación, lo
 anterior no es vinculante para la emisión de los Títulos Habilitantes solicitados. ( Cuando le aplique, si no,
 explicarlo en el escrito)
-4.
+
 Declaración jurada de no estar comprendido dentro de las causales establecidas en los incisos e), f), g), h),
 i) y j) del Artículo 92 del Reglamento General de la Ley Marco del Sector de Telecomunicaciones.
 (debidamente autenticada)
@@ -105,13 +107,11 @@ ITEM REQUISITO PARA CANCELACIONES CPL
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
 
 REQUISITOS
-RADIODIFUSIÓN DE TELEVISIÓN CON FINES COMUNITARIOS
-V.3
-Página 2 de 2
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 3. Acreditar pago de aviso según Resolución Normativa de Tasas y Canon Vigente.
-4.
+
 Presentar Constancia de Solvencia Económica emitida por el Departamento de Administración de Cartera y Cobranzas,
 cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión Excepto en los casos en los cuales el operador
 adeuda el canon radioeléctrico del año en curso.
@@ -134,13 +134,12 @@ Nomenclatura
 - [Instructivo 201](https://cms.conatel.gob.hn/assets/ff6f26fd-96e5-4d70-8b7f-7e35be576770)
 - [Instructivo 202](https://cms.conatel.gob.hn/assets/6322ece6-2f31-472f-a85a-af927b468724)
 - [Instructivo 204](https://cms.conatel.gob.hn/assets/be68ae70-6f50-4f85-970a-c379d1b6a7a6)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/8fd5634e-8eca-4dd8-9064-12ee1cfd5ce8)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/8fd5634e-8eca-4dd8-9064-12ee1cfd5ce8)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/Consejo Nacional Supervisor de Cooperativas|Consejo Nacional Supervisor de Cooperativas]]"
 categoria: "No consta en el sitio"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://consucoop.hn/requisitos/"
 documentos:
-  - "https://consucoop.hn/download/12494/?tmstv=1794630135"
+  - "https://consucoop.hn/download/12494/?tmstv=1794638671"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "consucoop.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DI)"
-extraido: 2026-11-13T22:23
-huella: "1083014585ca13e7b5ce37b97806fa97e8d46f5fcb2c845ff136f9e3706d796e"
+extraido: 2026-11-14T00:45
+huella: "d2e332f06a15657e89d90d72ffb3994951ace63948c21e1fcd690aad34c27c0c"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 Requisitos
 1.Solicitud por Escrito dirigida al Registrador Nacional de Cooperativas.
@@ -50,10 +54,11 @@ de la Normativa para la Contratación y Registro de Auditores Externos:
 5.3 Detalle del personal técnico encargado de dirigir y ejecutar auditorias o responsables
 de suscribir informes, administrativo y de apoyo logístico, conforme al anexo No. 2 de
 la Normativa para la Contratación y RAEC.
-www.consucoop.hn
+
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
+
 REQUISITOS PARA ACTUALIZACIÓN DE REGISTRO DE
 FIRMAS AUDITORAS EXTERNAS DE COOPERATIVAS (RAEC)
 5.4 Detallar cada cliente, de los últimos dos (2) años, desglosado por sector, conforme al formato
@@ -66,7 +71,7 @@ Contratación y RAEC (Autenticada).
 corresponsal o firma miembro.
 9. Detallar que personal de la Firma labora a medio tiempo o tiempo completo.
 10.Póliza actualizable en la fecha y acorde a la categoría alcanzada en la reclasificación.
-www.consucoop.hn
+
 Nota: para actualización de categoría, son los mismos requisitos para presentar en la
 inscripción al RAEC, exceptuando el ítem: 3, 4, 7, 8.1, 8.5, 8.6, 11, 12 y 14 si acorde a lo
 presentado en la inscripción, estos requisitos se mantienen igual sin ningún cambio o
@@ -80,12 +85,12 @@ CONSUCOOP
 
 ## Documentos
 
-- [Requisitos para Actualización de Inscripción RAEC](https://consucoop.hn/download/12494/?tmstv=1794630135)
+- [Requisitos para Actualización de Inscripción RAEC](https://consucoop.hn/download/12494/?tmstv=1794638671)
 
 ## Fuente
 
 - Ficha: https://consucoop.hn/requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

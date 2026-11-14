@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "RTN"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/requisitos-cambio-de-representante-legal-y-o-responsables-subsidiarios/"
 documentos:
   - "https://www.sar.gob.hn/download/requisitos-cambio-de-representante-legal-y-o-responsables-subsidiarios/?wpdmdl=24193"
 actualizado_sitio: "noviembre 3, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "4edb5d6f3599e504825041c7fe3dc9bc0f8cfd3f84bf85f6f73adb788de91313"
+extraido: 2026-11-14T00:15
+huella: "3009866ee918b2ef234999fc1328cd96d0c5f75590f603e93000e6d5d195bbf9"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | noviembre 3, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS CAMBIO DE
 REPRESENTANTE LEGAL Y/O
@@ -42,7 +46,6 @@ Departamento de Asistencia al Cumplimiento Nacional0
 
 CAMBIO DE REPRESENTANTE LEGAL Y/O RESPONSABLES SUBSIDARIOS
 
-REQUISITOS:
 1. Documento Nacional de Identificación del nuevo Representante Legal para hondureños
 (Original1);
 2. Pasaporte o Carné de Residente vigente del nuevo Representante Legal para extranjeros
@@ -76,7 +79,7 @@ Identificación del representante legal.
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/requisitos-cambio-de-representante-legal-y-o-responsables-subsidiarios/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

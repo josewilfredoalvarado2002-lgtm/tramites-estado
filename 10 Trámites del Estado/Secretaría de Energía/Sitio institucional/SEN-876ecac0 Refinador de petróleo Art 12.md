@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/10/Refinador-de-Petroleo_Art12.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "87a2b90e929865cae388a853b6711c5886d4f1a0251c1c0d81a46c7f4afed703"
+extraido: 2026-11-14T00:44
+huella: "84ee8c24bc725ca976be6374004eee2bd0eed419ddff5946b1f36fbe31048be3"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 Permiso de Operación y Comercialización
 bajo la Figura de Refinador de Petróleo.
@@ -64,6 +68,9 @@ TGR con su comprobante de pago en CONCEPTO DE INSPECCIÓN para el Permiso de Ope
 del Establecimiento bajo la Figura de Refinador de Petróleo, de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12199 – Tasas Varias.
+
+## Costo (según el documento)
+
 Monto de acuerdo con la Ubicación física del establecimiento:
 Francisco Morazán L12,000.00
 Islas de la Bahía y la Mosquitia L32,000.00
@@ -73,11 +80,13 @@ TGR con su comprobante de pago en concepto de Permiso de Operación y Comerciali
 Figura de Refinador de Petróleo de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12209 – Otras Licencias.
+
 Monto: L10,000.00
 17. En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019. Presentar Recibo
 TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
+
 Monto: L 200.00
 18. Cualquier otro requisito solicitado por la SEN.
 19. Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden
@@ -93,7 +102,7 @@ consten en el certificado de autenticidad deben presentarse con la media firma y
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

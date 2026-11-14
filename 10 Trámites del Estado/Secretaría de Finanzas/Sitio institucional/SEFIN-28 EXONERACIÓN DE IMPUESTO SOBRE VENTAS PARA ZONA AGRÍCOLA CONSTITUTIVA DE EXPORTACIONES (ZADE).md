@@ -15,7 +15,7 @@ dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T22:08
 huella: "3d3a3064d2b5042a0ac12fa6bbd3e4bf1ed04388e97cda85d9a82c12f18b1141"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # EXONERACIÓN DE IMPUESTO SOBRE VENTAS PARA ZONA AGRÍCOLA CONSTITUTIVA DE EXPORTACIONES (ZADE)

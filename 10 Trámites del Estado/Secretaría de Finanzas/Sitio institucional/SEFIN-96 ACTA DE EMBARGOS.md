@@ -7,14 +7,16 @@ aliases:
   - "ACTA DE EMBARGOS"
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Tesoreria"
-calidad: "completo"
+calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "ecd6dbfbc8d9b8293e65ba03aa71fe30387beff5b181879bae614f6b53cf0b37"
+extraido: 2026-11-14T00:35
+huella: "f2382f5c8451c5ed97ef4382dcb10cc0aabf41c805fe04074a00dd100e97b50e"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,11 +31,15 @@ estado_sitio: "Vigente"
 | Institución | Secretaría de Finanzas |
 | Categoría | Tesoreria |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | completo |
+| Calidad de la extracción | solo requisitos |
 
 ## Descripcion
 
 ATENCIÓN A ORDENES JUDICIALES
+
+## Requisitos
+
+1. FOTOCOPIA DE IDENTIDAD DEL DEMANDADO Y DEMANDANTE 2. VAUCHER DE PAGO QUE TIENE QUE SER DEL A?O VIGENTE
 
 ## Tasa_derechos
 
@@ -43,14 +49,10 @@ No requiere realizar ningún pago.
 
 SE ENVIA MEDIANTE UN OFICIO UN LISTADO DE LOS DOCUMENTOS RECIBIDOS A EL DEPTO. DE AUDITORIA INTERNA.
 
-## Requisitos
-
-1. FOTOCOPIA DE IDENTIDAD DEL DEMANDADO Y DEMANDANTE 2. VAUCHER DE PAGO QUE TIENE QUE SER DEL A?O VIGENTE
-
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

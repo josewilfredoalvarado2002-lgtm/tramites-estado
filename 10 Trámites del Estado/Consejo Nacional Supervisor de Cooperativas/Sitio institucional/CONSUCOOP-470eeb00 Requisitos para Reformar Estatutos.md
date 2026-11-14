@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/Consejo Nacional Supervisor de Cooperativas|Consejo Nacional Supervisor de Cooperativas]]"
 categoria: "No consta en el sitio"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://consucoop.hn/requisitos/"
 documentos:
-  - "https://consucoop.hn/download/12470/?tmstv=1794630135"
+  - "https://consucoop.hn/download/12470/?tmstv=1794638671"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "consucoop.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DI)"
-extraido: 2026-11-13T22:23
-huella: "ece9586013048782ace66d0f9cdfb0691a6984bc53068363794f0e886dfec9d7"
+extraido: 2026-11-14T00:45
+huella: "e6965a4d30bb312b958eb0d979391da29e118b61326cb269d2acd75789e0eb59"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 Requisitos
 1. Solicitud firmada por el Representante Legal o Apoderado Legal (en el último caso se
@@ -48,22 +52,23 @@ de su Reglamento.
 5. Pago en CONSUCOOP de L.1,500.00 y 6 timbres cooperativos de L50.00 c/u o
 pueden realizar deposito en cuenta de Banco Cuscatlán No. 11-105-0000276 a nombre
 de CONSUCOOP.
-www.consucoop.hn
+
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
+
 REQUISITOS PARA REFORMAR ESTATUTOS
 Cualquier consulta o duda pueden abocarse al correo electrónico registro@consucoop.hn; Teléfono 2235-9281
 ext. 105 y mensajes al WhatsApp 31622364.
 
 ## Documentos
 
-- [Requisitos para Reformar Estatutos](https://consucoop.hn/download/12470/?tmstv=1794630135)
+- [Requisitos para Reformar Estatutos](https://consucoop.hn/download/12470/?tmstv=1794638671)
 
 ## Fuente
 
 - Ficha: https://consucoop.hn/requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

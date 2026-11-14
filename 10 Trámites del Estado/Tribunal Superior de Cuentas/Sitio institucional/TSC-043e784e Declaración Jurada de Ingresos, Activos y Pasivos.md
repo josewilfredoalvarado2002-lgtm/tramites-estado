@@ -7,14 +7,16 @@ aliases:
   - "Declaración Jurada de Ingresos, Activos y Pasivos"
 institucion: "Tribunal Superior de Cuentas"
 categoria: "Servicios prestados"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "Obligación de todas las personas investidas de funciones públicas, permanentes o transitorias, remuneradas, que desempeñen o hayan desempeñado cargo de elección popular y elección de segundo grado, por nombramiento o contrato, en cualquiera de los poderes del Estado, o en entidades de cualquier naturaleza que reciban recursos financieros del Estado."
+tiene_requisitos: true
 url_ficha: "https://www.tsc.gob.hn/index.php/servicios-prestados/"
 documentos: []
 actualizado_sitio: "2026-06-29"
 dominio_verificado: "tsc.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T21:32
-huella: "389f96a5b39f22c57ffe4300b463e3c62ec01e6736e20974e8bb18937ae94a2f"
+extraido: 2026-11-14T00:45
+huella: "24a614e7d72252b5bf822eb9d9de546bccdac2c7bff8e34d701750a00cd4c4c6"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Tribunal Superior de Cuentas |
 | Categoría | Servicios prestados |
 | Última actualización que muestra el sitio | 2026-06-29 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
 ## Contenido
 
@@ -51,7 +53,7 @@ It is a long established fact that a reader will be distracted by the readable c
 ## Fuente
 
 - Ficha: https://www.tsc.gob.hn/index.php/servicios-prestados/
-- Fecha y hora de extracción: 2026-11-13 21:32 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

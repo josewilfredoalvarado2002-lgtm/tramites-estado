@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "RTN"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/requisitos-cambio-de-socios-o-accionistas/"
 documentos:
   - "https://www.sar.gob.hn/download/requisitos-cambio-de-socios-o-accionistas/?wpdmdl=24189"
 actualizado_sitio: "noviembre 3, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "a197ae074b741abb977d0bb1892c4e867d39c490e94d9fea9dfeba733b661dec"
+extraido: 2026-11-14T00:15
+huella: "24ffbe08f0d58aad99250b6de66b9910624a2479f53e02b0d0fb17032fb156bf"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | noviembre 3, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS CAMBIO DE SOCIOS O
 ACCIONISTAS
@@ -71,7 +75,7 @@ pendiente o desactualizada.
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/requisitos-cambio-de-socios-o-accionistas/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

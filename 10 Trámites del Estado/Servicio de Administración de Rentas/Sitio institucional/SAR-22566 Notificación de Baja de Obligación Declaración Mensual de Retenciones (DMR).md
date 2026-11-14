@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Baja de obligaciones"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/notificacion-de-baja-de-obligacion-mensual-de-retenciones-2/"
 documentos:
   - "https://www.sar.gob.hn/download/notificacion-de-baja-de-obligacion-mensual-de-retenciones-2/?wpdmdl=22566"
 actualizado_sitio: "junio 9, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "349ca7d130b34efc82de65a9012975da35a0addf4631cc011003c5cee34cdc7d"
+extraido: 2026-11-14T00:15
+huella: "8944d4f8648eebdd0d5f25a62e18c97d16745e19caef85faa55d5372ca81a382"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | junio 9, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS NOTIFICACIÓN BAJA DE
 OBLIGACIÓN DECLARACIÓN MENSUAL
@@ -73,7 +77,7 @@ indicando si posee las siguientes facultades:
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/notificacion-de-baja-de-obligacion-mensual-de-retenciones-2/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

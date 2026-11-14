@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Gobernación, Justicia y Descentralización/Secretaría de Gobernación, Justicia y Descentralización|Secretaría de Gobernación, Justicia y Descentralización]]"
 categoria: "Dirección Régimen Departamental"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sgjd.gob.hn/tramites/tramites-direccion-regimen-departamental/e17557e4a2ee65746179fb4a0b0c5e0990a3e59230ddabfdb23952054c552e1d"
 documentos:
   - "https://www.sgjd.gob.hn/tramites/tramites-direccion-regimen-departamental/e17557e4a2ee65746179fb4a0b0c5e0990a3e59230ddabfdb23952054c552e1d/descargar"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sgjd.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:11
-huella: "150371a6579ab9f5108942fb2b0f2fd7dfb218dc3f8cad3e229d8ee58fc09b98"
+extraido: 2026-11-14T00:38
+huella: "35e267ea327df21c9c5b64d83c2f44e93a5efbd162a24957fb1663d689bf5627"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,9 +34,10 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-DIRECCIÓN DE RÉGIMEN DEPARTAMENTAL
+## Requisitos (según el documento oficial)
+
 REQUISITOS PARA LA AUTORIZACIÓN DE CLASIFICACIÓN DE CONTENIDO AUDIOVISUAL
 
 Las empresas y personas jurídicas interesadas en solicitar la clasificación de
@@ -121,11 +124,17 @@ Dirección de Régimen Departamental.
 La documentación deberá mantenerse actualizada en el expediente de la empresa
 para facilitar la gestión de futuras solicitudes.
 
+## Dónde se presenta (según el documento)
+
 HORARIO DE ATENCIÓN
 Lunes a viernes
 9:00 a. m. a 5:00 p. m.
 Teléfono institucional
 2242-8227
+
+## Otro texto del documento
+
+DIRECCIÓN DE RÉGIMEN DEPARTAMENTAL
 
 ## Documentos
 
@@ -134,7 +143,7 @@ Teléfono institucional
 ## Fuente
 
 - Ficha: https://www.sgjd.gob.hn/tramites/tramites-direccion-regimen-departamental/e17557e4a2ee65746179fb4a0b0c5e0990a3e59230ddabfdb23952054c552e1d
-- Fecha y hora de extracción: 2026-11-13 22:11 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:38 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "RTN"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/requisito-actualizacion-de-domicilio-tributario/"
 documentos:
   - "https://www.sar.gob.hn/download/requisito-actualizacion-de-domicilio-tributario/?wpdmdl=22245"
 actualizado_sitio: "junio 8, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "ce15ab361b2ecebf97ae5d30e2e4056a4ef36c3f5a56c6d864dcb45ade818a4f"
+extraido: 2026-11-14T00:15
+huella: "f160c594b2de9ab0b648bfb4d9d0dc2c585e4a57bf0fba2cf84dd63213d1be45"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | junio 8, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE ACTUALIZACIÓN DE
 DOMICILIO TRIBUTARIO
@@ -42,42 +46,19 @@ Departamento de Asistencia al Cumplimiento Nacional
 REQUISITOS ACTUALIZACIÓN DE DOMICILIO TRIBUTARIO
 PERSONA NATURAL Y COMERCIANTE INDIVIDUAL
 1. Documento de Identificación:
-- Para hondureños: Documento Nacional de Identificación (DNI).
-- Para extranjeros: Pasaporte o Carné de Residente vigente.
-2. Documento que acredite dirección exacta (original), por ejemplo:
-- Recibo de un Servicio Público.
-- Contrato de Alquiler o Arrendamiento.
-- Constancia de la Vecindad.
-- Recibo de suscripción de Servicios Privados (Internet, cable, telefonía)
 
-Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se
-debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de
-Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros,
-indicando si posee las siguientes facultades:
-- Facultades para comparecer a realizar el trámite.
-- Facultades para firmar.
-Nota 2: En caso de que la información registrada en el RTN no se encuentre actualizada,
-se le solicitara los requisitos de inscripción para subsanar cualquier información
+- Para extranjeros: Pasaporte o Carné de Residente vigente.
+
+- Constancia de la Vecindad.
+
 pendiente o desactualizada
 
 REQUISITOS ACTUALIZACIÓN DE DOMICILIO TRIBUTARIO
 PERSONA JURÍDICA
 1. Documento de Identificación del Representante Legal:
-- Para hondureños: Documento Nacional de Identificación (DNI).
-- Para extranjeros: Pasaporte o Carné de Residencia vigente.
-2. Documento que acredite dirección exacta (original), por ejemplo:
-- Recibo de un Servicio Público.
-- Contrato de Alquiler o Arrendamiento.
-- Recibo de suscripción de Servicios Privados (Internet, cable, telefonía)
 
-Nota 1: En caso de ser solicitado por un representante procesal o apoderado legal, se
-debe acompañar poder o carta poder debidamente autenticado, Documento Nacional de
-Identificación (DNI) para hondureños, Pasaporte o carné de residente para extranjeros,
-indicando si posee las siguientes facultades:
-- Facultades para comparecer a realizar el trámite.
-- Facultades para firmar.
-Nota 2: En caso de que la información registrada en el RTN no se encuentre actualizada,
-se le solicitara los requisitos de inscripción para subsanar cualquier información
+- Para extranjeros: Pasaporte o Carné de Residencia vigente.
+
 pendiente o desactualizada.
 
 ## Documentos
@@ -87,7 +68,7 @@ pendiente o desactualizada.
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/requisito-actualizacion-de-domicilio-tributario/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "DGSR-007 Requisitos Práctica de Irradiadores Industriales"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-dgsr/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/04/DGSR-008_-Requisitos-Autorizacion-Practica-Gammagrafia-Industrial.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "3f752d3f9f79c2e2643e67b2645bfb297426bdf26a73df03b2f7e16cda23c9d5"
+extraido: 2026-11-14T00:44
+huella: "0591cf371f6471abc7915adc428f3b2df8fce12b5eb7e8f11bf612a5c7e0f79c"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,22 +34,13 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-008
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
+## Requisitos (según el documento oficial)
 
 REQUISITOS PARA LA SOLICITUD DE AUTORIZACIÓN DE
-LA PRÁCTICA DE GAMMAGRAFÍA INDUSTRIAL
 
-V. 2.0
-
-Página 1 de 4
-
-No. Requisitos Legales y Técnicos ❒ Base Legal
+No. Requisitos Legales y Técnicos  Base Legal
 1. Escrito de Solicitud, presentado a través de un Apoderado
 Legal, cumpliendo con lo siguiente:
 
@@ -75,53 +68,9 @@ fijo y móvil, correo electrónico, número de colegiación.
 Dirección postal exacta y especificar coordenadas según
 mapa de ubicación catastral, teléfonos, e-mail de la
 instalación.
-□ Art 56, 61 y 63 de la Ley de
-Procedimiento Administrativo
-2. Copia de Escritura de Constitución de la Sociedad o
-Comerciante Individual y sus modificaciones
-debidamente inscritas.
-□
-Art. 54 de la Ley de Procedimiento
-Administrativo.
-3. Copia de Registro Tributario Nacional (RTN) a
-nombre de la Sociedad o Comerciante Individual. □ Art. Artículo 61 de la Ley de Procedimiento Administrativo.
-4. Copia del Documento Nacional de Identificación
-(DNI) del representante legal. □
-Art. Artículo 61 de la Ley de
-Procedimiento Administrativo. Art. 11.
-Reglamento de Protección Radiológica
-5. Poder del Representante Legal, debidamente inscrito
-de la empresa solicitante □
-Art. Artículo 61 de la Ley de
-Procedimiento Administrativo. Art. 11.
-Reglamento de Protección Radiológica
-6. Poder del Apoderado Legal, otorgado por el
-Representante Legal. □
-Art. Artículo 61 de la Ley de
-Procedimiento Administrativo. Art. 11.
-Reglamento de Protección Radiológica.
-7. Copia del Carnet Vigente del Apoderado Legal
-emitido por el Colegio de Abogados de Honduras. □ Art. Artículo 61 de la Ley de Procedimiento Administrativo.
-8. Copia del Documento Nacional de Identificación
-(DNI) del personal que esté involucrado en la práctica de
-Gammagrafía Industrial. □
-Art. 5 de la Ley sobre Actividades
-Nucleares y Seguridad Radiológica. Art.
-11. Reglamento de Protección
-Radiológica.
-
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-008
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
+Art 56, 61 y 63 de la Ley de
 
 REQUISITOS PARA LA SOLICITUD DE AUTORIZACIÓN DE
-LA PRÁCTICA DE GAMMAGRAFÍA INDUSTRIAL
-
-V. 2.0
-
-Página 2 de 4
 
 9. Programa de Protección Radiológica (PPR),
 elaborado por un Prestador de Servicios Técnicos en
@@ -130,7 +79,7 @@ los lineamientos de la Guía de Orientaciones para
 Elaboración de un Programa de Protección Radiológica
 (PPR) (Documentos de guías disponible en portal
 web: https://sen.hn/guias-orientativas/).
-□
+
 Art. 14 del Reglamento de Autorización
 para Instalaciones Radiactivas y
 Equipos Generadores de Radiaciones
@@ -143,7 +92,7 @@ autenticada. (Formato disponible en Microsoft Word,
 portal web : https://sen.hn/tramites-dgsr/).
 
 Ver notas Nos. 1 y 2.
-□
+
 Art. 5 de la Ley sobre Actividades
 Nucleares y Seguridad Radiológica. Art.
 11. Reglamento de Protección
@@ -151,10 +100,9 @@ Radiológica.
 11. Declaración Jurada del Representante Legal,
 firmada, sellada y autenticada. (Formato disponible en
 Microsoft Word, portal web:
-https://sen.hn/tramites-dgsr/).
 
 Ver nota No. 2.
-□
+
 Art. 5 de la Ley sobre Actividades
 Nucleares y Seguridad Radiológica. Art.
 11. Reglamento de Protección
@@ -165,26 +113,25 @@ firmada y sellada por el Representante Legal.
 web: https://sen.hn/tramites-dgsr/).
 
 Ver nota No. 2.
-□
+
 Art. 11. Reglamento de Protección
 Radiológica.
 13. Declaración de inventario de fuentes radiactivas y
 aparatos que contengan sustancias radiactivas,
 firmada y sellada por el Representante Legal (Formato
 disponible en Microsoft Word, portal web:
-https://sen.hn/tramites-dgsr/).
-□
+
 Art. 11. Reglamento de Protección
 Radiológica.
 14. Copia de la Licencia Ambiental, o constancia de
 tramite vigente, a nombre de la Sociedad o Comerciante
-Individual. □
+Individual.
 Art. 5. Ley General del Ambiente.
 Art. 24. Reglamento del Sistema
 Nacional de Evaluación de Impacto
 Ambiental.
 15. Copia del permiso de operación vigente, emitido por
-la Alcaldía Municipal de su jurisdicción. □ Art. 11. Reglamento de Protección Radiológica.
+la Alcaldía Municipal de su jurisdicción.  Art. 11. Reglamento de Protección Radiológica.
 16. Admitida la solicitud y habiendo cumplido con los requisitos
 legales y técnicos documentales, la Secretaría mediante
 comunicación oficial requerirá el recibo de pago en concepto
@@ -200,23 +147,12 @@ la Práctica de Gammagrafía Industrial.
 
 Institución: 310 - Secretaría de Energía.
 Rubro: 12199 – Tasas Varias.
-□
+
 Art. Artículo 3 del Acuerdo Ministerial
 No. 002-2019, publicado en el Diario la
 Gaceta el 10 de abril del 2019.
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-008
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
-
 REQUISITOS PARA LA SOLICITUD DE AUTORIZACIÓN DE
-LA PRÁCTICA DE GAMMAGRAFÍA INDUSTRIAL
-
-V. 2.0
-
-Página 3 de 4
 
 Monto se estimará de acuerdo con la ubicación física del
 establecimiento:
@@ -240,57 +176,8 @@ Autorización de la Práctica de Gammagrafía Industrial.
 
 Institución: 310 - Secretaría de Energía.
 Rubro: 12209 – Otras Licencias.
-Monto: L. 20,000.00 más 20%
-adicional por cada equipo en operación que define la
-categoría.
-
-Ver notas Nos.3 y 4.
-□
-Art. 6 del Acuerdo Ministerial No. 002-
-2019, publicado en el Diario la Gaceta
-el 10 de abril de 2019.
-
-18. Emitida favorable la Autorización, habiendo cumplido con
-los requisitos legales y técnicos la Secretaría requerirá el
-recibo de pago en concepto de emisión de Certificación y
-Autorización.
-
-Presentar Recibo TGR con su comprobante de pago en
-concepto de Emisión de Certificación de Resolución, de la
-siguiente forma:
-
-Institución: 310 - Secretaría de Energía.
-Rubro: 12121 – Emisión, Constancias,
-Certificaciones y Otros.
-Monto: L 200.00
-
-Ver nota No.4.
-□
-Disposiciones Generales del
-Presupuesto General de Ingresos y
-Egresos de la Republica Ejercicio
-Fiscal Vigente.
-Notas:
-
-Nota 1: La Secretaría de Energía reconocerá únicamente los servicios técnicos e información generada por las
-personas naturales y/o jurídicas que se incorporen al Registro Nacional de Prestadores de Servicios Técnicos en
-Protección Radiológica, emitido bajo el Acuerdo Ministerial SEN-015-2021.
-
-Nota 2: Con base en el Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Auténtica
-de firmas (documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados.
-
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-008
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
 
 REQUISITOS PARA LA SOLICITUD DE AUTORIZACIÓN DE
-LA PRÁCTICA DE GAMMAGRAFÍA INDUSTRIAL
-
-V. 2.0
-
-Página 4 de 4
 
 Cada una de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y
 sello estampado del notario.
@@ -318,6 +205,85 @@ los términos de referencia, tanto para los requisitos legales como técnicos.
 ● Aunque la Autoridad Reguladora tramitará la solicitud con prontitud, no puede garantizarse que se otorgue
 la Autorización para una fecha determinada.
 
+## Costo (según el documento)
+
+Monto: L. 20,000.00 más 20%
+adicional por cada equipo en operación que define la
+categoría.
+
+Ver notas Nos.3 y 4.
+
+Art. 6 del Acuerdo Ministerial No. 002-
+2019, publicado en el Diario la Gaceta
+el 10 de abril de 2019.
+
+18. Emitida favorable la Autorización, habiendo cumplido con
+los requisitos legales y técnicos la Secretaría requerirá el
+recibo de pago en concepto de emisión de Certificación y
+Autorización.
+
+Presentar Recibo TGR con su comprobante de pago en
+concepto de Emisión de Certificación de Resolución, de la
+siguiente forma:
+
+Institución: 310 - Secretaría de Energía.
+Rubro: 12121 – Emisión, Constancias,
+Certificaciones y Otros.
+
+Monto: L 200.00
+
+Ver nota No.4.
+
+Disposiciones Generales del
+Presupuesto General de Ingresos y
+Egresos de la Republica Ejercicio
+Fiscal Vigente.
+
+## Procedimiento (según el documento)
+
+Procedimiento Administrativo
+2. Copia de Escritura de Constitución de la Sociedad o
+Comerciante Individual y sus modificaciones
+debidamente inscritas.
+
+Art. 54 de la Ley de Procedimiento
+Administrativo.
+3. Copia de Registro Tributario Nacional (RTN) a
+nombre de la Sociedad o Comerciante Individual.  Art. Artículo 61 de la Ley de Procedimiento Administrativo.
+4. Copia del Documento Nacional de Identificación
+(DNI) del representante legal.
+Art. Artículo 61 de la Ley de
+Procedimiento Administrativo. Art. 11.
+Reglamento de Protección Radiológica
+5. Poder del Representante Legal, debidamente inscrito
+de la empresa solicitante
+Art. Artículo 61 de la Ley de
+Procedimiento Administrativo. Art. 11.
+Reglamento de Protección Radiológica
+6. Poder del Apoderado Legal, otorgado por el
+Representante Legal.
+Art. Artículo 61 de la Ley de
+Procedimiento Administrativo. Art. 11.
+Reglamento de Protección Radiológica.
+7. Copia del Carnet Vigente del Apoderado Legal
+emitido por el Colegio de Abogados de Honduras.  Art. Artículo 61 de la Ley de Procedimiento Administrativo.
+8. Copia del Documento Nacional de Identificación
+(DNI) del personal que esté involucrado en la práctica de
+Gammagrafía Industrial.
+Art. 5 de la Ley sobre Actividades
+Nucleares y Seguridad Radiológica. Art.
+11. Reglamento de Protección
+Radiológica.
+
+## Notas (según el documento)
+
+Nota 1: La Secretaría de Energía reconocerá únicamente los servicios técnicos e información generada por las
+personas naturales y/o jurídicas que se incorporen al Registro Nacional de Prestadores de Servicios Técnicos en
+Protección Radiológica, emitido bajo el Acuerdo Ministerial SEN-015-2021.
+
+Nota 2: Con base en el Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Auténtica
+de firmas (documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados.
+
 ## Documentos
 
 - [DGSR 008  Requisitos Autorizacion Practica Gammagrafia Industrial](https://sen.hn/wp-content/uploads/2026/04/DGSR-008_-Requisitos-Autorizacion-Practica-Gammagrafia-Industrial.pdf)
@@ -325,7 +291,7 @@ la Autorización para una fecha determinada.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-dgsr/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

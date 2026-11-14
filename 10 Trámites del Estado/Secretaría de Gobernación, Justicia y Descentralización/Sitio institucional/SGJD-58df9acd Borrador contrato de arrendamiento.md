@@ -16,7 +16,7 @@ dominio_verificado: "sgjd.gob.hn"
 verificacion_dominio: "verificado (GDI)"
 extraido: 2026-11-13T22:11
 huella: "d852488bfd07a69a9ea940d0e795d1769c15a320fa21dc7720dd217e294c55da"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # Borrador contrato de arrendamiento

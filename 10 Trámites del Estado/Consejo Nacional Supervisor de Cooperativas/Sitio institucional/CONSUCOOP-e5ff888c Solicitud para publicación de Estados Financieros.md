@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/Consejo Nacional Supervisor de Cooperativas|Consejo Nacional Supervisor de Cooperativas]]"
 categoria: "No consta en el sitio"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://consucoop.hn/requisitos/"
 documentos:
-  - "https://consucoop.hn/download/12479/?tmstv=1794630135"
+  - "https://consucoop.hn/download/12479/?tmstv=1794638671"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "consucoop.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DI)"
-extraido: 2026-11-13T22:23
-huella: "b34b1a4f5d8d0390a5b8912e51f972060fdc60981033c04fc792ecc4889ff081"
+extraido: 2026-11-14T00:45
+huella: "ac2c52677985db62ce4d4d58e1233b1e76695e9e5cb69d54615bac4dfd5cff15"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 Requisitos
 1.Solicitud firmada por el Gerente General o Presidente de Junta Directiva y timbre
@@ -45,7 +49,7 @@ correspondiente
 según acuerdo del Acta No. 378/2025 de Junta Directiva del CONSUCOOP y Articulo
 No. 7, literal h) de la Ley de Cooperativas de Honduras y el Articulo 10, literal m) de su
 Reglamento.
-www.consucoop.hn
+
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
@@ -55,12 +59,12 @@ ext. 105 y mensajes al WhatsApp 31622364.
 
 ## Documentos
 
-- [Solicitud para publicación de Estados Financieros](https://consucoop.hn/download/12479/?tmstv=1794630135)
+- [Solicitud para publicación de Estados Financieros](https://consucoop.hn/download/12479/?tmstv=1794638671)
 
 ## Fuente
 
 - Ficha: https://consucoop.hn/requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

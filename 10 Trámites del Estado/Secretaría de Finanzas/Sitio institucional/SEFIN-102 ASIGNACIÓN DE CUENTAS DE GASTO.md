@@ -7,14 +7,16 @@ aliases:
   - "ASIGNACIÓN DE CUENTAS DE GASTO"
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Tesoreria"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "CAPTURA Y APROBACION DE CUOTAS SOLICITADAS POR LAS INSTITUCIONES DE GOBIERNO CENTRAL Y DESCONCENTRADAS"
+tiene_requisitos: false
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "0a9f1096a6aa5de3f54c624ecbf48fe66d4eef8e9c3592f97420b60b5f548b19"
+extraido: 2026-11-14T00:35
+huella: "d18805a291a72543913fd29aada464bd603d98116ce9a7e0b756dbc5e2c1434b"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Secretaría de Finanzas |
 | Categoría | Tesoreria |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Descripcion
 
@@ -38,7 +40,7 @@ CAPTURA Y APROBACION DE CUOTAS SOLICITADAS POR LAS INSTITUCIONES DE GOBIERNO CEN
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

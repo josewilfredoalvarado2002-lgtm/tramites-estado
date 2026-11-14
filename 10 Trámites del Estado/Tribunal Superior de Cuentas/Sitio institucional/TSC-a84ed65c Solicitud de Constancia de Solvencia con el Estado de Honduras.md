@@ -7,14 +7,16 @@ aliases:
   - "Solicitud de Constancia de Solvencia con el Estado de Honduras"
 institucion: "Tribunal Superior de Cuentas"
 categoria: "Servicios prestados"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "Es un documento emitido por la Secretarí­a General del Tribunal Superior de Cuentas en donde se manifiesta que la persona solicitante a la fecha en que se emite la misma, no tiene ningún tipo de responsabilidad Firme, ni existe ninguna intervención por presunción de enriquecimiento ilí­cito en igual situación que le impida el desempeño de un cargo público."
+tiene_requisitos: true
 url_ficha: "https://www.tsc.gob.hn/index.php/servicios-prestados/"
 documentos: []
 actualizado_sitio: "2026-06-29"
 dominio_verificado: "tsc.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T21:32
-huella: "aa0b67810177ad12e7f1402d9f56f3cb2f6cdd2c87047fc5912bfdf6e0ecd052"
+extraido: 2026-11-14T00:45
+huella: "2538955feb5b6e6c8ce3dbe52233e4581bb8bd4ecfc22233f7b1b644a3b32884"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Tribunal Superior de Cuentas |
 | Categoría | Servicios prestados |
 | Última actualización que muestra el sitio | 2026-06-29 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
 ## Contenido
 
@@ -48,7 +50,7 @@ Formato de Constancia (PDF)
 ## Fuente
 
 - Ficha: https://www.tsc.gob.hn/index.php/servicios-prestados/
-- Fecha y hora de extracción: 2026-11-13 21:32 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

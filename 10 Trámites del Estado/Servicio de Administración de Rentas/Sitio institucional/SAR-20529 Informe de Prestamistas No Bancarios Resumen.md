@@ -16,7 +16,7 @@ dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
 extraido: 2026-11-13T21:47
 huella: "295e367f2f1a0cf5a60b6fdb418f8cddf40e4af27dcba6db1727bc9ab1c580df"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # Informe de Prestamistas No Bancarios Resumen

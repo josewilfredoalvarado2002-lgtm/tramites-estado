@@ -7,14 +7,16 @@ aliases:
   - "Solicitud de Información Pública"
 institucion: "Tribunal Superior de Cuentas"
 categoria: "Servicios prestados"
-calidad: "solo_requisitos"
+calidad: "solo_para_que"
+para_que: "Toda persona natural o jurídica, tiene derecho a solicitar y a recibir de las Instituciones Obligadas, información completa, veraz, adecuada y oportuna en los límites y condiciones establecidos en la Ley de Transparencia y Acceso a la Información Pública."
+tiene_requisitos: false
 url_ficha: "https://www.tsc.gob.hn/index.php/servicios-prestados/"
 documentos: []
 actualizado_sitio: "2026-06-29"
 dominio_verificado: "tsc.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T21:32
-huella: "1e1ae724723ae003f6caa18bd267edceac778d0e1fefef461da3c018ee15be66"
+extraido: 2026-11-14T00:45
+huella: "7bc4f26a6013fc37fcf417433787f9d5e5509ac6ab663382a36aa6de60746141"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Tribunal Superior de Cuentas |
 | Categoría | Servicios prestados |
 | Última actualización que muestra el sitio | 2026-06-29 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -46,7 +48,7 @@ Correo Electrónico Transparencia - TSC
 ## Fuente
 
 - Ficha: https://www.tsc.gob.hn/index.php/servicios-prestados/
-- Fecha y hora de extracción: 2026-11-13 21:32 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/e98c4051-dd9e-4181-b358-151266bdb421"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "2b4992eb7ba4a630fcd49db146f0cafb4fd67af5f23e55da143475fc4affd014"
+extraido: 2026-11-14T00:37
+huella: "1c529632a43455222225ac000c1e365a2e151bf3bca9b1be6fd25a5936e2ab8d"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,14 +34,15 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
 INSCRIPCION DE CIBER CAFÉ
-V.3
-Página 1 de 1
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO NS RN
 1.
 Solicitud presentada por el propietario de la empresa comercializadora (No requiere
@@ -61,13 +64,12 @@ Nomenclatura
 
 ## Documentos
 
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/e98c4051-dd9e-4181-b358-151266bdb421)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/e98c4051-dd9e-4181-b358-151266bdb421)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/10/Tanque-de-Almacenamiento_Art8-11-11B-1.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "38f4c07d6d1ff8cac14b8f44bd7409f00574122c394df66c0617ce61a41ca8f7"
+extraido: 2026-11-14T00:44
+huella: "06aada21348f08a8b8353856a72bb2d05bf5fab3fe41758aaebec873f2686615"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,25 +34,10 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Página 1 de 3
+## Requisitos (según el documento oficial)
 
-Permiso de Ampliación
-Depósitos o Tanques de Almacenamiento de Hidrocarburos para Consumo Propio
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
-Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
-agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
-2025).
-Artículo No. 8
-1
-Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
-Administrativo.
-Solicitud de Permiso de Instalación, Operación y/o Comercialización bajo la figura de Depósitos o Tanques de
-Almacenamiento de Hidrocarburos para Consumo Propio se otorgó bajo resolución número xxxx o se encuentra
-en trámite bajo el expediente número xxxx.
-Nota:
-Los Permisos de Ampliación deben solicitarse individualmente por cada establecimiento.
 2 Poder del representante legal.
 3 Documento Nacional de Identificación del representante legal.
 4 Poder del apoderado legal.
@@ -71,7 +58,7 @@ En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 d
 Presentar Recibo TGR con su comprobante de pago en CONCEPTO DE INSPECCIÓN para el Permiso de Ampliación
 del Establecimiento bajo la Figura de Depósitos o Tanques de Almacenamiento de Hidrocarburos para Consumo
 Propio de la siguiente forma:
-Institución: 310 - Secretaría de Energía.
+
 Rubro: 12199 – Tasas Varias.
 Monto de acuerdo con la Ubicación física del establecimiento:
 Francisco Morazán 12,000.00
@@ -79,19 +66,17 @@ Islas de la Bahía y la Mosquitia L 32,000.00
 El resto del País L 22,000.00
 11 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
 
-Página 2 de 3
-
 Presentar Recibo TGR con su comprobante de pago en concepto de Permiso de Ampliación del Establecimiento
 bajo la Figura de Depósitos o Tanques de Almacenamiento de Hidrocarburos para Consumo Propio de la siguiente
 forma:
-Institución: 310 - Secretaría de Energía.
+
 Rubro: 12209 – Otras Licencias.
 Monto: L 20,000.00
 12
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
 Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la
 siguiente forma:
-Institución: 310 - Secretaría de Energía.
+
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
 Monto: L 200.00
 13 Cualquier otro requisito solicitado por la SEN.
@@ -102,7 +87,7 @@ En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben p
 de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello
 estampado del notario.
 Artículo No. 11
-Para efectos de este artículo debe presentar declaración jurada firmada por el representante legal sobre el
+
 cumplimiento de los requisitos establecidos y queda sujeto a la comprobación a través de una inspección de campo:
 1 Los tanques para contener diésel serán soterrados o superficiales según el caso y los tanques para contener gasolinas serán debidamente soterrados.
 2
@@ -125,19 +110,37 @@ internamente). No se permite utilizar hierro colado ni PVC.
 5 Las instalaciones eléctricas y equipo instalado dentro de la pila o dentro de una distancia de 5.00 metros de cualquiera de los tanques debe ser sellada y también a prueba de explosiones.
 6 La instalación debe estar equipada con extinguidores del tipo ABC de 30 libras para el combate de incendios.
 
-Página 3 de 3
-
 7 Los depósitos de Combustible deben contar con un Plan de Contingencia para emergencias, el personal debe estar debidamente capacidad y entrenado el respecto.
 8 Los tanques para contener GLP, GLPV y GN, deben cumplir con la norma internacional de fabricación e instalación correspondiente.
 Artículo No. 11B
 Requisitos Adicionales para Gas Natural Licuado (GNL)
-Para efectos de este artículo debe presentar declaración jurada firmada por el representante legal sobre el
+
 cumplimiento de los requisitos establecidos y documento oficial de cumplimiento a normas; este queda sujeto a la
 comprobación a través de una inspección de campo:
-1
+
 Los tanques y/o isotanques de GNL que se utilicen para el transporte y/o en instalaciones de GNL deben cumplir
 con las normas internacionales vigentes ISO, UNE, ASTM, API, ASME, ANSI, NFPA, OIML, DOT o ADR (European
 Agreement concerning the International Carriage of Dangerous Goods by Road) según corresponda.
+
+## Notas (según el documento)
+
+Los Permisos de Ampliación deben solicitarse individualmente por cada establecimiento.
+
+## Otro texto del documento
+
+Permiso de Ampliación
+Depósitos o Tanques de Almacenamiento de Hidrocarburos para Consumo Propio
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
+Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
+agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
+2025).
+Artículo No. 8
+
+Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
+Administrativo.
+Solicitud de Permiso de Instalación, Operación y/o Comercialización bajo la figura de Depósitos o Tanques de
+Almacenamiento de Hidrocarburos para Consumo Propio se otorgó bajo resolución número xxxx o se encuentra
+en trámite bajo el expediente número xxxx.
 
 ## Documentos
 
@@ -146,7 +149,7 @@ Agreement concerning the International Carriage of Dangerous Goods by Road) seg�
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

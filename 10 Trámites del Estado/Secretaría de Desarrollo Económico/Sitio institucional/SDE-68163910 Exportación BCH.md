@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Desarrollo Económico/Secretaría de Desarrollo Económico|Secretaría de Desarrollo Económico]]"
 categoria: "Trámites"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sde.gob.hn/tramites-empresariales/"
 documentos:
   - "https://sde.gob.hn/wp-content/uploads/2022/06/Requisitos-Declaracion-de-Exportaci¦n.pdf"
@@ -15,8 +17,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sde.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:09
-huella: "44d776fc494725149b38b7044175c4535a7abf2d5f7e1d5c4df3baed11eb1c03"
+extraido: 2026-11-14T00:36
+huella: "714104e850e94c58fb4533aa8249f50341cd0c2a2318df25ab7f17beb24d51bd"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -33,12 +35,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Centro Cívico Gubernamental, Torre 1, piso 8 y 9.
-Tegucigalpa, M.D.C., Honduras C.A.
-
-sde.hn @SDEHonduras sde.hn
+## Requisitos (según el documento oficial)
 
 Requisitos Declaración de Exportación:
 i. Original y copia de la Escritura de Constitución y reformas si las hubiese, si la
@@ -55,11 +54,8 @@ vi. Obtener usuario de acceso y contraseña al SECEH.
 vii. Llenado de la Declaración de Exportación en el SECEH. El documento será
 autorizado en línea y el exportador puede imprimir el número de copias necesarias.
 
-## Formatos (texto del documento oficial)
+## Requisitos (según el documento oficial) — Formatos — Exportación BCH
 
-DECLARACIÓN DE EXPORTACIÓN No.
-Lugar y fecha
-A. Identiﬁcación del Exportador:
 1. Nombre o razón social:
 3. Nacionalidad:
 5. Teléfono:
@@ -148,6 +144,19 @@ Observaciones:
 Lugar y fecha (f) Administrador de Aduanas
 con tinta y sellarse con el sello de la empresa o del Representante Legal.
 
+## Otro texto del documento
+
+Centro Cívico Gubernamental, Torre 1, piso 8 y 9.
+Tegucigalpa, M.D.C., Honduras C.A.
+
+sde.hn @SDEHonduras sde.hn
+
+## Otro texto del documento — Formatos — Exportación BCH
+
+DECLARACIÓN DE EXPORTACIÓN No.
+Lugar y fecha
+A. Identiﬁcación del Exportador:
+
 ## Documentos
 
 - [Requisitos — Exportación BCH](https://sde.gob.hn/wp-content/uploads/2022/06/Requisitos-Declaracion-de-Exportaci¦n.pdf)
@@ -156,7 +165,7 @@ con tinta y sellarse con el sello de la empresa o del Representante Legal.
 ## Fuente
 
 - Ficha: https://sde.gob.hn/tramites-empresariales/
-- Fecha y hora de extracción: 2026-11-13 22:09 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:36 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

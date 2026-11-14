@@ -15,7 +15,7 @@ dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T22:08
 huella: "28ebab89baadc3c7343e84e1d88e8925ca8039ed524e2d6eb7a292a825e7e4e9"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # EXONERACIÓN DEL IMPUESTO SOBRE RENTA IGLESIAS

@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/10/Importador-Hidrocarburos_Art5-1.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "8c83631b86f406a0e7eff6007400543ff4bccff844b80a69df3834bc813a0298"
+extraido: 2026-11-14T00:44
+huella: "f3f06698a027cc11e9988f383207f04f2a298f863340f18e54f40f88d75a68a3"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,18 +34,10 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Página 1 de 2
+## Requisitos (según el documento oficial)
 
-Inscripción bajo la Figura de Importador de Hidrocarburos
-(Documentación del Establecimiento que opera como oficina principal).
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
-Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
-agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
-2025).
-
-Artículo No. 5.
 1
 Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
 Administrativo.
@@ -76,20 +70,18 @@ debe instalarse u operar es igual o mayor a mil (1,000) barriles o su equivalent
 galones por tipo de combustible
 14 Presentar toda la documentación de forma digital, previo al ingreso en físico debe presentarse mediante el correo electrónico ventanillaunica@sen.hn;
 15
-En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
+
 Presentar Recibo TGR con su comprobante de pago en concepto de Inscripción de la Sociedad bajo la Figura de
 Importador de Hidrocarburos de la siguiente forma:
-Institución: 310 - Secretaría de Energía.
+
 Rubro: 12209 – Otras Licencias.
 Monto: L 10,000.00
 
-Página 2 de 2
-
 16
-En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
+
 Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la
 siguiente forma:
-Institución: 310 - Secretaría de Energía.
+
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
 Monto: L 200.00
 17 Cualquier otro requisito solicitado por la SEN. (Estos serán solicitados en cualquier etapa del proceso con la finalidad de aclarar o corroborar la información presentada).
@@ -100,6 +92,17 @@ En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben p
 de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello
 estampado del notario.
 
+## Otro texto del documento
+
+Inscripción bajo la Figura de Importador de Hidrocarburos
+(Documentación del Establecimiento que opera como oficina principal).
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
+Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
+agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
+2025).
+
+Artículo No. 5.
+
 ## Documentos
 
 - [Importador Hidrocarburos_Art5](https://sen.hn/wp-content/uploads/2026/10/Importador-Hidrocarburos_Art5-1.pdf)
@@ -107,7 +110,7 @@ estampado del notario.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

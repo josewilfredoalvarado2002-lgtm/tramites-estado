@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Descargo de omisos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/descargo-de-omisos-del-impuesto-sobre-la-renta-por-ausentarse-del-pais/"
 documentos:
   - "https://www.sar.gob.hn/download/descargo-de-omisos-del-impuesto-sobre-la-renta-por-ausentarse-del-pais/?wpdmdl=21527"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "83cf9e7c0ff40d5c6a13b5e673f216b5cb0bb1bfff12dbff8f27550d78166666"
+extraido: 2026-11-14T00:15
+huella: "1e54f7842291a509406d8f5bf6737db5b5599c424ff8d104ad4f8b54dc25e0b2"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DESCARGO DE OMISOS DEL IMPUESTO SOBRE
 LA RENTA POR AUSENTARSE DEL PAÍS
@@ -75,7 +79,7 @@ realizar estudios en el extranjero. (Formato PDF)
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/descargo-de-omisos-del-impuesto-sobre-la-renta-por-ausentarse-del-pais/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

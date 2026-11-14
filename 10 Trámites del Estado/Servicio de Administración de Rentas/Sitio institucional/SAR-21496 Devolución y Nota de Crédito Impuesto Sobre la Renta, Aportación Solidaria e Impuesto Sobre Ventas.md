@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Devolución / Nota de crédito"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/impuesto-sobre-la-renta-y-aportacion-solidaria-impuesto-sobre-ventas/"
 documentos:
   - "https://www.sar.gob.hn/download/impuesto-sobre-la-renta-y-aportacion-solidaria-impuesto-sobre-ventas/?wpdmdl=21496"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "9289f07afacd301216aaa90757ec4cb5f4f1dee5ab88c59b8865245a5f3a553b"
+extraido: 2026-11-14T00:15
+huella: "608ab734cd2bc510f72bc63d9e5405c3f03bc7d2307bfe8641e6f35c11635e0c"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE DEVOLUCIÓN O NOTA DE CRÉDITO
 IMPUESTO SOBRE LA RENTA Y APORTACIÓN
@@ -43,6 +47,7 @@ Departamento de Gestión Tributaria
 
 REQUISITOS DE DEVOLUCIÓN O NOTA DE CRÉDITO IMPUESTO SOBRE LA
 RENTA Y APORTACIÓN SOLIDARIA/ IMPUESTO SOBRE VENTAS NETO
+
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
 Escrito de Solicitud que contenga los
 requisitos establecidos en el Artículo 61 de la
@@ -86,7 +91,7 @@ concepto: 1 Propio Computo)
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/impuesto-sobre-la-renta-y-aportacion-solidaria-impuesto-sobre-ventas/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

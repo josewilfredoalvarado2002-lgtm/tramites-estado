@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "DGSR-008 Requisitos Práctica de Gammagrafia Industrial"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-dgsr/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/04/DGSR-009_Requisitos-Autorizacion-para-ImportacionExportacion-Transfencia-Transporte-de-M-R.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "73e10808021f96c0e5b93c0da6626720e99db9dca65d3d858073d71d8089bd21"
+extraido: 2026-11-14T00:44
+huella: "8a4601b6b9453937c547df0bbfd4309495b39c8bb05f8da15d24818efcfb7c76"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,26 +34,17 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-009
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
+## Requisitos (según el documento oficial)
 
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN PARA IMPORTACION, EXPORTACION,
-TRANSFERENCIA Y TRANSPORTE DE MATERIAL
-RADIACTIVO
-V. 2.0
-Página 1 de 8
 
 Toda fuente radiactiva y material nuclear que se importe exporte o trasfiera por las vías públicas
 del país requerirá la autorización de transporte de material radiactivo, por lo que en el escrito
 de petición el apoderado legal deberá solicitar esta actividad y adjuntar los requisitos
 establecidos en la Tabla No.4 del presente documento.
-No. Requisitos Legales y Técnicos ❒ Base Legal
+No. Requisitos Legales y Técnicos  Base Legal
 1. Escrito de Solicitud, presentado a través de un
 Apoderado Legal, cumpliendo con lo siguiente:
 
@@ -80,57 +73,21 @@ fijo y móvil, correo electrónico, número de colegiación.
 Dirección postal exacta y especificar coordenadas según
 mapa de ubicación catastral, teléfonos, e-mail de la
 instalación.
-□
-Art 56, 61 y 63 de la Ley de
-Procedimiento Administrativo
-2. Copia de Escritura de Constitución de la Sociedad o
-Comerciante Individual y sus modificaciones
-debidamente inscritas.
-□
-Art. 54 de la Ley de Procedimiento
-Administrativo.
-3. Copia de Registro Tributario Nacional (RTN) a
-nombre de la Sociedad o Comerciante Individual. □ Art. Artículo 61 de la Ley de Procedimiento Administrativo.
-4. Copia del Documento Nacional de Identificación
-(DNI) del representante legal. □
-Art. Artículo 61 de la Ley de
-Procedimiento Administrativo. Art. 11.
-Reglamento de Protección Radiológica
-5. Poder del Representante Legal, debidamente inscrito
-de la empresa solicitante. □
-Art. Artículo 61 de la Ley de
-Procedimiento Administrativo. Art. 11.
-Reglamento de Protección Radiológica.
-6. Poder del Apoderado Legal, otorgado por el
-Representante Legal. □
-Art. Artículo 61 de la Ley de
-Procedimiento Administrativo. Art. 11.
-Reglamento de Protección Radiológica.
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-009
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
+Art 56, 61 y 63 de la Ley de
 
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN PARA IMPORTACION, EXPORTACION,
-TRANSFERENCIA Y TRANSPORTE DE MATERIAL
-RADIACTIVO
-V. 2.0
-Página 2 de 8
 
 7. Copia del Carnet Vigente del Apoderado Legal
-emitido por el Colegio de Abogados de Honduras. □
+emitido por el Colegio de Abogados de Honduras.
 Art. Artículo 61 de la Ley de
 Procedimiento Administrativo.
 8. Declaración Jurada del Representante Legal,
 firmada, sellada y autenticada. (Formato disponible en
 Microsoft Word, portal web:
-https://sen.hn/tramites-dgsr/).
 
 Ver nota No. 1.
-□
+
 Art. 5 de la Ley sobre Actividades
 Nucleares y Seguridad Radiológica. Art.
 11. Reglamento de Protección
@@ -138,7 +95,7 @@ Radiológica
 9. Copia de Autorización de Practica Vigente a favor de
 la institución receptora del material radiactivo a importar,
 transportar o trasferir.
-□
+
 Art. 11. Reglamento de Protección
 Radiológica.
 
@@ -150,10 +107,10 @@ Ionizante
 10. Documentación Técnica que corresponda a la diligencia de solicitud, que cumpla lo
 establecido en
 
-Tabla No.1: Requisitos Técnicos para la Autorización de Importación de Material Radiactivo □
-Tabla No.2: Requisitos Técnicos para la Autorización de Exportación de Material Radiactivo □
-Tabla No.3: Requisitos Técnicos para la Autorización de Transferencia de Material Radiactivo □
-Tabla No.4: Requisitos Técnicos para la Autorización de Transporte de Material Radiactivo □
+Tabla No.1: Requisitos Técnicos para la Autorización de Importación de Material Radiactivo
+Tabla No.2: Requisitos Técnicos para la Autorización de Exportación de Material Radiactivo
+Tabla No.3: Requisitos Técnicos para la Autorización de Transferencia de Material Radiactivo
+Tabla No.4: Requisitos Técnicos para la Autorización de Transporte de Material Radiactivo
 
 Tabla No.1: Requisitos Técnicos para la Autorización de Importación de Material Radiactivo.
 10.1 10.1.1 Copia de Factura Proforma correspondiente a
@@ -163,7 +120,7 @@ efectos tributarios al momento del ingreso del material, de
 igual manera debe detallar las características técnicas de la
 fuente emisora de radiaciones ionizantes y si corresponde,
 la descripción del equipo que la contiene.
-□
+
 Artículo 5 de la Ley de Sobre Actividades
 Nucleares y Seguridad Radiológica.
 Artículo No. 29, Capitulo VIII.
@@ -177,7 +134,7 @@ portal web: https://sen.hn/guias-orientativas/).
 Observación: Para proveedores de material radiactivo, la
 declaración de usuario final deberá ser firmada por la
 persona propietaria final de la fuente radiactiva.
-□
+
 Artículo 5 de la Ley de Sobre Actividades
 Nucleares y Seguridad Radiológica.
 Artículo No. 29, Capitulo VIII.
@@ -186,23 +143,12 @@ Instalaciones Radiactivas y Equipos
 Generadores de Radiaciones Ionizantes.
 10.1.3 Copia de Certificado de Calidad otorgado por
 el fabricante que deberá incluir, según corresponda para
-material radiactivo: □
+material radiactivo:
 Artículo 5 de la Ley de Sobre
 Actividades Nucleares y Seguridad
 Radiológica.
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-009
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
-
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN PARA IMPORTACION, EXPORTACION,
-TRANSFERENCIA Y TRANSPORTE DE MATERIAL
-RADIACTIVO
-V. 2.0
-Página 3 de 8
 
 1. Actividad del Material Radiactivo.
 2. Estado físico y forma química del Material Radiactivo.
@@ -233,7 +179,6 @@ disponibles a través del fabricante.
 v. La fecha estimada de la importación y el
 número de fuentes.
 
-□
 Capítulo I, artículo 1 y articulo 6,
 Reglamento de Transporte Seguro de
 Material Radiactivo.
@@ -246,7 +191,7 @@ Radiactivo.
 10.2 10.2.1 Factura proforma o documento que acredita la
 contratación de los servicios de recepción del material
 radiactivo otorgado por la compañía que recibirá la fuente.
-□
+
 Artículo 30 del Reglamento de
 Autorizaciones para Instalaciones
 Radiactivas y Equipos Generadores de
@@ -255,7 +200,7 @@ Artículo 11. Reglamento de Protección
 Radiológica, Requisitos adicionales.
 10.2.2 Copia de la autorización a favor del
 destinatario para la recepción del material
-radiactivo otorgada en el país de destino. □
+radiactivo otorgada en el país de destino.
 Capitulo II Artículo 6 inciso e y Articulo
 34 del Reglamento de Autorizaciones
 para Instalaciones Radiactivas y
@@ -267,24 +212,13 @@ corresponda (Para Fuentes Radiactivas):
 a. Actividad del Material Radiactivo.
 b. Estado físico y forma química del Material
 Radiactivo.
-□
+
 Articulo No. 31, Capitulo VIII.-
 Reglamento de Autorizaciones para
 Instalaciones Radiactivas y Equipos
 Generadores de Radiaciones Ionizantes.
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-009
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
-
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN PARA IMPORTACION, EXPORTACION,
-TRANSFERENCIA Y TRANSPORTE DE MATERIAL
-RADIACTIVO
-V. 2.0
-Página 4 de 8
 
 c. Peso, volumen y otras características relevantes del
 Material Radiactivo.
@@ -305,7 +239,6 @@ Serie, Marca, Modelo, Fabricante) para la
 solicitud de aprobación; portación y el
 número de fuentes.
 
-□
 Capítulo I, artículo 1 y articulo 6,
 Reglamento de Transporte Seguro de
 Material Radiactivo.
@@ -329,24 +262,24 @@ en la transferencia.
 c. Identificación de la instalación radiactiva receptora
 y su correspondiente autorización de práctica
 vigente.
-□
+
 Articulo No. 33, Capitulo VIII.-
 Reglamento de Autorizaciones para
 Instalaciones Radiactivas y Equipos
 Generadores de Radiaciones Ionizantes.
 10.3.2 Justificación técnica del porque se está
-solicitando la autorización. □ Artículo 5 de la Ley de Sobre Actividades Nucleares y Seguridad Radiológica.
+solicitando la autorización.  Artículo 5 de la Ley de Sobre Actividades Nucleares y Seguridad Radiológica.
 10.3.3 Copia de Autorización de Practica Vigente a
 favor de la institución receptora del material radiactivo que
 se transfiere.
-□
+
 Artículo 5 de la Ley de Sobre Actividades
 Nucleares y Seguridad Radiológica.
 10.3.4 Contrato de cesión de derechos y
 obligaciones sobre la posesión de la fuente a transferir
 suscrito entre el solicitante de autorización y titular de la
 institución receptora
-□
+
 Artículo 5 de la Ley de Sobre Actividades
 Nucleares y Seguridad Radiológica.
 10.3.5 Declaración de Usuario Final, Firmada y
@@ -356,18 +289,7 @@ portal web: https://sen.hn/tramites-dgsr/).
 Artículo 5 de la Ley de Sobre Actividades
 Nucleares y Seguridad Radiológica.
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-009
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
-
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN PARA IMPORTACION, EXPORTACION,
-TRANSFERENCIA Y TRANSPORTE DE MATERIAL
-RADIACTIVO
-V. 2.0
-Página 5 de 8
 
 Observación: La declaración de usuario final debe ser
 firmada por el representante legal de la instalación que
@@ -417,7 +339,7 @@ r. Plan de Emergencias radiológicas el cual deberá
 incluir y describir las acciones y medidas a tomar en
 un atentado, incidente o accidente que pudiese
 ocurrir.
-□
+
 Artículo 11: Reglamento de Protección
 Radiológica: Requisitos adicionales.
 Artículo 1, Artículo 4, Articulo 6,
@@ -429,18 +351,7 @@ Articulo 26 y Articulo 27 del
 Reglamento de Protección Física de los
 materiales nucleares radiactivos.
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-009
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
-
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN PARA IMPORTACION, EXPORTACION,
-TRANSFERENCIA Y TRANSPORTE DE MATERIAL
-RADIACTIVO
-V. 2.0
-Página 6 de 8
 
 Observación: El documento deberá presentarse en el
 orden propuesto sin omitir ningún elemento del plan de
@@ -478,7 +389,7 @@ presencia de las fuentes de radiación y/o sus condiciones de
 seguridad física y tecnológica.
 
 Ver notas No.3 y 4.
-□
+
 Art. Artículo 3 del Acuerdo Ministerial
 No. 002-2019, publicado en el Diario la
 Gaceta el 10 de abril del 2019.
@@ -496,32 +407,37 @@ Nombre o Razón Social: Detallar el nombre o razón
 social de la persona natural o jurídica que solicita la
 Autorización de importación, exportación, transferencia y
 transporte de material radiactivo.
-□
+
 Art. 7 del Acuerdo Ministerial No. 002-
 2019, publicado en el Diario la Gaceta el
 10 de abril de 2019.
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-009
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
-
 REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN PARA IMPORTACION, EXPORTACION,
-TRANSFERENCIA Y TRANSPORTE DE MATERIAL
-RADIACTIVO
-V. 2.0
-Página 7 de 8
 
 Institución: 310 - Secretaría de Energía.
 Rubro: 12209 – Otras Licencias.
-Monto:
-✓ Para importación corresponde un monto
+
+REQUISITOS PARA LA SOLICITUD DE
+
+Consultas:
+Secretaría de Energía (SEN)
+Dirección General de Seguridad Radiológica (DGSR)
+Dirección: Torre Altamira, a inmediaciones del anillo periférico; 1.2 Km del puente a desnivel, salida a Valle de
+Ángeles, Tegucigalpa, M.D.C, Francisco Morazan, Honduras.
+Teléfono:2232-8500 Ext: 121, E-mail: dgsr@sen.hn
+Condiciones generales:
+● El solicitante debe presentar la información referida en este documento siguiendo el orden establecido en
+los términos de referencia, tanto para los requisitos legales como técnicos.
+● Aunque la Autoridad Reguladora tramitará la solicitud con prontitud, no puede garantizarse que se otorgue
+la Autorización para una fecha determinada.
+
+## Costo (según el documento)
+
+Para importación corresponde un monto
 equivalente al uno por ciento (1%) del valor de la
 factura proforma emitido por el fabricante o
 proveedor en el momento de la adquisición.
-✓ Por Transferencia corresponde un monto de
+Por Transferencia corresponde un monto de
 L.2000.00.
 Ver notas Nos. 3 y 4.
 
@@ -537,14 +453,43 @@ siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión,
 Constancias, Certificaciones y Otros.
+
 Monto: L 200.00
 Ver nota No.4.
-□
+
 Disposiciones Generales del
 Presupuesto General de Ingresos y
 Egresos de la Republica Ejercicio
 Fiscal Vigente.
-Notas:
+
+## Procedimiento (según el documento)
+
+Procedimiento Administrativo
+2. Copia de Escritura de Constitución de la Sociedad o
+Comerciante Individual y sus modificaciones
+debidamente inscritas.
+
+Art. 54 de la Ley de Procedimiento
+Administrativo.
+3. Copia de Registro Tributario Nacional (RTN) a
+nombre de la Sociedad o Comerciante Individual.  Art. Artículo 61 de la Ley de Procedimiento Administrativo.
+4. Copia del Documento Nacional de Identificación
+(DNI) del representante legal.
+Art. Artículo 61 de la Ley de
+Procedimiento Administrativo. Art. 11.
+Reglamento de Protección Radiológica
+5. Poder del Representante Legal, debidamente inscrito
+de la empresa solicitante.
+Art. Artículo 61 de la Ley de
+Procedimiento Administrativo. Art. 11.
+Reglamento de Protección Radiológica.
+6. Poder del Apoderado Legal, otorgado por el
+Representante Legal.
+Art. Artículo 61 de la Ley de
+Procedimiento Administrativo. Art. 11.
+Reglamento de Protección Radiológica.
+
+## Notas (según el documento)
 
 Nota 1: Con base en el Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Auténtica
 de firmas (documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados.
@@ -566,31 +511,6 @@ ante las oficinas de la Secretaría de Energía en dicho tiempo, caso contrario 
 Nota: 5: Toda la información presentada debe ser en idioma español, los documentos emitidos en un idioma
 extranjero deberán ser traducidos y apostillados.
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-009
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
-
-REQUISITOS PARA LA SOLICITUD DE
-AUTORIZACIÓN PARA IMPORTACION, EXPORTACION,
-TRANSFERENCIA Y TRANSPORTE DE MATERIAL
-RADIACTIVO
-V. 2.0
-Página 8 de 8
-
-Consultas:
-Secretaría de Energía (SEN)
-Dirección General de Seguridad Radiológica (DGSR)
-Dirección: Torre Altamira, a inmediaciones del anillo periférico; 1.2 Km del puente a desnivel, salida a Valle de
-Ángeles, Tegucigalpa, M.D.C, Francisco Morazan, Honduras.
-Teléfono:2232-8500 Ext: 121, E-mail: dgsr@sen.hn
-Condiciones generales:
-● El solicitante debe presentar la información referida en este documento siguiendo el orden establecido en
-los términos de referencia, tanto para los requisitos legales como técnicos.
-● Aunque la Autoridad Reguladora tramitará la solicitud con prontitud, no puede garantizarse que se otorgue
-la Autorización para una fecha determinada.
-
 ## Documentos
 
 - [DGSR 009 Requisitos Autorizacion para ImportacionExportacion Transfencia Transporte de M R](https://sen.hn/wp-content/uploads/2026/04/DGSR-009_Requisitos-Autorizacion-para-ImportacionExportacion-Transfencia-Transporte-de-M-R.pdf)
@@ -598,7 +518,7 @@ la Autorización para una fecha determinada.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-dgsr/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

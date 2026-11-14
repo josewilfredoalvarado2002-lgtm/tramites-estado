@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/10/Envasador-GLP_Art7-11B.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "b6b982d795ae45c275b7057333cfb7859a733e591dd96ed23023fefed4e7117f"
+extraido: 2026-11-14T00:44
+huella: "7ed83713337f9bad231915b8b2a0a993ad46484f0a58810b7c3e91419efc4511"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,9 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Página 1 de 2
+## Requisitos (según el documento oficial)
 
 Permiso de Instalación
 Envasador de Gas Licuado de Petróleo
@@ -48,7 +50,39 @@ Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 
 Administrativo.
 Solicitud de Inscripción bajo la figura de Envasador de Gas Licuado de Petróleo se otorgó bajo resolución número
 xxxx o se encuentra en trámite bajo el expediente número xxxx.
-Nota:
+
+## Costo (según el documento)
+
+Monto de acuerdo con la Ubicación física del establecimiento:
+Francisco Morazán 12,000.00
+Islas de la Bahía y la Mosquitia L 32,000.00
+El resto del País L 22,000.00
+16
+En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
+Presentar Recibo TGR con su comprobante de pago en concepto de Permiso de Instalación del Establecimiento
+bajo la Figura de Envasador de Gas Licuado de Petróleo de la siguiente forma:
+Institución: 310 - Secretaría de Energía.
+Rubro: 12209 – Otras Licencias.
+
+Monto: L 25,000.00
+17
+En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
+Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la
+siguiente forma:
+Institución: 310 - Secretaría de Energía.
+Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
+
+Monto: L 200.00
+18 Cualquier otro requisito solicitado por la SEN.
+19 Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden de este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada requisito.
+
+En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas
+(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una
+de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello
+estampado del notario.
+
+## Notas (según el documento)
+
 Los Permiso de Instalación deben solicitarse individualmente por cada establecimiento.
 2 Poder del representante legal.
 3 Documento Nacional de Identificación del representante legal.
@@ -75,39 +109,12 @@ proyecto a instalar no cuenta con sistema de Transporte Estacionario.
 14 Presentar toda la documentación de forma digital, previo al ingreso en físico debe presentarse mediante el correo electrónico ventanillaunica@sen.hn;
 15 Estudio Económico del Proyecto donde se realizará la instalación.
 
-Página 2 de 2
-
 15
 En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019.
 Presentar Recibo TGR con su comprobante de pago en CONCEPTO DE INSPECCIÓN para el Permiso de Instalación
 del Establecimiento bajo la Figura de Envasador de Gas Licuado de Petróleo de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12199 – Tasas Varias.
-Monto de acuerdo con la Ubicación física del establecimiento:
-Francisco Morazán 12,000.00
-Islas de la Bahía y la Mosquitia L 32,000.00
-El resto del País L 22,000.00
-16
-En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en concepto de Permiso de Instalación del Establecimiento
-bajo la Figura de Envasador de Gas Licuado de Petróleo de la siguiente forma:
-Institución: 310 - Secretaría de Energía.
-Rubro: 12209 – Otras Licencias.
-Monto: L 25,000.00
-17
-En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019
-Presentar Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación de Resolución, de la
-siguiente forma:
-Institución: 310 - Secretaría de Energía.
-Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros.
-Monto: L 200.00
-18 Cualquier otro requisito solicitado por la SEN.
-19 Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada, según el orden de este listado y con una viñeta o pestaña debidamente rotuladas, identificando cada requisito.
-
-En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben presentar Autentica de firmas
-(documentos originales privados) y Autentica de fotocopias en Certificados de Autenticidad separados. Cada una
-de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello
-estampado del notario.
 
 ## Documentos
 
@@ -116,7 +123,7 @@ estampado del notario.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

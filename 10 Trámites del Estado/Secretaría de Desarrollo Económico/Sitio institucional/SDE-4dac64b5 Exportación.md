@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Desarrollo Económico/Secretaría de Desarrollo Económico|Secretaría de Desarrollo Económico]]"
 categoria: "Trámites"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sde.gob.hn/tramites-empresariales/"
 documentos:
   - "https://sde.gob.hn/wp-content/uploads/2022/06/Requisitos-Constancias-de-Exportaci¦n.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sde.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:09
-huella: "60449f5db6b02d131ecc8ba4e50da7792062b78f44ffc8b11ffdea6e06ca2c93"
+extraido: 2026-11-14T00:36
+huella: "a868c0f6053b67e101ba049ca8de6a0d3e0b1cd531e70cdcab7718033b52efd1"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,18 +34,22 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Centro Cívico Gubernamental, Torre 1, piso 8 y 9.
-Tegucigalpa, M.D.C., Honduras C.A.
-
-sde.hn @SDEHonduras sde.hn
+## Requisitos (según el documento oficial)
 
 Requisitos Constancia de Exportación:
 
 1. Solicitud por escrito del Propietario o Representante Legal de la Empresa. La misma
 debe detallar el año (s) o periodo del cual necesita los datos.
 2. Recibo de pago TGR-1 por un monto de Lps.200.00.
+
+## Otro texto del documento
+
+Centro Cívico Gubernamental, Torre 1, piso 8 y 9.
+Tegucigalpa, M.D.C., Honduras C.A.
+
+sde.hn @SDEHonduras sde.hn
 
 ## Documentos
 
@@ -52,7 +58,7 @@ debe detallar el año (s) o periodo del cual necesita los datos.
 ## Fuente
 
 - Ficha: https://sde.gob.hn/tramites-empresariales/
-- Fecha y hora de extracción: 2026-11-13 22:09 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:36 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

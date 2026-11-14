@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Gobernación, Justicia y Descentralización/Secretaría de Gobernación, Justicia y Descentralización|Secretaría de Gobernación, Justicia y Descentralización]]"
 categoria: "Dirección Régimen Departamental"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sgjd.gob.hn/tramites/tramites-direccion-regimen-departamental/9a669d2e81da9a097424f68b91eb90768be46e0a4c756a44ed845cb13e03d696"
 documentos:
   - "https://www.sgjd.gob.hn/tramites/tramites-direccion-regimen-departamental/9a669d2e81da9a097424f68b91eb90768be46e0a4c756a44ed845cb13e03d696/descargar"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sgjd.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:11
-huella: "a57f25965cf3aded9881f13905c41ce3c657f0a78c6b10892ea030fc44a695b6"
+extraido: 2026-11-14T00:38
+huella: "0cd5727e100ef118d9d5d24d8f132cda455a21b49584485de93f69d0f77d9e1f"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,9 +34,10 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-DIRECCIÓN DE RÉGIMEN DEPARTAMENTAL
+## Requisitos (según el documento oficial)
+
 REQUISITOS PARA LA AUTORIZACIÓN DE PROMOCIONES, RIFAS, SORTEOS Y
 ACTIVIDADES SIMILARES
 Las personas naturales o jurídicas interesadas en realizar promociones comerciales,
@@ -150,6 +153,7 @@ presentado.
 11. Requisitos específicos para rifas de vehículos
 
 Cuando la promoción contemple la rifa de uno o varios vehículos, además de los
+
 requisitos generales, deberá presentarse la documentación siguiente:
 a) Factura de compra del vehículo o proforma, según corresponda.
 b) Documentación que acredite la propiedad del vehículo a nombre de la
@@ -178,11 +182,17 @@ documentos originales acompañados de sus respectivas fotocopias.
 El cotejo estará sujeto a la disponibilidad del personal responsable y al tiempo
 requerido para la revisión por parte de la autoridad competente.
 
+## Dónde se presenta (según el documento)
+
 HORARIO DE ATENCIÓN
 Lunes a viernes
 9:00 a. m. a 5:00 p. m.
 Teléfono institucional
 2242-8227
+
+## Otro texto del documento
+
+DIRECCIÓN DE RÉGIMEN DEPARTAMENTAL
 
 ## Documentos
 
@@ -191,7 +201,7 @@ Teléfono institucional
 ## Fuente
 
 - Ficha: https://www.sgjd.gob.hn/tramites/tramites-direccion-regimen-departamental/9a669d2e81da9a097424f68b91eb90768be46e0a4c756a44ed845cb13e03d696
-- Fecha y hora de extracción: 2026-11-13 22:11 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:38 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

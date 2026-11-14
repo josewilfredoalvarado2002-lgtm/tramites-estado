@@ -15,7 +15,7 @@ dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T22:08
 huella: "0c55ce51742bd1364d4d4139276c0da301e23db61cf1416de5f33b8a067ef487"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # PAGOS DE SUELDOS Y SALARIOS PARA LOS PROVEEDORES DEL ESTADO

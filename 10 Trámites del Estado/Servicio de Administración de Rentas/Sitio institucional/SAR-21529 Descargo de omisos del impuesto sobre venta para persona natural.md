@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Descargo de omisos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/descargo-de-omisos-del-impuesto-sobre-venta-para-persona-natural/"
 documentos:
   - "https://www.sar.gob.hn/download/descargo-de-omisos-del-impuesto-sobre-venta-para-persona-natural/?wpdmdl=21529"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "eaacfd1ab64567c3d1747411740e65f93377ff3dd4d343b0adef603e69b56dd7"
+extraido: 2026-11-14T00:15
+huella: "bac37ff63795196439f803f2544d576163a2bd8acffce8bb27144869a88a8cfa"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DESCARGO DE OMISOS DEL IMPUESTO SOBRE
 VENTA PARA PERSONA NATURAL
@@ -74,7 +78,7 @@ fiscales (Motivos Art 42 - Acuerdo 481-2017)
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/descargo-de-omisos-del-impuesto-sobre-venta-para-persona-natural/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

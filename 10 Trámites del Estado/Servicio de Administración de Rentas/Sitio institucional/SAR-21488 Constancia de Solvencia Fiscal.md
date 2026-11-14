@@ -7,15 +7,17 @@ aliases:
   - "Constancia de Solvencia Fiscal"
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Constancias"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "Descripción del Trámite La Constancia de Solvencia Fiscal es un documento emitido al obligado tributario que demuestra el cumplimiento de sus obligaciones formales y materiales ante la Administración Tributaria. Este documento tiene una vigencia de 90 días para personas naturales y de 30 días para personas jurídicas."
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/constancia-de-solvencia-fiscal/"
 documentos:
   - "https://www.sar.gob.hn/download/constancia-de-solvencia-fiscal/?wpdmdl=21488"
 actualizado_sitio: "agosto 25, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "ecebfb7f2181e29f3bdfbab1337d7eaeaf73757a03d33f38b1e62113e4102ca6"
+extraido: 2026-11-14T00:15
+huella: "a5e9d629bec6649e6d78a6406a42f81735f36bc275c4fdfcebc05b92ae4d5c2b"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,9 +32,19 @@ estado_sitio: "Vigente"
 | Institución | Servicio de Administración de Rentas |
 | Categoría | Constancias |
 | Última actualización que muestra el sitio | agosto 25, 2026 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Para qué se hace (según el documento)
+
+Descripción del Trámite
+La Constancia de Solvencia Fiscal es un documento emitido al obligado tributario que
+demuestra el cumplimiento de sus obligaciones formales y materiales ante la
+Administración Tributaria. Este documento tiene una vigencia de 90 días para personas
+naturales y de 30 días para personas jurídicas.
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE SOLICITUD CONSTANCIA
 DE SOLVENCIA FISCAL
@@ -41,11 +53,11 @@ Departamento de Recaudación
 
 CONSTANCIA DE SOLVENCIA FISCAL
 
-Descripción del Trámite
-La Constancia de Solvencia Fiscal es un documento emitido al obligado tributario que
-demuestra el cumplimiento de sus obligaciones formales y materiales ante la
-Administración Tributaria. Este documento tiene una vigencia de 90 días para personas
-naturales y de 30 días para personas jurídicas.
+a) Realizar el pago por actos administrativos por el valor de L200.00
+b) No tener declaraciones omisas pendientes de presentar
+c) No tener deudas pendientes de pago con la Administración Tributaria
+
+## Procedimiento (según el documento)
 
 Pasos para Generar la Constancia en Línea:
 1. Ingrese a la Oficina Virtual SAR con su RTN y contraseña.
@@ -57,11 +69,6 @@ Constancia".
 Al cumplir con los requisitos mínimos del sistema, podrá generar y descargar su
 constancia inmediatamente.
 
-Requisitos:
-a) Realizar el pago por actos administrativos por el valor de L200.00
-b) No tener declaraciones omisas pendientes de presentar
-c) No tener deudas pendientes de pago con la Administración Tributaria
-
 ## Documentos
 
 - [Constancia de Solvencia Fiscal](https://www.sar.gob.hn/download/constancia-de-solvencia-fiscal/?wpdmdl=21488)
@@ -69,7 +76,7 @@ c) No tener deudas pendientes de pago con la Administración Tributaria
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/constancia-de-solvencia-fiscal/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

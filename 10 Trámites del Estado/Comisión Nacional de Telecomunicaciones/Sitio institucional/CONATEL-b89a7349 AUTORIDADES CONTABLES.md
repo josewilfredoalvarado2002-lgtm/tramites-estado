@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/e1637653-e4d2-4795-b3a7-27b916522e4f"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "7d85fbf005774dbc03a468ffbd1953aa6b9711907426fe9a7387cbcbc3a44f78"
+extraido: 2026-11-14T00:37
+huella: "351a0073f6a3fa5b836c846d9d3c18e23f3c41c38f44c6f3c8eef131fe9f0d5b"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,13 +34,15 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
 AUTORIDADES CONTABLES
-V.3
+
 *Requisitos y formatos en la página Web de CONATEL: Página 1 de 1
-http://www.conatel.gob.hn
+
 ITEM REQUISITO NS RN MD AM
 1.
 Solicitud por medio de Apoderado Legal, en base a los artículos 56, 60 y 61 de La Ley de
@@ -109,13 +113,12 @@ Nomenclatura
 
 ## Documentos
 
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/e1637653-e4d2-4795-b3a7-27b916522e4f)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/e1637653-e4d2-4795-b3a7-27b916522e4f)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

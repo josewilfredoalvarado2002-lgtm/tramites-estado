@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "DGSR-012 Requisitos Autorización mediante Registro de Equipos Intraoral"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-dgsr/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/04/DGSR-013_Requisitos-para-Registro-Prestadores-de-Servicios-Tecnicos-en-Proteccion-Radiologica.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "e9cfb8c54f97a260c8206b280ee524ca1cefc3a43e02efb4f8036210e0b64e18"
+extraido: 2026-11-14T00:44
+huella: "bdfd1a32fcbcd603b4c5a4a185f20efbf0d318195c59b1d0f026b946f92b8587"
 estado_sitio: "Vigente"
 posible_equivalente_diger: "[[10 Trámites del Estado/Secretaría de Energía/TR-969 Registro de prestadores de servicios técnicos en protección radiológica|Registro de prestadores de servicios técnicos en protección radiológica]]"
 ---
@@ -35,30 +37,18 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Secretaría de Energía/TR
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-013
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
+## Requisitos (según el documento oficial)
 
 REQUISITOS PARA REGISTRO DE PRESTADORES DE
-SERVICIOS TECNICOS EN PROTECCIÓN RADIOLÓGICA V. 2.0
 
-Página 1 de 2
-
-No. Requisitos Legales y Técnicos ❒ Base Legal
+No. Requisitos Legales y Técnicos  Base Legal
 1. Formulario de Registro de Prestadores de Servicios
 Técnicos en Protección Radiológica, firmado y sellado
 por el solicitante. (Formato disponible en Microsoft
-Word, portal web: https://sen.hn/tramites-dgsr/). □
-Art. 5 y 11 del Registro Nacional de
-Prestadores de Servicios Técnicos en
-Protección Radiológica (Acuerdo
-Ministerial SEN-015-2021).
-Art. 11. Reglamento de Protección
-Radiológica.
+Word, portal web: https://sen.hn/tramites-dgsr/).
+
 2. Hoja de Vida que incluya por lo menos la siguiente
 información:
 - Datos generales del profesional: Nombre,
@@ -81,74 +71,27 @@ autenticados por la Embajada o Consulado de
 Honduras en el país donde se obtuvieron y apostillado
 en la Secretaría de Relaciones Exteriores en Honduras.
 - El currículo deberá contener la firma del solicitante
-□
-Art. 5 y 11 del Registro Nacional de
-Prestadores de Servicios Técnicos en
-Protección Radiológica (Acuerdo
-Ministerial SEN-015-2021).
-Art. 11. Reglamento de Protección
-Radiológica.
+
 3. Copia del Documento Nacional de Identificación
 (DNI) en caso de ser hondureño; residencia y permiso de
-trabajo en caso de ser extranjero. □
-Art. 5 y 11 del Registro Nacional de
-Prestadores de Servicios Técnicos en
-Protección Radiológica (Acuerdo
-Ministerial SEN-015-2021).
-Art. 11. Reglamento de Protección
-Radiológica.
+trabajo en caso de ser extranjero.
+
 4. Hoja de antecedentes penales
-□
-Art. 5 y 11 del Registro Nacional de
-Prestadores de Servicios Técnicos en
-Protección Radiológica (Acuerdo
-Ministerial SEN-015-2021).
-Art. 11. Reglamento de Protección
-Radiológica.
 
 5. Hoja de antecedentes policiales
-□
-Art. 5 y 11 del Registro Nacional de
-Prestadores de Servicios Técnicos en
-Protección Radiológica (Acuerdo
-Ministerial SEN-015-2021).
-Art. 11. Reglamento de Protección
-Radiológica.
-
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
-(SEN)
-G-DGSR-013
-DIRECCIÓN GENERAL DE SEGURIDAD RADIOLÓGICA
-(DGSR)
 
 REQUISITOS PARA REGISTRO DE PRESTADORES DE
-SERVICIOS TECNICOS EN PROTECCIÓN RADIOLÓGICA V. 2.0
-
-Página 2 de 2
 
 6 Dos fotografías tamaño Carnet.
-□
-Art. 5 y 11 del Registro Nacional de
-Prestadores de Servicios Técnicos en
-Protección Radiológica (Acuerdo
-Ministerial SEN-015-2021).
-Art. 11. Reglamento de Protección
-Radiológica.
+
 7. Constancia original de Solvencia extendida por el
 colegio profesional respectivo o afín.
-□
-Art. 5 y 11 del Registro Nacional de
-Prestadores de Servicios Técnicos en
-Protección Radiológica (Acuerdo
-Ministerial SEN-015-2021).
-Art. 11. Reglamento de Protección
-Radiológica.
+
 8. Declaración Jurada debidamente autenticada, en la que
 el solicitante manifieste no incluir información falsa, datos
 incorrectos u omisión de información en los trabajos o
 estudios elaborados y a presentar ante la SEN.
-□
-Art. 11. Reglamento de Protección
+
 Radiológica
 9. Presentar Recibo TGR-1 con su comprobante de pago
 para la emisión de la constancia y carnet respectivo:
@@ -160,14 +103,15 @@ Servicios en Protección Radiológica.
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión, Constancias
 y Otros.
+
+## Costo (según el documento)
+
 Monto: L. 500.00
 
 Ver nota No.1.
-□
+
 Art. 11 del Registro Nacional de
-Prestadores de Servicios Técnicos en
-Protección Radiológica (Acuerdo
-Ministerial SEN-015-2021).
+
 Nota 1: Con base a las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la Republica
 Ejercicio Fiscal vigente, el Recibo TGR solo es vigente y admitido en la SEN durante 15 días, los cuales son
 contados a partir de la fecha que se realiza el pago en la entidad bancaria, por tanto, debe presentarse en físico
@@ -193,7 +137,7 @@ la Autorización para una fecha determinada.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-dgsr/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

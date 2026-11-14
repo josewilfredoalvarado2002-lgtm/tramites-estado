@@ -15,7 +15,7 @@ dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T22:08
 huella: "aa9a2a7c630ebae296d5fe09f0b8a2a1fcbc74f41070fd224c218c14e13a87b2"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # EXONERACIÓN DEL IMPUESTO SOBRE VENTAS PARA CONSTRUCCIÓN DE EDIFICACIONES DEL ADULTO MAYOR

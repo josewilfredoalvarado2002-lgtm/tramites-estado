@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "RTN"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/cierre-de-establecimiento/"
 documentos:
   - "https://www.sar.gob.hn/download/cierre-de-establecimiento/?wpdmdl=3289"
 actualizado_sitio: "junio 10, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "cf5e05a2009dfd69ab4912adcf4be476f045143fd6f75cd3246da059e6727d28"
+extraido: 2026-11-14T00:15
+huella: "51d6cf43a107afeb85dece56a68f68c461dcd0e6225b8a5cfc4499f99c3cce47"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | junio 10, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS CIERRE DE
 ESTABLECIMIENTO
@@ -68,7 +72,7 @@ para extranjeros, indicando si posee las siguientes facultades:
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/cierre-de-establecimiento/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

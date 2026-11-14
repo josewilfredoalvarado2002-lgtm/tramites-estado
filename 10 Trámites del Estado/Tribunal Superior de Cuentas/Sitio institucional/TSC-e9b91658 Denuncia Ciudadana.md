@@ -7,14 +7,16 @@ aliases:
   - "Denuncia Ciudadana"
 institucion: "Tribunal Superior de Cuentas"
 categoria: "Servicios prestados"
-calidad: "solo_requisitos"
+calidad: "solo_para_que"
+para_que: "El Tribunal Superior de Cuentas ha establecido el Sistema de Atención a la Denuncia Ciudadana para atender en forma oportuna y eficaz a los ciudadanos y/u Organizaciones Sociales que desean formular denuncias sobre conductas irregulares de los Servidores Públicos y /o de aquellas personas que manejan dineros del Estado."
+tiene_requisitos: false
 url_ficha: "https://www.tsc.gob.hn/index.php/servicios-prestados/"
 documentos: []
 actualizado_sitio: "2026-06-29"
 dominio_verificado: "tsc.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T21:32
-huella: "85e353e852776919d1a8be8cf30710021a3a5c15afffa76e7b32df4fd74806ce"
+extraido: 2026-11-14T00:45
+huella: "7d79e4263dea58298b8c40b773c865f21216d7348b359479e9dbf7c07aaf637e"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Tribunal Superior de Cuentas |
 | Categoría | Servicios prestados |
 | Última actualización que muestra el sitio | 2026-06-29 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -48,7 +50,7 @@ Denuncia Ciudadana en Línea
 ## Fuente
 
 - Ficha: https://www.tsc.gob.hn/index.php/servicios-prestados/
-- Fecha y hora de extracción: 2026-11-13 21:32 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2020/11/FORMULARIO-DE-SOLICITUD-DE-EXPLORACIÓN-DE-HIDROCARBUROS.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "6f2089f3f8f1401f62b960019bd97145bbfda1581fd2e3422eb57a4a245f5584"
+extraido: 2026-11-14T00:44
+huella: "cde0e0013998d63ce42a3dc836e2ebb498fa4ed0812314f776adfb28148ebb13"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,25 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
+
+Requisitos
+Ley de Hidrocarburos 21, 22, 25, 26, 27, 38, 39, 40 y 42 Reglamento de la Ley de
+Hidrocarburos 3, 27, 28, 29, 30.
+
+Reglamento de Hidrocarburos artículos 34, 35 y 36.
+
+Firma del Solicitante:__________________________________
+
+Cargo del Solicitante:
+
+Fecha:
+
+Número de Expediente Asignado:
+
+## Otro texto del documento
 
 FORMULARIO DE SOLICITUD DE EXPLORACIÓN DE HIDROCARBUROS
 
@@ -50,13 +70,13 @@ Dirección para Recepción de Notificaciones:
 Documentos Presentados
 
 Documento Presentado SI NO Observación
-1
+
 Copia Autenticada
 de Tarjeta de
 Identidad
 
 2 RTN de la Empresa Solicitante
-3
+
 Documentación que
 acredite capacidad
 técnica y
@@ -65,7 +85,6 @@ en el desarrollo de
 proyectos de similar
 índole al solicitado.
 
-4
 Documentación que
 acredite capacidad
 financiera para
@@ -78,7 +97,6 @@ Inscripción en el
 Registro Mercanti
 
 6 Copia Autenticada de la escritura
-
 social y sus
 estatutos
 
@@ -106,10 +124,8 @@ Beneficios
 especiales a favor
 del Estado.
 
-Garantías
-
 Documento SI NO Observación
-1
+
 Depósito en
 efectivo en el
 Banco Central de
@@ -127,10 +143,8 @@ seguros, autorizada
 para hacer negocios
 en Honduras.
 
-3
 Garantía Bancaria
 
-4
 Garantía por parte
 de casas matrices
 en el extranjero .
@@ -140,22 +154,6 @@ realizado el Análisis Legal y Técnico correspondiente, podrá solicitar que la
 información y documentación proporcionada sea modificada o ampliada, a efecto de
 cumplir con las disposiciones contenidas en la Ley de Hidrocarburos y su Reglamento.
 
-Base Legal:
-
-Requisitos
-Ley de Hidrocarburos 21, 22, 25, 26, 27, 38, 39, 40 y 42 Reglamento de la Ley de
-Hidrocarburos 3, 27, 28, 29, 30.
-Garantías
-Reglamento de Hidrocarburos artículos 34, 35 y 36.
-
-Firma del Solicitante:__________________________________
-
-Cargo del Solicitante:
-
-Fecha:
-
-Número de Expediente Asignado:
-
 ## Documentos
 
 - [Trámites disponibles — formulario](https://sen.hn/wp-content/uploads/2020/11/FORMULARIO-DE-SOLICITUD-DE-EXPLORACIÓN-DE-HIDROCARBUROS.pdf)
@@ -163,7 +161,7 @@ Número de Expediente Asignado:
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

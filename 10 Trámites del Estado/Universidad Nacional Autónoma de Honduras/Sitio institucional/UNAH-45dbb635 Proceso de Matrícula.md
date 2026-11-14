@@ -7,14 +7,16 @@ aliases:
   - "Proceso de Matrícula"
 institucion: "Universidad Nacional Autónoma de Honduras"
 categoria: "Servicios"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "Una vez que el estudiante ha creado su expediente en la oficina de Registro, debe esperar las fechas la pre-matrícula y matrícula del período académico en el cual desea estudiar."
+tiene_requisitos: false
 url_ficha: "https://www.unah.edu.hn/servicios"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "unah.edu.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:23
-huella: "3bc8078e79a324d459222afb3fc122ef91ada4fa280ad1eb6079b5c999384c07"
+extraido: 2026-11-14T00:45
+huella: "0e6a8db7671619d220b09c4d5751b3c9e5af517086081478239dbaec832e2a38"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Universidad Nacional Autónoma de Honduras |
 | Categoría | Servicios |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -44,7 +46,7 @@ Para matricular asignaturas, los estudiantes realizan los siguientes pasos:
 ## Fuente
 
 - Ficha: https://www.unah.edu.hn/servicios
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

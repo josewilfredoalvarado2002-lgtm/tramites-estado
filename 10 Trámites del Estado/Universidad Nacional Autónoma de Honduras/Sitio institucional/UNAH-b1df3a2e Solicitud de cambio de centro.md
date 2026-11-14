@@ -7,14 +7,16 @@ aliases:
   - "Solicitud de cambio de centro"
 institucion: "Universidad Nacional Autónoma de Honduras"
 categoria: "Servicios"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "El estudiante que desea trasladarse a otro centro universitario de la UNAH a nivel nacional o a la modalidad de Educación a Distancia o Virtual, deberá solicitar un cambio de centro."
+tiene_requisitos: false
 url_ficha: "https://www.unah.edu.hn/servicios"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "unah.edu.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:23
-huella: "68863bac15d7e291522224abf050721841684bc9a8d77f4fb69cd4b39f06e5b9"
+extraido: 2026-11-14T00:45
+huella: "d7d4eee84a4e6b2f1b7980ad00632cf4b10e2fa0c88509ef62b56a214d758322"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Universidad Nacional Autónoma de Honduras |
 | Categoría | Servicios |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -46,7 +48,7 @@ El estudiante podrá presentar la solicitud de cambio de centro de forma electr�
 ## Fuente
 
 - Ficha: https://www.unah.edu.hn/servicios
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

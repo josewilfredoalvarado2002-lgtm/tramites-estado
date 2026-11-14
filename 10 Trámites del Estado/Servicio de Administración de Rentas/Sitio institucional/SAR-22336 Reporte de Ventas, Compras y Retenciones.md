@@ -16,7 +16,7 @@ dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
 extraido: 2026-11-13T21:47
 huella: "22ae2776ee755d29a900077859976c127a2171129e889dafe49807a78c8c2919"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # Reporte de Ventas, Compras y Retenciones

@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Desarrollo Económico/Secretaría de Desarrollo Económico|Secretaría de Desarrollo Económico]]"
 categoria: "Trámites"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sde.gob.hn/tramites-empresariales/"
 documentos:
   - "https://sde.gob.hn/wp-content/uploads/2022/06/Requisitos-Certificado-Zoosanitario.pdf"
@@ -15,8 +17,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sde.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:09
-huella: "996cbed605256972b7ba88d3ea5361802fa5e8907c28271f8f846e36ee344640"
+extraido: 2026-11-14T00:36
+huella: "81de45a7928da35ae6bc578f6bd53300962ac289531732d3d62b7122321ca287"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -33,12 +35,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Centro Cívico Gubernamental, Torre 1, piso 8 y 9.
-Tegucigalpa, M.D.C., Honduras C.A.
-
-sde.hn @SDEHonduras sde.hn
+## Requisitos (según el documento oficial)
 
 Requisitos Certificados Zoosanitario de Exportación:
 i. Llenado de solicitud de Certificado Fitosanitario en el Sistema Electrónico de Comercio
@@ -70,30 +69,7 @@ Acuícolas
 Acuícolas
 7. Reglamento de Inspección de Carnes y Productos Cárnico
 
-## Formatos (texto del documento oficial)
-
-CERTIFICADO SANITARIO OFICIAL DE ANIMALES, PRODUCTOS, SUB PRODUCTOS, PRODUCTOS
-VETERINARIOS Y ALIMENTOS CONCENTRADOS PARA ANIMALES
-EXPORT ZOOSANITARY CERTIFICATE OF ANIMAL PRODUCTS AND BY PRODUCTS
-(1) Tipo de Certificado : Certificado No. Ciudad(City): TGR No.
-
-(2) NOMBRE, DIRECCIÓN Y TELÉFONO DEL EXPORTADOR /
-NAME, ADDRESS AND NUMBER PHONE OF THE EXPORTER
-(3)NOMBRE, DIRECCIÓN Y TELÉFONO DEL DESTINATARIO /
-NAME, ADDRESS AND NUMBER PHONE OF CONSIGNEE
-
-(4) IDENTIFICACIÓN DE LOS ANIMALES O PRODUCTOS / (5) NÚMERO Y TIPO DE EMBALAJE/
-NUMBER OF/AND KIND PACKAGES
-(6) PESO KGS. / WEIGHT KGS.
-IDENTIFICATION OF THE ANIMALS OR PRODUCTS
-
-(7)MEDIO DE TRANSPORTE /
-WAY OF TRANSPORT
-(8)PAÍS DE ORIGEN / (8.1) PUERTO DE
-EMBARQUE /
-PORT OF LOADING
-
-COUNTRY OF ORIGIN
+## Notas (según el documento)
 
 (13)OBSERVACIONES /
 OBSERVATIONS
@@ -130,6 +106,38 @@ INTERNATIONAL
 9) PUERTO DE DESTINO /DESTINY PORT:
 (9.1) DESTINO FINAL /FINAL DESTINY
 
+## Otro texto del documento
+
+Centro Cívico Gubernamental, Torre 1, piso 8 y 9.
+Tegucigalpa, M.D.C., Honduras C.A.
+
+sde.hn @SDEHonduras sde.hn
+
+## Otro texto del documento — Formatos — Zoosanitario
+
+CERTIFICADO SANITARIO OFICIAL DE ANIMALES, PRODUCTOS, SUB PRODUCTOS, PRODUCTOS
+VETERINARIOS Y ALIMENTOS CONCENTRADOS PARA ANIMALES
+EXPORT ZOOSANITARY CERTIFICATE OF ANIMAL PRODUCTS AND BY PRODUCTS
+(1) Tipo de Certificado : Certificado No. Ciudad(City): TGR No.
+
+(2) NOMBRE, DIRECCIÓN Y TELÉFONO DEL EXPORTADOR /
+NAME, ADDRESS AND NUMBER PHONE OF THE EXPORTER
+(3)NOMBRE, DIRECCIÓN Y TELÉFONO DEL DESTINATARIO /
+NAME, ADDRESS AND NUMBER PHONE OF CONSIGNEE
+
+(4) IDENTIFICACIÓN DE LOS ANIMALES O PRODUCTOS / (5) NÚMERO Y TIPO DE EMBALAJE/
+NUMBER OF/AND KIND PACKAGES
+(6) PESO KGS. / WEIGHT KGS.
+IDENTIFICATION OF THE ANIMALS OR PRODUCTS
+
+(7)MEDIO DE TRANSPORTE /
+WAY OF TRANSPORT
+(8)PAÍS DE ORIGEN / (8.1) PUERTO DE
+EMBARQUE /
+PORT OF LOADING
+
+COUNTRY OF ORIGIN
+
 ## Documentos
 
 - [Requisitos — Zoosanitario](https://sde.gob.hn/wp-content/uploads/2022/06/Requisitos-Certificado-Zoosanitario.pdf)
@@ -138,7 +146,7 @@ INTERNATIONAL
 ## Fuente
 
 - Ficha: https://sde.gob.hn/tramites-empresariales/
-- Fecha y hora de extracción: 2026-11-13 22:09 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:36 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

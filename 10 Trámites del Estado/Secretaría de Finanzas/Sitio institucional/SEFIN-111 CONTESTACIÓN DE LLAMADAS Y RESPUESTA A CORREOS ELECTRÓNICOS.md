@@ -15,7 +15,7 @@ dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T22:08
 huella: "6b0dc087b256db930d284da43206deb4ecac0a8b458fb0c825a46c370f0b08a2"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # CONTESTACIÓN DE LLAMADAS Y RESPUESTA A CORREOS ELECTRÓNICOS

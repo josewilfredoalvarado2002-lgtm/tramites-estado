@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Secretaria General"
 calidad: "completo"
+para_que: "Es para autorizar que el almacen fiscal se traslade a su local o amplie el mismo"
+tiene_requisitos: true
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos:
   - "https://www.sefin.gob.hn/download_file.php?download_file=/wp-content/uploads/2018/11/Procedimiento7.pdf"
@@ -15,8 +17,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "cda208654a57ac94820357b4feb87c981cea7a0e580cb5db7bd326be483474c3"
+extraido: 2026-11-14T00:35
+huella: "282f21b93c1cdb3efee4ecbb39fd5718b2cc34ca662b2ecc5fee1f9480d4e9be"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -33,15 +35,27 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | completo |
 
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
 ## Descripcion
 
 Es para autorizar que el almacen fiscal se traslade a su local o amplie el mismo
+
+## Requisitos (según el documento oficial)
+
+file:///D|/nuevoSitio/Produccion/procedimientos/Requisito7.txt[27/02/2019 04:03:10 p.m.]
+1. Solicitud mediante Apoderado legal con los alegatos que se considere necesario debidamente justificados con poder
+autenticado
+2. Escritura de constitución de la empresa.
+3. Mapa topográfico del lugar autorizado
+4. Los antecedentes del caso si anteriormente se han emitido resoluciones sobre ello.
+5. Otra documentación que considere necesario el interesado según el caso.
 
 ## Tasa_derechos
 
 Se realiza el pago de L 200.00 en cualquier Institución Bancaria para el cual debe de imprimir el Recibo de la Tesorería General de la República (el enlace aparece en esta columna para su impresión).
 
-## Procedimientos (texto del documento oficial)
+## Procedimiento (según el documento)
 
 file:///D|/nuevoSitio/Produccion/procedimientos/Procedimiento7.txt[27/02/2019 04:03:09 p.m.]
 1. El solicitante se presenta a Secretaría General la solicitud con la documentación correspondiente a la vez se asigna
@@ -61,16 +75,6 @@ General para su notificación.
 Certificación de la Resolución al Apoderado Legal.
 8. Archivo del expediente de mérito.
 
-## Requisitos (texto del documento oficial)
-
-file:///D|/nuevoSitio/Produccion/procedimientos/Requisito7.txt[27/02/2019 04:03:10 p.m.]
-1. Solicitud mediante Apoderado legal con los alegatos que se considere necesario debidamente justificados con poder
-autenticado
-2. Escritura de constitución de la empresa.
-3. Mapa topográfico del lugar autorizado
-4. Los antecedentes del caso si anteriormente se han emitido resoluciones sobre ello.
-5. Otra documentación que considere necesario el interesado según el caso.
-
 ## Documentos
 
 - [Procedimientos — 1.2 Traslado de la extensión de almacén fiscal privado](https://www.sefin.gob.hn/download_file.php?download_file=/wp-content/uploads/2018/11/Procedimiento7.pdf)
@@ -79,7 +83,7 @@ autenticado
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

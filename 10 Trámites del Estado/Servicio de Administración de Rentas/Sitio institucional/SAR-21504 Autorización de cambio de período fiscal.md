@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Solicitudes"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/autorizacion-de-cambio-de-periodo-fiscal/"
 documentos:
   - "https://www.sar.gob.hn/download/autorizacion-de-cambio-de-periodo-fiscal/?wpdmdl=21504"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "1832c5e0ce65d1e044fab205791965e7c3465314b04e9d40c5d078cf31d679ee"
+extraido: 2026-11-14T00:15
+huella: "a7d4429ac1dbeafd5b7a4b278b6d1958876fbfd67c1d584577d37e243ecd0b05"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,14 +34,18 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE AUTORIZACIÓN DE CAMBIO
 DE PERÍODO FISCAL
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Gestión Tributaria
+
 REQUISITOS DE AUTORIZACIÓN DE CAMBIO DE PERÍODO
 FISCAL
+
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
 Escrito de Solicitud que contenga los requisitos
 establecidos en el Artículo 61 de la Ley de
@@ -70,7 +76,7 @@ Computo)
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/autorizacion-de-cambio-de-periodo-fiscal/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -7,15 +7,17 @@ aliases:
   - "Facilidades de Pago"
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Facilidades de pago"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "DESCRIPCIÓN DEL TRÁMITE Podrá ser solicitado por el Obligado Tributario (OT) o responsable que a falta de capacidad económica no ha podido cubrir el pago de sus obligaciones tributarias y desea hacerlo en forma parcial. En ningún caso se podrán dar facilidades de pago a las obligaciones tributarias que devienen de impuestos retenidos o percibidos. El OT o responsable obtendrá el Convenio de Pago d"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/facilidad-de-pago/"
 documentos:
   - "https://www.sar.gob.hn/download/facilidad-de-pago/?wpdmdl=21536"
 actualizado_sitio: "marzo 21, 2025"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "1e8178aa5adc5e80348f7bcce400616836acdc0bd793998238d1a6f6aa8b4053"
+extraido: 2026-11-14T00:15
+huella: "ec57e90014e0897cee8ba59cb6da932311ba24e98cabf04a06875b235d1b2dc9"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,21 +32,11 @@ estado_sitio: "Vigente"
 | Institución | Servicio de Administración de Rentas |
 | Categoría | Facilidades de pago |
 | Última actualización que muestra el sitio | marzo 21, 2025 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-TRÁMITES DE
-RECAUDACIÓN
-FACILIDAD DE PAGO
-
-Dirección Nacional de Cumplimiento Tributario
-Departamento de Recaudación
-
-1
-
-FACILIDAD DE PAGO
-_____________________________________________________________________________________
+## Para qué se hace (según el documento)
 
 DESCRIPCIÓN DEL TRÁMITE
 Podrá ser solicitado por el Obligado Tributario (OT) o responsable que a falta de capacidad
@@ -68,6 +60,9 @@ documentación de carácter opcional.
 c) Para finalizar, previo a la presentación de la solicitud, se debe seleccionar el método de
 pago a través de Boletín de Pago Libre disponible o se podrá aportar un Boletín de Pago
 pendiente, que deberá ser pagado más adelante.
+
+## Requisitos (según el documento oficial)
+
 REQUISITOS
 a) Realizar el pago por actos administrativos por el valor de L200.00.
 
@@ -88,6 +83,18 @@ b) Pago máximo inicial
 - PERSONA NATURAL:
 
 a) Pago máximo inicial (Si aplica)
+
+## Costo (según el documento)
+
+PAGO, PARA IMPUESTO______________ DEL (LOS) PERÍODO (S) ___________ (EXPLICAR EL
+MOTIVO POR EL CUAL ESTÁ REALIZANDO LA SOLICITUD.)
+AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL PRESENTE
+ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y RESOLVER DE CONFORMIDAD:
+TEGUCIGALPA, M.D.C. _____ DE _________________DEL 20____.
+____________________________________
+NOMBRE Y FIRMA
+
+## Base legal (según el documento)
 
 BASE LEGAL
 - Constitución de La República: Artículos 321 y 351.
@@ -111,13 +118,20 @@ TELEFONO MOVIL N°. ___________ CORREO ELECTRONICO ________________________,
 COMPAREZCO ANTE USTED SEÑOR(A) MINISTRO (A) DIRECTOR (A), ACTUANDO EN MI
 CONDICION DE _________________ (SI ES PERSONA JURÍDICA ESPECIFICAR EL NOMBRE DE LA
 EMPRESA _______________Y EL RTN___________________), PARA SOLICITAR FACILIDAD DE
-PAGO, PARA IMPUESTO______________ DEL (LOS) PERÍODO (S) ___________ (EXPLICAR EL
-MOTIVO POR EL CUAL ESTÁ REALIZANDO LA SOLICITUD.)
-AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL PRESENTE
-ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y RESOLVER DE CONFORMIDAD:
-TEGUCIGALPA, M.D.C. _____ DE _________________DEL 20____.
-____________________________________
-NOMBRE Y FIRMA
+
+## Otro texto del documento
+
+TRÁMITES DE
+RECAUDACIÓN
+FACILIDAD DE PAGO
+
+Dirección Nacional de Cumplimiento Tributario
+Departamento de Recaudación
+
+1
+
+FACILIDAD DE PAGO
+_____________________________________________________________________________________
 
 ## Documentos
 
@@ -126,7 +140,7 @@ NOMBRE Y FIRMA
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/facilidad-de-pago/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/10/Comercializador-Lubricantes-Aditivos_Art5-1.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "243ddfccfb3a4fc8c6d1ced111b8632b324bfcab43a7e7f8a20df262301079c0"
+extraido: 2026-11-14T00:44
+huella: "70929dd9d2a3fdc13884f85e4921d54c022f5527c4dbedd3c4a6f0d66ea2f7db"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,18 +34,10 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Página 1 de 2
+## Requisitos (según el documento oficial)
 
-Inscripción bajo la figura de Comercialización de Lubricantes y/o Aditivos
-(Documentación del Establecimiento que opera como oficina principal).
-Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
-Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
-agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
-2025).
-
-Artículo No. 5.
 1
 Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de Procedimiento
 Administrativo.
@@ -78,8 +72,6 @@ Presentar Declaración Jurada emitida por el Representante Legal, donde declare 
 Que el producto será destinado a la venta sin modificación ni apertura de envase de origen.
 Que el producto se etiquetará en idioma español con lo siguiente: Composición, volumen del contenido, origen o
 procedencia, especificaciones técnicas de uso, señalización de producto peligroso.
-
-Página 2 de 2
 
 17
 Presentar memora técnica del establecimiento principal y de todos los establecimientos en propiedad o
@@ -118,6 +110,17 @@ En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben p
 de las fotocopias que consten en el certificado de autenticidad deben presentarse con la media firma y sello
 estampado del notario.
 
+## Otro texto del documento
+
+Inscripción bajo la figura de Comercialización de Lubricantes y/o Aditivos
+(Documentación del Establecimiento que opera como oficina principal).
+Acuerdo Ministerial No. SEN-001-2020 (publicado el Diario Oficial La Gaceta en fecha 29 de enero de 2020) y su
+Reforma mediante el Acuerdo Ministerial No. SEN-119-2022 (publicado el Diario Oficial La Gaceta en fecha 30 de
+agosto de 2022), y Acuerdo Ministerial No. SEN-060-2025 (publicado el Diario Oficial La Gaceta en fecha 27 de agosto
+2025).
+
+Artículo No. 5.
+
 ## Documentos
 
 - [Comercializador Lubricantes-Aditivos_Art5](https://sen.hn/wp-content/uploads/2026/10/Comercializador-Lubricantes-Aditivos_Art5-1.pdf)
@@ -125,7 +128,7 @@ estampado del notario.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

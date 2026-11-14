@@ -7,15 +7,17 @@ aliases:
   - "Rectificación de Pagos a Cuenta"
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Rectificación de pagos a cuenta"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "Descripción del trámite Consiste en solicitar la rectificación del monto de las cuotas de Pagos a Cuenta o Anticipos del Impuesto Sobre la Renta y Aportación Solidaria, en situaciones en las que existen motivos debidamente justificados que sustentan una variación razonable en los ingresos o utilidad del período fiscal vigente. Este trámite se puede realizar de forma presencial o a través de la Ofi"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/rectificacion-de-pagos-a-cuenta/"
 documentos:
   - "https://www.sar.gob.hn/download/rectificacion-de-pagos-a-cuenta/?wpdmdl=21535"
 actualizado_sitio: "agosto 25, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "c0dae6cca2ea4975242814d390acd0bba0e5d5f5d4a975411aefe8c12c69f2a1"
+extraido: 2026-11-14T00:15
+huella: "6050d9f45a210f5e796d671da7a1958af9167e6f11e6668c0d6ac162afc465fe"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,18 +32,11 @@ estado_sitio: "Vigente"
 | Institución | Servicio de Administración de Rentas |
 | Categoría | Rectificación de pagos a cuenta |
 | Última actualización que muestra el sitio | agosto 25, 2026 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-TRÁMITES DE RECAUDACIÓN
-RECTIFICACIÓN DE PAGOS A
-CUENTA O ANTICIPOS
-
-Dirección Nacional de Cumplimiento Tributario
-Departamento de Recaudación
-
-RECTIFICACIÓN DE PAGOS A CUENTA O ANTICIPOS
+## Para qué se hace (según el documento)
 
 Descripción del trámite
 
@@ -74,6 +69,8 @@ Boletín de Pago más adelante.
 Importante: La recepción de la petición por parte de la Administración Tributaria no da
 inicio al trámite. La solicitud solo comenzará a procesarse una vez validado el pago.
 
+## Requisitos (según el documento oficial)
+
 REQUISITOS
 
 a) Realizar el pago por actos administrativos por el valor de L200.00.
@@ -98,6 +95,8 @@ razonabilidad de la información financiera presentada.
 mixtos) presentar constancias de retención, recibos por honorarios
 extendidas a la fecha y/o comprobantes de retención, así como constancia
 laboral.
+
+## Base legal (según el documento)
 
 BASE LEGAL
 
@@ -139,6 +138,17 @@ RESOLVER DE CONFORMIDAD: LUGAR Y FECHA:
 
 NOMBRE Y FIRMA
 
+## Otro texto del documento
+
+TRÁMITES DE RECAUDACIÓN
+RECTIFICACIÓN DE PAGOS A
+CUENTA O ANTICIPOS
+
+Dirección Nacional de Cumplimiento Tributario
+Departamento de Recaudación
+
+RECTIFICACIÓN DE PAGOS A CUENTA O ANTICIPOS
+
 ## Documentos
 
 - [Rectificación de Pagos a Cuenta](https://www.sar.gob.hn/download/rectificacion-de-pagos-a-cuenta/?wpdmdl=21535)
@@ -146,7 +156,7 @@ NOMBRE Y FIRMA
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/rectificacion-de-pagos-a-cuenta/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

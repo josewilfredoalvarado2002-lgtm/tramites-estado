@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Otras notificaciones"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/notificacion-de-cese-de-actividades-persona-juridica/"
 documentos:
   - "https://www.sar.gob.hn/download/notificacion-de-cese-de-actividades-persona-juridica/?wpdmdl=21499"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "08245ae0642e44ace81862bc3000af51554afe80d223778dbe4a0278b41f23ee"
+extraido: 2026-11-14T00:15
+huella: "4619e69edf82bbd876068ac05fd68cd7bdded8ef1858cdbd7537845677e07ca1"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE NOTIFICACIÓN DE CESE DE
 ACTIVIDADES PERSONA JURÍDICA
@@ -42,6 +46,7 @@ Departamento de Gestión Tributaria
 
 REQUISITOS DE NOTIFICACIÓN DE CESE DE ACTIVIDADES PERSONA
 JURÍDICA
+
 REQUISITOS OBLIGATORIOS REQUISITOS NO OBLIGATORIOS
 Escrito de Solicitud que contenga los requisitos
 establecidos en el Artículo 61 de la Ley de
@@ -112,7 +117,7 @@ Comprobante de boletín de pago L200.00
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/notificacion-de-cese-de-actividades-persona-juridica/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

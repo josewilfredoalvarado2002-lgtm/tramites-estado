@@ -15,7 +15,7 @@ dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T22:08
 huella: "88d62fb53ab6f9300a7df80e317d46f5b16644df490571974bef83a72537f758"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # Respuesta a Solicitudes del Tribunal Superior de Cuentas Ministerio Publico Consejo Nacional Anticorrupción y de personas naturales o empresas/CONSTANCIAS RETENCION IMPUESTO SOBRE VENTAS Y RENTA

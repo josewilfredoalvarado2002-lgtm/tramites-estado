@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2026/10/Constancia-Inafectabilidad-Tierras-Biocombs_144-2007.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "b2dd2ba00898f9ded991514e849dd46cefa308d03244f704a44ec7f22d0723d0"
+extraido: 2026-11-14T00:44
+huella: "c701c0ff7ce4564b3ce65ae478dda72c285b1e87eaf56626429e8d201f59373c"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,14 +34,14 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Página 1 de 3
+## Requisitos (según el documento oficial)
 
 Requisitos para Solicitud de
 Solicitud de Constancia de Inafectabilidad de Tierras de Productores de Biocombustibles
 No. Requisitos: Decreto No. 144-2007 publicado en el Diario Oficial La Gaceta el 31 de diciembre del año 2007
-1
+
 Escrito de solicitud cumpliendo con los requisitos establecidos en el Artículo 61 de la Ley de
 Procedimiento Administrativo.
 1.1 Suma:
@@ -73,10 +75,13 @@ Comprobar propiedad o titularidad de tierras mediante los siguientes documentos:
 13 Copia digital de todos los documentos que se presentan para el registro de la empresa en CD.
 14 Presentar toda la documentación de forma digital, previo al ingreso en físico debe presentarse mediante el correo electrónico ventanillaunica@sen.hn;
 15
-(En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019).
+
 Presentar Recibo TGR con su comprobante de pago en CONCEPTO DE INSPECCIÓN para el Solicitud de
 Constancia de Inafectabilidad de Tierras de Productores de Biocombustibles de la siguiente forma:
 Institución: 310 - Secretaría de Energía. Rubro: 12199 – Tasas Varias.
+
+## Costo (según el documento)
+
 Monto de acuerdo con la Ubicación física del establecimiento:
 Francisco Morazán 12,000.00
 Islas de la Bahía y la Mosquitia L 32,000.00 El resto del País L 22,000.00
@@ -85,24 +90,13 @@ En los casos que la inspección de campo requiera más de dos días, por cada d�
 inspector, se requerirá el pago en base al Reglamento de Viáticos y otros Gastos de Viaje para Empleados
 y Funcionarios del Poder Ejecutivo.
 
-Página 2 de 3
-
-*En base al Decreto Legislativo 107-2021 contentivo de las Disposiciones Generales del Presupuesto
-General de Ingresos y Egresos de la Republica Ejercicio Fiscal 2022, Artículo 25. El Recibo TGR solo es
-vigente y admitido en la SEN durante 15 días, los cuales son contados a partir de la fecha que se realiza
-el pago en la entidad bancaria, por tanto, debe presentarse en físico ante las oficinas de la Secretaría de
-Energía en dicho tiempo, caso contrario será requerido nuevamente.
 16
-(En base al Acuerdo SEN 002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019).
+
 Presentar Recibo TGR con su comprobante de pago en concepto de Solicitud de Constancia de
 Inafectabilidad de Tierras de Productores de Biocombustibles de la siguiente forma: Institución: 310 -
 Secretaría de Energía.
 Rubro: 12209 – Otras Licencias. Monto: L 10,000.00
 
-*En base al Decreto Legislativo 107-2021 contentivo de las Disposiciones Generales del Presupuesto
-General de Ingresos y Egresos de la Republica Ejercicio Fiscal 2022, Artículo 25. El Recibo TGR solo es
-vigente y admitido en la SEN durante 15 días, los cuales son contados a partir de la fecha que se realiza
-el pago en la entidad bancaria, por tanto, debe presentarse en físico ante las oficinas de la Secretaría de
 Energía en
 dicho tiempo, caso contrario será requerido nuevamente.
 17
@@ -111,11 +105,6 @@ Resolución, de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros. Monto: L 200.00
 
-*En base al Decreto Legislativo 107-2021 contentivo de las Disposiciones Generales del Presupuesto
-General de Ingresos y Egresos de la Republica Ejercicio Fiscal 2022, Artículo 25. El Recibo TGR solo es
-vigente y admitido en la SEN durante 15 días, los cuales son contados a partir de la fecha que se realiza
-el pago en la entidad bancaria, por tanto, debe presentarse en físico ante las oficinas de la Secretaría de
-Energía en dicho tiempo, caso contrario será requerido nuevamente.
 18 Cualquier otro requisito solicitado por la SEN. (Estos serán solicitados en cualquier etapa del proceso con la finalidad de aclarar o corroborar la información presentada).
 19
 Para las solicitudes que se presentan por primera vez, toda la información se debe presentar foliada,
@@ -129,7 +118,7 @@ TIPO DE CONSTANCIA:
 1- “Constancia de Estatus de Expediente” en base al Reglamento de Organización, Funcionamiento y Competencia
 del Poder Ejecutivo artículo 27 numeral 2. Con vigencia de 30 días calendario.
 No. Requisitos:
-1
+
 Escrito de solicitud:
 Suma: Se solicita “Constancia de Estatus de Expediente” de Solicitud de Constancia de Inafectabilidad de
 Tierras de Productores de Biocombustibles a favor de la Sociedad o Comerciante Individual (XXX).
@@ -141,14 +130,6 @@ Expediente, de la siguiente forma:
 Institución: 310 - Secretaría de Energía.
 Rubro: 12121 – Emisión, Constancias, Certificaciones y Otros. Monto: L 200.00
 
-Página 3 de 3
-
-*En base al Decreto Legislativo 107-2021 contentivo de las Disposiciones Generales del Presupuesto
-General de Ingresos y Egresos de la Republica Ejercicio Fiscal 2022, Artículo 25. El Recibo TGR solo es
-vigente y admitido en la SEN durante 15 días, los cuales son contados a partir de la fecha que se realiza
-el pago en la entidad bancaria, por tanto, debe presentarse en físico ante las oficinas de la Secretaría de
-Energía en dicho tiempo, caso contrario será requerido nuevamente.
-
 ## Documentos
 
 - [Constancia de inafectabilidad de tierras Biocombs 144-2007](https://sen.hn/wp-content/uploads/2026/10/Constancia-Inafectabilidad-Tierras-Biocombs_144-2007.pdf)
@@ -156,7 +137,7 @@ Energía en dicho tiempo, caso contrario será requerido nuevamente.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

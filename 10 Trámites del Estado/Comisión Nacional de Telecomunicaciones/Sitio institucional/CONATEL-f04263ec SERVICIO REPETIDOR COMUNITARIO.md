@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224"
@@ -21,8 +23,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "14412d26aa22223fe92f9094debac58c21d63ab2f3ec0d570a461ecb43e3c5c3"
+extraido: 2026-11-14T00:37
+huella: "0c3faae27ce03b3dd93b470e8d0dbf2e3c9c55566b504f74d511f9e999916525"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -39,14 +41,14 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
-SERVICIO REPETIDOR COMUNITARIO
-V.3
-Página 1 de 2
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO NS RN MD
 1.
 Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de La Ley de
@@ -54,7 +56,7 @@ Procedimiento Administrativo, que deberá contener: domicilio, datos generales, 
 teléfono celular y correo electrónico.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante
 3. Carta Poder debidamente autenticada o Poder en Escritura Pública (debidamente autenticada).
-4.
+
 Declaración Jurada de No estar Comprendido, en lo preceptuado según el Artículo 92 inciso
 del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente
 autenticada).
@@ -102,11 +104,9 @@ Banca y Seguros (CNBS), que acredite la capacidad económica para llevar a cabo 
 proyecto por parte del Solicitante, ya sea fondos propios o externos.
 
 REQUISITOS
-SERVICIO REPETIDOR COMUNITARIO
-V.3
-Página 2 de 2
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO PARA CANCELACIONES CPL CTL CP
 1. Solicitud por medio de Apoderado Legal en base a los artículos No.56, 60 y 61 de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
@@ -115,7 +115,7 @@ Acreditar pago de aviso por:
 Cancelación Parcial en Licencia: según Resolución Normativa de Tasas y Canon Vigente.
 Cancelación Total de Licencia: según Resolución Normativa de Tasas y Canon Vigente.
 Cancelación de Permiso: según Resolución Normativa de Tasas y Canon Vigente.
-4.
+
 Presentar Constancias de que está Solvente Económica y documentalmente (esta última cuando el
 operador tenga autorizado un servicio de carácter público), emitida por el Departamento de
 Administración de Cartera y Cobranzas y/o la Dirección de Planificación y Desarrollo, respectivamente,
@@ -144,13 +144,12 @@ Nomenclatura
 - [Forma 900](https://cms.conatel.gob.hn/assets/c0ad5a62-c02d-4b2a-b2e3-84559a5ed643)
 - [Forma 920](https://cms.conatel.gob.hn/assets/6bc9122e-1940-4e3b-b830-f5de759f4223)
 - [Instructivo 101](https://cms.conatel.gob.hn/assets/c925e915-fae2-4739-92e3-59db81c43eb5)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/8142e9ca-82a7-4655-915a-3e74a35f7291)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/8142e9ca-82a7-4655-915a-3e74a35f7291)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

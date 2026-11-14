@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "RTN"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/requisitos-registro-de-beneficios-fiscales/"
 documentos:
   - "https://www.sar.gob.hn/download/requisitos-registro-de-beneficios-fiscales/?wpdmdl=24196"
 actualizado_sitio: "noviembre 3, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "f49c7117ead3f5a3782d2f7f7a6d87487c6e29572c53e3605b2e7c142ea61fb2"
+extraido: 2026-11-14T00:15
+huella: "b8409914243ef380428e7bab748f346289a48acc80d7463523e0339a06ae2246"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,18 +34,17 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | noviembre 3, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE REGISTRO DE
 BENEFICIOS FISCALES
 Dirección Nacional de Cumplimiento Tributario
 Departamento de Asistencia al Cumplimiento Nacional
 
-REGISTRO DE BENEFICIOS FISCALES
-
 EXONERADOS
 
-REQUISITOS:
 1. Resolución Original de la Exoneración de los Impuestos a exonerar, extendida por
 la Dirección General de Control de Franquicias Aduaneras de la SEFIN, la cual
 debe contener QR, sellos y firmas autorizadas.
@@ -54,8 +55,6 @@ debe contener QR, sellos y firmas autorizadas.
 Nota: En el caso de tener constancia de exoneración de tercera edad emitida por la
 Dirección Ejecutiva de Ingresos (DEI), se deberá de presentar el documento original,
 caso contrario deberá de presentar copia del documento autenticado.
-
-REGISTRO DE BENEFICIOS FISCALES
 
 EXENTOS Y NO SUJETOS
 
@@ -85,7 +84,7 @@ APORTACION SOLIDARIA).
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/requisitos-registro-de-beneficios-fiscales/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

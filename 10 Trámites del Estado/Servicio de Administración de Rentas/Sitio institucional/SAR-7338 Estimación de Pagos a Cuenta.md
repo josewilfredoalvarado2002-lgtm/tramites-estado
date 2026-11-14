@@ -7,15 +7,17 @@ aliases:
   - "Estimación de Pagos a Cuenta"
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Rectificación de pagos a cuenta"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "DESCRIPCIÓN DEL TRÁMITE Los Obligados Tributarios pueden solicitar la estimación de las cuotas de Pagos a Cuenta, si en el período fiscal inmediato anterior no causó impuesto o, recién inició operaciones, las tres cuotas se manifestarán en forma estimada de conformidad con los posibles ingresos que el OT pudiere percibir en el presente período fiscal."
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/estimacion-de-pagos-a-cuenta/"
 documentos:
   - "https://www.sar.gob.hn/download/estimacion-de-pagos-a-cuenta/?wpdmdl=7338"
 actualizado_sitio: "octubre 14, 2020"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "43b374bb6b96c5a3797ded1c6eb4d35c8ff50149fb69e42588bea265c111a128"
+extraido: 2026-11-14T00:15
+huella: "675bdc165bea5b77f6bb9f62d0fc5f61e61544d72877488b952ab21efc647f1e"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,25 +32,20 @@ estado_sitio: "Vigente"
 | Institución | Servicio de Administración de Rentas |
 | Categoría | Rectificación de pagos a cuenta |
 | Última actualización que muestra el sitio | octubre 14, 2020 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-TRÁMITES DE RECAUDACIÓN
-ESTIMACIÓN DE PAGOS A CUENTA
-
-1
-
-Trámites de Recaudación
-Estimación de Pagos a Cuenta
-
-ESTIMACIÓN DE PAGOS A CUENTA
+## Para qué se hace (según el documento)
 
 DESCRIPCIÓN DEL TRÁMITE
 Los Obligados Tributarios pueden solicitar la estimación de las cuotas de Pagos a Cuenta, si
 en el período fiscal inmediato anterior no causó impuesto o, recién inició operaciones, las tres
 cuotas se manifestarán en forma estimada de conformidad con los posibles ingresos que el
 OT pudiere percibir en el presente período fiscal.
+
+## Requisitos (según el documento oficial)
+
 1. REQUISITOS
 
 a) Presentar un escrito de solicitud que debe contener lo siguiente:
@@ -72,6 +69,8 @@ DOCUMENTOS
 - Estados Financieros Originales a la fecha de ingreso de la petición y Proyectados al 31
 de diciembre, Timbrados, Firmados y Sellados por un contador colegiado.
 
+## Base legal (según el documento)
+
 2. BASE LEGAL
 
 - Constitución de la Republica: Artículos 80, 321 y 351
@@ -83,8 +82,6 @@ y cuarto párrafo.
 
 2
 
-Trámites de Recaudación
-Estimación de Pagos a Cuenta
 - Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto
 Publico Decreto 17-2010 Artículo 49.
 
@@ -125,8 +122,14 @@ NOMBRE Y FIRMA
 
 3
 
-Trámites de Recaudación
-Estimación de Pagos a Cuenta
+## Otro texto del documento
+
+TRÁMITES DE RECAUDACIÓN
+ESTIMACIÓN DE PAGOS A CUENTA
+
+1
+
+ESTIMACIÓN DE PAGOS A CUENTA
 
 ## Documentos
 
@@ -135,7 +138,7 @@ Estimación de Pagos a Cuenta
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/estimacion-de-pagos-a-cuenta/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

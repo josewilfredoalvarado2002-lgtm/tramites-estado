@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Solicitudes"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/renovacion-del-registro-de-cigarrillos/"
 documentos:
   - "https://www.sar.gob.hn/download/renovacion-del-registro-de-cigarrillos/?wpdmdl=21516"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "9304756a3db870b29545561b8b77d0467568654c13668c64bba89749b0475201"
+extraido: 2026-11-14T00:15
+huella: "aa5591df90dce9be5a16bcaca5849cd518a162dc6c8d09629c57d3b48db86fda"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE RENOVACIÓN DEL
 REGISTRO DE CIGARRILLOS
@@ -69,7 +73,7 @@ Comprobante de boletín de pago L200.00 (Impuesto: 156
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/renovacion-del-registro-de-cigarrillos/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

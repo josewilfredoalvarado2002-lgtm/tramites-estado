@@ -7,15 +7,17 @@ aliases:
   - "Trámites disponibles — formulario"
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "objetivos.) 4 acredite capacidad financiera para llevar a cabo la operación del (Español) 5 ilustre y que determine producción comercial. 7 Nombre, constitución y los respectivos instrumentos públicos de poder del mandatario. (Nacionalidad Hondureña) (Español) 8 Mapa específico del área concedida"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2020/11/FORMULARIO-DE-SOLICITUD-POR-DESCUBRIMIENTO-COMERCIAL-DE-HIDROCARBUROS.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "4bb52ba4f6097b2b6806e136db739ba634b87e790272c30c939988cf0f1fb6cb"
+extraido: 2026-11-14T00:44
+huella: "a5bd6b6f2b9f6b201619065ef6a20771891a2284376b20be317e7fd2b1723fb6"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,9 +32,84 @@ estado_sitio: "Vigente"
 | Institución | Secretaría de Energía |
 | Categoría | Trámites disponibles |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Para qué se hace (según el documento)
+
+objetivos.)
+
+4
+
+acredite capacidad
+financiera para
+llevar a cabo la
+operación del
+
+(Español)
+
+5
+
+ilustre y que
+determine
+producción
+comercial.
+
+7
+Nombre,
+constitución y los
+respectivos
+instrumentos
+públicos de poder
+del mandatario.
+(Nacionalidad
+Hondureña)
+(Español)
+
+8
+Mapa específico del
+área concedida
+
+## Requisitos (según el documento oficial)
+
+Requisitos
+Ley de Hidrocarburos 21, 22, 25, 26, 27, 38, 39, 40, 44 y 42 Reglamento de la Ley de
+Hidrocarburos 3, 27, 28, 29, 30, 47, 75 y 76.
+
+Firma del Solicitante:__________________________________
+
+Cargo del Solicitante:
+
+Fecha:
+
+Número de Expediente Asignado:
+
+## Dónde se presenta (según el documento)
+
+donde se
+especifiquen los
+puntos de
+perforación a llevar
+a cabo, con
+coordenadas
+georreferenciadas
+WGS84 y punto de
+amarre.
+
+9
+
+acredite
+condiciones
+especiales
+establecidas en el
+
+La Dirección General de Exploración y Explotación de Hidrocarburos, después de
+realizado el Análisis Legal y Técnico correspondiente, podrá solicitar que la
+información y documentación proporcionada sea modificada o ampliada, a efecto de
+cumplir con las disposiciones contenidas en la Ley de Hidrocarburos y su Reglamento.
+
+## Otro texto del documento
 
 FORMULARIO DE SOLICITUD POR DESCUBRIMIENTO COMERCIAL DE HIDROCARBUROS
 
@@ -62,7 +139,7 @@ de RTN de la
 Empresa Solicitante
 
 3
-Documentación que
+
 acredite el
 cumplimiento de
 obligaciones
@@ -78,74 +155,6 @@ especifique la causa
 de la necesidad de
 
 tiempo adicional y
-objetivos.)
-
-4
-Documentación que
-acredite capacidad
-financiera para
-llevar a cabo la
-operación del
-contrato.
-(Español)
-
-5
-Documentación que
-ilustre y que
-determine
-producción
-comercial.
-
-7
-Nombre,
-constitución y los
-respectivos
-instrumentos
-públicos de poder
-del mandatario.
-(Nacionalidad
-Hondureña)
-(Español)
-
-8
-Mapa específico del
-área concedida
-donde se
-especifiquen los
-puntos de
-perforación a llevar
-a cabo, con
-coordenadas
-georreferenciadas
-WGS84 y punto de
-amarre.
-
-9
-Documentación que
-acredite
-condiciones
-especiales
-establecidas en el
-contrato.
-
-La Dirección General de Exploración y Explotación de Hidrocarburos, después de
-realizado el Análisis Legal y Técnico correspondiente, podrá solicitar que la
-información y documentación proporcionada sea modificada o ampliada, a efecto de
-cumplir con las disposiciones contenidas en la Ley de Hidrocarburos y su Reglamento.
-
-Base Legal:
-
-Requisitos
-Ley de Hidrocarburos 21, 22, 25, 26, 27, 38, 39, 40, 44 y 42 Reglamento de la Ley de
-Hidrocarburos 3, 27, 28, 29, 30, 47, 75 y 76.
-
-Firma del Solicitante:__________________________________
-
-Cargo del Solicitante:
-
-Fecha:
-
-Número de Expediente Asignado:
 
 ## Documentos
 
@@ -154,7 +163,7 @@ Número de Expediente Asignado:
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

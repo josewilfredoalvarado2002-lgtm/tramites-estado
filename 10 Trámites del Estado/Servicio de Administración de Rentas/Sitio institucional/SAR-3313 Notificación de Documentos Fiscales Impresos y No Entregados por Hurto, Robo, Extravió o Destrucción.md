@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Facturación"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/notificacion-de-documentos-fiscales-impresos-y-no-entregados-por-hurto-robo-extravio-o-destruccion/"
 documentos:
   - "https://www.sar.gob.hn/download/notificacion-de-documentos-fiscales-impresos-y-no-entregados-por-hurto-robo-extravio-o-destruccion/?wpdmdl=3313"
 actualizado_sitio: "junio 9, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "23cd5e3a66e8a704f3c04ebcd94f114eeb5350a31c9f7a9cb732727b33f838fa"
+extraido: 2026-11-14T00:15
+huella: "427d361916621603f9bd5383d6d1576c923c8f6ad77bd25ebe325484792bd1f8"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | junio 9, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE NOTIFICACIÓN DE
 DOCUMENTOS FISCALES IMPRESOS Y NO
@@ -48,7 +52,7 @@ Recepción y Notificación de forma presencial.
 
 Con este trámite la Imprenta únicamente obtendrá su Comprobante de recibo, que será
 emitido en el momento en que ingresa la notificación ante la Administración Tributaria.
-Requisitos:
+
 1. Presentar el escrito de solicitud que debe contener lo siguiente:
 - Nombre del trámite o petición que se formula “NOTIFICACIÓN DE
 DOCUMENTOS FISCALES IMPRESOS Y NO ENTREGADOS AL CLIENTE POR
@@ -63,6 +67,7 @@ de Teléfono y/o Celular y Correo Electrónico).
 
 2. Fotocopia de la Solicitud de Autorización de Impresión por Imprenta SAR-924.
 En caso de ser presentado por un representante procesal o apoderado legal, se
+
 debe acompañar lo siguiente:
 - Poder o carta poder debidamente autenticado (Original).
 - Documento Nacional de Identificación para hondureños (Original).
@@ -123,7 +128,7 @@ Formato de Muestra
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/notificacion-de-documentos-fiscales-impresos-y-no-entregados-por-hurto-robo-extravio-o-destruccion/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

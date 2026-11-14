@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2023/04/Requisitos-de-inscripcion_empresas-suplidoras.-2022-rev-30.03.2023_.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "bc65ba797e11f6c5dcd7535265fd1962dcf5b43df8da6ddbab7698232cf93411"
+extraido: 2026-11-14T00:44
+huella: "a748ab179672c154a5d3ae5fe2efe69356b496bdb1e1b20df7cbc58af7392551"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS PARA INSCRIPCIÓN DE EMPRESA SUPLIDORA DE MATERIALES Y
 EQUIPOS DE ENERGIA SOLAR (SOLAR FOTOVOLTAICO COMO SOLAR
@@ -42,11 +46,11 @@ TÉRMICO)
 Despachos de la Secretaría de Energía.
 2. Carta Poder Autenticada y otra Autentica para los demás documentos,
 Datos Generales
-▪ Nombre de la empresa suplidora
-▪ Ubicación (Dirección Aldea, Municipio, Departamento)
-▪ Apoderado Legal (Nombre, dirección, teléfono, correo electrónico, copia de
+Nombre de la empresa suplidora
+Ubicación (Dirección Aldea, Municipio, Departamento)
+Apoderado Legal (Nombre, dirección, teléfono, correo electrónico, copia de
 identidad, copia de carnet de colegiado vigente)
-▪ Representante Legal o propietario(s) (Nombre, dirección, teléfono, correo
+Representante Legal o propietario(s) (Nombre, dirección, teléfono, correo
 electrónico, copia de Identidad)
 3. Copia de Escritura de Constitución de Sociedad.
 4. Memoria Técnica de la empresa (Ver formato de memoria técnica a presentar)
@@ -66,7 +70,7 @@ verdadera y verificable en todo su contenido.
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

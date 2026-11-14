@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/Consejo Nacional Supervisor de Cooperativas|Consejo Nacional Supervisor de Cooperativas]]"
 categoria: "No consta en el sitio"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://consucoop.hn/requisitos/"
 documentos:
-  - "https://consucoop.hn/download/12503/?tmstv=1794630135"
+  - "https://consucoop.hn/download/12503/?tmstv=1794638671"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "consucoop.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DI)"
-extraido: 2026-11-13T22:23
-huella: "3c508530ad27e075a5675be44b15ec26c5fa5d5c6132d43c85492b8751b51908"
+extraido: 2026-11-14T00:45
+huella: "6260c0e773b36c7973db9aa1657c0de3c37118f6880f21193976905dfbb50d23"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,11 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-CONSEJO NACIONAL
-SUPERVISOR DE COOPERATIVAS
-(CONSUCOOP)
+## Requisitos (según el documento oficial)
 
 REQUISITOS
 1. Solicitud dirigida al Registrador Nacional de Cooperativas y firmada por
@@ -62,14 +62,20 @@ registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp del R
 REQUISITOS PARA SOLICITUD DE CONSTANCIA
 DE BUSQUEDA DE NOMBRE DE COOPERATIVAS
 
+## Otro texto del documento
+
+CONSEJO NACIONAL
+SUPERVISOR DE COOPERATIVAS
+(CONSUCOOP)
+
 ## Documentos
 
-- [Requisitos para solicitud de Constancia de Búsqueda de Nombre](https://consucoop.hn/download/12503/?tmstv=1794630135)
+- [Requisitos para solicitud de Constancia de Búsqueda de Nombre](https://consucoop.hn/download/12503/?tmstv=1794638671)
 
 ## Fuente
 
 - Ficha: https://consucoop.hn/requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -7,7 +7,9 @@ aliases:
   - "Requisitos legales y fiscales para registrarse como proveedor del Estado"
 institucion: "Oficina Normativa de Contratación y Adquisiciones del Estado"
 categoria: "No consta en el sitio"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "Descripción del Rubro Constancia Por Acreditar Establecimientos comercializadores de Alimentos y bebidas Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de alimentos y bebidas Licencia sanitaria según corresponda emitida por ARSA Transporte de alimentos y bebidas Licencia sanitaria según corresponda emitida por ARSA Fabricación de productos lácteos, cárnicos"
+tiene_requisitos: true
 url_ficha: "https://oncae.gob.hn/como-ser-proveedor/requisitos-para-certificarse-como-proveedor-del-estado/"
 documentos:
   - "https://oncae.gob.hn/wp-content/uploads/2026/02/F-1RP-SOLICITUD-DE-INSCRIPCION.docx"
@@ -45,8 +47,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "oncae.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T21:47
-huella: "cd17768bd7c1f1eee32f5379d0707af2b434094827d0ccdd59d6e9a154d8bdec"
+extraido: 2026-11-14T00:15
+huella: "f2dbd0a428fa40b6a0e5777ac651b0ae93fd1d581dc94eaab4a7ed74e3edf097"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -89,7 +91,386 @@ estado_sitio: "Vigente"
 | Institución | Oficina Normativa de Contratación y Adquisiciones del Estado |
 | Categoría | No consta en el sitio |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
+
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Para qué se hace (según el documento)
+
+Descripción del Rubro
+Constancia Por Acreditar
+Establecimientos comercializadores de
+Alimentos y bebidas
+Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de alimentos y bebidas
+Licencia sanitaria según corresponda emitida por ARSA
+
+Transporte de alimentos y bebidas
+Licencia sanitaria según corresponda emitida por ARSA
+
+Fabricación de productos lácteos, cárnicos, pesqueros y acuícolas
+Licencia sanitaria según corresponda emitida por ARSA/Registro sanitario del establecimiento según
+corresponda emitido por SENASA
+
+Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de alimentos y bebidas
+Licencia sanitaria según corresponda emitida por ARSA
+
+Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de semillas
+Registro sanitario del
+establecimiento según corresponda emitido por SENASA
+
+Establecimientos comercializadores de productos farmacéuticos
+Laboratorio Farmacéutico
+Licencia sanitaria según corresponda emitida por ARSA
+
+Droguería
+Licencia sanitaria según corresponda emitida por ARSA
+
+Farmacia
+Licencia sanitaria según corresponda emitida por ARSA
+
+Punto de venta de Medicamentos
+Licencia sanitaria según corresponda emitida por ARSA
+
+Botiquín de Emergencia Médica
+Licencia sanitaria según corresponda emitida por ARSA
+
+Distribuidora de productos Farmacéuticos
+Licencia sanitaria según corresponda emitida por ARSA
+Establecimientos prestadores de servicios de
+salud
+Atención Medica y Odontológica
+Licencia sanitaria según corresponda emitida por ARSA
+
+Laboratorios de Análisis Clínicos e Hispatologicos
+Licencia sanitaria según corresponda emitida por ARSA
+
+Medicina Física y rehabilitación
+Licencia sanitaria según corresponda emitida por ARSA
+
+Imágenes Diagnosticas
+Licencia sanitaria según corresponda emitida por ARSA
+
+Casas de Reposo y Asilos
+Licencia sanitaria según corresponda emitida por ARSA
+
+Ambulancias y unidades móviles
+Licencia sanitaria según corresponda emitida por ARSA
+
+Bancos de Sangre
+Licencia sanitaria según corresponda emitida por ARSA
+Establecimientos comercializadores de
+productos de sanidad agropecuaria
+
+Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de plaguicidas
+Registro sanitario del
+establecimiento según corresponda emitido por SENASA
+
+Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de fertilizantes
+Registro sanitario del
+establecimiento según corresponda emitido por SENASA
+Productos higiénicos
+Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de productos higiénicos.
+Licencia sanitaria según corresponda emitida por ARSA
+
+Servicios de recolección de basura, eliminación de desechos biológicos, químicos y médicos.
+Licencia Sanitaria Mi Ambiente.
+Recolección de Basura
+
+Ejercicios profesionales regulados por Ley
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Obra Civil
+Consultorías, proyectos, diseños, construcción, estudios y supervisión
+Constancia original y vigente de inscripción en el colegio de ingenieros civiles o del colegio de arquitectos, a nombre de la persona natural o jurídica a ser Inscrita en el
+Registro de Proveedores y
+Contratistas del Estado
+Ingeniería Agrícola
+Consultorías, Proyectos y Estudios
+Constancia original y vigente de inscripción en el colegio de ingenieros agrónomos, colegio de profesionales de las ciencias agrícolas a nombre de la persona natural o jurídica
+Ingeniería Ambiental
+
+Ingeniería Forestal
+
+Biología
+
+Ingeniería Agropecuaria
+
+Otras Afines
+
+Ingeniería Mecánica
+Consultorías, proyectos, diseños, construcción, estudios y supervisión
+Constancia original y vigente de inscripción en el colegio de ingenieros mecánicos, eléctricos y químicos a nombre de la persona natural o jurídica a ser Inscrita en el
+Registro de Proveedores y
+Contratistas del Estado
+Ingeniería Eléctrica
+
+Ingeniería Química
+
+Informática
+
+Otras Afines
+
+Salud
+Consultorías, Proyectos y Estudios
+Constancia original y vigente de inscripción en el colegio médico, colegio de profesionales de la enfermería, colegio de psicólogos, colegio de microbiólogos y químicos a nombre de la persona natural o jurídica para Inscribir en el Registro de Proveedores y Contratistas del Estado
+
+Nutrición
+
+Microbiología
+
+Química Clínica
+
+Servicios Jurídicos y Legales
+
+Consultorías, estudios.
+Constancia original y vigente de inscripción en el colegio médico, colegio de profesionales de la enfermería, colegio de psicólogos, colegio de microbiólogos y químicos a nombre de la persona natural o jurídica a ser Inscrita en el Registro de Proveedores y Contratistas del Estado
+Economía
+Consultorías, estudios.
+
+Constancia original y vigente de inscripción en el colegio de economistas a nombre de la persona natural o jurídica
+Contador Público Universitario
+Consultorías
+
+Constancia de inscripción en el registro APNFD de la CNBS
+
+Servicios de telecomunicaciones y redes
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Infraestructura para telecomunicación o redes
+Servicios, consultorías y estudios sobre telecomunicaciones y redes
+Permiso, licencia o concesión de CONATEL según corresponda
+Telefonía
+
+Call Center
+
+Telex
+
+Telegrafía
+
+Comunicaciones personales por voz, imagen y datos
+Servicios, consultorías y estudios sobre telecomunicaciones y redes
+Permiso, licencia o concesión de CONATEL según corresponda
+Transmisión y conmutación de datos
+
+Radiocomunicación
+
+Búsqueda de personas
+
+Televisión interactiva, por cable, por suscripción
+
+Audio por suscripción
+
+Repetidores radioeléctricos
+
+Enlaces satelitales y terrestres para radiodifusión
+
+Comunicaciones Personales Globales Móviles (GMPCS).
+
+Radiolocalización
+
+Facsímiles
+
+Teletexto
+
+Video texto
+
+Video conferencia
+
+Internet, acceso a redes informáticas, cibercafé
+
+Telemandos
+
+Tele acción
+
+Mensajería de Voz
+
+Consulta a base de datos y accesos a contenidos de información
+Servicios, consultorías y estudios sobre telecomunicaciones y redes
+Permiso, licencia o concesión de CONATEL según corresponda
+Radionavegación
+
+Radio difusión sonora
+
+Radio difusión televisiva
+
+Tele monitoreo
+
+Transporte
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Transporte de Personas
+Servicios de transporte de personas
+Permiso de explotación del Instituto Hondureño de Transporte
+Transporte de Carga
+Servicios de carga, fletes y mudanzas
+
+Transporte de Valores
+Servicios transporte de caudales, valores o dinero
+Permiso de explotación del Instituto hondureño de transporte
+
+Autorización de la Secretaría de Seguridad para la prestación de servicios de vigilancia preventiva
+
+Constancia de inscripción en el registro APNFD de la CNBS
+Alimentos y bebidas para consumo humano
+Servicios de transporte de alimentos
+Permiso de explotación del Instituto hondureño de transporte
+
+Licencia sanitaria según corresponda emitida por ARSA
+
+Arrendamiento
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Bienes Inmuebles
+Arrendamiento de bienes inmuebles
+Constancia de inscripción en el registro APNFD de la CNBS
+Vehículos de transporte
+Arrendamiento de vehículos de transporte aéreo, marítimo y terrestre
+Constancia de inscripción en el registro firmas auditoras de la CNBS en la categoría A, de la firma que audita los estados financieros
+
+Servicios de Courier terrestre, aéreo y marítimo
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Servicios de Courier
+Servicios de Courier
+Constancia de inscripción en el registro APNFD de la CNBS
+
+Venta de Vehículos de Transporte
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Vehículos de Transporte
+Vehículos de transporte marítimo
+Constancia de inscripción en el registro APNFD de la CNBS
+Vehículos de Transporte
+Vehículos de transporte terrestre
+
+Metales preciosos
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Joyas
+Compra, venta, elaboración o industrialización de joyas o bienes elaborados con metales preciosos.
+
+Constancia de inscripción en el registro correspondiente de la CNBS
+
+Blindaje
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Servicios de Blindaje
+Blindaje de Vehículos e Inmuebles
+Constancia de inscripción en el registro APNFD de la CNBS. / Autorización de la Secretaría de Seguridad para la prestación de servicios de seguridad conexos.
+
+Servicios financieros
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Seguros
+Servicios de reaseguro y seguros
+Constancia de inscripción en el registro correspondiente de la CNBS
+Seguros
+Servicios de reaseguro y seguros
+Constancia de inscripción en el registro firmas auditoras de la CNBS en la categoría A, de la firma que audita los estados financieros
+Cooperativas
+Servicios financieros.
+Constancia HYPERLINK "https://consucoop.hn/"del Consejo Nacional Supervisor de Cooperativas CONSUCOOP.
+
+Productos y servicios de seguridad
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Vigilancia preventiva
+Servicios de vigilancia y guardias de seguridad
+Licencia de la Secretaría de Seguridad para la prestación de servicios de vigilancia preventiva
+
+Certificación de la Secretaría de Trabajo y Seguridad Social, de no tener denuncias por infracciones al código de trabajo
+Capacitación en materia de seguridad
+Servicios de capacitación en materia de seguridad
+Autorización de la secretaría de seguridad para la prestación de servicios de vigilancia
+Indumentaria Militar
+Fabricación de artículos, uniformes e indumentaria Militar.
+Licencia o permiso de la Industria Militar de las Fuerzas Armadas de Honduras (IMFFAA)
+Indumentaria Policial
+Fabricación de artículos, uniformes e indumentaria Policial.
+Licencia de la Secretaria de Seguridad.
+
+Servicios de Limpieza
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Servicios de limpieza y aseo de edificios
+Servicios de limpieza y aseo de edificios
+Constancia de la Secretaría de Trabajo y Seguridad Social, de no tener denuncias por infracciones al código de trabajo / ARSA.
+
+Productos derivados del petróleo
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Combustible
+Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de combustibles, Diesel y sus derivados.
+Resolución de la Secretaria de Energía emitido por la Dirección General de Hidrocarburos y Biocombustibles.
+
+Servicios Turísticos
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Agencias de Viaje
+Comercialización de planes turísticos.
+Constancia de la Cámara Nacional de Turismo de Honduras (CANATURH)
+Boletos aéreos
+Comercialización, distribución y venta de boletos aéreos.
+Constancia de la Cámara Nacional de Turismo de Honduras (CANATURH)
+Hoteles
+Prestación de servicios de hotelería.
+Constancia de la Cámara Nacional de Turismo de Honduras (CANATURH) / ARSA
+
+Servicios Forestales
+
+Categoría
+
+Descripción del Rubro
+Constancia Por Acreditar
+Servicios Forestales
+Control de incendios y servicios forestales.
+
+Permiso del Instituto de Conservación Forestal - ICF
+Aserraderos
+Comercialización, distribución e importación de madera.
+Permiso del Instituto de Conservación Forestal - ICF
+Servicios Forestales
+Servicios, consultorías y estudios sobre servicios forestales.
+Constancia de registro en el Colegio de Profesionales Forestales de Honduras (COLPROFORH)
 
 ## Requisitos legales y fiscales para registrarse como proveedor del Estado
 
@@ -196,505 +577,10 @@ Formato de Solicitud de Prórroga Registro de Proveedores
 Prepare la Documentación segun sus requisitos, una vez la tenga completa, comience su registro aquí:
 Registrar ahora
 
-## ¡Oportunidades para mujeres emprendedoras!
-
-Regístrate gratis
-
-## Documento: Formulario F-1RP
-
-F-1RP.
-Formulario de Solicitud de Inscripción en el Registro de Proveedores y Contratistas Del Estado
-PERSONA NATURAL
-
-Señor (a) Director (a) de la Oficina Normativa de Contratación y Adquisiciones del Estado (ONCAE).
-
-Yo, _______________________________, Mayor de Edad, Estado Civil ________________, Profesión(si el trámite se realiza a través de un abogado incorporar sus datos generales) ____________________________________Hondureño y con domicilio en____________________________________, actuando en mi condición de ________________________de_________________________________, ante Usted con el debido respeto comparezco a solicitar la (Inscripción, Renovación o Actualización) de mi representado, en el Registro de Proveedores y Contratistas del Estado, a fin de contratar con la Administración Pública y demás Poderes del Estado. Acompaño a la presente todos los documentos que esta Oficina Normativa solicita para mi inscripción en la misma, entendiéndose que solamente en el caso de que la documentación esté completa al momento de su presentación, se extenderá constancia de tener en trámite el registro.
-
-Así mismo declaro que daré seguimiento a la solicitud de inscripción a través de http://sicc.honducompras.gob.hn/consultaProveedores/, entiendo que la ONCAE puede solicitar información adicional a fin de verificar los datos presentados; que la ONCAE entrega la información que consta en su sistema, y documentos presentados en las solicitudes de inscripción organismos contralores, fiscalizadores, y vigilancia; que una vez recibido la solicitud de inscripción y durante la vigencia de la misma la ONCAE puede suspender y cancelar del Registro de proveedores a mi representada conforme lo establece la Ley de Contratación del Estado y su Reglamento.
--20955013970000
-FUNDAMENTOS DE DERECHO: Artículos 80 de la Constitución de la República; 56, 60, 61 y 62 de la Ley de Procedimientos Administrativo; 34, 36 y 37 de la Ley de Contratación del Estado y 23, 24, 33, 34, 35, 36, 54`, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64 y 69 del Reglamento de la Ley de Contratación del Estado.
-
-P E T I C I O N
-Al Director(a), reiterándole mi respeto PIDO: Admitir la presente solicitud con los documentos acompañados, extenderme la debida constancia de encontrarse en trámite la solicitud y me comprometo a finalizar el trámite que en Ley Corresponde; y se me extienda en definitiva la Certificación de Inscripción en el Registro de Proveedores y contratistas del Estado.
-
-Tegucigalpa M.D.C. _____ de_______________________ 20___
-
-___________________________________________________
-FIRMA Y SELLO
-
-## Documento: Formulario F-2RP
-
-F-2RP.
-Formulario de Información del Solicitante Persona Natural
-
-AREA DE ACTIVIDAD
-TIPO DE TRAMITE
-TIPO DE PERSONERIA
-Obras Publicas
-
-Inscripción
-
-Persona Natural
-
-Bienes Y Servicios
-
-Consultoría
-
-DATOS DE IDENTIFICACION DE LA PERSONA NATURAL
-
-32385001962151844040207645Nombres y Apellidos del Solicitante: _______________________________________________
-Género Femenino: Masculino:
-No. de Identidad / No. de Pasaporte: _______________________________________________
-Registro Tributario Nacional del Representante legal: ___________________________________
-Código de Numérico del Área de Actividad/Rubro Solicitado (Disponibles en Requisitos y Formularios (oncae.gob.hn)):___________________________________________________________________________________________________________________________________________________________________________________
-DOMICILIO LEGAL Y DIRECCION COMPLETA DE LA PERSONA NATURAL
-
-Colonia o Barrio Etc.: _____________________________________________________
-Calle y/o Avenida: _____________________________________________________
-No. De Casa/Edificio:_____________________________________________________
-Ciudad:______________________________________________________________
-Municipio:________________________________________________________________
-Departamento:______________________________________________________________
-Teléfono para efectos de Notificación:_____________________________________________
-Correos Electrónicos Principal y Opcionales para efectos de Notificación: ______________________________________________________________________________
-
-F-2RP.
-
-MANIFIESTO: Que toda la información que se suministra a continuación y la documentación que se acompaña, es EXACTA Y VERDADERA a fin de no incurrir en la infracción que señala el Artículo 70 letra c) del Reglamento de la Ley de Contratación del Estado; y SE AUTORIZA a la Oficina Normativa de Contratación y Adquisiciones del Estado a verificarla ante la entidad pública o privada correspondiente y a su difusión pública por cualquier medio, de conformidad al Artículo 6 de la Ley de Contratación del Estado.
-
-Lugar y Fecha: __________________________________________________________
-
-________________________________________________
-Firma del Solicitante
-
-Firma del Representante Legal de la Empresa.
-Este documento deberá ser autenticado por un notario. (en la auténtica de firma)
-
-## Documento: Formulario F-3RP
-
-F-3RP.
-FORMULARIO DE CARTA PODER
-Yo, _____________________________________, mayor de edad, estado civil ____________________, de profesión _______________________, nacionalidad ______________________, de la ciudad de _______________________, con número de identidad _______________________, Representante Legal de la empresa ________________________, con actividad económica ________________________, Identificador tributario en el país de origen ________________________, con dirección física ________________________, y correo electrónico ________________________, confiero CARTA-PODER amplio y suficiente en cuanto a derecho corresponde a él (la) Abogada ____________________, mayor de edad, ____________________, (estado civil) __________________, (nacionalidad) ___________________, e inscrita en el Colegio de Abogados de Honduras con el número _______, con Despacho Legal ubicado en _________________________, con teléfono número _____________, correo electrónico: _______________________, para que pueda comparecer ante la Oficina Normativa de Contratación y Adquisiciones del Estado, a fin de presentar la Solicitud de Inscripción en el Registro de Proveedores y Contratistas del Estado para realizar la tramitación respectiva hasta obtener la Constancia de Inscripción, para lo cual la invisto de las facultades generales y especiales del mandato administrativo consignadas en el artículo 57 de la ley de procedimiento administrativo, tales como: Percibir, transigir, desistir, comprometer y aprobar.
-En fé de lo cual firmo la presente Carta Poder en la ciudad de _______________________, (ciudad originaria) a los _______________, (fecha en letras).
-
-13290553175000
-FIRMA Y SELLO
-Este formulario aplica solo cuando la solicitud es presentada por un Apoderado Legal (Abogado)
-Firma del Representante Legal de la Empresa.
-Este documento deberá ser autenticado por un notario. (en la auténtica de firma).
-
-## Documento: Formulario F-5RP
-
-F-5RP
-DECLARACIÓN JURADA SOBRE PROHIBICIONES O INHABILIDADES
-
-Yo _______________________________________________________, mayor de edad, de estado civil ___________________, de nacionalidad __________________________,con domicilio en _________________________________________________________ y con Documento de Identificación Nacional No. _______________________________ actuando en mi condición de __________________________________________________por medio de la presente DECLARO BAJO JURAMENTO QUE: No me encuentro comprendido en ninguna de las prohibiciones de los artículos 15 y 16 de la Ley de Contratación del Estado y del artículo 439 de la Ley de Lavado de Activos del Código Penal, y demás aplicables.
-
-LEY DE CONTRATACIÓN DEL ESTADO: “ARTÍCULO 15.- Aptitud para contratar e inhabilidades. Podrán contratar con la Administración, las personas naturales o jurídicas, hondureñas o extranjeras, que teniendo plena capacidad de ejercicio, acrediten su solvencia económica y financiera y su idoneidad técnica y profesional y no se hallen comprendidas en algunas de las circunstancias siguientes:
-
-Haber sido condenados mediante sentencia firme por delitos contra la propiedad, delitos contra la fe pública, cohecho, enriquecimiento ilícito, negociaciones incompatibles con el ejercicio de funciones públicas, malversación de caudales públicos o contrabando y defraudación fiscal, mientras subsista la condena. Esta prohibición también es aplicable a las sociedades mercantiles u otras personas jurídicas cuyos administradores o representantes se encuentran en situaciones similares por actuaciones a nombre o en beneficio de las mismas;
-
-DEROGADO;
-
-Haber sido declarado en quiebra o en concurso de acreedores, mientras no fueren rehabilitados;
-
-Ser funcionarios o empleados, con o sin remuneración, al servicio de los Poderes del Estado o de cualquier institución descentralizada, municipalidad u organismo que se financie con fondos públicos, sin perjuicio de lo previsto en el Artículo 258 de la Constitución de la República;
-
-Haber dado lugar, por causa de la que hubiere sido declarado culpable, a la resolución firme de cualquier contrato celebrado con la Administración o a la suspensión temporal en el Registro de Proveedores y Contratistas en tanto dure la sanción. En el primer caso, la prohibición de contratar tendrá una duración de dos (2) años, excepto en aquellos casos en que haya sido objeto de resolución en sus contratos en dos ocasiones, en cuyo caso la prohibición de contratar será definitiva;
-
-Ser cónyuge, persona vinculada por unión de hecho o parientes dentro del cuarto grado de consanguinidad o segundo de afinidad de cualquiera de los funcionarios o empleados bajo cuya responsabilidad esté la precalificación de las empresas, la evaluación de las propuestas, la adjudicación o la firma del contrato;
-
-Tratarse de sociedades mercantiles en cuyo capital social participen funcionarios o empleados públicos que tuvieren influencia por razón de sus cargos o participaren directa o indirectamente en cualquier etapa de los procedimientos de selección de contratistas. Esta prohibición se aplica también a las compañías que cuenten con socios que sean cónyuges, personas vinculadas por unión de hecho o parientes dentro del cuarto grado de consanguinidad o segundo de afinidad de los funcionarios o empleados a que se refiere el numeral anterior, o aquellas en las que desempeñen, puestos de dirección o de representación personas con esos mismos grados de relación o de parentesco; y,
-
-Haber intervenido directamente o como asesores en cualquier etapa de los procedimientos de contratación o haber participado en la preparación de las especificaciones, planos, diseños o términos de referencia, excepto en actividades de supervisión de construcción.
-
-ARTÍCULO 16.- Funcionarios cubiertos por la inhabilidad. Para los fines del numeral 7) del Artículo anterior, se incluyen el Presidente de la República y los Designados a la Presidencia, los Secretarios y Subsecretarios de Estado, los Directores Generales o Funcionarios de igual rango de las Secretarías de Estado, los Diputados al Congreso Nacional, los Magistrados de la Corte Suprema de Justicia, los miembros del Tribunal Supremo Electoral, el Procurador y Subprocurador General de la República, los magistrados del Tribunal Superior de Cuentas, el Director y Subdirector General Probidad Administrativa, el Comisionado Nacional de Protección de los Derechos Humanos, el Fiscal General de la República y el Fiscal Adjunto, los mandos superiores de las Fuerzas Armadas, los Gerentes y Subgerentes o funcionarios de similares rangos de las instituciones descentralizadas del Estado, los Alcaldes y Regidores Municipales en el ámbito de la contratación de cada Municipalidad y los demás funcionarios o empleados públicos que por razón de sus cargos intervienen directa o indirectamente en los procedimientos de contratación.”
-
-CODIGO PENAL: “ARTÍCULO 439.- LAVADO DE ACTIVOS. Incurre en lavado de activos quien por sí o por interpósita persona, adquiera, invierta, posea, utilice, transforme, resguarde, administre, custodie, transporte, transfiera, conserve, traslade, oculte, dé apariencia de legalidad o impida la determinación del origen o la verdadera naturaleza, así como la ubicación, el destino, el movimiento o la propiedad de activos productos directos o indirectos de cualquier delito grave y en todo caso de los delitos de tráfico ilícito de drogas, trata de personas, tráfico ilegal de personas o armas de fuego, falsificación de moneda, tráfico de órganos humanos, hurto o robo de vehículos automotores, robo a instituciones financieras, estafas o fraudes financieros, secuestro, amenazas o chantaje, extorsión, financiamiento del terrorismo, terrorismo, malversación de caudales públicos, cohecho, tráfico de influencias, delitos contra la propiedad intelectual e industrial, el patrimonio cultural, explotación sexual y pornografía infantil, urbanísticos, explotación de recursos naturales y medioambientales, contrabando o de enriquecimiento ilícito, cometidos por él o por un tercero, o que no tengan causa o, justificación económica o lícita de su procedencia.
-
-Las conductas descritas en el párrafo anterior deben ser castigadas conforme a las reglas siguientes: 1) Cuando el valor de los activos objeto de lavado no sea superior a Dos Millones de Lempiras (L.2.000,000), se deben imponer las penas de prisión de cinco (5) a ocho (8) años y multa igual al cincuenta por ciento (50%) de dicho valor; 2) Cuando el valor de los activos objeto del lavado sea superior a Dos Millones de Lempiras (2.000,000) y no exceda los Cinco Millones de Lempiras (5.000,000), se deben imponer las penas de prisión de ocho (8) a diez (10) años y multa igual al cien por ciento (100%) de dicho valor; y, 3) Cuando el valor de los activos objeto de lavado sea superior a Cinco Millones de Lempiras (5.000,000), se deben imponer las penas de prisión de diez (10) a trece (13) años y multa igual al ciento cincuenta por ciento (150%) de dicho valor.
-
-Las penas establecidas en los numerales anteriores, se deben rebajar a la mitad cuando se trate de posesión o utilización de bienes sin título por parte de personas unidas por relación personal o familiar con el responsable del hecho.
-
-Las penas anteriores se deben aumentar en un cuarto (1/4) en los casos siguientes:
-Cuando los bienes o activos proceden de delitos relativos al tráfico de drogas, terrorismo, extorsión o delitos de explotación sexual; 2) Cuando la actividad de lavado de activos se realiza a través de un grupo delictivo organizado. Si el responsable es promotor, jefe, dirigente o cabecilla del grupo delictivo organizado, la pena se debe aumentar en un tercio (1/3); o, 3) Cuando el responsable es profesional del sector financiero o no financiero designado, bursátil o bancario en el ejercicio de su profesión, o funcionario o empleado público en el ejercicio de su cargo. En estos casos se debe imponer, además, la pena de inhabilitación absoluta por el doble del tiempo de la pena de prisión.”
-
-En fe de lo cual firmo la presente en la ciudad de _____________________________, Departamento de __________________, a los __________ días de mes de ______________________ del año ___________.
-
-145351510604500
-Firma
-
-## Documento: Acreditación vigente del rubro
-
-ACREDITACIÓN DE CONSTANCIAS POR RUBRO
-
-Comercialización de productos o servicios de interés sanitario
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Establecimientos comercializadores de
-Alimentos y bebidas
-Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de alimentos y bebidas
-Licencia sanitaria según corresponda emitida por ARSA
-
-Transporte de alimentos y bebidas
-Licencia sanitaria según corresponda emitida por ARSA
-
-Fabricación de productos lácteos, cárnicos, pesqueros y acuícolas
-Licencia sanitaria según corresponda emitida por ARSA/Registro sanitario del establecimiento según
-corresponda emitido por SENASA
-
-Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de alimentos y bebidas
-Licencia sanitaria según corresponda emitida por ARSA
-
-Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de semillas
-Registro sanitario del
-establecimiento según corresponda emitido por SENASA
-
-Establecimientos comercializadores de productos farmacéuticos
-Laboratorio Farmacéutico
-Licencia sanitaria según corresponda emitida por ARSA
-
-Droguería
-Licencia sanitaria según corresponda emitida por ARSA
-
-Farmacia
-Licencia sanitaria según corresponda emitida por ARSA
-
-Punto de venta de Medicamentos
-Licencia sanitaria según corresponda emitida por ARSA
-
-Botiquín de Emergencia Médica
-Licencia sanitaria según corresponda emitida por ARSA
-
-Distribuidora de productos Farmacéuticos
-Licencia sanitaria según corresponda emitida por ARSA
-Establecimientos prestadores de servicios de
-salud
-Atención Medica y Odontológica
-Licencia sanitaria según corresponda emitida por ARSA
-
-Laboratorios de Análisis Clínicos e Hispatologicos
-Licencia sanitaria según corresponda emitida por ARSA
-
-Medicina Física y rehabilitación
-Licencia sanitaria según corresponda emitida por ARSA
-
-Imágenes Diagnosticas
-Licencia sanitaria según corresponda emitida por ARSA
-
-Casas de Reposo y Asilos
-Licencia sanitaria según corresponda emitida por ARSA
-
-Ambulancias y unidades móviles
-Licencia sanitaria según corresponda emitida por ARSA
-
-Bancos de Sangre
-Licencia sanitaria según corresponda emitida por ARSA
-Establecimientos comercializadores de
-productos de sanidad agropecuaria
-
-Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de plaguicidas
-Registro sanitario del
-establecimiento según corresponda emitido por SENASA
-
-Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de fertilizantes
-Registro sanitario del
-establecimiento según corresponda emitido por SENASA
-Productos higiénicos
-Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de productos higiénicos.
-Licencia sanitaria según corresponda emitida por ARSA
-
-Servicios de recolección de basura, eliminación de desechos biológicos, químicos y médicos.
-Licencia Sanitaria Mi Ambiente.
-Recolección de Basura
-
-Ejercicios profesionales regulados por Ley
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Obra Civil
-Consultorías, proyectos, diseños, construcción, estudios y supervisión
-Constancia original y vigente de inscripción en el colegio de ingenieros civiles o del colegio de arquitectos, a nombre de la persona natural o jurídica a ser Inscrita en el
-Registro de Proveedores y
-Contratistas del Estado
-Ingeniería Agrícola
-Consultorías, Proyectos y Estudios
-Constancia original y vigente de inscripción en el colegio de ingenieros agrónomos, colegio de profesionales de las ciencias agrícolas a nombre de la persona natural o jurídica
-Ingeniería Ambiental
-
-Ingeniería Forestal
-
-Biología
-
-Ingeniería Agropecuaria
-
-Otras Afines
-
-Ingeniería Mecánica
-Consultorías, proyectos, diseños, construcción, estudios y supervisión
-Constancia original y vigente de inscripción en el colegio de ingenieros mecánicos, eléctricos y químicos a nombre de la persona natural o jurídica a ser Inscrita en el
-Registro de Proveedores y
-Contratistas del Estado
-Ingeniería Eléctrica
-
-Ingeniería Química
-
-Informática
-
-Otras Afines
-
-Salud
-Consultorías, Proyectos y Estudios
-Constancia original y vigente de inscripción en el colegio médico, colegio de profesionales de la enfermería, colegio de psicólogos, colegio de microbiólogos y químicos a nombre de la persona natural o jurídica para Inscribir en el Registro de Proveedores y Contratistas del Estado
-
-Nutrición
-
-Microbiología
-
-Química Clínica
-
-Servicios Jurídicos y Legales
-
-Consultorías, estudios.
-Constancia original y vigente de inscripción en el colegio médico, colegio de profesionales de la enfermería, colegio de psicólogos, colegio de microbiólogos y químicos a nombre de la persona natural o jurídica a ser Inscrita en el Registro de Proveedores y Contratistas del Estado
-Economía
-Consultorías, estudios.
-
-Constancia original y vigente de inscripción en el colegio de economistas a nombre de la persona natural o jurídica
-Contador Público Universitario
-Consultorías
-
-Constancia de inscripción en el registro APNFD de la CNBS
-
-Servicios de telecomunicaciones y redes
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Infraestructura para telecomunicación o redes
-Servicios, consultorías y estudios sobre telecomunicaciones y redes
-Permiso, licencia o concesión de CONATEL según corresponda
-Telefonía
-
-Call Center
-
-Telex
-
-Telegrafía
-
-Comunicaciones personales por voz, imagen y datos
-Servicios, consultorías y estudios sobre telecomunicaciones y redes
-Permiso, licencia o concesión de CONATEL según corresponda
-Transmisión y conmutación de datos
-
-Radiocomunicación
-
-Búsqueda de personas
-
-Televisión interactiva, por cable, por suscripción
-
-Audio por suscripción
-
-Repetidores radioeléctricos
-
-Enlaces satelitales y terrestres para radiodifusión
-
-Comunicaciones Personales Globales Móviles (GMPCS).
-
-Radiolocalización
-
-Facsímiles
-
-Teletexto
-
-Video texto
-
-Video conferencia
-
-Internet, acceso a redes informáticas, cibercafé
-
-Telemandos
-
-Tele acción
-
-Mensajería de Voz
-
-Consulta a base de datos y accesos a contenidos de información
-Servicios, consultorías y estudios sobre telecomunicaciones y redes
-Permiso, licencia o concesión de CONATEL según corresponda
-Radionavegación
-
-Radio difusión sonora
-
-Radio difusión televisiva
-
-Tele monitoreo
-
-Transporte
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Transporte de Personas
-Servicios de transporte de personas
-Permiso de explotación del Instituto Hondureño de Transporte
-Transporte de Carga
-Servicios de carga, fletes y mudanzas
-
-Transporte de Valores
-Servicios transporte de caudales, valores o dinero
-Permiso de explotación del Instituto hondureño de transporte
-
-Autorización de la Secretaría de Seguridad para la prestación de servicios de vigilancia preventiva
-
-Constancia de inscripción en el registro APNFD de la CNBS
-Alimentos y bebidas para consumo humano
-Servicios de transporte de alimentos
-Permiso de explotación del Instituto hondureño de transporte
-
-Licencia sanitaria según corresponda emitida por ARSA
-
-Arrendamiento
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Bienes Inmuebles
-Arrendamiento de bienes inmuebles
-Constancia de inscripción en el registro APNFD de la CNBS
-Vehículos de transporte
-Arrendamiento de vehículos de transporte aéreo, marítimo y terrestre
-Constancia de inscripción en el registro firmas auditoras de la CNBS en la categoría A, de la firma que audita los estados financieros
-
-Servicios de Courier terrestre, aéreo y marítimo
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Servicios de Courier
-Servicios de Courier
-Constancia de inscripción en el registro APNFD de la CNBS
-
-Venta de Vehículos de Transporte
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Vehículos de Transporte
-Vehículos de transporte marítimo
-Constancia de inscripción en el registro APNFD de la CNBS
-Vehículos de Transporte
-Vehículos de transporte terrestre
-
-Metales preciosos
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Joyas
-Compra, venta, elaboración o industrialización de joyas o bienes elaborados con metales preciosos.
-
-Constancia de inscripción en el registro correspondiente de la CNBS
-
-Blindaje
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Servicios de Blindaje
-Blindaje de Vehículos e Inmuebles
-Constancia de inscripción en el registro APNFD de la CNBS. / Autorización de la Secretaría de Seguridad para la prestación de servicios de seguridad conexos.
-
-Servicios financieros
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Seguros
-Servicios de reaseguro y seguros
-Constancia de inscripción en el registro correspondiente de la CNBS
-Seguros
-Servicios de reaseguro y seguros
-Constancia de inscripción en el registro firmas auditoras de la CNBS en la categoría A, de la firma que audita los estados financieros
-Cooperativas
-Servicios financieros.
-Constancia HYPERLINK "https://consucoop.hn/"del Consejo Nacional Supervisor de Cooperativas CONSUCOOP.
-
-Productos y servicios de seguridad
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Vigilancia preventiva
-Servicios de vigilancia y guardias de seguridad
-Licencia de la Secretaría de Seguridad para la prestación de servicios de vigilancia preventiva
-
-Certificación de la Secretaría de Trabajo y Seguridad Social, de no tener denuncias por infracciones al código de trabajo
-Capacitación en materia de seguridad
-Servicios de capacitación en materia de seguridad
-Autorización de la secretaría de seguridad para la prestación de servicios de vigilancia
-Indumentaria Militar
-Fabricación de artículos, uniformes e indumentaria Militar.
-Licencia o permiso de la Industria Militar de las Fuerzas Armadas de Honduras (IMFFAA)
-Indumentaria Policial
-Fabricación de artículos, uniformes e indumentaria Policial.
-Licencia de la Secretaria de Seguridad.
-
-Servicios de Limpieza
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Servicios de limpieza y aseo de edificios
-Servicios de limpieza y aseo de edificios
-Constancia de la Secretaría de Trabajo y Seguridad Social, de no tener denuncias por infracciones al código de trabajo / ARSA.
-
-Productos derivados del petróleo
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Combustible
-Fabricación, importación, distribución, manipulación, almacenamiento y comercialización de combustibles, Diesel y sus derivados.
-Resolución de la Secretaria de Energía emitido por la Dirección General de Hidrocarburos y Biocombustibles.
-
-Servicios Turísticos
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Agencias de Viaje
-Comercialización de planes turísticos.
-Constancia de la Cámara Nacional de Turismo de Honduras (CANATURH)
-Boletos aéreos
-Comercialización, distribución y venta de boletos aéreos.
-Constancia de la Cámara Nacional de Turismo de Honduras (CANATURH)
-Hoteles
-Prestación de servicios de hotelería.
-Constancia de la Cámara Nacional de Turismo de Honduras (CANATURH) / ARSA
-
-Servicios Forestales
-
-Categoría
-Descripción del Rubro
-Constancia Por Acreditar
-Servicios Forestales
-Control de incendios y servicios forestales.
-
-Permiso del Instituto de Conservación Forestal - ICF
-Aserraderos
-Comercialización, distribución e importación de madera.
-Permiso del Instituto de Conservación Forestal - ICF
-Servicios Forestales
-Servicios, consultorías y estudios sobre servicios forestales.
-Constancia de registro en el Colegio de Profesionales Forestales de Honduras (COLPROFORH)
-
-## Documento: REQUISITOS Y RECOMENDACIONES PERSONA NATURAL
+## Requisitos (según el documento oficial)
 
 REQUISITOS PARA LA INSCRIPCION EN EL REGISTRO DE PROVEEDORES Y CONTRATISTAS DEL ESTADO
+
 Requisitos Persona Natural
 
 Formulario F-1RP de Solicitud de Inscripción, firmado y sellado por el solicitante (representante o apoderado legal), autenticado. En caso de ser firmado y sellado por el apoderado legal no es necesario que figure en la auténtica de firmas.
@@ -763,6 +649,142 @@ Los formularios presentados deben ser de fecha anterior o igual a la fecha que e
 
 Para dudas o consultas enviar solicitud a: https://soporte.honducompras.gob.hn/solicitud/ con nombre completo y RTN de la empresa o persona natural y el número de expediente si tiene.
 
+## ¡Oportunidades para mujeres emprendedoras!
+
+Regístrate gratis
+
+## Otro texto del documento
+
+F-1RP.
+Formulario de Solicitud de Inscripción en el Registro de Proveedores y Contratistas Del Estado
+PERSONA NATURAL
+
+Señor (a) Director (a) de la Oficina Normativa de Contratación y Adquisiciones del Estado (ONCAE).
+
+Yo, _______________________________, Mayor de Edad, Estado Civil ________________, Profesión(si el trámite se realiza a través de un abogado incorporar sus datos generales) ____________________________________Hondureño y con domicilio en____________________________________, actuando en mi condición de ________________________de_________________________________, ante Usted con el debido respeto comparezco a solicitar la (Inscripción, Renovación o Actualización) de mi representado, en el Registro de Proveedores y Contratistas del Estado, a fin de contratar con la Administración Pública y demás Poderes del Estado. Acompaño a la presente todos los documentos que esta Oficina Normativa solicita para mi inscripción en la misma, entendiéndose que solamente en el caso de que la documentación esté completa al momento de su presentación, se extenderá constancia de tener en trámite el registro.
+
+Así mismo declaro que daré seguimiento a la solicitud de inscripción a través de http://sicc.honducompras.gob.hn/consultaProveedores/, entiendo que la ONCAE puede solicitar información adicional a fin de verificar los datos presentados; que la ONCAE entrega la información que consta en su sistema, y documentos presentados en las solicitudes de inscripción organismos contralores, fiscalizadores, y vigilancia; que una vez recibido la solicitud de inscripción y durante la vigencia de la misma la ONCAE puede suspender y cancelar del Registro de proveedores a mi representada conforme lo establece la Ley de Contratación del Estado y su Reglamento.
+-20955013970000
+FUNDAMENTOS DE DERECHO: Artículos 80 de la Constitución de la República; 56, 60, 61 y 62 de la Ley de Procedimientos Administrativo; 34, 36 y 37 de la Ley de Contratación del Estado y 23, 24, 33, 34, 35, 36, 54`, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64 y 69 del Reglamento de la Ley de Contratación del Estado.
+
+P E T I C I O N
+Al Director(a), reiterándole mi respeto PIDO: Admitir la presente solicitud con los documentos acompañados, extenderme la debida constancia de encontrarse en trámite la solicitud y me comprometo a finalizar el trámite que en Ley Corresponde; y se me extienda en definitiva la Certificación de Inscripción en el Registro de Proveedores y contratistas del Estado.
+
+Tegucigalpa M.D.C. _____ de_______________________ 20___
+
+___________________________________________________
+FIRMA Y SELLO
+
+## Otro texto del documento — Formulario F-2RP
+
+F-2RP.
+Formulario de Información del Solicitante Persona Natural
+
+AREA DE ACTIVIDAD
+TIPO DE TRAMITE
+TIPO DE PERSONERIA
+Obras Publicas
+
+Inscripción
+
+Persona Natural
+
+Bienes Y Servicios
+
+Consultoría
+
+DATOS DE IDENTIFICACION DE LA PERSONA NATURAL
+
+32385001962151844040207645Nombres y Apellidos del Solicitante: _______________________________________________
+Género Femenino: Masculino:
+No. de Identidad / No. de Pasaporte: _______________________________________________
+Registro Tributario Nacional del Representante legal: ___________________________________
+Código de Numérico del Área de Actividad/Rubro Solicitado (Disponibles en Requisitos y Formularios (oncae.gob.hn)):___________________________________________________________________________________________________________________________________________________________________________________
+DOMICILIO LEGAL Y DIRECCION COMPLETA DE LA PERSONA NATURAL
+
+Colonia o Barrio Etc.: _____________________________________________________
+Calle y/o Avenida: _____________________________________________________
+No. De Casa/Edificio:_____________________________________________________
+Ciudad:______________________________________________________________
+Municipio:________________________________________________________________
+Departamento:______________________________________________________________
+Teléfono para efectos de Notificación:_____________________________________________
+Correos Electrónicos Principal y Opcionales para efectos de Notificación: ______________________________________________________________________________
+
+F-2RP.
+
+MANIFIESTO: Que toda la información que se suministra a continuación y la documentación que se acompaña, es EXACTA Y VERDADERA a fin de no incurrir en la infracción que señala el Artículo 70 letra c) del Reglamento de la Ley de Contratación del Estado; y SE AUTORIZA a la Oficina Normativa de Contratación y Adquisiciones del Estado a verificarla ante la entidad pública o privada correspondiente y a su difusión pública por cualquier medio, de conformidad al Artículo 6 de la Ley de Contratación del Estado.
+
+Lugar y Fecha: __________________________________________________________
+
+________________________________________________
+Firma del Solicitante
+
+Firma del Representante Legal de la Empresa.
+Este documento deberá ser autenticado por un notario. (en la auténtica de firma)
+
+## Otro texto del documento — Formulario F-3RP
+
+F-3RP.
+FORMULARIO DE CARTA PODER
+Yo, _____________________________________, mayor de edad, estado civil ____________________, de profesión _______________________, nacionalidad ______________________, de la ciudad de _______________________, con número de identidad _______________________, Representante Legal de la empresa ________________________, con actividad económica ________________________, Identificador tributario en el país de origen ________________________, con dirección física ________________________, y correo electrónico ________________________, confiero CARTA-PODER amplio y suficiente en cuanto a derecho corresponde a él (la) Abogada ____________________, mayor de edad, ____________________, (estado civil) __________________, (nacionalidad) ___________________, e inscrita en el Colegio de Abogados de Honduras con el número _______, con Despacho Legal ubicado en _________________________, con teléfono número _____________, correo electrónico: _______________________, para que pueda comparecer ante la Oficina Normativa de Contratación y Adquisiciones del Estado, a fin de presentar la Solicitud de Inscripción en el Registro de Proveedores y Contratistas del Estado para realizar la tramitación respectiva hasta obtener la Constancia de Inscripción, para lo cual la invisto de las facultades generales y especiales del mandato administrativo consignadas en el artículo 57 de la ley de procedimiento administrativo, tales como: Percibir, transigir, desistir, comprometer y aprobar.
+En fé de lo cual firmo la presente Carta Poder en la ciudad de _______________________, (ciudad originaria) a los _______________, (fecha en letras).
+
+13290553175000
+FIRMA Y SELLO
+Este formulario aplica solo cuando la solicitud es presentada por un Apoderado Legal (Abogado)
+Firma del Representante Legal de la Empresa.
+Este documento deberá ser autenticado por un notario. (en la auténtica de firma).
+
+## Otro texto del documento — Formulario F-5RP
+
+F-5RP
+DECLARACIÓN JURADA SOBRE PROHIBICIONES O INHABILIDADES
+
+Yo _______________________________________________________, mayor de edad, de estado civil ___________________, de nacionalidad __________________________,con domicilio en _________________________________________________________ y con Documento de Identificación Nacional No. _______________________________ actuando en mi condición de __________________________________________________por medio de la presente DECLARO BAJO JURAMENTO QUE: No me encuentro comprendido en ninguna de las prohibiciones de los artículos 15 y 16 de la Ley de Contratación del Estado y del artículo 439 de la Ley de Lavado de Activos del Código Penal, y demás aplicables.
+
+LEY DE CONTRATACIÓN DEL ESTADO: “ARTÍCULO 15.- Aptitud para contratar e inhabilidades. Podrán contratar con la Administración, las personas naturales o jurídicas, hondureñas o extranjeras, que teniendo plena capacidad de ejercicio, acrediten su solvencia económica y financiera y su idoneidad técnica y profesional y no se hallen comprendidas en algunas de las circunstancias siguientes:
+
+Haber sido condenados mediante sentencia firme por delitos contra la propiedad, delitos contra la fe pública, cohecho, enriquecimiento ilícito, negociaciones incompatibles con el ejercicio de funciones públicas, malversación de caudales públicos o contrabando y defraudación fiscal, mientras subsista la condena. Esta prohibición también es aplicable a las sociedades mercantiles u otras personas jurídicas cuyos administradores o representantes se encuentran en situaciones similares por actuaciones a nombre o en beneficio de las mismas;
+
+DEROGADO;
+
+Haber sido declarado en quiebra o en concurso de acreedores, mientras no fueren rehabilitados;
+
+Ser funcionarios o empleados, con o sin remuneración, al servicio de los Poderes del Estado o de cualquier institución descentralizada, municipalidad u organismo que se financie con fondos públicos, sin perjuicio de lo previsto en el Artículo 258 de la Constitución de la República;
+
+Haber dado lugar, por causa de la que hubiere sido declarado culpable, a la resolución firme de cualquier contrato celebrado con la Administración o a la suspensión temporal en el Registro de Proveedores y Contratistas en tanto dure la sanción. En el primer caso, la prohibición de contratar tendrá una duración de dos (2) años, excepto en aquellos casos en que haya sido objeto de resolución en sus contratos en dos ocasiones, en cuyo caso la prohibición de contratar será definitiva;
+
+Ser cónyuge, persona vinculada por unión de hecho o parientes dentro del cuarto grado de consanguinidad o segundo de afinidad de cualquiera de los funcionarios o empleados bajo cuya responsabilidad esté la precalificación de las empresas, la evaluación de las propuestas, la adjudicación o la firma del contrato;
+
+Tratarse de sociedades mercantiles en cuyo capital social participen funcionarios o empleados públicos que tuvieren influencia por razón de sus cargos o participaren directa o indirectamente en cualquier etapa de los procedimientos de selección de contratistas. Esta prohibición se aplica también a las compañías que cuenten con socios que sean cónyuges, personas vinculadas por unión de hecho o parientes dentro del cuarto grado de consanguinidad o segundo de afinidad de los funcionarios o empleados a que se refiere el numeral anterior, o aquellas en las que desempeñen, puestos de dirección o de representación personas con esos mismos grados de relación o de parentesco; y,
+
+Haber intervenido directamente o como asesores en cualquier etapa de los procedimientos de contratación o haber participado en la preparación de las especificaciones, planos, diseños o términos de referencia, excepto en actividades de supervisión de construcción.
+
+ARTÍCULO 16.- Funcionarios cubiertos por la inhabilidad. Para los fines del numeral 7) del Artículo anterior, se incluyen el Presidente de la República y los Designados a la Presidencia, los Secretarios y Subsecretarios de Estado, los Directores Generales o Funcionarios de igual rango de las Secretarías de Estado, los Diputados al Congreso Nacional, los Magistrados de la Corte Suprema de Justicia, los miembros del Tribunal Supremo Electoral, el Procurador y Subprocurador General de la República, los magistrados del Tribunal Superior de Cuentas, el Director y Subdirector General Probidad Administrativa, el Comisionado Nacional de Protección de los Derechos Humanos, el Fiscal General de la República y el Fiscal Adjunto, los mandos superiores de las Fuerzas Armadas, los Gerentes y Subgerentes o funcionarios de similares rangos de las instituciones descentralizadas del Estado, los Alcaldes y Regidores Municipales en el ámbito de la contratación de cada Municipalidad y los demás funcionarios o empleados públicos que por razón de sus cargos intervienen directa o indirectamente en los procedimientos de contratación.”
+
+CODIGO PENAL: “ARTÍCULO 439.- LAVADO DE ACTIVOS. Incurre en lavado de activos quien por sí o por interpósita persona, adquiera, invierta, posea, utilice, transforme, resguarde, administre, custodie, transporte, transfiera, conserve, traslade, oculte, dé apariencia de legalidad o impida la determinación del origen o la verdadera naturaleza, así como la ubicación, el destino, el movimiento o la propiedad de activos productos directos o indirectos de cualquier delito grave y en todo caso de los delitos de tráfico ilícito de drogas, trata de personas, tráfico ilegal de personas o armas de fuego, falsificación de moneda, tráfico de órganos humanos, hurto o robo de vehículos automotores, robo a instituciones financieras, estafas o fraudes financieros, secuestro, amenazas o chantaje, extorsión, financiamiento del terrorismo, terrorismo, malversación de caudales públicos, cohecho, tráfico de influencias, delitos contra la propiedad intelectual e industrial, el patrimonio cultural, explotación sexual y pornografía infantil, urbanísticos, explotación de recursos naturales y medioambientales, contrabando o de enriquecimiento ilícito, cometidos por él o por un tercero, o que no tengan causa o, justificación económica o lícita de su procedencia.
+
+Las conductas descritas en el párrafo anterior deben ser castigadas conforme a las reglas siguientes: 1) Cuando el valor de los activos objeto de lavado no sea superior a Dos Millones de Lempiras (L.2.000,000), se deben imponer las penas de prisión de cinco (5) a ocho (8) años y multa igual al cincuenta por ciento (50%) de dicho valor; 2) Cuando el valor de los activos objeto del lavado sea superior a Dos Millones de Lempiras (2.000,000) y no exceda los Cinco Millones de Lempiras (5.000,000), se deben imponer las penas de prisión de ocho (8) a diez (10) años y multa igual al cien por ciento (100%) de dicho valor; y, 3) Cuando el valor de los activos objeto de lavado sea superior a Cinco Millones de Lempiras (5.000,000), se deben imponer las penas de prisión de diez (10) a trece (13) años y multa igual al ciento cincuenta por ciento (150%) de dicho valor.
+
+Las penas establecidas en los numerales anteriores, se deben rebajar a la mitad cuando se trate de posesión o utilización de bienes sin título por parte de personas unidas por relación personal o familiar con el responsable del hecho.
+
+Las penas anteriores se deben aumentar en un cuarto (1/4) en los casos siguientes:
+Cuando los bienes o activos proceden de delitos relativos al tráfico de drogas, terrorismo, extorsión o delitos de explotación sexual; 2) Cuando la actividad de lavado de activos se realiza a través de un grupo delictivo organizado. Si el responsable es promotor, jefe, dirigente o cabecilla del grupo delictivo organizado, la pena se debe aumentar en un tercio (1/3); o, 3) Cuando el responsable es profesional del sector financiero o no financiero designado, bursátil o bancario en el ejercicio de su profesión, o funcionario o empleado público en el ejercicio de su cargo. En estos casos se debe imponer, además, la pena de inhabilitación absoluta por el doble del tiempo de la pena de prisión.”
+
+En fe de lo cual firmo la presente en la ciudad de _____________________________, Departamento de __________________, a los __________ días de mes de ______________________ del año ___________.
+
+145351510604500
+Firma
+
+## Otro texto del documento — Acreditación vigente del rubro
+
+ACREDITACIÓN DE CONSTANCIAS POR RUBRO
+
+Comercialización de productos o servicios de interés sanitario
+
+Categoría
+
 ## Documentos
 
 - [Formulario F-1RP](https://oncae.gob.hn/wp-content/uploads/2026/02/F-1RP-SOLICITUD-DE-INSCRIPCION.docx)
@@ -801,7 +823,7 @@ Para dudas o consultas enviar solicitud a: https://soporte.honducompras.gob.hn/s
 ## Fuente
 
 - Ficha: https://oncae.gob.hn/como-ser-proveedor/requisitos-para-certificarse-como-proveedor-del-estado/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

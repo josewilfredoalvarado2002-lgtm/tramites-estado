@@ -7,15 +7,17 @@ aliases:
   - "Estimación de Pagos a Cuenta"
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Rectificación de pagos a cuenta"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "Descripción del trámite Los obligados tributarios pueden solicitar la estimación de sus cuotas de pagos a cuenta. En caso de no haber causado impuesto en el periodo fiscal inmediato anterior, o bien de iniciar operaciones en el año en curso, el cálculo de las tres cuotas se realizará de forma estimada, tomando como referencia los ingresos proyectados para el período fiscal vigente. Este trámite se"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/estimacion-de-pagos-a-cuenta-2/"
 documentos:
   - "https://www.sar.gob.hn/download/estimacion-de-pagos-a-cuenta-2/?wpdmdl=21534"
 actualizado_sitio: "agosto 25, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "ac8d99491ed630f8304d336bae7ef28e18e591467df1cb654fac37dfe5196fa7"
+extraido: 2026-11-14T00:15
+huella: "7b8073e0d7771e7295feb2c25a7b5f904be8d2c848eaa79cae12d175a7358146"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,17 +32,11 @@ estado_sitio: "Vigente"
 | Institución | Servicio de Administración de Rentas |
 | Categoría | Rectificación de pagos a cuenta |
 | Última actualización que muestra el sitio | agosto 25, 2026 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
-Dirección Nacional de Cumplimiento Tributario
-Departamento de Recaudación
-
-TRÁMITES DE RECAUDACIÓN
-ESTIMACIÓN DE PAGOS A CUENTA
-
-ESTIMACIÓN DE PAGOS A CUENTA
+## Para qué se hace (según el documento)
 
 Descripción del trámite
 Los obligados tributarios pueden solicitar la estimación de sus cuotas de pagos a cuenta.
@@ -72,7 +68,7 @@ Boletín de Pago más adelante.
 Importante: La recepción de la petición por parte de la Administración Tributaria no da
 inicio al trámite. La solicitud solo comenzará a procesarse una vez validado el pago.
 
-REQUISITOS:
+## Requisitos (según el documento oficial)
 
 a) Realizar el pago por actos administrativos por el valor de L200.00.
 b) Presentar un escrito de solicitud Indicando con claridad los hechos y
@@ -85,6 +81,24 @@ d) Para personas jurídicas presentar, Estados Financieros Originales a la
 fecha de ingreso de la petición y Proyectados al 31 de diciembre o al
 cierre de su período fiscal, Timbrados, Firmados y Sellados por un
 contador colegiado.
+
+## Costo (según el documento)
+
+PAGOS A CUENTA”, DEL PERÍODO _________________POR LAS RAZONES Y HECHOS
+SIGUIENTES:
+________________________________________________________________________________
+________________________________________________________________________________
+
+DETALLAR ADEMAS DEL VALOR DE LA ESTIMACIÓN, LOS NÚMEROS DE RECIBOS CON LOS
+CUALES SE HAN REALIZADOS LOS PAGOS DE LAS CUOTAS DE PAGOS A CUENTA VENCIDAS
+(SI APLICA).
+AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL
+PRESENTE ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y RESOLVER
+DE CONFORMIDAD: LUGAR Y FECHA: ________________________________
+
+NOMBRE Y FIRMA
+
+## Base legal (según el documento)
 
 BASE LEGAL
 
@@ -111,19 +125,16 @@ MINISTRO (A) DIRECTOR (A), ACTUANDO EN MI CONDICION
 DE____________________________________ (SI ES PERSONA JURÍDICA ESPECIFICAR
 EL NOMBRE DE LA EMPRESA______________________________________________________
 Y EL RTN ___________________________________), PARA SOLICITAR “ESTIMACION DE
-PAGOS A CUENTA”, DEL PERÍODO _________________POR LAS RAZONES Y HECHOS
-SIGUIENTES:
-________________________________________________________________________________
-________________________________________________________________________________
 
-DETALLAR ADEMAS DEL VALOR DE LA ESTIMACIÓN, LOS NÚMEROS DE RECIBOS CON LOS
-CUALES SE HAN REALIZADOS LOS PAGOS DE LAS CUOTAS DE PAGOS A CUENTA VENCIDAS
-(SI APLICA).
-AL SEÑOR(A) MINISTRO (A) DIRECTOR (A) RESPETUOSAMENTE PIDO: ADMITIR EL
-PRESENTE ESCRITO JUNTO CON LA DOCUMENTACIÓN QUE SE ACOMPAÑAN Y RESOLVER
-DE CONFORMIDAD: LUGAR Y FECHA: ________________________________
+## Otro texto del documento
 
-NOMBRE Y FIRMA
+Dirección Nacional de Cumplimiento Tributario
+Departamento de Recaudación
+
+TRÁMITES DE RECAUDACIÓN
+ESTIMACIÓN DE PAGOS A CUENTA
+
+ESTIMACIÓN DE PAGOS A CUENTA
 
 ## Documentos
 
@@ -132,7 +143,7 @@ NOMBRE Y FIRMA
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/estimacion-de-pagos-a-cuenta-2/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

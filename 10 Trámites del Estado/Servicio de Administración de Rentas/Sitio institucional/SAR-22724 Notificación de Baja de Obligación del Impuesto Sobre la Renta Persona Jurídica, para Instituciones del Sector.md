@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Baja de obligaciones"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/notificacion-de-baja-de-obligacion-isr-pj-instituciones-del-estado/"
 documentos:
   - "https://www.sar.gob.hn/download/notificacion-de-baja-de-obligacion-isr-pj-instituciones-del-estado/?wpdmdl=22724"
 actualizado_sitio: "junio 8, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "1c1c95a30f110fcbf29e26ca002800ffa2c3b9de91282be567373fa861f9c130"
+extraido: 2026-11-14T00:15
+huella: "3626aa38faa8597a5b6c860b555177e1d4cfbf41bf6204b4dc4b64a57a425975"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | junio 8, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS NOTIFICACIÓN DE BAJA DE
 OBLIGACIÓN DEL IMPUESTO SOBRE LA
@@ -48,6 +52,7 @@ Este trámite puede ingresarlo en línea desde la Oficina Virtual o, si lo prefi
 presencial en nuestras oficinas regionales y departamentales.
 A continuación, se detallan los requisitos aplicables para ambas modalidades: virtual y
 presencial según el tipo de notificación.
+
 REQUISITOS NOTIFICACIÓN DE BAJA DE OBLIGACIÓN DEL IMPUESTO SOBRE
 LA RENTA PERSONA JURÍDICA, PARA INSTITUCIONES DEL SECTOR PÚBLICO.
 1.Escrito de Notificación que contenga los requisitos establecidos en el Artículo 61
@@ -71,7 +76,7 @@ indicando si posee las siguientes facultades:
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/notificacion-de-baja-de-obligacion-isr-pj-instituciones-del-estado/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

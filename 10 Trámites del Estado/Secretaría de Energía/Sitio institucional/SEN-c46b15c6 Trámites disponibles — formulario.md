@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Energía/Secretaría de Energía|Secretaría de Energía]]"
 categoria: "Trámites disponibles"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://sen.hn/tramites-sen/"
 documentos:
   - "https://sen.hn/wp-content/uploads/2020/11/FORMULARIO-DE-SOLICITUD-DE-PERMISO-PARA-LEVANTAMIENTO-E-INVESTIGACIÓN-GEOFÍSICA.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
-extraido: 2026-11-13T22:22
-huella: "2e61d435495b2cf548a50fe9205424aeaa29c9ce2f10d9634c9fbff3d47eafe4"
+extraido: 2026-11-14T00:44
+huella: "09b0f9591089cb16c8a344861d3018bde081c7e5ef33d34e107e4f90c9e569da"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,25 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
+
+Requisitos
+Ley de Hidrocarburos 21, 22, 25, 26, 27, 38, 39. Reglamento de la Ley de Hidrocarburos
+3, 8, 9, 14.
+Garantías
+Reglamento de Hidrocarburos artículos 34, 35 y 36.
+
+Firma del Solicitante:__________________________________
+
+Cargo del Solicitante:
+
+Fecha:
+
+Número de Expediente Asignado:
+
+## Otro texto del documento
 
 FORMULARIO DE SOLICITUD DE PERMISO PARA LEVANTAMIENTO E INVESTIGACIÓN
 GEOFÍSICA
@@ -164,22 +184,6 @@ realizado el Análisis Legal y Técnico correspondiente, podrá solicitar que la
 información y documentación proporcionada sea modificada o ampliada, a efecto de
 cumplir con las disposiciones contenidas en la Ley de Hidrocarburos y su Reglamento.
 
-Base Legal:
-
-Requisitos
-Ley de Hidrocarburos 21, 22, 25, 26, 27, 38, 39. Reglamento de la Ley de Hidrocarburos
-3, 8, 9, 14.
-Garantías
-Reglamento de Hidrocarburos artículos 34, 35 y 36.
-
-Firma del Solicitante:__________________________________
-
-Cargo del Solicitante:
-
-Fecha:
-
-Número de Expediente Asignado:
-
 ## Documentos
 
 - [Trámites disponibles — formulario](https://sen.hn/wp-content/uploads/2020/11/FORMULARIO-DE-SOLICITUD-DE-PERMISO-PARA-LEVANTAMIENTO-E-INVESTIGACIÓN-GEOFÍSICA.pdf)
@@ -187,7 +191,7 @@ Número de Expediente Asignado:
 ## Fuente
 
 - Ficha: https://sen.hn/tramites-sen/
-- Fecha y hora de extracción: 2026-11-13 22:22 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:44 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -7,15 +7,17 @@ aliases:
   - "MODIFICACION DE REGISTRO DE BENEFICIARIOS EN SIAFI ( PROVEEDORES Y EMPLEADOS PÚBLICOS ACREEDORES DE DEDUCCIONES Y OTROS)"
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Tesoreria"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "Modificación de Inscripción en el Registro de Beneficiarios ( SIAFI ) de todos los proveedores y empleados públicos del Estado"
+tiene_requisitos: false
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos:
   - "https://www.sefin.gob.hn/wp-content/uploads/2026/03/SOLICITUD-DE-ACTUALIZACION-DEL-REGISTRO-2026-ed-1.pdf"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "8be6c84ff73b282711be1fe7fccfccc0514ea4c5ec969af35e5317cd2253a179"
+extraido: 2026-11-14T00:35
+huella: "6bd50f291e19faca03a860e5d4fc5e36f8b197f5cb8f95feeaed467a51bdf95a"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,7 +32,7 @@ estado_sitio: "Vigente"
 | Institución | Secretaría de Finanzas |
 | Categoría | Tesoreria |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Descripcion
 
@@ -44,7 +46,7 @@ No requiere realizar ningún pago.
 
 SE RECIBE LA DOCUMENTACION SOPORTE DE ACUERDO AL TIPO DE REGISTRO QUE SE VA A REALIZAR
 
-## Formatos (texto del documento oficial)
+## Otro texto del documento
 
 DAVID DIAZ 2026
 
@@ -87,7 +89,7 @@ Tesorería General de la República
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

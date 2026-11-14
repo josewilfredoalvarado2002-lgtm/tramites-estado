@@ -15,7 +15,7 @@ dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
 extraido: 2026-11-13T22:08
 huella: "e9b59699481ec46396ef11e3d0c30374348cc6a3fd27db99574820358764776b"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # EXONERACIÓN DE IMPUESTO SOBRE VENTA IGLESIA CATÓLICA

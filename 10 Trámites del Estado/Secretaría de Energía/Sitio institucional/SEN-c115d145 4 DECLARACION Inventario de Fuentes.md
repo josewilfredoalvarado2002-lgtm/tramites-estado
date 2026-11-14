@@ -16,7 +16,7 @@ dominio_verificado: "sen.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DIE)"
 extraido: 2026-11-13T22:22
 huella: "bc75f06adf6d8c1aa6f6488b35526f28084062b97d07c631ef2d0bef26f2840f"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # 4 DECLARACION Inventario de Fuentes

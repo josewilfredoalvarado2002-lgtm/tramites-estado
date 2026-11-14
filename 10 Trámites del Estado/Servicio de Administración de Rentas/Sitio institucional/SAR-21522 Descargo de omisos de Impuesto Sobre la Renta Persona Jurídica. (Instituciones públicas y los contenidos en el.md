@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Descargo de omisos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/descargo-de-omisos-de-impuesto-sobre-la-renta-persona-juridica-instituciones-publicas-y-los-contenidos-en-el-art-7/"
 documentos:
   - "https://www.sar.gob.hn/download/descargo-de-omisos-de-impuesto-sobre-la-renta-persona-juridica-instituciones-publicas-y-los-contenidos-en-el-art-7/?wpdmdl=21522"
 actualizado_sitio: "julio 30, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "47e980163f4ae2e9f88d47555f43150b0581f8353460f9c173f44d320e300447"
+extraido: 2026-11-14T00:15
+huella: "b6b78ea4e8954616bdf5907faa3376693bac2be3cb9aff4e8591c16831da03e8"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,7 +34,9 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | julio 30, 2026 |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DESCARGO DE OMISOS DE IMPUESTO SOBRE
 LA RENTA PERSONA JURÍDICA. (INSTITUCIONES PÚBLICAS
@@ -67,7 +71,7 @@ creación de la institución
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/descargo-de-omisos-de-impuesto-sobre-la-renta-persona-juridica-instituciones-publicas-y-los-contenidos-en-el-art-7/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

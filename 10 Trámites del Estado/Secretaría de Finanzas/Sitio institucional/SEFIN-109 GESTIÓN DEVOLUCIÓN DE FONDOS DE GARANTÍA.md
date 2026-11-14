@@ -7,14 +7,16 @@ aliases:
   - "GESTIÓN DEVOLUCIÓN DE FONDOS DE GARANTÍA"
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Tesoreria"
-calidad: "completo"
+calidad: "solo_para_que"
+para_que: "Devolución de Fondos de Garantía por Ejecución de Contratos"
+tiene_requisitos: false
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "5a3e92a165adbed03ccc38d98aa103a6bc0723705d3e1a026a0f989409519672"
+extraido: 2026-11-14T00:35
+huella: "ad61db54ddb65294df953221795e2df9dfcae2793367ca96bfe348a3ad2b1c52"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,11 +31,15 @@ estado_sitio: "Vigente"
 | Institución | Secretaría de Finanzas |
 | Categoría | Tesoreria |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | completo |
+| Calidad de la extracción | solo para que |
 
 ## Descripcion
 
 Devolución de Fondos de Garantía por Ejecución de Contratos
+
+## Requisitos
+
+OFICIO DE LA INSTITUCION
 
 ## Tasa_derechos
 
@@ -43,14 +49,10 @@ No requiere realizar ningún pago.
 
 SE RECIBE LA SOLICITUD DE PARTE DE LAS INSTITUCIONES
 
-## Requisitos
-
-OFICIO DE LA INSTITUCION
-
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

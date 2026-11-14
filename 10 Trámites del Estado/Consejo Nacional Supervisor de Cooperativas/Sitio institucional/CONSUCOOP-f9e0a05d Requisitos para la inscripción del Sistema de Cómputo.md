@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/Consejo Nacional Supervisor de Cooperativas|Consejo Nacional Supervisor de Cooperativas]]"
 categoria: "No consta en el sitio"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://consucoop.hn/requisitos/"
 documentos:
-  - "https://consucoop.hn/download/12457/?tmstv=1794630135"
+  - "https://consucoop.hn/download/12457/?tmstv=1794638671"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "consucoop.hn"
 verificacion_dominio: "verificado (dominio .hn con respaldo oficial) (DI)"
-extraido: 2026-11-13T22:23
-huella: "e4bab501099da2c8fa2529e442b34a3c659929a8e973d4f6e77e361826c13557"
+extraido: 2026-11-14T00:45
+huella: "5dd76051261600882dd7c387f7bf1def3dabe7ad342e5f06507f16c3ec0115dc"
 estado_sitio: "Vigente"
 posible_equivalente_diger: "[[10 Trámites del Estado/Consejo Nacional Supervisor de Cooperativas/TR-352 Inscripción de Sistema Contable|Inscripción de Sistema Contable]]"
 ---
@@ -35,7 +37,9 @@ posible_equivalente_diger: "[[10 Trámites del Estado/Consejo Nacional Superviso
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 Requisitos
 1.Solicitud firmada por el Presidente de Junta Directiva de la cooperativa o en su defecto
@@ -55,28 +59,29 @@ registrada en el RAEC.
 según acuerdo del Acta No. 378/2025 de Junta Directiva del CONSUCOOP y Articulo
 No. 7, literal h) de la Ley de Cooperativas de Honduras y el Articulo No. 10, literal m)
 de su Reglamento.
-www.consucoop.hn
+
 CONSEJO NACIONAL
 SUPERVISOR DE COOPERATIVAS
 (CONSUCOOP)
+
 REQUISITOS PARA INSCRIPCIÓN DEL SISTEMA DE CÓMPUTO
 8.Pagar L.1,000.00, si el pago es mediante cheque deberá hacerse a nombre de CONSUCOOP o
 con copia del depósito Bancario o transferencia a nombre de este y en cada documento deberá
 llevar un timbre de L. 50.00 cada uno y un timbre cooperativo para la Certificación de L50.00
 o pueden realizar deposito en cuenta de Banco Cuscatlán No. 11-105-0000276 a nombre de
 CONSUCOOP.
-www.consucoop.hn
+
 *Cualquier consulta o duda pueden abocarse al correo electrónico
 registro@consucoop.hn; Teléfono 2235-9281 ext. 105 y mensajes al WhatsApp 31622364.
 
 ## Documentos
 
-- [Requisitos para la inscripción del Sistema de Cómputo](https://consucoop.hn/download/12457/?tmstv=1794630135)
+- [Requisitos para la inscripción del Sistema de Cómputo](https://consucoop.hn/download/12457/?tmstv=1794638671)
 
 ## Fuente
 
 - Ficha: https://consucoop.hn/requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

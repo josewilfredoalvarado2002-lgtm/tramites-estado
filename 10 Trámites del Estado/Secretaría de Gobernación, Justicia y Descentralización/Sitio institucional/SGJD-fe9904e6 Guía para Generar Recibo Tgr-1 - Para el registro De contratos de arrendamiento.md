@@ -16,7 +16,7 @@ dominio_verificado: "sgjd.gob.hn"
 verificacion_dominio: "verificado (GDI)"
 extraido: 2026-11-13T22:11
 huella: "cce7c15dee9553a4282ee92f56a53e7922c095e9d3eeb59e97a501b67fbfc381"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # Guía para Generar Recibo Tgr-1 - Para el registro De contratos de arrendamiento

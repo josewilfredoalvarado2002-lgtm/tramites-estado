@@ -7,7 +7,9 @@ aliases:
   - "EXONERACIÓN DE PAGO DEL APORTE PARA LA ATENCIÓN A PROGRAMAS SOCIALES Y CONSERVACIÓN DEL PATRIMONIO VIAL (ACPV) PARA PROGRAMAS O PROYECTOS PÚBLICOS SUJETOS A CONVENIOS O DONACIONES INTERNACIONALES."
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Franquicias"
-calidad: "completo"
+calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos:
   - "https://www.sefin.gob.hn/download_file.php?download_file=/wp-content/uploads/2015/08/Diagrama-de-Flujo-Dispensas-y-Exoneraciones.pdf"
@@ -15,8 +17,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "9740ac1a333a83b8239417fac146d67007f4343b327bf301811ab3ff2cb96e48"
+extraido: 2026-11-14T00:35
+huella: "8aa0d583b602d5192e09ed1f5107ff300f3a34e1b4e5c33221b166e1918dda90"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -31,54 +33,15 @@ estado_sitio: "Vigente"
 | Institución | Secretaría de Finanzas |
 | Categoría | Franquicias |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | completo |
+| Calidad de la extracción | solo requisitos |
+
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
 
 ## Descripcion
 
 Excepción del pago del impuesto
 
-## Tasa_derechos
-
-TGR-1
-
-## Procedimientos (texto del documento oficial)
-
-Ingreso de Solicitud
-Ventanilla
-Asignación al
-Analista
-Analisis de Solicitud
-y Generación de
-Documentos
-Revision
-Instancia Legal
-Firma de DIrección
-Revisión Delegado
-Secretaria General
-Firma Delegado
-Secretaría General
-1
-1
-Memorando de
-Remisión a
-Correspondencia
-por parte de la
-Dirección
-Recepción en
-Correspondencia
-Entrega de
-Certificación al
-Interesado
-Expediente en
-Archivo
-Dictamen,
-Resolución y
-Certificación
-DIAGRAMA DE FLUJO DE DISPENSAS Y EXONERACIONES
-DIRECCIÓN GENERAL DE CONTROL DE FRANQUICIAS
-ADUANERAS
-
-## Requisitos (texto del documento oficial)
+## Requisitos (según el documento oficial)
 
 REQUISITOS
 EXONERACIONES
@@ -86,23 +49,20 @@ FISCALES
 
 ZONA LIBRE (ZOLI)
 IMPUESTO SOBRE VENTAS
+
 REQUISITOS
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos, estado civil, Licenciado o Abogado, teléfono celular,
 fijo y correo electrónico, domicilio, Carnet vigente expedido por el Colegio
 de Abogados de Honduras, RTN; acreditación de poder con que actúa.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
+
 2.- Realizar Formulario PAMEH de exoneración de Impuesto sobre Ventas,
 con su pedido cargado en sistema.
 3.- Listado en físico formato Word y en CD, de los bienes y servicios a
@@ -121,21 +81,17 @@ SOLIDARIO
 REQUISITOS
 
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
+
 2. Realizar Formulario PAMEH de Solicitud de Impuesto sobre la renta y sus
 conexos.
 3. Recibo de pago o formulario oficial TGR-1 L. 400.00 (casilla 12121).
@@ -152,21 +108,17 @@ CONSERVACIÓN DEL PATRIMONIO VIAL
 
 REQUISITOS
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita
-- Firma y Sello del Apoderado Legal.
+
 2. Realizar Formulario PAMEH de Solicitud de Exoneración de ACPV.
 3. Listado en físico formato Word y en CD, con las cantidades y el tipo de
 combustible a solicitar, cuya unidad de medida debe ser en galones.
@@ -182,23 +134,20 @@ tanque de almacenamiento o bombas de patio.
 RÉGIMEN DE IMPORTACIÓN TEMPORAL (RIT)
 
 IMPUESTO SOBRE VENTAS
+
 REQUISITOS
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos, estado civil, Licenciado o Abogado, teléfono celular,
 fijo y correo electrónico, domicilio, Carnet vigente expedido por el Colegio
 de Abogados de Honduras, RTN; acreditación de poder con que actúa.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita,
-- Firma y Sello del Apoderado Legal.
+
 - 2.- Realizar Formulario PAMEH de exoneración de Impuesto sobre Ventas,
 con su pedido cargado en sistema.
 
@@ -218,18 +167,14 @@ REQUISITOS
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
 deberá presentarse en la ventanilla de la Asistente de Secretaría General adscrita
 a la Dirección General de Control de Franquicias Aduaneras, la misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
+
 2.- Realizar Formulario PAMEH de Solicitud de Impuesto al Activo Neto y Aportación
 Solidaria.
 3.- Recibo de pago o formulario oficial TGR-1 L. 400.00 (casilla 12121).
@@ -246,21 +191,17 @@ CONSERVACIÓN DEL PATRIMONIO VIAL
 
 REQUISITOS
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita
-- Firma y Sello del Apoderado Legal.
+
 2. Realizar Formulario PAMEH de Solicitud de Exoneración de ACPV.
 3. Listado en físico formato Word y en CD, con las cantidades y el tipo de
 combustible a solicitar, cuya unidad de medida debe ser en galones.
@@ -280,14 +221,10 @@ IMPUESTO SOBRE VENTAS
 
 REQUISITOS
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos, estado civil, Licenciado o Abogado, teléfono celular,
 fijo y correo electrónico, domicilio, Carnet vigente expedido por el Colegio
 de Abogados de Honduras, RTN; acreditación de poder con que actúa.
@@ -295,7 +232,7 @@ de Abogados de Honduras, RTN; acreditación de poder con que actúa.
 
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
+
 - 2.- Realizar Formulario PAMEH de exoneración de Impuesto sobre Ventas,
 con su pedido cargado en sistema.
 - 3.- Listado en físico formato Word y en CD, de los bienes y servicios a
@@ -313,22 +250,18 @@ SOLIDARIO
 REQUISITOS
 
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
+
 2. Realizar Formulario PAMEH de Solicitud de Impuesto sobre la renta y sus
 conexos.
 3. Recibo de pago o formulario oficial TGR-1 L. 400.00 (casilla 12121).
@@ -345,22 +278,18 @@ CONSERVACIÓN DEL PATRIMONIO VIAL
 
 REQUISITOS
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN.
 
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita
-- Firma y Sello del Apoderado Legal.
+
 2. Realizar Formulario PAMEH de Solicitud de Exoneración de ACPV.
 3. Listado en físico formato Word y en CD, con las cantidades y el tipo de
 combustible a solicitar, cuya unidad de medida debe ser en galones.
@@ -379,22 +308,16 @@ IMPUESTO SOBRE VENTAS
 
 REQUISITOS
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
 
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
 - Nombre y apellidos, estado civil, Licenciado o Abogado, teléfono celular,
 fijo y correo electrónico1, domicilio, Carnet vigente expedido por el Colegio
 de Abogados de Honduras, RTN
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
 
 2.- Realizar Formulario PAMEH de exoneración de Impuesto sobre Ventas,
 con su pedido cargado en sistema.
@@ -413,21 +336,17 @@ SOLIDARIO
 REQUISITOS
 
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
+
 2. Realizar Formulario PAMEH de Solicitud de Impuesto sobre la renta y sus
 conexos.
 3. Recibo de pago o formulario oficial TGR-1 L. 400.00 (casilla 12121).
@@ -444,21 +363,17 @@ CONSERVACIÓN DEL PATRIMONIO VIAL
 
 REQUISITOS
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita
-- Firma y Sello del Apoderado Legal.
+
 2. Realizar Formulario PAMEH de Solicitud de Exoneración de ACPV.
 3. Listado en físico formato Word y en CD, con las cantidades y el tipo de
 combustible a solicitar, cuya unidad de medida debe ser en galones.
@@ -477,23 +392,18 @@ IMPUESTO SOBRE VENTAS
 
 REQUISITOS
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos, estado civil del apoderado Legal, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN;
 acreditación de poder con que actúa.
 - Expresar los hechos y razones en que se funda dicha solicitud
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita,
 
-- Firma y Sello del Apoderado Legal.
 2.- Realizar Formulario PAMEH de exoneración de Impuesto sobre Ventas, con
 su pedido cargado en sistema.
 3.- Listado en físico formato Word y en CD, de los bienes y servicios a exonerar,
@@ -512,23 +422,18 @@ IMPUESTO SOBRE VENTAS
 
 REQUISITOS
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
 
 - Nombre y apellidos, estado civil del apoderado Legal, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN;
 acreditación de poder con que actúa.
 - Expresar los hechos y razones en que se funda dicha solicitud
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita,
-- Firma y Sello del Apoderado Legal.
+
 2.- Realizar Formulario PAMEH de exoneración de Impuesto sobre Ventas, con
 su pedido cargado en sistema.
 3.- Listado en físico formato Word y en CD, de los bienes y servicios a exonerar,
@@ -546,22 +451,17 @@ SOLIDARIO
 REQUISITOS
 
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
 
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
+
 2. Realizar Formulario PAMEH de Solicitud de Impuesto sobre la renta y sus
 conexos.
 3. Recibo de pago o formulario oficial TGR-1 L. 400.00 (casilla 12121).
@@ -579,23 +479,18 @@ IMPUESTO SOBRE VENTAS
 
 REQUISITOS
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
 
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos, estado civil del apoderado Legal, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN;
 acreditación de poder con que actúa.
 - Expresar los hechos y razones en que se funda dicha solicitud
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita,
-- Firma y Sello del Apoderado Legal.
+
 2.- Realizar Formulario PAMEH de exoneración de Impuesto sobre Ventas, con
 su pedido cargado en sistema.
 3.- Listado en físico formato Word y en CD, de los bienes y servicios a exonerar,
@@ -613,21 +508,17 @@ SOLIDARIO
 REQUISITOS
 
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
+
 2. Realizar Formulario PAMEH de Solicitud de Impuesto sobre la renta y sus
 conexos.
 3. Recibo de pago o formulario oficial TGR-1 L. 400.00 (casilla 12121).
@@ -646,22 +537,18 @@ IMPUESTO SOBRE VENTAS
 
 REQUISITOS
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos, estado civil del apoderado Legal, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN;
 acreditación de poder con que actúa.
 - Expresar los hechos y razones en que se funda dicha solicitud
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita,
-- Firma y Sello del Apoderado Legal.
+
 2. Realizar Formulario PAMEH de exoneración de Impuesto sobre Ventas, con
 su pedido cargado en sistema.
 3. Listado en físico formato Word y en CD, de los bienes y servicios a exonerar,
@@ -720,22 +607,17 @@ APORTACION SOLIDARIA
 REQUISITOS
 
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
 
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN
 - Expresar los hechos y razones en que se funda dicha solicitud
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
+
 2.- Realizar Formulario PAMEH de Solicitud de Impuesto sobre la renta y sus
 conexos.
 3.- Recibo de pago o formulario oficial TGR-1 L. 400.00 (casilla 12121).
@@ -753,11 +635,9 @@ EXTRANJERAS
 
 REQUISITOS
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
 
 - Nombre y apellidos, estado civil, profesión u oficio y domicilio del beneficiario
 o de su representante, en cuyo caso deberá presentar el documento que
@@ -768,7 +648,7 @@ por el Colegio de Abogados de Honduras, RTN
 - Expresar los hechos y razones en que se funda dicha solicitud
 - Fundamentos Legales
 - Expresión clara de lo que se solicita
-- Firma y Sello del Apoderado Legal.
+
 2.- Realizar Formulario PAMEH, de Solicitud de Exoneración de no
 retenciones.
 3.- Copia de los contratos por servicios suscritos.
@@ -789,22 +669,18 @@ IMPUESTO SOBRE VENTAS
 
 REQUISITOS
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos, estado civil del apoderado Legal, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN;
 acreditación de poder con que actúa.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
+
 2.- Realizar Formulario PAMEH de exoneración de Impuesto sobre Ventas, con
 su pedido cargado en sistema.
 3.- Listado en físico formato Word y en CD, de los bienes y servicios a exonerar,
@@ -823,18 +699,14 @@ REQUISITOS
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual deberá
 presentarse en la ventanilla de la Asistente de Secretaría General adscrita a la Dirección
 General de Control de Franquicias Aduaneras, la misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita
-- Firma y Sello del Apoderado Legal.
+
 2.- Realizar Formulario PAMEH de Solicitud de Exoneración de ACPV.
 3.- Listado en físico formato Word y en CD, con las cantidades y el tipo de
 combustible a solicitar, cuya unidad de medida debe ser en galones.
@@ -854,23 +726,18 @@ IMPUESTO SOBRE VENTAS
 
 REQUISITOS
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos, estado civil del apoderado Legal, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN;
 acreditación de poder con que actúa.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita.
 
-- Firma y Sello del Apoderado Legal.
 2.- Realizar Formulario PAMEH de exoneración de Impuesto sobre Ventas, con
 su pedido cargado en sistema.
 3.- Listado en físico formato Word y en CD, de los bienes y servicios a exonerar,
@@ -886,21 +753,16 @@ IMPUESTO SOBRE RENTA, ACTIVO NETO Y APORTACION SOLIDARIA
 REQUISITOS
 
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
 
 2.- Realizar Formulario PAMEH de Solicitud de Impuesto sobre la renta y sus
 conexos.
@@ -919,22 +781,18 @@ CONSERVACIÓN DEL PATRIMONIO VIAL
 REQUISITOS
 
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN
 - Expresar los hechos y razones en que se funda dicha solicitud
 
 - Fundamentos Legales
 - Expresión clara de lo que se solicita
-- Firma y Sello del Apoderado Legal.
+
 2.- Realizar Formulario PAMEH de Solicitud de Exoneración de ACPV.
 3.- Listado en físico formato Word y en CD, con las cantidades y el tipo de
 combustible a solicitar, cuya unidad de medida debe ser en galones.
@@ -952,22 +810,17 @@ INTERCONECTADO DE LA ENEE
 REQUISITOS
 
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
 
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN
 - Expresar los hechos y razones en que se funda dicha solicitud
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita
-- Firma y Sello del Apoderado Legal.
+
 2.- Realizar Formulario PAMEH de Solicitud de Exoneración de ACPV.
 3.- Listado en físico formato Word y en CD, con las cantidades y el tipo de
 combustible a solicitar, cuya unidad de medida debe ser en galones.
@@ -985,23 +838,18 @@ IMPUESTO SOBRE VENTAS
 
 REQUISITOS
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
 
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
 - Nombre y apellidos, estado civil del apoderado Legal, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN;
 acreditación de poder con que actúa.
 - Expresar los hechos y razones en que se funda dicha solicitud
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita,
-- Firma y Sello del Apoderado Legal.
+
 2.- Realizar Formulario PAMEH de exoneración de Impuesto sobre Ventas, con
 su pedido cargado en sistema.
 3.- Listado en físico formato Word y en CD, de los bienes y servicios a exonerar,
@@ -1019,21 +867,16 @@ APORTACIÓN SOLIDARIA
 REQUISITOS
 
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado Legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN
 - Expresar los hechos y razones en que se funda dicha solicitud
 - Expresar los fundamentos legales en los cuales basa su solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
 
 2.- Realizar Formulario PAMEH de Solicitud de Impuesto sobre la renta y sus
 conexos.
@@ -1046,27 +889,20 @@ anteriores al año para el cual solicitan la exoneración.
 6.- Copia de Carne del Colegio de Abogados de Honduras vigente del apoderado
 legal.
 
-TASA DE SEGURIDAD POBLACIONAL ORGANIZACIONES HUMANITARIAS
-DE INTERÉS HUMANITARIO
-
 REQUISITOS
 
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos del apoderado legal, estado civil, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN
 - Expresar los hechos y razones en que se funda dicha solicitud
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita
-- Firma y Sello del Apoderado Legal.
+
 2. Realizar Formulario PAMEH de exoneración Pro-contribución de la Tasa de
 Seguridad Poblacional.
 3. Constancia emitida por la institución bancaria en la cual tiene su cuenta
@@ -1084,22 +920,18 @@ IMPUESTO SOBRE VENTAS
 
 REQUISITOS
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos, estado civil del apoderado Legal, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN;
 acreditación de poder con que actúa.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
+
 2.- Realizar Formulario PAMEH de exoneración de Impuesto sobre Ventas, con
 su pedido cargado en sistema.
 3.- Listado en físico formato Word y en CD, de los bienes y servicios a exonerar,
@@ -1119,23 +951,18 @@ IMPUESTO SOBRE VENTAS
 REQUISITOS
 
 1.- Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la misma
 deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
-- Nombre y apellidos, estado civil, profesión u oficio y domicilio del
-beneficiario o de su representante, en cuyo caso deberá presentar el
-documento que acredite su representación
+
 - Nombre y apellidos, estado civil del apoderado Legal, Licenciado o
-Abogado, teléfono celular, fijo y correo electrónico, domicilio, Carnet
+
 vigente expedido por el Colegio de Abogados de Honduras, RTN;
 acreditación de poder con que actúa.
 - Expresar los hechos y razones en que se funda dicha solicitud.
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita.
 
-- Firma y Sello del Apoderado Legal.
 2.- Realizar Formulario PAMEH de exoneración de Impuesto sobre Ventas, con
 su pedido cargado en sistema.
 3.- Listado en físico formato Word y en CD, de los bienes y servicios a exonerar,
@@ -1157,15 +984,12 @@ ESTADO
 
 IMPUESTO SOBRE VENTAS (PROYECTOS EJECUTADOS CON FONDOS
 EXTERNOS)
-REQUISITOS:
 
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
 
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
+
 - Nombre y apellidos, estado civil, profesión u oficio y domicilio del beneficiario
 o de su representante, en cuyo caso deberá presentar el documento que
 acredite su representación
@@ -1176,7 +1000,7 @@ Abogados de Honduras, RTN
 - Número del decreto que fue agregado al registro único de exonerados.
 - Expresar los fundamentos en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
+
 2. Realizar Formulario PAMEH, de Exoneración de Impuesto sobre ventas con
 el monto cargado al sistema.
 3. Decreto del Congreso en donde aprueba el convenio, contrato de donación
@@ -1188,14 +1012,12 @@ Rentas (SAR).
 ORGANISMOS INTERNACIONALES
 
 IMPUESTO SOBRE VENTAS
-REQUISITOS:
 
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
+
 - Nombre y apellidos, estado civil, profesión u oficio y domicilio del beneficiario
 o de su representante, en cuyo caso deberá presentar el documento que
 acredite su representación
@@ -1206,7 +1028,7 @@ Abogados de Honduras, RTN
 - Número del decreto que fue agregado al registro único de exonerados.
 - Expresar los fundamentos en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita.
-- Firma y Sello del Apoderado Legal.
+
 2. Realizar Formulario PAMEH, de Exoneración de Impuesto sobre ventas con
 el monto cargado al sistema.
 3. Decreto del Congreso en donde aprueba el convenio, contrato de donación
@@ -1231,13 +1053,12 @@ Se deberán cumplir los presupuestos legales de:
 
 No se concederá más de una prórroga del plazo respectivo. Produce efectos desde
 su fecha.
-Requisitos:
+
 1. Solicitud dirigida al Secretario de Estado en el Despacho de Finanzas, la cual
-deberá presentarse en la ventanilla de la Asistente de Secretaría General
+
 adscrita a la Dirección General de Control de Franquicias Aduaneras, la
 misma deberá:
-- Suma que indique contenido o el trámite que trata
-- Numero de solicitud de Exoneración generado en la plataforma PAMEH.
+
 - Nombre y apellidos, estado civil, profesión u oficio y domicilio del beneficiario
 o de su representante, en cuyo caso deberá presentar el documento que
 acredite su representación
@@ -1247,7 +1068,6 @@ Abogados de Honduras, RTN; acreditación de poder con que actúa.
 - Expresar los hechos y razones en que se funda dicha solicitud
 - Expresar los fundamentos legales en los cuales basa la solicitud.
 - Expresión clara de lo que se solicita,
-- Firma y Sello del Apoderado Legal.
 
 2.- Realizar Formulario PAMEH de Modificación exoneración de impuesto sobre
 ventas.
@@ -1256,6 +1076,53 @@ ventas.
 5.- Copia de la Resolución de Exoneración
 6.- Listado en CD, de los bienes y servicios a exonerar, (Cuando es ampliación
 de Ítems).
+
+## Costo (según el documento)
+
+TASA DE SEGURIDAD POBLACIONAL ORGANIZACIONES HUMANITARIAS
+DE INTERÉS HUMANITARIO
+
+## Tasa_derechos
+
+TGR-1
+
+## Dónde se presenta (según el documento)
+
+Ventanilla
+Asignación al
+Analista
+Analisis de Solicitud
+y Generación de
+Documentos
+Revision
+Instancia Legal
+Firma de DIrección
+Revisión Delegado
+Secretaria General
+Firma Delegado
+Secretaría General
+1
+1
+Memorando de
+Remisión a
+Correspondencia
+por parte de la
+Dirección
+Recepción en
+Correspondencia
+Entrega de
+Certificación al
+Interesado
+Expediente en
+Archivo
+Dictamen,
+Resolución y
+Certificación
+DIAGRAMA DE FLUJO DE DISPENSAS Y EXONERACIONES
+DIRECCIÓN GENERAL DE CONTROL DE FRANQUICIAS
+ADUANERAS
+
+## Notas (según el documento)
 
 NOTAS COMUNES
 
@@ -1268,6 +1135,10 @@ emitirse a favor del beneficiario de la exoneración.
 Constancia de Solvencia, misma que deberá indicar que el beneficiario se
 encuentra SOLVENTE.
 
+## Otro texto del documento
+
+Ingreso de Solicitud
+
 ## Documentos
 
 - [Procedimientos — EXONERACIÓN DE PAGO DEL APORTE PARA LA ATENCIÓN A PROGRAMAS SOCIALES Y CONSERVACIÓN DEL PATRIMONIO VIAL (ACPV) PARA PROGRAMAS O PROYECTOS PÚBLICOS SUJETOS A CONVENIOS O DONACIONES INTERNACIONALES.](https://www.sefin.gob.hn/download_file.php?download_file=/wp-content/uploads/2015/08/Diagrama-de-Flujo-Dispensas-y-Exoneraciones.pdf)
@@ -1276,7 +1147,7 @@ encuentra SOLVENTE.
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

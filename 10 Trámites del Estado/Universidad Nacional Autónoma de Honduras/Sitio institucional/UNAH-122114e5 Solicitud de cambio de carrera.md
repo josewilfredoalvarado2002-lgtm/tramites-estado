@@ -7,14 +7,16 @@ aliases:
   - "Solicitud de cambio de carrera"
 institucion: "Universidad Nacional Autónoma de Honduras"
 categoria: "Servicios"
-calidad: "solo_requisitos"
+calidad: "solo_para_que"
+para_que: "El cambio de carrera es una flexibilidad curricular que le permite a los estudiantes optar por otras ofertas académicas, por diferentes razones."
+tiene_requisitos: false
 url_ficha: "https://www.unah.edu.hn/servicios"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "unah.edu.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:23
-huella: "2cf72a5d270a0f8d0fc5dc3f7bf5c0e4a0182aa45360d003473be89a5b7b8848"
+extraido: 2026-11-14T00:45
+huella: "44114f9152678b138160f5707d57fa6d2faa1ec6b77cc11011de19687e6c7be1"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Universidad Nacional Autónoma de Honduras |
 | Categoría | Servicios |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -48,7 +50,7 @@ Una vez aprobado el cambio de carrera, previo al inicio del siguiente período a
 ## Fuente
 
 - Ficha: https://www.unah.edu.hn/servicios
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

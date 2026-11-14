@@ -7,15 +7,17 @@ aliases:
   - "Constancia de estar sujeto al Régimen de Pagos a Cuenta"
 institucion: "[[10 Trámites del Estado/Servicio de Administración de Rentas/Servicio de Administración de Rentas|Servicio de Administración de Rentas]]"
 categoria: "Constancias"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "Descripción del Trámite Este documento hace constar a cualquier interesado que el Obligado Tributario se encuentra sujeto al Régimen de Pagos a Cuenta o Anticipos del Impuesto Sobre la Renta (ISR) del período fiscal vigente. El poseedor de esta no será objeto de retención del referido impuesto, con excepción de las retenciones aplicables a asalariados."
+tiene_requisitos: true
 url_ficha: "https://www.sar.gob.hn/download/constancia-de-estar-sujeto-al-regimen-de-pagos-a-cuenta-2/"
 documentos:
   - "https://www.sar.gob.hn/download/constancia-de-estar-sujeto-al-regimen-de-pagos-a-cuenta-2/?wpdmdl=21489"
 actualizado_sitio: "agosto 25, 2026"
 dominio_verificado: "sar.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T21:47
-huella: "232c57b4f49ceb85daab0b0bf3ac57f2e73f7c15b8cc62c806edc34424417338"
+extraido: 2026-11-14T00:15
+huella: "a4754f09d26afbac217221ce9adcb1b7f36c1df938803a0d58016b21e90dcacc"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -30,9 +32,19 @@ estado_sitio: "Vigente"
 | Institución | Servicio de Administración de Rentas |
 | Categoría | Constancias |
 | Última actualización que muestra el sitio | agosto 25, 2026 |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Para qué se hace (según el documento)
+
+Descripción del Trámite
+Este documento hace constar a cualquier interesado que el Obligado Tributario se
+encuentra sujeto al Régimen de Pagos a Cuenta o Anticipos del Impuesto Sobre la Renta
+(ISR) del período fiscal vigente. El poseedor de esta no será objeto de retención del
+referido impuesto, con excepción de las retenciones aplicables a asalariados.
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS DE SOLICITUD CONSTANCIA
 DE ESTAR SUJETO AL RÉGIMEN DE PAGOS
@@ -42,11 +54,11 @@ Departamento de Recaudación
 
 CONSTANCIA DE ESTAR SUJETO AL RÉGIMEN DE PAGOS A CUENTA
 
-Descripción del Trámite
-Este documento hace constar a cualquier interesado que el Obligado Tributario se
-encuentra sujeto al Régimen de Pagos a Cuenta o Anticipos del Impuesto Sobre la Renta
-(ISR) del período fiscal vigente. El poseedor de esta no será objeto de retención del
-referido impuesto, con excepción de las retenciones aplicables a asalariados.
+a) Realizar el pago por actos administrativos por el valor de L200.00
+b) No tener declaraciones omisas pendientes de presentar.
+c) No tener deudas pendientes de pago con la Administración Tributaria.
+
+## Procedimiento (según el documento)
 
 Pasos para Generar la Constancia en Línea:
 1. Ingrese a la Oficina Virtual SAR con su RTN y contraseña.
@@ -58,11 +70,6 @@ Constancia".
 Al cumplir con los requisitos mínimos del sistema, podrá generar y descargar su
 constancia inmediatamente.
 
-Requisitos:
-a) Realizar el pago por actos administrativos por el valor de L200.00
-b) No tener declaraciones omisas pendientes de presentar.
-c) No tener deudas pendientes de pago con la Administración Tributaria.
-
 ## Documentos
 
 - [Constancia de estar sujeto al Régimen de Pagos a Cuenta](https://www.sar.gob.hn/download/constancia-de-estar-sujeto-al-regimen-de-pagos-a-cuenta-2/?wpdmdl=21489)
@@ -70,7 +77,7 @@ c) No tener deudas pendientes de pago con la Administración Tributaria.
 ## Fuente
 
 - Ficha: https://www.sar.gob.hn/download/constancia-de-estar-sujeto-al-regimen-de-pagos-a-cuenta-2/
-- Fecha y hora de extracción: 2026-11-13 21:47 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

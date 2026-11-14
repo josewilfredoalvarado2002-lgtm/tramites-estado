@@ -8,14 +8,16 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/ec40842c-f265-4ff8-a9d9-f70cb4947528"
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "10f2e5bee2febcef115ecfc9cacd10bf57a2daecf11f30ae1be6bd1eb717211d"
+extraido: 2026-11-14T00:37
+huella: "34d761b933b66abcc388868037da0e6a10dbab1d3c7a093f0d5dc88be6d81cc7"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -32,14 +34,14 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
-SOLICITUDES VARIAS
-V.3
-Página 1 de 2
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM En el Renglón de Trámites varios se contemplan, entre otros, los siguientes:
 1 Aprobación de Topes Tarifarios Suspensión Temporal de Operaciones
 3 Cambios en la Red Satelital Impugnaciones de Cobros
@@ -53,7 +55,7 @@ teléfono celular y correo electrónico.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
 3. Declaración Jurada de No estar Comprendido, en lo preceptuado según el Artículo 92 inciso del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones
 4. Aviso de Trámite.
-5.
+
 Presentar Constancia de que está Solvente Económicamente ante CONATEL, emitida por el
 Departamento de Créditos y Cobranzas, cuya vigencia aceptada será de 10 (diez) días
 hábiles desde su emisión
@@ -79,18 +81,16 @@ Cancelación de Permiso: según Resolución Normativa de Tasas y Canon Vigente.
 Cancelación de Registro: según Resolución Normativa de Tasas y Canon Vigente.
 
 REQUISITOS
-SOLICITUDES VARIAS
-V.3
-Página 2 de 2
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 4.
 Presentar Constancias de que está Solvente Económica y documentalmente emitida por el
 Departamento de Administración de Cartera y Cobranzas y la Dirección de Planificación y
 Desarrollo, respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su
 emisión. Excepto en los casos en los cuales el operador adeuda el canon radioeléctrico del
 año en curso.
-5.
+
 *Para la cancelación de cualquier sistema es necesario detallar en la Solicitud lo que se
 deseacancelar, especificando ya sea la totalidad del permiso que le fue autorizado o si es
 parcial aclararlo para que siempre le quede subsistente el permiso.
@@ -106,13 +106,12 @@ Nomenclatura
 
 ## Documentos
 
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/ec40842c-f265-4ff8-a9d9-f70cb4947528)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/ec40842c-f265-4ff8-a9d9-f70cb4947528)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

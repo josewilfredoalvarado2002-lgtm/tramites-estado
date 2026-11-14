@@ -16,7 +16,7 @@ dominio_verificado: "sgjd.gob.hn"
 verificacion_dominio: "verificado (GDI)"
 extraido: 2026-11-13T22:11
 huella: "c5bc6a1507b50b5d437777deaae94eb57e34f0f7af8c920fedde18b2b47048e8"
-estado_sitio: "Vigente"
+estado_sitio: "Descartado: formulario o documento sin requisitos"
 ---
 <!-- portal:inicio -->
 # Autorización para registro de contrato de arrendamiento

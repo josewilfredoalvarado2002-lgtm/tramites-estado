@@ -7,14 +7,16 @@ aliases:
   - "Servicios de asistencia psicológica"
 institucion: "Universidad Nacional Autónoma de Honduras"
 categoria: "Servicios"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "El Centro de Asistencia Psicológica la Facultad de Ciencias Sociales de la UNAH brinda asistencia psicológica a la comunidad universitaria como a público en general."
+tiene_requisitos: false
 url_ficha: "https://www.unah.edu.hn/servicios"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "unah.edu.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:23
-huella: "62df654a1435499d68913801e9342356b94eac3dadde009bb1fb7123144590eb"
+extraido: 2026-11-14T00:45
+huella: "2d65e098a90ef380becfb26e805a5601308201be73ff45cfc8cd55e3bc28c031"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Universidad Nacional Autónoma de Honduras |
 | Categoría | Servicios |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -54,7 +56,7 @@ El CAPS se encuentra ubicado en Ciudad Universitaria, Edificio F1, Tercer Piso, 
 ## Fuente
 
 - Ficha: https://www.unah.edu.hn/servicios
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

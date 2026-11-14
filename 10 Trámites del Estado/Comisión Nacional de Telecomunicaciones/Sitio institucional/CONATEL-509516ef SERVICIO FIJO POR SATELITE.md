@@ -7,7 +7,9 @@ aliases:
   - "SERVICIO FIJO POR SATELITE"
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "Estudio de interferencia timbrado, sellado y firmado, por un profesional de la ingeniería de la afín a la especialidad en telecomunicaciones que se encuentre debidamente colegiado en el CIMEQH.(estudio de interferencia consiste en realizar una medición con un analizador del espectro en la banda de frecuencias de recepción o bajada del satélite (downlink) que permita verificar que el sitio seleccio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/b9aeab3b-5be4-4f16-90ea-df197974d24d"
@@ -15,8 +17,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "846b6050321426d837ad4894f459fd80742708e2b29c13b9b2ca21bf515b7905"
+extraido: 2026-11-14T00:37
+huella: "ef80a3bed27fff7b82bb67757ab2cf25a0dc625dfb750cf54d9e6d2a57b32301"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -31,16 +33,20 @@ estado_sitio: "Vigente"
 | Institución | Comisión Nacional de Telecomunicaciones |
 | Categoría | Formas y requisitos |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Para qué se hace (según el documento)
+
+Estudio de interferencia timbrado, sellado y firmado, por un profesional de la ingeniería de la afín a la especialidad en telecomunicaciones que se encuentre debidamente colegiado en el CIMEQH.(estudio de interferencia consiste en realizar una medición con un analizador del espectro en la banda de frecuencias de recepción o bajada del satélite (downlink) que permita verificar que el sitio seleccionado de emplazamiento de la estación VSAT está efectivamente libre de niveles de señal interferente de enlaces terrestres de microonda.
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
-SERVICIO FIJO POR SATELITE
-V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
-Página 1 de 2
+
 ITEM REQUISITO NS RN MD
 1.
 Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de La Ley de
@@ -69,13 +75,13 @@ Forma 101 debe ser llenada, firmada, sellada y timbrada por un profesional de la
 habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se
 encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos, Eléctricos,
 Químicos de Honduras (CIMEQH)
-☐
+
 11.
 Forma 500, debe ser llenada, firmada, sellada y timbrada por un profesional de la ingeniería,
 habilitado en el ejercicio de su profesión afín a la especialidad en telecomunicaciones que se
 encuentre debidamente colegiado por el Colegio de Ingenieros Mecánicos,
 Eléctricos, Químicos de Honduras (CIMEQH).
-☒ ☐ ☒
+☒  ☒
 12.
 Estudio de interferencia timbrado, sellado y firmado, por un profesional de la ingeniería de la
 afín a la especialidad en telecomunicaciones que se encuentre debidamente colegiado en el
@@ -105,11 +111,9 @@ que la cancelación sea autorizada por CONATEL, se realizará el cobro total de 
 económicas correspondientes, conforme a lo establecido en la Resolución NR017/99.
 
 REQUISITOS
-SERVICIO FIJO POR SATELITE
-V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
-Página 2 de 2
+
 5.
 Para la cancelación de cualquier sistema del servicio Fijo por Satélite, es necesario detallar en la
 Solicitud lo que se desea cancelar, especificando ya sea si es el Permiso que le fue autorizado, o la
@@ -122,13 +126,12 @@ Nomenclatura
 ## Documentos
 
 - [Forma 500](https://cms.conatel.gob.hn/assets/b9aeab3b-5be4-4f16-90ea-df197974d24d)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/f2a99e7f-e5f0-42b1-9916-19eb90f246f7)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/f2a99e7f-e5f0-42b1-9916-19eb90f246f7)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

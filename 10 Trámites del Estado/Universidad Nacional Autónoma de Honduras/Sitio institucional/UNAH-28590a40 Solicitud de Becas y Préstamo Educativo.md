@@ -7,14 +7,16 @@ aliases:
   - "Solicitud de Becas y Préstamo Educativo"
 institucion: "Universidad Nacional Autónoma de Honduras"
 categoria: "Servicios"
-calidad: "sin_requisitos"
+calidad: "solo_para_que"
+para_que: "Los estudiantes de la Universidad Nacional Autónoma de Honduras pueden aplicar a las diferentes modalidades de becas y créditos educativos que se ponen a disposición a través del Programa de Atención Socioeconómica y Estímulos Educativos (PASEE) de la Vicerrectoría de Orientación y Asuntos Estudiantiles (VOAE):"
+tiene_requisitos: false
 url_ficha: "https://www.unah.edu.hn/servicios"
 documentos: []
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "unah.edu.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:23
-huella: "a9cf91bfb81dd642c7c48ed2318f1238fce4373b7a376c92c6b4f8be07203255"
+extraido: 2026-11-14T00:45
+huella: "82cd21f72b330fa12f9ed220931b99d96821fa3c033f17e198f5957429bf720f"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -29,7 +31,7 @@ estado_sitio: "Vigente"
 | Institución | Universidad Nacional Autónoma de Honduras |
 | Categoría | Servicios |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | sin requisitos |
+| Calidad de la extracción | solo para que |
 
 ## Contenido
 
@@ -71,7 +73,7 @@ NOTA: En caso de solicitar Beca de Apoyo al Arte y Deporte adjuntar constancia d
 ## Fuente
 
 - Ficha: https://www.unah.edu.hn/servicios
-- Fecha y hora de extracción: 2026-11-13 22:23 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:45 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

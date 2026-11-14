@@ -7,7 +7,9 @@ aliases:
   - "CONVENIO SATELITAL"
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
-calidad: "solo_requisitos"
+calidad: "completo"
+para_que: "Presentar Constancia de que está Solvente Económica y Documentalmente emitida por el Departamento de Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo, respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión (este caso no excluye que este insolvente porque al final con la Resolución de Cancelación se emite el cobro total conforme la "
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224"
@@ -15,8 +17,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "38005406d994d5e7cae5d84fbc2a06c3313e8a97ce789ee69e3547819090347a"
+extraido: 2026-11-14T00:37
+huella: "bb1c92410ab456ae9b8e1b0f541a164bfe3e8e551bbce4ce12d39f237d3a581a"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -31,15 +33,21 @@ estado_sitio: "Vigente"
 | Institución | Comisión Nacional de Telecomunicaciones |
 | Categoría | Formas y requisitos |
 | Última actualización que muestra el sitio | No consta en el sitio |
-| Calidad de la extracción | solo requisitos |
+| Calidad de la extracción | completo |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Para qué se hace (según el documento)
+
+Presentar Constancia de que está Solvente Económica y Documentalmente emitida por el Departamento de Administración de Cartera y Cobranzas y la Dirección de Planificación y Desarrollo, respectivamente, cuya vigencia aceptada será de 10 (diez) días hábiles desde su emisión (este caso no excluye que este insolvente porque al final con la Resolución de Cancelación se emite el cobro total conforme la NR017/99). * El Oficial de Atención al Ciudadano debe observar los comentarios electrónicos del Ítem 7 NS Nueva Solicitud RN Renovación M Modificación Técnica CT Cancelación Total Nomenclatura
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
 CONVENIO SATELITAL
-V.3
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO NS RN M
 1.
 Solicitud por medio de Apoderado Legal en base a los artículos 56, 60 y 61 de la Ley de
@@ -56,7 +64,7 @@ Presentar Constancia de que está Solvente Documentalmente ante CONATEL, emitida
 Dirección de Planificación y Desarrollo (DIPLADE), cuya vigencia aceptada será de 10 (diez) días
 hábiles desde su emisión
 6. Forma 100, debe ser llenada y completada con la información del solicitante y de su apoderado legal siendo necesario que venga firmada y sellada por este último.
-7. Informe Técnico que indique: la flota satelital que tiene huella en Honduras, informando todo lo relacionado como ser: nombre del satélite, frecuencias de operación, posición orbital, etc. ☐ ☐
+7. Informe Técnico que indique: la flota satelital que tiene huella en Honduras, informando todo lo relacionado como ser: nombre del satélite, frecuencias de operación, posición orbital, etc.
 ITEM REQUISITO PARA CANCELACION CT
 1. Solicitud por medio de Apoderado Legal en base a los artículos 56, 60 y 61 de la Ley de Procedimiento Administrativo.
 2. Carta Poder debidamente autenticada o Poder en Escritura Pública.
@@ -77,13 +85,12 @@ Nomenclatura
 ## Documentos
 
 - [Forma 100](https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/6ba0a214-491b-4ba2-b1c9-f3b5972578cf)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/6ba0a214-491b-4ba2-b1c9-f3b5972578cf)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Secretaría de Finanzas/Secretaría de Finanzas|Secretaría de Finanzas]]"
 categoria: "Secretaria General"
 calidad: "completo"
+para_que: "Autorizan a las empresas que importan materiales o mercaderías con el pago de impuestos suspendidos temporalmente"
+tiene_requisitos: true
 url_ficha: "https://www.sefin.gob.hn/formularios-y-requisitos/"
 documentos:
   - "https://www.sefin.gob.hn/download_file.php?download_file=/wp-content/uploads/2018/11/Procedimiento12.pdf"
@@ -15,8 +17,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "sefin.gob.hn"
 verificacion_dominio: "verificado (GIE)"
-extraido: 2026-11-13T22:08
-huella: "b4183c631ef6030d7e1954e6b05db99af6049989ab458ee54e570153a9781cfb"
+extraido: 2026-11-14T00:35
+huella: "029da5f3a56482f35567461c2dcf78d44f176273baefe557c71d7e2e7b8d4c3e"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -33,11 +35,23 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | completo |
 
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
 ## Descripcion
 
 Autorizan a las empresas que importan materiales o mercaderías con el pago de impuestos suspendidos temporalmente
 
-## Procedimientos (texto del documento oficial)
+## Requisitos (según el documento oficial)
+
+file:///D|/nuevoSitio/Produccion/procedimientos/Requisito12.txt[27/02/2019 04:03:10 p.m.]
+1. Solicitud mediante Apoderado legal con los alegatos que se considere necesario debidamente justificados con poder
+autenticado
+2. Escritura de constitución de la empresa.
+3. Mapa topográfico del lugar autorizado
+4. Los antecedentes del caso si anteriormente se han emitido resoluciones sobre ello.
+5. O cualquier documentación que considere necesario el interesado según el caso.
+
+## Procedimiento (según el documento)
 
 file:///D|/nuevoSitio/Produccion/procedimientos/Procedimiento12.txt[27/02/2019 04:03:09 p.m.]
 1. El solicitante se presenta a Secretaría General la solicitud con la documentación correspondiente a la vez se asigna
@@ -57,16 +71,6 @@ General para su notificación.
 Certificación de la Resolución al Apoderado Legal.
 8. Archivo del expediente de mérito.
 
-## Requisitos (texto del documento oficial)
-
-file:///D|/nuevoSitio/Produccion/procedimientos/Requisito12.txt[27/02/2019 04:03:10 p.m.]
-1. Solicitud mediante Apoderado legal con los alegatos que se considere necesario debidamente justificados con poder
-autenticado
-2. Escritura de constitución de la empresa.
-3. Mapa topográfico del lugar autorizado
-4. Los antecedentes del caso si anteriormente se han emitido resoluciones sobre ello.
-5. O cualquier documentación que considere necesario el interesado según el caso.
-
 ## Documentos
 
 - [Procedimientos — 1.7 Autorizar la operación de un Almacén Fiscal Privado traslados y ampliaciones de los mismos.](https://www.sefin.gob.hn/download_file.php?download_file=/wp-content/uploads/2018/11/Procedimiento12.pdf)
@@ -75,7 +79,7 @@ autenticado
 ## Fuente
 
 - Ficha: https://www.sefin.gob.hn/formularios-y-requisitos/
-- Fecha y hora de extracción: 2026-11-13 22:08 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:35 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias

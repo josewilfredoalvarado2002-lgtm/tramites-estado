@@ -8,6 +8,8 @@ aliases:
 institucion: "[[10 Trámites del Estado/Comisión Nacional de Telecomunicaciones/Comisión Nacional de Telecomunicaciones|Comisión Nacional de Telecomunicaciones]]"
 categoria: "Formas y requisitos"
 calidad: "solo_requisitos"
+para_que: "No consta en el sitio"
+tiene_requisitos: true
 url_ficha: "https://conatel.gob.hn/formas-requisitos"
 documentos:
   - "https://cms.conatel.gob.hn/assets/63784bbe-f531-4435-9e91-35cc745f5224"
@@ -22,8 +24,8 @@ documentos:
 actualizado_sitio: "No consta en el sitio"
 dominio_verificado: "conatel.gob.hn"
 verificacion_dominio: "verificado (GDI)"
-extraido: 2026-11-13T22:10
-huella: "d79713ee6d3833d5580311f8d2607f0a4d49740d8fc558167ac9270af3ba1a46"
+extraido: 2026-11-14T00:37
+huella: "a274c94eab7010cbd06297de9ca22bd408dcd5388e0ff173a90717e203d9935d"
 estado_sitio: "Vigente"
 ---
 <!-- portal:inicio -->
@@ -40,14 +42,14 @@ estado_sitio: "Vigente"
 | Última actualización que muestra el sitio | No consta en el sitio |
 | Calidad de la extracción | solo requisitos |
 
-## Requisitos (texto del documento oficial)
+> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). Lo que no se pudo ubicar queda en «Otro texto del documento».
+
+## Requisitos (según el documento oficial)
 
 REQUISITOS
-SISTEMA DE RADIOLOCALIZACIÓN
-V.3
-Página 1 de 2
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 ITEM REQUISITO NS RN MD
 1.
 Solicitud por medio de Apoderado Legal, en base a los artículos No.56, 60 y 61 de La Ley de
@@ -55,7 +57,7 @@ Procedimiento Administrativo, que deberá contener: domicilio, datos generales, 
 teléfono celular y correo electrónico.
 2. Copia del recibo del servicio público de Energía Eléctrica para acreditar el domicilio u oficina del solicitante.
 3. Carta Poder de parte del solicitante a favor del Apoderado Legal (debidamente autenticada).
-4.
+
 Declaración Jurada de No estar Comprendido, en lo preceptuado según el Artículo 92 inciso
 del e) al j) del Reglamento de la Ley Marco del Sector de Telecomunicaciones (debidamente
 autenticada).
@@ -108,11 +110,9 @@ valor monetario ya sea Lempiras, en dólares o en ambos tipos de monedas. En cas
 utilizar dólares, se deberá indicar la Tasa de Cambio vigente.
 
 REQUISITOS
-SISTEMA DE RADIOLOCALIZACIÓN
-V.3
-Página 2 de 2
+
 *Requisitos y formatos en la página Web de CONATEL:
-http://www.conatel.gob.hn
+
 17.
 Constancia Bancaria emitida por una Institución Financiera debidamente autorizada por la
 Comisión Nacional de Bancos y Seguros (CNBS), que acredite si cuenta con los fondos
@@ -126,7 +126,7 @@ Cancelación Parcial en Licencia: según Resolución Normativa de Tasas y Canon 
 Cancelación Total de Licencia: según Resolución Normativa de Tasas y Canon Vigente.
 Cancelación de Permiso: según Resolución Normativa de Tasas y Canon Vigente. (la cancelación
 del permiso lleva implícito la cancelación total de la licencia, la cual se paga por separado)
-4.
+
 Presentar Constancias de que está Solvente Económica y documentalmente (esta última cuando el
 operador tenga autorizado un servicio de carácter público), emitida por el Departamento de
 Administración de Cartera y Cobranzas y/o la Dirección de Planificación y Desarrollo, respectivamente,
@@ -157,13 +157,12 @@ Nomenclatura
 - [Forma 900](https://cms.conatel.gob.hn/assets/c0ad5a62-c02d-4b2a-b2e3-84559a5ed643)
 - [Forma 920](https://cms.conatel.gob.hn/assets/6bc9122e-1940-4e3b-b830-f5de759f4223)
 - [Instructivo 101](https://cms.conatel.gob.hn/assets/c925e915-fae2-4739-92e3-59db81c43eb5)
-- [
-Descargar PDF](https://cms.conatel.gob.hn/assets/9b306df1-74c5-4fde-8e56-8ab6e53bc8cd)
+- [Descargar PDF](https://cms.conatel.gob.hn/assets/9b306df1-74c5-4fde-8e56-8ab6e53bc8cd)
 
 ## Fuente
 
 - Ficha: https://conatel.gob.hn/formas-requisitos
-- Fecha y hora de extracción: 2026-11-13 22:10 (hora de Honduras, UTC-6)
+- Fecha y hora de extracción: 2026-11-14 00:37 (hora de Honduras, UTC-6)
 <!-- portal:fin -->
 
 ## Notas propias
