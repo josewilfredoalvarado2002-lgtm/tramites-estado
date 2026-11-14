@@ -1,0 +1,172 @@
+"""
+Qué se lee de cada institución. Agregar una institución = agregar una entrada aquí.
+'carpeta' es el nombre de la carpeta de la institución en "10 Trámites del Estado" (el mismo que usa DIGER).
+'id_diger' sirve para comparar contra los trámites que DIGER ya tiene.
+"""
+
+FUENTES = {
+    "SAR": {
+        "nombre": "Servicio de Administración de Rentas",
+        "carpeta": "Servicio de Administración de Rentas",
+        "id_diger": 11160,
+        "adaptador": "descargas_wpdm",
+        "parametros": {
+            "base_url": "https://www.sar.gob.hn",
+            # slug de la categoría -> (tipo de nota, etiqueta legible)
+            "categorias": {
+                "tramites-rtn": ("tramite", "RTN"),
+                "tramites-rtn-pn": ("tramite", "RTN persona natural"),
+                "tramites-rtn-ci": ("tramite", "RTN comerciante individual"),
+                "tramites-constancias": ("tramite", "Constancias"),
+                "gt-constancias": ("tramite", "Constancias"),
+                "tramites-facturacion": ("tramite", "Facturación"),
+                "gt-devoluciononota-de-credito": ("tramite", "Devolución / Nota de crédito"),
+                "gt-baja-de-obligaciones": ("tramite", "Baja de obligaciones"),
+                "gt-notificaciones": ("tramite", "Otras notificaciones"),
+                "gt-solicitudes": ("tramite", "Solicitudes"),
+                "gt-descargo-de-omisos": ("tramite", "Descargo de omisos"),
+                "gt-modificaciones": ("tramite", "Modificaciones"),
+                "gt-r-de-pagos-a-cuenta": ("tramite", "Rectificación de pagos a cuenta"),
+                "r-pagos-cuenta": ("tramite", "Rectificación de pagos a cuenta"),
+                "facilidades-pago": ("tramite", "Facilidades de pago"),
+                "gt-al": ("tramite", "Otros trámites"),
+                "escritos": ("formato", "Escritos (plantillas oficiales)"),
+                "plantillas": ("formato", "Plantillas"),
+            },
+        },
+    },
+    "ONCAE": {
+        "nombre": "Oficina Normativa de Contratación y Adquisiciones del Estado",
+        "carpeta": "Oficina Normativa de Contratación y Adquisiciones del Estado",
+        "id_diger": None,
+        "adaptador": "paginas",
+        "parametros": {"urls": [
+            "https://oncae.gob.hn/como-ser-proveedor/",
+            "https://oncae.gob.hn/como-ser-proveedor/requisitos-para-certificarse-como-proveedor-del-estado/",
+            "https://oncae.gob.hn/como-ser-proveedor/registro-de-proveedores/",
+            "https://oncae.gob.hn/como-ser-proveedor/requisitos-para-certificarse-como-proveedor-del-estado/mipymes-compras-menores/",
+        ]},
+    },
+    "CNBS": {
+        "nombre": "Comisión Nacional de Bancos y Seguros",
+        "carpeta": "Comisión Nacional de Bancos y Seguros",
+        "id_diger": 11118,
+        "adaptador": "paginas",
+        "parametros": {"urls": [
+            "https://www.cnbs.gob.hn/reclamos/",
+            "https://www.cnbs.gob.hn/sistema-de-gestiones-electronicas/",
+            "https://www.cnbs.gob.hn/box-ventanilla-electronica-cnbs/",
+            "https://www.cnbs.gob.hn/central-de-informacion-crediticia/",
+        ]},
+    },
+    "SEFIN": {
+        "nombre": "Secretaría de Finanzas",
+        "carpeta": "Secretaría de Finanzas",
+        "id_diger": 11058,
+        "adaptador": "tabla",
+        "parametros": {"urls": ["https://www.sefin.gob.hn/formularios-y-requisitos/"],
+                       "col_titulo": "SERVICIO", "col_id": "ID_SERVICIO", "col_categoria": "DIRECCION"},
+    },
+    "SDE": {
+        "nombre": "Secretaría de Desarrollo Económico",
+        "carpeta": "Secretaría de Desarrollo Económico",
+        "id_diger": 11055,
+        "adaptador": "tabla",
+        "parametros": {"urls": ["https://sde.gob.hn/tramites-empresariales/"], "col_titulo": "Descripción"},
+    },
+    "CONATEL": {
+        "nombre": "Comisión Nacional de Telecomunicaciones",
+        "carpeta": "Comisión Nacional de Telecomunicaciones",
+        "id_diger": 11071,
+        "adaptador": "bloques",
+        # cada servicio: formas (se enlazan) y el PDF de requisitos (se copia)
+        "parametros": {"urls": ["https://conatel.gob.hn/formas-requisitos"], "bloque": "div.entry-card",
+                       "titulo": "button.accordion-toggle > span.font-semibold", "leer": r"Descargar PDF|requisit",
+                       "categoria": "Formas y requisitos"},
+    },
+    "SGJD": {
+        "nombre": "Secretaría de Gobernación, Justicia y Descentralización",
+        "carpeta": "Secretaría de Gobernación, Justicia y Descentralización",
+        "id_diger": 11064,
+        "adaptador": "bloques",
+        "parametros": {"urls": [
+            "https://www.sgjd.gob.hn/tramites/requisitos-y-formatos-departamento-administrativo-de-inquilinato-dai?view=documents&catid=17",
+            "https://www.sgjd.gob.hn/tramites/tramites-direccion-regimen-departamental?view=documents&catid=19",
+        ], "bloque": "article.sgjd-doc-row", "titulo": "h2", "leer": r"/descargar$"},
+    },
+    "CREE": {
+        "nombre": "Comisión Reguladora de Energía Eléctrica",
+        "carpeta": "Comisión Reguladora de Energía Eléctrica",
+        "id_diger": 11158,
+        "adaptador": "paginas",
+        "parametros": {"urls": [
+            "https://www.cree.gob.hn/registro-publico-de-empresas-del-sector-electrico/",
+            "https://www.cree.gob.hn/autorizacion-y-registro-de-consumidores-calificados/",
+        ]},
+    },
+    "DGMM": {
+        "nombre": "Dirección General de la Marina Mercante",
+        "carpeta": "Dirección General de la Marina Mercante",
+        "id_diger": 11174,
+        "adaptador": "paginas",
+        "parametros": {"urls": [
+            "https://marinamercante.gob.hn/registro-de-buques/",
+            "https://marinamercante.gob.hn/gente-de-mar/",
+            "https://marinamercante.gob.hn/proteccion-del-medio-marino/",
+            "https://marinamercante.gob.hn/analisis-y-control-maritimo/",
+            "https://marinamercante.gob.hn/seguridad-maritima/",
+            "https://marinamercante.gob.hn/departamento-industrias-maritimas-auxiliares/",
+        ]},
+    },
+    "ANSEC": {
+        "nombre": "Administración Nacional de Servicio Civil",
+        "carpeta": "Administración Nacional de Servicio Civil",
+        "id_diger": 11226,
+        "adaptador": "paginas",
+        "parametros": {"urls": ["https://serviciocivil.gob.hn/paginas/ventanilla-de-atencion"]},
+    },
+    "PGR": {
+        "nombre": "Procuraduría General de la República",
+        "carpeta": "Procuraduría General de la República",
+        "id_diger": None,
+        "adaptador": "paginas",
+        "parametros": {"urls": ["https://pgr.gob.hn/requisitos-materia-penal/"]},
+    },
+    "SEN": {
+        "nombre": "Secretaría de Energía",
+        "carpeta": "Secretaría de Energía",
+        "id_diger": 11126,
+        "adaptador": "documentos_enlazados",
+        "parametros": {"urls": ["https://sen.hn/tramites-sen/", "https://sen.hn/tramites-dgsr/"]},
+    },
+    "CONSUCOOP": {
+        "nombre": "Consejo Nacional Supervisor de Cooperativas",
+        "carpeta": "Consejo Nacional Supervisor de Cooperativas",
+        "id_diger": 11144,
+        "adaptador": "documentos_enlazados",
+        "parametros": {"urls": ["https://consucoop.hn/requisitos/"]},
+    },
+    "ICF": {
+        "nombre": "Instituto Nacional de Conservación y Desarrollo Forestal",
+        "carpeta": "Instituto Nacional de Conservación y Desarrollo Forestal",
+        "id_diger": 11178,
+        "adaptador": "bloques",
+        "parametros": {"urls": ["https://icf.gob.hn/tramites-y-servicios/"], "bloque": ".et_pb_toggle",
+                       "titulo": ".et_pb_toggle_title", "categoria": "Trámites y servicios"},
+    },
+    "TSC": {
+        "nombre": "Tribunal Superior de Cuentas",
+        "carpeta": "Tribunal Superior de Cuentas",
+        "id_diger": None,
+        "adaptador": "paginas",
+        "parametros": {"urls": ["https://www.tsc.gob.hn/index.php/servicios-prestados/"], "dividir": True},
+    },
+    "UNAH": {
+        "nombre": "Universidad Nacional Autónoma de Honduras",
+        "carpeta": "Universidad Nacional Autónoma de Honduras",
+        "id_diger": 11134,
+        "adaptador": "bloques",
+        "parametros": {"urls": ["https://www.unah.edu.hn/servicios"], "bloque": ".toggle", "titulo": ".togglet",
+                       "categoria": "Servicios"},
+    },
+}

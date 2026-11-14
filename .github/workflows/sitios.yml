@@ -1,0 +1,54 @@
+name: Trámites de los sitios institucionales
+
+on:
+  schedule:
+    # Días 1 y 16 de cada mes a las 12:41 UTC = 06:41 en Honduras (después de La Gaceta, lejos del día 3 de DIGER)
+    - cron: "41 12 1,16 * *"
+  workflow_dispatch:
+    inputs:
+      instituciones:
+        description: "Siglas separadas por espacio (vacío = todas las de sitios/fuentes.py)"
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sitios-institucionales
+  cancel-in-progress: false
+
+jobs:
+  sitios:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    env:
+      TZ: America/Tegucigalpa
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v6
+
+      - name: Instalar dependencias
+        run: python3 -m pip install --quiet --break-system-packages -r sitios/requirements.txt
+
+      - name: Leer los sitios oficiales
+        env:
+          INSTITUCIONES: ${{ inputs.instituciones }}
+        run: |
+          if [ -n "$INSTITUCIONES" ]; then
+            # solo siglas (letras y espacios): nada más llega al comando
+            case "$INSTITUCIONES" in *[!A-Za-z\ ]*) echo "Siglas no válidas"; exit 1;; esac
+            python3 -W ignore sitios/correr.py $INSTITUCIONES
+          else
+            python3 -W ignore sitios/correr.py --todas
+          fi
+
+      - name: Guardar los cambios en el repositorio
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- "10 Trámites del Estado"
+          if git diff --cached --quiet; then echo "Sin cambios que guardar."; exit 0; fi
+          git commit -m "Sitios institucionales $(date '+%Y-%m-%d %H:%M')"
+          git pull --rebase --quiet
+          git push
