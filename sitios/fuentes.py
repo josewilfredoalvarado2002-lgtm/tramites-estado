@@ -169,4 +169,36 @@ FUENTES = {
         "parametros": {"urls": ["https://www.unah.edu.hn/servicios"], "bloque": ".toggle", "titulo": ".togglet",
                        "categoria": "Servicios"},
     },
+    # ---- sitios que arman el contenido con JavaScript ("js": True los abre en un navegador)
+    "STSS": {
+        "nombre": "Secretaría de Trabajo y Seguridad Social",
+        "carpeta": "Secretaría de Trabajo y Seguridad Social",
+        "id_diger": 11060,
+        "js": "div.card h4.card-header",
+        "adaptador": "bloques",
+        "parametros": {"urls": ["https://sol.trabajo.gob.hn/ciudadano/"], "bloque": "div.card",
+                       "titulo": "h4.card-header", "categoria": "Trámites en línea (SOL)"},
+    },
+    "MiAmbiente": {
+        "nombre": "Secretaría de Recursos Naturales y Ambiente",
+        "carpeta": "Secretaría de Recursos Naturales y Ambiente",
+        "id_diger": None,
+        "js": True,
+        "adaptador": "paginas",
+        "parametros": {"urls": [
+            "https://serna.gob.hn/direcciones/deca/nuevos-requisitos-slas",
+            "https://serna.gob.hn/direcciones/deca/requisitos-de-renovacion-licencia-ambiental",
+            "https://serna.gob.hn/direcciones/deca/requisitos-de-constancia-de-no-requerir-licencia-ambiental",
+        ]},
+    },
+    "AHAC": {
+        "nombre": "Agencia Hondureña de Aeronáutica Civil",
+        "carpeta": "Agencia Hondureña de Aeronáutica Civil",
+        "id_diger": None,
+        "js": True,
+        "adaptador": "documentos_enlazados",
+        "parametros": {"urls": ["https://ahac.gob.hn/Documentos_Licencias_v1", "https://ahac.gob.hn/Documentos_Licencias_v2",
+                                "https://ahac.gob.hn/RAN", "https://ahac.gob.hn/RPAS", "https://ahac.gob.hn/Mantenimiento"],
+                       "filtro": r"requisit|procedimiento|gu[ií]a|solicitud|form"},
+    },
 }

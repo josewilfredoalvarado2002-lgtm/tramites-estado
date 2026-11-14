@@ -24,6 +24,10 @@ def nombre_archivo(t, maximo=110):
     return t[:maximo].rstrip(" .") or "sin título"
 
 
+def una_linea(t):
+    return re.sub(r"\s+", " ", t or "").strip()
+
+
 def md(texto):
     out = []
     for l in (texto or "").split("\n"):
@@ -49,6 +53,23 @@ def escribir(ruta, texto):
     os.makedirs(os.path.dirname(ruta), exist_ok=True)
     with open(ruta, "w", encoding="utf-8") as f:
         f.write(texto)
+
+
+_PRIORIDAD = ("Para qué", "Descrip", "Requisitos", "Costo", "Tasa", "Plazo", "Dónde", "Procedimiento", "Base legal", "Notas")
+
+
+def _ordenadas(secciones):
+    """Para qué se hace primero, luego requisitos y el resto en el orden del sitio."""
+    def peso(item):
+        k = item[0]
+        for i, p in enumerate(_PRIORIDAD):
+            if k.lower().startswith(p.lower()):
+                return i
+        return len(_PRIORIDAD) + (1 if k.startswith("Otro texto") else 0)
+    return sorted(secciones.items(), key=peso)
+
+
+DESCARTADO = 'estado_sitio: "Descartado: formulario o documento sin requisitos"'
 
 
 class Escritor:
@@ -85,6 +106,8 @@ class Escritor:
              f"institucion: {self.enlace_inst}",
              f"categoria: {q(f.categoria)}",
              f'calidad: "{f.calidad()}"',
+             f"para_que: {q(una_linea(f.para_que())[:400])}",
+             f"tiene_requisitos: {'true' if f.tiene_requisitos() else 'false'}",
              f"url_ficha: {q(f.url_ficha)}"]
         docs = [d["url"] for d in f.documentos]
         L += ["documentos:"] + [f"  - {q(u)}" for u in docs] if docs else ["documentos: []"]
@@ -113,7 +136,12 @@ class Escritor:
               f"| Institución | {self.f['nombre']} |", f"| Categoría | {f.categoria or 'No consta en el sitio'} |",
               f"| Última actualización que muestra el sitio | {f.actualizado_fuente or 'No consta en el sitio'} |",
               f"| Calidad de la extracción | {f.calidad().replace('_', ' ')} |", ""]
-        for k, v in f.secciones.items():
+        if any(k.endswith("(según el documento)") or k.endswith("(según el documento oficial)") or " — " in k
+               for k in f.secciones):
+            L += ["> [!note] Las partes «según el documento» son el texto literal del PDF o Word oficial, "
+                  "ordenado bajo el encabezado que le corresponde (para qué se hace, requisitos, costo...). "
+                  "Lo que no se pudo ubicar queda en «Otro texto del documento».", ""]
+        for k, v in _ordenadas(f.secciones):
             L += [f"## {k}", "", md(v), ""]
         if f.documentos:
             L += ["## Documentos", ""]
@@ -125,7 +153,7 @@ class Escritor:
               f"- Fecha y hora de extracción: {ahora:%Y-%m-%d %H:%M} (hora de Honduras, UTC-6)", FIN]
         return "\n".join(L)
 
-    def escribir_fichas(self, fichas, comparacion, completo):
+    def escribir_fichas(self, fichas, comparacion, completo, descartadas=()):
         ahora = datetime.now()
         siglas = self.f["siglas"]
         existentes = self.existentes(siglas)
@@ -150,6 +178,13 @@ class Escritor:
                 notas = (resto + "\n") if resto else notas
             escribir(ruta, f"{self.propiedades(f, h, ahora, comp)}\n{self.cuerpo(f, ahora, comp)}\n\n{notas}")
             (cambiadas if anterior else nuevas).append(f)
+        for f in descartadas:
+            # ya no se considera trámite: la nota no se borra, solo se marca (y deja de contar como vigente)
+            vistos.add(f.id_local)
+            ruta = existentes.get(f.id_local)
+            t = leer(ruta) if ruta else None
+            if t and 'estado_sitio: "Vigente"' in t:
+                escribir(ruta, t.replace('estado_sitio: "Vigente"', DESCARTADO, 1))
         retiradas = []
         if completo:
             for idl, ruta in existentes.items():
@@ -166,7 +201,7 @@ class Escritor:
         nombre = os.path.basename(ruta)[:-3] if ruta else f"{siglas}-{f.id_local} {nombre_archivo(f.titulo)}"
         return f"[[{RAIZ}/{self.f['carpeta']}/Sitio institucional/{nombre}|{f.titulo}]]"
 
-    def indice(self, fichas, comparacion, dig, resultado, errores, rechazadas):
+    def indice(self, fichas, comparacion, dig, resultado, errores, rechazadas, descartadas=()):
         ahora = datetime.now()
         nuevas, cambiadas, iguales, omitidas, retiradas = resultado
         siglas, nombre = self.f["siglas"], self.f["nombre"]
@@ -181,8 +216,9 @@ class Escritor:
              "## Resumen", "",
              f"- Fichas leídas en el sitio: **{len(fichas)}**",
              f"- Notas en esta carpeta: **{len(creadas)}** "
-             f"(completas {cal.get('completo', 0)}, solo requisitos {cal.get('solo_requisitos', 0)}, "
-             f"sin requisitos {cal.get('sin_requisitos', 0)}, sin contenido {cal.get('sin_contenido', 0)})",
+             f"(completas: para qué y requisitos {cal.get('completo', 0)}, solo requisitos {cal.get('solo_requisitos', 0)}, "
+             f"solo para qué {cal.get('solo_para_que', 0)}, sin contenido {cal.get('sin_contenido', 0)})",
+             f"- Descartados por ser formularios o documentos sin requisitos: **{len(descartadas)}**",
              f"- Ya estaban en DIGER (no se duplicaron): **{len(omitidas)}**",
              f"- Trámites de DIGER para esta institución: **{len(dig)}**",
              f"- Errores de lectura: **{len(errores)}** · enlaces rechazados por estar fuera del dominio verificado: "
@@ -202,6 +238,12 @@ class Escritor:
                           *[f"> {l}" for l in md(c["req_sitio"]).split("\n")], "",
                           f"> [!compare]- {c['diger']['titulo']}: requisitos según DIGER",
                           *[f"> {l}" for l in md(c["diger"]["requisitos"]).split("\n")], ""]
+        if descartadas:
+            L += ["## Descartados", "",
+                  "Formularios para llenar sin requisitos, o documentos que no son un trámite. No tienen nota "
+                  "(si la tenían, quedó marcada como descartada).", ""]
+            L += [f"- [{f.titulo}]({(f.documentos[0]['url'] if f.documentos else f.url_ficha).replace(' ', '%20')})"
+                  for f in sorted(descartadas, key=lambda x: x.titulo)] + [""]
         L += ["## Notas por categoría", ""]
         por_cat = {}
         for f in creadas:
@@ -209,7 +251,7 @@ class Escritor:
         for cat in sorted(por_cat):
             L += [f"### {cat}", ""]
             for f in sorted(por_cat[cat], key=lambda x: x.titulo):
-                marca = "" if f.calidad() in ("completo", "solo_requisitos", "formato_con_texto") else f" — *{f.calidad().replace('_', ' ')}*"
+                marca = "" if f.calidad() == "completo" else f" — *{f.calidad().replace('_', ' ')}*"
                 L.append(f"- {self.enlace(f)}{marca}")
             L.append("")
         if errores:

@@ -8,6 +8,7 @@ import hashlib
 import re
 from urllib.parse import unquote, urljoin, urlparse
 
+from estructura import analizar_documento
 from nucleo import DominioNoVerificado, Ficha, limpiar, log, texto_documento
 
 RUIDO = ["script", "style", "nav", "header", "footer", "form", "aside", "noscript", "iframe", "svg"]
@@ -99,7 +100,8 @@ def _documentos(cli, contenedor, url_pagina, maximo=6):
     docs, vistos = [], set()
     for a in contenedor.find_all("a", href=True):
         u = urljoin(url_pagina, a["href"])
-        if not _es_documento(u) or u in vistos:
+        if not _es_documento(u) or u in vistos or re.search(r"\.(jpe?g|png)$", u, re.I) and not re.search(
+                r"requisit|descargar|recurso", a.get_text(" ") + u, re.I):
             continue
         vistos.add(u)
         nombre = limpiar(a.get_text(" ")) or u.rsplit("/", 1)[-1]
@@ -148,7 +150,7 @@ def paginas(cli, siglas, urls, dividir=False, omitir=None):
                   secciones=secciones_por_encabezados(cont), documentos=docs)
         for d in docs:
             if d["texto"]:
-                f.secciones[f"Documento: {d['nombre']}"] = d["texto"]
+                volcar(f, d)
             if d.get("aviso"):
                 f.avisos.append(f"{d['nombre']}: {d['aviso']}")
         if dividir:
@@ -243,11 +245,10 @@ def descargas_wpdm(cli, siglas, base_url, categorias, limite=None):
                 except DominioNoVerificado as e:
                     t, aviso = "", str(e)
                 nombre_doc = it["titulo"]
-                f.documentos.append({"nombre": nombre_doc, "url": descarga.split("&refresh=")[0], "texto": t, "aviso": aviso})
+                d = {"nombre": nombre_doc, "url": descarga.split("&refresh=")[0], "texto": t, "aviso": aviso}
+                f.documentos.append(d)
                 if t:
-                    clave = "Requisitos (texto del documento oficial)" if re.search(r"requisit", t, re.I) \
-                        else "Texto del documento oficial"
-                    f.secciones[clave] = t
+                    volcar(f, d)
                 if aviso:
                     f.avisos.append(aviso)
             else:
@@ -289,7 +290,7 @@ def _leer_doc(cli, nombre, url, leer=True):
 
 
 def _es_documento(url):
-    return bool(re.search(r"\.(pdf|docx?|xlsx?)(\?|$)|download|descargar|/assets/|wpdmdl=", url.strip(), re.I))
+    return bool(re.search(r"\.(pdf|docx?|xlsx?|jpe?g|png)(\?|$)|download|descargar|/assets/|wpdmdl=", url.strip(), re.I))
 
 
 def _id_texto(t):
@@ -300,14 +301,24 @@ def norm_id(t):
     return re.sub(r"\s+", " ", (t or "").lower()).strip()
 
 
+def volcar(f, d):
+    """Ordena el texto de un documento por partes (para qué, requisitos, costo...) y lo agrega a la ficha.
+    Marca el documento como formulario si es solo campos para llenar."""
+    a = analizar_documento(d["texto"], f.titulo, d.get("nombre", ""))
+    d["formulario"] = a["formulario"] and not a["requisitos"]
+    for k, v in a["secciones"].items():
+        clave = k if k not in f.secciones else f"{k} — {d['nombre']}"
+        n = 2
+        while clave in f.secciones:
+            clave, n = f"{k} — {d['nombre']} ({n})", n + 1
+        f.secciones[clave] = v
+
+
 def _agregar_docs(f, docs):
     for d in docs:
         f.documentos.append(d)
         if d["texto"]:
-            clave = d.get("seccion") or f"Documento: {d['nombre']}"
-            if clave in f.secciones:
-                clave = f"{clave} — {d['nombre']}"
-            f.secciones[clave] = d["texto"]
+            volcar(f, d)
         if d.get("aviso"):
             f.avisos.append(f"{d['nombre']}: {d['aviso']}")
 
@@ -386,6 +397,11 @@ def bloques(cli, siglas, urls, bloque, titulo, leer=None, tipo="tramite", catego
             continue
         h1 = sopa.find("h1")
         cat = categoria or (limpiar(h1.get_text(" ")) if h1 else "")
+        if not sopa.select(bloque):
+            t = limpiar(sopa.title.get_text()) if sopa.title else ""
+            errores.append(f"{url}: la página no trae bloques «{bloque}» (título recibido: «{t[:80]}», "
+                           f"{len(sopa.get_text())} caracteres): puede ser un bloqueo del sitio")
+            log(f"  ERROR {errores[-1]}")
         for b in sopa.select(bloque):
             tn = b.select_one(titulo)
             tit = limpiar(tn.get_text(" ")) if tn else ""
@@ -406,7 +422,7 @@ def bloques(cli, siglas, urls, bloque, titulo, leer=None, tipo="tramite", catego
                 if u in urls_vistas or not _es_documento(u):
                     continue
                 urls_vistas.add(u)
-                nombre = limpiar(a.get_text(" ")).replace("download ", "").replace("picture_as_pdf ", "")
+                nombre = " ".join(a.get_text(" ").split()).replace("download ", "").replace("picture_as_pdf ", "")
                 nombre = tit if not nombre or _VACIO.match(nombre) else nombre
                 quiere = not leer or re.search(leer, nombre + " " + u, re.I)
                 d = _leer_doc(cli, nombre, u, leer=bool(quiere))
@@ -444,6 +460,7 @@ def documentos_enlazados(cli, siglas, urls, filtro=None, tipo="tramite"):
             clave = re.sub(r"[?#].*$", "", u)
             nombre = limpiar(a.get_text(" "))
             nombre = re.sub(r"\(\s*\d[\d.,]*\s*descargas?\s*\)", "", nombre, flags=re.I).strip()
+            nombre = re.sub(r"\.(pdf|docx?|xlsx?)$", "", nombre, flags=re.I).strip()
             if not nombre or _VACIO.match(nombre):
                 nombre = unquote(clave.rsplit("/", 1)[-1]).rsplit(".", 1)[0].replace("-", " ").replace("_", " ")
             if clave in vistos or (filtro and not re.search(filtro, nombre + " " + u, re.I)):

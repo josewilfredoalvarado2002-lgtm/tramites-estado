@@ -28,7 +28,12 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Instalar dependencias
-        run: python3 -m pip install --quiet --break-system-packages -r sitios/requirements.txt
+        run: |
+          python3 -m pip install --quiet --break-system-packages -r sitios/requirements.txt
+          # OCR en español para los PDF escaneados (sin esto, esos PDF quedan como "hay que abrirlo a mano")
+          sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-spa poppler-utils > /dev/null
+          # navegador para los sitios que arman el contenido con JavaScript (STSS, MiAmbiente, AHAC)
+          python3 -m playwright install --with-deps chromium > /dev/null
 
       - name: Leer los sitios oficiales
         env:

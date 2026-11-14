@@ -31,23 +31,30 @@ def correr(siglas, destino, limite=None):
         log(f"{siglas}: NO SE CORRE. {e}")
         return False
     log(f"{siglas}: dominios verificados {sorted(permitidos)} — {reg['estado']}")
-    cli = Cliente(permitidos)
+    cli = Cliente(permitidos, js=fuente.get("js", False))
     ad = getattr(adaptadores, fuente["adaptador"])
     params = dict(fuente["parametros"])
     if limite and fuente["adaptador"] == "descargas_wpdm":
         params["limite"] = limite
-    fichas, errores = ad(cli, siglas, **params)
+    try:
+        fichas, errores = ad(cli, siglas, **params)
+    finally:
+        cli.cerrar()
     if not fichas:
         log(f"{siglas}: el sitio no devolvió fichas; no se toca la bóveda.")
         return False
+    descartadas = [f for f in fichas if not f.relevante()]
+    fichas = [f for f in fichas if f.relevante()]
+    if descartadas:
+        log(f"{siglas}: {len(descartadas)} descartadas (formularios o documentos sin requisitos)")
     comp, dig = comparar(fichas, fuente.get("id_diger"))
     esc = Escritor(destino, fuente, reg)
     completo = not errores and not limite
-    resultado = esc.escribir_fichas(fichas, comp, completo)
-    esc.indice(fichas, comp, dig, resultado, errores, cli.rechazadas)
+    resultado = esc.escribir_fichas(fichas, comp, completo, descartadas)
+    esc.indice(fichas, comp, dig, resultado, errores, cli.rechazadas, descartadas)
     n, c, i, o, r = resultado
     log(f"{siglas}: {len(fichas)} fichas → {len(n)} nuevas, {len(c)} actualizadas, {i} sin cambios, "
-        f"{len(o)} ya en DIGER, {len(r)} retiradas, {len(errores)} errores, {len(set(cli.rechazadas))} enlaces rechazados")
+        f"{len(o)} ya en DIGER, {len(descartadas)} descartadas, {len(r)} retiradas, {len(errores)} errores, {len(set(cli.rechazadas))} enlaces rechazados")
     return True
 
 
@@ -58,7 +65,8 @@ def main():
     ap.add_argument("--limite", type=int)
     ap.add_argument("--destino", default=BOVEDA)
     a = ap.parse_args()
-    lista = list(FUENTES) if a.todas else [s.upper() for s in a.siglas]
+    por_mayus = {k.upper(): k for k in FUENTES}
+    lista = list(FUENTES) if a.todas else [por_mayus.get(s.upper(), s) for s in a.siglas]
     if not lista:
         ap.print_help()
         sys.exit(1)
