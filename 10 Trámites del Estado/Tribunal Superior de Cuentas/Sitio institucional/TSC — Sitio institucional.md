@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Tribunal Superior de Cuentas"
 dominio_verificado: "tsc.gob.hn"
-actualizado: 2026-11-13T21:32
+actualizado: 2026-11-13T22:23
 ---
 # TSC — Sitio institucional
 
