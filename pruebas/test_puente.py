@@ -199,14 +199,14 @@ class Sincronizacion(unittest.TestCase):
         carpeta = os.path.join(P.CARPETA, "Instituto Hondureño de Transporte Terrestre")
         self.escribir(self.boveda, os.path.join(carpeta, "Instituto Hondureño de Transporte Terrestre.md"),
                       '---\ntipo: "institucion_portal"\nnombre: "Instituto Hondureño de Transporte Terrestre"\nsiglas_comparador: "IHTT"\n---\n')
-        cat = os.path.join("09 Catálogos", "Instituciones")
+        cat = os.path.join("20 Despacho/Catálogos", "Instituciones")
         self.escribir(self.boveda, os.path.join(cat, "Instituto Hondureño de Transporte Terrestre.md"), "---\ntipo: institucion\n---\n")
         self.escribir(self.boveda, os.path.join(cat, "Transporte (IHTT).md"), "---\ntipo: institucion\nsiglas: IHTT\n---\n")
         self.escribir(self.boveda, os.path.join(cat, "Secretaría de Finanzas.md"), "---\ntipo: institucion\n---\n")
         t = P.equivalencias(self.boveda)
         fila = [x for x in t.split("\n") if x.startswith("| Instituto Hondureño")][0]
-        self.assertIn("[[09 Catálogos/Instituciones/Instituto Hondureño de Transporte Terrestre\\|Instituto Hondureño de Transporte Terrestre]] (mismo nombre)", fila)
-        self.assertIn("[[09 Catálogos/Instituciones/Transporte (IHTT)\\|Transporte (IHTT)]]", fila)
+        self.assertIn("[[20 Despacho/Catálogos/Instituciones/Instituto Hondureño de Transporte Terrestre\\|Instituto Hondureño de Transporte Terrestre]] (mismo nombre)", fila)
+        self.assertIn("[[20 Despacho/Catálogos/Instituciones/Transporte (IHTT)\\|Transporte (IHTT)]]", fila)
         self.assertNotIn("Finanzas", fila)
         self.assertTrue(fila.endswith("| Pendiente |"))
 

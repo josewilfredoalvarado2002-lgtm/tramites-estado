@@ -292,7 +292,7 @@ def indices_normativa(boveda):
 
 
 # ---------------------------------------------------------------------------
-# Equivalencias con 09 Catálogos/Instituciones (solo lectura de esa carpeta)
+# Equivalencias con 20 Despacho/Catálogos/Instituciones (solo lectura de esa carpeta)
 # ---------------------------------------------------------------------------
 def _norm(s):
     s = unicodedata.normalize("NFD", s or "").encode("ascii", "ignore").decode()
@@ -311,7 +311,7 @@ def _propiedad(fm_lineas, clave):
 
 def equivalencias(boveda):
     destino = os.path.join(boveda, CARPETA)
-    catalogo = os.path.join(boveda, "09 Catálogos", "Instituciones")
+    catalogo = os.path.join(boveda, "20 Despacho/Catálogos", "Instituciones")
     candidatos = {}
     if os.path.isdir(catalogo):
         for a in sorted(os.listdir(catalogo)):
@@ -344,17 +344,17 @@ def equivalencias(boveda):
             ruta = os.path.relpath(os.path.join(raiz, a[:-3]), boveda).replace(os.sep, "/")
             filas.append((nombre, ruta, a[:-3], cand, conf))
     L = ["---", "tipo: sistema", "---", "", "# Equivalencias de instituciones", "",
-         "Relación entre las instituciones del portal y tus notas de `09 Catálogos/Instituciones`. "
+         "Relación entre las instituciones del portal y tus notas de `20 Despacho/Catálogos/Instituciones`. "
          "La columna de candidatas solo muestra notas cuyo nombre, alias o siglas coinciden exactamente (sin tildes ni mayúsculas). "
          "Nada se da por equivalente: para confirmar una, abrí la nota de la institución del portal y escribí en la propiedad "
-         "`catalogo_case_deck` el enlace a la nota de tu catálogo. El puente regenera esta tabla y nunca escribe en 09 Catálogos.", "",
+         "`catalogo_case_deck` el enlace a la nota de tu catálogo. El puente regenera esta tabla y nunca escribe en 20 Despacho/Catálogos.", "",
          "Cuando una nota de tu catálogo se llama igual que la del portal, Obsidian tiene dos notas con el mismo nombre y un enlace "
          "sin ruta puede abrir la que no es. Esos casos aparecen marcados con «mismo nombre».", "",
-         f"Notas en 09 Catálogos/Instituciones: {len({n for s in candidatos.values() for n in s})}.", "",
+         f"Notas en 20 Despacho/Catálogos/Instituciones: {len({n for s in candidatos.values() for n in s})}.", "",
          "| Institución en el portal | Nota del portal | Candidata en tu catálogo (por confirmar) | Confirmada en la nota |",
          "| --- | --- | --- | --- |"]
     for nombre, ruta, nota, cand, conf in sorted(filas, key=lambda x: _norm(x[0])):
-        c = ", ".join(f"[[09 Catálogos/Instituciones/{x}\\|{x}]]" + (" (mismo nombre)" if x == nota else "") for x in cand) or "Sin candidata"
+        c = ", ".join(f"[[20 Despacho/Catálogos/Instituciones/{x}\\|{x}]]" + (" (mismo nombre)" if x == nota else "") for x in cand) or "Sin candidata"
         L.append(f"| {nombre.replace('|', '/')} | [[{ruta}\\|{nota}]] | {c} | {conf.replace('|', '/') or 'Pendiente'} |")
     if not filas:
         L.append("| Sin instituciones todavía | | | |")

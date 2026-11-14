@@ -51,7 +51,7 @@ def nombre_nota_institucion(nombre) -> str:
 
 def enlace(carpeta, nota, texto) -> str:
     """Enlace con la ruta completa: evita que Obsidian lo confunda con otra nota del mismo nombre
-    (por ejemplo, una institución con el mismo nombre en 09 Catálogos/Instituciones)."""
+    (por ejemplo, una institución con el mismo nombre en 20 Despacho/Catálogos/Instituciones)."""
     visible = re.sub(r"[\[\]|]", " ", texto or nota).strip()
     return f"[[{carpeta}/{nota}|{visible}]]"
 
@@ -334,7 +334,7 @@ def render_institucion(nombre, id_inst, url_listado, filas, siglas=None) -> str:
     ]
     B = [INICIO, f"# {md(nombre)}", "",
          "> [!info] Institución tal como la nombra el Portal de Trámites del Estado. "
-         "Para relacionarla con tu catálogo de Case Deck agregá la propiedad `catalogo_case_deck` con el enlace a su nota en 09 Catálogos/Instituciones; "
+         "Para relacionarla con tu catálogo de Case Deck agregá la propiedad `catalogo_case_deck` con el enlace a su nota en 20 Despacho/Catálogos/Instituciones; "
          "el crawler no toca esa propiedad.", "",
          f"Siglas según el comparador del portal: {md(siglas) if siglas else NO_CONSTA.replace('portal', 'comparador')}.", "",
          f"## Trámites en el portal ({vigentes})", ""]
