@@ -1,0 +1,314 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "1296-SE-2022"
+titulo: "ACUERDO MINISTERIAL No. 1296-SE-2022"
+emisor: "Secretaría de Estado en el Despacho de Educación"
+gaceta_numero: 36098
+gaceta_fecha: "2022-12-09"
+gaceta: "[[11 Normativa/La Gaceta/2022/La Gaceta 36098 (2022-12-09)|La Gaceta 36098]]"
+paginas: "A. 1 - 19"
+sumario: "Acuerdo Ministerial No. 1296-SE-2022, Acuerdo No. 1905-SE-2022"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221209-36098/download"
+extraido: "2026-11-14"
+huella: "80ee0f6c2b0224d0"
+---
+<!-- portal:inicio -->
+# ACUERDO MINISTERIAL No. 1296-SE-2022
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 1296-SE-2022 |
+| Emisor | Secretaría de Estado en el Despacho de Educación |
+| Publicado en | [[11 Normativa/La Gaceta/2022/La Gaceta 36098 (2022-12-09)\|La Gaceta 36098]] del 2022-12-09 |
+| Páginas | A. 1 - 19 |
+| Según el sumario de La Gaceta | Acuerdo Ministerial No. 1296-SE-2022, Acuerdo No. 1905-SE-2022 |
+
+## Texto
+
+EL SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN
+
+CONSIDERANDO: Que nuestra Constitución en el Título III “De las declaraciones, Derechos y Garantías” afirma que la persona humana es el fin supremo de la Sociedad y del Estado, con la aplicación de respetarla y protegerla y que la dignidad del ser humano es inviolable.
+
+CONSIDERANDO: Que la Constitución de la República en su artículo 78, ordena se garantizan las libertades de asociaciones y de reunión siempre que no sean contrarias al orden público y a las buenas costumbres.
+
+CONSIDERANDO: Que el artículo 79 de la Constitución de la República establece: toda persona tiene derecho de reunirse con otras, pacíficamente y sin armas, en manifestación pública o en asamblea transitoria, en relación con sus intereses comunes de cualquier índole, sin necesidad de aviso o permiso especial.
+
+CONSIDERANDO: Que Honduras es un Estado de derecho, soberano como república libre, democrática e independiente para asegurar a sus habitantes el goce de la justicia, la libertad, la cultura y el bienestar económico y social.
+
+CONSIDERANDO: Que el 28 de junio del año 2009, se produjo un golpe de Estado contra el gobierno constitucional, las organizaciones sociales se manifestaron públicamente en defensa del orden constitucional, amparados en el artículo 3 de la Constitución de la República que ordena: nadie debe obediencia a un gobierno usurpador ni a quienes asuman funciones o empleos públicos por la fuerza de las armas o usando medios o procedimientos que quebranten o desconozcan lo que esta Constitución y las leyes establecen.
+
+Los actos verificados por tales autoridades son nulos el pueblo tiene derecho a recurrir a la insurrección en defensa del orden constitucional.
+
+CONSIDERANDO: Que el Secretario de Estado en el Despacho de Educación José Alejandro Ventura Soriano, mediante Acuerdo Ministerial No. 40867-SE-2011 de fecha 05 de abril del año dos mil once (2011) sancionó a trescientos tres docentes (303) de diferentes centros educativo, a quienes no se les siguió procedimiento legal que manda la ley para aplicar sanciones, nunca se les citó o notificó por escrito los hechos que se les imputaban, de lo único que se les pudo señalar fue por protestar pacíficamente en defensa de la educación Pública y del orden constitucional.
+
+POR TANTO
+
+En uso de las facultades que está investido y en aplicación de los artículos: 1,3,59,78, de la Constitución de la República;
+
+5,8 numerales 3) y 4), 36 numerales 2), 8) y 13) de la Ley General de la Administración Pública, Decreto 136-97 que contiene el Estatuto del Docente Hondureño, artículos 35 y 36, 134,135,136,137,138 y 139 de las faltas y sanciones del Reglamento del Estatuto del Docente Hondureño.
+
+ACUERDA
+
+PRIMERO: Derogar en todo su contenido el Acuerdo Ministerial No. 40867-SE-2011 de fecha cinco (05) de abril del año dos mil once (2011), por el cual se estableció la suspensión sin goce de sueldo por el término de dos meses calendario a partir del día 11 de abril de 2011 hasta el 11 de junio de 2011 y suspensión sin goce de sueldo por el término de seis meses calendario a partir del día 11 de abril de 2011 hasta el once
+
+(11) de octubre del año 2011 a los docentes que se mencionan en dicho acuerdo y publicado en el Diario Oficial La Gaceta número 32,486 el seis (06) de abril de 2011.
+
+SEGUNDO: Hacer la devolución de los sueldos a cada docente sancionado por dos (2) meses calendario a partir del día 11 de abril de 2011 hasta el 11 de junio de 2011 y a los que se le aplicó sanción de suspensión sin goce de sueldo por el término de seis (06) meses calendario a partir del día 11 de abril de 2011 hasta el once (11) de octubre del año 2011, sueldos que no percibieron en consecuencia de dicha sanción, se incluye los derechos proporcionales de vacaciones, décimo tercero (aguinaldo) y décimo cuarto sueldo y el pago de aportaciones al Instituto Nacional de Previsión del Magisterio (INPREMA). Los docentes que pagaron por ventanilla sus aportaciones y/o obligaciones crediticias no se les debe hacer esta deducción. Por los docentes fallecidos recibirán los sueldos por devolución sus herederos, quienes se avocarán a la Subdirección General de Talento Humano Docente brindando su información y en virtud de que ya no aparecen en planilla la autoridad competente realizará la entrega de estos valores según el mecanismo más viable para que no se entorpezca la entrega de estos pagos por devolución. A los docentes que se jubilaron posteriormente a esta sanción y se les aplicó la suspensión de sueldo, también se le devolverán estos pagos por devolución, la autoridad competente determinará la forma de hacer la entrega.
+
+TERCERO: Para evitar la doble devolución de estos sueldos se ordena a las autoridades de la Subdirección General de Talento Humano Docente realizar una revisión minuciosa para estos pagos por devolución en virtud que varios docentes interpusieron acciones judiciales y algunos lograron sentencia favorable de pago, por lo que estos docentes deben ser excluidos de la devolución de sueldos si consta la ejecución de pago. Asimismo, en el Acuerdo que se deroga aparecen con error algunos nombres y apellidos y números de Identidad de docentes. Es posible que por esta condición errática no se le aplicó la sanción de suspensión de sueldo, por lo tanto, se debe de revisar las planillas de pago minuciosamente para evitar una doble devolución de sueldo, asimismo, hay docentes que se les sancionó por sus dos plazas y en el acuerdo Ministerial 40867-SE-2011, sólo aparece suspendido en una plaza, comprobada esta circunstancia también debe realizarse el pago correspondiente.
+
+CUARTO: Se instruye a las autoridades de la Subdirección General de Talento Humano Docente, una vez publicado este acuerdo, sin dilación y dentro de los dos meses siguientes cumplir con el pago de los sueldos retenidos por suspensión.
+
+QUINTO: Hacer la devolución de sueldos a los docentes suspendidos en las fechas que se relacionan en el ordinal primero de este acuerdo. Los centros educativos, los nombres, apellidos de docentes y números de identidad que se detallan son los mismos que se relacionan en el Acuerdo Ministerial No. 40867-SE-2011 que se deroga. Al mismo tiempo y a la par de cada error se indica los nombres e identidades correctos de acuerdo a su documento de identificación de los docentes que acudieron a brindar información de su identificación. Hay error de Identificación de docentes que no se les hizo corrección, en virtud que no acudieron a brindar su información.- Estos docentes son los siguientes:
+
+POR DOS MESES DE SUSPENSIÓN:
+
+DOCENTES DEL DEPARTAMENTO DE INTIBUCÁ:
+
+Heriberto Lemus Mendoza, Identidad No. 1010-1956-00152, cargo de Maestro del “Esc. Monseñor Eusebio Rivera Alemán”, Municipio Intibucá, Departamento Intibucá.
+
+Carlos Max Morales, Identidad No. 1001-1944-00017, cargo de Director del “Esc. Valero Meza” Municipio Intibucá, Departamento Intibucá. José Hermenegildo Zelaya siendo lo correcto José Hermenegildo Zelaya Lemus, Identidad No. 1015-1964-00040 cargo de Subdirector “Esc. Juliana Vásquez”, Municipio Intibucá, Departamento Intibucá.
+
+Oscar Orlando Murillo Mejía, Identidad No. 1001-1961- 00137, cargo de maestro del “Esc. Aplicación Pedro Nufio”, Municipio La Esperanza, Departamento Intibucá. Francisco Ramiro Oquely, siendo lo correcto Francisco Ramiro Oquely Benites Gonzalez, Identidad No. 1007-1963-00313, cargo de maestro del “Esc. Jhon F. Kennedy”, siendo lo correcto “John F. Kennedy” Municipio de Jesús de Otoro, Departamento Intibucá. Edgar Guevara Seren, Identidad No.1007-1966-00128 cargo de maestro del “Esc. Jhon F.
+
+Kennedy” siendo lo correcto “John F. Kennedy, Municipio de Jesús de Otoro, Departamento Intibucá. Sonia Deisy Martínez Alemán, Identidad No. 0508-1964-00074, cargo de directora del “Esc. Miguel Paz Barahona”, Municipio Yamaranguila, Departamento Intibucá, Germán Henríquez Fúnez, siendo lo correcto German Enrrique Funes Girón, Identidad No. 1001-1979-00148, cargo de director del “Esc.
+
+El Esfuerzo”, Municipio Masaguara, Departamento Intibucá, Ludin Obed García Pineda, siendo lo correcto Ludin Obed Pineda García Identidad No. 1006-1983-00763, cargo de director del “Esc. El Esfuerzo”, siendo lo correcto “ Esc.
+
+J. Edmundo Orellana”, Municipio Masaguara, siendo lo correcto Municipio de Yamaranguila Departamento Intibucá. Oscar Emigdio Gómez Martínez. Identidad No.
+
+0509-1962-00221, cargo de maestro del “Esc. Normal de Occidente”, Municipio La Esperanza, Departamento Intibucá. José Alberto Sánchez Mejía, Identidad No. 1006- 1969-00312 cargo de Maestro del “Esc. Monseñor Eusebio Rivera Alemán”, Municipio Intibucá, Departamento Intibucá.
+
+Francis Alexander Nolasco Ramos, Identidad No. 1003-1981- 00126, cargo de Maestro del “Esc. Honduras”, Municipio Colomoncagua, Departamento Intibucá. Eber Josué Coello del Cid, Identidad No. 1008-1974-00031 cargo de Maestro del “Esc. Ramón Villeda Morales, Municipio Colomoncagua, Departamento Intibucá. Reynieri Aguilar Mejía Identidad No. 1008-1974-00031, cargo de Director del “Esc. Mixta Manantiales” Municipio Intibucá, Departamento Intibucá.
+
+DOCENTES DEL DEPARTAMENTO DE CORTÉS:
+
+José Tránsito Bautista Ponce, Identidad No. 0401-1973- 00994 cargo de docente del “CEB. Salvador Bueso Borjas”, Municipio de Potrerillos. Gustavo Amílcar Ríos Valladares, Identidad No. 0319-1964-00049 cargo de docente del “CEB.
+
+Miguel Paz Barahona” Municipio de Potrerillos. María Concepción Funes Natarén, Identidad No. 0201-1977- 00077, cargo de docente del “CEB Miguel Paz Barahona” Municipio de Potrerillos. Román García González, Identidad No. 1702-1971-00325 cargo de docente del “CEB Salvador Bueso Borjas” Municipio de Potrerillos. Agustín Osman Chavarría Turcios Identidad No.0303-1970-00080 cargo de maestro Auxiliar de la “Esc. Cruz Roja” Municipio de Potrerillos. Oscar Alfredo González Cardona, Identidad No.
+
+0501-1969-10379 Cargo de Maestro de la “Escuela Marco Aurelio Pinto”, Municipio de Potrerillos. Rudi Araceli Reyes Díaz, Identidad No. 1704-1977-00305 Cargo de Maestra de la “Escuela Minerva”, Municipio de Potrerillos. José Roberto Castro López, Identidad No. 0319-1964-00183 cargo de maestro de la “Escuela Minerva”, Municipio de Potrerillos.
+
+Héctor Ramón Castro Fajardo, Identidad No. 0501-1962- 04152 cargo de consejero del “Inst. Adelaida Villanueva de Serrano” Municipio de Potrerillos. Javier Daniel Canales, Identidad No. 0501-1975-08874, cargo de asistente de Taller del “Inst. Adelaida Villanueva de Serrano” Municipio de Potrerillos. Rosalía Villanueva Molina, Identidad No. 0505- 1974-00521, cargo de docente del “Inst. Adelaida Villanueva de Serrano”, Municipio de Potrerillos. Miguel Ángel Rubio Ramírez, Identidad No. 0502-1963-00605, cargo de director del “CEB. Lempira” Municipio de Choloma. Rosario Isabel Mejía Pérez, Identidad No. 0501-1961-03474, cargo de subdirectora del “CEB. Lempira” Municipio de Choloma.
+
+José Pompilio Lara Cáceres, Identidad No. 0302-1967- 00081, cargo de subdirectora de la “Escuela Ciudad Nueva” Municipio de San Pedro Sula. Ladi Oneyda Martínez Quiroz, Identidad No. 1803-1936-00096 cargo de subdirectora del “CEB. Gilberto Pineda Madrid”, Municipio de San Pedro Sula. Marlon Eduardo Mendoza, Identidad No. 1804-1982- 02204, cargo de docente del “CEB. Gilberto Pineda Madrid”, Municipio de San Pedro Sula. Arlees Martin Noriega Mejía, Identidad No. 0210-1970-00522 cargo de docente del “CEB.
+
+Gilberto Pineda Madrid”, Municipio de San Pedro Sula. Juan Alexis Romero Peña, Identidad No.0501-1969-07996 cargo de docente del “CEB. Gilberto Pineda Madrid”, Municipio de San Pedro Sula. Edna Lilian Rodríguez, Identidad No.
+
+1806-1964-00033 cargo de directora de la “Escuela Santa Martha”. Brenda Lizeth Noriega, Identidad No. 0501-1972- 08156, cargo de subdirectora de la “Escuela Santa Martha”, Municipio de San Pedro Sula. Daysi Erlix Figueroa Palma, Identidad No. 1801-1973-00793 cargo de docente de la “Escuela Santa Martha”, Municipio de San Pedro Sula. Deysi Castañeda de Jansen, Identidad No. 1802-1956-00041, cargo de Directora de la Escuela “Primero de Febrero”, Municipio de San Pedro Sula. Antonio Díaz Díaz, Identidad No. 1317- 1957-00062, cargo de subdirector de la “Esc. José Cecilio del Valle”, Municipio de Omoa. Alexis Raúl Hernández Mejía, Identidad No. 1608-1977-00124, cargo de docente de la “Esc.
+
+José Cecilio del Valle”, Municipio de Omoa. Nerida Narcisa Mancías, Identidad No. 0503-1961-00161 cargo de directora del “CEB. José Trinidad Fiallos”, Municipio de Omoa.
+
+Natividad Reyes Rodríguez, Identidad No. 0503-1980-00859 cargo de subdirector “CEB José Trinidad Fiallos”, Municipio de Omoa.
+
+DOCENTES DEL DEPARTAMENTO DE COLÓN:
+
+Wilfredo Paz Zúniga, Identidad No. 1626-1960-00349 cargo de docente Centro Educativo “Instituto Froylan Turcios”, Municipio de Tocoa. Vilma Tomasa Cruz Vedaño, Identidad No. 0101-1961-01551 cargo de docente Centro Educativo “Instituto Froylan Turcios”, Municipio de Tocoa. Maritza Elizabeth Ramos Rivera, Identidad No. 0205-1964-00145 cargo de maestro auxiliar del Centro Educativo “Esc. José Cecilio del Valle”, Municipio de Tocoa. Juan Ramón Cruz Navarro Identidad No. 1807-1963-00261 cargo de maestro auxiliar del Centro Educativo “Esc. José Cecilio del Valle”, Municipio de Tocoa. Balmore Ayala Rodríguez, Identidad No. 1312-1968-00082 cargo de docente Centro Educativo “Escuela Luis Landa” Municipio de Salamá. Elvia Liliana Mejía Cruz Identidad No. 0209-1963-00295 cargo de docente Centro Educativo “Centro de Educación Básica Centro América”, Municipio de Guapinol. Jorge Alberto Banegas Hernández, Identidad No. 0201-1977-00468 cargo de director Centro Educativo “Centro de Educación Básica Juana Donatila Ruiz”, Municipio de Tocoa. Denia Bertina Rivera, Identidad No. 0201-1967-00246 cargo maestra auxiliar de Centro Educativo “Francisco Morazán”, Municipio de Ilanga.
+
+Mario Lara, Identidad No. 0201-1976-00011 cargo docente de Centro Educativo “Centro de Educación Básico Jairo Ayala”, Municipio de Trujillo. Otilio Pérez Contreras, Identidad No.
+
+0202-1989-00009 cargo de docente Centro Educativo “Esc.
+
+Normal Mixta Matilde Córdova de Suazo”, Municipio de Trujillo. Rolando de Jesús Canizales Rivas, Identidad No.
+
+0208-1951-00152 cargo de director del Centro Educativo “04 de Septiembre”, Municipio de Sabá. Gloriana Patricia Canizales Vigil, Identidad No. 0101-1987-00395 cargo de docente Centro Educativo “Instituto 04 de septiembre”, Municipio de Sabá. Elena Domínguez Villatoro, Identidad No. 1708-1972-00203 cargo de docente Centro Educativo “04 de septiembre”, Municipio de Sabá. José Selvin Domínguez Villatoro, Identidad No. 1708-1974-00088 cargo de docente Centro Educativo “Centro Básico Rogelio Pineda Nuñez”, Municipio de Sabá. Emilia Pacheco López, Identidad No.
+
+1807-1953-00233 cargo de docente Centro Educativo “Esc.
+
+Punta Caxina”, Municipio de Sabá. Juan Ramón Munguía Martínez, Identidad No. 0205-1967-00157 cargo de director de centro educativo “Escuela Francisco Morazán”, Municipio de Sabá. Mirta Ramona Ávila Identidad No. 0205-1965-00188 cargo de directora de centro educativo “Centro de Educativo Básico José Trinidad Cabañas”, Municipio de Sabá. Sandra Yamileth Ramírez Hernández, Identidad No. 1803-1964- 00324 cargo de directora de centro educativo “Jardín María Montesori”, Municipio de Sabá. Doris Leticia Pérez López, Identidad No. 0502-1972-00375 cargo de docente centro educativo “Instituto 19 de diciembre 1881”, Municipio de Sonaguera. Oscar Rolando Escobar, Identidad No. 0505- 1962-00388 cargo de docente centro educativo “Instituto 19 de diciembre 1881”, Municipio de Sonaguera. Melva Edith Ortiz Chirinos, Identidad No. 0208-1969-00408 cargo de orientadora centro educativo “Instituto 19 de diciembre de 1881”, Municipio de Sonaguera. Lourdes Aleyda Sarres Melgar, Identidad No. 0201-1959-01219 cargo de docente centro educativo “Instituto 19 de diciembre de 1881”, Municipio de Sonaguera. Ligia Elizabeth Martínez Murillo, Identidad No. 0205-1965-00151 cargo de docente del centro educativo de educación básico “Luis Landa”, Municipio de Sonaguera. Sergio Antonio Sarmiento Morales, Identidad No.
+
+1314-1964-00067 cargo de maestro de auxiliar en la “Esc.
+
+María Florinda Galo”, Municipio de Bonito Oriental. José Apolinario Luque Torres, Identidad No. 0819-1970-00027 cargo de maestra de auxiliar “CEB Alexis Ordoñez Padilla” del municipio de El Carbonal. Nanci Ondina Bardales Munguía, Identidad No. 0209-1976-00041 cargo de maestro auxiliar “CEB. Alexis Ordoñez Padilla” del municipio de El Carbonal.
+
+Suny Merary Jiménez Gamero, Identidad No. 0205-1967- 00430 cargo de directora Inst. “Marco Tulio Castillo Santos” del municipio de la Esperanza. Bertilio Reyes Cabrera Veliz, Identidad No. 0201-1979-00872 cargo de consejero en “Inst.
+
+Marco Tulio Castillo Santos” del municipio de la Esperanza.
+
+DOCENTES DEL DEPARTAMENTO DE EL PARAÍSO:
+
+Pablo Iván Oyuela Montoya, Identidad No. 0703-1966- 00723, cargo de maestro auxiliar centro Educativo “Instituto Departamental de Oriente” de municipio de Danlí. Mario Rafael Argeñal Medina, Identidad No. 0703-1973-01544 cargo de maestro auxiliar del centro educativo “Instituto Departamental de Oriente” de municipio de Danlí.
+
+Marco Tulio Irías Palacios, identidad No. 0703-1978- 03543 cargo de maestro auxiliar, Centro Educativo “CEB Francisco Morazán” del municipio de Danlí. Angela Suyapa Oyuela Montoya, identidad No. 0703-1964-00019 cargo de maestro auxiliar Centro educativo “Instituto Departamental de Oriente” del municipio de Danlí. Angela Suyapa Oyuela Montoya, identidad No. 0703-1964-00019 cargo de maestro auxiliar Centro educativo “CEB José Trinidad Reyes” del municipio de Danlí. Carlos David Rosales Padilla, identidad No. 0801-1976-00214 cargo de maestro auxiliar “Instituto Departamental de Oriente” de municipio de Danlí. Carlos David Rosales Padilla, identidad No. 0801-1976-00214 cargo de maestro auxiliar centro educativo “Instituto Jamastrán” de municipio de Danlí. Luis Alonzo Giron Ordoñez siendo lo correcto Luis Alonso Girón Ordoñez Identidad 1701-1959- 00393 cargo de director de centro educativo “Esc. Manuel de Adalid y Gamero” de municipio de Danlí. Julia María Díaz, identidad No. 0301-1966-00419 cargo de maestro auxiliar, Centro educativo “Esc. Guía Técnica No. 10” del municipio de Danlí. Ada Mirella Medina Rivas, Identidad No. 0703-1964- 01552 cargo de maestro auxiliar “CEB Francisco Morazán” de municipio de Danlí. Ada Mirella Medina Rivas, Identidad No. 0703-1964-01552 cargo de asistente de orientación centro educativo “Instituto Jamastrán” de municipio de Danlí.
+
+Ángel Adolfo Sánchez Godoy, Identidad No. 0703-1966- 00272 cargo de maestro auxiliar Centro educativo “Inst.
+
+Jamastrán” de municipio de Danlí. Ángel Adolfo Sánchez Godoy Identidad No. 0703-1966-00272 cargo de maestro auxiliar educativo “Esc. Gabriela Mistral” de municipio de Danlí. Glenda Jacqueline Amador Rizo, identidad No. 0703- 1968-01553 cargo de maestro auxiliar Centro Educativo “CEB. Francisco Morazán” de municipio de Danlí, Luis Abel Castellanos Sosa, identidad No. 0713-1957-00002, cargo de subdirector centro educativo “Esc. República de Nicaragua” del municipio de Danlí. Orlando José Sotomayor Solís, identidad No. 0401-1968-00830 cargo de maestro auxiliar CEB “Francisco Morazán” Municipio de Danlí. Saúl Arturo Álvarez, Identidad No. 0703-1971-00035 cargo de maestro auxiliar, “CEB Presentación Centeno” del Municipio de Danlí.
+
+Saúl Arturo Álvarez, Identidad No. 0703-1971-00035 cargo de maestro consejero de estudiantes centro educativo “Instituto Departamental de Oriente” del municipio de Danlí. Lorenzo Adolfo Barrientos Amaya, identidad No. 0703-1968-00073 cargo de maestro auxiliar Centro educativo, “Esc. Eusebio Fiallos” del municipio de Danlí. Martina Mendoza, Identidad No. 0702-1967-00022 cargo de maestra auxiliar, centro educativo “Esc. Visitación Lara de Zelaya” de municipio El Paraíso. Emir David Salinas Morazán, Identidad No. 0704- 1967-01843 cargo de maestro auxiliar, centro educativo “Inst. Alejandro Fiallos” del municipio de El Paraíso. Ada Suyapa Sevilla Díaz, Identidad No. 0704-1967-00172 cargo de maestra directora centro educativo “Esc. Visitación Lara De Zelaya” del municipio de El Paraíso. María Elena Centeno, identidad No. 0704-1964-0095, cargo de maestra auxiliar centro educativo “CEB. Visitación Lara De Zelaya” de municipio El Paraíso. Ernesto Mendoza, identidad 0704- 1969-000445, cargo de maestro auxiliar centro educativo “CEB. José Cecilio del Valle” de municipio de El Paraíso.
+
+Pablo Iván Oyuela Montoya, Identidad No. 0703-1966- 00723 cargo de maestro jefe de laboratorio, centro educativo “Instituto Armando Martínez” de municipio de El Paraíso.
+
+Dennis Alberto Sosa Zelaya, identidad No. 0703-0966-03545 cargo de maestro auxiliar centro educativo “Instituto Armando Martínez” de municipio de El Paraíso. Oscar Ramón Rivas, Identidad No. 0703-1955-00436 cargo de maestro director centro educativo “Escuela Francisco Morazán” del municipio de El Paraíso. Ramón Mendoza, Identidad No. 0704-1964- 00230 cargo de maestro subdirector centro educativo “Esc.
+
+María Garay De Vallejo” del municipio de El Paraíso. José Antonio Reyes, Identidad No. 0827-1966-00049, cargo de maestro auxiliar centro Educativo “Técnico Pedro Nufio” del municipio de Danlí. Luis Arturo Barahona, identidad No.
+
+0701-1959-00068 cargo de maestro auxiliar centro educativo “Escuela Francisco Morazán” del municipio de El Paraíso.
+
+DOCENTES DEL DEPARTAMENTO DE LA PAZ:
+
+Denia Yolibeth Almendarez, Identidad No. 1204-1982-00057, cargo de directora, “Esc. Gloria Moreno” del municipio de Santiago Puringla. Neptali Cardona Peñalva, Identidad No.
+
+1208-1965-00138, Cargo de director, “Esc. Petrona Bonilla De Melghem” del municipio Marcala. Juan Adolfo Bautista Reyes, identidad No. 1208-1966-00130, Cargo de docente, “Inst. 21 de octubre” del municipio de Marcala. Doris Marina Dubón Molina, identidad No. 1208-1971-00101 cargo de asistente de laboratorio “Inst. 21 de octubre” del municipio de Marcala. Martha Rebeca Urquía Martínez, Identidad No.
+
+1208-1972-00258 cargo de consejera “Inst. 21 de octubre” del municipio de Marcala. Lester Caled Marcía Guillen, Identidad No. 0801-1968-09025 cargo de director “Inst. 21 de octubre” del municipio de Marcala. Juan Carlos Cálix Ordoñez, Identidad No. 0708-1966-00192, Cargo de docente, “Inst. 21 de octubre” del municipio de Marcala. Ana Maritza Cárcamo Martínez, Identidad No. 1208-1958-00053, Cargo de Docente, “Inst. 21 de octubre” del municipio de Marcala.
+
+Hobgla Noemy Zavala Holness, Identidad No. 1208-1962- 00326, Cargo de docente “Inst. 21 de octubre” del municipio de Marcala. Martha Yessenia Sorto Sorto, Identidad No.
+
+0801-1975-22684 Cargo de docente “Inst. 21 de octubre” del municipio de Marcala. Oscar Antonio Calix Tercero, identidad No. 1201-1968-00030 Cargo de maestro auxiliar “Esc. República de Honduras” del municipio de Guajiquiro.
+
+DOCENTES DEL DEPARTAMENTO DE CHOLUTECA:
+
+Oscar Joel Espinal, Identidad Nº. 0601-1965-01065, con Cargo de Subdirector del Centro Educativo Instituto José Cecilio Del Valle, del Municipio de Choluteca. Leonel Armando Zelaya Gáleas. Con Identidad Nº. 0601-1971-00106, con Cargo de Maestro Auxiliar, del Centro Educativo Ramón de Jesús Zelaya, del Municipio de Choluteca. Dennis Mauricio Sosa Osorto, con Identidad N°0604-1983-00097. Con cargo de maestro auxiliar. Del centro educativo José Cecilio del Valle, del Municipio de Choluteca. Dennis Alexander Núñez Bojorque, con Identidad Nº. 0601-1970-028031 Con Cargo de Maestro Auxiliar, del Centro Educativo 14 de Julio, del Municipio de Choluteca. Olman Edgardo Osorio García, con Identidad N° 0603-1964-00035 con Cargo de Director, del Centro Educativo Instituto Nimia Baquedano, Municipio de El Corpus. José Inés Ríos, con Identidad N°. 0603-1965- 00235, con Cargo de Maestro Auxiliar del Centro Educativo Francisco Argeñal, del Municipio de Choluteca y director de la Escuela Tiburcio Carías N°1 del Municipio de Monjarás.
+
+Luis Geovani Martínez, con Identidad N°. 1701-1962-00475, con Cargo de Docente del Centro Educativo Instituto Técnico Vocacional del Sur, del Municipio de Choluteca. Lesbia Yadira Espinal con Identidad N°0601-1974-00380 con cargo de Directora, del Centro Educativo Jardín de Niños Enriqueta Morales, del Municipio de EI Triunfo. Luis Fernando Herrera Ordoñez, con Identidad No. 0602-1986-00074 con cargo de Maestro Auxiliar, del Centro Educativo Modesto Martínez, del Municipio de Namasigüe. Simón Rodríguez Vásquez, con Identidad N°. 0602-1981-00136, con cargo de docente del Centro Educativo Francisco Morazán, del Municipio de Santa Ana de Yusguare. Luisa Francisca Guerrero Najar, con Identidad No. 0601 1969-00300, con cargo de maestra auxiliar, del centro educativo Jardín de Niños Natalia C.
+
+Abarca, del Municipio de Choluteca. María Esther Colindres, con Identidad N° 0611-1961-00266, con cargo de Directora, del Centro Educativo Jardín de Niños Domitila Nuñez de Simón, del Municipio de San Marcos de Pespire. Carlos Leonel Mercado, con Identidad No. 0606-1967-00350, con cargo de docente, del centro educativo instituto El Triunfo, del Municipio de El Triunfo. José Santos Guevara Molina, con Identidad No. 0601-1959-00651, con cargo de Director, del Centro Educativo Michell J. Hasbum, del Municipio de Marcovia. Reniery Martínez Mercado con Identidad N° 0606-1968-00176, con Cargo de Docente, del Centro Educativo Instituto José Cecilio del Valle y del Instituto Técnico Vocacional del Sur, del Municipio de Choluteca.
+
+Rodolfo Geovani Vásquez Campos, con Identidad No. 0601- 1964-00642, con Cargo de Docente del Centro Educativo Instituto José Cecilio del Valle, del Municipio de Choluteca.
+
+Jorge Luis Carranza, con Identidad N°. 0601-1981-02575, con cargo de docente, del centro educativo instituto Oscar Andrés Rodríguez, del Municipio de Choluteca.
+
+DOCENTES DEL DEPARTAMENTO DE SANTA BÁRBARA:
+
+Plinio Rivera, Identidad No.1620-1952-00280, Cargo Docente, del centro educativo “Esc. Miguel Paz Barahona” Municipio de San Luis. Florencio Fernández Rivera, Identidad No. 1620-1958-00150, Cargo Docente, del centro Educativo “Esc. Francisco Guzmán” municipio de San Luis. Adolfo Hernández Orellana, Identidad No.1613-1966-00515, Cargo Docente, del centro Educativo “Esc. Modesto Rodas Alvarado” municipio de San Luis. Juan Francisco Cabrera Ocampo, Identidad No.1801-1965-00270, Cargo Docente, del centro educativo “Esc. Lucio Rivera” municipio de San José de Colinas. Arnol Enrique Leiva, Identidad No.1616- 1973-00362 Cargo Docente, del centro educativo “Dr. Miguel Paz Barahona” Municipio San José de Colinas. Mainor Edgardo Vázquez, Identidad No.1601-1972-00521, Cargo Consejero de Estudiantes, del centro educativo “Esc. Lucio Rivera” municipio de Quimistán, Maribel Suyapa Arévalo Casaña, Identidad No.1601-1963-00091, Cargo Docente, del centro educativo “Esc. Luis Bográn” municipio de Gualjoco, Santa Bárbara. Lelis Adalberto Paredes Rápalo, Identidad No.1626-1961-00205, Cargo Docente, del centro educativo “Inst. Santiago Pérez” municipio de Trinidad, Santa Bárbara.
+
+José Alex Martínez Ponce, Identidad No.1603-1968-00073, Cargo Docente, del centro educativo “Inst. Cristino Trochez” municipio de Atima, Santa Bárbara. Fredis Eusberto Vega Muños, Identidad No.1603-1964-00028, Cargo Director, del centro educativo “C.E.B. Marcos Marco Aurelio Soto” municipio de Santa Bárbara. Roberto Tróchez Bardales, Identidad No.1623-1968-00270, Cargo Director, del centro educativo “Esc. Leónidas Rivera M.” municipio de Ilama de Santa Bárbara. Saudy Jesuan Santos Vásquez, Identidad No.1613-1985-01379, Cargo Docente, del centro educativo “Esc. El Progreso/Tarros,” municipio de Nueva Frontera de Santa Bárbara. Everett Ludin Salazar Rivera, Identidad No.1613-1971-00751, Cargo Docente, del centro educativo “Francisco Morazán” municipio de Nueva Frontera de Santa Bárbara. Rigoberto Madrid Barrera, Identidad No.1613- 1972-01002, Cargo Docente, del centro educativo “Esc.
+
+Presentación Centeno” municipio de Nueva Frontera de Santa Bárbara. Oscar Elvir Mendoza Rodríguez, Identidad No.1625-1971-00074, Cargo Docente, del centro educativo “Inst. Técnico Luz del Valle” municipio de Macuelizo de Santa Bárbara. Elmer Guadalupe Bardales Tejada, Identidad No.1601-1967-00639, Cargo Docente, del centro educativo “Inst. Técnico Luz del Valle” municipio de Macuelizo de Santa Bárbara. Osman Margarito Manzanares Membreño, Identidad No.1623-1965-00491, cargo Docente, del centro educativo “Esc. Miguel Paz Barahona” municipio de Las Vegas de Santa Bárbara. Norma Margarita Pineda Flores, Identidad No.1623-1962-00020, Cargo Docente del centro educativo “Esc. República de Honduras” municipio de Las Vegas de Santa Bárbara. Rony José Cruz Pineda. Identidad No.1623-1983-00365, Cargo Docente, del centro educativo “Esc. Terencio Villafrancisca” municipio de Las Vegas de Santa Bárbara. Mirian Dorila Figueroa Tinoco, Identidad No.1804-1968-01318, Cargo Docente, del centro educativo “Esc. República de Honduras” municipio de Las Vegas de Santa Bárbara, Ramón Ruiz Rodríguez. Identidad No.1602- 1964-00158, Cargo Docente, del centro educativo “Esc.
+
+Rafael Bardales B” municipio de Protección de Santa Bárbara.
+
+Walter Hernández Reyes, Identidad No.1617-1984-00454.
+
+Cargo Docente, del centro educativo “Esc Rafael Bardales B.” municipio de Protección de Santa Bárbara. Hedan German Mejía Lara, Identidad No.1625-1963-00019, Cargo Docente, del centro educativo “Esc.Petrona R.Bogran” municipio de San Nicolás de Santa Bárbara. Selbin Jesús Reyes Aguilar, Identidad No.1622-1972-00150, cargo docente, del centro educativo “Esc. Petrona R. Bogran” municipio de San Nicolás de Santa Bárbara. Higinio Vásquez Reyes. Identidad No.1603-1965-00020, Cargo Docente, del centro educativo “Esc. Francisco Morazán” municipio de San Nicolás de Santa Bárbara.
+
+DOCENTES DEL DEPARTAMENTO DE LEMPIRA:
+
+Julio César Enamorado Cárcamo, Identidad No.1305-1968- 00186, docente en servicio estricto C.E.B. Dr. Presentación Centeno, Municipio Gracias. Sergio Eliseo Pineda, Identidad No. 1301-1964-00191, Maestro Auxiliar de la Escuela Guía Técnica No. 15 Dr. Juan Lindo, Municipio Gracias. Juan Ramón Molina Identidad No.1301-1957-00135, Maestro Auxiliar Escuela Guía Técnica No.15 Dr. Juan Lindo, Municipio Gracias. Ryna Marisol Vásquez, siendo lo correcto Ryna Marisol Vásquez Sánchez, Identidad No.1316-1978- 00029, Maestra Auxiliar Escuela Guía Técnica No.15 Dr.
+
+Juan Lindo, Municipio Gracias. Wilfredo Portillo, siendo lo correcto Wilfredo Portillo Gómez, Identidad No. 0401- 1968-00081, Maestro Auxiliar Escuela Guía Técnica No.15 Dr. Juan Lindo, Municipio Gracias. Javier Antonio Castillo, siendo lo correcto Javier Antonio Castillo Pineda, Identidad No.1307-1967-00029 Cargo de Consejero de Estudiantes, Inst. Técnico Ramón Rosa, de Municipio de Gracias. Pedro Lorenzo Vargas Calderón, Identidad N° 1301-1962-00274 Director Escuela Jesús Aguilar Paz, Gracias, Lempira. José Leónidas Cruz González Identidad N° 1316-1966-00043 Cargo de Maestro Auxiliar del C.E.B Lempira, del Municipio de Gualcinse. Hilda Eunice Hernández, Identidad No.1301- 1969-00127, de los Cargos de Docente Inst. Técnico Dr.
+
+Ramón Rosa e Inst. Nocturno Gracias a Dios del Municipio de Gracias. Alicia Rosario Torres, siendo lo correcto Alicia Rosario Torres Garcia, Identidad No.1327-1977- 00085, Docente en servicio estricto C.E.B. Dr. Presentación Centeno, Municipio Gracias. Ricardo Enrique Pérez, siendo lo correcto Ricardo Enrique Pérez Cortez. Identidad No.
+
+1301-1978-00350, Docente en Servicio Estricto C.E.B. Dr.
+
+Presentación Centeno, Municipio Gracias. Manuel Antonio Vásquez, siendo lo correcto Manuel Antonio Vásquez, Iglesias, Identidad No.1305-1963-00126, Cargo Director Esc.
+
+Normal Justicia y Libertad del Municipio de Gracias. José Isaac Meza Méndez, Identidad No.1006-1957-00161, Cargo de Director Inst. Unión y Esfuerzo del Municipio La Unión.
+
+Marco Antonio Reyes Díaz, Identidad No.1311-1974-00107, Cargo Director Esc. Lucila Pérez Estrada del Municipio La Unión. Sandra Suyapa Cuellar Identidad No.1301-1971- 00053, Cargo Docente Inst. Manuel Canelo Perdomo del Municipio de Las Flores. Mirtha Leticia Hernández, siendo lo correcto Mirtha Leticia Hernández Cáceres, Identidad No.1808-1981-00288, siendo lo correcto Identidad No.
+
+1808-1971-00288 Cargo Orientadora siendo lo correcto consejera de Estudiantes del Inst. Manuel Canelo Perdomo del Municipio de Las Flores. Omar Antonio Pineda Díaz Identidad No.0801-1982-16350, Cargo de Subdirector Esc.
+
+Luz y Ciencia del Municipio La Iguala. Delmer Antonio Sorto García, Identidad No.1320-1978-00085, Cargo Director Esc.
+
+Alejandrina Bautista de Rosa del Municipio La Iguala. Oscar Danilo Hernández, Identidad No.1301-1964-00376, Cargo Maestro Auxiliar C.E.B José María Zelaya del Municipio de Gracias, Ericka Suyapa Castro Bautista, Identidad No.1326-1972-00120, Cargo Maestra Auxiliar C.E.B Espíritu Graciano del Municipio de San Manuel de Colohete. Pedro Enulfo Gutiérrez, Identidad No.1315-1972-00079, Cargo Maestro Auxiliar Esc. Bernardo de O´higgginss, Municipio de Gualcinse. Eva Luz Mejía Martínez, Identidad No.1309- 1946-00074, siendo lo correcto No.1301-1946-00074. Cargo Directora Esc. Miguel Ángel Flores del Municipio de Gracias.
+
+Mirna Juventina Castellanos Perdomo, Identidad No.1311- 1971-00008, Cargo de Subdirectora Esc. Miguel Ángel Flores del Municipio de Gracias. Bertha Yasmina Orellana Tejada, Identidad No.1313-1969-00466, Cargo de Maestra Auxiliar Esc. Miguel Ángel Flores del municipio de Gracias. José Luis Urbina Pineda, Identidad No.1301-1981-00735, Cargo Maestro Auxiliar Esc. República de Honduras del Municipio de Gracias. Ruth Nohemí Ranmos García, siendo lo correcto Ruth Noemí Ramos García Identidad No. 1306-1982-00099 Cargo Maestra Auxiliar Esc. Las Neblinas del Municipio de Gualcinse.
+
+DOCENTES DEL DEPARTAMENTO DE OCOTEPEQUE
+
+Suyapa Liduvina Gómez Arévalo, Identidad N°1416-1967- 00037, cargo de Docente, del “CEB Elisa ch. de Cardona”, Municipio de Sinuapa. Elvia Pastora Arita, Identidad N° 1414-1946-00052, Cargo de Docente, del “CEB Enrique Villela”, Municipio de Santa Fe. Manuela Suazo Orellana, Identidad N°. 0107-1950-00909, Cargo de Docente de la “Escuela Guía Técnica N°5 Profesora Blanca Margarita Erazo”, Municipio de Ocotepeque. Socorro María Hernández, siendo lo correcto Zocorro María Hernández Identidad N° 1401-1971-00290, Cargo de Docente, del “Instituto San Marcos”. Municipio de San Marcos. Oscar Edgardo Urbina Ventura, Identidad N° 1415-1981-00038, Cargo de Docente del “Centro FID Miguel Ángel Chinchilla Solís”,Municipio de Ocotepeque. Javier Antonio Deras, Identidad N°1415-1960- 00175, Cargo de Director, de la “Escuela Cristóbal Colon”, Municipio de Sensenti. José Ramón Jiménez, Identidad N° 1401-1980-00149, cargo de director, de la “Escuela Guía Técnica No. 5 Profesora Blanca Margarita Erazo”, municipio de Ocotepeque. Juan Omar Pinto Cartagena, identidad No. 1401-1979-02719, cargo de docente, de la “Escuela Salvador Corleto”, municipio de Ocotepeque. Gerardo Antonio Chinchilla Polanco, identidad No. 1403-1973-00107, cargo de docente, del “Centro FID Miguel Ángel Chinchilla Solís”, municipio de Ocotepeque. José Reinerio Moreira Rosa, siendo lo correcto Jose Reynerio Moreira Rosa, identidad N°1401-1975-00149, cargo de director, de la “CEB Dr. Virgilio Rodezno”, municipio de Ocotepeque. Orlando Granados Lemus, identidad N°1411-1965-0073, cargo de director, del “Centro Básico Álvaro Contreras “municipio de San Francisco del Valle. Mirian Patricia Pineda, identidad No. 1413-1969-00082 cargo de directora, del “Centro Básico Francisco Morazán” municipio de San Marcos, Jorge Alberto Linares Estrada. siendo lo correcto Jorge Alberto Linarez Estrada, identidad No. 0501-1978-04468 siendo lo correcto identidad No. 0501-1978-04068 cargo de docente, del “Centro FID Miguel Ángel Chinchilla Solís”, municipio de San Marcos. Roger Edgardo Rojas Macis, siendo lo correcto Roger Edgardo Borjas Maciz, identidad N°0715-1966-00311, cargo de docente, del “Centro FID Miguel Ángel Chinchilla Solís”, municipio de San Marcos. Silvia Argentina Moreira Rosa, Identidad N°. 1401-1981-00118, cargo de docente, de la “Escuela Guía Técnica N°. 5 Profesora Blanca Margarita Erazo municipio de San Marcos. José Efraín Mejía Lara. identidad No. 1408-1966-00034, cargo de docente, de la “Escuela Emilio Mejía”, municipio de Lucerna. Alfredo De Jesús Quijada, siendo lo correcto Alfredo de Jesús Quijada Erazo, identidad No. 1416-1961-00001, cargo de Director de la Escuela Dionisio de Herrera, Municipio de La Labor. Martha Evelyn Espinoza Méndez, Identidad No. 1413-1967-00274, Cargo de Docente, del “Jardín de Niños Daniel Morales”, Municipio de La Labor. Oscar Antonio Lara Erazo. Identidad No. 1401-1975-00849, Cargo de Docente, del “Escuela Guía Técnica N°. 5 Profesora Blanca Margarita Erazo”, Municipio de Ocotepeque. Ricardo Arturo Pineda Erazo, Identidad No.
+
+1416-1963-00026, Cargo de Docente, del “Instituto Esteban Mendoza Erazo”, Municipio de La Labor.
+
+DOCENTES DEL DEPARTAMENTO DE COMAYAGUA
+
+Ronal David Márquez Soto, Identidad No.0311-1967-00011.
+
+Cargo de Docente, Inst.”Cesar Zepeda”, del Municipio San Luis. Marco Tulio Borjas, Identidad No. 0308-1974- 00451, Cargo de Docente, Inst.”César Zepeda”, del Municipio San Luis. María Trinidad Sierra López, Identidad No.0812-1956- 00070, Cargo de Directora, Inst.”César Zepeda”, del Municipio San Luis. Denis Hernán Soto, Identidad No.0304-1966-00244, Cargo de Secretario, Inst.”César Zepeda”, del Municipio San Luis. Edmon Renán Alvarado Ordóñez, Identidad No.0609- 1975-00034, Cargo de Director, C.E.B” César Augusto Sandino”, del Municipio San José de Comayagua. Ginaldo Antonio Suazo Suazo, Identidad No.0302-1969-00063, Cargo de Docente, C.E.B” César Augusto Sandino”, del Municipio San José de Comayagua, Marisela Torres Mejía, Identidad No.1201-1976-00150, Cargo de Subdirectora, Esc.”José Trinidad Cabañas”, del Municipio Siguatepeque, Julián Raquel García Alvarado, Identidad No.0302-1984- 00284, Cargo de Directora, Esc. “José Trinidad Cabañas”, del Municipio de Siguatepeque.
+
+POR SEIS MESES DE SUSPENSIÓN:
+
+Docentes del departamento de Atlántida Nelly Mabel Posantes, Identidad No 0105-1980-00029., Cargo Docente, Centro Educativo “Jardín Alba Nora Gúnera” Municipio La Másica. César Arnaldo Martínez Bobadilla, Identidad No.0401-1967-00602, Cargo Docente, Centro Educativo “Esc. Rafael Heliodoro Valle” Municipio La Másica. Alicia Gálvez Moreno Identidad No.0103-1963- 00213, Cargo Docente. Centro Educativo “Instituto Gonzalo G. Rodríguez” Municipio La Másica. Jimna Areli Siliezar Sevilla Identidad No.0105-1956-00088, Cargo Docente, Centro Educativo “Instituto Gonzalo G. Rodríguez” Municipio La Másica. Orlanda George Vega, Identidad No.0105-1954- 00130, Cargo Docente, Centro Educativo “C.E.B. José Trinidad Cabañas” Municipio La Másica. Elsy Leticia Castellanos, Identidad No.0105-1969-00076, Cargo Directora, Centro Educativo “C.E.B. Minerva” Municipio La Másica.
+
+Elsy Leticia Castellanos Garay, Identidad No.0105-1969- 00076, Cargo Docente, Centro Educativo “Instituto Gonzalo G. Rodríguez” “Municipio La Másica. Francheska Dinora Matute, Identidad No.0105-1969-00185, Cargo Docente, Centro Educativo “Esc. Dionisio de Herrera” Municipio La Másica. Arely Danelia Velásquez, Identidad No.0101-1990- 01368, Cargo Docente, Centro Educativo “Esc. Fernando Lazo” Municipio La Másica. Karla Valeriano, Identidad No.
+
+0105-1973-00273, Cargo Docente, Centro Educativo “Esc.
+
+Francisco Vega Pérez” Municipio La Másica. Pedro Aguilar Reyes, Identidad No.1803-1973-00084, Cargo Docente, Centro Educativo “Esc. José Cecilio del Valle” Municipio La Masica. Oneida Guadalupe Torres Sevilla. Identidad No.0101- 1966-01515, Cargo Docente, Centro Educativo “Inst. Gonzalo G. Rodríguez” Municipio La Másica. Sergio Enrique Motiño Fuentes, Identidad No.0107-1967-02393, Cargo Docente, Centro Educativo “Esc. Benjamín Munguía” “Municipio Tela.
+
+Sergio Enrique Motiño Fuentes, Identidad No.0107-1967- 02393, Cargo Docente, Centro Educativo “Inst. Triunfo de La Cruz” Municipio Tela. Sandy Cecilia Castro Echeverría, Identidad No.0101-1974-01615, Cargo Docente, Centro Educativo “Esc. Maestros Jubilados” Municipio Tela. Mauricio Quiroz Cruz Identidad No.0107-1963-01794, Cargo Docente, Centro Educativo “Inst. Celestino Canales” Municipio Tela.
+
+Arturo Ramos Lavaire, Identidad No.0311-1963-00172.Cargo Docente, Centro Educativo “Escuela Normal Mixta del Litoral Atlántico” Municipio Tela. Roberto Mendoza Peña, Identidad No.0901-1967-00039 Cargo Docente, Centro Educativo “Esc. José Trinidad Reyes” Municipio Tela. Cristóbal Humberto Ruiz Murillo, Identidad No.0107-1961-01557, Cargo Docente, Centro Educativo “Inst. Triunfo de La Cruz” “Municipio Tela. Claudia Edelmira Castillo Luna, Identidad No.0107-1966-00198, Cargo Docente, Centro Educativo “Inst. Arturo Álvarez Caldero” Municipio Tela. José Lito Soler Lara. Identidad No.0403-1965-00127.Cargo Docente, Centro Educativo “Dr. Miguel Paz Barahona” Municipio Tela.
+
+José Omar Núñez Osorto, Identidad No.0601-1963-01665.
+
+Cargo Docente, Centro Educativo “C.E.B. Rafaela Huete de Rodríguez” Municipio La Ceiba. Rudy Heberto Sierra Cañas, Identidad No.1707-1970-00221, Cargo Docente, Centro Educativo “Inst. Marco Herminio Fajardo”, Municipio La Ceiba. Fredy Humberto Zavala Cruz, Identidad No.0104- 1972-00500, Cargo Docente, Centro Educativo “Inst. Marco Herminio Fajardo” Municipio La Ceiba. Joel Hesman Núñez Medina, Identidad No.1501-1967-00433, Cargo Consejero de Estudiantes, Centro Educativo “Marco Herminio Fajardo “Municipio La Ceiba. Johanna Elizabeth Valeriano Rodríguez, Identidad No.0105-1968-00179, Cargo Docente, Centro Educativo “Esc. Francisco Morazán” Municipio La Ceiba. Rene Edgardo Chávez Centeno, Identidad No.0101- 1971-00365, Cargo Director, Centro Educativo “C.E.B.
+
+Claudio Barrera Municipio La Ceiba. José Antonio Martínez Martínez, Identidad No.1807-1969-00160, Cargo Asistente de Laboratorio, Centro Educativo “Inst. Mariano García Arzú” Municipio La Ceiba. Julio César Barahona Mejía, Identidad No.0101-1947-00743, Cargo Docente, Centro Educativo “Inst. Manuel Bonilla” Municipio La Ceiba. José Luis Guillen Murillo, Identidad No.0101-1963-01659, Cargo Docente, Centro Educativo “Inst. Marco Herminio Fajardo” Municipio La Ceiba. Estela Dorigoni Galicia Padilla, Identidad No.0801- 1963-00158, Cargo Docente, Centro Educativo “Inst. José Rosario Bonanno” Municipio San Francisco. José Izael Gonzales, Identidad No.1707-1073-00015, Cargo Docente.
+
+Centro Educativo “Inst. José Rosario Bonanno” Municipio San Francisco. Dalia Marissabel Castellanos Cruz, Identidad No.0106-1986-00054, Cargo Docente, Centro Educativo “Esc.
+
+Marco Antonio Ponce” Municipio La Ceiba. Elvin Francisco Ortega, Identidad No.0106-1972-00150, Cargo Docente, Centro Educativo “Esc. José Cecilio del Valle” Municipio San Francisco. Humberto Pérez Díaz, Identidad No.1804- 1966-01219, Cargo Docente, Centro Educativo “Esc. Marco Antonio Ponce” Municipio Jutiapa. Maritza Lizeth Cruz Mendoza, Identidad No.0106-1965-00015. Cargo Docente, Centro Educativo “C.E.B. Visitación Padilla” Municipio Jutiapa. Emil Darío Guerra Martínez, Identidad No.0208- 1959-00602, Cargo Docente, Centro Educativo “Esc. Marco Antonio Ponce” Municipio Jutiapa. Lidia Marleni Guevarra Paz, Identidad No.1702-1963-00008, Cargo Docente, Centro Educativo “Inst. Manuel Bonilla “Municipio La Ceiba. Felipe Valladares Chacón, Identidad 1807-1958-00316, Cargo Docente, Centro Educativo Escuela Francisco Morazán del Municipio de El Porvenir. José Reynaldo Sánchez Mejía, Identidad 1503-1968-00084, Cargo Docente, Centro Educativo Escuela Francisco Morazán del Municipio de El Porvenir. Sinia Concepción Reyes Martínez, Identidad 0101-1960-01771, Cargo Docente, Centro Educativo Escuela Francisco Morazán del Municipio de El Porvenir. Lilian Suyapa Ordoñez, Identidad 0101-1980-01327, Cargo Docente.
+
+Centro Educativo C.E.B. Narciso Hernández del Municipio de El Porvenir. Juana Esperanza Navarro Pagoada, Identidad 0102-1948-00047, Cargo Subdirectora, Centro Educativo Instituto El Porvenir del Municipio de El Porvenir. Dilcia Emérita Lozano Hernández, Identidad 0708-1964-00722, Cargo Docente, Centro Educativo Instituto José Manuel Díaz Palma del Municipio de El Porvenir. Elsa Marina López, Identidad 0101-1991-00867, Cargo Docente, Centro Educativo Instituto Rafael Pineda Ponce del Municipio de El Porvenir. Juan Ramón Palacios Martínez, Identidad 0101- 1972-02007, Cargo Docente, Centro Educativo Instituto Rafael Pineda Ponce del Municipio de El Porvenir Elsa Mariana López Vásquez, Identidad 0202-1964-00047. Cargo Docente, Centro Educativo Instituto Rafael Pineda Ponce del Municipio de El Porvenir. Martha Lidia Mendoza, Identidad 0105-1969-00025, Cargo Docente, Centro Educativo Escuela José Cecilio del Valle del Municipio de San Francisco. Marta Odeth Castro Romero, Identidad 1807-1973-01417, Cargo Docente, Centro Educativo Instituto Jacobo P. Munguía del Municipio de Esparta. Allan Noel Santos Meza Identidad 0101-1986-03481, Carga Docente Centro Educativo Instituto Jacobo P. Munguía del Municipio de Esparta.
+
+DOCENTES DEL DEPARTAMENTO DE OLANCHO
+
+Carlos Gerardo Banegas. Identidad No.1502-1978-00006, Cargo de Docente. Centro Educativo, Instituto José Antonio Domínguez del Municipio de Campamento. Alba Josefina Munguía, Identidad No.1502-1964-00154, Cargo de Docente, “Centro Educativo Juan J. Castro”, del Municipio de Campamento, Marlon Eliud Raudales Cruz. Identidad No.1501-1987-02373, Cargo de Maestro Auxiliar Centros Educativos “Ramón Villeda Morales y C.E.B.”Pompilio Aguiluz Mena”, Municipio de Juticalpa. Noel Antonio Matute Hernández, Identidad No.1618-1676-00333, Maestro Auxiliar, Centros Educativos “Pompilio Aguiluz Mena”, del Municipio de Juticalpa. Ángel Antonio Paz, Identidad No.1503-1676- 00285, siendo lo correcto No.1503-1976-00285 Cargo de Director, Centro Educativo “José Antonio Domínguez”, del Municipio de Juticalpa. Armando Aníbal Ferrera Sierra, Identidad No.0801-1649-03694, siendo lo correcto No 0801-1949-03694, Director, siendo lo correcto docente, Centro Educativo C.E.B. “Centro América”, del Municipio de Juticalpa. Roque Yovanny Núñez Flores, Identidad No.
+
+1502-1662-00260, Cargo de Maestro Auxiliar, Centro Educativo “La Fraternidad”, del Municipio de Juticalpa.
+
+Romel Wilson Rodríguez Varela, Identidad No.1501-1977- 00031, Cargo de Subdirector, Centro Educativo, “Dominga Chirinos”, del Municipio de San Francisco de Becerra. Marcos Antonio Ponce, siendo lo correcto Marco Antonio Ponce Sánchez Identidad No.1518-1985-00106, Cargo de Maestro Auxiliar, Centro Educativo, “Oswaldo López Arellano”, del Municipio de San Francisco de Becerra. Ramón Abelardo Ponce, Identidad No.1501-1972-00871, Cargos de Director, Centros Educativos, “República de Venezuela “y Maestro Auxiliar,”Joaquín Reyes Tejeda, Municipio de Juticalpa.
+
+Edwin Lobo Mejía, Identidad No.1503-1964-00829 Cargo de Docente, Centro Educativo, “Coronel Hernán Acosta Mejía”, del Municipio de Santa María del Real. Lesly Geaneht Miralda Matute, Identidad No.1514-1965-00010, Cargo de Subdirectora, Centros Educativos, C.E.B. “Solidaridad “ y Docente “República de Venezuela” del Municipio de Juticalpa.
+
+Álvaro Antonio Flores Sevilla, Identidad No.1519-1963- 00113, Cargos de Consejero. y Docente Centros Educativos, “San Francisco de La Paz y Escuela Lux”, del Municipio de San Francisco de La Paz. Juan Rosa Martínez Bonilla, Identidad No.1211-1954-00021, Cargos de Docente, Centro Educativo. C.E.B. “Dionisio de Herrera”, e Instituto “San Francisco de La Paz”, del Municipio de San Francisco de La Paz. Juan Ramón Ramos Casalegno, Identidad No. 1509- 1953-00045, Cargo de Docente, Centro Educativo, “Manuel Bonilla” El Instituto “San Francisco de La Paz “del Municipio de San Francisco de La Paz. Blas Ramón Rivera, Identidad No.1519-1966-00008, Cargo de Docente, Centro Educativo, “San Francisco de La Paz”, del Municipio de, San Francisco de La Paz. Benecio René Figueroa Padilla, siendo lo correcto Benicio Rene Figueroa Padilla Identidad No.1519-1968- 00202, Cargo de Director, Centro Educativo, “Ramón Lobo Herrera”, del Municipio de San Francisco de La Paz. Luis Enrique Zelaya Irías, Identidad No.1501-1968-00088, Cargo de Director Centro Educativo, “Rosa Luisa Hernández de Ochoa, del Municipio de Juticalpa. José Dimas Acosta, Identidad No. 1519-1974-00045, Cargo de Subdirector, Centros Educativos, “Manuela Garay Cortes y Víctor Rubí Zapata” del Municipio de Juticalpa. María del Socorro Flotes Mejía, Identidad No.1501-1959-00471, Cargo de Maestra Auxiliar, Centro Educativo. “Miguel Morazán” del Municipio de Juticalpa.
+
+DOCENTE DEL DEPARTAMENTO DE COMAYAGUA
+
+Rina Victoria Núñez Padilla, Identidad No.0302-1952- 00056, Cargo de Directora, Esc. “José Cecilio del Valle”, del Municipio Ajuterique. Pedro Torres, Identidad No.0319- 1956-00135, Cargo de Docente, Inst. “Augusto C. Coello”, del Municipio Villa San Antonio. Teodoro López Sorto.
+
+Identidad No.0319-1963-00097, Cargo de Subdirector, Esc.
+
+“Amílcar Rivera Calderón”, del Municipio Villa San Antonio.
+
+Contreras Rodríguez Desli Yolanda Identidad No. 0313- 1972-00125, Cargo de Docente, C.E.B “Ramiro Humberto Moreno” del Municipio Comayagua. Hernández Romero Oscar Alonzo, Identidad No.1705-1971-00084, Cargo de Docente, C.E.B “Ramiro Humberto Moreno” del Municipio Comayagua. Castillo Miranda Cesar Jovel, Identidad No.0301-1965-00624, Cargo de Docente. C.E.B “Ramiro Humberto Moreno” del Municipio Comayagua. Hernández Andrés, Identidad No. 1218-1976-00025, Cargo de Director, Escuela Guía Técnica “Guadalupe Ulloa” del Municipio Comayagua. Castro Ayala María Teresa, Identidad No.0301- 1950-00100, Cargo de Directora J/N. Ángela Ochoa Velásquez del Municipio Comayagua. Discua Carranza Alejandra, Identidad No.0301-1971-00398, Cargo de Directora J/ N Rosa de Valenzuela del Municipio Comayagua. Méndez Granados Ramón Alexis, Identidad No.1201-1968-00169, Cargo de Director, ESCUELA”GRACIAS A DIOS del Municipio Comayagua. Mejía Puerto Juan José, Identidad No.0301- 1973-01366, Cargo de Docente, Centro Educativo Escuela “Manuel Andara” del Municipio Comayagua. Vásquez Galán Virgilio Identidad No.1201-1967-00032, Cargo de Docente, C.E.B.”Comalhuacan” del Municipio Comayagua.
+
+José Antonio González, Identidad No.1201-1964-00256, Cargo de Docente, C.E.B.”Comulhuacan” del Municipio Comayagua. Antúnez Fúnez Francisco Exequiel, Identidad No.1508-1963-00150, Cargo de Secretario, Instituto Oficial Eben-Ezer del Municipio Comayagua. Guillén Zelaya Elvis Rolando, Identidad No.0301-1982-02440, Cargo de Director, Escuela”15 de septiembre” del Municipio EI Rosario.
+
+DOCENTES DEL DEPARTAMENTO DE FRANCISCO MORAZÁN
+
+Jury Heny Hernández Tróchez, Identidad N° 1805-1973- 00143, con Cargo de Docente del Centro Educativo Escuela José Trinidad Reyes, del Municipio del Distrito Central.
+
+Eulogio Chávez Doblado, con Identidad N°0701-1961- 00104, con Cargo de Docente, del Centro Educativo Instituto Técnico Luis Bogan e Instituto Humberto López y López, del Municipio del Distrito Central. Roberto Armando Ordóñez Flores, con Identidad N°0801-1966-05141, con Cargo de Director del Centro Educativo Instituto Central “Vicente Cáceres, Centro de Educación Básica Ramón Montoya Cerrato, Instituto Técnico Honduras, Centro de Educación República de Costa Rica del Municipio del Distrito Central.
+
+Luis Alonzo Sosa Salgado, con Identidad N° 0801-1958- 01199, con Cargo de Docente, del Centro Educativo Instituto Técnico Luis Bográn e Instituto Abelardo R. Fortín, del Municipio del Distrito Central. Oscar René Recarte Barahona, con Identidad N° 0805-1970-00238, con Cargo de Consejero de Estudiantes del Centro Educativo Instituto Hibueras e Instituto Tecnológico de Administración de Empresas INTAE, Municipio del Distrito Central. Elvin Juval Portillo Varela, con Identidad No. 1001-1965-00068, con Cargo de Docente del Centro Educativo, Instituto Central Vicente Cáceres y de La Escuela Normal Mixta Pedro Nufio, del Municipio del Distrito Central. José Cecilio Baide Hernández, con Identidad N° 1701-1962-00475, con Cargo de Director, del Centro Educativo Escuela Normal Mixta Pedro Nufio, del Municipio de Distrito Central. Armando Félix Acosta, con Identidad N° 1519-1948-00032, con Cargo de Maestro Auxiliar del Centro Educativo Escuela de Aplicación República del Paraguay y Director de La Escuela Álvaro Contreras de Municipio del Distrito Central. Lourdes Bernarda Padilla Lizardo, con Identidad N° 1204-1959-00005, con Cargo de Maestro Auxiliar, del Centro Educativo Escuela José Trinidad Reyes, del Municipio del Distrito Central. Marco Antonio Chávez, con Identidad N°0602-1981-00136, siendo el correcto Marco Antonio Chavez Galindo, Identidad No.0301-1949-00351 con Cargo de Director del Centro Educativo Escuela Esteban Mendoza, del Municipio del Distrito Central. Aparicia Anabel Cruz Martínez, con Identidad N°0501-1951-01523 con Cargo de Docente del Centro Educativo Escuela Normal Mixta, del Municipio del Distrito Central. Pedro Francisco Canales Curry con Identidad N° 0311-1970-00213 con cargo de docente del Instituto Central Vicente Cáceres y de La Escuela de Aplicación República de Paraguay, del Municipio del Distrito Central. Luis Alexis Vallecillo Maradiaga, con Identidad N° 0601-1971-00710, con Cargo de Docente, del Centro Educativo Instituto Luis Bográn e Instituto Nimia Baquedano, del Municipio del Distrito Central. Juan Carlos Herrera Espinoza, con Identidad N° 0801-1970-00596, con Cargo ce Director, del Centro Educativo Instituto Francisco Miranda y Docente del Instituto Jesús Aguilar Paz, del Municipio del Distrito Central. Henry Javier Cárdenas Cárdenas, con Identidad N° 1707-1970-00759, con Cargo de Docente, del Centro Educativo Instituto Tatumbla, del Municipio del Distrito Central. Luis Reynaldo Rodríguez Torty, con Identidad N° 1503-1961-00542, con Cargo de Docente del Centro Educativo Instituto Humberto López y López, del Municipio del Distrito Central. José Rolando Chávez Doblado, con Identidad N°. 0709-1963-00128, con Cargo de Docente, del Centro Educativo Escuela Normal Mixta Pedro Nufio e Instituto Humberto López y López, del Municipio del Distrito Central. Susana Elena Davila Andino, con Identidad N°0801-1968-02489, con Cargo de Docente del Centro Educativo Escuela Normal Mixta Pedro Nufio del Municipio del Distrito Central. Leyla Suyapa Flores Zelaya, con Identidad No°0801-1964-06148, con Cargo de Docente, del Centro Educativo Escuela Normal Mixta Pedro Nufio, del Municipio del Distrito Central. Delmy Haydee Handres Flores, con Identidad N° 1702-1981-00140, con Cargo de Docente, del Centro Educativo Escuela Normal Mixta Pedro Nufio del Municipio del Distrito Central. Iris Caridad Álvarez Mendieta, con Identidad N°1808-1965-00091, con Cargo de Docente, del Centro Educativo Escuela Normal Mixta Pedro Nufio del Municipio del Distrito Central. José Nelson Licona Palacios, con Identidad N°1211-1961-00145, con Cargo de Docente, del Centro Educativo Escuela Normal Mixta Pedro Nufio del Municipio del Distrito Central. César Humberto Dávila Nolasco, con Identidad N° 1804-1945-00670, con Cargo de Docente, del Centro Educativo Escuela Normal Mixta Pedro Nufio, del Municipio del Distrito Central. Oscar Ovidio Flores Valle, con Identidad N° 0801-1964-06003, con Cargo de Docente, del Centro Educativo Escuela Normal Mixta Pedro Nufio del Municipio del Distrito Central. Héctor Orlando Valenzuela Martínez, con Identidad N° 1201-1976- 00529, con Cargo de Docente, del Centro Educativo Escuela Normal Mixta Pedro Nufio del Municipio del Distrito Central.
+
+Roberto Zelaya Sagastume, con Identidad N°0501-1956- 01838, con Cargo de Director del Centro Educativo Instituto Jesús Aguilar Paz del Municipio del Distrito Central. Cesar Humberto Dávila Nolasco, con Identidad N°1804-1945- 00670, con Cargo de Director, del Centro Educativo Instituto Superación San Francisco del Municipio del Distrito Central.
+
+Vilma Azucena Lanza Salgado, con Identidad N° 0826-1963- 00048, con Cargo de Docente, del Centro Educativo Instituto Central Vicente Cáceres del Municipio del Distrito Central.
+
+Norma Yanina Parada Martínez, con Identidad N°1701-1966- 01095, con Cargo de Docente, del Centro Educativo Instituto Héctor Pineda Hugarte y La Escuela Ángel Zúniga Huete del Municipio del Distrito Central. Wilmer Antonio Moreno Martínez, con Identidad N°1211-1966-00029, con Cargo de Docente, del Centro Educativo Altos de San Francisco y La Simón Bolívar del Municipio del Distrito Central.
+
+Hugo Rovelo Navarro Zúniga, con Identidad N° 0803-1957- 00613, con Cargo de Docente, del Centro Educativo Instituto Central Vicente Cáceres del Municipio del Distrito Central.
+
+Pedro Tulio Velásquez Escoto. Identidad N°. 0819-1963- 00104, Cargo de Docente, Inst. Central Vicente Cáceres, del Municipio del Distrito Central. Diomedes Valentín Canales Bustillo, Identidad No. 0208-1960-00576, Cargo de Docente, Inst. Central Vicente Cáceres, del Municipio del Distrito Central. Walter Gutiérrez Álvarez, Identidad No.0603- 1969-00585.Cargo de Docente, Inst. Jesús Milla Selva, del Municipio del Distrito Central. César Belarmino Zavala.
+
+Identidad No.1707-1961-00249, Cargo de Docente, Inst. Jesús Milla Selva y Santa Lucia, del Municipio del Distrito Central.
+
+Walter Gutiérrez Álvarez, Identidad No. 0603-1969-00585, Cargo de Docente, Inst. Jesús Milla Selva, del Municipio del Distrito Central. Norma Alicia Amaya Rodríguez Identidad No.0801-1959-00374, Cargo de Docente Inst. Blanca Adriana Ponce, del Municipio del Distrito Central. Luis Enrique García Sánchez Identidad No.0801-1968-03412, Cargo de Docente Inst. Superación San Francisco, del Municipio del Distrito Central. Dina Maribel Hernández Amaya, Identidad No.1707- 1961-00557, Cargo de Docente, Esc. Esteban Mendoza y Nocturna Ramón Rosa, del Municipio del Distrito Central.
+
+DOCENTE DEL DEPARTAMENTO DE COLÓN
+
+Héctor Starlyng Cruz Moncada, Identidad Número 0208- 1985-01537, Director del Instituto Polivalente “Froylan Tercios” del Municipio de Tocoa.
+
+El presente Acuerdo Ministerial entrará en vigencia el día de su publicación en el Diario Oficial La Gaceta.- Transcribir el presente Acuerdo a la Dirección General de Talento Humano Docente y a los interesados para los fines legales correspondientes.-
+
+Dado en la ciudad de Tegucigalpa, M.D.C., República de Honduras, a los veintisiete días del mes de Septiembre del año 2022.- COMUNÍQUESE Y PUBLÍQUESE.
+
+PROFESOR DANIEL ENRIQUE ESPONDA VELASQUEZ
+
+Secretario de Estado en el Despacho de Educación ABG. EDWIN EMILIO OLIVA Secretario General
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 36098 del 2022-12-09, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20221209-36098/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

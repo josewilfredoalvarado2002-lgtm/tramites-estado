@@ -1,0 +1,132 @@
+---
+tipo: "norma"
+tipo_acto: "Decreto"
+numero: "44-2023"
+titulo: "DECRETO No. 44-2023"
+emisor: "PODER LEGISLATIVO"
+gaceta_numero: 36306
+gaceta_fecha: "2023-08-12"
+gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36306 (2023-08-12)|La Gaceta 36306]]"
+paginas: "A. 1 - 11"
+sumario: "Decreto No. 44-2023, 41-2023"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230812-36306/download"
+extraido: "2026-11-14"
+huella: "b42a7f70a804dacb"
+---
+<!-- portal:inicio -->
+# DECRETO No. 44-2023
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Decreto |
+| Número | 44-2023 |
+| Emisor | PODER LEGISLATIVO |
+| Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36306 (2023-08-12)\|La Gaceta 36306]] del 2023-08-12 |
+| Páginas | A. 1 - 11 |
+| Según el sumario de La Gaceta | Decreto No. 44-2023, 41-2023 |
+
+## Texto
+
+EL CONGRESO NACIONAL,
+
+CONSIDERANDO: Que de conformidad con el Artículo 1 de la Constitución de la República se establece a Honduras como un Estado de derecho, soberano, constituido como República libre, democrática e independiente para asegurar a sus habitantes el goce de la justicia, la libertad, la cultura y el bienestar económico y social, asimismo, en su Artículo 61 se establece la obligatoriedad del Estado de Honduras de garantizar la seguridad individual, la libertad, la igualdad ante la Ley y el derecho de propiedad.
+
+CONSIDERANDO: Que de conformidad con el Artículo 62 de la Constitución de la República los derechos de cada hombre están limitados por los derechos de los demás, por la seguridad de todos y por las justas exigencias del bienestar general y del desenvolvimiento democrático, por lo que el Estado de Honduras debe dar continuidad a las políticas en materia de seguridad reconociendo que la seguridad de todos los hondureños es un fin primordial.
+
+CONSIDERANDO: Que las acciones realizadas por las fuerzas de seguridad del país en el marco de los Decretos Ejecutivos Número PCM 29-2022, PCM 01-2023, PCM 10- 2023, PCM 15-2023 y PCM 24-2023 han rendido resultados positivos en el combate de la criminalidad, sin embargo el pueblo hondureño sigue siendo víctima de altos índices de violencia provocada en particular a través del delito de extorsión, por lo que se hace necesario continuar tomando las medidas que sean necesarias en los distintos municipios del país para el restablecimiento de la paz y el orden, la preservación de la vida humana como fin supremo de la sociedad, así como para facilitar la búsqueda, identificación y detención de los autores de este flagelo.
+
+CONSIDERANDO: Que de conformidad con el Artículo 187 de la Constitución de la República el ejercicio de los derechos establecidos en los artículos 69, 71, 72, 78, 81, 84, 93, 99 y 103 de la referida norma suprema, podrán suspenderse en caso de perturbación grave de la paz o de cualquier otra calamidad general, por el Presidente de la República en Consejo de Ministros, por medio de un Decreto que contendrá: 1. Los motivos que lo justifiquen; 2. La garantía o garantías que se restrinjan; 3. El territorio que afectará la restricción; y, 4. El tiempo que durará ésta. Además, se convocará en el mismo Decreto al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca de dicho Decreto y lo ratifique, modifique o impruebe.
+
+CONSIDERANDO: Que en el ámbito de Sistema Universal de Protección de los Derechos Humanos, el Artículo 4 del Pacto Internacional de Derechos Civiles y Políticos (PIDCP) y en el Sistema Interamericano de Protección, el Artículo 27 de la Convención Americana Sobre Derechos Humanos (CADH), se reconoce la posibilidad para un Estado Parte de suspender las obligaciones contraídas en dichos instrumentos, siempre que concurran situaciones excepcionales que pongan en peligro la vida de la nación y cuya existencia haya sido proclamada oficialmente, o en caso de peligro público o de otra emergencia que amenace la independencia o seguridad del Estado, por lo que se podrán adoptar disposiciones que, en la medida y por el tiempo estrictamente limitado a las exigencias de la situación, suspendan las obligaciones contraídas.
+
+CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
+
+POR TANTO,
+
+DECRETA:
+
+#### Artículo 1
+
+ARTÍCULO 1.- Ratificar en todas y cada una de sus partes el DECRETO EJECUTIVO NÚMERO PCM-33-2023, publicado en el Diario Oficial “La Gaceta”, en fecha 5 de Julio del año 2023, Edición número 36,273, consistente en decretar por un período de cuarenta y cinco (45) días la SUSPENSIÓN DE LAS GARANTÍAS establecidas en los artículos 69, 78, 81, 84, 93 y 99 de la Constitución de la República, en las condiciones establecidas en el Decreto antes mencionado y en respeto a los principios de necesidad, proporcionalidad y los estándares internacionales sobre derechos humanos, con la finalidad de salvaguardar la seguridad, el orden y la paz del país; el cual literalmente dice:
+
+“DECRETO EJECUTIVO NÚMERO PCM 33-2023. LA PRESIDENTA C O N S T I T U C I O N A L D E L A REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO
+
+CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 29-2022 de fecha 03 de diciembre de 2022, la Presidenta de la República en Consejo de Ministros, decretó la suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99 a partir de las 6:00 p.m. del día 06 de diciembre del 2022 y hasta las 6:00 p.m. del día 06 de enero del año 2023.
+
+CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 01-2023 de fecha 06 de enero de 2023, la Presidenta de la República en Consejo de Ministros, decretó la suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99, a partir de las 6:00 p.m. del día viernes 06 de enero de 2023 y hasta las 6:00 p.m. del día lunes 20 de febrero de 2023. CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 10-2023 de fecha 20 de febrero de 2023, la Presidenta de la República en Consejo de Ministros, decretó la suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99, a partir de las 6:00 p.m. del día lunes 20 de febrero de 2023 y hasta las 6:00 p.m. del día jueves 06 de abril de 2023. CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 15-2023 de fecha 06 de abril de 2023, la Presidenta de la República en Consejo de Ministros, decretó la suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99, a partir de las 6:00 p.m. del día jueves 06 de abril de 2023 y hasta las 6:00 p.m. del día domingo 21 de mayo de 2023.
+
+CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 24-2023 de fecha 20 de mayo de 2023, la Presidenta de la República en Consejo de Ministros, decretó la suspensión de garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99, a partir de las 6:00 p.m. del domingo 21 de mayo de 2023 y hasta las 6:00 p.m. del día miércoles 05 de julio de 2023. CONSIDERANDO: Que, en cumplimiento a lo establecido en la Constitución de la República, se convocó al Congreso Nacional para que dentro del plazo de 30 días conociera los Decretos de Suspensión de Garantías Constitucionales.
+
+CONSIDERANDO: Que en fecha 31 de marzo de 2023, el Consejo Nacional de Defensa y Seguridad (CNDS) aprobó de manera unánime la II etapa del Plan Nacional de Seguridad “SOLUCIÓN CONTRA EL CRIMEN” (SCC), en cuyas medidas se establece dar continuidad a la actual suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99. CONSIDERANDO: Que las acciones ejecutadas por la Secretaría de Estado en el Despacho de Seguridad a través de la Policía Nacional, la Dirección Nacional de Investigación e Inteligencia (DNII) y con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional a través de las Fuerzas Armadas y de la Policía Militar del Orden Público (PMOP), en cumplimiento del Decreto Ejecutivo número PCM 29-2022, del Decreto Ejecutivo número PCM 01-2023, del Decreto Ejecutivo número PCM 10- 2023, del Decreto Ejecutivo número PCM 15-2023 y del Decreto Ejecutivo número PCM 24-2023 de suspensión de garantías constitucionales, han rendido muy buenos resultados frente a la grave perturbación de la paz y la seguridad que se sufre en las principales ciudades del país.
+
+CONSIDERANDO: Que son de público conocimiento los logros positivos alcanzados a través de los Decretos de Suspensión de Garantías, entre los cuales se encuentran, del 01 de enero al 04 de julio de 2023: Una reducción significativa de homicidios, más de 176 bandas criminales desarticuladas, 5,130 allanamientos de morada exitosos. 3,944 órdenes de captura, 2,853 armas de fuego decomisadas, 6,532 libras de marihuana decomisadas, 479 kilos de cocaína decomisada, 22,056 piedras de droga crack decomisadas, 1,746 vehículos decomisados, 8,344 motocicletas decomisadas, entre otros. CONSIDERANDO: Que la grave situación de violencia criminal organizada heredada desde la administración anterior, ha provocado que el pueblo hondureño sea víctima de la violencia desenfrenada que afecta en particular a través del delito de extorsión, por lo que se hace necesario continuar con todas las medidas que lleven al restablecimiento de la paz y el orden, la preservación de la vida humana como fin supremo de la sociedad, así como a facilitar la búsqueda, identificación y detención de los autores de este flagelo, todo en estricto cumplimiento de los principios de necesidad y de proporcionalidad, de acuerdo con los estándares internacionales de derechos humanos, por lo que es procedente y necesario decretar por un nuevo periodo de cuarenta y cinco (45) días, la restricción de garantías constitucionales para el logro de los objetivos señalados y garantizar la p r o t e c c i ó n d e l a c i u d a d a n í a .
+
+CONSIDERANDO: Que la persona humana es el fin supremo de la sociedad y del Estado y conforme a los artículos 59 y 62 de la Constitución de la República los derechos de cada persona están limitados por los derechos de los demás.
+
+CONSIDERANDO: Que de conformidad al artículo 245 numerales 2, 4, 7, 11, 16 y 19 de la Constitución de la República, la Presidenta de la República tiene a su cargo la Administración General del Estado, encontrándose entre sus atribuciones dirigir la política general del Estado y representarlo; emitir Acuerdos y Decretos y expedir reglamentos y resoluciones conforme a la Ley; administrar la Hacienda Pública; mantener la paz y seguridad interior de la República; restringir o suspender el ejercicio de derechos de acuerdo con el Consejo de Ministros; ejercer el mando en Jefe de las Fuerzas Armadas en su carácter de Comandante General y adoptar las medidas necesarias para la defensa de la República.
+
+CONSIDERANDO: Que la Constitución de la República establece en el artículo 187 que el ejercicio de los derechos establecidos en los artículos 69, 78, 81, 84, 93 y 99, podrán suspenderse en caso de perturbación grave de la paz o de cualquier otra calamidad general, por la Presidenta de la República en Consejo de Ministros, por medio de un Decreto que contendrá: 1. Los motivos que lo justifiquen; 2. La garantía o garantías que se restrinjan; 3. El territorio que afectará la restricción; y, 4. El tiempo que durará ésta. Además, se convocará en el mismo Decreto al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca de dicho decreto y lo ratifique, modifique o impruebe.
+
+CONSIDERANDO: Que el Estado de Honduras debe cumplir con las obligaciones de respetar y garantizar los derechos humanos reconocidos tanto en la Constitución de la República como en tratados internacionales ratificados por el País. Teniendo la facultad, en situaciones de crisis extraordinarias y muy graves, de suspender algunas de sus obligaciones en materia de derechos humanos, para lograr el restablecimiento a un estado de normalidad, que asegure el pleno respeto de todas las obligaciones asumidas internacionalmente. CONSIDERANDO:
+
+Que la Policía Nacional, a través de un análisis de la estadística policial y de las acciones realizadas en aplicación del Decreto Ejecutivo número PCM 29-2022, del Decreto Ejecutivo número PCM 01- 2023, del Decreto Ejecutivo número PCM 10-2023, del Decreto Ejecutivo número PCM 15-2023, y del Decreto Ejecutivo número PCM 24-2023 de suspensión de garantías constitucionales, ha establecido la permanencia de miembros de maras y pandillas e incidencia de delitos cometidos por estos grupos, identificando sectores en situación crítica de inseguridad por el delito de extorsión, en los Municipios del Distrito Central, San Pedro Sula y otros ubicados en varios departamentos del país, en los cuales se ha registrado una perturbación grave de la paz.
+
+CONSIDERANDO: Que es deber ineludible de la Presidenta de la República en Consejo de Ministros, tomar las acciones necesarias para mantener el orden, la seguridad y la paz en la Nación.
+
+POR TANTO, En uso de las facultades contenidas en los artículos 59, 62, 65, 69, 78, 81, 84, 93, 99, 187, 245 numerales 2), 4), 7), 11), 16) y 19), 252, 321, 323 de la Constitución de la República, artículo 11 de la Ley General de la Administración Pública, artículo 2 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y Policía Nacional de Honduras y demás aplicables. DECRETA:
+
+#### Artículo 1
+
+ARTÍCULO 1. En virtud de que las acciones ejecutadas por la Secretaría de Estado en el Despacho de Seguridad, a través de la Policía Nacional, la Dirección Nacional de Investigación e Inteligencia (DNII), y con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional, a través de las Fuerzas Armadas y de la Policía Militar del Orden Público (PMOP), en cumplimiento del Decreto Ejecutivo número PCM 29-2022, del Decreto Ejecutivo número 01-2023, del Decreto Ejecutivo número PCM 10- 2023, del Decreto Ejecutivo número PCM 15-2023 y del Decreto Ejecutivo número PCM 24-2023 de suspensión de garantías constitucionales, han rendido muy buenos resultados frente a la grave perturbación de la paz y la seguridad que se sufre en las principales ciudades del país, ocasionada esencialmente por grupos criminales organizados que operan como mafias poniendo en riesgo la vida y los bienes de las personas, incurriendo y consumando delitos de extorsión, asesinatos, robos, tráfico de drogas y secuestros, que reclama el pueblo como alarmante calamidad pública, SE DECRETA por un período de cuarenta y cinco (45) días la suspensión de garantías constitucionales establecidas en los artículos 69, 78, 81, 84, 93 y 99 de la Constitución de la República, a partir de las 6:00 p.m., del día miércoles 05 de julio de 2023 y hasta las 6:00 p.m., del día sábado 19 de agosto de 2023. En consecuencia, la Secretaria de Estado en el Despacho de Seguridad, a través de la Policía Nacional y con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional, a través de las Fuerzas Armadas y de la Policía Militar del Orden Público (PMOP), respetando el principio de necesidad y proporcionalidad, quedan facultadas para detener a las personas que determine y considere responsable de asociarse, ejecutar, o tener vinculaciones, en la comisión de delitos y crímenes contemplados en este Decreto, en todos los sectores de los Municipios de Distrito Central y San Pedro Sula y otros Municipios identificados por la Policía Nacional en los listados que se adjuntan a este Decreto (ANEXO ÚNICO). ARTÍCULO 2. La libre circulación se realizará con normalidad en todo el país, aún en las zonas descritas en el presente Decreto y de conformidad a lo establecido en el Decreto Ejecutivo número PCM 30-2023, y solo podrá ser restringida por las causales aquí descritas, determinadas puntualmente por la Secretaría de Estado en el Despacho de Seguridad a través de la Policía Nacional.
+
+#### Artículo 3
+
+ARTÍCULO 3. La Secretaría de Estado en el Despacho de Seguridad, a través de la Policía Nacional, la Dirección Nacional de Investigación e Inteligencia (DNII), y con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional, a través de las Fuerzas Armadas y de la Policía Militar del Orden Público (PMOP), coordinarán acciones para dar cumplimiento al presente Decreto y mantener el orden, la paz y la seguridad nacional, así como el control de las fronteras terrestres, aéreas y marítimas.
+
+#### Artículo 4
+
+ARTÍCULO 4. Las autoridades policiales competentes al momento de la detención deberán identificarse, informar los motivos de la detención y respetar los derechos de los detenidos. En los centros de detención deberá llevarse un registro oficial de los detenidos conforme los estándares internacionales. ARTÍCULO 5. Se convoca al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca del presente Decreto y lo ratifique, modifique o impruebe. ARTÍCULO 6. Se instruye a la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional informar inmediatamente el presente Decreto una vez aprobado, estableciendo los motivos de la suspensión, derechos suspendidos y la fecha en que haya dado por terminada tal suspensión. ARTÍCULO 7. El presente Decreto es de ejecución inmediata, entrará en vigencia el día de su firma y deberá ser publicado en el Diario Oficial “La Gaceta”.
+
+Dado en la ciudad de Tegucigalpa, municipio de Distrito Central, a los (05) días del mes de julio del año dos mil veintitrés (2023). COMUNÍQUESE Y
+
+PUBLÍQUESE.
+
+ANEXO ÚNICO IRIS XIOMARA CASTRO SARMIENTO, PRESIDENTA DE LA REPÚBLICA.
+
+RODOLFO PASTOR DE MARÍA CAMPOS SECRETARIO DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA.
+
+JOSÉ CARLOS CARDONA ERAZO SECRETARIO DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIAL.
+
+RIXI RAMONA MONCADA GODOY.
+
+SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS. TOMÁS EDUARDO VAQUERO MORRIS SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN.
+
+E D U A R D O E N R I Q U E R E I N A GARCÍA SECRETARIO DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONAL. ÁNGEL EDMUNDO ORELLANA MERCADO SECRETARIO DE ESTADO EN LOS DESPACHOS DE TRANSPARENCIA Y LUCHA CONTRA LA CORRUPCIÓN. RICARDO ARTURO SALGADO SECRETARIO DE ESTADO EN EL DESPACHO DE PLANIFICACIÓN ESTRATÉGICA.
+
+F R E D I S A L O N S O C E R R ATO VALLADARES SECRETARIO DE E S TA D O E N E L D E S PA C H O DE DESARROLLO ECONÓMICO.
+
+DORIS YOLANI GARCÍA PAREDES SECRETARIA DE ESTADO EN EL DESPACHO DE ASUNTOS DE LA MUJER. HÉCTOR GUSTAVO SÁNCHEZ VELÁSQUEZ SECRETARIO DE ESTADO EN EL DESPACHO DE SEGURIDAD. JOSÉ MANUEL ZELAYA ROSALES SECRETARIO DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL. JOSÉ MANUEL MATHEU AMAYA SECRETARIO DE ESTADO EN EL DESPACHO DE SALUD. LUCKY HALACH MEDINA ESTRADA SECRETARIO DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE. DANIEL ENRIQUE ESPONDA VELÁSQUEZ SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN. MELINA NATALIE ROQUE SANDOVAL SECRETARIA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOS.
+
+LAURA ELENA SUAZO TORRES SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA. ERICK MEDARDO TEJADA CARBAJAL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA. MAURICIO ANTONIO RAMOS SUAZO SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE.
+
+LESLY SARAHÍ CERNA SECRETARIA DE ESTADO EN LOS DESPACHOS D E T R A B A J O Y S E G U R I D A D SOCIAL. YADIRA ESTHER GÓMEZ CHAVARRÍA SECRETARIA DE ESTADO EN EL DESPACHO DE TURISMO.
+
+GLORIA ANNARELLA VÉLEZ OSEJO SECRETARIA DE ESTADO EN LOS DESPACHOS DE LAS CULTURAS, LAS ARTES Y LOS PATRIMONIOS DE LOS PUEBLOS DE HONDURAS. OCTAVIO JOSÉ PINEDA PAREDES SECRETARIO DE ESTADO EN LOS DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO. DARÍO J O S U É G A R C Í A V I L L A LTA SECRETARIO DE ESTADO EN LOS DESPACHOS DE GESTIÓN DE RIESGO Y CONTINGENCIAS NACIONALES (COPECO). FABIOLA CLAUDETT ABUDOJ MENA SECRETARIA DE ESTADO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS.”
+
+#### Artículo 2
+
+ARTÍCULO 2.- El presente Decreto entrará en vigencia al día siguiente a su publicación en el Diario Oficial “LA GACETA”.
+
+Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, en el Salón de Sesiones del Congreso Nacional, a los diecinueve días del mes de Julio de dos mil veintitrés.
+
+LUIS ROLANDO REDONDO GUIFARRO PRESIDENTE LUZ ANGÉLICA SMITH MEJÍA SECRETARIA JOSUÉ FABRICIO CARBAJAL SANDOVAL SECRETARIO Al Poder Ejecutivo
+
+Por Tanto: Ejecútese Tegucigalpa, M.D.C., 28 de julio de 2023 IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA DE LA REPÚBLICA EL SECRETARIO DE ESTADO EN EL DESPACHO DE SEGURIDAD
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 36306 del 2023-08-12, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20230812-36306/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

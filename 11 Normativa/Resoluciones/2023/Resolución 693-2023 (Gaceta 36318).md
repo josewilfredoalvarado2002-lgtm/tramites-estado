@@ -1,0 +1,292 @@
+---
+tipo: "norma"
+tipo_acto: "Resolución"
+numero: "693-2023"
+titulo: "CERTIFICACIÓN, RESOLUCIÓN No. 693-2023"
+emisor: "Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización"
+gaceta_numero: 36318
+gaceta_fecha: "2023-08-26"
+gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36318 (2023-08-26)|La Gaceta 36318]]"
+paginas: "A. 11 - 17"
+sumario: "Certificación, Resolución No. 693-2023"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230826-36318/download"
+extraido: "2026-11-14"
+huella: "2a207ca7a82b6ea6"
+---
+<!-- portal:inicio -->
+# CERTIFICACIÓN, RESOLUCIÓN No. 693-2023
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Resolución |
+| Número | 693-2023 |
+| Emisor | Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización |
+| Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36318 (2023-08-26)\|La Gaceta 36318]] del 2023-08-26 |
+| Páginas | A. 11 - 17 |
+| Según el sumario de La Gaceta | Certificación, Resolución No. 693-2023 |
+
+## Texto
+
+El suscrito, Oficial Jurídico de Secretaria General, de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización.
+
+CERTIFICA:
+
+La Resolución que literalmente dice: “RESOLUCION No. 693-2023. SECRETARIA DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACION, en la ciudad de Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, catorce de abril del año dos mil veintitres.
+
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dos de noviembre del año dos mil veintiuno, misma que corre a Expediente No. PJ-02112022-640, por el Abogado MELVIN ELIUD CASCO PONCE, quien actúa en su condición de Apoderado Legal de la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD EL BIGHT, MUNICIPIO DE SANTOS GUARDIOLA, DEPARTAMENTO DE ISLAS DE LA BAHÍA”, con domicilio en la Comunidad de el Bight, municipio de Santos Guardiola, Islas de la Bahía, hecho que se acredita mediante carta Poder de fecha trece de octubre del año dos mil veintidós, contraido a pedir el otorgamiento de la Personalidad Juridica y aprobación de sus Estatutos a favor de su representada.
+
+CONSIDERANDO: Que el peticionario acompañó a su solicitud los documentos correspondientes para el otorgamiento de la Personalidad Jurídica.
+
+CONSIDERANDO: Que la “JUNTA ADMINISTRA-
+
+DORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD EL BIGHT, MUNICIPIO DE SANTOS GUARDIOLA, DEPARTAMENTO DE ISLAS DE LA BAHÍA”, con domicilio en la Comunidad de Bight, municipio de Santos Guardiola, Islas de la Bahía, se crea como asociación civil de beneficio mutuo de servicio comunal, cuyas disposiciones estatutarias no contrarían las leyes del país, el orden público, la moral y las buenas costumbres por lo que es procedente accesder a lo solicitado.
+
+CONSIDERANDO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia especifica para la emisión de este acto administrativo de conformidad con los Artículos 16, 119, y 122 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
+
+POR TANTO: La Secretaría de Estado en los Despachos de Gobernación Justicia y Descentralización, en uso de sus facultades y en aplicación a lo establecido en los Artículo 18 de la Ley Marco del Sector Agua Potable y Saneamiento;
+
+34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 245 numeral 40 de la Constitución de la República; 29 reformado mediante Decreto 266-2013 publicado en fecha 23 de enero de 2014; 116 y 120 de la Ley General de la Administración Pública; 56 y 58 del Código Civil; 24, 25 y 83 de la Ley de Procedimiento Administrativo. Acuerdo de Ministerial No.
+
+14-2022 de fecha ocho de febrero de dos mil veintidós.
+
+RESUELVE:
+
+PRIMERO:
+
+Conceder Personalidad Juridica a la
+
+"JUNTA ADMINISTRADORA DE AGUA POTABLE
+
+Y
+
+SANEAMIENTO
+
+DE LA COMUNIDAD
+
+EL
+
+BIGHT, MUNICIPIO DE SANTOS GUARDIOLA, DEPARTAMENTO DE ISLAS DE LA BAHÍA", con domicilio en la Comunidad de El Bight, municipio de Santos Guardiola, Islas de la Bahía, asimismo se aprueban sus estatutos en la forma siguiente:
+
+ESTATUTOS DE LA "JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD EL BIGHT, MUNICIPIO DE SANTOS GUARDIOLA, DEPARTAMENTO DE ISLAS DE LA BAHÍA",
+
+CAPÍTULO I .
+
+CONSTITUCIÓN, DENOMINACIÓN, DURACIÓN Y DOMICILIO.
+
+#### Artículo 1
+
+ARTÍCULO 1.- Se constituye la organización cuya denominación será “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO, Y SE RECONOCERÁ CON LAS SIGLAS SIGUIENTES:
+
+JAAB, DE LA COMUNIDAD EL BIGHT, MUNICIPIO DE SANTOS GUARDIOLA, DEPARTAMENTO DE ISLAS DE LA BAHÍA”, como una Asociación de servicio comunal, de duración indefinida, sin fines de lucro y que tendra como finalidad obtener la participación efectiva de la comunidad para la construcción, operación y mantenimiento del sistema de agua potable de acuerdo con las normas, procedimientos y reglamentaciones vigentes, establecidos en la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento, efectuando trabajos de promoción y educación sanitaria ambiental, entre los habitantes de la Comunidad del Bight, muncipio de Santos Guardiola, Islas de la Bahía.-
+
+#### Artículo 2
+
+ARTÍCULO 2.- El domicilio de la Junta de Agua y Saneamiento será en la Comunidad de el Bight, municipio de Santos Guardiola, Islas de la Bahía y tendrá operación en dicha comunidad proporcionando el servicio de agua potable.
+
+#### Artículo 3
+
+ARTÍCULO 3.- Se considera componentes del sistema de agua Potable los siguientes. 1) La Microcuenca que comprende el área de terreno delimitada y protegida, 2) El Acueducto que comprende las obras físicas de captación, conducción, almacenamiento y Distribución de Agua Potable.
+
+CAPÍTULO II.
+
+DE LOS OBJETIVOS.
+
+#### Artículo 4
+
+ARTÍCULO 4.- El fin primordial de los presentes Estatutos es regular el normal funcionamiento de la Junta de Agua y Administradora y los diferentes comités para la administración, operación y mantenimiento del sistema.
+
+#### Artículo 5
+
+ARTÍCULO 5.- La organización tendrá los siguientes objetivos: a.- Mejorar la condición de salud de los abonados y de la comunidad en general. b.- Asegurar una correcta administración del sistema. c.- Lograr un adecuado mantenimiento y operación del sistema. d.- Obtener asistencia en capacitación para mejorar el servicio de agua potable. e.- Obtener financiamiento para mejorar el servicio de abastecimiento de agua potable. f.- Velar porque la población use y maneje el agua en condiciones higiénicas y sanitarias en los hogares de una manera racional evi tando el desperdicio del recurso. g.- Gestionar la asistencia técnica necesaria para mantener adecuadamente el sistema. h.- Realizar labores de vigilancia en todos los componentes del sistema (de microcuencas, el acueducto y saneamiento básico). i.- Asegurar la sostenibilidad de los servicios de agua potable y saneamiento.
+
+#### Artículo 6
+
+ARTÍCULO 6.- Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de tarifa mensual por el servicio de agua y extraordinaria en concepto de cuotas extraordinarias. b.- Establecer programas de capacitación permanentes a fin de mejorar y mantener la salud de los abonados. c.- Aumentar el patrimonio económico a fin de asegurar una buena operación y mantenimiento del sistema. d.- Gestionar y canalizar recursos financieros de entes nacionales e internacionales. e.- Coordinar y asociarse con otras instituciones públicas y privadas para mantener el sistema. f.- Promover la integración de la comunidad involucrada en el sistema. g.- Conservar, mantener y aumentar el área de la microcuenca. h.- Realizar cualquier actividad que tienda a mejorar la salud y/o a conservar el sistema.
+
+CAPÍTULO III.
+
+DE LOS MIEMBROS. CLASES DE MIEMBROS.
+
+#### Artículo 7
+
+ARTÍCULO 7.- La Junta Administradora de Agua y Saneamiento, tendrá las siguientes categorías de miembros:
+
+a) Fundadores y, b) Activos. Miembros Fundadores: Son los que suscribieron el acta de Constitución de la Junta de Agua. b) Miembros Activos: Son los que participan en las Asambleas de Usuarios.
+
+#### Artículo 8
+
+ARTÍCULO 8.- Son derechos de los miembros: a) Ambas clases de miembros tienen derecho a voz y a voto. b.- Elegir y ser electos. c.- Presentar iniciativas o proyectos a la Junta Directiva. d.- Elevar peticiones o iniciativas que beneficien la adecuada gestión de los servicios. e.- Presentar reclamos ante el prestador por deficiencias en la calidad del servicio, f.- Recibir avisos oportunamente de las interrupciones programadas del servicio, de las modificaciones en la tarifa y de cualquier evento que afecte sus derechos o modifique la calidad del servicio que recibe.
+
+#### Artículo 9
+
+ARTÍCULO 9.- Son obligaciones de los miembros:
+
+a) Conectarse al sistema de saneamiento, b) Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura.
+
+CAPÍTULO IV.
+
+DE LOS ÓRGANOS Y ATRIBUCIONES DE CADA ÓRGANO.
+
+#### Artículo 10
+
+ARTÍCULO 10.- La dirección, administración, operación y mantenimiento en el ámbito de todo el sistema estará a cargo de: a.- Asamblea de Usuarios. b.- Junta Directiva. c.- Comités de Apoyo.- DE LA ASAMBLEA DE USUARIOS.
+
+#### Artículo 11
+
+ARTÍCULO 11.- La asamblea de Usuarios es la máxima autoridad de la comunidad a nivel local, expresa la voluntad colectiva de los abonados debidamente convocados.
+
+#### Artículo 12
+
+ARTÍCULO 12.- Son funciones de la Asamblea de Usuarios: a.- Elegir o destituir los miembros directivos de la Junta. b.- Tratar los asuntos relaciónados con los intereses de la Junta. c.- Nombrar las comisiones o comités de apoyo. - DE LA JUNTA DIRECTIVA.
+
+#### Artículo 13
+
+ARTÍCULO 13.- Después de la Asamblea de Usuarios, la Junta Directiva, es el órgano de gobierno más importante de la Junta de Agua y Saneamiento; y estará en funciones por un período de dos años pudiendo ser reelectos por un período más, ejerciendo dichos cargos ad honorem.- Para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 36, 37 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento, estará conformada por siete (10) miembros: a.- Un Presidente(a). b.- Un vicepresidente(a); c.- Un Secretario(a). d.- Un Tesorero(a). e.- Un Fiscal, f.-Un Vocal primero, g.- Un Vocal segundo, h.- Un Vocal Tercero, i.- Un Vocal Cuarto, j.- Un Vocal Quinto.
+
+#### Artículo 14
+
+ARTÍCULO 14.- La Junta Directiva tendrá las siguientes atribuciones: a.- Mantener un presupuesto de ingresos y egresós. b.- Elaborar y ejecutar el plan anual de trabajo. c.- Coordinar y ejecutar las actividades de saneamiento básico, operación y mantenimiento del sistema de agua. d.- Realizar los cobros de tarifas mensuales y demás ingresos en efectivo proveniente del servicio de agua en la comunidad. e.- Depositar los fondos provenientes de las recaudaciones de cobros de tarifa y demás ingresos en efectivo proveniente del servicio de agua en la comunidad. f.- Presentar informes en Asamblea General de abonados cada tres meses. g.- Cancelar o suspender el servicio de agua. h.- Vigilar y proteger las fuentes de abastecimiento de agua, evitando su contaminación y realizando acciones de protección y reforestación de la microcuenca. i.- Vigilar el mantenimiento de las obras sanitarias en los hogares de los abonados.
+
+#### Artículo 15
+
+ARTÍCULO 15.- Son Atribuciones del PRESIDENTE: a.- Convocar a sesiones. b.- Abrir, presidir y cerrar las sesiones. c.- Elaborar junto con el Secretario la Agenda. d.- Autorizar y aprobar con el Secretario las actas de las sesiones. e.- Autorizar y aprobar con el Tesorero todo documento que implique erogación de fondos. f.- Ejercer la representación Legal de la Junta de Agua.
+
+ARTÍCULO
+
+16.- Son Atribuciones del VICEPRESIDENTE: a.- Sustituir al presidente en caso de ausencia temporal o definitiva, en este último caso se requerirá la aportación de la mayoría simple de la Asamblea General; b.- Supervisará las Comisiones que se establescan; c.- Las demás atribuciones que le asigne la Junta Directiva o la Asamblea General.
+
+#### Artículo 17
+
+ARTÍCULO 17.- Son Atribuciones del SECRETARIO: a.- Llevar el libro de actas. b.- Autorizar con su firma las actuaciones del Presidente de la Junta Directiva, excepto lo relacionado con los fondos. c.- Encargarse de la correspondencia. d.- Convocar junto con el Presidente. e.- Llevar el registro de abonados. f.- Organizar el archivo de la Junta de Agua y Sanamiento. g.- Manejo de planillas de mano de obras. -
+
+#### Artículo 18
+
+ARTÍCULO 18.- Son Atribuciones del TESORERO:
+
+El Tesorero es el encargado de manejar fondos, archivar documentos que indiquen ingresos y egresos: a.- Recaudar y administrar los fondos provenientes del servicio de contribuciones y otros ingresos destinados al sistema. b.- Responder solidariamente con el Presidente del manejo y custodia de los fondos que serán destinados a una cuenta bancaria o del sistema cooperativista. c.- Llevar al día y con claridad el registro y control de las operaciones que se refieren a entradas y salidas de dinero, tesorería de la Junta (libro de entradas y salidas, talonario de recibos ingresos y egresos, pagos mensuales de agua). d.- Informar mensualmente a la Junta sobre el mantenimiento económico y financiero (cuenta bancaria), con copia a la Municipalidad. e.- Dar a los abonados las explicaciones que soliciten sobre sus cuentas. f.- Llevar el inventario de los bienes de la Junta. g.- Autorizar conjuntamente con el Presidente toda erogación· de fondos. h.- Presentar ante la Asamblea un informe de ingresos y egresos en forma trimestral y anual con copia a la Municipalidad.
+
+#### Artículo 19
+
+ARTÍCULO 19.- Son Atribuciones del FISCAL: a.- Es el encargado de fiscalizar los fondos de la organización b.- Supervisar y coordinar la administración de los fondos provenientes del servicio de contribuciones y otros ingresos destinados al sistema. c.- Comunicar a los miembros de la Junta Directiva de cualquier anomalía que se encuentre en la administración de los fondos o bienes de la junta. d.- Llevar el control y practicar las auditorías que sean necesarias para obtener una administración transparente de los bienes de la organización.
+
+#### Artículo 20
+
+ARTÍCULO 20.- Son Atribuciones de LOS VOCALES; a.- Desempeñar algún cargo en forma transitoria o permanente que le asigne la Asamblea o la Junta Directiva y apoyar en convocar a la Asamblea. b.- El Vocal I, Coordinará el Comités de Saneamiento Básico. c.- El Vocal II, Coordinará el comité de Microcuenca y sus funciones se especifcarán en el Reglamento respectivo.
+
+#### Artículo 21
+
+ARTÍCULO 21.- Para tratar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad, se harán reuniones así: a.- Trimestralmente en forma ordinaria y cuando fuese de urgencia en forma extraordinaria. b.- La Junta Directiva se reunirá una vez por mes. - DE LOS COMITÉS DE APOYO.
+
+#### Artículo 22
+
+ARTÍCULO 22.- La Junta Directiva tendrá los siguientes comités de Apoyo: a.- Comité de Operación y Mantenimiento. b.- Comité de Micrcuenca.- c.- Comité y Saneamiento.
+
+#### Artículo 23
+
+ARTÍCULO 23.- Estos Comites estarán integrados a la estructura de la Junta Directiva, su función específica es la de coordinar todas las labores de operación, mantenimiento y conservación de la microcuenca y Salud de los abonados en el tiempo y forma que determine la Asamblea de Usuarios y los reglamentos que para designar sus funciones específicas y estructura interna, oportunamente se emitan, debiendo siempre incorporar como miembro de los Comités de Operación y Mantenimiento y de Microcuenca al Alcalde Auxiliar y al Promotor de Salud asignado a la zona como miembro de comité de Saneamiento.
+
+CAPÍTULO V.
+
+DEL PATRIMONIO.
+
+#### Artículo 24
+
+ARTÍCULO 24.- Los recursos económicos de la Junta Administradora podrán constituirse: a.- Con la tarifa mensual de agua, venta de derecho a pegue, multas, así como los intereses capitalizados. b.- Con bienes muebles o inmuebles y trabajos que aportan los abonados. c.- Con las instalaciones y obras físicas del sistema. d.- Con donaciones, herencias, legados, préstamos, derechos y privilegios que reciban de personas naturales o jurídicas.
+
+#### Artículo 25
+
+ARTÍCULO 25.- Los recursos económicos de la Junta administradora se emplearán exclusivamente para el uso, operación, mantenimiento, mejoramiento y ampliación del sistema. -
+
+CAPÍTULO VI.
+
+DE LA DISOLUCIÓN Y LIQUIDACIÓN.
+
+#### Artículo 26
+
+ARTÍCULO 26.- Causas de Disolución: a.- Por Sentencia judicial. b.- Por resolución del Poder Ejecutivo.- c.- Por Cambiar de ojetivos para los cuales se constituyó. d.- Por cualquier causa que haga imposible la continuidad de la Junta Admiinistradora de Agua. e.- Por acuerdo de las 2/3 partes de sus miembros. La desición de Disolver la Junta Admnistradora de Agua se resolverá en Asamblea Extraordinaria convocada para este efecto y será aprobada por la mayoría absoluta de sus miembros debidamente inscritos. Una vez disuelta la Asociación se procederá a la liquidación, debiendo cumplir con todas las obligaciones que se hayan contraído con terceras personas y el remanente, en caso de que quedare será donado exclusivamente a organizaciones filantrópicas, siempre y cuando éstas no sean de carácter lucrativo, que señale la Asamblea de Usuarios, cumpliendo asimismo con lo estipulado en el Código Civil para su disolución y liquidación.
+
+CAPÍTULO VII.
+
+REFORMA DE ESTATUTOS
+
+#### Artículo 27
+
+ARTÍCULO 27.- Toda reforma modificación de los presentes estatutos, deberá ser aprobada por la asamblea general extraordinaria convocada para tal efecto, por la tres cuartas partes de los miembros asistentes, es decir, por mayoría calificada, siguiendo el mismo procedimiento de su aprobación.
+
+#### Artículo 28
+
+ARTÍCULO 28.- Al final de cada asamblea general se formulará el acta de la misma, que contendrá las decisiones tomadas y será sometida a la consideración de los asistentes.
+
+Al ser aprobada se asentará en el libro correspondiente autorizado por la autoridad competente, acta que será firmada por todos los miembros de la junta de agua asistentes, las cuales estarán en custodia del secretario y a la disposición de todos los miembros de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO, y sujetos a auditorías internas como auditorías de las organizaciones estatales en caso de recibir fondos públicos a efecto de garantizar la transparencia.
+
+CAPÍTULO VIII.
+
+MECANISMOS DE SOLUCION DE CONFLICTOS
+
+#### Artículo 29
+
+ARTÍCULO 29.- La Junta Directiva podrá adoptar reglamentos con el fin de regular los presentes estatutos, así como los asuntos internos y procedimientos de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO.
+
+#### Artículo 30
+
+ARTÍCULO 30.- La Junta Administradora de Agua Potable y Saneamiento, en caso de conflictos, usará cualquiera de las siguientes formas de solución extrajudicial de conflictos:
+
+1.- La negociación.- Es una forma de resolver un conflicto mediante la que las partes intentan llegar a una decisión conjunta en asuntos de interés mutuo y en situaciones conflictivas donde tienen desacuerdos. 2.- La mediación.- Es un proceso de negociación más complejo que implica la participación de un tercero que no es una de las partes. 3. La conciliación extrajudicial. - Es un camino previo al proceso judicial y también implica la participación de un conciliador, las partes y sus representantes. El conciliador es escogido por las partes y el objetivo es evitar un proceso judicial.
+
+#### Artículo 31
+
+ARTÍCULO 31.- Lo no previsto en los presentes estatutos se regulará según lo establecido en las leyes de la República vigentes y aplicables al caso.
+
+CAPÍTULO IX.
+
+DISPOSICIONES GENERALES
+
+#### Artículo 32
+
+ARTÍCULO 32.- El ejercicio financiero de la Junta de Agua y Saneamiento coincidirá con el año fiscal del Gobierno de la República.
+
+#### Artículo 33
+
+ARTÍCULO 33.- Los programas, proyectos o actividades que la Junta ejecute no irán en detrimento ni entorpecerán las que el Estado realice, por el contrario llevarán el propósito de complementarlos de común acuerdo por disposición de este último.
+
+#### Artículo 34
+
+ARTÍCULO 34.- La presente resolución deberá inscribirse en el Registro Especial del Instituto de Propiedad de conformidad con el artículo 28 de la Ley de la Propiedad.
+
+SEGUNDO:
+
+La
+
+"JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD EL BIGHT, MUNICIPIO DE SANTOS GUARDIOLA, DEPARTAMENTO DE ISLAS DE LA BAHIA", se inscribirá en la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
+
+TERCERO:
+
+La
+
+"JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD EL BIGHT, MUNICIPIO DE SANTOS GUARDIOLA, DEPARTAMENTO DE ISLAS DE LA BAHIA", presentará anualmente ante el ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO (ERSAPS), los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a traves de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los órganos Estatales constituidos para verificar la transparencia de los mismos.
+
+CUARTO: La "JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD EL BIGHT, MUNICIPIO DE SANTOS GUARDIOLA, DEPARTAMENTO DE ISLAS DE LA BAHIA", se somete a las disposiciones legales y políticas establecidas por la Secretaría de Estado y los demás entes contralores del Estado, facilitando cuanto documento sea requerido para garantizar la transparencia de la administración, quedando obligada, además, a presentar informes periódicos anuales de las actividades que realicen con instituciones u organismos con los que se relacionen en el ejercicio de sus objetivos y fines para lo cual fue autorizada.
+
+QUINTO: La disolución y liquidación de la "JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD EL BIGHT, MUNICIPIO DE SANTOS GUARDIOLA, DEPARTAMENTO DE ISLAS DE LA BAHIA", se hará de conformidad a sus estatutos y las leyes vigentes en el Pais, de la que una vez canceladas las obligaciones contraídas, el excedente pasará a formar parte de una organización legalmente constituida en Honduras, que reúna objetivos similares o una de beneficencia. Dicho trámite se hará bajo las Supervisión de esta Secretaría de Estado, a efecto de garantizar el cumplimiento de las obligaciones y transparencia del remanente de los bienes a que hace referencia el párrafo primero de este mismo artículo.
+
+SEXTO: Los presentes Estatutos entrarán en vigencia luego de ser aprobados por el Poder Ejecutivo, publicados en el Diario Oficial LA GACETA, con las limitaciones establecidas en la Constitución de la República y las Leyes; sus reformas o modificaciones se someterán al mismo procedimiento de su aprobación.
+
+SÉPTIMO: La presente resolución deberá inscribirse en el Registro Especial del Instituto de la Propiedad de conformidad con el artículo 28 de la Ley de Propiedad.
+
+OCTAVO: Instruir a la Secretaría General para que de Oficio proceda a remitir el expediente a la Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles (DIRRSAC), para que emita la correspondiente inscripción.
+
+NOVENO: De oficio procédase a emitir la certificación de la presente resolución, a razón de ser entregada a la peticionaria. NOTIFÍQUESE. (F) CARMEN HAYDEÉ LÓPEZ FLORES SUBSECRETARÍA DE ESTADO EN EL DESPACHO DE JUSTICIA. (F) CELSO DONADÍN ALVARADO HERNÁNDEZ, SECRETARIO GENERAL".
+
+Extendida en la ciudad de Tegucigalpa, municipio del Distrito Central, a los 07 días del mes de julio de dos mil veintitrés.
+
+NORMAN ALEXANDER ROMERO ANDINO OFICIAL JURIDICO
+
+ACUERDO DE DELEGACIÓN DE FIRMA No. 605-2022 DE FECHA 03 DE AGOSTO DE 2022
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 36318 del 2023-08-26, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20230826-36318/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

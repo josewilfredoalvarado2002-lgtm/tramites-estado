@@ -1,0 +1,54 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "475-2022"
+titulo: "ACUERDO EJECUTIVO No. 475-2022"
+emisor: "SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN"
+gaceta_numero: 36193
+gaceta_fecha: "2023-03-30"
+gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36193 (2023-03-30)|La Gaceta 36193]]"
+paginas: "A. 1"
+sumario: "Acuerdo Ejecutivo No. 475-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOSAcuerdo No. SEDH-017-2023"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230330-36193/download"
+extraido: "2026-11-14"
+huella: "40d5baae0ba30cc0"
+---
+<!-- portal:inicio -->
+# ACUERDO EJECUTIVO No. 475-2022
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 475-2022 |
+| Emisor | SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN |
+| Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36193 (2023-03-30)\|La Gaceta 36193]] del 2023-03-30 |
+| Páginas | A. 1 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 475-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOSAcuerdo No. SEDH-017-2023 |
+
+## Texto
+
+EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No. 46-2022, delegación de fecha 28 de enero 2022, y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la Constitución de la República; 11, 35, 116, 118, 119, 122 de la Ley General de la Administración Pública.
+
+ACUERDA:
+
+PRIMERO: Cancelar a la ciudadana Nolvia Patricia Herrera Espinoza, del cargo de Secretaria General (Puesto Excluido), en la estructura presupuestaria siguiente:
+
+Institución 0244, Gerencia Administrativa 001, Unidad Ejecutora 001, Programa 11, Sub Programa 00, Proyecto 000, Actividad y Obra 001, Fuente 11, Organismo 001, Número de Puesto 30, Versión 001, Grupo 00 - Nivel 00 de la Dirección Nacional del Programa Ciudad Mujer, a quien se le agradece por los servicios prestados.
+
+SEGUNDO: El presente Acuerdo Ejecutivo es efectivo a partir de la fecha y debe publicarse en el Diario Oficial La Gaceta.
+
+TERCERO: Hacer las transcripciones de Ley.
+
+COMUNÍQUESE Y CÚMPLASE.
+
+Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los quince (15) días del mes de noviembre del año dos mil veintidós (2022).
+
+TOMAS EDUARDO VAQUERO MORRIS SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN CELSO DONADÍN ALVARADO HERNÁNDEZ SECRETARIO GENERAL SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 36193 del 2023-03-30, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20230330-36193/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

@@ -12398,26 +12398,26 @@ A MEM
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2024). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2021). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
-- Acuerdo 001-2001 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Acuerdo 003-2009 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Acuerdo 023-2015 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Acuerdo Ministerial 016-2015 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Acuerdo 053-2012 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Acuerdo 022-2015 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Resolución 123-2017 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Resolución 760-2019 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Decreto Ejecutivo 002-2002 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Decreto 266-2013 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Acuerdo Ejecutivo 138-2018 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Acuerdo Ministerial 58-2019 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Resolución 574-2019 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Resolución 387-2019 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Resolución 868-2019 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Acuerdo 118-2019 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Acuerdo 114-2019 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Decreto Ejecutivo PCM-009-2018 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 001-2001 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 003-2009 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 023-2015 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Acuerdo Ministerial 016-2015 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 053-2012 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 022-2015 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Resolución 123-2017 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Resolución 760-2019 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Decreto Ejecutivo 002-2002 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Decreto 266-2013 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Acuerdo Ejecutivo 138-2018 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Acuerdo Ministerial 58-2019 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Resolución 574-2019 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Resolución 387-2019 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Resolución 868-2019 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 118-2019 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 114-2019 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Decreto Ejecutivo PCM-009-2018 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
 <!-- normas:fin -->
 <!-- portal:fin -->
 

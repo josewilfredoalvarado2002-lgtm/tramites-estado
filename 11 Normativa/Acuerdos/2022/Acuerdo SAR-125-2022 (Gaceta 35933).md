@@ -1,0 +1,11388 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "SAR-125-2022"
+titulo: "ACUERDO No. SAR-125-2022"
+emisor: "Servicio de Administración de Rentas SAR"
+gaceta_numero: 35933
+gaceta_fecha: "2022-05-26"
+gaceta: "[[11 Normativa/La Gaceta/2022/La Gaceta 35933 (2022-05-26)|La Gaceta 35933]]"
+paginas: "A. 17 - 44"
+sumario: "Acuerdo No. SAR-125-2022"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220526-35933/download"
+extraido: "2026-11-14"
+huella: "50c6d1ef23ece85a"
+---
+<!-- portal:inicio -->
+# ACUERDO No. SAR-125-2022
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | SAR-125-2022 |
+| Emisor | Servicio de Administración de Rentas SAR |
+| Publicado en | [[11 Normativa/La Gaceta/2022/La Gaceta 35933 (2022-05-26)\|La Gaceta 35933]] del 2022-05-26 |
+| Páginas | A. 17 - 44 |
+| Según el sumario de La Gaceta | Acuerdo No. SAR-125-2022 |
+
+## Texto
+
+TEGUCIGALPA, M.D.C., 10 DE MAYO DE 2022 EL DIRECTOR EJECUTIVO DEL SERVICIO DE ADMINISTRACIÓN DE RENTAS
+
+CONSIDERANDO (1): Que de conformidad al Artículo 351 de la Constitución de la República, el Sistema Tributario Nacional se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad de acuerdo con la capacidad económica del contribuyente.
+
+CONSIDERANDO (2): Que el Código Tributario contenido en el Decreto Legislativo 170-2016 en su Artículo 195, complementado posteriormente con el Acuerdo Ejecutivo Número 01-2017, crea la Administración Tributaria denominada Servicio de Administración de Rentas, como una entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, con la misión primordial de administrar el sistema tributario.
+
+CONSIDERANDO (3): Que mediante Acuerdo Ejecutivo número 01-2017, en cumplimiento a lo establecido en el artículo 195 del Código Tributario se denominó a la Administración Tributaria como Servicio de Administración de Rentas (SAR).
+
+CONSIDERANDO (4): Que el Artículo 59 del Código Tributario establece que la Administración Tributaria mediante Acuerdo Ejecutivo, en coordinación con la Administración Aduanera, debe determinar categorías de obligados tributarios; así como, establecer procedimientos para el cumplimiento de sus deberes instituidos por las normas tributarias y aduaneras reglamentarias. En tales acuerdos, debe publicar todos los criterios utilizados para la categorización de los obligados tributarios.
+
+CONSIDERANDO (5): Que la clasificación y categorización de los contribuyentes obedece al dinamismo de los sectores económicos, haciendo necesario efectuar una actualización con cierta periodicidad según la normativa vigente, incluyendo la posibilidad que, de oficio, la Administración Tributaria modifique o actualice la categoría otorgada.
+
+CONSIDERANDO (6): Que en marzo del 2022, la Administración Tributaria comenzó las diligencias con la Administración Aduanera para consolidar una mesa de trabajo para obtener la información necesaria para la construcción de los criterios para determinar la categorización de los obligados tributarios en Grandes Contribuyentes, Medianos Contribuyentes y Pequeños Contribuyentes, concluyendo que dicha categorización se hará considerando los criterios de recaudación, ingresos brutos, importaciones, débito del Impuesto Sobre la Venta, agentes de retención, activos naturales, activos jurídicos y actividad estratégica; criterios que pueden ser consultados por los obligados tributarios en el portal web de la administración tributaria.
+
+CONSIDERANDO (7): Que según el Artículo 63 numeral
+
+\6) del Código Tributario, los obligados tributarios deben presentar en tiempo las declaraciones juradas que determinen las leyes tributarias; así como las manifestaciones informativas e informes, en la forma y medios que establezca la Administración Tributaria.
+
+CONSIDERANDO (8): Que, en lo correspondiente a las formas y medios de pago de los tributos, conforme el
+
+Artículo 136 del Código Tributario, el pago de los tributos, retenciones, percepciones, pagos a cuenta o anticipados, pagos en especie, sanciones pecuniarias y demás cargos, se debe efectuar en dinero en efectivo, cheque de caja bancario, cheque certificado o transferencia u otros medios de pago legalmente reconocidos, utilizando los medios físicos o telemáticos que la Administración Tributaria determine conforme a la ley.
+
+CONSIDERANDO (9): Que por disposición del Artículo 82 del Código Tributario se ordena que la Administración Tributaria debe priorizar la utilización de las técnicas y medios electrónicos, informáticos y telemáticos necesarios para el desarrollo de sus actividades y el ejercicio de sus competencias, atribuciones y facultades, con las limitaciones que las leyes establezcan.
+
+CONSIDERANDO (10): Que el Servicio de Administración de Rentas cuenta con sistemas de alta disponibilidad que brindan servicios a los obligados tributarios, igualmente, las entidades bancarias recaudadoras de tributos han desarrollado sus servicios de banca electrónica o por medio de Internet, permitiendo el pago de las obligaciones tributarias por esta vía.
+
+CONSIDERANDO (11): Que el numeral 14 del Artículo 198 del Código Tributario faculta a la Administración Tributaria para establecer y operar procedimientos y sistemas ágiles y simplificados, para facilitar el cumplimiento voluntario de las obligaciones tributarias, así como implementar y operar la tramitación expedita de las operaciones tributarias, formales o materiales.
+
+CONSIDERANDO (12): Que la Administración Tributaria tiene las facultades legales y las herramientas tecnológicas para hacer cumplir la obligación formal de presentar las declaraciones juradas de tributos, manifestaciones informativas e informes, por medios electrónicos, informáticos y telemáticos, y para permitir el pago de los tributos y sus accesorios por los mismos medios en los plazos establecidos en la normativa vigente.
+
+CONSIDERANDO (13): Que mediante el Acuerdo SAR- 002-2017 efectivo a partir del 03 de enero del 2017, se aprobó la Estructura Organizacional del Servicio de Administración de Rentas, creando la Dirección Regional Centro Sur, Dirección Regional Noroccidente, Dirección Regional Nororiente, las Direcciones de Grandes Contribuyentes, Direcciones Departamentales y Oficinas Tributarias, estableciéndoles sus sedes y jurisdicciones; dicha estructura organizativa ha sido modificada por los Acuerdos SAR-125-2018, SAR-190-2018, SAR-18-2019, SAR-222-2019, SAR-182-2021 y SAR- 354- 2021.
+
+CONSIDERANDO (14): Que el numeral 12 del Artículo 198 del Código Tributario establece como atribución de la Administración Tributaria aprobar Acuerdos para la aplicación eficiente de las disposiciones en materia tributaria, de conformidad con el Código Tributario y la Ley.
+
+POR TANTO
+
+En el uso de las facultades que la ley confiere y en aplicación de los Artículos: 255, 321 y 351 de la Constitución de la República; 15, 29, 30, 56 numeral 12, 58, 59, 63, 82, 83, 85, 136, 195, 197, 198 y 199 del Código Tributario Decreto 170-2016 y sus reformas; 116 y 118 de la Ley General de la Administración Pública.
+
+ACUERDA:
+
+PRIMERO: Clasificar a los obligados tributarios conforme a las categorías que se detallan en el Anexo que forma parte íntegra del presente Acuerdo.
+
+Los obligados tributarios que no se detallen en el Anexo que forma parte del presente acuerdo se categorizarán inicialmente como “pequeños”.
+
+SEGUNDO: Las obligaciones tributarias a las que estarán sujetos los obligados tributarios son las establecidas en el Código Tributario, leyes especiales y actos administrativos, mismas que serán socializadas por el Servicio de Administración de Rentas (SAR).
+
+TERCERO: Los obligados tributarios categorizados como “Medianos” y “Grandes” deben presentar las Declaraciones Juradas, así como las manifestaciones informativas e informes por medio de los aplicativos, plataformas, sitios u otros mecanismos electrónicos que la Administración Tributaria ponga a disposición para tal efecto, las cuales, están disponibles en el sitio web del Servicio de Administración de Rentas (www.sar.gob.hn ).
+
+El incumplimiento de las obligaciones tributarias antes mencionadas será sancionado conforme lo dispuesto en el Código Tributario y/o leyes especiales.
+
+CUARTO: Los obligados tributarios que a la fecha de entrada en vigor del presente Acuerdo tengan en curso procesos iniciados por la Administración Tributaria, incluyendo aquellos de determinación de oficio, quedan sujetos a la Dirección que inició el proceso hasta la conclusión de este según la instancia en la que se encuentren. Sin embargo, cuando se ejerciten las acciones que la ley reconoce a los obligados tributarios respecto a la impugnación de los actos administrativos, o cuando se deban ejercitar las acciones de cobro por parte de la Administración Tributaria, se debe trasladar el expediente a la Dirección que por disposición del presente Acuerdo y según el domicilio fiscal del obligado tributario tenga atribuida la jurisdicción y competencia.
+
+QUINTO: Las peticiones o los recursos administrativos que se encuentren en curso en la Administración Tributaria a la fecha de entrada en vigor del presente Acuerdo se concluirán hasta la resolución de la instancia en la que se encuentren por la Dirección que esté conociendo dicha petición o recurso. Sin embargo, cuando se ejerciten las acciones que la ley reconoce a los obligados tributarios respecto a la impugnación de los actos administrativos emitidos en primera instancia, se deberá trasladar el expediente a la Dirección que tenga atribuida la jurisdicción y la competencia según el domicilio fiscal del obligado tributario y las disposiciones del presente Acuerdo.
+
+SEXTO: En aquellos casos en que de oficio o a instancia del obligado tributario se modifique o actualice el domicilio fiscal, el conocimiento de sus asuntos tributarios se trasladará a la Dirección que por disposición del presente Acuerdo tenga atribuida la jurisdicción y la competencia. Sin embargo, las peticiones o los procedimientos que hayan iniciado y se encuentren en curso continuarán siendo conocidos por la Dirección que lo inició hasta la conclusión de la instancia en la que se encuentren. En el caso que los obligados tributarios ejerzan las acciones de impugnación reconocidas por la ley respecto de los actos administrativos que se emitan como conclusión de las peticiones o procedimientos enunciados en el presente numeral, o en aquellos casos en que se tengan que realizar las acciones de cobro correspondientes, su conocimiento corresponderá a la Dirección que, en virtud de la modificación del domicilio fiscal y el presente Acuerdo, tenga atribuida la jurisdicción y la competencia.
+
+SÉPTIMO: A la fecha de entrada en vigor del presente Acuerdo, las Direcciones deberán trasladar la cartera de cobro de obligaciones a la Dirección que en virtud del presente acuerdo tiene atribuida la jurisdicción y la competencia. En los casos que dicho procedimiento se encuentre en la etapa de cobro persuasivo, la Dirección en la cual se encuentre pendiente de pago la obligación deberá realizar las gestiones hasta la interposición de la acción judicial correspondiente, y, posterior a su interposición, trasladar el conocimiento de la gestión de cobro judicial a la Dirección que en virtud del presente Acuerdo tenga atribuida la jurisdicción y competencia.
+
+OCTAVO: En la fusión, absorción o cualquier otra forma de reorganización mercantil realizada entre obligados tributarios, para los efectos del presente Acuerdo prevalecerá la condición de aquel clasificado con mayor categoría.
+
+NOVENO: En el caso de la transferencia de las actividades mercantiles o profesionales de una persona fallecida a un tercero (sea persona natural o jurídica), éste asumirá la categoría de contribuyente de la persona fallecida. Cuando la transferencia se realice a múltiples personas, la persona que adquiera la mayor parte de los activos o, en su defecto, una mayor participación en los negocios de la persona fallecida adquirirá la categoría de contribuyente de este último.
+
+DÉCIMO: En cualquier momento y de oficio, la Dirección Ejecutiva de la Administración Tributaria o quien ésta delegue, previo a estudio técnico presentado por la Dirección Nacional de Gestión Estratégica, podrá incluir en la clasificación de mediano o gran contribuyente a aquellos que incurran en alguna de las siguientes causales:
+
+1. Que el obligado tributario calificado como pequeño o mediano contribuyente cumpla con todos los criterios objetivos indicados en el considerando número seis (6) de este Acuerdo Ejecutivo para pertenecer a la categoría de mediano o gran contribuyente.
+
+2. Encontrarse el pequeño o mediano contribuyente en un sector económico regulado por el Estado de Honduras, o estar involucrado en la gestión o administración de un proyecto de interés nacional.
+
+El nuevo estatus del mediano o gran contribuyente debe ser comunicado por escrito por parte de la Administración Tributaria.
+
+DÉCIMO PRIMERO: En cualquier momento y de oficio, la Dirección Ejecutiva de la Administración Tributaria o quien ésta delegue, previo a estudio técnico presentado por la Dirección Nacional de Gestión Estratégica, podrá retirar de la clasificación de mediano o gran contribuyente a aquellos que incurran en alguna de las siguientes causales:
+
+1. Encontrarse el mediano o gran contribuyente en proceso de disolución y liquidación de cualquiera de los tipos contemplados en la normativa hondureña.
+
+2. A causa del fallecimiento de la persona natural categorizada como mediano o gran contribuyente, existiendo obligaciones tributarias pendientes con el Estado o que las actividades mercantiles o profesionales del causante no se hayan cesado ni transferido.
+
+Las causales anteriores serán objeto de verificación por parte de la Administración Tributaria.
+
+DÉCIMO SEGUNDO: La Dirección Nacional de Cumplimiento Tributario emitirá el correspondiente instructivo que facilite la aplicación del presente Acuerdo.
+
+DÉCIMO TERCERO: Derogar el Acuerdo DEISG-043-2011 publicado en el Diario Oficial La Gaceta, número 32, 551 de fecha 25 de junio de 2011 y la Resolución DEI-SG-2028-2008.
+
+DÉCIMO CUARTO: El presente Acuerdo deberá publicarse en el Diario Oficial La Gaceta y entrará en vigencia a partir del 01 de enero del año 2023. PUBLÍQUESE. – MARLON OCHOA MARTÍNEZ DIRECTOR EJECUTIVO ALEXANDRA KARINA RIVERA MEJÍA
+
+ACUERDO DE DELEGACIÓN No. SAR-547-2019
+
+DE FECHA 18 DE DICIEMBRE 2019
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1 05019008166788
+
+GRANDE
+
+2 05029014704602
+
+GRANDE
+
+3 08019006046273
+
+GRANDE
+
+4 05019011345446
+
+GRANDE
+
+5 05019011400460
+
+GRANDE
+
+6 05019015743084
+
+GRANDE
+
+7 05019006512238
+
+GRANDE
+
+8 05019009217340
+
+GRANDE
+
+9 05029017913306
+
+GRANDE
+
+10 05029002061060
+
+GRANDE
+
+11 05119007082897
+
+GRANDE
+
+12 05019010312955
+
+GRANDE
+
+13 08019002078925
+
+GRANDE
+
+14 08019005476652
+
+GRANDE
+
+15 05019018985755
+
+GRANDE
+
+16 08019017928768
+
+GRANDE
+
+17 08019002186073
+
+GRANDE
+
+18 05019014666065
+
+GRANDE
+
+19 05029998168582
+
+GRANDE
+
+20 05019014621939
+
+GRANDE
+
+21 05019018024526
+
+GRANDE
+
+22 05019011438124
+
+GRANDE
+
+23 05069012507117
+
+GRANDE
+
+24 05019013617710
+
+GRANDE
+
+25 05029003077846
+
+GRANDE
+
+26 05019013579142
+
+GRANDE
+
+27 08019003077680
+
+GRANDE
+
+28 08019999176681
+
+GRANDE
+
+29 05029000001320
+
+GRANDE
+
+30 05019001049230
+
+GRANDE
+
+31 08019003250060
+
+GRANDE
+
+32 05019995000152
+
+GRANDE
+
+33 05019013593089
+
+GRANDE
+
+34 08109004467204
+
+GRANDE
+
+35 08019995224132
+
+GRANDE
+
+36 05029002059059
+
+GRANDE
+
+37 08019017952895
+
+GRANDE
+
+38 08029995457769
+
+GRANDE
+
+39 08019003238214
+
+GRANDE
+
+40 03019003258145
+
+GRANDE
+
+41 05019995122957
+
+GRANDE
+
+42 08019995368674
+
+GRANDE
+
+43 05019003256756
+
+GRANDE
+
+44 08019002267076
+
+GRANDE
+
+45 05019003078013
+
+GRANDE
+
+46 08019995222486
+
+GRANDE
+
+47 05019007092580
+
+GRANDE
+
+48 08019013559712
+
+GRANDE
+
+49 08019003259634
+
+GRANDE
+
+50 08019000218669
+
+GRANDE
+
+51 08019002282617
+
+GRANDE
+
+52 08019002263012
+
+GRANDE
+
+53 05019003076139
+
+GRANDE
+
+54 05019013599914
+
+GRANDE
+
+55 05019999180979
+
+GRANDE
+
+56 08019002272562
+
+GRANDE
+
+57 08019000232182
+
+GRANDE
+
+58 08019000232491
+
+GRANDE
+
+59 08019995285054
+
+GRANDE
+
+60 08019995140489
+
+GRANDE
+
+No.
+
+RTN NUEVO TAMAÑO
+
+61 08019003242474
+
+GRANDE
+
+62 05019995104427
+
+GRANDE
+
+63 08019003000364
+
+GRANDE
+
+64 05019002063180
+
+GRANDE
+
+65 08019004467912
+
+GRANDE
+
+66 05019011394936
+
+GRANDE
+
+67 08019999182543
+
+GRANDE
+
+68 08019003252404
+
+GRANDE
+
+69 08019003242452
+
+GRANDE
+
+70 05019999400238
+
+GRANDE
+
+71 08019002264186
+
+GRANDE
+
+72 01019002004766
+
+GRANDE
+
+73 08019000235234
+
+GRANDE
+
+74 05019002058599
+
+GRANDE
+
+75 05019995154451
+
+GRANDE
+
+76 05069995112391
+
+GRANDE
+
+77 18039002001811
+
+GRANDE
+
+78 08019002263115
+
+GRANDE
+
+79 03189001031228
+
+GRANDE
+
+80 05019004463363
+
+GRANDE
+
+81 05019002189273
+
+GRANDE
+
+82 05119995186650
+
+GRANDE
+
+83 08019002261403
+
+GRANDE
+
+84 08019000034536
+
+GRANDE
+
+85 08019016823371
+
+GRANDE
+
+86 01019995010749
+
+GRANDE
+
+87 08019002266884
+
+GRANDE
+
+88 08019003239881
+
+GRANDE
+
+89 05019001047518
+
+GRANDE
+
+90 05019000046793
+
+GRANDE
+
+91 08019002063319
+
+GRANDE
+
+92 08019000232230
+
+GRANDE
+
+93 08019995165598
+
+GRANDE
+
+94 05019995100212
+
+GRANDE
+
+95 08019002281440
+
+GRANDE
+
+96 08019003246690
+
+GRANDE
+
+97 08019003250081
+
+GRANDE
+
+98 08019000237299
+
+GRANDE
+
+99 08019005474642
+
+GRANDE
+
+100 08019995253766
+
+GRANDE
+
+101 04019002034889
+
+GRANDE
+
+102 05029001001448
+
+GRANDE
+
+103 13071977000616
+
+GRANDE
+
+104 05119995186899
+
+GRANDE
+
+105 08019003239610
+
+GRANDE
+
+106 06019002192105
+
+GRANDE
+
+107 05019995109062
+
+GRANDE
+
+108 08019998389463
+
+GRANDE
+
+109 05019006481226
+
+GRANDE
+
+110 16019006503174
+
+GRANDE
+
+111 05019995106150
+
+GRANDE
+
+112 01019995011846
+
+GRANDE
+
+113 05019008168467
+
+GRANDE
+
+114 18049002007031
+
+GRANDE
+
+115 05019995104574
+
+GRANDE
+
+116 08019003242485
+
+GRANDE
+
+117 08011984032898
+
+GRANDE
+
+118 08019001212425
+
+GRANDE
+
+119 08019995385798
+
+GRANDE
+
+120 16279999471354
+
+GRANDE
+
+No.
+
+RTN NUEVO TAMAÑO
+
+121 05019999176226
+
+GRANDE
+
+122 05019002186133
+
+GRANDE
+
+123 08019008128519
+
+GRANDE
+
+124 05019002186328
+
+GRANDE
+
+125 04019001048880
+
+GRANDE
+
+126 08019002267065
+
+GRANDE
+
+127 05019002439355
+
+GRANDE
+
+128 05019006482882
+
+GRANDE
+
+129 08019995352020
+
+GRANDE
+
+130 08019995104551
+
+GRANDE
+
+131 05019001047930
+
+GRANDE
+
+132 08209999400185
+
+GRANDE
+
+133 01019000044799
+
+GRANDE
+
+134 05019001056244
+
+GRANDE
+
+135 08019002262761
+
+GRANDE
+
+136 08019008153618
+
+GRANDE
+
+137 08019004011324
+
+GRANDE
+
+138 08019995301582
+
+GRANDE
+
+139 08019005013304
+
+GRANDE
+
+140 01019995008988
+
+GRANDE
+
+141 05019002064060
+
+GRANDE
+
+142 05019000047401
+
+GRANDE
+
+143 08019001230462
+
+GRANDE
+
+144 05011959001049
+
+GRANDE
+
+145 05019002061159
+
+GRANDE
+
+146 05019003077177
+
+GRANDE
+
+147 08019995344765
+
+GRANDE
+
+148 08019000236401
+
+GRANDE
+
+149 08019002281196
+
+GRANDE
+
+150 08019995108424
+
+GRANDE
+
+151 06019008128560
+
+GRANDE
+
+152 08019003087702
+
+GRANDE
+
+153 05019995140571
+
+GRANDE
+
+154 08019002282606
+
+GRANDE
+
+155 05019003076507
+
+GRANDE
+
+156 08019995293603
+
+GRANDE
+
+157 05019005480983
+
+GRANDE
+
+158 08019998381114
+
+GRANDE
+
+159 17091970004101
+
+GRANDE
+
+160 08019002282720
+
+GRANDE
+
+161 05019998181157
+
+GRANDE
+
+162 05019002057241
+
+GRANDE
+
+163 08019003256700
+
+GRANDE
+
+164 05019000040204
+
+GRANDE
+
+165 05019004012205
+
+GRANDE
+
+166 08019002274414
+
+GRANDE
+
+167 05019001185537
+
+GRANDE
+
+168 08019000237656
+
+GRANDE
+
+169 05019006476770
+
+GRANDE
+
+170 08019002272654
+
+GRANDE
+
+171 05029004009935
+
+GRANDE
+
+172 05019995107041
+
+GRANDE
+
+173 05019004014454
+
+GRANDE
+
+174 11019995417149
+
+GRANDE
+
+175 05019002266896
+
+GRANDE
+
+176 18049003003713
+
+GRANDE
+
+177 05019007086310
+
+GRANDE
+
+178 06019995194670
+
+GRANDE
+
+179 08019002268298
+
+GRANDE
+
+180 05019001444069
+
+GRANDE
+
+No.
+
+RTN NUEVO TAMAÑO
+
+181 08019007070006
+
+GRANDE
+
+182 05019995124588
+
+GRANDE
+
+183 08019002444553
+
+GRANDE
+
+184 08019000235532
+
+GRANDE
+
+185 01019007485769
+
+GRANDE
+
+186 08019002278467
+
+GRANDE
+
+187 05019001049333
+
+GRANDE
+
+188 05019002058280
+
+GRANDE
+
+189 08019002268736
+
+GRANDE
+
+190 08019998390995
+
+GRANDE
+
+191 08019000051167
+
+GRANDE
+
+192 08019002276608
+
+GRANDE
+
+193 08019995158356
+
+GRANDE
+
+194 08019015762736
+
+GRANDE
+
+195 05019995103591
+
+GRANDE
+
+196 17099002442470
+
+GRANDE
+
+197 08019998401890
+
+GRANDE
+
+198 08019016895011
+
+GRANDE
+
+199 05019995132520
+
+GRANDE
+
+200 05019000044923
+
+GRANDE
+
+201 08019002268287
+
+GRANDE
+
+202 08019001002357
+
+GRANDE
+
+203 05019002060327
+
+GRANDE
+
+204 08019002005055
+
+GRANDE
+
+205 05019003192307
+
+GRANDE
+
+206 05019001049734
+
+GRANDE
+
+207 05019995107328
+
+GRANDE
+
+208 08019012476578
+
+GRANDE
+
+209 08019002186062
+
+GRANDE
+
+210 01019995014471
+
+GRANDE
+
+211 05019999177070
+
+GRANDE
+
+212 08019002267054
+
+GRANDE
+
+213 05119998187620
+
+GRANDE
+
+214 08019995354420
+
+GRANDE
+
+215 08019006042974
+
+GRANDE
+
+216 05019995092273
+
+GRANDE
+
+217 05019001049046
+
+GRANDE
+
+218 16219002059670
+
+GRANDE
+
+219 05019003081886
+
+GRANDE
+
+220 05019009231724
+
+GRANDE
+
+221 04139995036520
+
+GRANDE
+
+222 05019995164767
+
+GRANDE
+
+223 05019995145162
+
+GRANDE
+
+224 05019998187794
+
+GRANDE
+
+225 05019002066552
+
+GRANDE
+
+226 08019002279807
+
+GRANDE
+
+227 05019005459963
+
+GRANDE
+
+228 08019011442659
+
+GRANDE
+
+229 08019011354080
+
+GRANDE
+
+230 08019999401562
+
+GRANDE
+
+231 08019997377947
+
+GRANDE
+
+232 08019001048603
+
+GRANDE
+
+233 05019001047220
+
+GRANDE
+
+234 05019995104894
+
+GRANDE
+
+235 05019995108436
+
+GRANDE
+
+236 08019005006529
+
+GRANDE
+
+237 05019003075101
+
+GRANDE
+
+238 05019008175058
+
+GRANDE
+
+239 05019000041584
+
+GRANDE
+
+240 05019002184650
+
+GRANDE
+
+No.
+
+RTN NUEVO TAMAÑO
+
+241 08019001225697
+
+GRANDE
+
+242 08019002269741
+
+GRANDE
+
+243 03019008133451
+
+GRANDE
+
+244 08019995316560
+
+GRANDE
+
+245 05019017934322
+
+GRANDE
+
+246 08019002262820
+
+GRANDE
+
+247 05019003077924
+
+GRANDE
+
+248 05019013602077
+
+GRANDE
+
+249 05019999176134
+
+GRANDE
+
+250 05069003083477
+
+GRANDE
+
+251 08019003249650
+
+GRANDE
+
+252 05019998181179
+
+GRANDE
+
+253 08019007058926
+
+GRANDE
+
+254 05019001049642
+
+GRANDE
+
+255 05019995110940
+
+GRANDE
+
+256 05019995139782
+
+GRANDE
+
+257 06019018079803
+
+GRANDE
+
+258 05119998390898
+
+GRANDE
+
+259 08019008199286
+
+GRANDE
+
+260 08019009205480
+
+GRANDE
+
+261 05019012520548
+
+GRANDE
+
+262 05019995120708
+
+GRANDE
+
+263 01019008195467
+
+GRANDE
+
+264 05019006481991
+
+GRANDE
+
+265 05019002062900
+
+GRANDE
+
+266 08019004236284
+
+GRANDE
+
+267 08019007086709
+
+GRANDE
+
+268 08029995001424
+
+GRANDE
+
+269 05019002063088
+
+GRANDE
+
+270 08019006027003
+
+GRANDE
+
+271 05019995444491
+
+GRANDE
+
+272 05019998174268
+
+GRANDE
+
+273 08019002278331
+
+GRANDE
+
+274 05019001049826
+
+GRANDE
+
+275 05019001062297
+
+GRANDE
+
+276 08019011390135
+
+GRANDE
+
+277 05119002185946
+
+GRANDE
+
+278 08019004244903
+
+GRANDE
+
+279 08019003249719
+
+GRANDE
+
+280 08019003255452
+
+GRANDE
+
+281 05019995130829
+
+GRANDE
+
+282 01019995013981
+
+GRANDE
+
+283 06079995200640
+
+GRANDE
+
+284 08019003243825
+
+GRANDE
+
+285 05019999187915
+
+GRANDE
+
+286 05019003075720
+
+GRANDE
+
+287 05019008125803
+
+GRANDE
+
+288 02091986013785
+
+GRANDE
+
+289 08019000235999
+
+GRANDE
+
+290 05019995149594
+
+GRANDE
+
+291 08019003238913
+
+GRANDE
+
+292 05019006480200
+
+GRANDE
+
+293 15019001438407
+
+GRANDE
+
+294 08029995001549
+
+GRANDE
+
+295 05019003253991
+
+GRANDE
+
+296 08019018033089
+
+GRANDE
+
+297 05019995156715
+
+GRANDE
+
+298 08019001212344
+
+GRANDE
+
+299 08019010292690
+
+GRANDE
+
+300 08019002282087
+
+GRANDE
+
+No.
+
+RTN NUEVO TAMAÑO
+
+301 08019002282661
+
+GRANDE
+
+302 05019003075167
+
+GRANDE
+
+303 05019995125733
+
+GRANDE
+
+304 05019011441357
+
+GRANDE
+
+305 08019005004302
+
+GRANDE
+
+306 01051950000722
+
+GRANDE
+
+307 05021962001378
+
+GRANDE
+
+308 05019003075134
+
+GRANDE
+
+309 08019002279851
+
+GRANDE
+
+310 08019995374374
+
+GRANDE
+
+311 18049995003408
+
+GRANDE
+
+312 08019014703843
+
+GRANDE
+
+313 08019009210038
+
+GRANDE
+
+314 08019002272573
+
+GRANDE
+
+315 05019998167195
+
+GRANDE
+
+316 08019007102928
+
+GRANDE
+
+317 05019005473443
+
+GRANDE
+
+318 05019008179402
+
+GRANDE
+
+319 06019995193805
+
+GRANDE
+
+320 05019001052029
+
+GRANDE
+
+321 05019995112137
+
+GRANDE
+
+322 05019995121757
+
+GRANDE
+
+323 18049995000106
+
+GRANDE
+
+324 08019001210985
+
+GRANDE
+
+325 05019995141360
+
+GRANDE
+
+326 05019000044706
+
+GRANDE
+
+327 05019004475325
+
+GRANDE
+
+328 08019007056607
+
+GRANDE
+
+329 08019016822881
+
+GRANDE
+
+330 08019002265640
+
+GRANDE
+
+331 05019995125700
+
+GRANDE
+
+332 08019995285444
+
+GRANDE
+
+333 05019995101754
+
+GRANDE
+
+334 08019995355619
+
+GRANDE
+
+335 05019001047253
+
+GRANDE
+
+336 08019000233110
+
+GRANDE
+
+337 05019001047297
+
+GRANDE
+
+338 08019006050710
+
+GRANDE
+
+339 02011938000904
+
+GRANDE
+
+340 08019008158724
+
+GRANDE
+
+341 08019002263089
+
+GRANDE
+
+342 14019008166750
+
+GRANDE
+
+343 05019002060485
+
+GRANDE
+
+344 08019003256906
+
+GRANDE
+
+345 05019002059619
+
+GRANDE
+
+346 06019995193286
+
+GRANDE
+
+347 08019003241046
+
+GRANDE
+
+348 05019995108079
+
+GRANDE
+
+349 03019003433347
+
+GRANDE
+
+350 05019000044740
+
+GRANDE
+
+351 05019003075741
+
+GRANDE
+
+352 05019995108892
+
+GRANDE
+
+353 08019012511854
+
+GRANDE
+
+354 05019003246738
+
+GRANDE
+
+355 08019003076436
+
+GRANDE
+
+356 08019003253865
+
+GRANDE
+
+357 05019000047423
+
+GRANDE
+
+358 05019002058603
+
+GRANDE
+
+359 08019001002850
+
+GRANDE
+
+360 05019995105730
+
+GRANDE
+
+No.
+
+RTN NUEVO TAMAÑO
+
+361 18049004011345
+
+GRANDE
+
+362 05019995190610
+
+GRANDE
+
+363 08019007056570
+
+GRANDE
+
+364 08019995238137
+
+GRANDE
+
+365 05019995149469
+
+GRANDE
+
+366 08019014622440
+
+GRANDE
+
+367 05019002058349
+
+GRANDE
+
+368 05019002058030
+
+GRANDE
+
+369 08019002261300
+
+GRANDE
+
+370 08019012495554
+
+GRANDE
+
+371 05019000233898
+
+GRANDE
+
+372 08019001210297
+
+GRANDE
+
+373 08019001212150
+
+GRANDE
+
+374 05019995136860
+
+GRANDE
+
+375 05119995190534
+
+GRANDE
+
+376 05019001048501
+
+GRANDE
+
+377 08019998385720
+
+GRANDE
+
+378 08029995001560
+
+GRANDE
+
+379 08019017927373
+
+GRANDE
+
+380 08019016842873
+
+GRANDE
+
+381 05019015726236
+
+GRANDE
+
+382 05019995159167
+
+GRANDE
+
+383 08019000235473
+
+GRANDE
+
+384 08019005000197
+
+GRANDE
+
+385 05019001049940
+
+GRANDE
+
+386 05019995120237
+
+GRANDE
+
+387 05019000042501
+
+GRANDE
+
+388 05019019184653
+
+GRANDE
+
+389 08019000233420
+
+GRANDE
+
+390 08019001050007
+
+GRANDE
+
+391 08019999406510
+
+GRANDE
+
+392 08019002278310
+
+GRANDE
+
+393 03189011348120
+
+GRANDE
+
+394 08019995291567
+
+GRANDE
+
+395 08019995444479
+
+GRANDE
+
+396 05019004013986
+
+GRANDE
+
+397 08019001212826
+
+GRANDE
+
+398 08019002419307
+
+GRANDE
+
+399 05019001055526
+
+GRANDE
+
+400 08019995337247
+
+GRANDE
+
+401 18049009205169
+
+GRANDE
+
+402 05019998390919
+
+GRANDE
+
+403 08019009241075
+
+GRANDE
+
+404 05019003076780
+
+GRANDE
+
+405 08019017897285
+
+GRANDE
+
+406 05019000040903
+
+GRANDE
+
+407 11019001419930
+
+GRANDE
+
+408 08019998404611
+
+GRANDE
+
+409 08019998387990
+
+GRANDE
+
+410 08019007507626
+
+GRANDE
+
+411 08019998393944
+
+GRANDE
+
+412 08019015726084
+
+GRANDE
+
+413 08019005005580
+
+GRANDE
+
+414 08019005011533
+
+GRANDE
+
+415 05019004091131
+
+GRANDE
+
+416 18049011413826
+
+GRANDE
+
+417 05019995155489
+
+GRANDE
+
+418 05019001048762
+
+GRANDE
+
+419 05019012453664
+
+GRANDE
+
+420 08019007101680
+
+GRANDE
+
+No.
+
+RTN NUEVO TAMAÑO
+
+421 05019001061730
+
+GRANDE
+
+422 08019001212790
+
+GRANDE
+
+423 08019013567536
+
+GRANDE
+
+424 08019011358560
+
+GRANDE
+
+425 05019995140619
+
+GRANDE
+
+426 05019000045505
+
+GRANDE
+
+427 05019999176730
+
+GRANDE
+
+428 08019003251042
+
+GRANDE
+
+429 05019001061693
+
+GRANDE
+
+430 08019003257473
+
+GRANDE
+
+431 05019002063228
+
+GRANDE
+
+432 05019995109143
+
+GRANDE
+
+433 08019015808195
+
+GRANDE
+
+434 08019002276928
+
+GRANDE
+
+435 05019002060030
+
+GRANDE
+
+436 08019006475499
+
+GRANDE
+
+437 08019011419180
+
+GRANDE
+
+438 05019013587356
+
+GRANDE
+
+439 05019995149734
+
+GRANDE
+
+440 05019999180968
+
+GRANDE
+
+441 08019006044171
+
+GRANDE
+
+442 05019004001204
+
+GRANDE
+
+443 08019001211615
+
+GRANDE
+
+444 08019006050044
+
+GRANDE
+
+445 08019000216486
+
+GRANDE
+
+446 05019995113017
+
+GRANDE
+
+447 05019011426232
+
+GRANDE
+
+448 05019005459816
+
+GRANDE
+
+449 05019010270861
+
+GRANDE
+
+450 05119015752080
+
+GRANDE
+
+451 05019003077968
+
+GRANDE
+
+452 05019995143200
+
+GRANDE
+
+453 05019003077155
+
+GRANDE
+
+454 08019001047274
+
+GRANDE
+
+455 08019003243799
+
+GRANDE
+
+456 11019008163996
+
+GRANDE
+
+457 05019007058489
+
+GRANDE
+
+458 05019998170579
+
+GRANDE
+
+459 08019004011298
+
+GRANDE
+
+460 08019010280190
+
+GRANDE
+
+461 08019015719758
+
+GRANDE
+
+462 05019998168616
+
+GRANDE
+
+463 05019995128965
+
+GRANDE
+
+464 08019007119054
+
+GRANDE
+
+465 05059001047883
+
+GRANDE
+
+466 11019995026000
+
+GRANDE
+
+467 11019005483240
+
+GRANDE
+
+468 18011968004732
+
+GRANDE
+
+469 08019999410656
+
+GRANDE
+
+470 05019006501650
+
+GRANDE
+
+471 08019012489615
+
+GRANDE
+
+472 01019995010429
+
+GRANDE
+
+473 03019013558072
+
+GRANDE
+
+474 08019002278423
+
+GRANDE
+
+475 08019019150221
+
+GRANDE
+
+476 08019008187660
+
+GRANDE
+
+477 05019002060588
+
+GRANDE
+
+478 08019995384543
+
+GRANDE
+
+479 08019008134263
+
+GRANDE
+
+480 08019003260136
+
+GRANDE
+
+No.
+
+RTN NUEVO TAMAÑO
+
+481 08019000214947
+
+GRANDE
+
+482 01019002004825
+
+GRANDE
+
+483 05019010316986
+
+GRANDE
+
+484 05019018987490
+
+GRANDE
+
+485 08019999402924
+
+GRANDE
+
+486 08019008185410
+
+GRANDE
+
+487 08019002267043
+
+GRANDE
+
+488 01079995019069
+
+GRANDE
+
+489 08019995158551
+
+GRANDE
+
+490 05019006507142
+
+GRANDE
+
+491 08019006035560
+
+GRANDE
+
+492 08019016893722
+
+GRANDE
+
+493 08019004471131
+
+GRANDE
+
+494 05019999178773
+
+GRANDE
+
+495 05019002057620
+
+GRANDE
+
+496 08019995286070
+
+GRANDE
+
+497 08019995361904
+
+GRANDE
+
+498 08019010313915
+
+GRANDE
+
+499 08019014687142
+
+GRANDE
+
+500 08019998174109
+
+GRANDE
+
+501 08019003247455
+
+GRANDE
+
+502 01019009254335
+
+GRANDE
+
+503 05019005474908
+
+GRANDE
+
+504 01019995010679
+
+GRANDE
+
+505 08019995340414
+
+GRANDE
+
+506 01019011386392
+
+GRANDE
+
+507 08019995300029
+
+GRANDE
+
+508 05019995093852
+
+GRANDE
+
+509 05019005474367
+
+GRANDE
+
+510 08019003258261
+
+GRANDE
+
+511 05019001050144
+
+GRANDE
+
+512 05019007082480
+
+GRANDE
+
+513 08019998414240
+
+GRANDE
+
+514 05019016851410
+
+GRANDE
+
+515 05019001048902
+
+GRANDE
+
+516 08019995368858
+
+GRANDE
+
+517 08019999401481
+
+GRANDE
+
+518 05019995116260
+
+GRANDE
+
+519 05119011350374
+
+GRANDE
+
+520 08019014681123
+
+GRANDE
+
+521 05019002057377
+
+GRANDE
+
+522 08019001268218
+
+GRANDE
+
+523 08019003077717
+
+GRANDE
+
+524 05019002059755
+
+GRANDE
+
+525 08019013549808
+
+GRANDE
+
+526 05019995108263
+
+GRANDE
+
+527 08019000237277
+
+GRANDE
+
+528 05019995107604
+
+GRANDE
+
+529 05019006505739
+
+GRANDE
+
+530 07039001202509
+
+GRANDE
+
+531 08019014699549
+
+GRANDE
+
+532 08019008171894
+
+GRANDE
+
+533 05019998168693
+
+GRANDE
+
+534 08019012515290
+
+GRANDE
+
+535 05019016847741
+
+GRANDE
+
+536 08019001210025
+
+GRANDE
+
+537 05019000051124
+
+GRANDE
+
+538 05019013555299
+
+GRANDE
+
+539 05019995115667
+
+GRANDE
+
+540 08019002275555
+
+GRANDE
+
+No.
+
+RTN NUEVO TAMAÑO
+
+541 05019001049610
+
+GRANDE
+
+542 05019003084607
+
+GRANDE
+
+543 05019995109809
+
+GRANDE
+
+544 08019002278640
+
+GRANDE
+
+545 08019003242463
+
+GRANDE
+
+546 03189006032822
+
+GRANDE
+
+547 07039002202317
+
+GRANDE
+
+548 05019001048339
+
+GRANDE
+
+549 05019999182382
+
+GRANDE
+
+550 08019002265630
+
+GRANDE
+
+551 05019008162919
+
+GRANDE
+
+552 08019010275885
+
+GRANDE
+
+553 05129002061042
+
+GRANDE
+
+554 05019012463075
+
+GRANDE
+
+555 05019008128233
+
+GRANDE
+
+556 08019002264083
+
+GRANDE
+
+557 08019004467750
+
+GRANDE
+
+558 08019009208575
+
+GRANDE
+
+559 05019995119481
+
+GRANDE
+
+560 05019995126896
+
+GRANDE
+
+561 05019002064370
+
+GRANDE
+
+562 11019995424884
+
+GRANDE
+
+563 05019003076573
+
+GRANDE
+
+564 05019002074321
+
+GRANDE
+
+565 05019017979011
+
+GRANDE
+
+566 08019995368402
+
+GRANDE
+
+567 08019003249524
+
+GRANDE
+
+568 05019995097060
+
+GRANDE
+
+569 08019000234446
+
+GRANDE
+
+570 08019018989980
+
+GRANDE
+
+571 08019003251010
+
+GRANDE
+
+572 05019019108904
+
+GRANDE
+
+573 05019015717598
+
+GRANDE
+
+574 08019000235679
+
+GRANDE
+
+575 08019015791134
+
+GRANDE
+
+576 08019995252121
+
+GRANDE
+
+577 05019015788038
+
+GRANDE
+
+578 08019006016642
+
+GRANDE
+
+579 05019017928107
+
+GRANDE
+
+580 08019007088134
+
+GRANDE
+
+581 05019007073684
+
+GRANDE
+
+582 05019008136734
+
+GRANDE
+
+583 05019998171025
+
+GRANDE
+
+584 08019999404853
+
+GRANDE
+
+585 08019001226728
+
+GRANDE
+
+586 18079017982880
+
+GRANDE
+
+587 05019014652196
+
+GRANDE
+
+588 08019000236364
+
+GRANDE
+
+589 08019002280228
+
+GRANDE
+
+590 08019003248130
+
+GRANDE
+
+591 05019995161259
+
+GRANDE
+
+592 18049009260256
+
+GRANDE
+
+593 05019015748558
+
+GRANDE
+
+594 08019998391165
+
+GRANDE
+
+595 08019001230793
+
+GRANDE
+
+596 05019999178843
+
+GRANDE
+
+597 06019015768178
+
+GRANDE
+
+598 08019995297921
+
+GRANDE
+
+599 05019003186331
+
+GRANDE
+
+600 08019005006128
+
+GRANDE
+
+No.
+
+RTN NUEVO TAMAÑO
+
+601 08019007063610
+
+GRANDE
+
+602 08019015714870
+
+GRANDE
+
+603 05019011365552
+
+GRANDE
+
+604 08019995355148
+
+GRANDE
+
+605 05019002059983
+
+GRANDE
+
+606 08019995302977
+
+GRANDE
+
+607 05019012452876
+
+GRANDE
+
+608 08019001225837
+
+GRANDE
+
+609 05019995099172
+
+GRANDE
+
+610 08019006461038
+
+GRANDE
+
+611 05019998425160
+
+GRANDE
+
+612 08019006022445
+
+GRANDE
+
+613 08019007098380
+
+GRANDE
+
+614 08019007067160
+
+GRANDE
+
+615 05019001062253
+
+GRANDE
+
+616 08019995362817
+
+GRANDE
+
+617 08019003257278
+
+GRANDE
+
+618 05019008141587
+
+GRANDE
+
+619 05019995128071
+
+GRANDE
+
+620 08019013603405
+
+GRANDE
+
+621 08019017926633
+
+GRANDE
+
+622 08019003239723
+
+GRANDE
+
+623 08019018056280
+
+GRANDE
+
+624 08019000236240
+
+GRANDE
+
+625 08019009247142
+
+GRANDE
+
+626 05019995117736
+
+GRANDE
+
+627 05019006484425
+
+GRANDE
+
+628 01019995011880
+
+GRANDE
+
+629 08019011426687
+
+GRANDE
+
+630 08019005013451
+
+GRANDE
+
+631 08019999401687
+
+GRANDE
+
+632 08019003239583
+
+GRANDE
+
+633 08019019087975
+
+GRANDE
+
+634 08019006023612
+
+GRANDE
+
+635 08019002269980
+
+GRANDE
+
+636 08019003241171
+
+GRANDE
+
+637 08019002262794
+
+GRANDE
+
+638 08019000235223
+
+GRANDE
+
+639 08019018048261
+
+GRANDE
+
+640 08019000214627
+
+GRANDE
+
+641 05019995147687
+
+GRANDE
+
+642 05019008185065
+
+GRANDE
+
+643 08019003203554
+
+GRANDE
+
+644 08019005004920
+
+GRANDE
+
+645 08019012507009
+
+GRANDE
+
+646 08019001211854
+
+GRANDE
+
+647 08019999401963
+
+GRANDE
+
+648 08019001010722
+
+GRANDE
+
+649 05019003075785
+
+GRANDE
+
+650 08019009227757
+
+GRANDE
+
+651 05019002057756
+
+GRANDE
+
+652 08019012457157
+
+GRANDE
+
+653 05019004461158
+
+GRANDE
+
+654 08019995297428
+
+GRANDE
+
+655 08019995221849
+
+GRANDE
+
+656 05019000045402
+
+GRANDE
+
+657 08019007097170
+
+GRANDE
+
+658 01019995012472
+
+GRANDE
+
+659 08019014704388
+
+GRANDE
+
+660 08019995304575
+
+GRANDE
+
+No.
+
+RTN NUEVO TAMAÑO
+
+661 08039003001342
+
+GRANDE
+
+662 05019002060875
+
+GRANDE
+
+663 08019010328190
+
+GRANDE
+
+664 08019002274080
+
+GRANDE
+
+665 05019011417815
+
+GRANDE
+
+666 08019002268313
+
+GRANDE
+
+667 05019007085359
+
+GRANDE
+
+668 05019012493111
+
+GRANDE
+
+669 05019995336840
+
+GRANDE
+
+670 05019005461507
+
+GRANDE
+
+671 05019007052562
+
+GRANDE
+
+672 08019015752052
+
+GRANDE
+
+673 05019003075800
+
+GRANDE
+
+674 05019013579326
+
+GRANDE
+
+675 08019006477237
+
+GRANDE
+
+676 05119995283911
+
+GRANDE
+
+677 08019000232745
+
+GRANDE
+
+678 08019998380808
+
+GRANDE
+
+679 08019995332222
+
+GRANDE
+
+680 08019003255290
+
+GRANDE
+
+681 05019016888693
+
+GRANDE
+
+682 08019009256497
+
+GRANDE
+
+683 08019003076826
+
+GRANDE
+
+684 08019001273840
+
+GRANDE
+
+685 05019013546698
+
+GRANDE
+
+686 08019003077614
+
+GRANDE
+
+687 07041959004775
+
+GRANDE
+
+688 05019001049870
+
+GRANDE
+
+689 08019008151230
+
+GRANDE
+
+690 08019000235565
+
+GRANDE
+
+691 05019995094765
+
+GRANDE
+
+692 08019005475018
+
+GRANDE
+
+693 08019995338642
+
+GRANDE
+
+694 05019002066026
+
+GRANDE
+
+695 03019014649350
+
+GRANDE
+
+696 08019006045831
+
+GRANDE
+
+697 18049001003902
+
+GRANDE
+
+698 08019998378495
+
+GRANDE
+
+699 05019012447699
+
+GRANDE
+
+700 08019003251432
+
+GRANDE
+
+701 08019002267146
+
+GRANDE
+
+702 05019010280228
+
+GRANDE
+
+703 08019998388425
+
+GRANDE
+
+704 01019004004864
+
+GRANDE
+
+705 08019007117397
+
+GRANDE
+
+706 08019011444018
+
+GRANDE
+
+707 08019003245570
+
+GRANDE
+
+708 08019995288930
+
+GRANDE
+
+709 05019001047210
+
+GRANDE
+
+710 05019003081452
+
+GRANDE
+
+711 05019010272643
+
+GRANDE
+
+712 08019016841261
+
+GRANDE
+
+713 08019013598481
+
+GRANDE
+
+714 08019012510702
+
+GRANDE
+
+715 18049012499573
+
+GRANDE
+
+716 08019002269866
+
+GRANDE
+
+717 08019000234089
+
+GRANDE
+
+718 08019006048239
+
+GRANDE
+
+719 05019014656698
+
+GRANDE
+
+720 08019003256777
+
+GRANDE
+
+No.
+
+RTN NUEVO TAMAÑO
+
+721 08019995351275
+
+GRANDE
+
+722 11019020191798
+
+MEDIANO
+
+723 08019995020084
+
+MEDIANO
+
+724 08019016853521
+
+MEDIANO
+
+725 05019000045571
+
+MEDIANO
+
+726 08019995375287
+
+MEDIANO
+
+727 08019012506975
+
+MEDIANO
+
+728 05069000043830
+
+MEDIANO
+
+729 16189012479757
+
+MEDIANO
+
+730 08019008172741
+
+MEDIANO
+
+731 08019018031860
+
+MEDIANO
+
+732 08019002274160
+
+MEDIANO
+
+733 08029003001372
+
+MEDIANO
+
+734 08019999406565
+
+MEDIANO
+
+735 08019999408461
+
+MEDIANO
+
+736 05019010320025
+
+MEDIANO
+
+737 08019998394272
+
+MEDIANO
+
+738 02099011369060
+
+MEDIANO
+
+739 08019001212745
+
+MEDIANO
+
+740 08019008151696
+
+MEDIANO
+
+741 05019009211125
+
+MEDIANO
+
+742 08019002279840
+
+MEDIANO
+
+743 11019014631194
+
+MEDIANO
+
+744 05019995093760
+
+MEDIANO
+
+745 05019998180314
+
+MEDIANO
+
+746 08019000232790
+
+MEDIANO
+
+747 08019995366583
+
+MEDIANO
+
+748 05019995134757
+
+MEDIANO
+
+749 08019002272632
+
+MEDIANO
+
+750 08019995307719
+
+MEDIANO
+
+751 08019004012719
+
+MEDIANO
+
+752 08019995288702
+
+MEDIANO
+
+753 08019995332027
+
+MEDIANO
+
+754 18049995000492
+
+MEDIANO
+
+755 05019002057436
+
+MEDIANO
+
+756 06079002200780
+
+MEDIANO
+
+757 08019999409146
+
+MEDIANO
+
+758 05019995160427
+
+MEDIANO
+
+759 05019011348233
+
+MEDIANO
+
+760 05019995097508
+
+MEDIANO
+
+761 05019995098800
+
+MEDIANO
+
+762 08019995337464
+
+MEDIANO
+
+763 08019002277061
+
+MEDIANO
+
+764 08019011395804
+
+MEDIANO
+
+765 05019014673480
+
+MEDIANO
+
+766 08019995304119
+
+MEDIANO
+
+767 05019003184722
+
+MEDIANO
+
+768 05019999182522
+
+MEDIANO
+
+769 05019001054896
+
+MEDIANO
+
+770 05019017949295
+
+MEDIANO
+
+771 05019003079566
+
+MEDIANO
+
+772 05019003078193
+
+MEDIANO
+
+773 05019012484944
+
+MEDIANO
+
+774 05019015737307
+
+MEDIANO
+
+775 08019016850804
+
+MEDIANO
+
+776 05011934013269
+
+MEDIANO
+
+777 05019014667026
+
+MEDIANO
+
+778 08019006042676
+
+MEDIANO
+
+779 05019008179825
+
+MEDIANO
+
+780 08019012527192
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+781 08019002268346
+
+MEDIANO
+
+782 08019014698739
+
+MEDIANO
+
+783 08019995359308
+
+MEDIANO
+
+784 01019995010109
+
+MEDIANO
+
+785 05019006482595
+
+MEDIANO
+
+786 08019013555048
+
+MEDIANO
+
+787 08019012525344
+
+MEDIANO
+
+788 05069004474243
+
+MEDIANO
+
+789 08019002265537
+
+MEDIANO
+
+790 08019006018126
+
+MEDIANO
+
+791 08019995336194
+
+MEDIANO
+
+792 05019007077708
+
+MEDIANO
+
+793 08019002270130
+
+MEDIANO
+
+794 08019006040195
+
+MEDIANO
+
+795 05019003086591
+
+MEDIANO
+
+796 08019015715256
+
+MEDIANO
+
+797 01019001004384
+
+MEDIANO
+
+798 05019999178821
+
+MEDIANO
+
+799 08019002277256
+
+MEDIANO
+
+800 05019011344875
+
+MEDIANO
+
+801 08019995387503
+
+MEDIANO
+
+802 08019002057836
+
+MEDIANO
+
+803 08019003089940
+
+MEDIANO
+
+804 08019015806038
+
+MEDIANO
+
+805 11019011436142
+
+MEDIANO
+
+806 06019995194578
+
+MEDIANO
+
+807 08019005459399
+
+MEDIANO
+
+808 08019010333697
+
+MEDIANO
+
+809 05019001048795
+
+MEDIANO
+
+810 05019001061785
+
+MEDIANO
+
+811 08019009266390
+
+MEDIANO
+
+812 08019014663347
+
+MEDIANO
+
+813 08019007075616
+
+MEDIANO
+
+814 08019018001676
+
+MEDIANO
+
+815 08019012452750
+
+MEDIANO
+
+816 08019014695827
+
+MEDIANO
+
+817 08019013569752
+
+MEDIANO
+
+818 05019999177908
+
+MEDIANO
+
+819 05019002265663
+
+MEDIANO
+
+820 08019000237715
+
+MEDIANO
+
+821 05019999178340
+
+MEDIANO
+
+822 08019008140240
+
+MEDIANO
+
+823 08019019125898
+
+MEDIANO
+
+824 05019016821410
+
+MEDIANO
+
+825 08019011374417
+
+MEDIANO
+
+826 05019003077340
+
+MEDIANO
+
+827 08019005459984
+
+MEDIANO
+
+828 08019007106775
+
+MEDIANO
+
+829 08019003241892
+
+MEDIANO
+
+830 08019003248302
+
+MEDIANO
+
+831 08019008131741
+
+MEDIANO
+
+832 08019000231913
+
+MEDIANO
+
+833 08019014692032
+
+MEDIANO
+
+834 08019017956312
+
+MEDIANO
+
+835 08019003243858
+
+MEDIANO
+
+836 05019009204935
+
+MEDIANO
+
+837 08019002276505
+
+MEDIANO
+
+838 05019002066298
+
+MEDIANO
+
+839 05019001048578
+
+MEDIANO
+
+840 08019003243961
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+841 05019012532760
+
+MEDIANO
+
+842 05019000040178
+
+MEDIANO
+
+843 05019010310566
+
+MEDIANO
+
+844 08019011355533
+
+MEDIANO
+
+845 08019015735605
+
+MEDIANO
+
+846 08019006032588
+
+MEDIANO
+
+847 08019004014270
+
+MEDIANO
+
+848 08019014686240
+
+MEDIANO
+
+849 08019003238270
+
+MEDIANO
+
+850 08019000215893
+
+MEDIANO
+
+851 08019002067111
+
+MEDIANO
+
+852 08019005472415
+
+MEDIANO
+
+853 08019995284049
+
+MEDIANO
+
+854 05019012468803
+
+MEDIANO
+
+855 05019001053207
+
+MEDIANO
+
+856 08019010339661
+
+MEDIANO
+
+857 05019007117891
+
+MEDIANO
+
+858 08019003255338
+
+MEDIANO
+
+859 08019001444506
+
+MEDIANO
+
+860 05019995115690
+
+MEDIANO
+
+861 08019003239609
+
+MEDIANO
+
+862 08019016871168
+
+MEDIANO
+
+863 08019011412075
+
+MEDIANO
+
+864 05019009247338
+
+MEDIANO
+
+865 05019005459779
+
+MEDIANO
+
+866 05019002067947
+
+MEDIANO
+
+867 05019995148773
+
+MEDIANO
+
+868 08019002276983
+
+MEDIANO
+
+869 08019017900909
+
+MEDIANO
+
+870 05019001049366
+
+MEDIANO
+
+871 17099010303801
+
+MEDIANO
+
+872 05019014663326
+
+MEDIANO
+
+873 08019005002439
+
+MEDIANO
+
+874 08019998382211
+
+MEDIANO
+
+875 05019001056943
+
+MEDIANO
+
+876 08019012465030
+
+MEDIANO
+
+877 08019003249605
+
+MEDIANO
+
+878 08019995390677
+
+MEDIANO
+
+879 08019003248081
+
+MEDIANO
+
+880 05019000044717
+
+MEDIANO
+
+881 08019016834122
+
+MEDIANO
+
+882 08019001211980
+
+MEDIANO
+
+883 08019012445574
+
+MEDIANO
+
+884 08019002260980
+
+MEDIANO
+
+885 05019002060761
+
+MEDIANO
+
+886 08019003251101
+
+MEDIANO
+
+887 08019009252135
+
+MEDIANO
+
+888 05019014639964
+
+MEDIANO
+
+889 05019005477670
+
+MEDIANO
+
+890 08019003241528
+
+MEDIANO
+
+891 05019014647273
+
+MEDIANO
+
+892 08019995303000
+
+MEDIANO
+
+893 05019005473476
+
+MEDIANO
+
+894 05019014680211
+
+MEDIANO
+
+895 08019010286761
+
+MEDIANO
+
+896 01019016842022
+
+MEDIANO
+
+897 08019995109017
+
+MEDIANO
+
+898 05029008183460
+
+MEDIANO
+
+899 08019013565022
+
+MEDIANO
+
+900 08019003255382
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+901 04019002010730
+
+MEDIANO
+
+902 08019002265515
+
+MEDIANO
+
+903 08019014685187
+
+MEDIANO
+
+904 01019008173042
+
+MEDIANO
+
+905 05019011422793
+
+MEDIANO
+
+906 08019015770148
+
+MEDIANO
+
+907 08019011358272
+
+MEDIANO
+
+908 08017008000778
+
+MEDIANO
+
+909 08019000235131
+
+MEDIANO
+
+910 06011969023681
+
+MEDIANO
+
+911 02099016884746
+
+MEDIANO
+
+912 08019995457858
+
+MEDIANO
+
+913 08019998386779
+
+MEDIANO
+
+914 05019999177345
+
+MEDIANO
+
+915 08019008169839
+
+MEDIANO
+
+916 08019998399378
+
+MEDIANO
+
+917 05019003085299
+
+MEDIANO
+
+918 08019002264234
+
+MEDIANO
+
+919 08019995354360
+
+MEDIANO
+
+920 05019002073073
+
+MEDIANO
+
+921 08019016820919
+
+MEDIANO
+
+922 03019000044953
+
+MEDIANO
+
+923 08019013611001
+
+MEDIANO
+
+924 08019995284781
+
+MEDIANO
+
+925 08019995368104
+
+MEDIANO
+
+926 08019005468200
+
+MEDIANO
+
+927 05019007084332
+
+MEDIANO
+
+928 08019019160283
+
+MEDIANO
+
+929 05019001049344
+
+MEDIANO
+
+930 08019998380819
+
+MEDIANO
+
+931 08019995342939
+
+MEDIANO
+
+932 05019007055073
+
+MEDIANO
+
+933 06029995442848
+
+MEDIANO
+
+934 08019995373715
+
+MEDIANO
+
+935 05019001049664
+
+MEDIANO
+
+936 08019004487076
+
+MEDIANO
+
+937 05019000040112
+
+MEDIANO
+
+938 08019005475187
+
+MEDIANO
+
+939 08019016840175
+
+MEDIANO
+
+940 05019019117479
+
+MEDIANO
+
+941 05069001047110
+
+MEDIANO
+
+942 08019003254274
+
+MEDIANO
+
+943 05019002057826
+
+MEDIANO
+
+944 08019002266921
+
+MEDIANO
+
+945 08019003022491
+
+MEDIANO
+
+946 08019014674830
+
+MEDIANO
+
+947 08901979026740
+
+MEDIANO
+
+948 08019003252507
+
+MEDIANO
+
+949 08011953047423
+
+MEDIANO
+
+950 05019005459768
+
+MEDIANO
+
+951 08019003000342
+
+MEDIANO
+
+952 08019001211670
+
+MEDIANO
+
+953 04059999016806
+
+MEDIANO
+
+954 08019016823555
+
+MEDIANO
+
+955 05019012446525
+
+MEDIANO
+
+956 08019007065333
+
+MEDIANO
+
+957 05011976067928
+
+MEDIANO
+
+958 05019013550285
+
+MEDIANO
+
+959 08019013544117
+
+MEDIANO
+
+960 08019999407456
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+961 05019016826825
+
+MEDIANO
+
+962 05019002067373
+
+MEDIANO
+
+963 09019995426791
+
+MEDIANO
+
+964 08019995359959
+
+MEDIANO
+
+965 08019005005384
+
+MEDIANO
+
+966 08019016834052
+
+MEDIANO
+
+967 05019002067395
+
+MEDIANO
+
+968 08019017980586
+
+MEDIANO
+
+969 08019013578180
+
+MEDIANO
+
+970 08019003253902
+
+MEDIANO
+
+971 08019005459425
+
+MEDIANO
+
+972 08019016823923
+
+MEDIANO
+
+973 05019002058202
+
+MEDIANO
+
+974 05019000040833
+
+MEDIANO
+
+975 03189003031852
+
+MEDIANO
+
+976 08019008130200
+
+MEDIANO
+
+977 01059004468019
+
+MEDIANO
+
+978 05019020240433
+
+MEDIANO
+
+979 05019002058084
+
+MEDIANO
+
+980 05019002060864
+
+MEDIANO
+
+981 05019013599010
+
+MEDIANO
+
+982 05019001049193
+
+MEDIANO
+
+983 08019011443940
+
+MEDIANO
+
+984 02099008140037
+
+MEDIANO
+
+985 08019995309898
+
+MEDIANO
+
+986 07039002202100
+
+MEDIANO
+
+987 05019006477591
+
+MEDIANO
+
+988 01011969012943
+
+MEDIANO
+
+989 05029002059048
+
+MEDIANO
+
+990 08019002260773
+
+MEDIANO
+
+991 08019002265835
+
+MEDIANO
+
+992 02099003025087
+
+MEDIANO
+
+993 08019019085509
+
+MEDIANO
+
+994 01019007508898
+
+MEDIANO
+
+995 08011975206706
+
+MEDIANO
+
+996 05119002185898
+
+MEDIANO
+
+997 08019002001860
+
+MEDIANO
+
+998 05019007086684
+
+MEDIANO
+
+999 06019010283055
+
+MEDIANO
+
+1,000 08019995287101
+
+MEDIANO
+
+1,001 08019011443951
+
+MEDIANO
+
+1,002 07039003207768
+
+MEDIANO
+
+1,003 06019995193014
+
+MEDIANO
+
+1,004 05019004472961
+
+MEDIANO
+
+1,005 02099002024230
+
+MEDIANO
+
+1,006 08019002062807
+
+MEDIANO
+
+1,007 01019004004132
+
+MEDIANO
+
+1,008 05011957023490
+
+MEDIANO
+
+1,009 05019002059777
+
+MEDIANO
+
+1,010 05019014629980
+
+MEDIANO
+
+1,011 08019019171663
+
+MEDIANO
+
+1,012 08019012528348
+
+MEDIANO
+
+1,013 05019002073566
+
+MEDIANO
+
+1,014 08019014653086
+
+MEDIANO
+
+1,015 05019004006321
+
+MEDIANO
+
+1,016 05019995165154
+
+MEDIANO
+
+1,017 08011956038279
+
+MEDIANO
+
+1,018 04011977013784
+
+MEDIANO
+
+1,019 05019995156244
+
+MEDIANO
+
+1,020 05019002062613
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,021 05019010314509
+
+MEDIANO
+
+1,022 11019006018501
+
+MEDIANO
+
+1,023 05019005474930
+
+MEDIANO
+
+1,024 05019012448866
+
+MEDIANO
+
+1,025 05019001047849
+
+MEDIANO
+
+1,026 08019995330874
+
+MEDIANO
+
+1,027 05019016891210
+
+MEDIANO
+
+1,028 14131973002669
+
+MEDIANO
+
+1,029 05019013612603
+
+MEDIANO
+
+1,030 08019011403912
+
+MEDIANO
+
+1,031 08019002278342
+
+MEDIANO
+
+1,032 05019002063147
+
+MEDIANO
+
+1,033 05019004475336
+
+MEDIANO
+
+1,034 14011978003884
+
+MEDIANO
+
+1,035 01079003000470
+
+MEDIANO
+
+1,036 05019017904183
+
+MEDIANO
+
+1,037 08019998388480
+
+MEDIANO
+
+1,038 05019007063769
+
+MEDIANO
+
+1,039 05019995154668
+
+MEDIANO
+
+1,040 05081964002396
+
+MEDIANO
+
+1,041 11019995428665
+
+MEDIANO
+
+1,042 14011975002046
+
+MEDIANO
+
+1,043 08019016827575
+
+MEDIANO
+
+1,044 13171969000059
+
+MEDIANO
+
+1,045 11011956002280
+
+MEDIANO
+
+1,046 08019999406576
+
+MEDIANO
+
+1,047 01019995012737
+
+MEDIANO
+
+1,048 05019004460407
+
+MEDIANO
+
+1,049 05011976097397
+
+MEDIANO
+
+1,050 05019004010857
+
+MEDIANO
+
+1,051 05019004091175
+
+MEDIANO
+
+1,052 05081965002068
+
+MEDIANO
+
+1,053 08019999408288
+
+MEDIANO
+
+1,054 05019995138994
+
+MEDIANO
+
+1,055 05019001049539
+
+MEDIANO
+
+1,056 08019013593949
+
+MEDIANO
+
+1,057 05019995100006
+
+MEDIANO
+
+1,058 05019008166803
+
+MEDIANO
+
+1,059 05019995135968
+
+MEDIANO
+
+1,060 05011961037611
+
+MEDIANO
+
+1,061 02089995023067
+
+MEDIANO
+
+1,062 08019007119797
+
+MEDIANO
+
+1,063 08019010302811
+
+MEDIANO
+
+1,064 01019995013010
+
+MEDIANO
+
+1,065 15031957000159
+
+MEDIANO
+
+1,066 18021972000654
+
+MEDIANO
+
+1,067 05019002060419
+
+MEDIANO
+
+1,068 08019003185461
+
+MEDIANO
+
+1,069 08019016874286
+
+MEDIANO
+
+1,070 08019999402946
+
+MEDIANO
+
+1,071 05019008132368
+
+MEDIANO
+
+1,072 08019995295109
+
+MEDIANO
+
+1,073 04191953000975
+
+MEDIANO
+
+1,074 08019995193933
+
+MEDIANO
+
+1,075 08011974060540
+
+MEDIANO
+
+1,076 16139008180574
+
+MEDIANO
+
+1,077 13011963004336
+
+MEDIANO
+
+1,078 04019009264363
+
+MEDIANO
+
+1,079 05019002058978
+
+MEDIANO
+
+1,080 05019998173609
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,081 07041957002830
+
+MEDIANO
+
+1,082 08019007101073
+
+MEDIANO
+
+1,083 05019012484690
+
+MEDIANO
+
+1,084 05019995146432
+
+MEDIANO
+
+1,085 08019014652791
+
+MEDIANO
+
+1,086 08019002267010
+
+MEDIANO
+
+1,087 05019002072470
+
+MEDIANO
+
+1,088 08019003247308
+
+MEDIANO
+
+1,089 08019000234479
+
+MEDIANO
+
+1,090 08019002062818
+
+MEDIANO
+
+1,091 05019005473112
+
+MEDIANO
+
+1,092 08019000235510
+
+MEDIANO
+
+1,093 05019999426098
+
+MEDIANO
+
+1,094 05119995187345
+
+MEDIANO
+
+1,095 05019998187614
+
+MEDIANO
+
+1,096 05019995105010
+
+MEDIANO
+
+1,097 04019017970323
+
+MEDIANO
+
+1,098 08019009266048
+
+MEDIANO
+
+1,099 05119995186605
+
+MEDIANO
+
+1,100 04209010311343
+
+MEDIANO
+
+1,101 08019000236835
+
+MEDIANO
+
+1,102 08019012488985
+
+MEDIANO
+
+1,103 08019011398500
+
+MEDIANO
+
+1,104 05019002057653
+
+MEDIANO
+
+1,105 05019006503269
+
+MEDIANO
+
+1,106 06019007068768
+
+MEDIANO
+
+1,107 08019001047561
+
+MEDIANO
+
+1,108 07039015800393
+
+MEDIANO
+
+1,109 06019995192936
+
+MEDIANO
+
+1,110 07041971002420
+
+MEDIANO
+
+1,111 05019995142673
+
+MEDIANO
+
+1,112 08011963004760
+
+MEDIANO
+
+1,113 05019007107347
+
+MEDIANO
+
+1,114 08019000232756
+
+MEDIANO
+
+1,115 14079006504231
+
+MEDIANO
+
+1,116 05019008138273
+
+MEDIANO
+
+1,117 08019995303169
+
+MEDIANO
+
+1,118 08019001262611
+
+MEDIANO
+
+1,119 05019013604889
+
+MEDIANO
+
+1,120 08019007068256
+
+MEDIANO
+
+1,121 05011975071692
+
+MEDIANO
+
+1,122 11019009213428
+
+MEDIANO
+
+1,123 05019998170590
+
+MEDIANO
+
+1,124 08019003196922
+
+MEDIANO
+
+1,125 08019995153310
+
+MEDIANO
+
+1,126 17011951003727
+
+MEDIANO
+
+1,127 08019009238118
+
+MEDIANO
+
+1,128 08019999404772
+
+MEDIANO
+
+1,129 04141983000574
+
+MEDIANO
+
+1,130 05029995120023
+
+MEDIANO
+
+1,131 08019006042014
+
+MEDIANO
+
+1,132 08019006022695
+
+MEDIANO
+
+1,133 08019009259354
+
+MEDIANO
+
+1,134 08019007088535
+
+MEDIANO
+
+1,135 04061958001650
+
+MEDIANO
+
+1,136 08019001199780
+
+MEDIANO
+
+1,137 08019003239756
+
+MEDIANO
+
+1,138 08019003241024
+
+MEDIANO
+
+1,139 04019008175338
+
+MEDIANO
+
+1,140 05019009264223
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,141 14011978003818
+
+MEDIANO
+
+1,142 05019011397150
+
+MEDIANO
+
+1,143 05019002070150
+
+MEDIANO
+
+1,144 16221972000282
+
+MEDIANO
+
+1,145 04019004503083
+
+MEDIANO
+
+1,146 05019010341044
+
+MEDIANO
+
+1,147 05019995114478
+
+MEDIANO
+
+1,148 08019007056250
+
+MEDIANO
+
+1,149 08019995337188
+
+MEDIANO
+
+1,150 15171965001982
+
+MEDIANO
+
+1,151 05019009237125
+
+MEDIANO
+
+1,152 08019013556123
+
+MEDIANO
+
+1,153 08019013586008
+
+MEDIANO
+
+1,154 05019007504998
+
+MEDIANO
+
+1,155 11019009213494
+
+MEDIANO
+
+1,156 05019002060625
+
+MEDIANO
+
+1,157 08019002278490
+
+MEDIANO
+
+1,158 06079015805703
+
+MEDIANO
+
+1,159 06051949000676
+
+MEDIANO
+
+1,160 08019013610647
+
+MEDIANO
+
+1,161 05019005510730
+
+MEDIANO
+
+1,162 05019002066563
+
+MEDIANO
+
+1,163 03019012529796
+
+MEDIANO
+
+1,164 04061980001457
+
+MEDIANO
+
+1,165 04181965001418
+
+MEDIANO
+
+1,166 05019012516788
+
+MEDIANO
+
+1,167 08019998385112
+
+MEDIANO
+
+1,168 05019007057440
+
+MEDIANO
+
+1,169 03019005013092
+
+MEDIANO
+
+1,170 08019002263766
+
+MEDIANO
+
+1,171 05019016816932
+
+MEDIANO
+
+1,172 18041984017420
+
+MEDIANO
+
+1,173 05019004461993
+
+MEDIANO
+
+1,174 08019016815992
+
+MEDIANO
+
+1,175 04011961002186
+
+MEDIANO
+
+1,176 05019008121025
+
+MEDIANO
+
+1,177 05019003085943
+
+MEDIANO
+
+1,178 05019004013060
+
+MEDIANO
+
+1,179 05019006479329
+
+MEDIANO
+
+1,180 08019012473975
+
+MEDIANO
+
+1,181 02051968003291
+
+MEDIANO
+
+1,182 05019012537384
+
+MEDIANO
+
+1,183 08019002272253
+
+MEDIANO
+
+1,184 05019009210017
+
+MEDIANO
+
+1,185 05019000051054
+
+MEDIANO
+
+1,186 05019002060224
+
+MEDIANO
+
+1,187 08019009205685
+
+MEDIANO
+
+1,188 02011970005189
+
+MEDIANO
+
+1,189 05019002064027
+
+MEDIANO
+
+1,190 08019002265592
+
+MEDIANO
+
+1,191 05019014658930
+
+MEDIANO
+
+1,192 08019004468137
+
+MEDIANO
+
+1,193 05019995163041
+
+MEDIANO
+
+1,194 05019003082207
+
+MEDIANO
+
+1,195 07031942002081
+
+MEDIANO
+
+1,196 05019995105421
+
+MEDIANO
+
+1,197 05019005472380
+
+MEDIANO
+
+1,198 04059015704938
+
+MEDIANO
+
+1,199 08019004012605
+
+MEDIANO
+
+1,200 05019008127640
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,201 17099015753796
+
+MEDIANO
+
+1,202 08019995296673
+
+MEDIANO
+
+1,203 08019016886395
+
+MEDIANO
+
+1,204 05019002061089
+
+MEDIANO
+
+1,205 05019013618254
+
+MEDIANO
+
+1,206 05019995150144
+
+MEDIANO
+
+1,207 08019003239734
+
+MEDIANO
+
+1,208 08019017930389
+
+MEDIANO
+
+1,209 08019998415314
+
+MEDIANO
+
+1,210 08019999410531
+
+MEDIANO
+
+1,211 14011984032404
+
+MEDIANO
+
+1,212 37011985001952
+
+MEDIANO
+
+1,213 05019995117059
+
+MEDIANO
+
+1,214 13271988000450
+
+MEDIANO
+
+1,215 05019006479925
+
+MEDIANO
+
+1,216 08019008143037
+
+MEDIANO
+
+1,217 01019008202272
+
+MEDIANO
+
+1,218 05019004461445
+
+MEDIANO
+
+1,219 05019003184700
+
+MEDIANO
+
+1,220 05019006038510
+
+MEDIANO
+
+1,221 05019006037629
+
+MEDIANO
+
+1,222 08019017897609
+
+MEDIANO
+
+1,223 08019006037227
+
+MEDIANO
+
+1,224 05011962020524
+
+MEDIANO
+
+1,225 08019009207721
+
+MEDIANO
+
+1,226 08019008165911
+
+MEDIANO
+
+1,227 05019995127434
+
+MEDIANO
+
+1,228 08019011443789
+
+MEDIANO
+
+1,229 08019006026752
+
+MEDIANO
+
+1,230 06021977003463
+
+MEDIANO
+
+1,231 08019995221448
+
+MEDIANO
+
+1,232 08019002272816
+
+MEDIANO
+
+1,233 05011974044488
+
+MEDIANO
+
+1,234 06019007096426
+
+MEDIANO
+
+1,235 06019015799285
+
+MEDIANO
+
+1,236 08019014635196
+
+MEDIANO
+
+1,237 08019995338918
+
+MEDIANO
+
+1,238 05019002069041
+
+MEDIANO
+
+1,239 05019006503247
+
+MEDIANO
+
+1,240 08019007105770
+
+MEDIANO
+
+1,241 08019011350265
+
+MEDIANO
+
+1,242 08019002280170
+
+MEDIANO
+
+1,243 08019014628149
+
+MEDIANO
+
+1,244 04061982003830
+
+MEDIANO
+
+1,245 03181963003492
+
+MEDIANO
+
+1,246 08019013585286
+
+MEDIANO
+
+1,247 08019004240592
+
+MEDIANO
+
+1,248 05019995133855
+
+MEDIANO
+
+1,249 11019011415400
+
+MEDIANO
+
+1,250 13131991003134
+
+MEDIANO
+
+1,251 01079010326652
+
+MEDIANO
+
+1,252 05011970015195
+
+MEDIANO
+
+1,253 05119015786158
+
+MEDIANO
+
+1,254 05011972087860
+
+MEDIANO
+
+1,255 13019010291032
+
+MEDIANO
+
+1,256 04061977000056
+
+MEDIANO
+
+1,257 08019005472404
+
+MEDIANO
+
+1,258 05011958048640
+
+MEDIANO
+
+1,259 18111970002443
+
+MEDIANO
+
+1,260 05019003088167
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,261 08019015765199
+
+MEDIANO
+
+1,262 05019999178497
+
+MEDIANO
+
+1,263 06019013557239
+
+MEDIANO
+
+1,264 08019013594998
+
+MEDIANO
+
+1,265 08019018067487
+
+MEDIANO
+
+1,266 05019006046344
+
+MEDIANO
+
+1,267 05019000044842
+
+MEDIANO
+
+1,268 05019014660609
+
+MEDIANO
+
+1,269 05019007072874
+
+MEDIANO
+
+1,270 08019002261388
+
+MEDIANO
+
+1,271 08019004463991
+
+MEDIANO
+
+1,272 06011982039376
+
+MEDIANO
+
+1,273 08019005012218
+
+MEDIANO
+
+1,274 08019995354945
+
+MEDIANO
+
+1,275 08019005459150
+
+MEDIANO
+
+1,276 13121967000196
+
+MEDIANO
+
+1,277 18011961006077
+
+MEDIANO
+
+1,278 05011982009462
+
+MEDIANO
+
+1,279 08019002265651
+
+MEDIANO
+
+1,280 08019005002760
+
+MEDIANO
+
+1,281 04011982004717
+
+MEDIANO
+
+1,282 06019003192325
+
+MEDIANO
+
+1,283 05081968001944
+
+MEDIANO
+
+1,284 05019010342038
+
+MEDIANO
+
+1,285 08019002266200
+
+MEDIANO
+
+1,286 05019018072231
+
+MEDIANO
+
+1,287 06019001192190
+
+MEDIANO
+
+1,288 08011964024115
+
+MEDIANO
+
+1,289 08019005005969
+
+MEDIANO
+
+1,290 08019006475558
+
+MEDIANO
+
+1,291 08019008178495
+
+MEDIANO
+
+1,292 14011986005459
+
+MEDIANO
+
+1,293 05019003083863
+
+MEDIANO
+
+1,294 05019007076184
+
+MEDIANO
+
+1,295 06011977003118
+
+MEDIANO
+
+1,296 05019013614808
+
+MEDIANO
+
+1,297 08019995221231
+
+MEDIANO
+
+1,298 08019998380911
+
+MEDIANO
+
+1,299 05019017925283
+
+MEDIANO
+
+1,300 04061981002650
+
+MEDIANO
+
+1,301 08169995414890
+
+MEDIANO
+
+1,302 05019001048924
+
+MEDIANO
+
+1,303 08901999000072
+
+MEDIANO
+
+1,304 08019000218051
+
+MEDIANO
+
+1,305 08019012466398
+
+MEDIANO
+
+1,306 08019002277624
+
+MEDIANO
+
+1,307 14071980001071
+
+MEDIANO
+
+1,308 01011960007989
+
+MEDIANO
+
+1,309 08019018022331
+
+MEDIANO
+
+1,310 05019010280765
+
+MEDIANO
+
+1,311 08019002277028
+
+MEDIANO
+
+1,312 05019008202256
+
+MEDIANO
+
+1,313 11019999425206
+
+MEDIANO
+
+1,314 08019002263067
+
+MEDIANO
+
+1,315 05111972000612
+
+MEDIANO
+
+1,316 05019003075877
+
+MEDIANO
+
+1,317 08019004013768
+
+MEDIANO
+
+1,318 08229015712416
+
+MEDIANO
+
+1,319 05019016851453
+
+MEDIANO
+
+1,320 08019007082045
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,321 08019998384037
+
+MEDIANO
+
+1,322 08019016856411
+
+MEDIANO
+
+1,323 05019011419847
+
+MEDIANO
+
+1,324 05019995136068
+
+MEDIANO
+
+1,325 05129999189738
+
+MEDIANO
+
+1,326 05019002062587
+
+MEDIANO
+
+1,327 06019014667342
+
+MEDIANO
+
+1,328 08019001199770
+
+MEDIANO
+
+1,329 01019003007144
+
+MEDIANO
+
+1,330 01019995008120
+
+MEDIANO
+
+1,331 05019995166090
+
+MEDIANO
+
+1,332 08019009256008
+
+MEDIANO
+
+1,333 08019002270287
+
+MEDIANO
+
+1,334 01011959005556
+
+MEDIANO
+
+1,335 02091961000900
+
+MEDIANO
+
+1,336 05019012490703
+
+MEDIANO
+
+1,337 08011954031889
+
+MEDIANO
+
+1,338 08019012463512
+
+MEDIANO
+
+1,339 05011975083816
+
+MEDIANO
+
+1,340 08019002272161
+
+MEDIANO
+
+1,341 08019995375380
+
+MEDIANO
+
+1,342 18049011424220
+
+MEDIANO
+
+1,343 05019003075189
+
+MEDIANO
+
+1,344 05019995166056
+
+MEDIANO
+
+1,345 07031955000394
+
+MEDIANO
+
+1,346 11011946000780
+
+MEDIANO
+
+1,347 14071954000133
+
+MEDIANO
+
+1,348 06091967001712
+
+MEDIANO
+
+1,349 08019014692180
+
+MEDIANO
+
+1,350 05019008126040
+
+MEDIANO
+
+1,351 08019995313051
+
+MEDIANO
+
+1,352 08019995347622
+
+MEDIANO
+
+1,353 04121976002468
+
+MEDIANO
+
+1,354 06019001437978
+
+MEDIANO
+
+1,355 15051978000010
+
+MEDIANO
+
+1,356 01071944005933
+
+MEDIANO
+
+1,357 16131956001666
+
+MEDIANO
+
+1,358 06151967000398
+
+MEDIANO
+
+1,359 18041984060853
+
+MEDIANO
+
+1,360 05019005468553
+
+MEDIANO
+
+1,361 08019995419601
+
+MEDIANO
+
+1,362 07041983010542
+
+MEDIANO
+
+1,363 15211984000294
+
+MEDIANO
+
+1,364 05019001061384
+
+MEDIANO
+
+1,365 08019005011717
+
+MEDIANO
+
+1,366 15039016871007
+
+MEDIANO
+
+1,367 08011971032586
+
+MEDIANO
+
+1,368 07039018065763
+
+MEDIANO
+
+1,369 05019995160287
+
+MEDIANO
+
+1,370 08019999399602
+
+MEDIANO
+
+1,371 08019002275463
+
+MEDIANO
+
+1,372 16189012494687
+
+MEDIANO
+
+1,373 08019999403491
+
+MEDIANO
+
+1,374 05019002058739
+
+MEDIANO
+
+1,375 04019014632808
+
+MEDIANO
+
+1,376 15011968011828
+
+MEDIANO
+
+1,377 05019006486435
+
+MEDIANO
+
+1,378 07039012457362
+
+MEDIANO
+
+1,379 08019002275496
+
+MEDIANO
+
+1,380 11019008159449
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,381 06021971001115
+
+MEDIANO
+
+1,382 16121951001545
+
+MEDIANO
+
+1,383 05019001047827
+
+MEDIANO
+
+1,384 08019002276950
+
+MEDIANO
+
+1,385 05029002061026
+
+MEDIANO
+
+1,386 08019998425192
+
+MEDIANO
+
+1,387 06011981025140
+
+MEDIANO
+
+1,388 08019017950966
+
+MEDIANO
+
+1,389 05019006504436
+
+MEDIANO
+
+1,390 05019995125457
+
+MEDIANO
+
+1,391 08019007088557
+
+MEDIANO
+
+1,392 02109002424679
+
+MEDIANO
+
+1,393 05069014624432
+
+MEDIANO
+
+1,394 06019011432215
+
+MEDIANO
+
+1,395 08019005013440
+
+MEDIANO
+
+1,396 05019006479307
+
+MEDIANO
+
+1,397 05019012486244
+
+MEDIANO
+
+1,398 05019014650782
+
+MEDIANO
+
+1,399 05019008195429
+
+MEDIANO
+
+1,400 08011985002321
+
+MEDIANO
+
+1,401 05019002065021
+
+MEDIANO
+
+1,402 08019007091140
+
+MEDIANO
+
+1,403 08019008183010
+
+MEDIANO
+
+1,404 05019995097276
+
+MEDIANO
+
+1,405 08011986138652
+
+MEDIANO
+
+1,406 05019010286773
+
+MEDIANO
+
+1,407 05011945016362
+
+MEDIANO
+
+1,408 05019014651846
+
+MEDIANO
+
+1,409 05019009218252
+
+MEDIANO
+
+1,410 10099999182280
+
+MEDIANO
+
+1,411 01019008128319
+
+MEDIANO
+
+1,412 04059011421576
+
+MEDIANO
+
+1,413 08019995332807
+
+MEDIANO
+
+1,414 17071984005643
+
+MEDIANO
+
+1,415 08019002266976
+
+MEDIANO
+
+1,416 05019995150236
+
+MEDIANO
+
+1,417 08019005010653
+
+MEDIANO
+
+1,418 03039995030187
+
+MEDIANO
+
+1,419 07019995204280
+
+MEDIANO
+
+1,420 08019008122051
+
+MEDIANO
+
+1,421 08019005466325
+
+MEDIANO
+
+1,422 08019012451870
+
+MEDIANO
+
+1,423 08141961000093
+
+MEDIANO
+
+1,424 01019995011743
+
+MEDIANO
+
+1,425 08019009205001
+
+MEDIANO
+
+1,426 05019002072837
+
+MEDIANO
+
+1,427 13121961001838
+
+MEDIANO
+
+1,428 08019015727619
+
+MEDIANO
+
+1,429 08019995014796
+
+MEDIANO
+
+1,430 04121972000424
+
+MEDIANO
+
+1,431 05011974059259
+
+MEDIANO
+
+1,432 05019995153230
+
+MEDIANO
+
+1,433 08019003259575
+
+MEDIANO
+
+1,434 08019007073856
+
+MEDIANO
+
+1,435 05019002076022
+
+MEDIANO
+
+1,436 05019017919940
+
+MEDIANO
+
+1,437 08019995315690
+
+MEDIANO
+
+1,438 05019001047850
+
+MEDIANO
+
+1,439 18041962001237
+
+MEDIANO
+
+1,440 15031951000623
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,441 05019011436526
+
+MEDIANO
+
+1,442 08019002264922
+
+MEDIANO
+
+1,443 05011940011860
+
+MEDIANO
+
+1,444 01019995009960
+
+MEDIANO
+
+1,445 05119017915947
+
+MEDIANO
+
+1,446 03181972008464
+
+MEDIANO
+
+1,447 05019009214368
+
+MEDIANO
+
+1,448 05019014678759
+
+MEDIANO
+
+1,449 05019998166135
+
+MEDIANO
+
+1,450 14091955000602
+
+MEDIANO
+
+1,451 05019002060235
+
+MEDIANO
+
+1,452 04011980016739
+
+MEDIANO
+
+1,453 18011953000644
+
+MEDIANO
+
+1,454 05019995155099
+
+MEDIANO
+
+1,455 05101964006526
+
+MEDIANO
+
+1,456 05019002057892
+
+MEDIANO
+
+1,457 05019995187557
+
+MEDIANO
+
+1,458 03181950004597
+
+MEDIANO
+
+1,459 08011955000605
+
+MEDIANO
+
+1,460 18071953004020
+
+MEDIANO
+
+1,461 05019018075555
+
+MEDIANO
+
+1,462 05019995097688
+
+MEDIANO
+
+1,463 04201979000694
+
+MEDIANO
+
+1,464 18011964003597
+
+MEDIANO
+
+1,465 08019003259586
+
+MEDIANO
+
+1,466 05011981115951
+
+MEDIANO
+
+1,467 05019006482996
+
+MEDIANO
+
+1,468 05019014620280
+
+MEDIANO
+
+1,469 05019995092137
+
+MEDIANO
+
+1,470 01019005466607
+
+MEDIANO
+
+1,471 08019003242831
+
+MEDIANO
+
+1,472 05019995096617
+
+MEDIANO
+
+1,473 03011954002974
+
+MEDIANO
+
+1,474 05019007088157
+
+MEDIANO
+
+1,475 08019000211884
+
+MEDIANO
+
+1,476 18041963014891
+
+MEDIANO
+
+1,477 05019001052750
+
+MEDIANO
+
+1,478 15051980003575
+
+MEDIANO
+
+1,479 05019995139955
+
+MEDIANO
+
+1,480 08261964000643
+
+MEDIANO
+
+1,481 08019011420808
+
+MEDIANO
+
+1,482 04061946000288
+
+MEDIANO
+
+1,483 15031969009572
+
+MEDIANO
+
+1,484 01019998018880
+
+MEDIANO
+
+1,485 08019003240567
+
+MEDIANO
+
+1,486 08031935003796
+
+MEDIANO
+
+1,487 08019007068267
+
+MEDIANO
+
+1,488 01071973000736
+
+MEDIANO
+
+1,489 08019013588990
+
+MEDIANO
+
+1,490 05019004467166
+
+MEDIANO
+
+1,491 08019014621640
+
+MEDIANO
+
+1,492 14071973000015
+
+MEDIANO
+
+1,493 08011950015931
+
+MEDIANO
+
+1,494 10011979002512
+
+MEDIANO
+
+1,495 05019011393840
+
+MEDIANO
+
+1,496 08019995352957
+
+MEDIANO
+
+1,497 08049999398915
+
+MEDIANO
+
+1,498 08019001212002
+
+MEDIANO
+
+1,499 08019013553050
+
+MEDIANO
+
+1,500 05019995105866
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,501 18031938000471
+
+MEDIANO
+
+1,502 05011974023940
+
+MEDIANO
+
+1,503 08019001212149
+
+MEDIANO
+
+1,504 08019002264290
+
+MEDIANO
+
+1,505 05091971001482
+
+MEDIANO
+
+1,506 08019018060420
+
+MEDIANO
+
+1,507 01011966000067
+
+MEDIANO
+
+1,508 05011958003777
+
+MEDIANO
+
+1,509 04049010304537
+
+MEDIANO
+
+1,510 05019008180246
+
+MEDIANO
+
+1,511 13041953000846
+
+MEDIANO
+
+1,512 05019001050085
+
+MEDIANO
+
+1,513 04139010292775
+
+MEDIANO
+
+1,514 05019014690321
+
+MEDIANO
+
+1,515 05019001047996
+
+MEDIANO
+
+1,516 05061951005829
+
+MEDIANO
+
+1,517 01011949007723
+
+MEDIANO
+
+1,518 04021985004876
+
+MEDIANO
+
+1,519 07039007055965
+
+MEDIANO
+
+1,520 08019995358678
+
+MEDIANO
+
+1,521 15011960008100
+
+MEDIANO
+
+1,522 05019006049418
+
+MEDIANO
+
+1,523 05019995135935
+
+MEDIANO
+
+1,524 05019004091418
+
+MEDIANO
+
+1,525 08019007090487
+
+MEDIANO
+
+1,526 08019002281510
+
+MEDIANO
+
+1,527 05019016824105
+
+MEDIANO
+
+1,528 05019999182257
+
+MEDIANO
+
+1,529 05101964006960
+
+MEDIANO
+
+1,530 05019002058809
+
+MEDIANO
+
+1,531 05019999182040
+
+MEDIANO
+
+1,532 10071987002600
+
+MEDIANO
+
+1,533 15039016853356
+
+MEDIANO
+
+1,534 05019014677320
+
+MEDIANO
+
+1,535 06019995011296
+
+MEDIANO
+
+1,536 05019995156288
+
+MEDIANO
+
+1,537 06019995194258
+
+MEDIANO
+
+1,538 08019013605415
+
+MEDIANO
+
+1,539 08011993157131
+
+MEDIANO
+
+1,540 05019998172497
+
+MEDIANO
+
+1,541 08019002262783
+
+MEDIANO
+
+1,542 05019007111405
+
+MEDIANO
+
+1,543 05019995162058
+
+MEDIANO
+
+1,544 11019012465025
+
+MEDIANO
+
+1,545 02099017928533
+
+MEDIANO
+
+1,546 05019002066070
+
+MEDIANO
+
+1,547 05019002186122
+
+MEDIANO
+
+1,548 05019009259609
+
+MEDIANO
+
+1,549 05019003075958
+
+MEDIANO
+
+1,550 05019003089827
+
+MEDIANO
+
+1,551 05019018072551
+
+MEDIANO
+
+1,552 05019995135052
+
+MEDIANO
+
+1,553 08019003238199
+
+MEDIANO
+
+1,554 04061987000451
+
+MEDIANO
+
+1,555 04049010329142
+
+MEDIANO
+
+1,556 08019002266601
+
+MEDIANO
+
+1,557 01011980032870
+
+MEDIANO
+
+1,558 05019995134941
+
+MEDIANO
+
+1,559 08019001213165
+
+MEDIANO
+
+1,560 08019002278401
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,561 08019995317807
+
+MEDIANO
+
+1,562 18049995000264
+
+MEDIANO
+
+1,563 04011965007227
+
+MEDIANO
+
+1,564 08019002000902
+
+MEDIANO
+
+1,565 15131957000462
+
+MEDIANO
+
+1,566 08019011372922
+
+MEDIANO
+
+1,567 01071956011840
+
+MEDIANO
+
+1,568 05019002065157
+
+MEDIANO
+
+1,569 08019013589777
+
+MEDIANO
+
+1,570 05011968058651
+
+MEDIANO
+
+1,571 08019000424544
+
+MEDIANO
+
+1,572 06151980027500
+
+MEDIANO
+
+1,573 08019006019782
+
+MEDIANO
+
+1,574 06019014657037
+
+MEDIANO
+
+1,575 17061984005158
+
+MEDIANO
+
+1,576 05019008200430
+
+MEDIANO
+
+1,577 08019001211270
+
+MEDIANO
+
+1,578 08019995366300
+
+MEDIANO
+
+1,579 07031982043815
+
+MEDIANO
+
+1,580 08019002264094
+
+MEDIANO
+
+1,581 05019003085586
+
+MEDIANO
+
+1,582 04019007117715
+
+MEDIANO
+
+1,583 05019011403144
+
+MEDIANO
+
+1,584 15011968015860
+
+MEDIANO
+
+1,585 18041958000760
+
+MEDIANO
+
+1,586 08901975017380
+
+MEDIANO
+
+1,587 17011966006340
+
+MEDIANO
+
+1,588 05019002058485
+
+MEDIANO
+
+1,589 06081997000112
+
+MEDIANO
+
+1,590 06151972008281
+
+MEDIANO
+
+1,591 05019011398934
+
+MEDIANO
+
+1,592 05029002001521
+
+MEDIANO
+
+1,593 10041986001280
+
+MEDIANO
+
+1,594 05011959009170
+
+MEDIANO
+
+1,595 06019014639880
+
+MEDIANO
+
+1,596 08019003252996
+
+MEDIANO
+
+1,597 06051959002485
+
+MEDIANO
+
+1,598 03031949002280
+
+MEDIANO
+
+1,599 08019002265478
+
+MEDIANO
+
+1,600 08019008124040
+
+MEDIANO
+
+1,601 08119002068371
+
+MEDIANO
+
+1,602 13139011433005
+
+MEDIANO
+
+1,603 07031948002857
+
+MEDIANO
+
+1,604 05119001185369
+
+MEDIANO
+
+1,605 05019002059940
+
+MEDIANO
+
+1,606 16011977009366
+
+MEDIANO
+
+1,607 05019001054760
+
+MEDIANO
+
+1,608 08019001227620
+
+MEDIANO
+
+1,609 05019003075145
+
+MEDIANO
+
+1,610 05019017954299
+
+MEDIANO
+
+1,611 05019002071258
+
+MEDIANO
+
+1,612 05019005475773
+
+MEDIANO
+
+1,613 08019002279781
+
+MEDIANO
+
+1,614 08019013613364
+
+MEDIANO
+
+1,615 08011967010119
+
+MEDIANO
+
+1,616 08019008134149
+
+MEDIANO
+
+1,617 02091985005270
+
+MEDIANO
+
+1,618 08011988085666
+
+MEDIANO
+
+1,619 08019995370435
+
+MEDIANO
+
+1,620 08019995377231
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,621 08901976017030
+
+MEDIANO
+
+1,622 05019016869375
+
+MEDIANO
+
+1,623 03019016818181
+
+MEDIANO
+
+1,624 08151983002181
+
+MEDIANO
+
+1,625 17091982007594
+
+MEDIANO
+
+1,626 08019005472838
+
+MEDIANO
+
+1,627 08019013592201
+
+MEDIANO
+
+1,628 04131972000460
+
+MEDIANO
+
+1,629 08019013561220
+
+MEDIANO
+
+1,630 05019016840989
+
+MEDIANO
+
+1,631 18049001001752
+
+MEDIANO
+
+1,632 04041969006482
+
+MEDIANO
+
+1,633 18041956000504
+
+MEDIANO
+
+1,634 05019003081408
+
+MEDIANO
+
+1,635 04219003036170
+
+MEDIANO
+
+1,636 03019995028159
+
+MEDIANO
+
+1,637 05019015709579
+
+MEDIANO
+
+1,638 05069016880716
+
+MEDIANO
+
+1,639 08019015729630
+
+MEDIANO
+
+1,640 08901980002820
+
+MEDIANO
+
+1,641 05019001056851
+
+MEDIANO
+
+1,642 15011977003682
+
+MEDIANO
+
+1,643 08019995297314
+
+MEDIANO
+
+1,644 05011973058620
+
+MEDIANO
+
+1,645 18041966029075
+
+MEDIANO
+
+1,646 08019009225482
+
+MEDIANO
+
+1,647 15011968006835
+
+MEDIANO
+
+1,648 08019995328750
+
+MEDIANO
+
+1,649 08019014635185
+
+MEDIANO
+
+1,650 05019002186567
+
+MEDIANO
+
+1,651 05019003089014
+
+MEDIANO
+
+1,652 05019006049750
+
+MEDIANO
+
+1,653 05019999182420
+
+MEDIANO
+
+1,654 05019007053762
+
+MEDIANO
+
+1,655 05019010278607
+
+MEDIANO
+
+1,656 05019011430805
+
+MEDIANO
+
+1,657 05019014638010
+
+MEDIANO
+
+1,658 03019015735187
+
+MEDIANO
+
+1,659 05019002069020
+
+MEDIANO
+
+1,660 05019002065330
+
+MEDIANO
+
+1,661 08019003424829
+
+MEDIANO
+
+1,662 08019016841581
+
+MEDIANO
+
+1,663 05019016844781
+
+MEDIANO
+
+1,664 08019009240482
+
+MEDIANO
+
+1,665 05019004458430
+
+MEDIANO
+
+1,666 05019002065503
+
+MEDIANO
+
+1,667 05019002075679
+
+MEDIANO
+
+1,668 05019012533228
+
+MEDIANO
+
+1,669 08019010328888
+
+MEDIANO
+
+1,670 18049995000286
+
+MEDIANO
+
+1,671 16041992001043
+
+MEDIANO
+
+1,672 05031984002715
+
+MEDIANO
+
+1,673 05019007486059
+
+MEDIANO
+
+1,674 05019011434376
+
+MEDIANO
+
+1,675 08019013618345
+
+MEDIANO
+
+1,676 08019995158632
+
+MEDIANO
+
+1,677 15201967001398
+
+MEDIANO
+
+1,678 05019005479072
+
+MEDIANO
+
+1,679 08019003079278
+
+MEDIANO
+
+1,680 08019015714869
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,681 14011984021035
+
+MEDIANO
+
+1,682 05019003478885
+
+MEDIANO
+
+1,683 05019002062863
+
+MEDIANO
+
+1,684 05019005477706
+
+MEDIANO
+
+1,685 08019009206900
+
+MEDIANO
+
+1,686 05019016859725
+
+MEDIANO
+
+1,687 11019003424803
+
+MEDIANO
+
+1,688 04051978002077
+
+MEDIANO
+
+1,689 05011963026557
+
+MEDIANO
+
+1,690 17061978003497
+
+MEDIANO
+
+1,691 08019003259895
+
+MEDIANO
+
+1,692 08019995334129
+
+MEDIANO
+
+1,693 05019002065525
+
+MEDIANO
+
+1,694 05019011350380
+
+MEDIANO
+
+1,695 05019001001802
+
+MEDIANO
+
+1,696 08019011441974
+
+MEDIANO
+
+1,697 05129004188890
+
+MEDIANO
+
+1,698 05019015766816
+
+MEDIANO
+
+1,699 08019001226187
+
+MEDIANO
+
+1,700 08019995256656
+
+MEDIANO
+
+1,701 08019995365935
+
+MEDIANO
+
+1,702 16261980001107
+
+MEDIANO
+
+1,703 08019002059136
+
+MEDIANO
+
+1,704 08019013605584
+
+MEDIANO
+
+1,705 08019999401242
+
+MEDIANO
+
+1,706 02081938001573
+
+MEDIANO
+
+1,707 08019002270276
+
+MEDIANO
+
+1,708 08019995291660
+
+MEDIANO
+
+1,709 01011960006447
+
+MEDIANO
+
+1,710 05011969017356
+
+MEDIANO
+
+1,711 05019999179219
+
+MEDIANO
+
+1,712 08019995393718
+
+MEDIANO
+
+1,713 01181903240084
+
+MEDIANO
+
+1,714 05019016848117
+
+MEDIANO
+
+1,715 06019998199226
+
+MEDIANO
+
+1,716 06111970002726
+
+MEDIANO
+
+1,717 03189015778054
+
+MEDIANO
+
+1,718 05019011425363
+
+MEDIANO
+
+1,719 03131974000389
+
+MEDIANO
+
+1,720 18081956000160
+
+MEDIANO
+
+1,721 05019999177301
+
+MEDIANO
+
+1,722 18049008121847
+
+MEDIANO
+
+1,723 04061962000562
+
+MEDIANO
+
+1,724 07039012462860
+
+MEDIANO
+
+1,725 08019016873307
+
+MEDIANO
+
+1,726 04229013586791
+
+MEDIANO
+
+1,727 11031962000783
+
+MEDIANO
+
+1,728 05019001051675
+
+MEDIANO
+
+1,729 05019012506108
+
+MEDIANO
+
+1,730 12181980004106
+
+MEDIANO
+
+1,731 06019018072834
+
+MEDIANO
+
+1,732 05019008150475
+
+MEDIANO
+
+1,733 08019011427887
+
+MEDIANO
+
+1,734 05019006045567
+
+MEDIANO
+
+1,735 08019004007690
+
+MEDIANO
+
+1,736 05011976011138
+
+MEDIANO
+
+1,737 08019002261311
+
+MEDIANO
+
+1,738 08019995341669
+
+MEDIANO
+
+1,739 05019995146465
+
+MEDIANO
+
+1,740 08901981008201
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,741 05019002067237
+
+MEDIANO
+
+1,742 08019019115012
+
+MEDIANO
+
+1,743 05119002185718
+
+MEDIANO
+
+1,744 06111967004270
+
+MEDIANO
+
+1,745 05019002067925
+
+MEDIANO
+
+1,746 01011940004298
+
+MEDIANO
+
+1,747 05019006486994
+
+MEDIANO
+
+1,748 08018007103071
+
+MEDIANO
+
+1,749 05019007116670
+
+MEDIANO
+
+1,750 08019004478074
+
+MEDIANO
+
+1,751 08019995289660
+
+MEDIANO
+
+1,752 08901981007538
+
+MEDIANO
+
+1,753 05019011387418
+
+MEDIANO
+
+1,754 08019008135783
+
+MEDIANO
+
+1,755 05019011385485
+
+MEDIANO
+
+1,756 05019002058810
+
+MEDIANO
+
+1,757 14131985003527
+
+MEDIANO
+
+1,758 01079995021530
+
+MEDIANO
+
+1,759 01079001047493
+
+MEDIANO
+
+1,760 08019998398064
+
+MEDIANO
+
+1,761 08011975219018
+
+MEDIANO
+
+1,762 16051965001073
+
+MEDIANO
+
+1,763 05019012449540
+
+MEDIANO
+
+1,764 08019001055650
+
+MEDIANO
+
+1,765 08019995323654
+
+MEDIANO
+
+1,766 05019002057425
+
+MEDIANO
+
+1,767 06011961003275
+
+MEDIANO
+
+1,768 05019003089460
+
+MEDIANO
+
+1,769 03181962008996
+
+MEDIANO
+
+1,770 01019002062754
+
+MEDIANO
+
+1,771 18049010336645
+
+MEDIANO
+
+1,772 18071958001101
+
+MEDIANO
+
+1,773 05019009222229
+
+MEDIANO
+
+1,774 08019002283324
+
+MEDIANO
+
+1,775 08019995393394
+
+MEDIANO
+
+1,776 06059003199589
+
+MEDIANO
+
+1,777 08019002261583
+
+MEDIANO
+
+1,778 08019018006370
+
+MEDIANO
+
+1,779 05019009241558
+
+MEDIANO
+
+1,780 03018008136524
+
+MEDIANO
+
+1,781 05019014624428
+
+MEDIANO
+
+1,782 05019995145666
+
+MEDIANO
+
+1,783 13051981012577
+
+MEDIANO
+
+1,784 05019007503651
+
+MEDIANO
+
+1,785 08019004012546
+
+MEDIANO
+
+1,786 04019995038130
+
+MEDIANO
+
+1,787 08019016874264
+
+MEDIANO
+
+1,788 02012003011485
+
+MEDIANO
+
+1,789 05019998166514
+
+MEDIANO
+
+1,790 08019004474180
+
+MEDIANO
+
+1,791 08019995357504
+
+MEDIANO
+
+1,792 08018006051287
+
+MEDIANO
+
+1,793 01019995010040
+
+MEDIANO
+
+1,794 08019005007361
+
+MEDIANO
+
+1,795 05111965003263
+
+MEDIANO
+
+1,796 08019000213380
+
+MEDIANO
+
+1,797 08019013566417
+
+MEDIANO
+
+1,798 08019019104798
+
+MEDIANO
+
+1,799 08109002067856
+
+MEDIANO
+
+1,800 17011959003990
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,801 05019012536059
+
+MEDIANO
+
+1,802 08019000231821
+
+MEDIANO
+
+1,803 05019002058522
+
+MEDIANO
+
+1,804 08011963091536
+
+MEDIANO
+
+1,805 05019003085244
+
+MEDIANO
+
+1,806 05019016841722
+
+MEDIANO
+
+1,807 08019004457537
+
+MEDIANO
+
+1,808 18111991003288
+
+MEDIANO
+
+1,809 05019011404610
+
+MEDIANO
+
+1,810 05019014639221
+
+MEDIANO
+
+1,811 08019005009100
+
+MEDIANO
+
+1,812 14139005477939
+
+MEDIANO
+
+1,813 05019999183181
+
+MEDIANO
+
+1,814 08019012461237
+
+MEDIANO
+
+1,815 05019995132026
+
+MEDIANO
+
+1,816 08019014670052
+
+MEDIANO
+
+1,817 08019013605573
+
+MEDIANO
+
+1,818 05019002065580
+
+MEDIANO
+
+1,819 08019005477245
+
+MEDIANO
+
+1,820 08019005505070
+
+MEDIANO
+
+1,821 04131970004327
+
+MEDIANO
+
+1,822 05019004091072
+
+MEDIANO
+
+1,823 05019006502140
+
+MEDIANO
+
+1,824 08019003247672
+
+MEDIANO
+
+1,825 08019007105840
+
+MEDIANO
+
+1,826 05019016836730
+
+MEDIANO
+
+1,827 08019000233084
+
+MEDIANO
+
+1,828 08019005460270
+
+MEDIANO
+
+1,829 08019009250342
+
+MEDIANO
+
+1,830 08019014627821
+
+MEDIANO
+
+1,831 12081964002137
+
+MEDIANO
+
+1,832 05019017924315
+
+MEDIANO
+
+1,833 06101962002448
+
+MEDIANO
+
+1,834 08901993002329
+
+MEDIANO
+
+1,835 05019006500703
+
+MEDIANO
+
+1,836 08019013583195
+
+MEDIANO
+
+1,837 05018003000456
+
+MEDIANO
+
+1,838 05019995114857
+
+MEDIANO
+
+1,839 05019995142927
+
+MEDIANO
+
+1,840 05019995155868
+
+MEDIANO
+
+1,841 08019995320926
+
+MEDIANO
+
+1,842 05019010307024
+
+MEDIANO
+
+1,843 03019006460980
+
+MEDIANO
+
+1,844 08019003076491
+
+MEDIANO
+
+1,845 05019004091245
+
+MEDIANO
+
+1,846 05019013562442
+
+MEDIANO
+
+1,847 05019012536048
+
+MEDIANO
+
+1,848 04211976004068
+
+MEDIANO
+
+1,849 08019006035743
+
+MEDIANO
+
+1,850 08019000231843
+
+MEDIANO
+
+1,851 08019995335178
+
+MEDIANO
+
+1,852 05019002063700
+
+MEDIANO
+
+1,853 08019016814829
+
+MEDIANO
+
+1,854 05019016872130
+
+MEDIANO
+
+1,855 05019999178410
+
+MEDIANO
+
+1,856 05019010267260
+
+MEDIANO
+
+1,857 05019010326710
+
+MEDIANO
+
+1,858 05019013544004
+
+MEDIANO
+
+1,859 08019008129627
+
+MEDIANO
+
+1,860 18049015765132
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,861 01019999001792
+
+MEDIANO
+
+1,862 05019016854685
+
+MEDIANO
+
+1,863 05019998166834
+
+MEDIANO
+
+1,864 13121971001567
+
+MEDIANO
+
+1,865 06019011377587
+
+MEDIANO
+
+1,866 02091987005520
+
+MEDIANO
+
+1,867 03011958010115
+
+MEDIANO
+
+1,868 15011978020375
+
+MEDIANO
+
+1,869 08019002270070
+
+MEDIANO
+
+1,870 08019995320455
+
+MEDIANO
+
+1,871 05019006500714
+
+MEDIANO
+
+1,872 01011962005698
+
+MEDIANO
+
+1,873 08019016886498
+
+MEDIANO
+
+1,874 05019010300916
+
+MEDIANO
+
+1,875 05019011396637
+
+MEDIANO
+
+1,876 05019015776960
+
+MEDIANO
+
+1,877 08019003249590
+
+MEDIANO
+
+1,878 18049010267659
+
+MEDIANO
+
+1,879 08011987184420
+
+MEDIANO
+
+1,880 08019002271362
+
+MEDIANO
+
+1,881 05019000043860
+
+MEDIANO
+
+1,882 05019007484976
+
+MEDIANO
+
+1,883 08019000234229
+
+MEDIANO
+
+1,884 08019003208535
+
+MEDIANO
+
+1,885 08019009251597
+
+MEDIANO
+
+1,886 05019000044051
+
+MEDIANO
+
+1,887 08019004242010
+
+MEDIANO
+
+1,888 07141945002319
+
+MEDIANO
+
+1,889 05019013581977
+
+MEDIANO
+
+1,890 06019014651810
+
+MEDIANO
+
+1,891 08019998016028
+
+MEDIANO
+
+1,892 12011971002796
+
+MEDIANO
+
+1,893 05019001050074
+
+MEDIANO
+
+1,894 05019003075248
+
+MEDIANO
+
+1,895 05019995130185
+
+MEDIANO
+
+1,896 04041969004965
+
+MEDIANO
+
+1,897 08011969009807
+
+MEDIANO
+
+1,898 10151960000564
+
+MEDIANO
+
+1,899 01011962006751
+
+MEDIANO
+
+1,900 08019008194364
+
+MEDIANO
+
+1,901 08901980006986
+
+MEDIANO
+
+1,902 05019006479292
+
+MEDIANO
+
+1,903 05019013581841
+
+MEDIANO
+
+1,904 05019015789992
+
+MEDIANO
+
+1,905 05019995164712
+
+MEDIANO
+
+1,906 08019020220598
+
+MEDIANO
+
+1,907 08019995349404
+
+MEDIANO
+
+1,908 05019013595890
+
+MEDIANO
+
+1,909 08019000215194
+
+MEDIANO
+
+1,910 08019015798478
+
+MEDIANO
+
+1,911 05111955001498
+
+MEDIANO
+
+1,912 04019001034636
+
+MEDIANO
+
+1,913 05019002058132
+
+MEDIANO
+
+1,914 05019002059939
+
+MEDIANO
+
+1,915 18071976004565
+
+MEDIANO
+
+1,916 05019003079371
+
+MEDIANO
+
+1,917 08019017939997
+
+MEDIANO
+
+1,918 10019999426031
+
+MEDIANO
+
+1,919 05019001051470
+
+MEDIANO
+
+1,920 05019003075590
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,921 05019008136333
+
+MEDIANO
+
+1,922 08019007078116
+
+MEDIANO
+
+1,923 08019012528587
+
+MEDIANO
+
+1,924 08011982036320
+
+MEDIANO
+
+1,925 05019005471992
+
+MEDIANO
+
+1,926 05019005475225
+
+MEDIANO
+
+1,927 08019999408325
+
+MEDIANO
+
+1,928 06151965000407
+
+MEDIANO
+
+1,929 05019014697047
+
+MEDIANO
+
+1,930 05129002189042
+
+MEDIANO
+
+1,931 05019004501172
+
+MEDIANO
+
+1,932 05019015776617
+
+MEDIANO
+
+1,933 08019995325642
+
+MEDIANO
+
+1,934 05019008183490
+
+MEDIANO
+
+1,935 08019001211085
+
+MEDIANO
+
+1,936 08019012521081
+
+MEDIANO
+
+1,937 15011976005612
+
+MEDIANO
+
+1,938 05019017970190
+
+MEDIANO
+
+1,939 18031964001700
+
+MEDIANO
+
+1,940 01019008176528
+
+MEDIANO
+
+1,941 05019995146914
+
+MEDIANO
+
+1,942 05019995167727
+
+MEDIANO
+
+1,943 08019001213143
+
+MEDIANO
+
+1,944 08019008196330
+
+MEDIANO
+
+1,945 04171966000137
+
+MEDIANO
+
+1,946 15011976018704
+
+MEDIANO
+
+1,947 03131986002035
+
+MEDIANO
+
+1,948 08019995331478
+
+MEDIANO
+
+1,949 08019015743201
+
+MEDIANO
+
+1,950 06011955004552
+
+MEDIANO
+
+1,951 08901971005545
+
+MEDIANO
+
+1,952 02059011445004
+
+MEDIANO
+
+1,953 06019017972120
+
+MEDIANO
+
+1,954 08019015716938
+
+MEDIANO
+
+1,955 05019003076665
+
+MEDIANO
+
+1,956 05019998175858
+
+MEDIANO
+
+1,957 05111990006418
+
+MEDIANO
+
+1,958 05019002059230
+
+MEDIANO
+
+1,959 02081972003221
+
+MEDIANO
+
+1,960 05019002068595
+
+MEDIANO
+
+1,961 08019004247745
+
+MEDIANO
+
+1,962 05019014656562
+
+MEDIANO
+
+1,963 08019012522498
+
+MEDIANO
+
+1,964 08901998000139
+
+MEDIANO
+
+1,965 08019010313640
+
+MEDIANO
+
+1,966 08019998175000
+
+MEDIANO
+
+1,967 02081976004683
+
+MEDIANO
+
+1,968 07031988044312
+
+MEDIANO
+
+1,969 08019001213030
+
+MEDIANO
+
+1,970 08019003246715
+
+MEDIANO
+
+1,971 08011970101525
+
+MEDIANO
+
+1,972 08018006049427
+
+MEDIANO
+
+1,973 05019018025450
+
+MEDIANO
+
+1,974 05019998172225
+
+MEDIANO
+
+1,975 08019001226691
+
+MEDIANO
+
+1,976 05011977031350
+
+MEDIANO
+
+1,977 05019013547692
+
+MEDIANO
+
+1,978 05029001047602
+
+MEDIANO
+
+1,979 08019005012023
+
+MEDIANO
+
+1,980 08019999409054
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+1,981 18041974001693
+
+MEDIANO
+
+1,982 08019000236353
+
+MEDIANO
+
+1,983 05019016861357
+
+MEDIANO
+
+1,984 13071974000055
+
+MEDIANO
+
+1,985 05019016877100
+
+MEDIANO
+
+1,986 05019995132129
+
+MEDIANO
+
+1,987 05019006481899
+
+MEDIANO
+
+1,988 05011988061184
+
+MEDIANO
+
+1,989 05019006503865
+
+MEDIANO
+
+1,990 08019004002160
+
+MEDIANO
+
+1,991 08019010279471
+
+MEDIANO
+
+1,992 08019015766940
+
+MEDIANO
+
+1,993 08019000215242
+
+MEDIANO
+
+1,994 12171982000475
+
+MEDIANO
+
+1,995 01019008131780
+
+MEDIANO
+
+1,996 05019002065455
+
+MEDIANO
+
+1,997 05019995122762
+
+MEDIANO
+
+1,998 05019002063103
+
+MEDIANO
+
+1,999 05019002185930
+
+MEDIANO
+
+2,000 08019010278890
+
+MEDIANO
+
+2,001 16201975005954
+
+MEDIANO
+
+2,002 08019000214914
+
+MEDIANO
+
+2,003 05011958017245
+
+MEDIANO
+
+2,004 05019002071291
+
+MEDIANO
+
+2,005 08019009247131
+
+MEDIANO
+
+2,006 04131990007640
+
+MEDIANO
+
+2,007 05129014628445
+
+MEDIANO
+
+2,008 15031985004773
+
+MEDIANO
+
+2,009 05019008150214
+
+MEDIANO
+
+2,010 08019014663612
+
+MEDIANO
+
+2,011 02081972002000
+
+MEDIANO
+
+2,012 05019005481197
+
+MEDIANO
+
+2,013 05019001049311
+
+MEDIANO
+
+2,014 05019015731560
+
+MEDIANO
+
+2,015 15021962002281
+
+MEDIANO
+
+2,016 05019008120546
+
+MEDIANO
+
+2,017 14011993001480
+
+MEDIANO
+
+2,018 06019012449352
+
+MEDIANO
+
+2,019 08019009262451
+
+MEDIANO
+
+2,020 08902004046957
+
+MEDIANO
+
+2,021 05019003081268
+
+MEDIANO
+
+2,022 05019005474595
+
+MEDIANO
+
+2,023 08019010330465
+
+MEDIANO
+
+2,024 05019002057220
+
+MEDIANO
+
+2,025 05019011353958
+
+MEDIANO
+
+2,026 05019018988417
+
+MEDIANO
+
+2,027 08019995355582
+
+MEDIANO
+
+2,028 16191968001364
+
+MEDIANO
+
+2,029 05029995138302
+
+MEDIANO
+
+2,030 07141956001664
+
+MEDIANO
+
+2,031 16211952000030
+
+MEDIANO
+
+2,032 08019013586913
+
+MEDIANO
+
+2,033 16131964004419
+
+MEDIANO
+
+2,034 08019016837825
+
+MEDIANO
+
+2,035 01019004012942
+
+MEDIANO
+
+2,036 13019001275415
+
+MEDIANO
+
+2,037 18041981002422
+
+MEDIANO
+
+2,038 26111984001247
+
+MEDIANO
+
+2,039 04019013596969
+
+MEDIANO
+
+2,040 05019015711487
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+2,041 08019000237678
+
+MEDIANO
+
+2,042 08019005460660
+
+MEDIANO
+
+2,043 08019995222085
+
+MEDIANO
+
+2,044 08011973084126
+
+MEDIANO
+
+2,045 03181978013258
+
+MEDIANO
+
+2,046 16211977003081
+
+MEDIANO
+
+2,047 03019012529888
+
+MEDIANO
+
+2,048 05019000045104
+
+MEDIANO
+
+2,049 08019998389419
+
+MEDIANO
+
+2,050 01071941007246
+
+MEDIANO
+
+2,051 04011956001559
+
+MEDIANO
+
+2,052 18111972000266
+
+MEDIANO
+
+2,053 04019015726550
+
+MEDIANO
+
+2,054 06019017939056
+
+MEDIANO
+
+2,055 04011952006057
+
+MEDIANO
+
+2,056 05019995141999
+
+MEDIANO
+
+2,057 08019003251579
+
+MEDIANO
+
+2,058 08019995291556
+
+MEDIANO
+
+2,059 08019005470195
+
+MEDIANO
+
+2,060 05011974014489
+
+MEDIANO
+
+2,061 05019999176400
+
+MEDIANO
+
+2,062 08019995327446
+
+MEDIANO
+
+2,063 17099002442469
+
+MEDIANO
+
+2,064 07031978014904
+
+MEDIANO
+
+2,065 08141972002001
+
+MEDIANO
+
+2,066 15179006032694
+
+MEDIANO
+
+2,067 03011971010229
+
+MEDIANO
+
+2,068 18049004461465
+
+MEDIANO
+
+2,069 05019016874655
+
+MEDIANO
+
+2,070 16011987006470
+
+MEDIANO
+
+2,071 05019999180166
+
+MEDIANO
+
+2,072 08019003254664
+
+MEDIANO
+
+2,073 13011972003539
+
+MEDIANO
+
+2,074 18071959008210
+
+MEDIANO
+
+2,075 05019001047893
+
+MEDIANO
+
+2,076 01071971009591
+
+MEDIANO
+
+2,077 17091953001471
+
+MEDIANO
+
+2,078 08019010279530
+
+MEDIANO
+
+2,079 08011971066870
+
+MEDIANO
+
+2,080 10011986002552
+
+MEDIANO
+
+2,081 05019009209456
+
+MEDIANO
+
+2,082 08019011358629
+
+MEDIANO
+
+2,083 08011969037829
+
+MEDIANO
+
+2,084 05019995139153
+
+MEDIANO
+
+2,085 08019000233419
+
+MEDIANO
+
+2,086 08019999035452
+
+MEDIANO
+
+2,087 08019002277587
+
+MEDIANO
+
+2,088 10061977002955
+
+MEDIANO
+
+2,089 05019995162390
+
+MEDIANO
+
+2,090 17071984021317
+
+MEDIANO
+
+2,091 05019018002580
+
+MEDIANO
+
+2,092 05019995145585
+
+MEDIANO
+
+2,093 05019015743669
+
+MEDIANO
+
+2,094 08019011444496
+
+MEDIANO
+
+2,095 08019014651411
+
+MEDIANO
+
+2,096 08019017959599
+
+MEDIANO
+
+2,097 04121983002317
+
+MEDIANO
+
+2,098 06011983020809
+
+MEDIANO
+
+2,099 03191942000581
+
+MEDIANO
+
+2,100 05019002064510
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+2,101 05019009204111
+
+MEDIANO
+
+2,102 08019002266998
+
+MEDIANO
+
+2,103 08019006022066
+
+MEDIANO
+
+2,104 08019015722362
+
+MEDIANO
+
+2,105 05019007076883
+
+MEDIANO
+
+2,106 05019998170720
+
+MEDIANO
+
+2,107 05019001055310
+
+MEDIANO
+
+2,108 08011982033750
+
+MEDIANO
+
+2,109 08019000235988
+
+MEDIANO
+
+2,110 08019006028843
+
+MEDIANO
+
+2,111 04121969001066
+
+MEDIANO
+
+2,112 05019002078904
+
+MEDIANO
+
+2,113 04011989004109
+
+MEDIANO
+
+2,114 05011975037216
+
+MEDIANO
+
+2,115 08019003242496
+
+MEDIANO
+
+2,116 01041953001674
+
+MEDIANO
+
+2,117 08019013548799
+
+MEDIANO
+
+2,118 01071983020630
+
+MEDIANO
+
+2,119 08019995326717
+
+MEDIANO
+
+2,120 08269995413353
+
+MEDIANO
+
+2,121 05019008149734
+
+MEDIANO
+
+2,122 05019013588681
+
+MEDIANO
+
+2,123 05019995114055
+
+MEDIANO
+
+2,124 08019010333480
+
+MEDIANO
+
+2,125 05011941012514
+
+MEDIANO
+
+2,126 08019014653605
+
+MEDIANO
+
+2,127 05011975017408
+
+MEDIANO
+
+2,128 07041971005950
+
+MEDIANO
+
+2,129 10061973000543
+
+MEDIANO
+
+2,130 05019002067936
+
+MEDIANO
+
+2,131 05019018989320
+
+MEDIANO
+
+2,132 08019007110844
+
+MEDIANO
+
+2,133 08019000235554
+
+MEDIANO
+
+2,134 17061958002438
+
+MEDIANO
+
+2,135 05011974051127
+
+MEDIANO
+
+2,136 08019011357679
+
+MEDIANO
+
+2,137 05019018007089
+
+MEDIANO
+
+2,138 05011958038540
+
+MEDIANO
+
+2,139 05011958051151
+
+MEDIANO
+
+2,140 15141979001512
+
+MEDIANO
+
+2,141 07031969008124
+
+MEDIANO
+
+2,142 08019014652780
+
+MEDIANO
+
+2,143 01031974003558
+
+MEDIANO
+
+2,144 06011956000855
+
+MEDIANO
+
+2,145 05019998180726
+
+MEDIANO
+
+2,146 05109002060719
+
+MEDIANO
+
+2,147 11029002422870
+
+MEDIANO
+
+2,148 05019999176785
+
+MEDIANO
+
+2,149 08019009221716
+
+MEDIANO
+
+2,150 06011953007767
+
+MEDIANO
+
+2,151 10061960000985
+
+MEDIANO
+
+2,152 06019003192314
+
+MEDIANO
+
+2,153 08019004468045
+
+MEDIANO
+
+2,154 08019007075237
+
+MEDIANO
+
+2,155 05019000051319
+
+MEDIANO
+
+2,156 05019001048740
+
+MEDIANO
+
+2,157 08019011362628
+
+MEDIANO
+
+2,158 01011986000879
+
+MEDIANO
+
+2,159 03131989000181
+
+MEDIANO
+
+2,160 05019995136881
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+2,161 08019012510952
+
+MEDIANO
+
+2,162 15039995002022
+
+MEDIANO
+
+2,163 07039008124678
+
+MEDIANO
+
+2,164 08011963059868
+
+MEDIANO
+
+2,165 05019014648911
+
+MEDIANO
+
+2,166 08019012537236
+
+MEDIANO
+
+2,167 05011965026026
+
+MEDIANO
+
+2,168 17011975000550
+
+MEDIANO
+
+2,169 01019011444193
+
+MEDIANO
+
+2,170 08019999405424
+
+MEDIANO
+
+2,171 05011966019210
+
+MEDIANO
+
+2,172 05019017964137
+
+MEDIANO
+
+2,173 05019018041797
+
+MEDIANO
+
+2,174 05019006482632
+
+MEDIANO
+
+2,175 05019011424119
+
+MEDIANO
+
+2,176 08019016855038
+
+MEDIANO
+
+2,177 08019995288838
+
+MEDIANO
+
+2,178 08019995320021
+
+MEDIANO
+
+2,179 04131980002561
+
+MEDIANO
+
+2,180 05019007099776
+
+MEDIANO
+
+2,181 08019004007689
+
+MEDIANO
+
+2,182 01011959013152
+
+MEDIANO
+
+2,183 05019014696741
+
+MEDIANO
+
+2,184 04011967007807
+
+MEDIANO
+
+2,185 16011977007390
+
+MEDIANO
+
+2,186 05019995128932
+
+MEDIANO
+
+2,187 05029995001355
+
+MEDIANO
+
+2,188 08019001211100
+
+MEDIANO
+
+2,189 08011976060785
+
+MEDIANO
+
+2,190 14061984002350
+
+MEDIANO
+
+2,191 18071971007451
+
+MEDIANO
+
+2,192 08019013575419
+
+MEDIANO
+
+2,193 08019016839125
+
+MEDIANO
+
+2,194 05019007107060
+
+MEDIANO
+
+2,195 05019012446168
+
+MEDIANO
+
+2,196 08019010316757
+
+MEDIANO
+
+2,197 08019999440092
+
+MEDIANO
+
+2,198 05019006476520
+
+MEDIANO
+
+2,199 05019008199703
+
+MEDIANO
+
+2,200 08019010338976
+
+MEDIANO
+
+2,201 05019017970385
+
+MEDIANO
+
+2,202 06011975010023
+
+MEDIANO
+
+2,203 06071954000216
+
+MEDIANO
+
+2,204 03031973001310
+
+MEDIANO
+
+2,205 10021984001327
+
+MEDIANO
+
+2,206 05019001061513
+
+MEDIANO
+
+2,207 08019003253019
+
+MEDIANO
+
+2,208 08019012514480
+
+MEDIANO
+
+2,209 04011973002186
+
+MEDIANO
+
+2,210 08019017965200
+
+MEDIANO
+
+2,211 04201974000911
+
+MEDIANO
+
+2,212 05019001184164
+
+MEDIANO
+
+2,213 08011968043228
+
+MEDIANO
+
+2,214 01019011350878
+
+MEDIANO
+
+2,215 05019995146866
+
+MEDIANO
+
+2,216 08019013592966
+
+MEDIANO
+
+2,217 08019014639584
+
+MEDIANO
+
+2,218 08019017980932
+
+MEDIANO
+
+2,219 06011980043185
+
+MEDIANO
+
+2,220 05019015753106
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+2,221 01071977007669
+
+MEDIANO
+
+2,222 05011970001216
+
+MEDIANO
+
+2,223 06011967017048
+
+MEDIANO
+
+2,224 16131981012119
+
+MEDIANO
+
+2,225 05029020209615
+
+MEDIANO
+
+2,226 08019015727365
+
+MEDIANO
+
+2,227 08011985117376
+
+MEDIANO
+
+2,228 04011957005994
+
+MEDIANO
+
+2,229 07031964001276
+
+MEDIANO
+
+2,230 08011970057372
+
+MEDIANO
+
+2,231 18049019107850
+
+MEDIANO
+
+2,232 05011976055430
+
+MEDIANO
+
+2,233 08011995179805
+
+MEDIANO
+
+2,234 05019007113128
+
+MEDIANO
+
+2,235 08019008200197
+
+MEDIANO
+
+2,236 05011963031550
+
+MEDIANO
+
+2,237 16051974000644
+
+MEDIANO
+
+2,238 18011953001741
+
+MEDIANO
+
+2,239 17011984011494
+
+MEDIANO
+
+2,240 04019008177668
+
+MEDIANO
+
+2,241 05019005472368
+
+MEDIANO
+
+2,242 05019995440026
+
+MEDIANO
+
+2,243 08019004007851
+
+MEDIANO
+
+2,244 08019006048581
+
+MEDIANO
+
+2,245 05019010305930
+
+MEDIANO
+
+2,246 08019002265673
+
+MEDIANO
+
+2,247 05019007505249
+
+MEDIANO
+
+2,248 08019006028350
+
+MEDIANO
+
+2,249 18011953003681
+
+MEDIANO
+
+2,250 08019014701719
+
+MEDIANO
+
+2,251 04151972001379
+
+MEDIANO
+
+2,252 08019003249708
+
+MEDIANO
+
+2,253 17011980032159
+
+MEDIANO
+
+2,254 01019004471480
+
+MEDIANO
+
+2,255 05019008132736
+
+MEDIANO
+
+2,256 08061985005785
+
+MEDIANO
+
+2,257 03189995032703
+
+MEDIANO
+
+2,258 03019014646747
+
+MEDIANO
+
+2,259 05019005471970
+
+MEDIANO
+
+2,260 05019998175446
+
+MEDIANO
+
+2,261 08019006048445
+
+MEDIANO
+
+2,262 18079016896745
+
+MEDIANO
+
+2,263 17011964005203
+
+MEDIANO
+
+2,264 05019007080128
+
+MEDIANO
+
+2,265 05019995152706
+
+MEDIANO
+
+2,266 08019007085038
+
+MEDIANO
+
+2,267 05019003077898
+
+MEDIANO
+
+2,268 05019018030031
+
+MEDIANO
+
+2,269 08019995314652
+
+MEDIANO
+
+2,270 05019998165483
+
+MEDIANO
+
+2,271 08019008128298
+
+MEDIANO
+
+2,272 01018015745640
+
+MEDIANO
+
+2,273 08019995324008
+
+MEDIANO
+
+2,274 10011971000305
+
+MEDIANO
+
+2,275 05019017924911
+
+MEDIANO
+
+2,276 05099995146239
+
+MEDIANO
+
+2,277 08019000216615
+
+MEDIANO
+
+2,278 06051958000575
+
+MEDIANO
+
+2,279 13091972001222
+
+MEDIANO
+
+2,280 08019995323768
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+2,281 05019003090638
+
+MEDIANO
+
+2,282 05019015789970
+
+MEDIANO
+
+2,283 17099015800276
+
+MEDIANO
+
+2,284 11019009237679
+
+MEDIANO
+
+2,285 05019000051021
+
+MEDIANO
+
+2,286 05019007103912
+
+MEDIANO
+
+2,287 08019008166618
+
+MEDIANO
+
+2,288 08019997414214
+
+MEDIANO
+
+2,289 18041974010618
+
+MEDIANO
+
+2,290 05011966022991
+
+MEDIANO
+
+2,291 05019995033821
+
+MEDIANO
+
+2,292 08019013586990
+
+MEDIANO
+
+2,293 08019998408930
+
+MEDIANO
+
+2,294 07039015717677
+
+MEDIANO
+
+2,295 05129015793495
+
+MEDIANO
+
+2,296 08019014655843
+
+MEDIANO
+
+2,297 06011976018490
+
+MEDIANO
+
+2,298 06111978010287
+
+MEDIANO
+
+2,299 05019002059847
+
+MEDIANO
+
+2,300 04071974001294
+
+MEDIANO
+
+2,301 04019012507871
+
+MEDIANO
+
+2,302 05019009247990
+
+MEDIANO
+
+2,303 08019013542677
+
+MEDIANO
+
+2,304 08029002470785
+
+MEDIANO
+
+2,305 01011968001160
+
+MEDIANO
+
+2,306 18101968002816
+
+MEDIANO
+
+2,307 01079006481396
+
+MEDIANO
+
+2,308 05019016847134
+
+MEDIANO
+
+2,309 08151982000606
+
+MEDIANO
+
+2,310 05011972018091
+
+MEDIANO
+
+2,311 05019015750466
+
+MEDIANO
+
+2,312 05019000040281
+
+MEDIANO
+
+2,313 08019011396599
+
+MEDIANO
+
+2,314 08019014692926
+
+MEDIANO
+
+2,315 08019995312539
+
+MEDIANO
+
+2,316 02041964000765
+
+MEDIANO
+
+2,317 05019008167473
+
+MEDIANO
+
+2,318 05019999179080
+
+MEDIANO
+
+2,319 08019014685886
+
+MEDIANO
+
+2,320 08011980051222
+
+MEDIANO
+
+2,321 08019002281211
+
+MEDIANO
+
+2,322 08019995308941
+
+MEDIANO
+
+2,323 16161983001876
+
+MEDIANO
+
+2,324 05019002058864
+
+MEDIANO
+
+2,325 05019016846265
+
+MEDIANO
+
+2,326 08019002029207
+
+MEDIANO
+
+2,327 08019018037558
+
+MEDIANO
+
+2,328 05011962000543
+
+MEDIANO
+
+2,329 08011964038381
+
+MEDIANO
+
+2,330 08011974027124
+
+MEDIANO
+
+2,331 05019015778432
+
+MEDIANO
+
+2,332 02091985012468
+
+MEDIANO
+
+2,333 12081980002341
+
+MEDIANO
+
+2,334 08019011416496
+
+MEDIANO
+
+2,335 16011989002684
+
+MEDIANO
+
+2,336 05019013591150
+
+MEDIANO
+
+2,337 08019002279829
+
+MEDIANO
+
+2,338 08012003046235
+
+MEDIANO
+
+2,339 05019016879029
+
+MEDIANO
+
+2,340 04051970001770
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+2,341 05019008190220
+
+MEDIANO
+
+2,342 08019004463752
+
+MEDIANO
+
+2,343 04011979018598
+
+MEDIANO
+
+2,344 03019002029102
+
+MEDIANO
+
+2,345 08019995332895
+
+MEDIANO
+
+2,346 07141959001787
+
+MEDIANO
+
+2,347 05019005482022
+
+MEDIANO
+
+2,348 08019995302245
+
+MEDIANO
+
+2,349 05019995163512
+
+MEDIANO
+
+2,350 05069995114953
+
+MEDIANO
+
+2,351 05019007094258
+
+MEDIANO
+
+2,352 04139009221114
+
+MEDIANO
+
+2,353 08011965064113
+
+MEDIANO
+
+2,354 17099014704616
+
+MEDIANO
+
+2,355 08161967000349
+
+MEDIANO
+
+2,356 08019014687131
+
+MEDIANO
+
+2,357 06011996027230
+
+MEDIANO
+
+2,358 03189002031437
+
+MEDIANO
+
+2,359 05019002066162
+
+MEDIANO
+
+2,360 05019013569764
+
+MEDIANO
+
+2,361 08019003250520
+
+MEDIANO
+
+2,362 05019010329232
+
+MEDIANO
+
+2,363 08019004457776
+
+MEDIANO
+
+2,364 15039995511496
+
+MEDIANO
+
+2,365 08901996000155
+
+MEDIANO
+
+2,366 14131968001300
+
+MEDIANO
+
+2,367 05019998180830
+
+MEDIANO
+
+2,368 06019016857034
+
+MEDIANO
+
+2,369 08019003416957
+
+MEDIANO
+
+2,370 08019004458509
+
+MEDIANO
+
+2,371 12161967001140
+
+MEDIANO
+
+2,372 15031983005474
+
+MEDIANO
+
+2,373 16261954000051
+
+MEDIANO
+
+2,374 05019004470995
+
+MEDIANO
+
+2,375 08019002267341
+
+MEDIANO
+
+2,376 05019013556617
+
+MEDIANO
+
+2,377 08019001429002
+
+MEDIANO
+
+2,378 08019995374514
+
+MEDIANO
+
+2,379 09011971002333
+
+MEDIANO
+
+2,380 14031952000332
+
+MEDIANO
+
+2,381 05101975006409
+
+MEDIANO
+
+2,382 05019006500335
+
+MEDIANO
+
+2,383 05019006506181
+
+MEDIANO
+
+2,384 05019995094802
+
+MEDIANO
+
+2,385 08019006022721
+
+MEDIANO
+
+2,386 03181979002823
+
+MEDIANO
+
+2,387 08901988007217
+
+MEDIANO
+
+2,388 04069016845810
+
+MEDIANO
+
+2,389 05019014670145
+
+MEDIANO
+
+2,390 05019014702828
+
+MEDIANO
+
+2,391 05019015798700
+
+MEDIANO
+
+2,392 08019995290632
+
+MEDIANO
+
+2,393 16121976000418
+
+MEDIANO
+
+2,394 02099995024969
+
+MEDIANO
+
+2,395 04139006038178
+
+MEDIANO
+
+2,396 05019010275706
+
+MEDIANO
+
+2,397 08019006046240
+
+MEDIANO
+
+2,398 05051962004369
+
+MEDIANO
+
+2,399 05019002071692
+
+MEDIANO
+
+2,400 05019005510020
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+2,401 05019013579304
+
+MEDIANO
+
+2,402 08019018073555
+
+MEDIANO
+
+2,403 05019005477761
+
+MEDIANO
+
+2,404 05019015793351
+
+MEDIANO
+
+2,405 08019003256994
+
+MEDIANO
+
+2,406 08019006016285
+
+MEDIANO
+
+2,407 08019014652574
+
+MEDIANO
+
+2,408 08019017920658
+
+MEDIANO
+
+2,409 05011974066365
+
+MEDIANO
+
+2,410 16131965006101
+
+MEDIANO
+
+2,411 16151960001020
+
+MEDIANO
+
+2,412 01019016834882
+
+MEDIANO
+
+2,413 05019995125582
+
+MEDIANO
+
+2,414 08019000233680
+
+MEDIANO
+
+2,415 08019006029804
+
+MEDIANO
+
+2,416 08019010304199
+
+MEDIANO
+
+2,417 14071988000447
+
+MEDIANO
+
+2,418 01019002022314
+
+MEDIANO
+
+2,419 04049010285380
+
+MEDIANO
+
+2,420 05019015744620
+
+MEDIANO
+
+2,421 07039000201968
+
+MEDIANO
+
+2,422 16181968003040
+
+MEDIANO
+
+2,423 05019004012341
+
+MEDIANO
+
+2,424 05019013588637
+
+MEDIANO
+
+2,425 08019011431360
+
+MEDIANO
+
+2,426 16181980005139
+
+MEDIANO
+
+2,427 01019995013823
+
+MEDIANO
+
+2,428 05019016862487
+
+MEDIANO
+
+2,429 08019999203434
+
+MEDIANO
+
+2,430 04161977000944
+
+MEDIANO
+
+2,431 14011979028297
+
+MEDIANO
+
+2,432 05019995124658
+
+MEDIANO
+
+2,433 12011981005912
+
+MEDIANO
+
+2,434 14159013596690
+
+MEDIANO
+
+2,435 01051965001997
+
+MEDIANO
+
+2,436 08019003253887
+
+MEDIANO
+
+2,437 08019995354463
+
+MEDIANO
+
+2,438 04011965000821
+
+MEDIANO
+
+2,439 05011971087798
+
+MEDIANO
+
+2,440 05011998091512
+
+MEDIANO
+
+2,441 05019005471834
+
+MEDIANO
+
+2,442 08019001268192
+
+MEDIANO
+
+2,443 08019002266932
+
+MEDIANO
+
+2,444 08019011409173
+
+MEDIANO
+
+2,445 08031945001004
+
+MEDIANO
+
+2,446 05019995144444
+
+MEDIANO
+
+2,447 08019001049090
+
+MEDIANO
+
+2,448 08019002271535
+
+MEDIANO
+
+2,449 08019998387144
+
+MEDIANO
+
+2,450 05019008127916
+
+MEDIANO
+
+2,451 05019014648142
+
+MEDIANO
+
+2,452 05019995136480
+
+MEDIANO
+
+2,453 05019995190621
+
+MEDIANO
+
+2,454 08019002270574
+
+MEDIANO
+
+2,455 01071988010752
+
+MEDIANO
+
+2,456 06111982011810
+
+MEDIANO
+
+2,457 07031985053198
+
+MEDIANO
+
+2,458 05019017909955
+
+MEDIANO
+
+2,459 05019995111614
+
+MEDIANO
+
+2,460 13039001458457
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+2,461 05011939009594
+
+MEDIANO
+
+2,462 06159995203333
+
+MEDIANO
+
+2,463 08019000236880
+
+MEDIANO
+
+2,464 04011963003576
+
+MEDIANO
+
+2,465 05011976033405
+
+MEDIANO
+
+2,466 08011984192463
+
+MEDIANO
+
+2,467 03189011402070
+
+MEDIANO
+
+2,468 05019007083187
+
+MEDIANO
+
+2,469 05019010275717
+
+MEDIANO
+
+2,470 05029000045059
+
+MEDIANO
+
+2,471 05011972084102
+
+MEDIANO
+
+2,472 05019010342510
+
+MEDIANO
+
+2,473 08019000237244
+
+MEDIANO
+
+2,474 01281961200122
+
+MEDIANO
+
+2,475 08019001278214
+
+MEDIANO
+
+2,476 08019995291100
+
+MEDIANO
+
+2,477 05011975082123
+
+MEDIANO
+
+2,478 15011969006632
+
+MEDIANO
+
+2,479 15031981008553
+
+MEDIANO
+
+2,480 05019008182587
+
+MEDIANO
+
+2,481 08269999415548
+
+MEDIANO
+
+2,482 16011990003689
+
+MEDIANO
+
+2,483 18041980041361
+
+MEDIANO
+
+2,484 06119002201668
+
+MEDIANO
+
+2,485 05019018014313
+
+MEDIANO
+
+2,486 05019995103617
+
+MEDIANO
+
+2,487 15191981000889
+
+MEDIANO
+
+2,488 01019006506911
+
+MEDIANO
+
+2,489 05019014687246
+
+MEDIANO
+
+2,490 08019002268380
+
+MEDIANO
+
+2,491 08019995347563
+
+MEDIANO
+
+2,492 04121950001722
+
+MEDIANO
+
+2,493 05019995100245
+
+MEDIANO
+
+2,494 05011972006100
+
+MEDIANO
+
+2,495 05019018022192
+
+MEDIANO
+
+2,496 05019018067948
+
+MEDIANO
+
+2,497 07039013561424
+
+MEDIANO
+
+2,498 08019003251009
+
+MEDIANO
+
+2,499 04011978009858
+
+MEDIANO
+
+2,500 18071976006954
+
+MEDIANO
+
+2,501 05019995169921
+
+MEDIANO
+
+2,502 08019000237417
+
+MEDIANO
+
+2,503 08019002282694
+
+MEDIANO
+
+2,504 08019010288245
+
+MEDIANO
+
+2,505 05019001047183
+
+MEDIANO
+
+2,506 08019998380760
+
+MEDIANO
+
+2,507 03189004032893
+
+MEDIANO
+
+2,508 03189999028944
+
+MEDIANO
+
+2,509 05019001047551
+
+MEDIANO
+
+2,510 05019010320600
+
+MEDIANO
+
+2,511 05019018057047
+
+MEDIANO
+
+2,512 05069019157401
+
+MEDIANO
+
+2,513 05011963032912
+
+MEDIANO
+
+2,514 06111976006960
+
+MEDIANO
+
+2,515 17011957006680
+
+MEDIANO
+
+2,516 05019010272437
+
+MEDIANO
+
+2,517 08019015722330
+
+MEDIANO
+
+2,518 11019009249251
+
+MEDIANO
+
+2,519 14069001433787
+
+MEDIANO
+
+2,520 05019006048652
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+2,521 05019015751059
+
+MEDIANO
+
+2,522 05019017980771
+
+MEDIANO
+
+2,523 08019012467164
+
+MEDIANO
+
+2,524 08019995372489
+
+MEDIANO
+
+2,525 05011983051644
+
+MEDIANO
+
+2,526 08019003251178
+
+MEDIANO
+
+2,527 03011951003010
+
+MEDIANO
+
+2,528 05019995117313
+
+MEDIANO
+
+2,529 05019002066520
+
+MEDIANO
+
+2,530 05019007085267
+
+MEDIANO
+
+2,531 08019010343259
+
+MEDIANO
+
+2,532 05019009237700
+
+MEDIANO
+
+2,533 05019016827793
+
+MEDIANO
+
+2,534 08019005008930
+
+MEDIANO
+
+2,535 08019016823257
+
+MEDIANO
+
+2,536 04121974000544
+
+MEDIANO
+
+2,537 05069998173521
+
+MEDIANO
+
+2,538 05019003077854
+
+MEDIANO
+
+2,539 05019012529034
+
+MEDIANO
+
+2,540 08019016824685
+
+MEDIANO
+
+2,541 08019018992871
+
+MEDIANO
+
+2,542 14071974000062
+
+MEDIANO
+
+2,543 16161955001488
+
+MEDIANO
+
+2,544 01018004031950
+
+MEDIANO
+
+2,545 04131971005081
+
+MEDIANO
+
+2,546 08019008172145
+
+MEDIANO
+
+2,547 08019017965369
+
+MEDIANO
+
+2,548 08019008185616
+
+MEDIANO
+
+2,549 04061964001297
+
+MEDIANO
+
+2,550 07031970014979
+
+MEDIANO
+
+2,551 08019999402707
+
+MEDIANO
+
+2,552 05011972037207
+
+MEDIANO
+
+2,553 18011947002250
+
+MEDIANO
+
+2,554 03181977000358
+
+MEDIANO
+
+2,555 12081943000982
+
+MEDIANO
+
+2,556 05019005509860
+
+MEDIANO
+
+2,557 08019003256836
+
+MEDIANO
+
+2,558 09011965001520
+
+MEDIANO
+
+2,559 05019013601738
+
+MEDIANO
+
+2,560 05019995113153
+
+MEDIANO
+
+2,561 08019016895684
+
+MEDIANO
+
+2,562 08269995240725
+
+MEDIANO
+
+2,563 01051979007279
+
+MEDIANO
+
+2,564 05019013584525
+
+MEDIANO
+
+2,565 06019995192866
+
+MEDIANO
+
+2,566 05011971062690
+
+MEDIANO
+
+2,567 05011984114017
+
+MEDIANO
+
+2,568 05031968002691
+
+MEDIANO
+
+2,569 05019006479535
+
+MEDIANO
+
+2,570 05019006485990
+
+MEDIANO
+
+2,571 08019995371440
+
+MEDIANO
+
+2,572 05011964031314
+
+MEDIANO
+
+2,573 14131969002384
+
+MEDIANO
+
+2,574 05011968102105
+
+MEDIANO
+
+2,575 08019011397160
+
+MEDIANO
+
+2,576 01051988008128
+
+MEDIANO
+
+2,577 15051963000206
+
+MEDIANO
+
+2,578 05019002062392
+
+MEDIANO
+
+2,579 08019012463052
+
+MEDIANO
+
+2,580 05061949002318
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+2,581 08011976060741
+
+MEDIANO
+
+2,582 05019012492779
+
+MEDIANO
+
+2,583 05019999181664
+
+MEDIANO
+
+2,584 05129010268365
+
+MEDIANO
+
+2,585 05011965025477
+
+MEDIANO
+
+2,586 05019002070415
+
+MEDIANO
+
+2,587 08019012485525
+
+MEDIANO
+
+2,588 01071972003314
+
+MEDIANO
+
+2,589 15011984002662
+
+MEDIANO
+
+2,590 05019002272964
+
+MEDIANO
+
+2,591 08019010335284
+
+MEDIANO
+
+2,592 15029003008170
+
+MEDIANO
+
+2,593 08171971001506
+
+MEDIANO
+
+2,594 14131985004039
+
+MEDIANO
+
+2,595 05019010277598
+
+MEDIANO
+
+2,596 06019000191425
+
+MEDIANO
+
+2,597 08019003244017
+
+MEDIANO
+
+2,598 04011995001304
+
+MEDIANO
+
+2,599 05011959025668
+
+MEDIANO
+
+2,600 05071968001530
+
+MEDIANO
+
+2,601 01011956004807
+
+MEDIANO
+
+2,602 05019995155721
+
+MEDIANO
+
+2,603 05019003076562
+
+MEDIANO
+
+2,604 08019003248703
+
+MEDIANO
+
+2,605 08019010288392
+
+MEDIANO
+
+2,606 05019007065161
+
+MEDIANO
+
+2,607 05019995428615
+
+MEDIANO
+
+2,608 08019000237196
+
+MEDIANO
+
+2,609 08019009264575
+
+MEDIANO
+
+2,610 08019018048570
+
+MEDIANO
+
+2,611 05019016820118
+
+MEDIANO
+
+2,612 05019998172236
+
+MEDIANO
+
+2,613 08019995328267
+
+MEDIANO
+
+2,614 05018012477539
+
+MEDIANO
+
+2,615 07039007108497
+
+MEDIANO
+
+2,616 08019002267271
+
+MEDIANO
+
+2,617 08019009254145
+
+MEDIANO
+
+2,618 01011950002374
+
+MEDIANO
+
+2,619 08019001229158
+
+MEDIANO
+
+2,620 08019002265467
+
+MEDIANO
+
+2,621 08019006021186
+
+MEDIANO
+
+2,622 18051970001673
+
+MEDIANO
+
+2,623 08019006040060
+
+MEDIANO
+
+2,624 08019995305640
+
+MEDIANO
+
+2,625 16251978000416
+
+MEDIANO
+
+2,626 06111956001887
+
+MEDIANO
+
+2,627 06119001201632
+
+MEDIANO
+
+2,628 08019017961062
+
+MEDIANO
+
+2,629 05019007114659
+
+MEDIANO
+
+2,630 07021971001800
+
+MEDIANO
+
+2,631 10091973000200
+
+MEDIANO
+
+2,632 06019011403997
+
+MEDIANO
+
+2,633 08019002283416
+
+MEDIANO
+
+2,634 08019007093090
+
+MEDIANO
+
+2,635 05011976047226
+
+MEDIANO
+
+2,636 08011964053110
+
+MEDIANO
+
+2,637 01071957003308
+
+MEDIANO
+
+2,638 07031966010777
+
+MEDIANO
+
+2,639 05099005502296
+
+MEDIANO
+
+2,640 08019003241859
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+2,641 08019999410792
+
+MEDIANO
+
+2,642 05011975070448
+
+MEDIANO
+
+2,643 01019995013801
+
+MEDIANO
+
+2,644 05019010335973
+
+MEDIANO
+
+2,645 05019013613457
+
+MEDIANO
+
+2,646 05019014662240
+
+MEDIANO
+
+2,647 05019995187568
+
+MEDIANO
+
+2,648 04101982009593
+
+MEDIANO
+
+2,649 08019995444160
+
+MEDIANO
+
+2,650 05019000042317
+
+MEDIANO
+
+2,651 08019000235040
+
+MEDIANO
+
+2,652 08019006038460
+
+MEDIANO
+
+2,653 18049004004630
+
+MEDIANO
+
+2,654 08011971123450
+
+MEDIANO
+
+2,655 14011976002071
+
+MEDIANO
+
+2,656 05019001051469
+
+MEDIANO
+
+2,657 08019011443815
+
+MEDIANO
+
+2,658 08019018984793
+
+MEDIANO
+
+2,659 05019001048821
+
+MEDIANO
+
+2,660 04131987004250
+
+MEDIANO
+
+2,661 06011981009992
+
+MEDIANO
+
+2,662 06051967003309
+
+MEDIANO
+
+2,663 08019011349899
+
+MEDIANO
+
+2,664 06151966005755
+
+MEDIANO
+
+2,665 07031972016150
+
+MEDIANO
+
+2,666 17091969004774
+
+MEDIANO
+
+2,667 05019002189560
+
+MEDIANO
+
+2,668 08019998391040
+
+MEDIANO
+
+2,669 04131986000319
+
+MEDIANO
+
+2,670 18041993042895
+
+MEDIANO
+
+2,671 03181960002548
+
+MEDIANO
+
+2,672 05019004012433
+
+MEDIANO
+
+2,673 05019010337090
+
+MEDIANO
+
+2,674 06019017904731
+
+MEDIANO
+
+2,675 08019014704506
+
+MEDIANO
+
+2,676 08019018024180
+
+MEDIANO
+
+2,677 08019995439578
+
+MEDIANO
+
+2,678 18011971005629
+
+MEDIANO
+
+2,679 04139013594694
+
+MEDIANO
+
+2,680 05019011411406
+
+MEDIANO
+
+2,681 18041966026770
+
+MEDIANO
+
+2,682 08019001212686
+
+MEDIANO
+
+2,683 02051969003250
+
+MEDIANO
+
+2,684 13011983005811
+
+MEDIANO
+
+2,685 05019998173664
+
+MEDIANO
+
+2,686 02091978011684
+
+MEDIANO
+
+2,687 13011974005030
+
+MEDIANO
+
+2,688 04101959000922
+
+MEDIANO
+
+2,689 05011975053015
+
+MEDIANO
+
+2,690 01019995010006
+
+MEDIANO
+
+2,691 05019007116290
+
+MEDIANO
+
+2,692 06019001192227
+
+MEDIANO
+
+2,693 06019011358659
+
+MEDIANO
+
+2,694 05011979029974
+
+MEDIANO
+
+2,695 05019004003913
+
+MEDIANO
+
+2,696 08019001055466
+
+MEDIANO
+
+2,697 04121980001759
+
+MEDIANO
+
+2,698 18041960020023
+
+MEDIANO
+
+2,699 08019002274767
+
+MEDIANO
+
+2,700 03041982003736
+
+MEDIANO
+
+No.
+
+RTN NUEVO TAMAÑO
+
+2,701 01011959011440
+
+MEDIANO
+
+2,702 01019003006518
+
+MEDIANO
+
+2,703 08019017963381
+
+MEDIANO
+
+2,704 02091976012890
+
+MEDIANO
+
+2,705 05019002058990
+
+MEDIANO
+
+2,706 05019995101927
+
+MEDIANO
+
+2,707 05019999177632
+
+MEDIANO
+
+2,708 08019995390633
+
+MEDIANO
+
+2,709 05011961005863
+
+MEDIANO
+
+2,710 05011992034279
+
+MEDIANO
+
+2,711 12081951000396
+
+MEDIANO
+
+2,712 18051966000648
+
+MEDIANO
+
+2,713 05011953031270
+
+MEDIANO
+
+2,714 05019009218090
+
+MEDIANO
+
+2,715 08019002265695
+
+MEDIANO
+
+2,716 08019006502116
+
+MEDIANO
+
+2,717 04011980003923
+
+MEDIANO
+
+2,718 11011957000353
+
+MEDIANO
+
+2,719 05019015706509
+
+MEDIANO
+
+2,720 05019999179013
+
+MEDIANO
+
+2,721 08019003241079
+
+MEDIANO
+
+2,722 08019013586270
+
+MEDIANO
+
+2,723 08051983000924
+
+MEDIANO
+
+2,724 08019001210654
+
+MEDIANO
+
+2,725 08019011380687
+
+MEDIANO
+
+2,726 06019017943765
+
+MEDIANO
+
+2,727 08019006039720
+
+MEDIANO
+
+2,728 08019995379230
+
+MEDIANO
+
+2,729 18049000004216
+
+MEDIANO
+
+2,730 08019008124348
+
+MEDIANO
+
+2,731 04081957000442
+
+MEDIANO
+
+2,732 14161984000595
+
+MEDIANO
+
+2,733 02059002024229
+
+MEDIANO
+
+2,734 05019006050550
+
+MEDIANO
+
+2,735 12059014636963
+
+MEDIANO
+
+2,736 05011978085114
+
+MEDIANO
+
+2,737 05019003089172
+
+MEDIANO
+
+2,738 03189000031122
+
+MEDIANO
+
+2,739 05019003088292
+
+MEDIANO
+
+2,740 05019016875476
+
+MEDIANO
+
+2,741 08019005000223
+
+MEDIANO
+
+2,742 11019995418772
+
+MEDIANO
+
+2,743 18049010298663
+
+MEDIANO
+
+2,744 08011977020554
+
+MEDIANO
+
+2,745 08031968001300
+
+MEDIANO
+
+2,746 08019014702091
+
+MEDIANO
+
+2,747 08019998175033
+
+MEDIANO
+
+2,748 01019004014724
+
+MEDIANO
+
+2,749 05019006460078
+
+MEDIANO
+
+2,750 05019009239021
+
+MEDIANO
+
+2,751 05019018019842
+
+MEDIANO
+
+2,752 05019002067682
+
+MEDIANO
+
+2,753 05019007095973
+
+MEDIANO
+
+2,754 04051955001535
+
+MEDIANO
+
+2,755 08019015808210
+
+MEDIANO
+
+2,756 14031953001248
+
+MEDIANO
+
+2,757 01101900126813
+
+MEDIANO
+
+2,758 08019003250037
+
+MEDIANO
+
+2,759 08019011418359
+
+MEDIANO
+
+2,760 05011967073030
+
+MEDIANO
+
+2,761 08019008164777
+
+MEDIANO
+
+2,762 08019008197714
+
+MEDIANO
+
+2,763 08019995020100
+
+MEDIANO
+
+2,764 16189017978338
+
+MEDIANO
+
+2,765 05061980022781
+
+MEDIANO
+
+2,766 07031970010709
+
+MEDIANO
+
+2,767 05019012507797
+
+MEDIANO
+
+2,768 05019998180737
+
+MEDIANO
+
+2,769 08019001211383
+
+MEDIANO
+
+2,770 04061976000454
+
+MEDIANO
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 35933 del 2022-05-26, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20220526-35933/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

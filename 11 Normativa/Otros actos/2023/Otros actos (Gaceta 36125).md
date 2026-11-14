@@ -1,0 +1,252 @@
+---
+tipo: "norma"
+tipo_acto: "Otro acto"
+numero: "No consta en la fuente"
+titulo: "Según el sumario de La Gaceta: Acuerdos 0053, 0057, 0059"
+emisor: "SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT)"
+gaceta_numero: 36125
+gaceta_fecha: "2023-01-10"
+gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36125 (2023-01-10)|La Gaceta 36125]]"
+paginas: "A. 1 - 16"
+sumario: "Acuerdos 0053, 0057, 0059"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230110-36125/download"
+extraido: "2026-11-14"
+huella: "a83b48f790045267"
+---
+<!-- portal:inicio -->
+# Según el sumario de La Gaceta: Acuerdos 0053, 0057, 0059
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Otro acto |
+| Número | No consta en la fuente |
+| Emisor | SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT) |
+| Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36125 (2023-01-10)\|La Gaceta 36125]] del 2023-01-10 |
+| Páginas | A. 1 - 16 |
+| Según el sumario de La Gaceta | Acuerdos 0053, 0057, 0059 |
+
+## Texto
+
+en los Despachos de Infraestructura y Transporte (SIT)
+
+ACUERDO 0053
+
+26 de septiembre del 2022.
+
+EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT)
+
+CONSIDERANDO: Que de conformidad al artículo 247 de la Constitución de la República de Honduras, los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia.
+
+CONSIDERANDO: Que en el Artículo 7 del Decreto Ejecutivo PCM-05-2022 de fecha 06 de abril del año 2022, publicado en el Diario Oficial “La Gaceta” en fecha 06 de abril del 2022, se Crea la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), con la finalidad de desarrollar los proyectos y programas de infraestructura, para lo cual contará con dos Subsecretarías, la Subsecretaría de Obras Públicas y la Subsecretaría de Transporte. Las atribuciones y competencias de la Inversión Estratégica/MCC-Honduras (INVEST-H), así como los programas y proyectos pasarán a formar parte de esta Secretaría de Estado.
+
+CONSIDERANDO: Que mediante Decreto Legislativo No. 58-2011, publicado en el Diario Oficial La Gaceta en fecha 13 de Julio 2011, fue aprobada la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, la cual tiene por objeto simplificar y agilizar los procedimientos de ejecución de proyectos de infraestructura pública, con el propósito de generar empleo y lograr mayor crecimiento económico a través de la modernización de la infraestructura nacional, las normas y procedimientos establecidos en esta Ley serán aplicables a las unidades ejecutoras de la Administración Pública Centralizada y Descentralizada a cargo de proyectos de infraestructura pública de cualquier naturaleza.
+
+CONSIDERANDO: Que en el artículo 22 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, establece que: Los dueños de terrenos continuos o cercanos a cualquier obra de infraestructura pública, cuyos predios hayan sido identificados por la respectiva unidad ejecutora a cargo del proyecto como idóneos para servir como bancos de materiales, están obligados a facilitar y permitir la extracción de todo el material que sea necesario para la apertura, construcción, mantenimiento del proyecto, sin costo alguno para el Estado o sus contratistas, previa notificación al propietario.
+
+CONSIDERANDO: Que en el Artículo 24 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública se establece que: Para que el Estado realice el aprovechamiento racional de los materiales requeridos, la Secretaría de Estado en los Despachos de Obras Públicas, Transporte y Vivienda (SOPTRAVI) ahora Secretaría de Infraestructura y Transporte (SIT), podrá otorgar autorizaciones a los órganos estatales, encargados de la ejecución de los diferentes proyectos de infraestructura pública y/o a las empresas constructoras por dichos órganos ejecutores, para que procedan a la extracción y acarreo de los materiales, de conformidad con los respectivos contratos de obra pública.
+
+CONSIDERANDO: Que el artículo 25 de la Ley Especial para la Simplificación de los procedimientos de Inversión en Infraestructura Pública, establece que la extracción de materiales efectuada por el Estado o sus ejecutores no afectará la explotación simultánea que puedan hacer los titulares de concesiones mineras, en caso que exista concesión previa al Acuerdo que emita SOPTRAVI ahora SIT autorizando la extracción. En tal razón, SOPTRAVI ahora SIT emitirá la respectiva autorización para que el órgano estatal realice la extracción de materiales sobre un banco o cantera concesionada, siempre que no exista otro sitio de mejor precisión. La explotación simultánea que haga el Estado y el concesionario estará sujeta a las normas técnicas que emita el Instituto Hondureño de Geología y Minas (INHGEOMIN).
+
+CONSIDERANDO: Que de no existir concesión alguna sobre el banco de materiales identificado, el Estado podrá realizar una extracción acorde con el aprovechamiento racional de esos recursos naturales, sujeto a las limitaciones que le señale INHGEOMIN en las respectivas normas técnicas que emitan para tal efecto.
+
+CONSIDERANDO: Que el artículo 26 de la Ley Especial para la Simplificación de los procedimientos de Inversión en Infraestructura Pública, establece que previo a la emisión del Acuerdo la Secretaría de Estado en los Despachos de Obras Públicas, Transporte y Vivienda (SOPTRAVI), ahora Secretaría de Infraestructura y Transporte (SIT), notificará de oficio al Instituto Hondureño de Geología y Minas INHGEOMIN, para que esta compruebe el estado ambiental, técnico y jurídico del banco de materiales identificado. De no haber impedimento para realizar la extracción, sin más trámite, INHGEOMIN procederá a la emisión de las normas técnicas aplicable al aprovechamiento, extracción y acarreo de los materiales. Con las normas técnicas emitidas y comunicadas, tanto a SOPTRAVI ahora SIT como al órgano ejecutor interesado, esta Secretaría de Estado procederá a la emisión del acuerdo de autorización correspondiente el cual será notificado tanto a la Unidad Ejecutora como al propietario del Inmueble identificado para servir como banco de materiales. La autorización emitida por SOPTRAVI ahora SIT, regulada en esta Ley, constituye el permiso único de extracción necesario para que el órgano ejecutor o el contratista del proyecto pueda realizar la extracción de los materiales, sin perjuicio de los demás permisos que por Ley pudieran corresponder en materia municipal, forestal y ambiental.
+
+CONSIDERANDO: Que la normativa antes relacionada concede al Estado de Honduras, a través de las entidades competentes de la ejecución de los proyectos de infraestructura pública, aprovechar de manera racional los recursos minerales no metálicos requeridos para la ejecución de proyectos; y en particular el Proyecto: “CONSTRUCCION DE OBRAS PAVIMENTO CON CONCRETO HIDRAULICO TRAMO SAN JUAN, MAPULACA SECCION III – SAN JUAN - CARRIZAL”, ubicado en el Municipio de Erandique, Departamento de Lempira y ejecutado por la Secretaría de Infraestructura y Transporte (SIT), a través de la Empresa SERMACO.
+
+CONSIDERANDO: Que las Unidades de Minas y Geología y Desarrollo Social dependientes del Instituto Hondureño de Geología y Minas (INHGEOMIN), emitieron el Informe Técnico ITCD-004-2022 de fecha 25 de enero del año 2022, de conformidad a la inspección realizada el día 19 de enero del 2022, a un (01) Banco de Préstamo de Materiales, denominados: Banco La LAGUNA 2, el cual está ubicado en el Municipio de Erandique, Departamento de Lempira, mismo que será utilizado en el Proyecto: “CONSTRUCCION DE OBRAS PAVIMENTO CON CONCRETO HIDRAULICO TRAMO SAN JUAN, MAPULACA SECCION III – SAN JUAN - CARRIZAL”, asimismo las unidades de Desarrollo Social, Ambiente y Seguridad, Registro Minero y Catastral y Minas y Geología, emitieron la Norma Técnica NTBP-002- 2022, en donde emiten las normas técnicas aplicables para el aprovechamiento de la extracción y acarreo de los Bancos de materiales.
+
+CONSIDERANDO: Que en fecha quince (15) días del mes de septiembre del dos mil veintidós (2022), las unidades de Ambiente y Seguridad, Minas y Geología y Desarrollo Social, dependiente del Instituto Hondureño de Geología y Minas (INHGEOMIN), emitieron el Dictamen UDS -BP- 004–2022, en donde recomiendan que previo al inicio de actividades de extracción en el banco seco La LAGUNA 2, se socialice con las comunidades cercanas sobre las actividades a realizar, asimismo cumplir y presentar toda la documentación requerida para la emisión de la presente normativa y también la documentación requerida según Dictamen UDS-BP-028-2021 a la brevedad posible. Así mismo se requiere que la empresa encargada de efectuar los trabajos de aprovechamiento de material a través de la Secretaría de Infraestructura y Transporte (SIT), titular del proyecto agregue al expediente, Copia de Resolución de autorización de explotación de banco de préstamo emitido por la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), mediante Acuerdo ministerial, establecido en la Ley Especial para la Simplificación de los procedimientos de Inversión en Infraestructura Pública, de acuerdo a lo instruido en los artículos No. 24, No. 25 y No. 26 de dicha Ley.
+
+POR TANTO:
+
+En ejercicio de sus atribuciones y en aplicación de lo establecido en los artículos 246, 247 de la Constitución de la República; artículos 10, 29, 30, 36 numerales 2 y 8, 116, 118, 119, y 122 de la Ley General de la Administración Pública; artículos 21, 22, 23, 24, 25, 26 y 27 de la Ley Especial para la Simplificación de los procedimientos de Inversión en Infraestructura Pública y artículo 7 del Decreto Ejecutivo PCM-05-2022 de fecha 06 de abril del año 2022, publicado en el Diario Oficial “La Gaceta” en fecha 06 de abril del 2022.
+
+ACUERDA:
+
+PRIMERO: Autorizar a la Empresa SERMACO, en su carácter de EJECUTOR del Proyecto “CONSTRUCCION DE OBRAS PAVIMENTO CON CONCRETO HIDRAULICO TRAMO SAN JUAN, MAPULACA SECCION III – SAN JUAN - CARRIZAL”, para que proceda a la explotación y aprovechamiento de un (01) Banco de Préstamo de Materiales, denominado, Banco La LAGUNA 2, ubicado en el Municipio de Erandique, Departamento de Lempira, dicha explotación se realizará durante el tiempo en ejecución del proyecto y que se detallan, con sus respectivas localizaciones georreferenciales a continuación:
+
+Banco de préstamo de material seco “LA LAGUNA 2”: Hoja Cartográfica Erandique N°. 2558-iu, ubicado en el Municipio de Erandique Departamento de Lempira, con coordenadas UTM siguientes: 339545 1582594, 339634 1582590, 339696 1582610, 339737 1582608, 339779 1582556, 339932 1582533, 339892 1582508, 339938 1582474, 339974 1582423, 339946 1582421, 339931 1582410, 339899 1582427, 339879 1582428, 339869 1582450, 339813 1582489, 339745 1582486, 339672 1582500, 339627 1582495, 339611 1582494, 339600 1582503, 339583 1582496, 339546 1582477, con un Volumen autorizado de 120,000 m³.
+
+SEGUNDO: La Secretaría de Infraestructura y Transporte
+
+(SIT) y la empresa SERMACO, deberán notificar a la Alcaldía Municipal de Erandique sobre las actividades de extracción, así como realizar una socialización con la Asociación de Patronatos de las comunidades cercanas al Proyecto con los acuerdos correspondientes previo al inicio de las actividades de aprovechamiento con el fin de evitar conflictos en la zona.
+
+TERCERO: La empresa SERMACO, deberá presentar a la Unidad de Gestión Ambiental (UGA) de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), el Plan de Salvamento, aprobado por el Instituto de Conservación Forestal ICF previo al inicio de las actividades de aprovechamiento, así como el Perfil Técnico completo del banco con un plazo máximo de tres meses.
+
+CUARTO: La empresa SERMACO, deberá presentar a la Unidad de Gestión Ambiental UGA/SIT, una caracterización biológica de flora y fauna del área afectada previo al inicio de las actividades de aprovechamiento, así mismo deberá formular y adecuar un Plan de Gestión Ambiental que permita la recuperación de los factores ambientales del área alterada.
+
+QUINTO: La empresa SERMACO, deberá remitir a la Unidad de Gestión Ambiental (UGA) de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), el cronograma de actividades de extracción de materiales actualizado a partir de la fecha de publicación del presente acuerdo, así mismo un informe mensual adjuntando copia de la Bitácora de Explotación de Materiales y la Bitácora Ambiental, donde se registren los volúmenes diarios de extracción debidamente firmada y sellada por la empresa supervisora del proyecto.
+
+SEXTO: La Empresa SERMACO durante la ejecución del proyecto, deberá Mantener el drenaje natural existente en la parte izquierda del área otorgada limpia y sin retenciones, evitando deslizamientos de material por arrastre.
+
+SEPTIMO: La Empresa SERMACO, al finalizar la explotación del Banco de Materiales deberá presentar un Plan de Cierre junto con la Solicitud del respectivo cierre ambiental del Banco de Préstamo de Materiales del Proyecto, ante la Unidad de Gestión Ambiental (UGA) de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), quien la remitirá al Instituto Hondureño de Geología y Minas (INHGEOMIN), a fin que estas, en cumplimiento de lo ordenado en la Ley de Minería, su Reglamento y los Lineamientos Técnicos emitidos por INHGEOMIN, den por culminada la explotación del Banco de Materiales.
+
+OCTAVO: La Empresa SERMACO, al finalizar la explotación del Banco de Materiales deberá realizar actividades de reforestación con plantas nativas de la zona.
+
+NOVENO: Notificar el presente acuerdo a la Unidad Municipal Ambiental de Erandique del departamento de Lempira, a la Unidad Ejecutora y al Instituto Hondureño de Geología y Minas (INHGEOMIN), a fin que estas, en cumplimiento de lo ordenado en la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, supervise el cumplimiento de las normas técnicas emitidas en relación a la extracción y acarreo de los materiales, con el fin de informar a los órganos fiscalizadores de Estado y a la ciudadanía en general, los resultados de dicha supervisión.
+
+DÉCIMO: Notificar a los propietarios de los inmuebles, el presente acuerdo, a quienes se les hará saber que el no cumplimiento de lo dispuesto en dicho acuerdo, dará lugar a aplicar lo establecido en el artículo 27 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, que establece: Cometerá el delito de desobediencia tipificado en el Código Penal quien, debidamente notificado por la autoridad competente, ejecute actos que tengan por objeto impedir al Estado o a sus contratistas el acceso al inmueble identificado para servir como banco de materiales. El mismo delito incurrirá quien impida o dificulte la extracción de materiales dentro de un banco de materiales que será aprovechado por el Estado o quien procure obtener una remuneración por el valor de los materiales extraídos. Cuando haya particulares que impidan el acceso al inmueble o a la extracción de materiales dentro del mismo, la Unidad Ejecutora responsable presentará inmediatamente la denuncia correspondiente ante la Fiscalía General de la República, para que se deduzca al particular la responsabilidad que corresponda.
+
+DÉCIMO PRIMERO: El presente acuerdo es de ejecución inmediata y deberá publicarse en el Diario Oficial La Gaceta.
+
+Dado en la ciudad de Comayagüela, Municipio del Distrito central a los veintiséis días del mes de septiembre del año dos mil veintidós.
+
+ING. MAURICIO ANTONIO RAMOS SUAZO SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT) ABOG. IRIS MARIEL BUDDE GARCÍA, SECRETARIA GENERAL Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT)
+
+ACUERDO 0057
+
+26 de octubre del 2022.
+
+EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT)
+
+CONSIDERANDO: Que de conformidad al artículo 247 de la Constitución de la República de Honduras, los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia.
+
+CONSIDERANDO: Que en el Artículo 7 del Decreto Ejecutivo PCM-05-2022 de fecha 06 de abril del año 2022, publicado en el Diario Oficial “La Gaceta” en fecha 06 de abril del 2022, se Crea la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), con la finalidad de desarrollar los proyectos y programas de infraestructura, para lo cual contará con dos Subsecretarias, la Subsecretaria de Obras Públicas y la Subsecretaria de Transporte. Las atribuciones y competencias de la Inversión Estratégica/MCCHonduras (INVEST-H), así como los programas y proyectos pasarán a formar parte de esta Secretaría de Estado.
+
+CONSIDERANDO: Que mediante Decreto Legislativo No. 58-2011, publicado en el Diario Oficial La Gaceta en fecha 13 de julio 2011, fue aprobada la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, la cual tiene por objeto simplificar y agilizar los procedimientos de ejecución de proyectos de infraestructura pública, con el propósito de generar empleo y lograr mayor crecimiento económico a través de la modernización de la infraestructura nacional, las normas y procedimientos establecidos en esta Ley serán aplicables a las unidades ejecutoras de la Administración Pública Centralizada y Descentralizada, a cargo de proyectos de Infraestructura Pública de cualquier naturaleza.
+
+CONSIDERANDO: Que en el artículo 22 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, establece que: los dueños de terrenos continuos o cercanos a cualquier obra de infraestructura pública, cuyos predios hayan sido identificados por la respectiva unidad ejecutora a cargo del proyecto como idóneos para servir como bancos de materiales, están obligados a facilitar y permitir la extracción de todo el material que sea necesario para la apertura, construcción, mantenimiento del proyecto, sin costo alguno para el Estado o sus contratistas, previa notificación al propietario.
+
+CONSIDERANDO: Que en el Artículo 24 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, se establece que: para que el Estado realice el aprovechamiento racional de los materiales requeridos, la Secretaría de Estado en los Despachos de Obras Públicas, Transporte y Vivienda (SOPTRAVI) ahora Secretaría de Infraestructura y Transporte (SIT), podrá otorgar autorizaciones a los órganos estatales, encargados de la ejecución de los diferentes proyectos de Infraestructura Pública y/o a las empresas constructoras por dichos órganos ejecutores, para que procedan a la extracción y acarreo de los materiales, de conformidad con los respectivos contratos de obra pública.
+
+CONSIDERANDO: Que el artículo 25 de la Ley Especial para la Simplificación de los procedimientos de Inversión en Infraestructura Pública, establece que la extracción de materiales efectuada por el Estado o sus ejecutores no afectará la explotación simultánea que puedan hacer los titulares de concesiones mineras, en caso que exista concesión previa al Acuerdo que emita SOPTRAVI ahora SIT autorizando la extracción. En tal razón, SOPTRAVI ahora SIT emitirá la respectiva autorización para que el órgano estatal realice la extracción de materiales sobre un banco o cantera concesionada, siempre que no exista otro sitio de mejor precisión. La explotación simultánea que haga el Estado y el concesionario estará sujeta a las normas técnicas que emita el Instituto Hondureño de Geología y Minas (INHGEOMIN).
+
+CONSIDERANDO: Que, de no existir concesión alguna sobre el banco de materiales identificado, el Estado podrá realizar una extracción acorde con el aprovechamiento racional de esos recursos naturales, sujeto a las limitaciones que le señale INHGEOMIN en las respectivas normas técnicas que emitan para tal efecto.
+
+CONSIDERANDO: Que el artículo 26 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, establece que previo a la emisión del Acuerdo, la Secretaría de Estado en los Despachos de Obras Públicas, Transporte y Vivienda (SOPTRAVI), ahora Secretaría de Infraestructura y Transporte (SIT), notificará de oficio al Instituto Hondureño de Geología y Minas INHGEOMIN, para que esta compruebe el estado ambiental, técnico y jurídico del banco de materiales identificado. De no haber impedimento para realizar la extracción, sin más trámite, INHGEOMIN procederá a la emisión de las normas técnicas aplicable al aprovechamiento, extracción y acarreo de los materiales. Con las normas técnicas emitidas y comunicadas, tanto a SOPTRAVI ahora SIT como al órgano ejecutor interesado, esta Secretaría de Estado procederá a la emisión del acuerdo de autorización correspondiente el cual será notificado tanto a la Unidad Ejecutora como al propietario del Inmueble identificado para servir como banco de materiales. La autorización emitida por SOPTRAVI ahora SIT, regulada en esta Ley, constituye el permiso único de extracción necesario para que el órgano ejecutor o el contratista del proyecto pueda realizar la extracción de los materiales, sin perjuicio de los demás permisos que por Ley pudieran corresponder en materia municipal, forestal y ambiental.
+
+CONSIDERANDO: Que la normativa antes relacionada concede al Estado de Honduras, a través de las entidades competentes de la ejecución de los proyectos de Infraestructura Pública, aprovechar de manera racional los recursos minerales no metálicos requeridos para la ejecución de proyectos; y en particular el Proyecto: “CONSTRUCCIÓN DE OBRAS PARA PAVIMENTACIÓN CON CONCRETO HIDRÁULICO DEL TRAMO EL CARRETO CUBULERO-SONORA MUNICIPIO DE ALIANZA, DEPARTAMENTO DE VALLE, LONGITUD 16.07 KM, CON SUB BASE ESTABILIZADA DE 15 CM, CARPETA HIDRÁULICA DE 16 CM, MR 650 PSI, ANCHO DE 6.50M”, Ubicado en el Municipio de Nacaome, departamento de Valle y ejecutado por la Secretaría de Infraestructura y Transporte (SIT), a través de la Empresa Constructora WILLIAM y MOLINA.
+
+CONSIDERANDO: Que las Unidades de Registro Minero y Catastral y Desarrollo Social dependientes del Instituto Hondureño de Geología y Minas (INHGEOMIN), emitieron el Informe Técnico ITCD-011-2022 de fecha 12 de septiembre del año 2022, de conformidad a la inspección realizada el día 06 de septiembre del año 2022, a un (01) Banco de Préstamo de Materiales, denominado: Banco Río Nacaome, el cual está ubicado en el Municipio de Nacaome, departamento de Valle, mismo que será utilizado en el Proyecto: “CONSTRUCCIÓN DE OBRAS PARA PAVIMENTACIÓN CON CONCRETO HIDRÁULICO DEL TRAMO EL CARRETO CUBULERO-SONORA MUNICIPIO DE ALIANZA, DEPARTAMENTO DE VALLE, LONGITUD 16.07 KM, CON SUB BASE ESTABILIZADA DE 15 CM, CARPETA HIDRÁULICA DE 16 CM, MR 650 PSI, ANCHO DE 6.50M”, asimismo las unidades de Desarrollo Social, Ambiente y Seguridad, Registro Minero y Catastral y Minas y Geología, emitieron la Norma Técnica NTBP-005-2022, en donde emiten las normas técnicas aplicables para el aprovechamiento de la extracción y acarreo del Banco de materiales.
+
+CONSIDERANDO: Que en fecha diecinueve (19) días del mes de septiembre del año dos mil veintidós (2022), las unidades de Ambiente y Seguridad, Minas y Geología y Desarrollo Social, dependiente del Instituto Hondureño de Geología y Minas (INHGEOMIN), emitieron el Dictamen UDS -BP- 011–2022, en donde manifiestan que el Banco inspeccionado cumple con las expectativas para el otorgamiento de Normativa Técnica de aprovechamiento de acuerdo a informe de inspección ITCD-011-2022 tomando en consideración la actual necesidad de mejorar la infraestructura vial a nivel nacional. Asimismo, se requiere que la empresa encargada de efectuar los trabajos de aprovechamiento de material a través de la Secretaría de Infraestructura y Transporte (SIT), titular del proyecto Previo al Inicio de Actividades de Extracción agregue al expediente: Copia de Resolución de autorización de explotación de banco de préstamo emitido por la Secretaría de Estado en los Despachos de Infraestructura y Transporte
+
+(SIT) mediante acuerdo ministerial, establecido en la Ley Especial para la Simplificación de los procedimientos de Inversión en Infraestructura Pública de acuerdo a lo instituido en los artículos No. 24, No. 25 y No. 26 de dicha Ley.
+
+Licencia Ambiental del proyecto. Resultados de las pruebas de laboratorio de la materia a extraer. Bitácora de volumen de material extraído firmado y sellado por el encargado una vez inicien las labores de explotación la cual se debe presentarla mensualmente ante el INHGEOMIN anexada al expediente de mérito. Generación de empleo (detallar los empleos directos e indirectos generados a partir de la actividad, así como clasificación por genero). Punto de Acta donde se celebra el contrato de la empresa quien ejecutará la obra. Adjuntar Cronograma de Actividades de Extracción de material para uso en el proyecto de rehabilitación carretero y tiempo de ejecución. Secciones o perfiles de los tramos donde se realizarán labores de extracción. Además, se deberán tener en cuenta las recomendaciones plasmadas en el informe ITCD-011-2022. Si se pretende cortar árboles, se deberá contar con el permiso del Instituto de Conservación Forestal (ICF) y anexarlo al expediente 1648. Se recomienda que previo al inicio de actividades de extracción en el banco aluvial, se socialice con la comunidad sobre las actividades a realizar. Presentar el Cronograma de Actividades actualizado y Actualizar la carta poder por parte del apoderado legal del expediente.
+
+POR TANTO:
+
+En ejercicio de sus atribuciones y en aplicación de lo establecido en los artículos 246, 247 de la Constitución de la República; artículos 10, 29, 30, 36 numerales 2 y 8, 116, 118, 119, y 122 de la Ley General de la Administración Pública; artículos 21, 22, 23, 24, 25, 26 y 27 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública y artículo 7 del Decreto Ejecutivo PCM-05-2022 de fecha 06 de abril del año 2022, publicado en el Diario Oficial “La Gaceta” en fecha 06 de abril del 2022.
+
+ACUERDA:
+
+PRIMERO: Autorizar a la empresa WILLIAM y MOLINA en su carácter de EJECUTOR del Proyecto “CONSTRUCCIÓN DE OBRAS PARA PAVIMENTACIÓN CON CONCRETO HIDRÁULICO DEL TRAMO EL CARRETO CUBULERO-SONORA MUNICIPIO DE ALIANZA, DEPARTAMENTO DE VALLE, LONGITUD
+
+16.07 KM, CON SUB BASE ESTABILIZADA DE 15 CM, CARPETA HIDRÁULICA DE 16 CM, MR 650 PSI, ANCHO DE 6.50M”, para que proceda a la explotación y aprovechamiento de un (01) Banco de Préstamo de Materiales, denominado Banco Río Nacaome, ubicado en el Municipio de Nacaome, Departamento de Valle; dicha explotación se realizará durante el tiempo en ejecución del proyecto y se detalla, con su respectiva localización georreferencial a continuación:
+
+Banco de préstamo de material Aluvial “BANCO RIO NACAOME”: con Hoja Cartográfica Bahía de Chismuyo No.
+
+2656-II, ubicado en el Municipio de Nacaome, Departamento de Valle, con coordenadas UTM siguientes: 443020 1489762, 443029 1487591, 442745 1487541, 442729 1487281, 442510 1487085, 442119 1486994, 442289 1486914, 443040 1486959, 443083 1487415, 443277 1487567, 443274 1489750. Volumen autorizado de 200,000 m³.
+
+SEGUNDO: La Secretaría de Infraestructura y Transporte (SIT), y la Empresa WILLIAM y MOLINA, deberán notificar a la Alcaldía Municipal de Nacaome, Departamento de Valle, sobre las actividades de extracción, así como realizar una socialización con la Asociación de Patronatos de las comunidades cercanas al Proyecto con los acuerdos correspondientes previo al inicio de las actividades de aprovechamiento con el fin de evitar conflictos en la zona.
+
+TERCERO: La Empresa WILLIAM y MOLINA, si pretende cortar árboles deberá presentar a la Unidad de Gestión Ambiental (UGA) de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), el permiso del Instituto de Conservación Forestal (ICF) así como el Plan de Salvamento, aprobado por este, previo al inicio de las actividades de aprovechamiento, así como el Perfil Técnico completo del banco con un plazo máximo de tres meses.
+
+CUARTO: La empresa WILLIAM y MOLINA, deberá remitir a la Unidad de Gestión Ambiental (UGA) de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), los resultados de las pruebas de laboratorio de la materia a extraer, el cronograma de actividades de la extracción de materiales actualizado a partir de la fecha de publicación del presente acuerdo, así mismo un informe mensual adjuntando copia de la Bitácora de Explotación de Materiales, la Bitácora Ambiental, donde se registren los volúmenes diarios de extracción debidamente firmada y sellada por la empresa supervisora del proyecto y copia del punto de acta donde se celebra el contrato de la empresa quien ejecutará la obra.
+
+QUINTO: La empresa WILLIAM y MOLINA, al finalizar la explotación del Banco de Materiales deberá presentar un Plan de Cierre junto con la Solicitud del respectivo cierre ambiental del Banco de Préstamo de Materiales del Proyecto, ante la Unidad de Gestión Ambiental (UGA) de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), quien la remitirá al Instituto Hondureño de Geología y Minas (INHGEOMIN), a fin que estas, en cumplimiento de lo ordenado en la Ley de Minería, su Reglamento y los Lineamientos Técnicos emitidos por INHGEOMIN, den por culminada la explotación del Banco de Materiales.
+
+SEXTO: Notificar el presente acuerdo a la Unidad Municipal Ambiental de Nacaome Departamento de Valle, a la Unidad Ejecutora y al Instituto Hondureño de Geología y Minas (INHGEOMIN), a fin que estas, en cumplimiento de lo ordenado en la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, supervisen el cumplimiento de las normas técnicas emitidas en relación a la extracción y acarreo de los materiales e informan a los órganos fiscalizadores de Estado y a la ciudadanía en general, los resultados de dicha supervisión.
+
+SÉPTIMO: Notificar al propietario del inmueble afectados en su caso, el presente acuerdo, a quien se le hará saber que el no cumplimiento de lo dispuesto, dará lugar a aplicar lo establecido en el artículo 27 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, que dice: Cometerá el delito de desobediencia tipificado en el Código Penal quien, debidamente notificado por la autoridad competente, ejecute actos que tengan por objeto impedir al Estado o a sus contratistas el acceso al inmueble identificado para servir como banco de materiales. El mismo delito incurrirá quien impida o dificulte la extracción de materiales dentro de un banco de materiales que será aprovechado por el Estado o quien procure obtener una remuneración por el valor de los materiales extraídos. Cuando haya particulares que impidan el acceso al inmueble o a la extracción de materiales dentro del mismo, la Unidad Ejecutora responsable presentará inmediatamente la denuncia correspondiente ante la Fiscalía General de la Republica, para que se deduzca al particular la responsabilidad que corresponda
+
+OCTAVO: El presente Acuerdo es de ejecución inmediata y deberá publicarse en el Diario Oficial La Gaceta.
+
+Dado en la ciudad de Comayagüela, municipio del Distrito Central a los veintiséis (26) días del mes de octubre del año dos mil veintidós (2022).
+
+ING. MAURICIO ANTONIO RAMOS SUAZO SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT) ABG. IRIS MARIEL BUDDE GARCÍA, SECRETARIA GENERAL Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT)
+
+ACUERDO 0059
+
+07 de noviembre del 2022
+
+EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT)
+
+CONSIDERANDO: Que de conformidad al artículo 247 de la Constitución de la República de Honduras, los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia.
+
+CONSIDERANDO: Que en el Artículo 7 del Decreto Ejecutivo PCM-05-2022 de fecha 06 de abril del año 2022, publicado en el Diario Oficial “La Gaceta” en fecha 06 de abril del 2022, se Crea la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), con la finalidad de desarrollar los proyectos y programas de infraestructura, para lo cual contará con dos Subsecretarías, la Subsecretaría de Obras Públicas y la Subsecretaría de Transporte. Las atribuciones y competencias de la Inversión Estratégica/MCCHonduras (INVEST-H), así como los programas y proyectos pasarán a formar parte de esta Secretaría de Estado.
+
+CONSIDERANDO: Que mediante Decreto Legislativo No. 58-2011, publicado en el Diario Oficial La Gaceta en fecha 13 de Julio 2011, fue aprobada la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, la cual tiene por objeto simplificar y agilizar los procedimientos de ejecución de proyectos de infraestructura pública, con el propósito de generar empleo y lograr mayor crecimiento económico a través de la modernización de la infraestructura nacional, las normas y procedimientos establecidos en esta Ley serán aplicables a las unidades ejecutoras de la Administración Pública Centralizada y Descentralizada a cargo de proyectos de infraestructura pública de cualquier naturaleza.
+
+CONSIDERANDO: Que en el artículo 22 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, establece que: los dueños de terrenos continuos o cercanos a cualquier obra de infraestructura pública, cuyos predios hayan sido identificados por la respectiva unidad ejecutora a cargo del proyecto como idóneos para servir como bancos de materiales, están obligados a facilitar y permitir la extracción de todo el material que sea necesario para la apertura, construcción, mantenimiento del proyecto, sin costo alguno para el Estado o sus contratistas, previa notificación al propietario.
+
+CONSIDERANDO: Que en el Artículo 24 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública se establece que: para que el Estado realice el aprovechamiento racional de los materiales requeridos, la Secretaría de Estado en los Despachos de Obras Públicas, Transporte y Vivienda (SOPTRAVI) ahora Secretaría de Infraestructura y Transporte (SIT), podrá otorgar autorizaciones a los órganos estatales, encargados de la ejecución de los diferentes proyectos de infraestructura pública y/o a las empresas constructoras por dichos órganos ejecutores, para que procedan a la extracción y acarreo de los materiales, de conformidad con los respectivos contratos de obra pública.
+
+CONSIDERANDO: Que el artículo 25 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, establece que la extracción de materiales efectuada por el Estado o sus ejecutores no afectará la explotación simultánea que puedan hacer los titulares de concesiones mineras, en caso que exista concesión previa al Acuerdo que emita SOPTRAVI ahora SIT autorizando la extracción. En tal razón, SOPTRAVI ahora SIT emitirá la respectiva autorización para que el órgano estatal realice la extracción de materiales sobre un banco o cantera concesionada, siempre que no exista otro sitio de mejor precisión. La explotación simultánea que haga el Estado y el concesionario estará sujeta a las normas técnicas que emita el Instituto Hondureño de Geología y Minas (INHGEOMIN).
+
+CONSIDERANDO: Que de no existir concesión alguna sobre el banco de materiales identificado, el Estado podrá realizar una extracción acorde con el aprovechamiento racional de esos recursos naturales, sujeto a las limitaciones que le señale INHGEOMIN en las respectivas normas técnicas que emitan para tal efecto.
+
+CONSIDERANDO: Que el artículo 26 de la Ley Especial para la Simplificación de los procedimientos de Inversión en Infraestructura Pública, establece que previo a la emisión del Acuerdo la Secretaria de Estado en los Despachos de Obras Públicas, Transporte y Vivienda (SOPTRAVI), ahora Secretaria de Infraestructura y Transporte (SIT), notificará de oficio al Instituto Hondureño de Geología y Minas INHGEOMIN, para que esta compruebe el estado ambiental, técnico y jurídico del banco de materiales identificado. De no haber impedimento para realizar la extracción, sin más trámite, INHGEOMIN procederá a la emisión de las normas técnicas aplicable al aprovechamiento, extracción y acarreo de los materiales. Con las normas técnicas emitidas y comunicadas, tanto a SOPTRAVI ahora SIT como al órgano ejecutor interesado, esta Secretaría de Estado procederá a la emisión del acuerdo de autorización correspondiente el cual será notificado tanto a la Unidad Ejecutora como al propietario del Inmueble identificado para servir como banco de materiales. La autorización emitida por SOPTRAVI ahora SIT, regulada en esta Ley, constituye el permiso único de extracción necesario para que el órgano ejecutor o el contratista del proyecto pueda realizar la extracción de los materiales, sin perjuicio de los demás permisos que por Ley pudieran corresponder en materia municipal, forestal y ambiental.
+
+CONSIDERANDO: Que la normativa antes relacionada concede al Estado de Honduras, a través de las entidades competentes de la ejecución de los proyectos de infraestructura pública, aprovechar de manera racional los recursos minerales no metálicos requeridos para la ejecución de proyectos; y en particular el “PROYECTO DE EMERGENCIA OCASIONADO POR LAS TORMENTAS TROPICALES ZONA OCCIDENTE”, ubicado en los Municipios de Veracruz y Santa Rosa, Departamento de Copán y ejecutado por la Secretaría de Infraestructura y Transporte (SIT), a través de la Empresa Constructora WILLIAM y MOLINA.
+
+CONSIDERANDO: Que las Unidades Desarrollo Social y Registro Minero y Catastral dependientes del Instituto Hondureño de Geología y Minas (INHGEOMIN), emitieron el Informe Técnico ITCD-013-2022 de fecha 24 de octubre del año 2022, de conformidad a la inspección realizada el día 19 de octubre del 2022, a un (01) Banco de Préstamo de Materiales Aluvial, denominado: Banco LA ESPERANCITA, el cual está ubicado en los municipios de Veracruz y Santa Rosa, departamento de Copán, mismo que será utilizado en el Proyecto denominado: “PROYECTO DE EMERGENCIA OCASIONADO POR LAS TORMENTAS TROPICALES ZONA OCCIDENTE”, asimismo las unidades de Desarrollo Social, Ambiente y Seguridad, Registro Minero y Catastral y Minas y Geología, emitieron la Norma Técnica NTBP-006- 2022, en donde emiten las normas técnicas aplicables para el aprovechamiento de la extracción y acarreo del Banco de materiales.
+
+CONSIDERANDO: Que en fecha veintiocho (28) días del mes de octubre del dos mil veintidós (2022), las unidades de Ambiente y Seguridad, Minas y Geología y Desarrollo Social, dependiente del Instituto Hondureño de Geología y Minas (INHGEOMIN), emitieron el Dictamen UDS -BP-016–2022, en donde recomiendan que previo al inicio de actividades de extracción en el banco aluvial “La Esperancita”, se cumpla con lo recomendado tal como se describe en informe ITCD-013-2022, asimismo se requiere que la empresa encargada de efectuar los trabajos de aprovechamiento de material a través de la Secretaría de Infraestructura y Transporte (SIT), titular del proyecto agregue al expediente, Copia de Resolución de autorización de explotación de banco de préstamo emitido por la SIT mediante Acuerdo ministerial, establecido en la Ley Especial para la Simplificación de los procedimientos de Inversión en Infraestructura Pública, de acuerdo a lo instruido en los artículos No. 24, No. 25 y No. 26 de dicha Ley.
+
+POR TANTO:
+
+En ejercicio de sus atribuciones y en aplicación de lo establecido en los artículos 246, 247 de la Constitución de la República; Artículos 10, 29, 30, 36 numerales 2 y 8, 116, 118, 119 y 122 de la Ley General de la Administración Pública;
+
+Artículos 21, 22, 23, 24, 25, 26 y 27 de la Ley Especial para la Simplificación de los procedimientos de Inversión en Infraestructura Pública y artículo 7 del Decreto Ejecutivo PCM-05-2022 de fecha 06 de abril del año 2022, publicado en el Diario Oficial “La Gaceta” en fecha 06 de abril del 2022.
+
+ACUERDA:
+
+PRIMERO: Autorizar a la Empresa Constructora WILLIAM y MOLINA en su carácter de EJECUTOR del Proyecto denominado: “PROYECTO DE EMERGENCIA OCASIONADO POR LAS TORMENTAS TROPICALES ZONA OCCIDENTE”, para que proceda a la explotación y aprovechamiento de un (01) Banco de Préstamo de Materiales, denominado Banco LA ESPERANCITA, ubicado en los municipios de Veracruz y Santa Rosa, departamento de Copán; dicha explotación se realizará durante el tiempo en ejecución del proyecto y que se detalla, con su respectiva localización georreferéncial a continuación:
+
+Banco de préstamo de material aluvial “LA ESPERANCITA”: Con Hoja Cartográfica Dulce Nombre No.
+
+2460-IV, ubicado en los municipio de Veracruz y Santa Rosa, departamento de Copán con coordenadas UTM siguientes:
+
+311272 1646614, 311273 1646691, 311045 1646685, 311027 1646519, 311085 1646522, 311090 1646612, 311272 1646614, con un Volumen autorizado de 40,000 m³.
+
+SEGUNDO: La Secretaría de Infraestructura y Transporte (SIT), y la Empresa WILLIAM y MOLINA, deberá notificar a las Alcaldías Municipales de los municipios de Veracruz y Santa Rosa, departamento de Copán, sobre las actividades de extracción, así como realizar una socialización con la Asociación de Patronatos de las comunidades cercanas al Proyecto con los acuerdos correspondientes previo al inicio de las actividades de aprovechamiento con el fin de evitar conflictos en la zona.
+
+TERCERO: La Empresa WILLIAM y MOLINA deberá presentar a la Unidad de Gestión Ambiental (UGA) de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), el Plan de Salvamento, aprobado por el Instituto de Conservación Forestal ICF previo al inicio de las actividades de aprovechamiento, así como el Perfil Técnico completo del banco con un plazo máximo de tres meses.
+
+CUARTO: La empresa WILLIAM y MOLINA deberá presentar a la Unidad de Gestión Ambiental UGA/SIT, una caracterización biológica de flora y fauna del área afectada previo al inicio de las actividades de aprovechamiento, así mismo formular y adecuar un Plan de Gestión Ambiental que permita la recuperación de los factores ambientales del área alterada.
+
+QUINTO: La Empresa WILLIAM y MOLINA, deberá remitir a la Unidad de Gestión Ambiental (UGA) de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), el cronógrama mensual de actividades de extracción de materiales actualizado, a partir de la fecha de publicación del presente acuerdo, así mismo un informe mensual adjuntando copia de la Bitácora de Explotación de Materiales y la Bitácora Ambiental, donde se registren los volúmenes diarios de extracción debidamente firmada y sellada por la empresa supervisora del proyecto, ademas establecer por escrito los tiempos de ejecución de las actividades de aprovechamiento de extracción y acarreo del material metálico no minero.
+
+SEXTO: La empresa WILLIAM y MOLINA durante la ejecución del proyecto, deberá mantener el drenaje natural existente del área otorgada limpia y sin retenciones, evitando deslizamientos de material por arrastre, respetar mínimo de 5 a 10 metros entre el corte de material en relación al terreno natural (bordas de protección) así como no dejar montículos en el cauce del río, garantizando ademas que las actividades de extracción no afectaran estructuralmente las pilastras de concreto, aguas arriba del puente.
+
+SÉPTIMO: La empresa WILLIAM y MOLINA, al finalizar la explotación del Banco de Materiales deberá presentar un Plan de Cierre junto con la Solicitud del respectivo cierre ambiental del Banco de Préstamo de Materiales del Proyecto, ante la Unidad de Gestión Ambiental (UGA) de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), quien la remitirá al Instituto Hondureño de Geología y Minas (INHGEOMIN), a fin que estas, en cumplimiento de lo ordenado en la Ley de Minería, su Reglamento y los Lineamientos Técnicos emitidos por INHGEOMIN, den por culminada la explotación del Banco de Materiales.
+
+OCTAVO: La empresa WILLIAM y MOLINA, al finalizar la explotación del Banco de Materiales deberá realizar actividades de reforestación con plantas nativas de la zona.
+
+NOVENO: Notificar el presente acuerdo a las Unidades Municipales Ambientales de los municipios de Veracruz y Santa Rosa, departamento de Copán, a la Unidad Ejecutora y al Instituto Hondureño de Geología y Minas (INHGEOMIN), a fin que esta, en cumplimiento de lo ordenado en la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, supervise el cumplimiento de las normas técnicas emitidas en relación a la extracción y acarreo de los materiales, con el fin de informar a los órganos fiscalizadores de Estado y a la ciudadanía en general, los resultados de dicha supervisión.
+
+DÉCIMO: Notificar al propietario de los inmuebles, el presente acuerdo, a quien se le hará saber que el no cumplimiento de lo dispuesto, dará lugar a aplicar lo establecido en el artículo 27 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, que dice: Cometerá el delito de desobediencia tipificado en el Código Penal quien, debidamente notificado por la autoridad competente, ejecute actos que tengan por objeto impedir al Estado o a sus contratistas el acceso al inmueble identificado para servir como banco de materiales. El mismo delito incurrirá quien impida o dificulte la extracción de materiales dentro de un banco de materiales que será aprovechado por el Estado o quien procure obtener una remuneración por el valor de los materiales extraídos. Cuando haya particulares que impidan el acceso al inmueble o a la extracción de materiales dentro del mismo, la Unidad Ejecutora responsable presentará inmediatamente la denuncia correspondiente ante la Fiscalía General de la República, para que se deduzca al particular la responsabilidad que corresponda.
+
+DÉCIMO PRIMERO: El presente acuerdo es de ejecución inmediata y deberá publicarse en el Diario Oficial La Gaceta.
+
+Dado en la ciudad de Comayagüela, municipio del Distrito Central, a los siete (07) días del mes de noviembre del año dos mil veintidós (2022).
+
+ING. MAURICIO ANTONIO RAMOS SUAZO SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT) ABOG. IRIS MARIEL BUDDE GARCÍA, SECRETARIA GENERAL Avance Próxima Edición
+
+ACUERDA:PRIMERO: Delegar en el Subdirector Nacional del Sistema de Emergencias Nueve, Uno, Uno (911), ciudadano Celio Fernando Ferrera Lanza, las facultades de, Administración General del Sistema Nacional de Emergencias Nueve, Uno, Uno (911); de planificación; toma de decisiones para operar, mejorar y ampliar el área técnica; y en la inversión del presupuesto; pudiendo llevar a cabo inclusive procesos de licitación desde emitir su autorización, preparación, adjudicación, ejecución, liquidación, así como suscribir todo tipo de adendas y contratos, para lo cual debe observar lo establecido la Ley General de la Administración Pública, Ley de Procedimiento Administrativo, Ley de Contratación del Estado, Ley Orgánica del Presupuesto, el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales vigentes al momento de ser aplicadas, Ley Orgánica del Tribunal Superior de Cuentas, Ley de Transparencia y Acceso a la Información Pública, entre otra normativa aplicable, procurando siempre obtener las condiciones más ventajosas, favorables y de calidad para la Administración Pública; con excepción de, la gestión del Presupuesto de la institución ante la Secretaría de Estado en el Despacho de Finanzas, en virtud de que el Sistema Nacional de Emergencias Nueve, Uno, Uno (911) no cuenta con una institucionalidad como tal y no cuenta con una nomenclatura para ser contemplada en el Presupuesto General de Ingresos y Egresos de la República, misma que se seguirá realizando por medio de esta Secretaría de Estado; y, los Contratos contenidos en el artículo 63 de la Ley de Contratación del Estado, que para llevarlos a cabo, en el caso que nos ocupa, por ser parte de la Administración Pública Centralizada se requiere autorización de la Presidencia de la República.
+
+CENTROS DE DISTRIBUCIÓN:
+
+TEGUCIGALPA
+
+Col. Miraflores Sur, Centro Cívico Gubernamental, contiguo al Poder Judicial.
+
+SAN PEDRO SULA
+
+Salida a Puerto Cortés, Centro Comercial, “Los Castaños”, Teléfono:
+
+2552-2699.
+
+La Gaceta está a la vanguardia de la tecnología, ahora ofreciendo a sus clientes el servicio en versión digital a nivel nacional e internacional en su página web www.lagaceta.hn Para mayor información llamar al Tel.: 2230-1339 o al correo: gacetadigitalhn@gmail.com Contamos con:
+
+• Servicio de consulta en línea.
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 36125 del 2023-01-10, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20230110-36125/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

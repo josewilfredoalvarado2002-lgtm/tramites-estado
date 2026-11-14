@@ -1,0 +1,508 @@
+---
+tipo: "norma"
+tipo_acto: "Otro acto"
+numero: "No consta en la fuente"
+titulo: "Según el sumario de La Gaceta: Decretos Ejecutivos Números PCM 52-2023, 53-2023"
+emisor: "PODER EJECUTIVO"
+gaceta_numero: 36419
+gaceta_fecha: "2023-12-27"
+gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36419 (2023-12-27)|La Gaceta 36419]]"
+paginas: "A. 1 - 20"
+sumario: "Decretos Ejecutivos Números PCM 52-2023, 53-2023"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231227-36419/download"
+extraido: "2026-11-14"
+huella: "6aea194b90423fd8"
+---
+<!-- portal:inicio -->
+# Según el sumario de La Gaceta: Decretos Ejecutivos Números PCM 52-2023, 53-2023
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Otro acto |
+| Número | No consta en la fuente |
+| Emisor | PODER EJECUTIVO |
+| Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36419 (2023-12-27)\|La Gaceta 36419]] del 2023-12-27 |
+| Páginas | A. 1 - 20 |
+| Según el sumario de La Gaceta | Decretos Ejecutivos Números PCM 52-2023, 53-2023 |
+
+## Texto
+
+DECRETO EJECUTIVO NÚMERO PCM 52-2023 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
+
+CONSIDERANDO: Que mediante Decretos Ejecutivos número PCM 29-2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023, PCM 37-2023, PCM 42-2023 y PCM 46-2023, la Presidenta de la República en Consejo de Ministros, decretó la suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99, por un período de 45 días en cada Decreto.
+
+CONSIDERANDO: Que dando cumplimiento a lo establecido en la Constitución de la República, se convocó al Congreso Nacional para que dentro del plazo de 30 días conociera los Decretos de Suspensión de Garantías Constitucionales.
+
+CONSIDERANDO: Que en fecha 31 de marzo de 2023, el Consejo Nacional de Defensa y Seguridad (CNDS) aprobó de manera unánime la II etapa del Plan Nacional de Seguridad “SOLUCIÓN CONTRA EL CRIMEN” (SCC), en cuyas medidas se establece dar continuidad a la suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99.
+
+CONSIDERANDO: Que las acciones ejecutadas por la Secretaría de Estado en el Despacho de Seguridad a través de la Policía Nacional y la Dirección Nacional de Investigación e Inteligencia (DNII), con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional a través de las Fuerzas Armadas y de la Policía Militar del Orden Público (PMOP), en cumplimiento de los Decretos Ejecutivos número PCM 29-2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023, PCM 37-2023, PCM 42-2023 y PCM 46-2023, de suspensión de garantías constitucionales, han rendido excelentes resultados frente a la grave perturbación de la paz y la seguridad que se sufre en las principales ciudades del país.
+
+CONSIDERANDO: Que son de público conocimiento los logros positivos alcanzados a través de los Decretos de Suspensión de Garantías, entre los cuales se encuentran, del 01 de enero al 27 de diciembre de 2023: 47 municipios en el país con cero incidencia de homicidios (15% de los municipios a nivel nacional), 180 municipios con incidencia de 0 a 5 (el 61% de los municipios), lo cual se traduce en una reducción del 18% del índice de homicidios en relación al año 2022; 70% de casos de homicidios múltiples resueltos; además, se han desarticulado más de 615 bandas criminales, 19,018 allanamientos de morada exitosos; 2,107 denuncias por extorsión recibidas; 2,135 detenciones de integrantes de maras y pandillas; 24,585 detenciones por delito; 7,812 órdenes de captura; 43.56% de aumento en la incautación de armas de fuego (5,346 armas de fuego decomisadas); 3,725 vehículos decomisados; 18,176 motocicletas decomisadas; aumento de un 25% en la recuperación de vehículos y un 21% en la recuperación de motocicletas; 8,662 libras de marihuana decomisadas; 621 kilos de cocaína decomisada; 50, 727 gramos de crack decomisada; 740 kilogramos de Fentanilo decomisado, entre otros.
+
+CONSIDERANDO: Que la grave situación de violencia criminal organizada heredada desde la administración anterior, ha provocado un estado de calamidad y emergencia generalizada en el país, haciendo que el pueblo hondureño sea víctima de situaciones de violencia desenfrenada, que afectan en particular a través del delito de extorsión, por lo que se hace necesario y urgente continuar con todas las medidas que lleven al restablecimiento de la paz y el orden, a la preservación de la vida humana como fin supremo de la sociedad, así como a facilitar la búsqueda, identificación y detención de los autores de este flagelo; todo en estricto cumplimiento de los principios de necesidad y de proporcionalidad, de acuerdo con los estándares internacionales de derechos humanos, por lo que es procedente y absolutamente necesario decretar por un nuevo periodo de cuarenta y cinco (45) días, la restricción de ciertas garantías constitucionales para el logro de los objetivos señalados y garantizar la protección de los derechos fundamentales de la ciudadanía.
+
+CONSIDERANDO: Que la persona humana es el fin supremo de la sociedad y del Estado, y conforme a los artículos 59 y 62 de la Constitución de la República los derechos de cada persona están limitados por los derechos de los demás.
+
+CONSIDERANDO: Que de conformidad al artículo 245 numerales 2, 4, 7, 11 y 16 de la Constitución de la República, la Presidenta tiene a su cargo la Administración General del Estado, encontrándose entre sus atribuciones dirigir la política general del Estado y representarlo; mantener la paz y seguridad interior de la República; restringir o suspender el ejercicio de derechos de acuerdo con el Consejo de Ministros; emitir acuerdos y decretos y expedir reglamentos y resoluciones conforme a la ley; ejercer el mando en Jefe de las Fuerzas Armadas en su carácter de Comandante General y adoptar las medidas necesarias para la defensa de la República.
+
+CONSIDERANDO: Que la Constitución de la República establece en el artículo 187 que el ejercicio de los derechos establecidos en los artículos 69, 78, 81, 84, 93 y 99, podrán suspenderse en caso de perturbación grave de la paz o de cualquier otra calamidad general, por la Presidenta de la República en Consejo de Ministros, por medio de un Decreto que contendrá: 1. Los motivos que lo justifiquen; 2. La garantía o garantías que se restrinjan; 3. El territorio que afectará la restricción; y, 4. El tiempo que durará ésta. Además, se convocará en el mismo Decreto al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca de dicho decreto y lo ratifique, modifique o impruebe.
+
+CONSIDERANDO: Que el Estado de Honduras debe cumplir con las obligaciones de respetar y garantizar los derechos humanos reconocidos tanto en la Constitución de la República como en tratados internacionales ratificados por el país.
+
+Teniendo la facultad, en situaciones de crisis extraordinarias y muy graves, de suspender algunas de sus obligaciones en materia de derechos humanos, para lograr el restablecimiento a un estado de normalidad, que asegure el pleno respeto de todas las obligaciones asumidas internacionalmente.
+
+CONSIDERANDO: Que tanto el sistema universal como el sistema interamericano de protección de los derechos humanos, reconocen la posibilidad para un Estado Parte de suspender algunas de sus obligaciones en materia de derechos humanos en situaciones excepcionales (Pacto Internacional de Derechos Civiles y Políticos, artículo 4.1; y, Convención Americana sobre Derechos Humanos, artículo 27.1).
+
+CONSIDERANDO: Que la Policía Nacional, a través de un análisis de la estadística policial y de las acciones realizadas en aplicación de los Decretos Ejecutivos número PCM 29-2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023, PCM 37-2023, PCM 42-2023 y PCM 46-2023, de suspensión de garantías constitucionales, ha establecido la permanencia de miembros de maras y pandillas e incidencia de delitos cometidos por estos grupos, identificando sectores en situación crítica de inseguridad, particularmente por el delito de extorsión, en los Municipios del Distrito Central, San Pedro Sula y otros ubicados en varios departamentos del país, en los cuales se ha registrado una perturbación grave de la paz.
+
+CONSIDERANDO: Que es deber ineludible de la Presidenta de la República en Consejo de Ministros, tomar las acciones necesarias para mantener el orden, la seguridad y la paz en la Nación.
+
+POR TANTO, En uso de las facultades contenidas en los artículos 59, 62, 65, 69, 78, 81, 84, 93, 99, 187, 245 numerales 2), 4), 7), 11),
+
+\16) y 19), 252, 321, 323 de la Constitución de la República, artículo 11 de la Ley General de la Administración Pública, artículo 2 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y Policía Nacional de Honduras; y, demás aplicables.
+
+DECRETA:
+
+#### Artículo 1
+
+ARTÍCULO 1. En virtud de que las acciones ejecutadas por la Secretaría de Estado en el Despacho de Seguridad a través de la Policía Nacional y la Dirección Nacional de Investigación e Inteligencia (DNII), con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional, a través de las Fuerzas Armadas y de la Policía Militar del Orden Público (PMOP), en el marco de los Decretos Ejecutivos de suspensión de garantías constitucionales, han tenido resultados positivos frente a la grave perturbación de la paz y la seguridad que se sufre en las principales ciudades del país, ocasionada esencialmente por grupos criminales organizados que operan como mafias poniendo en riesgo la vida y los bienes de las personas, incurriendo y consumando delitos de extorsión, asesinatos, robos, tráfico de drogas y secuestros, que reclama el pueblo como alarmante calamidad pública, SE DECRETA por un periodo de cuarenta y cinco (45) días la suspensión de garantías constitucionales establecidas en los artículos 69, 78, 81, 84, 93 y 99 de la Constitución de la República, a partir de las 6:00 p.m. del día lunes 01 de enero de 2024, hasta las 6:00 p.m. del día jueves 15 de febrero de 2024.
+
+En consecuencia, la Secretaría de Estado en el Despacho de Seguridad, a través de la Policía Nacional y con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional, a través de las Fuerzas Armadas y de la Policía Militar del Orden Público (PMOP), respetando el principio de necesidad y proporcionalidad, quedan facultadas para detener a las personas que determine y considere responsables de asociarse, ejecutar, o tener vinculaciones en la comisión de delitos y crímenes contemplados en este Decreto, en todos los sectores de los Municipios del Distrito Central y San Pedro Sula, así como en otros Municipios identificados por la Policía Nacional en el listado que se adjunta a este Decreto (ANEXO ÚNICO).
+
+#### Artículo 2
+
+ARTÍCULO 2. La libre circulación se realizará con normalidad en todo el país, aún en las zonas descritas en el presente Decreto, y solo podrá ser restringida por las causales aquí descritas, determinadas puntualmente por la Secretaría de Estado en el Despacho de Seguridad a través de la Policía Nacional.
+
+#### Artículo 3
+
+ARTÍCULO 3. La Secretaría de Estado en el Despacho de Seguridad, a través de la Policía Nacional y la Dirección Nacional de Investigación e Inteligencia (DNII), con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional, a través de las Fuerzas Armadas y de la Policía Militar del Orden Público (PMOP), coordinarán acciones para dar cumplimiento al presente Decreto y mantener el orden, la paz y la seguridad nacional, así como el control de las fronteras terrestres, aéreas y marítimas.
+
+#### Artículo 4
+
+ARTÍCULO 4. Las autoridades policiales competentes al momento de la detención deberán identificarse, informar los motivos de la detención y respetar los derechos de los detenidos. En los centros de detención deberá llevarse un registro oficial de los detenidos conforme a los estándares internacionales.
+
+#### Artículo 5
+
+ARTÍCULO 5. Se convoca al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca del presente Decreto y lo ratifique, modifique o impruebe.
+
+#### Artículo 6
+
+ARTÍCULO 6. Se instruye a la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, a informar inmediatamente del presente Decreto una vez aprobado, estableciendo los motivos de la suspensión, derechos suspendidos y la fecha en que se haya dado por terminada tal suspensión.
+
+#### Artículo 7
+
+ARTÍCULO 7. El presente Decreto es de ejecución inmediata, entrará en vigencia el día de su firma y deberá ser publicado en el Diario Oficial “La Gaceta”.
+
+ANEXO ÚNICO
+
+N°
+
+MUNICIPIO DEPARTAMENTO
+
+3
+
+TELA
+
+4
+
+LA MASICA
+
+5
+
+JUTIAPA
+
+6
+
+ESPARTA ATLÁNTIDA
+
+7
+
+SAN FRANCISCO
+
+10
+
+BONITO ORIENTAL
+
+11
+
+SONAGUERA
+
+12
+
+LIMÓN
+
+13
+
+IRIONA
+
+14
+
+SABÁ COLÓN
+
+15
+
+SANTA ROSA DE AGUÁN
+
+16
+
+SANTA FÉ
+
+19
+
+VILLA DE SAN ANTONIO
+
+20
+
+SAN LUIS
+
+21
+
+EL ROSARIO
+
+22
+
+MEÁMBAR
+
+23
+
+LA LIBERTAD
+
+24
+
+TAULABE
+
+´ 25
+
+LAJAS
+
+26
+
+AJUTERIQUE
+
+27
+
+SAN JERÓNIMO
+
+28
+
+SAN JOSÉ COMAYAGUA
+
+30
+
+SANTA ROSA DE COPÁN
+
+31
+
+FLORIDA
+
+32
+
+EL PARAÍSO
+
+33
+
+CUCUYAGUA
+
+34
+
+COPÁN RUINAS COPÁN
+
+37
+
+CABAÑAS
+
+38
+
+LA UNIÓN
+
+39
+
+VERACRUZ
+
+40
+
+TRINIDAD
+
+41
+
+DULCE NOMBRE
+
+42
+
+CONCEPCIÓN
+
+43
+
+SAN AGUSTÍN
+
+44
+
+CORQUÍN
+
+45
+
+LA JIGUA
+
+46
+
+SAN ANTONIO
+
+47
+
+DOLORES
+
+48
+
+SAN JERÓNIMO
+
+49
+
+SAN JOSÉ
+
+50
+
+SAN PEDRO
+
+51
+
+SAN PEDRO SULA
+
+52
+
+CHOLOMA
+
+53
+
+PUERTO CORTÉS
+
+54
+
+VILLANUEVA
+
+55
+
+LA LIMA
+
+56
+
+SANTA CRUZ DE YOJOA CORTÉS
+
+59
+
+POTRERILLOS
+
+60
+
+SAN ANTONIO DE CORTÉS
+
+61
+
+SAN FRANCISCO DE YOJOA
+
+62
+
+CHOLUTECA
+
+63
+
+MARCOVIA
+
+64
+
+EL TRIUNFO
+
+65
+
+SAN MARCOS DE COLÓN
+
+66
+
+EL CORPUS CHOLUTECA
+
+67
+
+PESPIRE
+
+68
+
+NAMASIGUE
+
+69
+
+SANTA ANA DE YUSGUARE
+
+70
+
+CONCEPCIÓN DE MARÍA
+
+71
+
+APACILAGUA
+
+72
+
+OROCUINA
+
+73
+
+DUYURE
+
+74
+
+DANLÍ
+
+75
+
+TROJES
+
+76
+
+TEUPASENTI EL PARAÍSO
+
+77
+
+EL PARAÍSO
+
+78
+
+MOROCELÍ
+
+79
+
+YUSCARÁN
+
+80
+
+DISTRITO CENTRAL
+
+81
+
+TALANGA
+
+82
+
+TATUMBLA
+
+83
+
+GUAIMACA FRANCISCO MORAZÁN
+
+84
+
+SABANA GRANDE
+
+85
+
+LEPATERIQUE
+
+86
+
+SANTA LUCÍA
+
+87
+
+VALLE DE ÁNGELES
+
+88
+
+PUERTO LEMPIRA GRACIAS A DIOS
+
+89
+
+BRUS LAGUNA
+
+90
+
+JESÚS DE OTORO
+
+91
+
+LA ESPERANZA
+
+92
+
+INTIBUCÁ
+
+94
+
+COLOMONCAGUA INTIBUCÁ
+
+97
+
+SANTA LUCÍA
+
+98
+
+SAN JUAN
+
+99
+
+SAN FRANCISCO DE OPALACA 100 SAN ANTONIO 101 ROATÁN ISLAS DE LA BAHÍA 104 MARCALA 105 SANTA ELENA 106 YARULA LA PAZ 109 OPATORO 110 MERCEDES DE ORIENTE 111 SAN ANTONIO DEL NORTE 112 LAUTERIQUE 113 TUTULE 114 SANTIAGO DE PURINGLA 115 SAN JOSÉ 116 PLANES DE SANTA MARÍA 117 GRACIAS 118 LEPAERA 119 FLORES 120 LA IGUALA 121 SAN RAFAEL 122 SAN ÁNDRES LEMPIRA 125 LA UNIÓN 126 GUARITA 129 LA VIRTUD 130 SAN MARCOS CAIQUÍN 131 SAN SEBASTIÁN 132 BELÉN 133 SANTA CRUZ 134 SAN MARCOS 135 OCOTEPEQUE 136 MERCEDES OCOTEPEQUE 137 SANTA FÉ 138 LA LABOR 139 SINUAPA 140 ENCARNACIÓN 141 SAN FRANCISCO 142 CONCEPCIÓN 143 SENSENTI 144 BELÉN GUALCHO 145 CATACAMAS 146 JUTICALPA 147 DULCE NOMBRE DE CULMÍ 148 PATUCA 149 SANTA MARÍA DEL REAL OLANCHO 150 SAN ESTEBAN 151 GUALACO 152 SAN FRANCISCO DE BECERRA 153 QUIMISTÁN 154 SANTA BÁRBARA 155 PROTECCIÓN 156 ILAMA 158 SAN MARCOS 159 TRINIDAD 160 PETOA SANTA BÁRBARA 163 CONCEPCIÓN DEL NORTE 164 SAN NICÓLAS ´ 165 SAN FRANCISCO DE OJUERA 166 NACAOME 167 SAN LORENZO 168 LANGUE 169 GOASCORÁN VALLE 172 CARIDAD 173 AMAPALA 174 SAN FRANCISCO DE CORAY 175 OLANCHITO 176 YORO 177 EL PROGRESO 178 EL NEGRITO 179 MORAZÁN 180 SANTA RITA YORO 183 SULACO 184 YORITO
+
+Dado en la ciudad de Tegucigalpa, Municipio del Distrito Central, a los veintisiete (27) días del mes de diciembre del año dos mil veintitrés (2023).
+
+COMUNÍQUESE Y PUBLÍQUESE.
+
+IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA DE LA REPÚBLICA DESSIRÉ FLORES DUBÓN SECRETARIA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA, POR LEY JOSÉ CARLOS CARDONA ERAZO SECRETARIO DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIAL RIXI RAMONA MONCADA GODOY SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS CARMEN HAYDÉE LÓPEZ FLORES SECRETARIA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, POR LEY EDUARDO ENRIQUE REINA GARCÍA SECRETARIO DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONAL JAIME REINALDO TURCIOS OREAMUNO SECRETARIO DE ESTADO EN EL DESPACHO DE TRANSPARENCIA Y LUCHA CONTRA LA CORRUPCIÓN, POR LEY RICARDO ARTURO SALGADO SECRETARIO DE ESTADO EN EL DESPACHO DE PLANIFICACIÓN ESTRATÉGICA FREDIS ALONSO CERRATO VALLADARES SECRETARIO DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO MARITZA CONCEPCIÓN GALLARDO LÓPEZ SECRETARIA DE ESTADO EN EL DESPACHO DE ASUNTOS DE LA MUJER, POR LEY HECTOR GUSTAVO SÁNCHEZ VELÁSQUEZ SECRETARIO DE ESTADO EN EL DESPACHO DE SEGURIDAD JOSÉ MANUEL ZELAYA ROSALES SECRETARIO DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL NERZA GLORIA PAZ RODRÍGUEZ SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD, POR LEY LUCKY HALACH MEDINA ESTRADA SECRETARIO DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE DANIEL ENRIQUE ESPONDA VELÁSQUEZ SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN MELINA NATALIE ROQUE SANDOVAL SECRETARIA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOS LAURA ELENA SUAZO TORRES SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA ERICK MEDARDO TEJADA CARBAJAL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA MAURICIO ANTONIO RAMOS SUAZO SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE LESLY SARAHÍ CERNA SECRETARIA DE ESTADO EN LOS DESPACHOS DE TRABAJO Y SEGURIDAD SOCIAL LUIS GUILLERMO CHÉVEZ CONTRERAS SECRETARIO DE ESTADO EN EL DESPACHO DE TURISMO, POR LEY GLORIA ANNARELLA VÉLEZ OSEJO SECRETARIA DE ESTADO EN LOS DESPACHOS DE LAS CULTURAS, LAS ARTES Y LOS PATRIMONIOS DE LOS PUEBLOS DE HONDURAS OCTAVIO JOSÉ PINEDA PAREDES SECRETARIO DE ESTADO EN LOS DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO DARÍO JOSUÉ GARCÍA VILLALTA SECRETARIO DE ESTADO EN LOS DESPACHOS DE GESTIÓN DE RIESGOS Y CONTINGENCIAS NACIONALES (COPECO) FABIOLA CLAUDETT ABUDOJ MENA SECRETARIA DE ESTADO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS Poder Ejecutivo DECRETO EJECUTIVO NÚMERO PCM 53-2023 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
+
+CONSIDERANDO: Que la Constitución de la República establece que la titularidad del Poder Ejecutivo la ejerce en representación y para beneficio del pueblo la Presidenta de la República, correspondiéndole dirigir la Política General del Estado y representarlo, así como emitir Acuerdos y Decretos conforme a ley, adoptar las medidas de promoción, prevención, recuperación y rehabilitación de la salud de los habitantes (artículos 235 y 245 numerales 2, 11 y 29).
+
+CONSIDERANDO: Que, según lo establecido en la Constitución de la República, la persona humana es el fin supremo de la sociedad y del Estado, consecuentemente, todos tienen la obligación de respetarla y protegerla (artículo 59). En ese sentido, la Constitución establece que el derecho a la vida es inviolable, reconociéndole de tal manera que la Constitución de la República consagra el derecho a la protección de la salud de la población hondureña, la cual es una condicionante del derecho a la vida el cual es inviolable y es un deber de todos participar en la promoción y preservación de la salud y de la comunidad y es deber del Estado conservar un medio ambiente adecuado para proteger la salud de las personas (artículos 65 y 145).
+
+CONSIDERANDO: Que el Pacto Internacional de Derechos Económicos; Sociales y Culturales, reconoce el derecho de toda persona al disfrute del más alto nivel posible de salud física y mental. Entre las medidas que deberán adoptar los Estados parte en el Pacto se encuentra la generación de condiciones que aseguren a todos asistencia y servicios médicos en caso de enfermedad (artículo 12).
+
+CONSIDERANDO: Que la Ley General de la Administración Pública dispone que la Presidenta de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada y en el ejercicio de sus funciones podrá actuar por sí o en Consejo de Ministros (artículo 11).
+
+CONSIDERANDO: Que, de conformidad a la Constitución de la República, la Presidenta convoca y preside el Consejo de Ministros, el cual podrá tomar resolución en todos los asuntos que juzgue de importancia nacional (artículo 252 párrafo segundo).
+
+CONSIDERANDO: Que durante más de una década el Sistema de Salud Pública fue desatendido y saqueado, provocando una severa crisis a nivel nacional y un estado de calamidad pública, con un sistema colapsado por el desabastecimiento de medicamentos y material quirúrgico esencial, la carencia y deficiencia de infraestructura y equipo hospitalario, servicios y cobertura ineficientes, la incapacidad de responder a la creciente demanda de atención de la población; además de la emergencia de salud pública a nivel internacional provocada por el coronavirus (COVID-19) y sus rebrotes, así como la grave situación epidemiológica presente en el país por el virus del dengue, con cifras cada vez más altas de dicha patología y la crecientes defunciones asociadas a la misma.
+
+CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 16-2022 publicado en el Diario Oficial “ La Gaceta” en fecha 10 de junio de 2022, en su edición número 35,946, se declara ESTADO DE EMERGENCIA SANITARIA en todo el Sistema de Salud Pública a nivel nacional por el año 2022, la cual fue prorrogada para el año 2023 mediante Decreto Ejecutivo número PCM 04-2023 publicado en el Diario Oficial “La Gaceta” en fecha 16 de enero de 2023, en su edición número 36,130.
+
+CONSIDERANDO: Que las condiciones que motivaron la declaratoria de estado de emergencia sanitaria siguen vigentes, y en respuesta al estado de calamidad pública en que actualmente se encuentra el Sistema de Salud a nivel nacional, es imperativo garantizar el derecho constitucional a la salud, asegurando la provisión de servicios, insumos, medicamentos, infraestructura adecuada y la atención oportuna de la población hondureña.
+
+CONSIDERANDO: Que la Ley de Contratación del Estado establece que se podrá realizar la contratación directa cuando tenga por objeto proveer las necesidades ocasionadas por una situación de emergencia (artículo 63, numeral 1).
+
+CONSIDERANDO: Que, de conformidad a la Ley de Contratación del Estado, la declaración del estado de emergencia se hará mediante Decreto de la Presidenta de la República en Consejo de Ministros (artículo 9).
+
+POR TANTO, En uso de las facultades legales establecidas en los artículos 59, 65, 145, 245 numerales 2, 11 y 29; 235 y 252 de la Constitución de la República; artículos 11, 17, 18, 116,117 y 119 de la Ley General de la Administración Pública; artículo 9 y 63 numeral 1) de la Ley de Contratación del Estado; artículo 12 del Pacto Internacional de Derechos Económicos, Sociales y Culturales; Decreto Ejecutivo número PCM 16- 2022; Decreto Ejecutivo Número PCM 04-2023; Decreto Ejecutivo número PCM 40-2023; Decreto Ejecutivo número PCM 48-2023; y, demás aplicables.
+
+DECRETA:
+
+#### Artículo 1
+
+ARTÍCULO 1. Prorrogar la Declaratoria de ESTADO DE EMERGENCIA SANITARIA en todo el Sistema de Salud Pública a nivel nacional por el año 2024, con el propósito de garantizar el cumplimiento del derecho constitucional a la salud, asegurar la provisión de servicios, insumos, medicamentos, infraestructura adecuada y la atención oportuna de la población hondureña, así como para fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante eventuales situaciones epidemiológicas, como posibles rebrotes de coronavirus (COVID-19) y la propagación del virus del dengue.
+
+#### Artículo 2
+
+ARTÍCULO 2. Se autoriza a la Secretaría de Estado en el Despacho de Salud, para adquirir mediante la modalidad de contratación directa, los servicios, insumos, equipos y medicamentos que sean necesarios, así como a utilizar de su partida presupuestaria lo que se requiera, para hacer frente a la presente a la declaratoria de estado de emergencia, garantizando su manejo de manera transparente y con veeduría social.
+
+#### Artículo 3
+
+ARTÍCULO 3. Los contratos suscritos al amparo del presente Decreto, se realizarán procurando obtener las condiciones más ventajosas y de calidad para la Administración Pública, y estarán sujetos a los procesos de aprobación y auditoría previstos por la Constitución y las Leyes de la República, debiendo ser notificados al Tribunal Superior de Cuentas (TSC).
+
+#### Artículo 4
+
+ARTÍCULO 4. Se autoriza e instruye a la Secretaría de Estado en el Despacho de Finanzas, a identificar y proveer los recursos que se pudieran requerir para hacer frente al estado de emergencia sanitaria.
+
+#### Artículo 5
+
+ARTÍCULO 5. Prorrogar por el año 2024, la vigencia y efectos del Decreto Ejecutivo número PCM 40-2023 y del Decreto Ejecutivo número PCM 48-2023.
+
+#### Artículo 6
+
+ARTÍCULO 6. El presente Decreto Ejecutivo entrará en vigencia a partir del día de su publicación en el Diario Oficial “La Gaceta”.
+
+Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los veintisiete (27) días del mes de diciembre del año dos mil veintitrés (2023).
+
+COMUNÍQUESE Y PUBLÍQUESE.
+
+IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA DE LA REPÚBLICA DESSIRÉ FLORES DUBÓN SECRETARIA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA, POR LEY JOSÉ CARLOS CARDONA ERAZO SECRETARIO DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIAL RIXI RAMONA MONCADA GODOY SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS CARMEN HAYDÉE LÓPEZ FLORES SECRETARIA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, POR LEY EDUARDO ENRIQUE REINA GARCÍA SECRETARIO DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONAL JAIME REINALDO TURCIOS OREAMUNO SECRETARIO DE ESTADO EN EL DESPACHO DE TRANSPARENCIA Y LUCHA CONTRA LA CORRUPCIÓN, POR LEY RICARDO ARTURO SALGADO SECRETARIO DE ESTADO EN EL DESPACHO DE PLANIFICACIÓN ESTRATÉGICA FREDIS ALONSO CERRATO VALLADARES SECRETARIO DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO MARITZA CONCEPCIÓN GALLARDO LÓPEZ SECRETARIA DE ESTADO EN EL DESPACHO DE ASUNTOS DE LA MUJER, POR LEY HECTOR GUSTAVO SÁNCHEZ VELÁSQUEZ SECRETARIO DE ESTADO EN EL DESPACHO DE SEGURIDAD JOSÉ MANUEL ZELAYA ROSALES SECRETARIO DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL NERZA GLORIA PAZ RODRÍGUEZ SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD, POR LEY LUCKY HALACH MEDINA ESTRADA SECRETARIO DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE DANIEL ENRIQUE ESPONDA VELÁSQUEZ SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN MELINA NATALIE ROQUE SANDOVAL SECRETARIA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOS LAURA ELENA SUAZO TORRES SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA ERICK MEDARDO TEJADA CARBAJAL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA MAURICIO ANTONIO RAMOS SUAZO SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE LESLY SARAHÍ CERNA SECRETARIA DE ESTADO EN LOS DESPACHOS DE TRABAJO Y SEGURIDAD SOCIAL LUIS GUILLERMO CHÉVEZ CONTRERAS SECRETARIO DE ESTADO EN EL DESPACHO DE TURISMO, POR LEY GLORIA ANNARELLA VÉLEZ OSEJO SECRETARIA DE ESTADO EN LOS DESPACHOS DE LAS CULTURAS, LAS ARTES Y LOS PATRIMONIOS DE LOS PUEBLOS DE HONDURAS OCTAVIO JOSÉ PINEDA PAREDES SECRETARIO DE ESTADO EN LOS DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO DARÍO JOSUÉ GARCÍA VILLALTA SECRETARIO DE ESTADO EN LOS DESPACHOS DE GESTIÓN DE RIESGOS Y CONTINGENCIAS NACIONALES (COPECO) FABIOLA CLAUDETT ABUDOJ MENA SECRETARIA DE ESTADO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 36419 del 2023-12-27, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20231227-36419/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

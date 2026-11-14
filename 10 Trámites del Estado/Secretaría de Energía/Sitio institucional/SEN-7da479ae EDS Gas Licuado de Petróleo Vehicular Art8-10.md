@@ -168,10 +168,10 @@ Rubro: 12199 – Tasas Varias.
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2024). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2021). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
-- Acuerdo Ministerial SEN-001-2020 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
-- Acuerdo Ministerial SEN-119-2022 → anterior a 2024: no está en la colección de La Gaceta de la bóveda
+- Acuerdo Ministerial SEN-001-2020 → anterior a 2021: no está en la colección de La Gaceta de la bóveda
+- Acuerdo Ministerial SEN-119-2022 → no aparece en la colección de La Gaceta de la bóveda
 - Acuerdo Ministerial SEN-060-2025 → no aparece en la colección de La Gaceta de la bóveda
 <!-- normas:fin -->
 <!-- portal:fin -->

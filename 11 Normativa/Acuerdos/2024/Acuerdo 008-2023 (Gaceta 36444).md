@@ -1,0 +1,514 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "008-2023"
+titulo: "ACUERDO EJECUTIVO No. 008-2023"
+emisor: "Secretaría de Estado en el Despacho de Seguridad"
+gaceta_numero: 36444
+gaceta_fecha: "2024-01-26"
+gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36444 (2024-01-26)|La Gaceta 36444]]"
+paginas: "A. 7 - 11"
+sumario: "Acuerdos Ejecutivos Nos. 007-2023, 008-2023, 009-2023"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240126-36444/download"
+extraido: "2026-11-14"
+huella: "91a3ed2a3d75635d"
+---
+<!-- portal:inicio -->
+# ACUERDO EJECUTIVO No. 008-2023
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 008-2023 |
+| Emisor | Secretaría de Estado en el Despacho de Seguridad |
+| Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36444 (2024-01-26)\|La Gaceta 36444]] del 2024-01-26 |
+| Páginas | A. 7 - 11 |
+| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 007-2023, 008-2023, 009-2023 |
+
+## Texto
+
+LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO: Que la Presidenta de la República t i e n e a s u c a r g o s u p r e m a dirección y coordinación de la Administración Pública Centralizada y Descentralizada, la Administración General del Estado y por ende, dirigir la política económica y financiera del mismo, pudiendo actuar por sí o en Consejo de Ministros.
+
+CONSIDERANDO: Que el Artículo 7 numeral 17) de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras dispone: “FUNCIONES DEL SECRETARIO DE ESTADO EN EL DESPACHO DE SEGURIDAD.
+
+Además de las consignadas en otras leyes, corresponde al titular de la Secretaría de Estado en el Despacho de Seguridad: Proponer al Presidente de la República el otorgamiento de todos los grados de las categorías de oficiales de acuerdo a la idoneidad y méritos hechos en la carrera policial”.
+
+CONSIDERANDO: Que corresponde al Director General de la Policía Nacional proponer al Secretario de Estado en el Despacho de Seguridad los oficiales candidatos para ascenso en todas las categorías de conformidad con la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras y el Reglamento de Ascenso de la Policía Nacional, bajo Dictamen Técnico del Directorio Estratégico Policial.
+
+CONSIDERANDO: Que el Artículo 49 de la Ley de la Carrera Policial señala: “ASCENSOS.
+
+El ascenso es un proceso administrativo legal para optar al grado inmediato superior y tiene como propósito mantener los cuadros orgánicos en el orden jerárquico de la Policía Nacional, reconociendo los méritos de cada candidato, el cual está regulado a través del Manual de Procesos de Ascensos, Reglamento e Instructivo correspondiente”.
+
+CONSIDERANDO: Que la referida Ley, en el Artículo 50 dice: “OTORGAMIENTO DE GRADOS. Los grados deben ser otorgados en estricto jerárquico, sin obviar ninguno. Los requisitos y procedimientos necesarios para el otorgamiento de grados se deben regir por lo establecido en la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras, la presente Ley, reglamentos y manuales respectivos.
+
+Los ascensos de las Categorías de Oficiales Subalternos son otorgados por el Presidente de la República, a propuesta de la Secretaría de Estado en el Despacho de Seguridad...”
+
+CONSIDERANDO: Que en base al Acta de Cierre para el Ascenso de Alumnos Egresados de la Academia Nacional de Policía Año 2023 al Grado de Sub Inspectores de Policía, en sesión celebrada el 10 de octubre del Año 2023, el Consejo General de Ascenso analizaron y determinaron el cumplimiento de los requisitos de ascenso al grado inmediato superior.
+
+CONSIDERANDO: Que el Director General de la Policía Nacional ha propuesto al Secretario de Estado en el Despacho de Seguridad, el ascenso de ciento cuatro
+
+(104) Alféreces, que cumplieron satisfactoriamente el Plan de Formación de Policía en la Academia Nacional de Policía “General José Trinidad Cabañas”.
+
+POR TANTO;
+
+En ejercicio de las facultades de que está investido y en aplicación de los Artículos 245 numeral 11) y 293 de la Constitución de la República; Artículos 11, 116 y 118 de la Ley General de la Administración Pública, Artículo 7 numeral 17), 47 numeral 18) de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras; Artículos 18 numeral 3), 49, 50 y 51 de la Ley de la Carrera Policial, Acta de Cierre para el Ascenso de Alumnos Egresados de la Academia Nacional de Policía Año 2023 al Grado de Sub Inspectores de Policía, en sesión celebrada el 10 de octubre del 2023 y Dictamen Técnico emitido por el Directorio Estratégico Policial de fecha 11 de octubre del 2023.
+
+ACUERDA:
+
+PRIMERO:
+
+ASCENDER AL GRADO INMEDIATO
+
+SUPERIOR a los Alféreces, Egresados de la Academia Nacional de Policía “General José Trinidad Cabañas”, a partir del uno de enero del Año 2024, que se denominan a continuación:
+
+DE ALFEREZ DE POLICIA A SUB INSPECTOR (A) DE POLICIA.
+
+NO.
+
+GRADO NOMBRE COMPLETO DNI
+
+1
+
+ALFÉREZ DE POLICÍA DIEGO RODINEY ARAQUE RODRÍGUEZ
+
+0303-2000-00703 2
+
+ALFÉREZ DE POLICÍA FRANKLIN OKELY CASTILLO HERNÁNDEZ
+
+1217-1998-00072 3
+
+ALFÉREZ DE POLICÍA LEDIS ADALID QUIROZ ESPINO
+
+0605-2003-00071 4
+
+ALFÉREZ DE POLICÍA ERICK JOSUE QUINTANILLA PEREZ
+
+1301-2001-00567 5
+
+ALFÉREZ DE POLICÍA CARLOS MAURICIO MENDOZA QUINTERO
+
+0702-1999-00193 6
+
+ALFÉREZ DE POLICÍA ANDREW STEVEN LANZA TEJEDA
+
+1513-2001-00116 7
+
+ALFÉREZ DE POLICÍA MARIO ANTONIO AMADOR LOPEZ
+
+0715-2001-00021 8
+
+ALFÉREZ DE POLICÍA CHRISTOPHER SAMIR MONCADA AGUILAR
+
+0801-2001-22246 9
+
+ALFÉREZ DE POLICÍA ERIK ALBERTO MONCADA HERNANDEZ
+
+0703-1998-03454 10
+
+ALFÉREZ DE POLICÍA LIZZY MABEL VELASQUEZ GONZALEZ
+
+0704-2001-01117 11
+
+ALFÉREZ DE POLICÍA GABRIEL EDUARDO OLIVA MARTINEZ
+
+1201-1996-00943 12
+
+ALFÉREZ DE POLICÍA ANA GABRIELA DIAZ MONTALVAN
+
+0615-2001-00608 13
+
+ALFÉREZ DE POLICÍA DIEXIS ANAEL LICONA LARA
+
+1301-1997-00087 14
+
+ALFÉREZ DE POLICÍA GILDO ALEXANDER RODRIGUEZ CONTRERAS
+
+0313-1998-00303 15
+
+ALFÉREZ DE POLICÍA HENRY JOSE PINTO SARMIENTO
+
+1310-1999-00013 16
+
+ALFÉREZ DE POLICÍA EMILIO JOSE MEJIA FLORES
+
+1508-2000-00274 17
+
+ALFÉREZ DE POLICÍA RONALDO MARTINEZ BARGAS
+
+1206-1999-00427 18
+
+ALFÉREZ DE POLICÍA GLADYS EDELMIRA DIAZ DIAZ
+
+1317-2001-00122 19
+
+ALFÉREZ DE POLICÍA ANNER GABRIEL HERRERA CARCAMO
+
+0703-2002-01961 20
+
+ALFÉREZ DE POLICÍA YULISA JOHANA ARIAS NUFIO
+
+0105-1999-00211 21
+
+ALFÉREZ DE POLICÍA FAUSTO JEOVANY MURILLO MARTINEZ
+
+1801-1997-00859 22
+
+ALFÉREZ DE POLICÍA JOSE RICARDO ESPINOZA ROMERO
+
+0401-1998-01419 23
+
+ALFÉREZ DE POLICÍA ELIN EDILBERTO GOMEZ PEREZ
+
+1216-1998-00305 24
+
+ALFÉREZ DE POLICÍA EDUAR ANTONIO SANTOS MARTINEZ
+
+1523-1999-00057 25
+
+ALFÉREZ DE POLICÍA BRAYAN JOSE TORRES REYES
+
+0801-1997-17700 26
+
+ALFÉREZ DE POLICÍA FRANCISCO JOSE RAMIREZ SORIANO
+
+0605-2002-00068 27
+
+ALFÉREZ DE POLICÍA YADIRA ELIZABETH FLORES MOLINA
+
+1706-2000-00365 28
+
+ALFÉREZ DE POLICÍA JAVIER ORLANDO ACOSTA ALMENDARES
+
+0809-2001-00537 29
+
+ALFÉREZ DE POLICÍA EBRIK JOHAN PALOMO RODRIGUEZ
+
+0506-1997-01889 30
+
+ALFÉREZ DE POLICÍA HECTOR JOSE COELLO RODRIGUEZ
+
+0827-2001-00225 31
+
+ALFÉREZ DE POLICÍA JAVIER ENRIQUE DUARTE MEJIA
+
+0704-1997-01603 32
+
+ALFÉREZ DE POLICÍA ERICK JAVIER MARTINEZ LOPEZ
+
+1210-2000-00237 33
+
+ALFÉREZ DE POLICÍA WILMER ALEXIS MEZA VASQUEZ
+
+1212-2000-00273 34
+
+ALFÉREZ DE POLICÍA LESMAN DANERY BENITEZ PINEDA
+
+0301-1999-01053 35
+
+ALFÉREZ DE POLICÍA ANA GISSELA MENDOZA PEREZ
+
+0704-2000-00827 36
+
+ALFÉREZ DE POLICÍA OSWALDO JOSUE CACERES MENDOZA
+
+0703-1997-02181 37
+
+ALFÉREZ DE POLICÍA VILMA MARLEN HERNANDEZ VASQUEZ
+
+1806-2001-01033 38
+
+ALFÉREZ DE POLICÍA HUMBERTO EMILIO MELENDEZ ESPINOZA
+
+1807-2001-00007 39
+
+ALFÉREZ DE POLICÍA OSCAR ARNULFO PEREZ SANCHEZ
+
+1623-2000-00285 40
+
+ALFÉREZ DE POLICÍA JORGE ANTONIO VILLALOBOS ALVARADO
+
+1704-2001-00269 41
+
+ALFÉREZ DE POLICÍA EDUIN MIGUEL GODOY RODRIGUEZ
+
+0605-2001-00377 42
+
+ALFÉREZ DE POLICÍA MARLON ENRIQUE FLORES SUAZO
+
+0701-2001-00042 43
+
+ALFÉREZ DE POLICÍA EDWIN ALONSO BETANCOURT ESTRADA
+
+0601-2000-00166 44
+
+ALFÉREZ DE POLICÍA DAVID RICARDO VELASQUEZ SILVA
+
+1502-2001-00501 45
+
+ALFÉREZ DE POLICÍA LESTER JOAN TROCHEZ FLORES
+
+0801-1996-13266 46
+
+ALFÉREZ DE POLICÍA JUAN DANIEL LAGOS DUARTE
+
+0706-2000-00011 47
+
+ALFÉREZ DE POLICÍA SAMY YANORI MUNGUIA OSORIO
+
+1519-2002-00040 48
+
+ALFÉREZ DE POLICÍA MELVIN ADAN SEVILLA GAITAN
+
+0703-1996-02963 49
+
+ALFÉREZ DE POLICÍA NANCY SUYAPA VASQUEZ MEMBREÑO
+
+1012-1998-00326 50
+
+ALFÉREZ DE POLICÍA DALILA CELESTE ZEPEDA SALVADOR
+
+0605-1998-00606 51
+
+ALFÉREZ DE POLICÍA ELDIN ARIEL GARCIA PEREZ
+
+1320-1999-00131 52
+
+ALFÉREZ DE POLICÍA DANNY RODRIGO ORTEZ VALERIANO
+
+0801-1997-01428 53
+
+ALFÉREZ DE POLICÍA LUCIO ROLANDO GUERRA MANCIA
+
+1313-2000-01026 54
+
+ALFÉREZ DE POLICÍA JOSE BLADIMIR REYES CASTRO
+
+0705-1997-00009 55
+
+ALFÉREZ DE POLICÍA ALEX JOSUE TORRES CRUZ
+
+0803-1999-00326 56
+
+ALFÉREZ DE POLICÍA WILMER CALEB ORTIZ PERAZA
+
+0209-2005-02152 57
+
+ALFÉREZ DE POLICÍA JONATAN EMANUEL FIGUEROA VELASQUEZ
+
+0801-2001-17893 58
+
+ALFÉREZ DE POLICÍA DAVID ANTONIO SUAREZ PAZ
+
+0601-2000-03218 59
+
+ALFÉREZ DE POLICÍA ANDREA NOHELIA DOMINGUEZ
+
+1006-2000-01305 60
+
+ALFÉREZ DE POLICÍA EDGAR OMAR SIERRA MARTINEZ
+
+0801-1996-09068 61
+
+ALFÉREZ DE POLICÍA YUNIOR JACOB GONZALEZ MEJIA
+
+0704-2001-01352 62
+
+ALFÉREZ DE POLICÍA LUIS AVILIO SANTOS MADRID
+
+0411-2000-00337 63
+
+ALFÉREZ DE POLICÍA JOSE ALEXANDER ZAMBRANO GOMEZ
+
+0601-2002-01039 64
+
+ALFÉREZ DE POLICÍA CRISTHIAN JOSUE ROMERO CASTILLO
+
+1007-2000-00470 65
+
+ALFÉREZ DE POLICÍA ARTURO JOSUE MORAZAN RODRIGUEZ
+
+0719-2001-00851 66
+
+ALFÉREZ DE POLICÍA SANTOS ROLANDO ZUNIGA ALVAREZ
+
+0714-1997-00248 67
+
+ALFÉREZ DE POLICÍA DEIBYN JOSUE PINEDA PALENCIA
+
+1415-2002-00039 68
+
+ALFÉREZ DE POLICÍA EMERSON ABDIEL MEDINA OCHOA
+
+0826-2001-00231 69
+
+ALFÉREZ DE POLICÍA JOBZAN ARMANDO FERRUFINO HERNANDEZ
+
+0702-1999-00164 70
+
+ALFÉREZ DE POLICÍA JARBIN YANEL OSORTO DIAS
+
+0801-1998-02901 71
+
+ALFÉREZ DE POLICÍA NIXON ABIMELEC DIAZ MARADIAGA
+
+0719-2001-00525 72
+
+ALFÉREZ DE POLICÍA ARIEL DARIO MIRANDA CASTELLANOS
+
+0713-1998-00108 73
+
+ALFÉREZ DE POLICÍA REMBERTO ELIAS MALDONADO CACERES
+
+0704-1997-01650 74
+
+ALFÉREZ DE POLICÍA RENE ALONSO PINEDA PALENCIA
+
+1415-1999-00229 75
+
+ALFÉREZ DE POLICÍA JEANCARLOS ARIAS HERRERA
+
+1701-2005-00328 76
+
+ALFÉREZ DE POLICÍA FAUSTO JOSE ESCALANTE MALDONADO
+
+1401-2001-00486 77
+
+ALFÉREZ DE POLICÍA RAFAEL LEONARDO SANTOS SUAZO
+
+0801-2001-03459 78
+
+ALFÉREZ DE POLICÍA EMILSON DANIEL RAMIREZ LAGOS
+
+0703-1999-04446 79
+
+ALFÉREZ DE POLICÍA JUAN JESUS MENDOZA MENDOZA
+
+1206-2001-00013 80
+
+ALFÉREZ DE POLICÍA CARLOS ROBERTO ALVARADO RODRIGUEZ
+
+0713-2001-00045 81
+
+ALFÉREZ DE POLICÍA AARON ISAU GARCIA MARTINEZ
+
+0801-2000-18337 82
+
+ALFÉREZ DE POLICÍA OLVIN ROBERTO PORTILLO GARCIA
+
+1323-2001-00211 83
+
+ALFÉREZ DE POLICÍA ENCY FRANESE MORGA CANTILLANO
+
+0713-2001-00057 84
+
+ALFÉREZ DE POLICÍA LESLY YAMILETH ACOSTA BARAHONA
+
+0801-1997-18353 85
+
+ALFÉREZ DE POLICÍA JOSUE DAVID MARTINEZ SIERRA
+
+0801-2000-11724 86
+
+ALFÉREZ DE POLICÍA MANUEL FERMIN GOMEZ LOPEZ
+
+1216-2001-00075 87
+
+ALFÉREZ DE POLICÍA KEVIN DANIEL HERNANDEZ ALVARADO
+
+0101-2001-02677 88
+
+ALFÉREZ DE POLICÍA BRAYAN JOSUE GUEVARA FUNEZ
+
+0606-2001-00430 89
+
+ALFÉREZ DE POLICÍA GERSON EBED CASTILLO ALEMAN
+
+0309-2001-00086 90
+
+ALFÉREZ DE POLICÍA KREY ALBERTO GUZMAN RODAS
+
+0809-2001-00531 91
+
+ALFÉREZ DE POLICÍA JOSE ANTONIO MARTINEZ SANCHEZ
+
+0801-2002-02057 92
+
+ALFÉREZ DE POLICÍA MAYK STEVEN FUNEZ GIRON
+
+0318-2001-00745 93
+
+ALFÉREZ DE POLICÍA BRYAN EFRAIN SORIANO BARDALES
+
+0512-2001-00113 94
+
+ALFÉREZ DE POLICÍA JOSEPH AKIITO CHAVEZ PAISANO
+
+0902-2000-00018 95
+
+ALFÉREZ DE POLICÍA ALLAN DAVID COELLO NUÑEZ
+
+0816-1997-00326 96
+
+ALFÉREZ DE POLICÍA JUAN RAMON QUESADA ANTUNEZ
+
+1807-2000-01901 97
+
+ALFÉREZ DE POLICÍA NAUN JOSUE EUCEDA MARTINEZ
+
+0801-2001-06132 98
+
+ALFÉREZ DE POLICÍA ADAN EDGARDO SOSA VALLADARES
+
+0703-2002-01264 99
+
+ALFÉREZ DE POLICÍA CARLOS ALEJANDRO AVILA SORIANO
+
+1501-2000-02592
+
+EXTRANJEROS
+
+No.
+
+GRADO NOMBRE COMPLETO DNI NACIONALIDAD
+
+1
+
+ALFÉREZ DE POLICÍA SANDRA YAZMIN CASTILLO HERNANDEZ
+
+4-806-398
+
+PANAMA
+
+2
+
+ALFÉREZ DE POLICÍA RAYMUNDO RODRIGUEZ PIMENTEL
+
+402-3648752-2
+
+DOMINICANA
+
+3
+
+ALFÉREZ DE POLICÍA ROBERTO CARLOS DRAKES TOWNSEND
+
+8-950-1149
+
+PANAMA
+
+SEGUNDO: El presente Acuerdo debe publicarse en el Diario Oficial “La Gaceta”.
+
+Dado en Casa Presidencial, en la ciudad de Tegucigalpa, municipio del Distrito Central, a los doce días del mes de diciembre del 2023.
+
+COMUNÍQUESE Y PUBLÍQUESE IRIS XIOMARA CASTRO SARMIENTO
+
+Presidenta Constitucional de la República HECTOR GUSTAVO SANCHEZ VELASQUEZ Secretario de Estado en el Despacho de Seguridad
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 36444 del 2024-01-26, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20240126-36444/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

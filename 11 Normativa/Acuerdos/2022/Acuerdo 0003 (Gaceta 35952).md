@@ -1,0 +1,108 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "0003"
+titulo: "ACUERDO No. 0003"
+emisor: "Secretaría de Infraestructura y Transporte"
+gaceta_numero: 35952
+gaceta_fecha: "2022-06-17"
+gaceta: "[[11 Normativa/La Gaceta/2022/La Gaceta 35952 (2022-06-17)|La Gaceta 35952]]"
+paginas: "A. 1 - 4"
+sumario: "Acuerdo 0003"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220617-35952/download"
+extraido: "2026-11-14"
+huella: "8a3729fd86692a8d"
+---
+<!-- portal:inicio -->
+# ACUERDO No. 0003
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 0003 |
+| Emisor | Secretaría de Infraestructura y Transporte |
+| Publicado en | [[11 Normativa/La Gaceta/2022/La Gaceta 35952 (2022-06-17)\|La Gaceta 35952]] del 2022-06-17 |
+| Páginas | A. 1 - 4 |
+| Según el sumario de La Gaceta | Acuerdo 0003 |
+
+## Texto
+
+02 de junio del 2022
+
+EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT)
+
+CONSIDERANDO: Que de conformidad al artículo doscientos cuarenta y siete (247) de la Constitución de la República de Honduras, los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia.
+
+CONSIDERANDO: Que de conformidad a lo establecido en el artículo trece (13) de la Ley General de la Administración Pública, el Presidente de la República puede crear comisiones integradas por funcionarios públicos (…).
+
+CONSIDERANDO: Que de conformidad a lo establecido en el artículo treinta y seis (36) de la Ley General de la Administración Pública, en el numeral ocho (8), los Secretarios de Estado tienen las atribuciones y deberes comunes de emitir los acuerdos y resoluciones de los asuntos de su competencia y aquellos que le delegue el Presidente de la República, y cuidar de su ejecución. La firma de los Secretarios de Estado en estos actos, será autorizada por los respectivos Secretarios Generales.
+
+CONSIDERANDO: Que artículo ciento once (111) numeral nueve (9) del Código de Trabajo, establece que, son causas de terminación de los contratos, la liquidación o clausura definitiva de la empresa o establecimiento.
+
+CONSIDERANDO: Que, en el Decreto Ejecutivo PCM-05- 2022, publicado en el Diario Oficial “La Gaceta” en su edición No. 35,892 de fecha seis (06) de abril de dos mil veintidós (2022), en su Artículo siete (7), se crea la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), con la finalidad de desarrollar los proyectos y programas de infraestructura. Esta Secretaría contará con dos Subsecretarías:
+
+\1) Subsecretaría de Obras Públicas; y, 2) Subsecretaría de Transporte. Y, además, se le otorgan las atribuciones y competencias de la Inversión Estratégica/MCC-Honduras (INVEST-H), así como, los programas y proyectos pasarán a formar parte de esta Secretaría de Estado, con excepción de lo relacionado al sector salud y el sector agro.
+
+CONSIDERANDO: Que en el artículo ocho (8) del Decreto Ejecutivo PCM-05-2022, se establece que, la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), deberá designar a un liquidador para el programa de Inversión Estratégica/MCC-Honduras (INVEST-H) con amplios poderes de decisión para cancelar las obligaciones derivadas de las funciones administrativas y de personal que haya suscrito de la Inversión Estratégica/MCC-Honduras (INVEST-H) respetando los objetivos y alcances de los convenios de crédito y donaciones internacionales. Al finalizar el proceso deberá presentar el correspondiente informe financiero a la Secretaría de Finanzas. El Inventario de Compras relativas a Salud que realizó a través de INVEST-H, deberá ser trasladado a la Secretaría de Estado en el Despacho de Salud. Las obligaciones derivadas de las acciones de INVEST-H que no puedan ser liquidadas por problemas legales, después de realizado su análisis, se notificará al Ministerio Público.
+
+CONSIDERANDO: Que en el Artículo veintiuno (21) numeral doce (12) del Decreto Ejecutivo PCM-05-2022, se establece, Suprimir a la Inversión Estratégica/MCC-Honduras (INVEST-H).
+
+CONSIDERANDO: Que el artículo 4 del Decreto Ejecutivo PCM 11-2022, publicado en el Diario Oficial La Gaceta en su edición número 35,913 de fecha 3 de mayo de 2022, establece que Única y exclusivamente aquellas Secretarías de Estado, Programas, Gabinetes Especiales, Gabinetes Sectoriales e Institutos y Direcciones suprimidas en el Artículo 21 del PCM- 05-2022 de fecha 6 de abril del año 2022, con el propósito de continuar con el normal desarrollo de los programas y proyectos ejecutados por dichas instituciones, mantendrán su carácter de organismos ejecutores de los respectivos proyectos que están en ejecución, debiendo realizar las actividades operativas y administrativas de los mismos, hasta que los programas y proyectos sean traslados de manera ordenada, eficaz, eficiente y en debida forma a las instituciones públicas que correspondan. Se faculta a la Secretaría de Estado en el Despacho de Finanzas para que proceda a efectuar las operaciones presupuestarias y financieras necesarias que requieran las Secretarías de Estado, Programas, Gabinetes Especiales, Gabinetes Sectoriales e Institutos y Direcciones, en el marco del presente Decreto y del Convenio suscrito con los organismos internacionales, con el fin de que cuenten con el presupuesto destinado para la ejecución de los programas y proyectos y no paralizar la ejecución en tanto se realiza el traslado interinstitucional de los mismos a las instituciones públicas que correspondan; dicho proceso no debe ser superior a seis (06) meses a partir de la entrada en vigencia del presente Decreto.
+
+CONSIDERANDO: Que en el artículo 5 del Decreto Ejecutivo PCM 11-2022 se establece: Trasladar el inventario de los suministros y bienes materiales existentes en las Secretarías de Estado, Programas, Gabinetes Especiales, Gabinetes Sectoriales e Institutos y Direcciones que han sido suprimidas a la Dirección Nacional de Bienes del Estado (DNBE), de igual forma los bienes muebles e inmuebles y archivos de documentos en físico y digitales. Se instruye a la DNBE para que proceda a realizar las operaciones necesarias del descargo y registro de los inventarios de los bienes muebles e inmuebles, suministros, bienes materiales y tomar las medidas necesarias para su aseguramiento, conservación y finalmente reasignar los activos a las entidades que los requieran. En el caso de aquellas Instituciones Públicas que se suprimen y se crean otras que absorben como parte de sus funciones y responsabilidades la prestación de servicios públicos similares a satisfacer, deberá la DNBE asignarlos a la nueva Institución que corresponda, los bienes muebles e inmuebles y archivos de documentos en físico y digitales.
+
+CONSIDERANDO: Que en el artículo 7 en su párrafo final del Decreto Ejecutivo PCM 11-2022 se establece que:
+
+El titular de la Comisión Técnica Liquidadora, el titular de la unidad nominadora, los funcionarios y/o empleados que intervengan en los actos administrativos que dan origen al pago, no serán responsables de forma personal o solidaria.
+
+POR TANTO:
+
+En uso de las facultades de que está investido y en aplicación de los artículos 247 de la Constitución de la República,
+
+Artículos 13, 33, 36, numeral 8, 116 y 118 numeral 2 de la Ley General de la Administración Pública, artículo 7, 8 y 21 de Decreto Ejecutivo PCM-05-2022 de fecha 06 de abril del año 2022, publicado en el Diario Oficial “La Gaceta” en fecha 06 de abril del 2022 y artículos 4, 5, 6, 7 y 8 del Decreto Ejecutivo No. PCM 11-2022 publicado en el Diario Oficial “La Gaceta” en fecha 03 de Mayo del 2022.
+
+ACUERDA:
+
+PRIMERO: Nombrar al ciudadano ALCEO EFREN DELGADO FALCON, como Liquidador de Inversión Estratégica/MCC-Honduras (INVEST-H); el cual, tendrá las facultades administrativas y de dirección delegadas en el presente Acuerdo Ejecutivo de conformidad a lo establecido en el Decreto Ejecutivo PCM 05-2022 y el Decreto Ejecutivo PCM 11-2022, bajo los principios de legalidad, responsabilidad, eficiencia, racionalización, coordinación y simplificación, con amplios poderes de decisión para cancelar las obligaciones derivadas de las funciones administrativas y de personal que haya suscrito Inversión Estratégica/MCCHonduras (INVEST-H), respetando los objetivos y alcances de los convenios de crédito y donaciones internacionales. Es entendido que, el liquidador asumirá la representación legal de Inversión Estratégica/MCC-Honduras INVEST-H durante el proceso de liquidación.
+
+SEGUNDO: El liquidador, tendrá las siguientes atribuciones:
+
+1. Proponer al Secretario de Estado en los Despachos de Infraestructura y Transporte (SIT), a la Secretaría de Agricultura y Ganadería (SAG) y a la Secretaría de Gobernación, Justicia y Descentralización para su consideración y aprobación, el plan de liquidación y cierre definitivo de Inversión Estratégica/MCCHonduras (INVEST-H).
+
+2. Dirigir las actividades legales, técnicas y administrativas de INVEST-H, incluyendo la distribución de tareas y la asignación de responsabilidades al personal a su cargo, encaminadas a la liquidación de Inversión Estratégica/ MCC-Honduras (INVEST-H);
+
+3. Dirigir, coordinar, controlar y evaluar los programas y proyectos que se encuentren en ejecución y, presentar ante el Secretario de Estado en los Despachos de Infraestructura y Transporte (SIT), a la Secretaría de Agricultura y Ganadería (SAG) y a la Secretaría de Gobernación, Justicia y Descentralización los correspondientes informes, para llevar a cabo el traslado administrativo y legal de todos los programas y proyectos así como las obligaciones contractuales a las Secretarías de Estado antes relacionadas.
+
+4. Girar instrucciones de pago y demás acciones que sean necesarias para cumplir con la liquidación de Inversión Estratégica/MCC-Honduras (INVEST-H).
+
+5. Ejecutar las disposiciones contenidas en los Decretos Ejecutivos PCM 05-2022 y PCM 11-2022 y las demás que establezcan leyes o reglamentos especiales, o las que en el uso de sus atribuciones le asigne o le delegue el Secretario de Estado Ut Supra.
+
+Al Finalizar el proceso de liquidación de la Inversión Estratégica/MCC-Honduras (INVEST-H) el Liquidador deberá presentar el correspondiente Informe Financiero a la Secretaría de Finanzas, quien asumirá las obligaciones financieras que pudieren generar en instancia administrativa o judicial de los actos realizados en todas sus modalidades por la institución liquidada y, los cuales, no hayan podido ser liquidados o finalizados durante el periodo de liquidación de Inversión Estratégica/MCC-Honduras (INVEST-H).
+
+TERCERO: Se conformará una comisión de apoyo para el proceso de liquidación integrada por un representante de las siguientes Secretarías de Estado: Secretaría de Estado en los Despachos de Salud, Secretaría de Estado en los Despachos de Agricultura y Ganadería, Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización y Secretaría de Estado en los Despachos de Transparencia y Lucha Contra la Corrupción.
+
+CUARTO: Se faculta al liquidador, para que, integre un equipo técnico multidisciplinario para la revisión, verificación y aprobación de todos los procesos pendientes que mantenga Inversión Estratégica/MCC-Honduras (INVEST-H) a la fecha, quien a su vez, bajo la dirección y coordinación del liquidador, serán los encargados de colaborar en los procesos de cancelación de las obligaciones derivadas de las funciones administrativas y de personal que haya suscrito Inversión Estratégica/MCC-Honduras (INVEST-H); la cancelación de los contratos se deberá realizar de conformidad a la causal estipulada en el artículo ciento once (111) numeral nueve (9) del Código de Trabajo, por ende, se procederá al pago a favor de los trabajadores, todos los derechos laborales inherentes a sus contratos de trabajo y ratificados por el Estado de Honduras en los Convenios Internacionales en los cuales es signatario.
+
+QUINTO: El liquidador procederá a trasladar el inventario de los suministros y bienes materiales, así como los bienes muebles e inmuebles y los archivos de documentos físicos y digitales existentes de Inversión Estratégica/MCC-Honduras (INVEST-H) a la Dirección Nacional de Bienes del Estado (DNBE), quien a su vez deberá de asignarlos a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), a la Secretaría de Agricultura y a la Secretaría de Gobernación Justicia y Descentralización. Además, se procederá al traslado definitivo del inventario de compras relativas a salud que se realizó a través de la Inversión Estratégica/MCC-Honduras (INVEST-H), el cual, deberá ser traslado a la Secretaría de Estado en el Despacho de Salud (SESAL), solicitando para tal efecto, el acompañamiento de la Dirección Nacional de Bienes del Estado (DNBE).
+
+SEXTO: Una vez finalizada la liquidación, el liquidador procederá a transferir las atribuciones y competencias, así como los programas y proyectos de Inversión Estratégica/ MCC-Honduras (INVEST-H) a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT); con excepción de los programas y proyectos relacionados al sector salud que serán transferidos a la Secretaría de Estado en el Despacho de Salud (SESAL); los programas y proyectos relacionados al sector agro incluidos los proyectos productivos, que serán transferidos a la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG); y el Proyecto de Fortalecimiento del Abastecimiento de Agua Urbana que será transferido a la Secretaría de Gobernación, Justicia y Descentralización.
+
+SEPTIMO: Las obligaciones derivadas de las acciones de Inversión Estratégica/MCC-Honduras (INVEST-H) que no puedan ser liquidadas por problemas legales, después de realizado su análisis, se deberán ser notificadas al Ministerio Público.
+
+OCTAVO: Dejar sin valor y efecto el Acuerdo 0001 de fecha 12 de mayo del año dos mil veintidós, emitido por esta Secretaría de Estado.
+
+NOVENO: El presente Acuerdo es de ejecución inmediata y deberá publicarse en el Diario Oficial La Gaceta.
+
+Dado en la ciudad de Comayagüela, M.D.C., a los dos (02) días del mes de junio del año dos mil veintidós (2022).
+
+COMUNIQUESE:
+
+ING. MAURICIO ANTONIO RAMOS SUAZO SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT) ABG. IRIS MARIEL BUDDE GARCÍA SECRETARIA GENERAL
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 35952 del 2022-06-17, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20220617-35952/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+
