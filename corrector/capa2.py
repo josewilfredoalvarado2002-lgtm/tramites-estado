@@ -52,6 +52,8 @@ REGLAS_FUERA = {
     "ES_UNPAIRED_BRACKETS", "UNPAIRED_BRACKETS", "PUNCTUATION_PARAGRAPH_END", "ES_QUESTION_MARK",
     "EN_QUOTES", "TYPOGRAPHY", "ES_WIKIPEDIA_COMMON_ERRORS", "SPACE_AFTER_PUNCTUATION",
     "TOO_LONG_SENTENCE", "ES_REPEATEDWORDS", "PHRASE_REPETITION", "ES_SPLIT_WORDS",
+    # sugerencias de estilo o que dependen de la intención del autor
+    "EN_BASE_A", "EN_BASE_AL", "SI_AFIRMACION", "ES_SIMPLE_REPLACE_SIMPLE_EN_BASE",
 }
 REGLAS_ORTOGRAFIA = ("MORFOLOGIK_RULE_ES", "HUNSPELL", "SPELLING")
 MIN_REPETICION = 3          # una palabra «desconocida» escrita igual en 3 fichas o más se da por buena
@@ -90,8 +92,8 @@ def _contexto(linea, ini, fin, margen=30):
     return a, b
 
 
-def identificador(nota, antes, despues):
-    return hashlib.sha1(f"{nota}\n{antes}\n{despues}".encode()).hexdigest()[:12]
+def identificador(antes, despues):
+    return hashlib.sha1(f"{antes}\n{despues}".encode()).hexdigest()[:12]
 
 
 def es_ortografia(regla):
@@ -146,7 +148,7 @@ def hallazgos_de_nota(rel, md, revisar, conocidas):
         despues = cruda[a:ini] + m["sugerencias"][0] + cruda[fin:b]
         if md.count(antes) < 1:
             continue
-        hid = identificador(rel, antes, despues)
+        hid = identificador(antes, despues)
         if hid in vistos:
             continue
         vistos.add(hid)
@@ -194,8 +196,23 @@ def revisar_repo(raiz, revisar, muestra=0):
         notas = random.sample(notas, min(muestra, len(notas)))
     for rel, md in notas:
         todos += hallazgos_de_nota(rel, md, revisar, conocidas)
-    todos.sort(key=lambda h: (h["institucion"], h["titulo"], h["id"]))
-    return notas, todos
+    return notas, agrupar(todos)
+
+
+def agrupar(todos):
+    """Un mismo texto con el mismo error en varias fichas queda como un solo hallazgo con todas sus fichas."""
+    grupos = {}
+    for h in todos:
+        g = grupos.get(h["id"])
+        if g is None:
+            g = grupos[h["id"]] = {k: v for k, v in h.items() if k not in ("nota", "titulo")}
+            g["notas"], g["titulos"] = [], []
+        if h["nota"] not in g["notas"]:
+            g["notas"].append(h["nota"])
+            g["titulos"].append(h["titulo"])
+    salida = list(grupos.values())
+    salida.sort(key=lambda h: (h["institucion"], h["titulos"][0], h["id"]))
+    return salida
 
 
 def main(raiz, muestra=0):
@@ -206,12 +223,14 @@ def main(raiz, muestra=0):
         lt.close()
     if muestra:
         for h in todos:
-            print(f"[{h['regla']}] «{h['palabra']}» -> «{h['sugerencia']}» | {h['nota'][:60]} | {h['antes'][:110]}")
+            print(f"[{h['regla']}] «{h['palabra']}» -> «{h['sugerencia']}» | {len(h['notas'])} fichas | {h['antes'][:110]}")
         print(f"Muestra: {len(notas)} fichas, {len(todos)} posibles errores (no se guardó nada).")
         return
     os.makedirs(os.path.join(raiz, "revision"), exist_ok=True)
     with open(os.path.join(raiz, SALIDA), "w", encoding="utf-8") as f:
-        json.dump({"fichas_revisadas": len(notas), "hallazgos": todos}, f, ensure_ascii=False, indent=1)
+        import datetime
+        json.dump({"fecha": datetime.date.today().isoformat(), "fichas_revisadas": len(notas), "hallazgos": todos},
+                  f, ensure_ascii=False, indent=1)
     reglas = Counter(h["regla"] for h in todos)
     print(f"Revisión de textos: {len(notas)} fichas revisadas, {len(todos)} posibles errores.")
     for r, n in reglas.most_common(10):

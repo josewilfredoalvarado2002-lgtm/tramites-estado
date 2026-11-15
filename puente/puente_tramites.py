@@ -23,7 +23,13 @@ Normas reemplazadas: cuando el crawler vuelve a leer una edición y un acto camb
 que se separa en sus acuerdos), la nota vieja de la bóveda se MUEVE a "99 Archivo/Normativa reemplazada" con su misma
 ruta. No se borra nada, y si tenía «Notas propias» queda constancia en el registro.
 
-Reglas: solo escribe dentro de "10 Trámites del Estado", "11 Normativa" y "99 Archivo/Normativa reemplazada", nunca borra, no toca una nota que editaste hace
+Revisión de textos (corrector, capa 2): GitHub deja en revision/hallazgos.json los posibles errores de ortografía de las
+fichas. El puente los muestra en "00 Panel/Revisión de textos.md" con dos casillas por error: «Corregir» y «Dejar como
+está». Lo que marcás se guarda en .casedeck/corrector.json; las correcciones se aplican al copiar la ficha (y se vuelven a
+aplicar cada vez que la fuente la cambia), con una nota al pie del bloque que dice qué se corrigió.
+
+Reglas: solo escribe dentro de "10 Trámites del Estado", "11 Normativa", "99 Archivo/Normativa reemplazada",
+"00 Panel/Revisión de textos.md" y ".casedeck/corrector.json", nunca borra, no toca una nota que editaste hace
 menos de 10 minutos y deja constancia en ~/Library/Application Support/CaseDeck/logs/puente_tramites.log.
 Solo usa la biblioteca estándar de Python.
 """
@@ -417,6 +423,146 @@ def equivalencias(boveda):
 # ---------------------------------------------------------------------------
 # Corrida
 # ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+# Revisión de textos (corrector, capa 2)
+# ---------------------------------------------------------------------------
+HALLAZGOS = os.path.join("revision", "hallazgos.json")
+NOTA_REVISION = os.path.join("00 Panel", "Revisión de textos.md")
+DECISIONES = os.path.join(".casedeck", "corrector.json")
+MAX_EN_NOTA = 300
+_MARCA = re.compile(r"^\s*- \[([ xX])\].*%%(corregir|dejar):([0-9a-f]{12})%%\s*$", re.M)
+_TITULO_CORRECCIONES = "> [!note]- Correcciones hechas en Case Deck"
+
+
+def leer_marcas(texto):
+    """{'corregir': {ids marcados}, 'dejar': {ids marcados}} de la nota de revisión."""
+    marcas = {"corregir": set(), "dejar": set()}
+    for casilla, accion, hid in _MARCA.findall(texto):
+        if casilla.lower() == "x":
+            marcas[accion].add(hid)
+    return marcas
+
+
+def aplicar_correcciones(contenido, correcciones):
+    """Aplica [[antes, despues, palabra, sugerencia]] solo dentro del bloque del portal y deja constancia al pie."""
+    i, j = contenido.find(INICIO), contenido.find(FIN)
+    if i == -1 or j < i or not correcciones:
+        return contenido
+    bloque, hechas = contenido[i:j], []
+    for antes, despues, palabra, sugerencia in correcciones:
+        if antes and antes in bloque:
+            bloque = bloque.replace(antes, despues)
+            linea = f"> - «{palabra}» → «{sugerencia}»"
+            if linea not in hechas:
+                hechas.append(linea)
+    if not hechas:
+        return contenido
+    pie = ("\n" + _TITULO_CORRECCIONES + "\n> El texto de arriba es copia de la fuente oficial, salvo estas correcciones "
+           "de ortografía que marcaste en [[00 Panel/Revisión de textos|Revisión de textos]]:\n" + "\n".join(hechas) + "\n")
+    return contenido[:i] + bloque.rstrip("\n") + "\n" + pie + contenido[j:]
+
+
+def huella_correcciones(lista):
+    return sha_texto(json.dumps(lista, ensure_ascii=False))[:16] if lista else None
+
+
+def _cita(h):
+    antes = re.sub(r"\]\([^)]*\)?", "]", h["antes"].replace("\n", " "))
+    antes = re.sub(r"https?://\S+", "(enlace)", antes)
+    k = antes.find(h["palabra"])
+    if k != -1:
+        antes = antes[:k] + "**" + h["palabra"] + "**" + antes[k + len(h["palabra"]):]
+    return "…" + antes.strip() + "…"
+
+
+def nota_revision(pendientes, total_fichas, n_corregidas, n_dejadas, fecha):
+    fichas = {n for h in pendientes for n in h["notas"]}
+    lineas = ["---", 'tipo: "revision_textos"', "---", "# Revisión de textos", "",
+              "> [!info] Cómo se usa",
+              "> LanguageTool leyó las fichas de trámites y encontró estos **posibles** errores. Todavía no se cambió nada.",
+              "> - Marcá **Corregir** y la ficha queda corregida en la próxima hora. Al pie de la ficha queda dicho qué se corrigió.",
+              "> - Marcá **Dejar como está** si el texto está bien: un nombre, una sigla, un término técnico.",
+              "> - Si el mismo texto aparece en varias fichas, una sola marca sirve para todas.",
+              "> - Lo que marqués sale de esta lista. Lo que no marqués sigue pendiente.", "",
+              f"**Pendientes:** {len(pendientes)} en {len(fichas)} fichas · "
+              f"**Corregidos:** {n_corregidas} · **Dejados como están:** {n_dejadas} · "
+              f"**Fichas revisadas:** {total_fichas} · **Última revisión:** {fecha}", ""]
+    if len(pendientes) > MAX_EN_NOTA:
+        lineas += [f"> [!note] Se muestran los primeros {MAX_EN_NOTA}. A medida que los marqués, aparecen los siguientes.", ""]
+    inst = None
+    for h in pendientes[:MAX_EN_NOTA]:
+        if h["institucion"] != inst:
+            inst = h["institucion"]
+            lineas += [f"## {inst}", ""]
+        enlaces = [f"[[{n[:-3]}|{t}]]" for n, t in zip(h["notas"], h["titulos"])]
+        donde = enlaces[0] if len(enlaces) == 1 else f"En {len(enlaces)} fichas: " + ", ".join(enlaces[:5]) + \
+            (f" y {len(enlaces) - 5} más" if len(enlaces) > 5 else "")
+        lineas += [f"**{donde}** · *{h['seccion'] or 'Texto'}*", f"> {_cita(h)}", f"> *{h['mensaje']}*",
+                   f"- [ ] Corregir: «{h['palabra']}» → «{h['sugerencia']}» %%corregir:{h['id']}%%",
+                   f"- [ ] Dejar como está %%dejar:{h['id']}%%", ""]
+    if not pendientes:
+        lineas += ["No hay nada pendiente.", ""]
+    return "\n".join(lineas)
+
+
+def corrector(repo, boveda, gracia_seg=120, ahora=None):
+    """Lee las marcas de la nota de revisión, guarda las decisiones y regenera la nota.
+    Devuelve {ruta_de_nota: [[antes, despues, palabra, sugerencia], ...]} con las correcciones aprobadas."""
+    ahora = ahora or time.time()
+    ruta_dec = os.path.join(boveda, DECISIONES)
+    try:
+        with open(ruta_dec, encoding="utf-8") as f:
+            dec = json.load(f)
+    except (OSError, ValueError):
+        dec = {}
+    dec.setdefault("corregir", {})
+    dec.setdefault("dejar", [])
+    try:
+        with open(os.path.join(repo, HALLAZGOS), encoding="utf-8") as f:
+            datos = json.load(f)
+    except (OSError, ValueError):
+        datos = None
+    ruta_nota = os.path.join(boveda, NOTA_REVISION)
+    if datos is not None:
+        hallazgos = datos.get("hallazgos", [])
+        por_id = {h["id"]: h for h in hallazgos}
+        editando = os.path.exists(ruta_nota) and ahora - os.path.getmtime(ruta_nota) < gracia_seg
+        if not editando:
+            marcas = leer_marcas(leer(ruta_nota)) if os.path.exists(ruta_nota) else {"corregir": set(), "dejar": set()}
+            dudosas = marcas["corregir"] & marcas["dejar"]          # las dos casillas: no se hace nada
+            cambio = False
+            for hid in sorted(marcas["corregir"] - dudosas):
+                h = por_id.get(hid)
+                if h and hid not in dec["corregir"]:
+                    dec["corregir"][hid] = {k: h[k] for k in ("notas", "antes", "despues", "palabra", "sugerencia")}
+                    cambio = True
+            for hid in sorted(marcas["dejar"] - dudosas):
+                if hid in por_id and hid not in dec["dejar"]:
+                    dec["dejar"].append(hid)
+                    cambio = True
+            # una ficha nueva con un texto ya aprobado recibe la misma corrección
+            for hid, c in dec["corregir"].items():
+                nuevas = [n for n in (por_id.get(hid) or {}).get("notas", []) if n not in c["notas"]]
+                if nuevas:
+                    c["notas"] += nuevas
+                    cambio = True
+            if cambio:
+                os.makedirs(os.path.dirname(ruta_dec), exist_ok=True)
+                escribir_atomico(ruta_dec, json.dumps(dec, ensure_ascii=False, indent=1))
+                log(f"Revisión de textos: {len(dec['corregir'])} correcciones aprobadas, "
+                    f"{len(dec['dejar'])} dejadas como están.")
+            decididas = set(dec["corregir"]) | set(dec["dejar"])
+            pendientes = [h for h in hallazgos if h["id"] not in decididas]
+            texto = nota_revision(pendientes, datos.get("fichas_revisadas", 0), len(dec["corregir"]),
+                                  len(dec["dejar"]), datos.get("fecha", ""))
+            _escribir_si_cambia(ruta_nota, texto)
+    por_nota = {}
+    for hid, c in sorted(dec["corregir"].items()):
+        for n in c["notas"]:
+            por_nota.setdefault(n, []).append([c["antes"], c["despues"], c["palabra"], c["sugerencia"]])
+    return por_nota
+
+
 def cargar_config():
     cfg = dict(CONFIG_POR_DEFECTO)
     if os.path.exists(CONFIG):
@@ -445,7 +591,7 @@ def dentro_de(base, ruta):
     return ruta == base or ruta.startswith(base + os.sep)
 
 
-def sincronizar(repo, boveda, estado, gracia_min=10, ahora=None, carpeta=CARPETA):
+def sincronizar(repo, boveda, estado, gracia_min=10, ahora=None, carpeta=CARPETA, correcciones=None):
     """Copia las notas que cambiaron. Devuelve un resumen."""
     ahora = ahora or time.time()
     origen = os.path.join(repo, carpeta)
@@ -484,9 +630,13 @@ def sincronizar(repo, boveda, estado, gracia_min=10, ahora=None, carpeta=CARPETA
                     res["rechazadas"].append(rel)
                     continue
                 clave = carpeta + "/" + rel.replace(os.sep, "/")
+                lista = (correcciones or {}).get(_nfc(clave))
+                hc = huella_correcciones(lista)
+                if lista:
+                    contenido = aplicar_correcciones(contenido, lista)
                 existe = os.path.exists(dst)
                 previo = estado.get(clave) or {}
-                if previo.get("huella") == h and existe:
+                if previo.get("huella") == h and previo.get("correcciones") == hc and existe:
                     res["iguales"] += 1
                     continue
                 # antes de crear carpetas se comprueba que la parte que ya existe no salga de la carpeta 10
@@ -500,6 +650,8 @@ def sincronizar(repo, boveda, estado, gracia_min=10, ahora=None, carpeta=CARPETA
                 if not existe:
                     escribir_atomico(dst, contenido)
                     estado[clave] = {"huella": h, "mtime": os.path.getmtime(dst)}
+                    if hc:
+                        estado[clave]["correcciones"] = hc
                     res["nuevas"] += 1
                     continue
                 mtime = os.path.getmtime(dst)
@@ -522,6 +674,8 @@ def sincronizar(repo, boveda, estado, gracia_min=10, ahora=None, carpeta=CARPETA
                 else:
                     res["iguales"] += 1
                 estado[clave] = {"huella": h, "mtime": os.path.getmtime(dst)}
+                if hc:
+                    estado[clave]["correcciones"] = hc
             except OSError as e:
                 # típico de OneDrive con archivos solo en la nube (TimeoutError): se reintenta la próxima vez
                 res["pendientes"].append(f"{carpeta}/{a}: {type(e).__name__}")
@@ -547,9 +701,15 @@ def main():
             estado = json.load(f)
     except (OSError, ValueError):
         estado = {}
+    try:
+        correcciones = {_nfc(k): v for k, v in corrector(repo, boveda).items()}
+    except (OSError, ValueError, KeyError, TypeError) as e:
+        log(f"AVISO no se pudo actualizar la Revisión de textos ({type(e).__name__}); se reintenta la próxima vez.")
+        correcciones = {}
     res = None
     for carpeta in CARPETAS:
-        r = sincronizar(repo, boveda, estado.setdefault("aplicadas", {}), int(cfg.get("minutos_de_gracia", 10)), carpeta=carpeta)
+        r = sincronizar(repo, boveda, estado.setdefault("aplicadas", {}), int(cfg.get("minutos_de_gracia", 10)),
+                        carpeta=carpeta, correcciones=correcciones)
         if _nfc(carpeta) == NORMATIVA and os.path.isdir(os.path.join(boveda, NORMATIVA)):
             falta = not os.path.exists(os.path.join(boveda, NORMATIVA, INDICE_NORMATIVA))
             movidas, con_notas = archivar_reemplazadas(repo, boveda, int(cfg.get("minutos_de_gracia", 10)))
