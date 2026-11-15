@@ -15,6 +15,6 @@ tipo: "normativa_anio"
 - [[11 Normativa/La Gaceta/2012/2012-06 Junio|Junio de 2012]] (25 ediciones)
 - [[11 Normativa/La Gaceta/2012/2012-05 Mayo|Mayo de 2012]] (26 ediciones)
 - [[11 Normativa/La Gaceta/2012/2012-04 Abril|Abril de 2012]] (18 ediciones)
-- [[11 Normativa/La Gaceta/2012/2012-03 Marzo|Marzo de 2012]] (7 ediciones)
-- [[11 Normativa/La Gaceta/2012/2012-02 Febrero|Febrero de 2012]] (1 ediciones)
+- [[11 Normativa/La Gaceta/2012/2012-03 Marzo|Marzo de 2012]] (26 ediciones)
+- [[11 Normativa/La Gaceta/2012/2012-02 Febrero|Febrero de 2012]] (18 ediciones)
 <!-- portal:fin -->
