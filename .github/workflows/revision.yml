@@ -1,0 +1,59 @@
+name: Revisión de textos (corrector, capa 2)
+
+on:
+  schedule:
+    # Días 2 y 17 a las 13:20 UTC: el día después de leer los sitios institucionales
+    - cron: "20 13 2,17 * *"
+  workflow_dispatch:
+    inputs:
+      muestra:
+        description: "Revisar solo N fichas al azar y mostrar el resultado sin guardar (0 = todas)"
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: revision-textos
+  cancel-in-progress: false
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v6
+
+      - name: Instalar Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - name: Guardar LanguageTool entre corridas
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/language_tool_python
+          key: languagetool-v1
+
+      - name: Instalar LanguageTool
+        run: python3 -m pip install --quiet --break-system-packages language_tool_python
+
+      - name: Revisar las fichas
+        env:
+          MUESTRA: ${{ inputs.muestra || '0' }}
+        run: |
+          case "$MUESTRA" in *[!0-9]*) echo "Muestra no válida"; exit 1;; esac
+          python3 -W ignore -m corrector.capa2 . --muestra "$MUESTRA"
+
+      - name: Guardar el resultado en el repositorio
+        if: ${{ (inputs.muestra || '0') == '0' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- revision
+          if git diff --cached --quiet; then echo "Sin cambios que guardar."; exit 0; fi
+          git commit -m "Revisión de textos $(date '+%Y-%m-%d %H:%M')"
+          git pull --rebase --quiet
+          git push
