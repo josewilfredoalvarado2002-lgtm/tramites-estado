@@ -94,7 +94,7 @@ En base al Artículo 38, 39 y 40 del Reglamento del Código de Notariado deben p
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2018). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2016). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
 - Acuerdo Ministerial SEN-001-2020 → [[Acuerdo SEN-001-2020 (Gaceta 35161)]] (La Gaceta del 2020-01-29; emisor: Secretaría de Energía)
 - Acuerdo Ministerial SEN-119-2022 → [[Acuerdo SEN-119-2022 (Gaceta 36015)]] (La Gaceta del 2022-08-30; emisor: Secretaría de Estado en el Despacho de Energía)

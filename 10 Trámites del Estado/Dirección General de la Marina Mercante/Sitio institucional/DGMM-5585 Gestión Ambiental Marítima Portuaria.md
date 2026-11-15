@@ -9628,18 +9628,18 @@ A MEM
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2018). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2016). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
-- Acuerdo 001-2001 → anterior a 2018: no está en la colección de La Gaceta de la bóveda
-- Acuerdo 003-2009 → anterior a 2018: no está en la colección de La Gaceta de la bóveda
-- Acuerdo 023-2015 → anterior a 2018: no está en la colección de La Gaceta de la bóveda
-- Acuerdo Ministerial 016-2015 → anterior a 2018: no está en la colección de La Gaceta de la bóveda
-- Acuerdo 053-2012 → anterior a 2018: no está en la colección de La Gaceta de la bóveda
-- Acuerdo 022-2015 → anterior a 2018: no está en la colección de La Gaceta de la bóveda
-- Resolución 123-2017 → anterior a 2018: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 001-2001 → anterior a 2016: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 003-2009 → anterior a 2016: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 023-2015 → posible: [[Acuerdo 23-2015 (Gaceta 34180)]] (No consta en la fuente)
+- Acuerdo Ministerial 016-2015 → anterior a 2016: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 053-2012 → anterior a 2016: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 022-2015 → posible: [[Acuerdo 22-2015 (Gaceta 34180)]] (SECRETARÍA DE DERECHOS HUMANOSJUSTICIA, GOBERNACIÓN YDESCENTRALIZACIÓN); [[Acuerdo 022-2015 (Gaceta 34080)]] (SECRETARÍA DE ENERGIA, RECURSOS NATURALES, AMBIENTE Y MINAS)
+- Resolución 123-2017 → no aparece en la colección de La Gaceta de la bóveda
 - Resolución 760-2019 → no aparece en la colección de La Gaceta de la bóveda
-- Decreto Ejecutivo 002-2002 → anterior a 2018: no está en la colección de La Gaceta de la bóveda
-- Decreto 266-2013 → anterior a 2018: no está en la colección de La Gaceta de la bóveda
+- Decreto Ejecutivo 002-2002 → anterior a 2016: no está en la colección de La Gaceta de la bóveda
+- Decreto 266-2013 → anterior a 2016: no está en la colección de La Gaceta de la bóveda
 - Acuerdo Ejecutivo 138-2018 → posible: [[Acuerdo 138-2018 (Gaceta 35457)]] (SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN)
 - Acuerdo Ministerial 58-2019 → posible: [[Acuerdo 058-2019 (Gaceta 34997)]] (Secretaría de Desarrollo Económico); [[Acuerdo 58-2019 (Gaceta 34888)]] (DIRECCIÓ DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN)
 - Resolución 574-2019 → no aparece en la colección de La Gaceta de la bóveda
@@ -9648,7 +9648,7 @@ A MEM
 - Acuerdo 118-2019 → no aparece en la colección de La Gaceta de la bóveda
 - Acuerdo 114-2019 → posible: [[Acuerdo 114-2019 (Gaceta 34991)]] (Secretaría de Gobernación, Justicia y Descentralización); [[Acuerdo 114-2019 (Gaceta 35100)]] (Secretaría de Derechos Humanos)
 - Resolución 870-2019 → no aparece en la colección de La Gaceta de la bóveda
-- Decreto Ejecutivo PCM-009-2018 → no aparece en la colección de La Gaceta de la bóveda
+- Decreto Ejecutivo PCM-009-2018 → [[Decreto PCM-009-2018 (Gaceta 34600)]] (La Gaceta del 2018-03-23; emisor: Poder Ejecutivo)
 <!-- normas:fin -->
 <!-- portal:fin -->
 

@@ -1,0 +1,104 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "006-17"
+titulo: "ACUERDO No. 006-17"
+emisor: "Secretaría de Estado en los Despachos de Agricultura y Ganadería"
+gaceta_numero: 34263
+gaceta_fecha: "2017-02-11"
+gaceta: "[[11 Normativa/La Gaceta/2017/La Gaceta 34263 (2017-02-11)|La Gaceta 34263]]"
+paginas: "A. 6 - 10"
+sumario: "Acuerdos Nos. 005-17, 006-17, 007-17, 008-17, 009-17, 010-17, 011-17, 012-17 013-17, 014-17."
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20170211-34263/download"
+extraido: "2026-11-15"
+huella: "1c075f899aa5a0db"
+---
+<!-- portal:inicio -->
+# ACUERDO No. 006-17
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 006-17 |
+| Emisor | Secretaría de Estado en los Despachos de Agricultura y Ganadería |
+| Publicado en | [[11 Normativa/La Gaceta/2017/La Gaceta 34263 (2017-02-11)\|La Gaceta 34263]] del 2017-02-11 |
+| Páginas | A. 6 - 10 |
+| Según el sumario de La Gaceta | Acuerdos Nos. 005-17, 006-17, 007-17, 008-17, 009-17, 010-17, 011-17, 012-17 013-17, 014-17. |
+
+## Texto
+
+Tegucigalpa, M.D.C., 17 Ene. 2017
+
+EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado en fecha veintiocho de septiembre del año dos mil dieciséis, emitió el Decreto Ejecutivo Número PCM-069-2016, publicado en el Diario Oficial “La Gaceta” No. 34149, mediante el cual declaró Situación de Emergencia a Nivel de once (11) departamentos de la República de Honduras.
+
+CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-069-2016, se ejecutará bajo la coordinación de la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), con un monto estimado hasta de DOSCIENTOS MILLONES DE LEMPIRAS (L.200,000,000.00). Estos recursos procederán del Fideicomiso para la Reactivación del Sector Agroalimentario y de la Economía de Honduras (FIRSA).
+
+CONSIDERANDO: Que los contratos suscritos en situación de emergencia requieren la aprobación posterior del Presidente de la República.
+
+POR TANTO:
+
+En uso de las facultades y en aplicación de los Artículos 245 numeral 11, de la Constitución de la República; Artículos 11, 29, 116, 118, 119 numeral 2 y 122 de la Ley General de la Administración Pública; Artículo 9 de la Ley de Contratación del Estado, Artículo 80 del Decreto Ejecutivo PCM-008-97 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; y el Decreto Ejecutivo PCM-069-2016.
+
+ACUERDA:
+
+PRIMERO: Aprobar el contrato suscrito en situación de emergencia que literalmente dice: CONTRATO DE CONSTRUCCION DE EMBALSE DE COSECHA DE AGUA UBICADO EN MATA DE MEZCAL, MUNICIPIO DE JUTICALPA, DEPARTAMENTO DE OLANCHO N°. 006 -2016. NOSOTROS: JACOBO ALBERTO PAZ
+
+BODDEN, mayor de edad, casado, Ingeniero Agrónomo Zootécnista, con Tarjeta de Identidad No. 0501-1956-04221 y de este domicilio, actuando en mi condición de Secretario de Estado en los Despachos de Agricultura y Ganadería (SAG), nombrado mediante Acuerdo del Poder Ejecutivo No. 214-2014 de fecha 04 de Marzo del 2014, quien en lo sucesivo se denominará: “LA SECRETARIA”, por una parte y KELVIN ERNESTO TURCIOS FLORES, mayor de edad, Ingeniero Civil, de nacionalidad hondureña, del domicilio de Tegucigalpa, M.D.C, con Tarjeta de Identidad No. 0801-1987-17482, actuando en su condición de Representante Legal de la CONSTRUCTORA CIMSA, S. DE R.L., constituida mediante Instrumento Público Número 53 en la ciudad de Tegucigalpa, municipio Distrito Central, departamento Francisco Morazán, en fecha 27 de Marzo del año 2014, ante los oficios del Notario Público Salvador Navarrete Melghem, Sociedad inscrita en el Registro Mercantil No. 21883, Matrícula 2536094 Centro Asociado Instituto de la Propiedad, y en el Registro de la Cámara de Comercio e Industrias de Tegucigalpa Inscrita con el No. 22403 Folio 11821 Tomo XX del Libro de Sociedades de la ciudad de Tegucigalpa, con RTN 08019014648417, Permiso de Operación No. 117914 extendido por la Alcaldía Municipal del municipio Distrito Central y quien en adelante se denominará “EL CONTRATISTA”, hemos convenido en celebrar como en efecto lo hacemos, el presente CONTRATO DE CONSTRUCCION DE EMBALSE DE COSECHA DE AGUA CON UNA CAPACIDAD TOTAL EN VOLUMEN DE ALMACENAMIENTO DE AGUA DE TREINTA MIL METROS CUBICOS (30,000.00 METROS CÚBICOS), DE AGUA PARA IRRIGAR VEINTINUEVE MANZANAS (29 MZ), EN MATA DE MEZCAL, MUNICIPIO DE JUTICALPA, DEPARTAMENTO DE OLANCHO, de conformidad con las cláusulas y condiciones siguientes: CLAUSULA PRIMERA:
+
+“ANTECEDENTES”: El Presidente Constitucional de la República de Honduras, en Consejo de Secretarios de Estado, en fecha veintiséis de septiembre del año dos mil dieciséis, emitió el Decreto Ejecutivo Número PCM-069-2016, publicado en el Diario Oficial “La Gaceta” No. 34149, en fecha veintiocho de septiembre del año dos mil dieciséis, mediante el cual declaró Situación de Emergencia a Nivel de once (11) departamentos de la República de Honduras. CLAUSULA SEGUNDA:
+
+“OBJETO DEL CONTRATO Y DESCRIPCIÓN DE LOS
+
+SERVICIOS”: El presente Contrato, tiene por objeto obtener por parte de EL CONTRATISTA la construcción de un Embalse de Cosecha de Agua, generando una capacidad total de almacenamiento de TREINTA MIL METROS CUBICOS (30,000.00 METROS CÚBICOS), DE AGUA PARA IRRIGAR VEINTINUEVE MANZANAS (29 MZ), la cantidad de embalses se determinará por las condiciones topográficas del terreno, tipo de suelos o cualquier impedimento que afecte la construcción de la obra. Las obras objeto de este Contrato están ubicadas en Mata de Mezcal, municipio de Juticalpa, departamento de Olancho, comprometiéndose EL CONTRATISTA a realizar las actividades enmarcadas en las Especificaciones Técnicas Específicas, que se citan a continuación:
+
+1.-Las dimensiones pueden variar según el número de beneficiarios, siendo 1000 M3, por beneficiarios, de Construcción de Embalse de Cosechas de Agua que se puedan hacer en la zona. Las dimensiones podrán variar de tal forma que la suma total almacenada de estas obras, deberán en conjunto alcanzar la cantidad de un mínimo de DIEZ MIL METROS CUBICOS (10,000 M3), hasta un máximo total de SESENTA MIL METROS CUBICOS (60,000.00 M3), por grupo organizado.
+
+2.-La actividad de limpieza y desmonte de la capa vegetal, será supervisado por el Técnico de la Dirección General de Riego y Drenaje. En el caso que se encuentre material orgánico fuera de los límites indicados, EL CONTRATISTA deberá recibir instrucciones del personal de la Dirección General de Riego y Drenaje para continuar con el desmonte de esta capa vegetal. 3.- La Escarificación del área marcada y remoción del material de la misma sobre la cual se asentarán los diques o bordos de la laguna, se hará de acuerdo a las indicaciones del Supervisor de la Dirección General de Riego y Drenaje. 4.- La excavación del embalse estará ligado al almacenamiento requerido o se definirá según las condiciones del subsuelo de acuerdo a las Especificaciones Técnicas, emitidas por el Supervisor de la Dirección General de Riego y Drenaje. 5.- La conformación de bordos y compactado de los mismos, será realizada con un vibro compactador en capas de 15 cm de espesor, hasta obtener el porcentaje deseado. 6.- El control de los niveles en el proceso de la construcción, serán controlados por el Supervisor de la Dirección General de Riego y Drenaje; la obra se dará por recibida hasta que todos los niveles estén de acuerdo al diseño del embalse.
+
+7.- El CONTRATISTA será responsable del traslado del equipo al lugar de la obra; así mismo, todo movimiento interno dentro del área de influencia del proyecto será asumido por LA SECRETARIA como hora máquina. 8.- Al final de la Obra, el Supervisor de la Dirección General de Riego y Drenaje realizará una revisión general de niveles y estado de la obra. Cualquier defecto será comunicado a EL CONTRATISTA quien procederá a su inmediata reparación. 9.- Queda entendido que el Supervisor tendrá autoridad suficiente para solicitar al EL CONTRATISTA la remoción de algún operador que no cumpla con las exigencias técnicas o bajo rendimiento de la actividad; así mismo, podrá reportar a EL CONTRATISTA para que éste reemplace el equipo o maquinaria que presente deficiencia en su potencia o bajo rendimiento. 10.- EL Supervisor tiene la autoridad de reportar a EL CONTRATISTA el mal comportamiento que no esté de acuerdo a las normas de conducta que requiere el trabajo. 11.- Queda obligado EL CONTRATISTA en caso de desperfecto o deterioro de algún equipo por el suministrado, para la ejecución de la obra, repararlo o sustituirlo en un lapso no mayor de setenta y dos (72) horas. 12.- Como parte de la Política del Programa de Cosechas de Agua, todos los operadores o empleados de la empresa que laboren en la obra, deberán estar identificados con un chaleco cuya imagen o característica será proporcionada por la SAG. 13.- El sitio de construcción de la obra de Cosechas de Aguas, será identificado y seleccionado por el personal de la Dirección General de Riego y Drenaje; así mismo el Supervisor, indicará la ubicación del sitio a EL CONTRATISTA. 14.-En el desarrollo del proyecto, el Supervisor de la Dirección General de Riego y Drenaje, tiene la potestad de tomar todas las decisiones que de conformidad se presenten y no EL CONTRATISTA ni los beneficiarios. 15.- Durante el proceso de compactación, el suelo deberá de tener la humedad óptima, en caso de no tenerla EL CONTRATISTA proveerá el equipo necesario para alcanzarla, para lo cual presentara las cotizaciones respectivas del tanque cisterna de agua con capacidad de 3,000.00 galones mínimo, aprobadas por la Dirección General de Riego y Drenaje. 16.- El área de limpieza será establecida por el Técnico autorizado por la Dirección General de Riego y Drenaje asignado a la obra y sólo podrá ser modificada a solicitud de él mismo. 17.- El grado de compactación, deberá alcanzar como mínimo el noventa por ciento (90%) del ensayo a la resistencia a la penetración, Las pruebas necesarias deberán ser realizadas por el Supervisor de la Dirección General de Riego y Drenaje. 18.- Las dimensiones de cada embalse a construir, serán suministradas por el Personal Técnico de la Dirección General de Riego y Drenaje que ha sido asignado. 19.- El Ángulo de inclinación de los diques, serán aprobados por el Personal Técnico de la Dirección General de Riego y Drenaje, y definidos en relación al Ángulo de reposo del material encontrado. 20.- En caso de que la textura del suelo encontrado no corresponda al tipo de suelo ideal para la construcción de las cortinas, el Personal Técnico de la Dirección General de Riego y Drenaje, identificará y autorizará los bancos de material impermeable a ser utilizados.
+
+21.- Si se requiere del revestimiento del fondo del embalse, el Personal Técnico de la Dirección General de Riego y Drenaje, identificará los bancos de material impermeable a ser utilizados y autorizará el acarreo del mismo. CLAUSULA TERCERA:
+
+“MONTO DEL CONTRATO”: LA SECRETARIA pagará a El CONTRATISTA las cantidades siguientes: Tractor de Oruga 140-160HP Mil Ochocientos Cincuenta Lempiras Exactos (Lps.1,850.00), Tractor de Oruga 165HP Mil Novecientos Lempiras Exactos (Lps.1,900.00), Tractor de Oruga 172HP Dos Mil Cien Lempiras Exactos (Lps.2,100.00), Tractor de Oruga 175HP Dos Mil Trescientos Lempiras Exactos (Lps.2,300.00), Tractor de Oruga 185HP Dos Mil Cuatrocientos Cincuenta Lempiras Exactos (Lps.2,450.00), Tractor 190HP Dos Mil Seiscientos Cincuenta Lempiras Exactos (Lps.2,650.00),Excavadora de Oruga 140HP Dos Mil Cincuenta Lempiras Exactos (Lps.2,050.00), Vibro compactadora de Rodillo 10-12TON Mil Cuatrocientos Lempiras Exactos (Lps.1,400.00), se pagará por hora máquina; de igual forma si fuere necesario el alquiler de un tanque cisterna de agua con una capacidad de 3,000.00 galones, el monto total será pagado al finalizar la obra, conforme al Informe Técnico presentado por la Dirección General de Riego y Drenaje, comprobado mediante el control de los informes de campo del supervisor. LA SECRETARIA hará las retenciones que por Ley corresponda. El monto del Contrato, será financiado con recursos provenientes del Fideicomiso para la Reactivación del Sector Agroalimentario y de la Economía de Honduras (FIRSA).
+
+CLAUSULA CUARTA: “FORMA DE PAGO”: LA
+
+SECRETARIA se compromete a la cancelación de las actividades realizadas por EL CONTRATISTA en un solo pago, de acuerdo al requerimiento presentado por el mismo, conforme al control de las horas máquina invertidas en la construcción de cada obra registradas en los informes de campo del supervisor y autorizadas por el Director de la Dirección General de Riego y Drenaje.
+
+CLAUSULA QUINTA: “PLAZO DEL CONTRATO”: El plazo de finalización del Contrato, será de (15 a 35) quince a treinta y cinco días calendario a partir de la emisión de la orden de inicio. Este plazo, estará sujeto a extensiones o recortes, autorizados de forma escrita por el Director de la Dirección General de Riego y Drenaje, siempre y cuando existan causas que justifiquen este cambio del plazo, tales como: fuerza mayor, caso fortuito y otros inconvenientes que estén fuera del control de EL CONTRATISTA. CLAUSULA SEXTA: “SANCIONES ECONOMICAS”: Para garantizar el fiel cumplimiento de las obligaciones y conforme a lo establecido en el Artículo 70 de las Disposiciones Generales del Presupuesto de Ingresos y Egresos de la República de Honduras para el año 2016, EL CONTRATISTA pagará a LA SECRETARIA por cada día de atraso en la entrega de los trabajos un porcentaje equivalente al cero punto dieciocho por ciento (0.18%) del monto total del Contrato en concepto de multa hasta la debida entrega de los trabajos, la cantidad que resultare de la aplicación de esta sanción será deducible de cualquier cantidad que se adeude a EL CONTRATISTA. CLAUSULA SEPTIMA: “CONSTANCIA DEL BUEN ESTADO DEL EQUIPO”: Antes de la emisión de la orden de inicio, EL CONTRATISTA presentará a LA SECRETARIA constancia de que el equipo se encuentra en buen estado; este documento deberá ser debidamente firmado y sellado, el que pasará a formar parte integral de este Contrato.
+
+CLAUSULA OCTAVA: “PERSONAL Y EQUIPO”: EL
+
+CONTRATISTA para cumplir con los servicios objeto de este contrato, suministrará un listado del personal y equipo que utilizara para la realización de los mismos. CLAUSULA NOVENA:
+
+“GARANTIAS”: EL CONTRATISTA deberá rendir las garantías siguientes: a) Garantía de Cumplimiento del Contrato, equivalente al quince por ciento (15%) del monto del Contrato, extendida a favor de la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), con vigencia hasta tres (3) meses después del plazo de ejecución de las obras. b) Garantía de Calidad, la que una vez efectuada que fuere la recepción final de las obras sustituirá a la Garantía de Cumplimiento del Contrato.
+
+El monto de la Garantía de Calidad será equivalente al cinco por ciento (5%) del monto del Contrato, con vigencia de Ciento Ochenta (180) días, contados a partir de la recepción final del proyecto y emitida a favor de la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG). Las Garantías deberán ser emitidas por Institución debidamente autorizada.
+
+CLAUSULA DECIMA: “RECEPCIÓN DE LOS
+
+SERVICIOS”: LA SECRETARIA recibirá los servicios objetos de este contrato, de acuerdo a la Cláusula Segunda, verificando que los mismos sean a satisfacción de ésta y dará por escrito a EL CONTRATISTA el finiquito correspondiente y la autorización para el pago final de la obra. CLAUSULA DECIMA PRIMERA: “LEY APLICABLE Y JURISDICCION COMPETENTE”: Cualquier controversia que surja entre las partes en relación con cuestiones vinculadas con este Contrato que no pueda resolverse amigablemente dentro de los cinco (5) días calendario siguientes a la notificación del problema objeto de la controversia por una de las partes, EL CONTRATISTA renuncia a su domicilio y se somete a la Jurisdicción de los Juzgados y Tribunales de Francisco Morazán. CLAUSULA DECIMA SEGUNDA: “CAUSAS DE RESCISION”: Son causas por las que se podrá rescindir este Contrato mediante notificación por escrito a EL CONTRATISTA con diez (10) días de anticipación, en los casos siguientes: a) Mutuo acuerdo entre las partes. b) Incumplimiento de las cláusulas convenidas. c) Caso Fortuito o Fuerza Mayor. d) Cuando por atraso injustificado, EL CONTRATISTA tarde en dar comienzo a las obras, por más de quince (15) días calendario, a partir de la fecha en que reciba la orden de inicio. e) Cuando EL CONTRATISTA en cualquier tiempo y sin causa justificada demore el avance de la obra en un período continuo durante más de quince (15) días. f) Cuando EL CONTRATISTA ceda, traspase o transmita a cualquier título, el presente Contrato en todo o en parte sin la aprobación escrita del Director de la Dirección General de Riego y Drenaje. g) Cuando EL CONTRATISTA no presente en el lapso de cinco (5) días calendario los documentos requeridos en la CLÁUSULA SEPTIMA. h) Cuando en caso de mala calidad de obra, siempre que EL SUPERVISOR hubiera solicitado por escrito su rectificación por lo menos tres (3) veces sin que EL CONTRATISTA haya procedido a efectuar los cambios y/o rectificaciones respectivas. i) Cuando por razones de interés público, caso fortuito o fuerza mayor, así lo considere conveniente LA SECRETARIA o por las causales establecidas en el Artículo 127, de la Ley de Contratación del Estado. j) En caso de rescisión del contrato antes de la finalización de la obra, se retendrá el pago, hasta que se hagan las liquidaciones correspondientes y si resultare un saldo a favor de LA SECRETARIA por concepto de daños y perjuicios, dicho pago se aplicará a su cancelación, debidamente acreditados a juicio de LA SECRETARIA de lo antes señalado, EL CONTRATISTA expondrá las razones que al efecto se tuvieren para que éste, dentro de diez (10) días calendario contados a partir de la fecha de recibo de la notificación de rescisión, manifieste lo que a su derecho convenga, en cuyo caso LA SECRETARIA resolverá lo procedente, dentro del plazo de cinco (5) días calendario siguiente a la fecha en que hubiere recibido el escrito de contestación de EL CONTRATISTA. CLAUSULA DECIMA TERCERA:
+
+“INFORMES”: EL SUPERVISOR deberán llevar un control diario de horas máquinas, que al final de la semana, EL CONTRATISTA deberá refrendar junto con el Supervisor. El control deberá contener lo siguiente: 1.- Número de horas máquina invertido, con un detalle de cada tipo de máquina que trabajo. 2.- Datos de los horómetros con la marcación inicial y final de la semana. Y de las observaciones realizadas por escrito por el Supervisor del Proyecto en caso de existir. Informe Final EL SUPERVISOR deberá presentar conciliado con el CONTRATISTA un Informe Final, para la aprobación del Director de la Dirección General de Riego y Drenaje, conteniendo lo siguiente: 1.- Cantidad de horas máquinas utilizadas para excavación y conformación de taludes y diques. 2.- Maquinaria utilizada para compactación. 3.-Horas máquina para compactación. CLAUSULA DECIMA CUARTA:
+
+“ACEPTACIÓN DE CONDICIONES”: Enterados del contenido y demás efectos legales por ambas partes, aceptan los términos y condiciones establecidos en el presente Contrato. En fe de lo cual firmamos el presente Contrato por duplicado y de contenido idéntico, en la Ciudad de Tegucigalpa Municipio del Distrito Central a los 03 días del mes de Octubre del año 2016. (F) Y SELLO JACOBO ALBERTO PAZ BODDEN, SECRETARIO DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA. (F) Y SELLO KELVIN ERNESTO TURCIOS FLORES, REPRESENTANTE LEGAL DE LA CONSTRUCTORA CIMSA, S. DE R.L., CONTRATISTA.
+
+SEGUNDO: El presente Acuerdo deberá ser publicado en el Diario Oficial La Gaceta y entrará en vigencia a partir de su publicación.
+
+TERCERO: Hacer las Transcripciones de Ley.
+
+COMUNÍQUESE:
+
+JORGE RAMON HERNÁNDEZ ALCERRO
+
+Secretario de Estado Coordinador General de Gobierno Por Delegación del Presidente de la República Acuerdo Ejecutivo No. 031-2015 JACOBO ALBERTO PAZ BODDEN Secretario de Estado en los Despachos de Agricultura y Ganadería
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 34263 del 2017-02-11, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20170211-34263/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

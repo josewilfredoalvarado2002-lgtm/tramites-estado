@@ -75,9 +75,9 @@ Balanzas de Comprobación mensuales de los períodos de la petición (Formato Ex
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2018). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2016). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
-- Acuerdo 481-2017 → anterior a 2018: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 481-2017 → posible: [[Acuerdo 481-2017 (Gaceta 34413)]] (SECRETARÍA DE FINANZAS)
 <!-- normas:fin -->
 <!-- portal:fin -->
 

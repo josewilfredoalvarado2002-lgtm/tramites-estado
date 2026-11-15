@@ -1,0 +1,1130 @@
+---
+tipo: "norma"
+tipo_acto: "Decreto"
+numero: "165-2016"
+titulo: "DECRETO No. 165-2016"
+emisor: "Poder Legislativo"
+gaceta_numero: 34285
+gaceta_fecha: "2017-03-09"
+gaceta: "[[11 Normativa/La Gaceta/2017/La Gaceta 34285 (2017-03-09)|La Gaceta 34285]]"
+paginas: "A. 1 - 56"
+sumario: "Decreto No. 165-2016"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20170309-34285/download"
+extraido: "2026-11-15"
+huella: "e979098f28038dc0"
+---
+<!-- portal:inicio -->
+# DECRETO No. 165-2016
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Decreto |
+| Número | 165-2016 |
+| Emisor | Poder Legislativo |
+| Publicado en | [[11 Normativa/La Gaceta/2017/La Gaceta 34285 (2017-03-09)\|La Gaceta 34285]] del 2017-03-09 |
+| Páginas | A. 1 - 56 |
+| Según el sumario de La Gaceta | Decreto No. 165-2016 |
+
+## Texto
+
+EL CONGRESO NACIONAL,
+
+CONSIDERANDO: Que en fecha 3 de Julio del año 2014, el señor Emil Mahfuz Hawit Medrano, en su condición de Gerente General de la Empresa Nacional de Energía Eléctrica (ENEE), suscribió el Contrato de Suministro de Potencia y Energía Eléctrica, con el señor José María Méndez Arguelles, en su condición de Gerente General de la Empresa Energía Renovable de Olancho, S.A de C.V (EROSA). Para la instalación de la Planta Hidroeléctrica TOMHAWA, en el municipio de San Esteban, departamento de Olancho.
+
+CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 19 de la Constitución de la República, es potestad del Congreso Nacional, aprobar o improbar los contratos que lleven involucrados exenciones, incentivos y concesiones fiscales, o cualquier otro contrato que hayan de producir o prolongar sus efectos al siguiente periodo de gobierno de la República.
+
+POR TANTO,
+
+DECRETA:
+
+#### Artículo 1
+
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el CONTRATO No. 261-2014, que contiene el CONTRATO DE SUMINISTRO DE POTENCIA Y ENERGÍA ELÉCTRICA, enviado por el Poder Ejecutivo a través de la Secretaría de Estado en los Despachos de Energía, Recursos Naturales, Ambiente y Minas, suscrito en la ciudad de Tegucigalpa, municipio del Distrito Central, a los tres días del mes de Julio del Dos Mil Catorce, entre el Licenciado Emil Mahfuz Hawit Medrano, Gerente General de la Empresa Nacional de Energía Eléctrica (ENEE) y el Doctor José María Méndez Arguelles, en representación de la Empresa de Energía Renovable de Olancho, S.A. de C.V. (EROSA), para la instalación de la Planta Hidroeléctrica TOMHAWA, municipio de San Esteban, departamento de Olancho, que literalmente dice:
+
+SECRETARÍA DE ESTADO EN LOS DEPACHOS DE RECURSOS NATURALES, AMBIENTE Y MINAS “Contrato No. 261-2014 Entre Empresa Nacional de Energía Eléctrica y Energía Renovable de Olancho, S.A. de C.V., Tegucigalpa, Honduras, 3 de julio de 2014.
+
+TABLA DE CONTENIDO
+
+SECCIÓN 1: ACUERDO CONTRACTUAL......................
+
+A. DOCUMENTOS DEL CONTRATO..............................................
+
+B. TÉRMINO DEL CONTRATO.....................................................
+
+C. DESCRIPCIÓN GENERAL DE LA PLANTA..................................
+
+D. FECHA PROGRAMADA DE INICIO DE OPERACIÓN COMERCIAL....
+
+E. INSTALACIONES DE INTERCONEXIÓN, PUNTO DE ENTREGA Y MEDICIÓN...........................................................................
+
+F. AMPLIACIÓN DEL SISTEMA INTERCONECTADO NACIONAL........
+
+G. PRECIO DE COMPRA DE ENERGÍA Y POTENCIA........................
+
+H. COMUNICACIONES ENTRE LAS PARTES....................................
+
+I.
+
+COMPROMISO DE VENTA AL COMPRADOR........................
+
+J.
+
+MONTO DE LA GARANTÍA....................................................
+
+K. SIGLAS Y ABREVIATURAS...........................................
+
+SECCIÓN 2: CONDICIONES GENERALES...................
+
+CLÁUSULA 1 DEFINICIONES............................................
+
+1.1 Definiciones.................................................................
+
+CLÁUSULA 2 OBJETO DEL CONTRATO..........................
+
+2.1 Descripción General del Objeto del Contrato...............
+
+2.2 Obligación de Construir, Operar y Mantener.................
+
+2.3 Obligación de Compra y Venta.....................................
+
+2.4 Compromiso de Despacho de Energía..........................
+
+2.5 Venta de Energía a Terceros.........................................
+
+2.6 Compromiso de Energía...............................................
+
+2.7 Compromiso de Transmisión........................................
+
+2.8 Obras de Ampliación del Sistema Interconectado Nacional.......................................................................
+
+CLÁUSULA 3 PERIODO ANTERIOR A LA OPERACIÓN COMERCIAL.........................................................................
+
+3.1 Programa de Construcción...........................................
+
+3.2 Comité Operativo y sus Facultades...............................
+
+3.3 Permisos......................................................................
+
+3.4 Errores y Discrepancias................................................
+
+CLÁUSULA 4 VIGENCIA, PLAZO Y TERMINACIÓN DEL CONTRATO...................................................................
+
+4.1 Entrada en Vigencia......................................................
+
+4.2 Puesta en Operación Comercial....................................
+
+4.3 Duración del Contrato..................................................
+
+4.4 Prórroga......................................................................
+
+4.5 Terminación Anticipada del Contrato por Parte del COMPRADOR...........................................................
+
+4.5.1 Procedimiento de Terminación Anticipada del Contrato por Parte del COMPRADOR...........................
+
+4.6 Terminación Anticipa da del Contrato por Parte del VENDEDOR............................................................
+
+4.6.1 Procedimiento de Terminación Anticipada del Contrato por Parte del VENDEDOR........................................
+
+CLÁUSULA 5 DECLARACIONES, GARANTÍAS Y
+
+ACUERDOS...........................................................................
+
+5.1 Leyes Aplicables...........................................................
+
+5.2 Propiedad Intelectual e Industrial...................................
+
+5.3 Nacionalidad de Empleados..........................................
+
+5.4 Declaraciones y Garantías.............................................
+
+5.4.1 Declaraciones y garantías del VENDEDOR.............
+
+5.4.2 Declaraciones y Garantías del COMPRADOR.........
+
+5.4.3 Cambios de información...........................................
+
+CLÁUSULA 6 OPERACIÓN DE LAS INSTALACIONES......
+
+6.1 Reglas de Operación y Mantenimiento de la Planta........
+
+6.2 Procedimientos de Operación.......................................
+
+6.3 Operador y Cambio de Operador.................................
+
+6.4 Pruebas de Funcionamiento...........................................
+
+6.5 Otorgamiento de Permisos de Entrada...........................
+
+6.6 Dispositivos de Protección............................................
+
+6.7 Cambios que Afecten los Dispositivos de Protección.......
+
+6.8 Consumibles.................................................................
+
+CLÁUSULA 7 INTERCONEXIÓN.......................................
+
+7.1 Instalaciones de Interconexión.......................................
+
+CLÁUSULA 8 MEDICIÓN....................................................
+
+8.1 Sistema de Medición Comercial....................................
+
+8.2 Reparación y Reemplazo del Sistema de Medición...........
+
+8.3 Lectura........................................................................
+
+CLÁUSULA 9 PRECIOS, FACTURACIÓN Y PAGOS........
+
+9.1 Obligación de Comprar el Suministro de Energía y Potencia......................................................................
+
+9.2 Pago del Suministro de Energía y Potencia....................
+
+9.3 Pago por Suministro antes de la Fecha de Inicio de Operación Comercial...................................................
+
+9.4 Cargo por Obras Financiadas por el VENDEDOR al COMPRADOR (COF)...............................................
+
+9.5 Otros Cargos Aplicables (OCA)..................................
+
+9.5.1 Indisponibilidad del SIN de Recibir Energía de la Planta..........................................................................
+
+9.6 Forma de Pago y Facturación.......................................
+
+9.6.1 Facturación y Pagos................................................
+
+9.6.2 Última Facturación al Terminar el Contrato..............
+
+9.6.3 Intereses.................................................................
+
+9.7 Acuerdo de Apoyo.....................................................
+
+CLÁUSULA 10 PRUEBAS....................................................
+
+10.1 Prueba de Capacidad Inicial.......................................
+
+10.2 Protocolo de Pruebas.................................................
+
+CLÁUSULA 11 SEGUROS...................................................
+
+11.1 Seguros......................................................................
+
+CLÁUSULA 12 RESPONSABILIDAD, INCUMPLIMIENTO Y GARANTÍAS......................................................................
+
+12.1 Limitación de Responsabilidad....................................
+
+12.2 Indemnización por Multas y Cargos............................
+
+12.3 Riesgo de Pérdida......................................................
+
+12.3.1 Riesgo de Pérdida del VENDEDOR.....................
+
+12.3.2 Riesgo de Pérdida del COMPRADOR.................
+
+12.4 Solidaridad................................................................
+
+12.5 Ajuste por no alcanzar el Factor de Planta Anual Garantizado.................................................................
+
+12.6 Cálculo de Penalidades y su Pago...............................
+
+12.7 Garantía de Cumplimiento..........................................
+
+CLÁUSULA 13 FUERZA MAYOR O CASO FORTUITO...
+
+13.1 Aplicación de Fuerza Mayor o Caso Fortuito
+
+13.2 Deber de Probar........................................................
+
+13.3 Efecto de Fuerza Mayor o Caso Fortuito....................
+
+13.4 Obligaciones Previas de Pago no Condonadas............
+
+13.5 Prórroga de Límites de Tiempo...................................
+
+CLÁUSULA 14 IMPUESTOS Y RECLAMOS......................
+
+14.1 Impuestos Aplicables..................................................
+
+14.2 Reembolso de Diferencias..........................................
+
+CLÁUSULA 15 RESOLUCIÓN DE CONTROVERSIAS O DISPUTAS..............................................................................
+
+15.1 Resolución de Disputas en Consultas y Negociaciones....
+
+15.2 Clasificación de Disputas............................................
+
+15.3 Resolución de las Disputas Técnicas...........................
+
+15.4 Resolución de Otras Disputas.....................................
+
+15.5 Cumplimiento.............................................................
+
+CLÁUSULA 16 MEDIO AMBIENTE....................................
+
+16.1 Leyes Ambientales.....................................................
+
+16.2 Estudio Ambiental......................................................
+
+16.3 Licencia Ambiental para las Obras de Ampliación de Sistema Interconectado Nacional................................
+
+CLÁUSULA 17 AVISOS
+
+17.1 Direcciones y Destinatarios.........................................
+
+17.2 Cambios de Dirección................................................
+
+CLÁUSULA 18 PREVISIONES VARIAS.............................
+
+18.1 Modificación..............................................................
+
+18.2 Sucesores, Cesionarios y Designados.........................
+
+18.3 Disposiciones Supletorias...........................................
+
+18.4 Encabezamientos........................................................
+
+18.5 Terceras Partes..........................................................
+
+18.6 Irrenunciabilidad.........................................................
+
+18.7 Relación de las Partes................................................
+
+18.8 Subsistencia de Obligaciones......................................
+
+18.9 Divisibilidad...............................................................
+
+18.10 Mantenimiento de Registros......................................
+
+18.11 Confidencialidad.......................................................
+
+18.12 Triplicados...............................................................
+
+CLÁUSULA 19 CAMBIO REGULATORIO.........................
+
+19.1 Cambios Regulatorios................................................
+
+CLÁUSULA 20 CESIÓN Y DERECHO A GRAVAR.............
+
+20.1 Cesión por Parte del VENDEDOR............................
+
+20.2 Cesión por Parte del COMPRADOR........................
+
+20.3 Consentimiento para Cesión.......................................
+
+20.4 Autorización escrita de Cesión....................................
+
+20.5 Efectos de la Cesión del Contrato...............................
+
+20.6 Derecho a Gravar.......................................................
+
+CLÁUSULA 21 VENTA A TERCEROS................................
+
+CLÁUSULA 22 INTEGRIDAD.............................................
+
+ANEXO I DESCRIPCIÓN DE LA PLANTA Y DEL SITIO...
+
+ANEXO II CONDICIONES DE INTERCONEXIÓN...........
+
+ANEXO III CONTROL Y OPERACIÓN DE LA PLANTA, Y LÍMITES TÉCNICOS.........................................................
+
+ANEXO IV CONDICIONES DE OPERACIÓN...................
+
+ANEXO V MODELO DE GARANTÍA DE............................
+
+CUMPLIMIENTO DE CONTRATO......................................
+
+ANEXO VI COMITÉ OPERATIVO Y SUS FACULTADES........
+
+ANEXO VII REQUERIMIENTOS DEL SISTEMA DE MEDICIÓN COMERCIAL....................................................
+
+ANEXO VIII ACUERDO DE APOYO..................................
+
+ANEXO IX MODELO DEL CERTIFICADO DE LA.............
+
+FECHA DE INICIO DE OPERACIÓN COMERCIAL..........
+
+SECCIÓN 1: ACUERDO CONTRACTUAL CONTRATO DE SUMINISTRO DE POTENCIA Y ENERGÍA ELÉCTRICA ASOCIADA ENTRE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA Y ENERGÍA RENOVABLE DE OLANCHO, S.A. DE C.V. Nosotros, la EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA, una Institución descentralizada del Estado de Honduras, creada mediante Decreto Ley No. 48 del 20 de Febrero de 1957 y representada en este acto por el señor EMIL MAHFUZ HAWIT MEDRANO, mayor de edad, soltero, Licenciado en Administración de Empresas, de nacionalidad hondureña y de este domicilio, con Tarjeta de Identidad No. 1804-1958-01845, quien acredita su representación con la Certificación del Acuerdo No. 02-JD-EX-2012 emitido en el Punto 03 del Acta No. JDEX-02-2012 de la Sesión Extraordinaria celebrada por la Junta Directiva de la Empresa Nacional de Energía Eléctrica el 27 de Febrero de 2012; con facultades suficientes para firmar este Contrato, según Resolución número 40-JD-1115-2014, emitida en el Punto 04, Inciso 4.1, Numeral 40, del Acta Número JD-1115-2014, de la Sesión Ordinaria celebrada por la Junta Directiva de la ENEE, 26 de junio de 2014, quién de aquí en adelante se denominará el COMPRADOR y Energía Renovable de Olancho, S.A. de C.V., EROSA, una empresa constituida conforme a las leyes de la República de Honduras, inscrita bajo Matrícula 2527416, No. 14827, del Registro Mercantil, Francisco Morazán del 30 de Agosto del 2012, quien en adelante se denomina el VENDEDOR, representada en este acto por José María Méndez Arguelles, mayor de edad, casado, Doctor en Química y Farmacia, de nacionalidad Hondureña, con documento de identificación 0101-1959-01002, con domicilio en colonia Los Robles, Tegucigalpa, M.D.C., actuando en carácter de Gerente General, con poderes suficientes para la firma del presente contrato, de conformidad al poder general de administración otorgado a su nombre, contenido en el Instrumento 137, inscrita bajo Matrícula 2527416, No. 14827 del Registro Mercantil, Francisco Morazán, el 30 de Agosto del 2012, habiendo mutuamente examinado y encontrado satisfactorias las respectivas manifestaciones con que actuamos y de conformidad con las leyes de Honduras, hemos decidido celebrar y por este acto celebramos el presente Contrato de Suministro de Potencia y Energía Eléctrica Asociada, de conformidad con las Cláusulas establecidas aquí.
+
+A. DOCUMENTOS DEL CONTRATO. Los siguientes documentos constituyen el Contrato entre el COMPRADOR y el VENDEDOR y constituyen un solo cuerpo que debe interpretarse de manera integral: el Acuerdo Contractual, las Condiciones Generales y sus Anexos. En caso de conflicto o ambigüedad, el orden de precedencia estará establecido por el orden en que los documentos fueron listados. B. TÉRMINO DEL CONTRATO. El término de este Contrato para los fines establecidos en la Cláusula 2.1 Descripción General del Objeto del Contrato, de las Condiciones Generales es de Veinte (20) años contados a partir de la Fecha de Inicio de Operación Comercial. C. DESCRIPCIÓN GENERAL DE LA PLANTA.
+
+Nombre del Proyecto: Hidroeléctrica Tomhawa, Localización municipio: San Esteban, departamento: Olancho. Coordenadas:
+
+1688531, 628669, Tecnología: Francis Vertical, Capacidad Instalada (MW): 4.00, Producción Anual de Energía (MWh):
+
+34,500.00, Capacidad Máxima a Entregar (MW): 3.80, Punto de Entrega: En el circuito L-380 de la Subestación Juticalpa, en el municipio de San Esteban. Punto de Medición: En el circuito L- 380 de la Subestación Juticalpa, en el municipio de San Esteban.
+
+Factor de Planta Garantizado (%): 90.00. D. FECHA PROGRAMDA DE INICIO DE OPERACIÓN COMERCIAL.
+
+El VENDEDOR establece que tiene programado poner en operación comercial la Planta a más tardar el: 30 de Mayo de 2016. E. INSTALACIONES DE INTERCONEXIÓN, PUNTO DE ENTREGA Y MEDICIÓN. Para los fines establecidos en la Cláusula 7.1 Instalaciones de Interconexión de las Condiciones Generales, el Punto de Interconexión estará ubicado en el circuito L-380 de la Subestación Juticalpa, en el municipio de San Esteban.
+
+F. AMPLIACIÓN DEL SISTEMA INTERCONECTADO
+
+NACIONAL. Cualquier obra o mejora que a la firma del Contrato se ha identificado como necesaria para recibir la energía producida por la Planta, será construida a cuenta y riesgo del VENDEDOR.
+
+Los diseños de tales obras serán aprobados por el COMPRADOR. G. PRECIO DE COMPRA DE ENERGÍA Y POTENCIA. Para los fines establecidos en la Cláusula 9.2 en relación al pago de la energía y potencia se establece que el Precio Base de Energía tiene un valor de ciento catorce dólares de los Estados Unidos de América con catorce centavos por Megavatiohora (114.14 USD/MWh) y el Precio Base de Potencia tiene un valor de ocho dólares de los Estados Unidos de América con noventa y dos centavos por kilovatio mes (8.92 USD/kW-mes), valores que fueron publicados en el Diario Oficial La Gaceta el 15 de Enero de 2014. H. COMUNICACIONES ENTRE LAS PARTES. Para los fines establecidos en la CLÁUSULA 17 AVISOS de las condiciones Generales, la dirección de las Partes será la siguiente: Para el VENDEDOR: Energía Renovable de Olancho, S.A. de C.V. Centro Comercial Prisa Local No. 8.
+
+Tegucigalpa, M.D.C., Francisco Morazán, Honduras. Atención:
+
+Gerente General, Teléfono: (504) 2236-5405, Fax: Email: grupo.cji.hn@gmail.com. Para el COMPRADOR: Empresa Nacional de Energía Eléctrica, Residencial El Trapiche 4 piso Edificio Corporativo Tegucigalpa, MDC. Honduras, C.A.
+
+Atención:
+
+Gerente General Teléfono: (504) 2235-2000, Fax: (504) 2235-2294, Email: eneeger@enee.hn. I. Compromiso de Venta al COMPRADOR. El VENDEDOR se compromete a vender al COMPRADOR no menos de 34,500.00 Megavatioshora anuales y una potencia de 4.00 Megavatios. J. MONTO DE LA GARANTÍA. Para los fines de la Cláusula 12.7 Garantía de Cumplimiento, El VENDEDOR constituirá una Garantía a nombre del COMPRADOR por un monto de Setecientos doce mil novecientos setenta y seis (712,976.00) USD. Ambas Partes manifiestan estar de acuerdo con el contenido de todas y cada una de las cláusulas de este Contrato y para constancia firmamos en tres (3) originales de igual validez, en la ciudad de Tegucigalpa, MDC, departamento de Francisco Morazán, el día 3 del mes de Julio de 2014. POR EL COMPRADOR (F Y S) EMIL HAWIT MEDRANO, Gerente General. POR EL VENDEDOR (F) JOSÉ MARÍA MÉNDEZ ARGUELLES, Gerente General. K. SIGLAS Y ABREVIATURAS. kW - Kilovatio, kWh - Kilovatio-hora, MW - Megavatio (equivalente a 1000 kilovatios), MWh - Megavatio-hora, RTU - Unidad Terminal Remota, SERNA - Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente. SECCIÓN 2: CONDICIONES GENERALES.
+
+CLÁUSULA 1. DEFINICIONES. 1.1 Definiciones.
+
+Dondequiera que los siguientes vocablos, frases, oraciones, aparezcan en este Contrato o en los Anexos a éste, ya sea en singular o en plural, en género masculino o femenino, tendrán el significado abajo expresado, a menos que dentro del contexto donde se utilicen expresen otro significado. 1. Acuerdo de Apoyo- Documento celebrado entre el VENDEDOR y la Procuraduría General de la República, con aval solidario de la Secretaría de Estado en el Despacho de Finanzas, para el cumplimiento de este contrato cubriendo hasta las cantidades de potencia y energía eléctrica objeto del mismo, en el formato incluido en los Anexos. 2. Año Calendario- Significa el período de doce meses consecutivos que comienza cada primero de Enero y termina el día 31 de Diciembre del mismo año. 3. Año de Operación Comercial– Significa cada período de doce (12) meses consecutivos a partir de la Fecha de Inicio de Operación Comercial. 4. Aviso de Incumplimiento- Un aviso escrito de incumplimiento del Contrato entregado, ya sea por el COMPRADOR o por el VENDEDOR. 5. Aviso de Terminación- Un aviso escrito de terminación del Contrato entregado, ya sea por el COMPRADOR o por el VENDEDOR.
+
+6. Capacidad- Significa la máxima potencia eléctrica que un equipo, planta o sistema es capaz de generar bajo determinadas condiciones. 7. Capacidad Comprometida- Significa la capacidad media que el VENDEDOR reservará en cada mes para cubrir las necesidades y compromisos del COMPRADOR contemplados en este Contrato y que será suministrado en el Punto de Entrega. Para los fines del Contrato, la Capacidad Comprometida se establece en literal I Compromiso de Venta al COMPRADOR del Acuerdo Contractual. 8. Capacidad Declarada- Capacidad disponible para ser generada por la Planta, según la disponibilidad del recurso renovable utilizado y las Prácticas Prudentes de Servicio Eléctrico, tal como sea comunicada anticipadamente hora a hora por el VENDEDOR al Centro Nacional de Despacho (CND), de acuerdo al Programa de Generación. 9. Capacidad Inicial- Significa la Capacidad de la Planta al inicio de la Operación Comercial. 10. Capacidad Instalada- Es la capacidad, calculada en el punto de mayor tensión en la Planta, que resulta de la suma de las capacidades nominales del equipo de generación, corregido por la eficiencia y pérdidas de los equipos auxiliares y las líneas de conducción. 11. Capacidad Máxima a Entregar- Es la Capacidad máxima que se puede registrar en el Punto de Entrega mediante la Capacidad Instalada una vez que se consideren las pérdidas y las eficiencias de los equipos asociados. 12. Capacidad Nominal.- Es la potencia nominal que cada Unidad tiene descrita en los datos de placa del fabricante. 13. Capacidad de Potencia- Para un mes determinado, significa la Energía Eléctrica Facturada en las Horas Punta de dicho mes, dividida entre el número de Horas Punta de tal mes. 14. Caso Fortuito- Se considera Caso Fortuito al acontecimiento proveniente de la naturaleza, imprevisible o que previsto no ha podido evitarse y que imposibilita el cumplimiento parcial o total de las obligaciones derivadas de este Contrato. Se consideran como Caso Fortuito, entre otros, los siguientes eventos: epidemias, terremotos, deslizamiento de tierra o desplazamientos de otros materiales, inundaciones, huracanes, fenómenos climáticos extraordinarios, incendios, así como cualquier otro evento imprevisible o inevitable, siempre y cuando ocasione de una manera directa y sustancial que una o ambas Partes no puedan cumplir oportunamente con las obligaciones contenidas en este Contrato. 15. Cesión del Contrato- Transferencia de derechos y obligaciones asumidas en este Contrato por cualquiera de las Partes a una tercera persona, quien asume la calidad de la persona que cede, subrogándola en todo o en parte de sus derechos y obligaciones, toda vez que las Partes de manera previa expresen su consentimiento por escrito al efecto, salvo las excepciones contempladas en el presente Contrato. 16. Cesión de Bienes- Acto mediante el cual una de las Partes cede la universalidad de sus bienes o un porcentaje de los mismos a un tercero para que se garanticen y en su caso se paguen y cancelen las deudas del cedente. 17. Cedente- Significa la Parte que transfiere a un tercero, derechos o la universalidad o porcentaje de sus bienes, acciones o valores. 18. Centro Nacional de Despacho de Carga (CND)- Es la unidad responsable de la operación y supervisión en tiempo real y de forma continua e ininterrumpida del Sistema Interconectado Nacional (SIN). 19. Cesionario- La persona a cuyo favor se hace la cesión de bienes, el traspaso de un crédito o la transmisión de cualesquiera otros derechos. 20. Comisión Nacional de Energía (CNE)- Es el organismo asesor técnico para la aplicación de la Ley Marco del Sub-Sector Eléctrico. 21.
+
+Comité Operativo- Es el comité establecido entre el VENDEDOR y el COMPRADOR con el propósito de coordinar y acordar aspectos técnicos, solución de disputas, reclamos y otras materias de la relación contractual, en todos los casos compatibles con las disposiciones del presente Contrato, las disposiciones, normas e instrucciones que dicte el CND y las Leyes Aplicables. 22. Contrato- Es el acuerdo de suministro de Potencia y su Energía Eléctrica asociada contenido en este instrumento, sus enmiendas, modificaciones y ampliaciones, juntamente con todos sus Anexos. 23. Contrato de Operación- Es el contrato celebrado entre el VENDEDOR y la SERNA para operar como empresa en el Subsector Eléctrico. 24. Costo Marginal de Corto Plazo de la Energía-Significa el valor base con que el COMPRADOR paga al VENDEDOR por la energía que se le suministra en el Punto de Entrega y que es sujeto de los ajustes previstos en este Contrato. 25. Costo Marginal de Corto Plazo de la Potencia-Significa el valor con el cual el COMPRADOR paga al VENDEDOR la Capacidad de Potencia puesta a disposición por el VENDEDOR. 26. Despacho- Es la potestad del CND de dictar instrucciones de acuerdo con: a) los Límites Técnicos fijados en este Contrato conforme a lo establecido por el fabricante del equipo; y, b) las Leyes Aplicables, para programar y controlar la generación de la Planta e iniciar, aumentar, disminuir o interrumpir la producción de energía destinada al SIN. 27. Día- Significa un día calendario, comenzando a la hora 00:00 (hora oficial de la República de Honduras) de dicho día calendario y terminando a las 23:59:59 horas (hora oficial de la República de Honduras) de ese mismo día calendario. 28. Día Hábil Administrativo- Aplicable para las Partes, es cualquier día de lunes a jueves con horario de 8:00 am a 4:00 pm y viernes de 8:00 am a 3:00 pm o el horario que esté vigente en ese momento, exceptuando los días feriados y el 3 de Febrero para Tegucigalpa. 29. Dólares o USD- Moneda de curso legal de los Estados Unidos de América. 30. Emergencia- Una condición o situación que, basado en Prácticas Prudentes de la Industria Eléctrica, a juicio del CND y/o del VENDEDOR, amenaza la vida humana o afecta en forma sustancial y adversa la capacidad del Sistema Interconectado Nacional o de la Planta del VENDEDOR para mantener un servicio de suministro de energía eléctrica continuo, adecuado y en las condiciones de seguridad pre-establecidas. 31. Energía Asociada- Energía eléctrica entregada por el VENDEDOR al SIN y registrada por el Equipo de Medición en el Punto de Entrega. 32. Energía Eléctrica Facturada- Energía eléctrica medida en kilovatioshora (kWh) entregada y facturada por el VENDEDOR al COMPRADOR en el Punto de Entrega. 33. Energía Entregada Anual- Es el total de la Energía Eléctrica entregada por el VENDEDOR al SIN durante un Año Calendario cualquiera. 34.
+
+Energía de Prueba- Es toda la energía producida por la Planta durante el período de prueba de los equipos y sistemas, que ha sido entregada al COMPRADOR previo a la Fecha de Inicio de Operación Comercial. 35. Energía Eléctrica- Es el producto generado por la Planta del VENDEDOR y que es entregado al SIN conforme a los términos de este Contrato. Está expresado en kilovatios-hora (kWh). 36. Factor de Planta Anual- Es el valor que se calcula de conformidad con lo establecido en la Cláusula 12.5 Ajuste por no alcanzar el Factor de Planta Anual Garantizado. 37. Factor de Planta Garantizado- Es el Factor de Planta Anual que el VENDEDOR garantiza para cada año de Operación Comercial de la Planta y el cual se establece en el literal C DESCRIPCIÓN GENERAL DE LA PLANTA. 38.
+
+Falla- Es la situación que resultada de una falta, deficiencia o error en las obligaciones establecidas es este Contrato y que afecte de manera sustancial la ejecución del mismo. 39. Fecha de Inicio de Operación Comercial- Significa la fecha a partir de la cual la Planta se considera en operación confiable y continua y ha cumplido con lo establecido en la Cláusula 4.2 Puesta en Operación Comercial. 40. Fecha de Pago– Es la fecha en que el COMPRADOR hace efectivo el pago al VENDEDOR por la venta de Potencia y Energía Eléctrica Facturada y que corresponde al Día cuarenta y cinco contado a partir de la fecha de entrega de la factura sin errores. 41. Fecha de Vigencia– Será la fecha que resulte de lo establecido en la Cláusula 4.1 Entrada en Vigencia.
+
+42. Fecha Programada de Inicio de Operación Comercial- Es la fecha consignada en el literal D FECHA PROGRAMADA DE INICIO DEL ACUERDO CONTRACTUAL DE ESTE CONTRATO. 43. Financista- Significa cualquier persona, nacional o extranjera, que provee financiamiento o refinanciamiento en cualquier modalidad para el desarrollo, construcción u operación de las facilidades de generación y obras asociadas del VENDEDOR y a cuyo favor se podrá hacer una Cesión del Contrato y Cesión de Bienes para efectos de garantizar dicho financiamiento o refinanciamiento, como sea aplicable. 44. Fuerza Mayor- Se considera Fuerza Mayor, la proveniente de la acción del hombre, acontecimiento imprevisible o que previsto no ha podido evitarse y que imposibilita el cumplimiento, parcial o total de las obligaciones derivadas de este Contrato. Se consideran Casos de Fuerza Mayor, entre otros, los siguientes eventos: guerras, revoluciones, insurrecciones, disturbios civiles, bloqueos, embargos, huelgas, sabotajes, accidentes, incendios así como cualesquiera otras causas, que sean del tipo antes señalado, siempre y cuando ocasione de una manera directa que cualquiera de las Partes no pueda cumplir oportunamente con las obligaciones contenidas en el Contrato. 45. Grandes Consumidores- Son los consumidores servidos a una tensión de al menos 13.8 kV y cuya demanda máxima sea de por lo menos 750 kW y cuya calificación puede periódicamente modificar la CNE. 46. Horas Punta-Es el período para los días laborables comprendido de las 11:00 hasta las 13:00 horas y el período de las 18:00 hasta las 20:00 horas. 47. Índice de Precios al Consumidor (CPI)-Es el índice de precios al consumidor urbano conocido como CPI por sus siglas en inglés, publicado por el Departamento de Trabajo de los Estados Unidos de América y que significa la medida del cambio promedio en el tiempo en precios de bienes y servicios comprados en todos los hogares urbanos de los Estados Unidos de América, sin ajustes (Consumer Price Index for all Urban Consumers CPI-U, U.S., City Average Unadjusted all items).
+
+48. Instalaciones de Interconexión-Significa las nuevas instalaciones de la línea de transporte que conecta la Planta al Punto de Interconexión, incluyendo pórticos, interruptores y seccionadores, equipo de protección y control, equipos de medición, transformadores de corriente y de potencial, líneas de transmisión, sistemas de comunicación, procesador de comunicaciones para transmisión de datos al CND, compatible con los equipos del SCADA del CND y transductores de medición de tensión, frecuencia, potencia activa y potencia reactiva hasta el Punto de Interconexión. 49 Ley Marco del Subsector Eléctrico y su Reglamento– Es el Decreto No. 158-94, publicado en el Diario Oficial La Gaceta del 26 de Noviembre de 1994 y su Reglamento, Acuerdo No. 934-97 publicado en el Diario Oficial La Gaceta del 12 de Abril de 1999. 50. Ley de Promoción a la Generación de Energía Eléctrica con Recursos Renovables- Es el Decreto No. 70-2007, publicado el 2 de Octubre de 2007 en el número 31,422 del Diario Oficial La Gaceta, la interpretación contenida en el Decreto No. 194-2009, publicado en el Diario Oficial La Gaceta en fecha 14 de Octubre del 2009 y el Decreto 138-2013 publicado en fecha primero de Agosto 2013. 51. Leyes Aplicables- Significa todas las leyes, tratados, reglamentos, decretos, normas, reglas, ordenanzas, decisiones, resoluciones, sentencias, órdenes judiciales, interpretaciones y autorizaciones emitidas de acuerdo y con fundamento en la ley, por cualquier autoridad gubernamental con jurisdicción y competencia sobre la materia en cuestión y que se encuentren en vigor en el momento de la firma del presente Contrato. 52. Licencia Ambiental- Significa el permiso que extiende la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente para: a) la construcción y operación comercial de la Planta; y, b) para las obras de expansión del Sistema Interconectado Nacional y el contrato de mitigación que establece como resultado de cada evaluación de impacto ambiental, las responsabilidades y obligaciones que el VENDEDOR o el COMPRADOR debe cumplir. 53. Límites Técnicos- Los límites y restricciones definidas en el Anexo III, numeral 2 de este Contrato, así como las recomendaciones técnicas del fabricante de los equipos que son parte de la Planta.
+
+54. Mes- Significa un mes calendario, comenzando a la hora 00:00 (hora oficial de la República de Honduras) del Día 1º de cada mes y terminando a las 23:59:59 horas (hora oficial de la República de Honduras) del último Día del mismo mes. 55.
+
+Operación Comercial- Es el período que inicia en la Fecha de Inicio de Operación Comercial y transcurre durante todo el período de duración del Contrato, como se establece el literal B TÉRMINO DEL CONTRATO del Acuerdo Contractual. 56.
+
+Paro Forzado- Significa la interrupción de la capacidad de generación de la totalidad de la Planta que no se deba a un Paro Programado ni a un evento de Fuerza Mayor o Caso Fortuito.
+
+57. Paro Programado- Significa una interrupción programada de la producción de energía eléctrica de parte o la totalidad de la Planta, que es necesaria a los efectos de realizar una inspección u operaciones de mantenimiento. 58. Parte(s)- Significa el COMPRADOR o el VENDEDOR o ambos. 59. Perito Técnico- Significa la persona o personas calificadas nombradas por las Partes o por un tercero a petición de las mismas, para resolver una discrepancia de carácter técnico surgida entre ellas.
+
+60. Planta- Es el conjunto de maquinaria, obras civiles, equipos eléctricos, mecánicos, subestaciones de transformación, líneas de transmisión y sus componentes y los elementos necesarios para su operación confiable y continua, instalados hasta el Punto de Entrega, que serán operados y mantenidos por el VENDEDOR y que serán de su propiedad, los cuales son requeridos para producir y suministrar energía y potencia al COMPRADOR en el Punto de Entrega cuya descripción se detalla en el Anexo II. 61.
+
+Prácticas Prudentes de la Industria Eléctrica- Son los métodos que se utilizan o cuya utilización es razonable esperar con relación a la operación y mantenimiento óptimo de plantas generadoras de energía eléctrica de similar tamaño y características y que están de acuerdo con las recomendaciones y requisitos de los fabricantes de equipos, con las normas de la industria eléctrica, con consideraciones de confiabilidad, seguridad, eficiencia y ambiente, así como con cualquier regulación gubernamental vigente durante el Término del Contrato. 62. Programa Anual de Generación- Es el documento elaborado por el VENDEDOR, de acuerdo al formato establecido por el CND, que contiene para cada Mes del Año Calendario que abarca tal programa, la cantidad total de Potencia y Energía Eléctrica asociada que el VENDEDOR propone entregar en el Punto de Entrega, sean estas cantidades destinadas al COMPRADOR y/o a terceros que sean autorizados por el COMPRADOR. 63. Programa Anual de Mantenimiento- Es el programa que el VENDEDOR somete a la consideración del COMPRADOR en el que describe para cada Mes del Año Calendario para el cual se elabora, el total de Unidades que se encuentra indisponible, así como la Capacidad disponible resultante. Tal programa debe indicar las fechas preferidas del VENDEDOR y la duración estimada de cada mantenimiento programado. 64. Prueba de Capacidad- Significa la prueba realizada a la Planta y sus equipos auxiliares para determinar la Capacidad de la Planta, de acuerdo a la
+
+CLÁUSULA 10 PRUEBAS. 65. Punto de Entrega- Es el punto en el cual el VENDEDOR entrega al COMPRADOR la Energía Eléctrica destinada a éste y a terceros, si los hubiera. Este punto definirá el límite de responsabilidad de ambas Partes para el mantenimiento y operación de las instalaciones. El Punto de Entrega es el indicado en el diagrama unifilar de la Planta que se muestra en el Anexo II, que Forma parte integral de este Contrato.
+
+66. Punto de Interconexión- Significa la ubicación física donde se conectan las Instalaciones de Interconexión con el SIN, el cual se muestra en el Anexo II. 67. Punto de Medición- Es el punto donde se instalan los transformadores de corriente y tensión que generan las señales para los equipos de medición de Energía Eléctrica objeto de este Contrato, definido de conformidad al Anexo II. 68. Servicios Auxiliares- Se entenderá por servicios auxiliares los siguientes: a) la generación o absorción de potencia reactiva hasta el límite de la capacidad del equipo de generación, considerando la potencia activa que tal equipo de generación genere simultáneamente con la producción o absorción de potencia reactiva; b) la participación en la tarea de regulación de la frecuencia tanto en su modalidad primaria como secundaria; c) el suministro de capacidad de reserva rodante; d) la colaboración para mantener el servicio en situaciones de emergencia; e) la colaboración en las tareas de restablecimiento del servicio; en su caso, incluyendo los arranques en condiciones de apagón (Black Start) y la alimentación autónoma de islas de carga como lo requiera el CND. 69. Sistema Interconectado Nacional (SIN)- Es el integrado por las centrales generadoras, sistemas de distribución y el subconjunto de elementos del sistema de transmisión y de su transmisión que los unen físicamente sin interrupción y que se encuentran localizados dentro del territorio de la República de Honduras. 70. Tasa de Cambio– Significa el precio promedio de venta de Dólares de los Estados Unidos de América a los particulares en las subastas públicas de divisas que lleva a cabo el Banco Central de Honduras y en caso que se dejara de utilizar tal sistema, será la Tasa de Cambio determinada de acuerdo con las normas cambiarias en vigor. 71. Tasa Promedio- Significa la tasa promedio ponderado para operaciones activas en moneda nacional del sistema bancario nacional y se tomará de la publicación “Resumen de Tasas de Interés Sobre Operaciones Nuevas del Sistema Bancario” del Banco Central de Honduras, o la publicación análoga que publique dicha institución, correspondiente al promedio ponderado del Mes inmediatamente anterior a la fecha en que se necesite aplicar. 72. Unidades de la Planta o Unidades- Cada uno de los módulos que componen la Planta.
+
+CLÁUSULA 2. OBJETO DEL CONTRATO. 2.1
+
+Descripción General del Objeto del Contrato. El presente Contrato tiene por objeto el suministro de energía y potencia por el VENDEDOR al COMPRADOR durante el Término del Contrato. Según se estipula en este Contrato, el COMPRADOR comprará toda la energía y potencia eléctrica generada por la Planta que sea entregada, medida y facturada por el VENDEDOR.
+
+El cumplimiento, entre otros, respecto a la Fecha de Inicio de Operación Comercial, el precio, la Capacidad de Potencia y el Punto de Entrega, estarán regulados por las disposiciones establecidas en este Contrato. 2.2 Obligación de Construir, Operar y Mantener. Para efecto de cumplir con el objeto del Contrato, el VENDEDOR se obliga, a su propio riesgo y costo, a construir, operar y mantener una Planta generadora de su propiedad. La Planta cumplirá las especificaciones técnicas de desempeño detalladas en los Anexos III y IV de este Contrato.
+
+La Operación Comercial dará inicio en la fecha que se cumplan las condiciones previstas en este Contrato para tal fin. El VENDEDOR se obliga además, a realizar la conexión de la Planta al Punto de Interconexión, tal como se detalla en este Contrato y suministrar energía y potencia eléctrica en el Punto de Entrega al COMPRADOR, quien deberá pagar conforme a las estipulaciones establecidas en este Contrato. El VENDEDOR tendrá pleno control y responsabilidad por la operación y el mantenimiento de la Planta de acuerdo a los estándares de funcionamiento, conforme a las Prácticas Prudentes de la Industria Eléctrica y los términos y condiciones de este Contrato, utilizando un Programa de Mantenimiento de acuerdo a las recomendaciones del fabricante.
+
+En lo que no esté regulado por este Contrato se aplicarán las prácticas del VENDEDOR. Asimismo, el VENDEDOR se obliga a su propio riesgo y costo, a diseñar, suministrar, construir y conectar las obras necesarias para hacer disponible y/o entregar la energía y potencia a suministrar en el Punto de Entrega. 2.3 Obligación de Compra y Venta. La producción de la Planta debe ser utilizada de manera prioritaria para satisfacer, en el Punto de Entrega, la Capacidad Comprometida, la cual se especifica en el literal I Compromiso de Venta al COMPRADOR del Acuerdo Contractual. El COMPRADOR se obliga a comprar y pagar al VENDEDOR toda la energía y potencia facturada de acuerdo con los precios, términos y condiciones establecidos en este Contrato. Las Partes reconocen que la obligación del VENDEDOR bajo este Contrato será entregar energía y potencia al SIN en el Punto de Entrega. 2.4 Compromiso de Despacho de Energía. El COMPRADOR por medio del CND, obligatoriamente despachará toda la energía que el VENDEDOR produzca y entregue en el Punto de Entrega, durante toda la vigencia de este Contrato. El Despacho obligatorio tendrá las excepciones siguientes: a) Cuando los embalses de las centrales hidroeléctricas de propiedad estatal estén derramando y la toma de la producción del VENDEDOR necesite una reducción de la producción de esas centrales con un consecuente aumento de los volúmenes derramados; b) Cuando las fallas en la Planta del VENDEDOR estén causando perturbaciones en el SIN; y, c) Cuando la Planta esté desconectada del SIN en situaciones de Emergencia o durante el restablecimiento del servicio después de una falla, mientras el CND no le haya dado instrucciones de conectarse nuevamente a la red y esta condición sea técnicamente justificada. 2.5 Venta de Energía a Terceros. En caso que durante cuatro (4) meses seguidos el COMPRADOR no cancele totalmente los cargos facturados por el VENDEDOR, el COMPRADOR le otorga la autorización para que el VENDEDOR tenga desde ese momento en adelante el derecho de comprometer o suministrar a terceros cualquier cantidad de energía producida por la Planta. Tal derecho lo ejercerá el VENDEDOR con sólo notificar por escrito al COMPRADOR su intención de hacer uso del mismo. El ejercicio de este derecho no eximirá al COMPRADOR de su obligación de compra de la energía y potencia que el VENDEDOR le facture. Al hacer uso de su derecho de venta a terceros según esta cláusula, el VENDEDOR pagará por peaje USD 0.01/kWh que venda a terceros y suministrará al COMPRADOR el uno por ciento (1%) de energía por pérdidas correspondiente a la energía transferida a terceros de conformidad con lo establecido en el Decreto 70-2007. El procedimiento para facturar a terceros será establecido por el Comité Operativo previo al Inicio de la Operación Comercial de la Planta, considerando las disposiciones legales, regulatorias y de procedimientos de facturación, de tal forma que se alcance la agilización en la emisión de las facturas que emita el COMPRADOR y el VENDEDOR para sus respectivos clientes, y que se reduzcan los plazos para que cada Parte reciba sus respectivos pagos por el suministro de potencia y energía eléctrica que haya efectuado en cada período de facturación. Los clientes del VENDEDOR deberán cumplir con las regulaciones que la Comisión Nacional de Energía haya emitido en cumplimiento de las leyes y reglamentos aplicables. La autorización de venta a terceros establecerá las condiciones bajo las cuales ésta se otorga.
+
+El Comité Operativo velará porque una vez se cancelen las deudas que llevaron a la suspensión o limitación del suministro al COMPRADOR, éste sea restituido de la forma más expedita sin perjuicio de los acuerdos que el VENDEDOR haya suscrito con terceros. 2.6 Compromiso de Energía. Con sujeción al Despacho del CND, pero en todo caso observando los requisitos de nivel de tensión y frecuencia y los otros requisitos y Límites Técnicos detallados en el Anexo III, numeral 2, el VENDEDOR deberá suministrar al COMPRADOR la energía activa y reactiva asociada a la Capacidad Comprometida de conformidad con los términos y condiciones establecidos en este Contrato. 2.7 Compromiso de Transmisión. El COMPRADOR deberá recibir la Potencia y Energía Eléctrica en el Punto de Entrega, asimismo, dar el mantenimiento necesario a sus líneas de transmisión, en particular, a las líneas y subestaciones asociadas al Punto de Entrega. 2.8 Obras de Ampliación del Sistema Interconectado Nacional. Si a lo largo de la vigencia del Contrato las Partes acuerdan que se requieren de nuevas instalaciones o mejoras en el SIN para recibir la energía entregada por la Plantas a partir del Punto de Entrega y/o las mejoras en el SIN que generen beneficio técnico y económico al COMPRADOR, éstas serán construidas de conformidad con las Leyes Aplicables. CLÁUSULA 3. PERÍODO ANTERIOR A LA OPERACIÓN COMERCIAL. 3.1 Programa de Construcción. A más tardar ciento sesenta y ocho Días Calendario (168) contados a partir de la fecha de entrada en Vigencia de este Contrato, el VENDEDOR deberá entregar al COMPRADOR un programa de construcción de las instalaciones con un cronograma de ejecución de las obras, elaborado con un paquete de software de control de proyectos, que incluya las actividades e hitos con sus tiempos, fechas, correlaciones entre sí y que permita establecer la ruta crítica para alcanzar la Fecha de Inicio de Operación Comercial de la Planta, en tal cronograma se deben incluir todas las actividades previas requeridas para llevar a cabo construcción, incluyendo la obtención de permisos, autorizaciones, socializaciones, adquisición de terrenos, imposición de servidumbres, negociaciones con contratistas, financistas, entre otras. El plazo de construcción e instalación de la Planta, líneas de transmisión, subestación y demás facilidades no podrá exceder del plazo establecido en el literal D FECHA RROGRAMADA DE INICIO DE OPERACIÓN COMERCIAL. Sin perjuicio de lo establecido en la Cláusula 4.2 Puesta en Operación Comercial, los plazos del programa de construcción quedarán automáticamente prorrogados sí durante el período de construcción se produce uno o más eventos de Fuerza Mayor o Caso Fortuito. La prórroga será por la sumatoria de la duración de cada período que el evento de Fuerza Mayor o Caso Fortuito afecte la construcción de la Planta. 3.2 Comité Operativo y sus Facultades. Las Partes acuerdan la constitución de un Comité Operativo dentro de los siguientes veintiocho (28) días contados a partir de la suscripción de este Contrato, tal comité estará integrado por cuatro (4) miembros, de los cuales cada Parte nombrará y acreditará dos
+
+(2) miembros (“Representantes del Comité Operativo”). El Comité Operativo será responsable, entre otros aspectos, de administrar el presente Contrato, el seguimiento al proceso que permita la construcción de las Obras de Interconexión y del proceso que permita la puesta en operación de la Planta, así como de asegurar una operación de la Planta adecuada, confiable y segura durante toda la vigencia de este Contrato. La composición, facultades y normas de funcionamiento del Comité Operativo se establecen en el Anexo VI de este Contrato y podrán ser actualizadas por acuerdo entre las Partes, en el marco de las Leyes Aplicables. El Comité Operativo deberá establecer dentro de los veintiocho (28) Días siguientes a su conformación, los procedimientos relacionados con la convocatoria y la celebración de reuniones, la elaboración de actas de las reuniones y el establecimiento de subcomisiones; sujeto a que el quórum para cualquier reunión del Comité Operativo deberá ser alcanzado con por lo menos un (1) representante designado por cada Parte. Asimismo, el Comité Operativo se reunirá cuando sea convocado por alguna de las Partes con al menos tres (3) Días Hábiles Administrativos de antelación. Cada Parte tendrá un solo voto en el Comité Operativo y cualquier miembro designado por cada una de las Partes podrá usar el voto de dicha Parte. Las decisiones del Comité Operativo requerirán la votación unánime de las Partes. 3.3 Permisos. El VENDEDOR deberá obtener todos los permisos provisionales y definitivos que le exijan las Leyes Aplicables, pagar todos los derechos inherentes y hacer que sus representantes, compañías asociadas, subcontratistas y empleados cumplan con todas las leyes, ordenanzas, reglamentos y disposiciones relativas a la conducción de las actividades aquí especificadas. El COMPRADOR colaborará en la gestión de estos permisos ante las autoridades competentes, sin que tal colaboración conlleve responsabilidad del COMPRADOR en la obtención de tales permisos. En caso de que tales permisos tengan un atraso mayor a los sesenta (60) Días en ser expedidos, a pesar de que el VENDEDOR haya realizado las gestiones y estudios correspondientes para su obtención con suficiente antelación y diligencia ante el organismo competente para su obtención, el COMPRADOR, previa solicitud de ampliación del VENDEDOR, pero sin perjuicio de lo establecido en la Cláusula 4.2 Plazo para Puesta en Operación Comercial, podrá prorrogar la Fecha Programada de Inicio de la Operación Comercial por los Días de atraso que sobrepasen los sesenta (60) Días. El VENDEDOR deberá presentar como parte del Programa de Construcción las actividades que necesiten permiso de cualquier ente gubernamental e informará al COMPRADOR mensualmente y por escrito, del avance o retraso de las gestiones para la obtención de los permisos u autorizaciones requeridos. 3.4 Errores y Discrepancias. Si en el curso de los trabajos de construcción e instalación de la Planta, el VENDEDOR, sus compañías asociadas o sus subcontratistas encontrasen errores u omisiones en especificaciones o en datos suministrados por el COMPRADOR o discrepancias entre ellos, el VENDEDOR estará en la obligación de informarlo por escrito al COMPRADOR, tan pronto como hubiese tenido conocimiento. En tal caso el COMPRADOR hará las verificaciones o comprobaciones necesarias y, a la brevedad, procederá en su caso, a la notificación por escrito de las rectificaciones o aclaraciones que las circunstancias determinen, tomando en cuenta los efectos de estas circunstancias en la Fecha Programada de Inicio de la Operación Comercial. Cualquier decisión tomada o trabajo hecho después de aclarada alguna discrepancia u omisión o algún error en las especificaciones, en los datos o en las instrucciones del COMPRADOR, será por cuenta y riesgo del VENDEDOR. CLÁUSULA 4. VIGENCIA, PLAZO Y TERMINACIÓN DEL CONTRATO. 4.1 Entrada en Vigencia. Este Contrato entrará en vigencia en la fecha en que se publique en el Diario Oficial La Gaceta el Decreto Legislativo de su aprobación por el Congreso Nacional. 4.2 Puesta en Operación Comercial. Una vez finalizada la Prueba de Capacidad Inicial establecida en la Cláusula 10.1 y que por lo tanto el Comité Operativo ha certificado que: i) se ha emitido la Licencia Ambiental y el Contrato de Operación; (ii) se han concluido las pruebas que garantizan que los equipos de la Planta pueden proveer al SIN en forma segura la Potencia y la Energía Eléctrica; y, (iii) que el COMPRADOR ha emitido la Certificación del Sistema de Medición Comercial indicando que se ha dado cumplimiento a lo establecido en el Anexo VII, Requerimientos del Sistema de Medición Comercial, el CND dentro de los siguientes siete (7) días contados desde la fecha en la cual se finalizó la Prueba de Capacidad Inicial, debe emitir el Certificado de Inicio de Operación Comercial, de acuerdo al Anexo IX y notificarlo a las Partes. No serán obstáculos para declarar que la Planta se encuentra en Operación Comercial aquellos detalles que no han podido ser terminados y que puedan ser completados, a criterio del Comité Operativo, sin afectar de manera sustancial la operación de la Planta y/o del SIN; esto no exime al VENDEDOR de la instalación del Equipo de Medición, el correcto funcionamiento de los sistemas de control, supervisión, medición, procesador de comunicaciones para transmisión de datos al CND y sistemas de protección. 4.3 Duración del Contrato. La duración del presente Contrato está establecida en el literal B TÉRMINO DEL CONTRATO del Acuerdo del Contrato y será contada a partir de la Fecha de Inicio de la Operación Comercial de la Planta. Esta duración quedará automáticamente prorrogada sí durante el período de vigencia se produce un evento de Fuerza Mayor o Caso Fortuito que provoque una reducción del cincuenta por ciento (50%) o más, de la facturación con respecto al Mes correspondiente al Año de Operación Comercial anterior y que afecte adversamente el suministro. La prórroga tendrá la misma duración que el evento de Fuerza Mayor o Caso Fortuito que haya afectado la operación de la Planta o las obligaciones de las Partes bajo el presente Contrato. Además, se prorrogará este plazo cuando se requiera reponer la energía sujeta a indemnización según la Cláusula 9.5.1 Indisponibilidad del SIN de Recibir Energía de la Planta. 4.4 Prórroga. En el marco de las Leyes Aplicables este Contrato podrá ser prorrogado por mutuo acuerdo entre las Partes. Sí cualquiera de las Partes desea prorrogar el Contrato, deberá comunicar dicha intención a la otra Parte con por lo menos un (1) año de anticipación a la fecha del vencimiento del plazo original, indicando las condiciones bajo las cuales será aceptada dicha prórroga, para que la otra Parte analice y comunique sus condiciones. Una vez que ambas Partes han comunicado sus decisiones, entrarán en un proceso de negociación tendiente a convenir la prórroga, la cual una vez acordada deberá seguir todos los trámites establecidos en las Leyes Aplicables para su efectiva vigencia. 4.5 Terminación Anticipada del Contrato por Parte del COMPRADOR. El COMPRADOR, sin perjuicio de todos los derechos y obligaciones contraídas por las Partes bajo las disposiciones de este Contrato y sin perjuicio de su derecho de proceder a proteger y a hacer valer sus derechos conforme las Leyes Aplicables para cobrar cualquier indemnización a la que pueda tener derecho y para hacer cumplir sus obligaciones a la Parte que incurra en incumplimiento, puede terminar anticipadamente este Contrato, siguiendo el procedimiento establecido en la Cláusula 4.5.1 Procedimiento de Terminación Anticipada del Contrato por Parte del COMPRADOR, en caso de que el VENDEDOR incumpliere materialmente las obligaciones y plazos siguientes. a) En cualquier caso: i. La entrega de la Garantía de Cumplimiento de Contrato en el término de quince (15) Días Hábiles Administrativos contados a partir de la fecha de entrada en vigencia del Contrato. La no rendición de la Garantía de Cumplimiento de Contrato dentro del término antes establecido conlleva a la terminación automática del Contrato, debiendo únicamente el COMPRADOR notificar al VENDEDOR de dicha terminación. Ningún otro requisito o procedimiento contemplado en este Contrato servirá para subsanar la falta de rendir la Garantía de Cumplimiento en el término establecido. ii. La falla en la entrega o el incumplimiento sustancial e injustificado del programa establecido en la Cláusula 3.1 Programa de Construcción. Para los fines de esta cláusula se considerará que existe un incumplimiento sustancial, si el incumplimiento en las fechas establecidas en tal cronograma retrasa la Fecha Programada de Inicio de Construcción en un (1) año. iii. Si cincuenta y ocho (58) días antes de la Fecha Programada de Inicio de Operación Comercial el VENDEDOR no ha iniciado la instalación del equipo de generación que conforma parte de la Planta. iv. Si luego del inicio de los trabajos de construcción e instalación de la Planta, se produce sin justificación y sin el consentimiento escrito del COMPRADOR una interrupción no programada o abandono de los trabajos por parte del VENDEDOR o de sus subcontratistas, por un término mayor de veintiún (21) Días Hábiles Administrativos. No se aplicará esta causal cuando la interrupción o abandono sea ocasionado por causa de Fuerza Mayor o Caso Fortuito, acreditado por el VENDEDOR de conformidad con las cláusulas de este Contrato. v. La quiebra declarada del VENDEDOR o su petición de quiebra, siempre y cuando dicha petición o declaración de quiebra no sea levantada por el tribunal competente en un período no mayor de cuarenta y cinco (45) Días Hábiles Administrativos. vi. La Cesión de Bienes del VENDEDOR que formen parte de la Planta, cuando esta cesión afecte sustancialmente su operación, en favor de sus acreedores o la presentación por éste de una petición ante el tribunal competente de suspensión de pago o concurso de sus acreedores. vii. La liquidación o disolución anticipada, a no ser que ésta fuera voluntaria con el propósito de fusión, modificación o transformación del VENDEDOR y hubiera sido previamente aceptada por el COMPRADOR; viii. Sí los bienes del VENDEDOR resultaran embargados por un período mayor de cuarenta y cinco (45) Días Hábiles Administrativos y afectare la operación de la Planta; ix. Sí el VENDEDOR vende, transfiere, hipoteca o prenda la Planta o cede total o parcialmente el Contrato sin la autorización expresa y escrita del COMPRADOR siguiendo el procedimiento establecido en la CLÁUSULA 20 CESIÓN Y DERECHO A GRAVAR, a otro que no fuera un Financista al que el VENDEDOR le cede este Contrato de acuerdo con la
+
+CLÁUSULA 20; b) La no operación o mantenimiento de la Planta por parte del VENDEDOR, de sus sucesores o Cesionarios, de acuerdo con Prácticas Prudentes de la Industria Eléctrica, de tal forma que la seguridad de las personas, de la propiedad, de la Planta o el servicio del COMPRADOR a sus clientes se vea afectado en forma adversa de manera sustancial. c) No sujetarse reiteradamente a las instrucciones del CND, siempre y cuando estas se encuentren enmarcadas dentro de las Prácticas Prudentes de la Industria Eléctrica. d) El cambio de operador de la Planta sin el consentimiento expreso y por escrito del COMPRADOR.
+
+e) Cualquier modificación fraudulenta en el sistema de medición por parte del VENDEDOR. f) Que no haya reiniciado la construcción y montaje de la Planta, concluido el plazo fijado según CLÁUSULA 13 FUERZA MAYOR O CASO FORTUITO, numeral 13.5, después de ocurrido un evento o eventos de Fuerza Mayor o Caso Fortuito. g) La falta de capacidad técnica y/o financiera sobreviniente de parte del VENDEDOR o de sus sucesores o cesionarios. h) La terminación por cualquier causa del Contrato de Operación, concesión o licencia del VENDEDOR, que resulte y se materialice en la privación del derecho del VENDEDOR de llevar a cabo actividades de generación y entrega de energía, requeridas para dar cumplimiento a las obligaciones estipuladas a su cargo en el presente Contrato. i) Si se comprueba que el VENDEDOR mintió en relación con la declaración jurada, de no estar comprendido en ninguno de los casos a que se refieren los artículos 15 y 16 de la Ley de Contratación del Estado contenida en el Decreto Legislativo No. 74-2001. j) Si en cualquier momento la energía producida por el VENDEDOR para la venta al COMPRADOR no proviene de la fuente renovable establecida en el Acuerdo Contractual. k) Cualquier otro incumplimiento de este Contrato por parte del VENDEDOR para el cual no se hubiera establecido expresamente otro recurso (tal como la entrega de información precisa sobre las reducciones de capacidad o falta de entrega de la Capacidad Comprometida o la Energía Asociada que no sea remediado dentro de los veintiún (21) Días Hábiles Administrativos siguientes a la fecha en que el VENDEDOR haya recibido un Aviso de Incumplimiento por parte del COMPRADOR, salvo que se acredite que resulta razonablemente imposible remediar el referido incumplimiento en ese término de veintiún (21) Días Hábiles Administrativos, en cuyo caso se concederá automáticamente al VENDEDOR veintiún (21) Días Hábiles Administrativos adicionales para remediar su incumplimiento o más, de acordarlo el COMPRADOR. 4.5.1 Procedimiento de Terminación Anticipada del Contrato por Parte del COMPRADOR. Con la excepción para el incumplimiento establecido en la 4.5 Terminación Anticipada del Contrato por Parte del COMPRADOR, literal a) inciso i, el COMPRADOR deberá seguir el siguiente procedimiento para dar por terminado el presente Contrato antes de su vencimiento: 1. El COMPRADOR deberá enviar un aviso de incumplimiento al VENDEDOR y si procede, con copia al Financista y en el cual se especifica el caso de incumplimiento del VENDEDOR que lo motivó (el “Aviso de Incumplimiento”). 2. Después de veintiún (21) Días Calendario de que el Aviso de Incumplimiento ha sido recibido por el VENDEDOR y si procede, la copia ha sido recibida por el Financista, si el incumplimiento no ha sido subsanado, el COMPRADOR podrá enviar un aviso de terminación escrito dirigido al VENDEDOR (el “Aviso de Terminación”) y si procede, con copia al Financista. El Aviso de Terminación también deberá notificar el caso de incumplimiento del VENDEDOR que lo motiva y que aún no ha sido remediado o subsanado. Si la causa que motiva el envío de un Aviso de Terminación anticipada ha sido subsanada o remediada previo al recibo de dicho aviso, la subsanación elimina la causa de la terminación del Contrato. 3.
+
+Una vez enviado el Aviso de Terminación del Contrato al VENDEDOR y en caso de que el VENDEDOR haya notificado la Cesión a la que tiene derecho con el Financista del proyecto, el Financista tendrá el derecho (pero no la obligación) de remediar el hecho en nombre del VENDEDOR dentro de los veintiún (21) Días Calendario de recibido dicho aviso. Si el Financista remedia la causa que motiva el envío del Aviso de Terminación en el plazo señalado, la subsanación eliminará la causa de la terminación del Contrato, en caso contrario, transcurridos los veintiún (21) Días Calendario de recibido el Aviso de Terminación, el Contrato se dará por terminado. 4.6 Terminación Anticipada del Contrato por Parte del VENDEDOR. El VENDEDOR, sin perjuicio de todos los derechos y obligaciones contraídos por las Partes bajo las disposiciones de este Contrato y sin perjuicio de su derecho de proceder a proteger y a hacer valer sus derechos conforme las Leyes Aplicables para cobrar cualquier indemnización a la que pueda tener derecho y para hacer cumplir sus obligaciones a la Parte que incurra en incumplimiento, puede terminar anticipadamente este Contrato, antes de su vencimiento, siguiendo el procedimiento establecido en la Cláusula 4.6.1, en los siguientes casos: a) En el caso de la disolución del COMPRADOR de acuerdo con la ley, excepto si el propósito es de fusión, reorganización, privatización de sus actividades y restructuración que no afecte la capacidad del Cesionario de cumplir con sus obligaciones de acuerdo con este Contrato; b) En el caso de que el COMPRADOR ceda este Contrato sin cumplir con las disposiciones establecidas en la CLÁUSULA 20 CESIÓN Y DERECHO A GRAVAR; c) En el caso que el COMPRADOR mantenga un saldo en mora de sus obligaciones de pago por más de cuatro (4) meses; d) En el caso que transcurridos doce (12) meses desde la Fecha de Vigencia del Contrato, al VENDEDOR no se le hubieran extendido cualquiera de las licencias y permisos, etc., que haya solicitado en debida forma y plazo a entes gubernamentales o municipales, incluyendo la Licencia Ambiental, el Contrato de Operación y el Permiso de Construcción o no se haya suscrito el Acuerdo de Apoyo por parte de la SEFIN y la Procuraduría General de la República; e) En el caso que eventos fuera del control del VENDEDOR que obstaculicen de cualquier manera la construcción de la Planta; f) Cualquier incumplimiento de este Contrato por parte del COMPRADOR que no sea remediada dentro de los veintiún (21) Días Hábiles Administrativos, siguientes a la fecha en que el COMPRADOR haya recibido un Aviso de Incumplimiento por parte del VENDEDOR, que declare que ha ocurrido una violación del Contrato que podría resultar en la terminación del mismo. Esta notificación deberá identificar la violación en cuestión en detalle razonable y exigir la subsanación de ello. Mientras el COMPRADOR o un ente descentralizado, desconcentrado o no desconcentrado de la administración pública del Estado de Honduras sea la Parte compradora de este Contrato, el VENDEDOR deberá seguir el procedimiento de resolución y terminación anticipada del Contrato establecido en el Artículo 129 de la Ley de Contratación del Estado, siendo de plena aplicación la Sección Quinta (Terminación y Liquidación) de dicha ley a todos sus efectos. 4.6.1 Procedimiento de Terminación Anticipada del Contrato por Parte del VENDEDOR. El VENDEDOR, para dar por terminado el presente Contrato antes de su vencimiento deberá seguir el proceso descrito a continuación: 1.
+
+El VENDEDOR deberá enviar un aviso de incumplimiento al COMPRADOR en el cual se especifica el caso de incumplimiento del COMPRADOR que lo motivó (el “Aviso de Incumplimiento”).
+
+2. Después de veintiún (21) Días Hábiles Administrativos de que el Aviso de Incumplimiento ha sido recibido por el COMPRADOR, si el incumplimiento no ha sido subsanado, el VENDEDOR podrá enviar un aviso de terminación escrito dirigido al COMPRADOR (el “Aviso de Terminación”). El Aviso de Terminación también deberá notificar el caso de incumplimiento del COMPRADOR qué lo motiva y qué aún no ha sido remediado o subsanado. Si la causa que motiva el envío de un Aviso de Terminación anticipada ha sido subsanada o remediada previo al recibo de dicho aviso, la subsanación elimina la causa de la terminación del Contrato.
+
+CLÁUSULA
+
+5. DECLARACIONES, GARANTÍAS Y ACUERDOS. 5.1
+
+Leyes Aplicables. Las Partes en todo momento deberán cumplir con todas las Leyes Aplicables. Este Contrato y los derechos y obligaciones que aquí se establecen o que de él se derivan, se interpretarán, entenderán, aplicarán y regirán bajo las leyes de la República de Honduras. 5.2 Propiedad Intelectual e Industrial.
+
+El VENDEDOR será responsable de obtener todos los derechos por uso de patentes, derechos, licencias y cualquier bien protegido por la propiedad intelectual o industrial y eximirá al COMPRADOR de toda responsabilidad de cualquier clase o naturaleza o por cualquier concepto derivado de su uso o aprovechamiento, incluyendo costos o gastos debidos al uso por parte del VENDEDOR, sus compañías asociadas y sus subcontratistas de cualesquiera obras literarias, patentes cuya propiedad esté o no registrada, procesos secretos de invenciones, tecnología patentada o no, artículos, métodos y artefactos que se usen o fabriquen en la ejecución del presente Contrato. 5.3 Nacionalidad de Empleados. De acuerdo con las leyes hondureñas, en condiciones similares de aptitud y capacidad profesional, el VENDEDOR, sus compañías asociadas y sus subcontratistas deberán emplear ciudadanos hondureños, contratar empresas hondureñas y ejecutar los trabajos preferentemente con bienes fabricados en el país, para las diferentes especialidades en los trabajos que se hubiesen de realizar en la República de Honduras y en cargos administrativos relacionados con los mismos. Si se viese en la necesidad de obtener los servicios de personal extranjero especializado, el VENDEDOR, sus compañías asociadas y sus subcontratistas deberán solicitar de las autoridades hondureñas, los permisos necesarios para su ingreso y permanencia en el país, y para que puedan prestar servicios en los trabajos de que se trate, quedando a cargo exclusivo del VENDEDOR, sus compañías asociadas y sus subcontratistas todos los gastos, que ocasionen tales autorizaciones. 5.4 Declaraciones y Garantías.
+
+Cada parte declara y garantiza: 5.4.1 Declaraciones y garantías del VENDEDOR. El VENDEDOR por este medio declara y garantiza al COMPRADOR que: a) El VENDEDOR es una sociedad constituida conforme a las Leyes de la República de Honduras que puede ejercer actos de comercio en Honduras y confirma y ratifica cada una y todas las declaraciones hechas en este Contrato; b) La suscripción y el cumplimiento de este Contrato por parte del VENDEDOR han sido autorizados por todas las autoridades corporativas necesarias, no requieren ni requerirán ningún consentimiento o aprobación adicional que no sean aquéllas que ya se han obtenido y no violan ni violarán ninguna disposición de su pacto social ni sus estatutos, así como otros instrumentos legales, contratos o acuerdos de los que forme parte o mediante los cuales sus activos puedan verse afectados y no viola ni violará ninguna de las Leyes Aplicables al VENDEDOR;
+
+c) No es necesaria autorización gubernamental para la debida suscripción y cumplimiento de este Contrato por parte del VENDEDOR, distintas a las que hayan sido obtenidas y las que establecen las Leyes Aplicables y el presente Contrato; d) Este Contrato constituye una obligación válida y vinculante del VENDEDOR y es ejecutable de conformidad con sus términos;
+
+e) No existe demanda judicial pendiente contra el VENDEDOR que afecte materialmente la posibilidad de cumplir con este Contrato y el VENDEDOR no tiene conocimiento de ninguna amenaza de demanda judicial contra él que pudiera afectar la validez, legalidad o exigibilidad de sus obligaciones en virtud de este Contrato; f) Todas las declaraciones efectuadas y toda la información suministrada por el VENDEDOR, fueron y siguen siendo verdaderas y correctas y tal información no omite ni omitirá declarar, al momento de su entrega, cualquier hecho material necesario para impedir que tal información, en su totalidad, sea engañosa dadas las circunstancias en que tal información fue suministrada; g) El VENDEDOR no tiene inmunidad en la República de Honduras o en cualquier otro país, contra reclamos judiciales, embargos precautorios, embargos judiciales u otros actos procesales de derecho civil o mercantil, relacionados u originados con este Contrato; y, h) El VENDEDOR no está comprendido en ninguna de las inhabilidades a las que se refieren los artículos 15 y 16 de la Ley de Contratación del Estado contenida en el Decreto Legislativo No. 74-2001 y en prueba de tal situación ha hecho entrega al COMPRADOR de la declaración jurada que acredita tal situación. 5.4.2 Declaraciones y Garantías del COMPRADOR. El COMPRADOR por este medio declara y garantiza al VENDEDOR que: a) El COMPRADOR es una institución autónoma descentralizada del Estado de Honduras, creada mediante Decreto Ley Número 48 del 20 de Febrero de 1957, al tenor de las leyes de la República de Honduras y confirma cada una de las declaraciones hechas en este Contrato; b) La suscripción y el cumplimiento de este Contrato por parte del COMPRADOR han sido aprobados por la Junta Directiva del COMPRADOR; y se someterá a la aprobación del Congreso Nacional de la República para que posteriormente sea publicado en el Diario Oficial La Gaceta para su validez, vigencia y exigibilidad; c) La suscripción y el cumplimiento de este Contrato por parte del COMPRADOR no viola ni violará ninguna disposición contenida en la Ley Marco del Subsector Eléctrico, sus reglamentos o cualesquiera instrumentos legales, contratos o acuerdos de los que forma parte o mediante los cuales sus activos puedan verse afectados y no viola ni violará ninguna Ley Aplicable al COMPRADOR; d) Este Contrato constituye una obligación válida y vinculante del COMPRADOR y es ejecutable de conformidad con sus términos, una vez prestados los consentimientos y cumplidas las aprobaciones consignadas en el literal b) anterior; e) No existe proceso o demanda judicial pendiente y el COMPRADOR no tiene conocimiento de ninguna amenaza de proceso o demanda judicial que pudiera afectar de manera adversa la validez, legalidad o exigibilidad de sus obligaciones en virtud de este Contrato; y, f) El COMPRADOR no tiene inmunidad soberana o cualquier otra clase de inmunidad en la República de Honduras o en cualquier otro país contra reclamaciones judiciales, embargos precautorios, embargos judiciales u otros actos procesales de derecho administrativo, civil o mercantil relacionados u originados de este Contrato. 5.4.3 Cambios de información. Cada Parte está obligada a notificar de inmediato a la otra Parte cualquier circunstancia que pueda afectar la veracidad de las declaraciones hechas en esta Cláusula
+
+5.4 Declaraciones y Garantías. CLÁUSULA 6. OPERACIÓN DE LAS INSTALACIONES. 6.1 Reglas de Operación y Mantenimiento de la Planta. El control y operación de la Planta, los Límites Técnicos que deberá satisfacer la misma, las características de los sistemas de comunicaciones y las características de los sistemas de regulación se ajustarán a lo establecido en los anexos III y IV de este Contrato. El VENDEDOR controlará y operará la Planta de conformidad con las instrucciones del CND, sujeto a que la Planta será despachada por el COMPRADOR, el CND u otro ente de acuerdo a la legislación vigente. El ente encargado de Despacho obligatoriamente despachará toda la Energía Asociada que el VENDEDOR produzca y entregue en el Punto de Entrega como se indica en la Cláusula 2.4 Compromiso de Despacho de Energía.
+
+Para los fines de la operación de la Planta, las Partes acuerdan que: a) El VENDEDOR deberá notificar al Centro Nacional de Despacho, la Capacidad Declarada de conformidad con lo establecido en el Anexo III. b) En los primeros diez (10) Días Hábiles Administrativos de cada mes de Noviembre de cada Año de Operación Comercial, el VENDEDOR deberá notificar al CND el Programa Anual de Generación. El COMPRADOR utilizará este programa para sus fines de proyección anual presupuestaria y sus programas operativos. El VENDEDOR podrá actualizar el Programa Anual de Generación trimestralmente a solicitud del CND o del COMPRADOR. c) Tanto el COMPRADOR como el CND, respetarán que las Unidades de la Planta no generen fuera de los Límites Técnicos operativos. El CND tendrá la potestad de desconectar la Planta en el caso de que ésta produzca disturbios que violenten los Límites Técnicos en el Sistema Interconectado Nacional, siguiendo el procedimiento descrito en el Anexo III. d) Cada Unidad de la Planta operará dentro de los Límites Técnicos operativos de los equipos del grupo generador. e) El VENDEDOR no energizará un circuito desenergizado del COMPRADOR sin la autorización de éste o del CND. La autorización no podrá denegarse o retrasarse sin causa justificada. Además, aplicará los procedimientos de operación establecidos para la Planta y sus instalaciones periféricas. El VENDEDOR acepta que el COMPRADOR no le proveerá servicios de reparación y/o mantenimiento al sistema de transformación, protección u otros equipos pertenecientes u operados por el VENDEDOR y que será responsabilidad absoluta del VENDEDOR que dichas reparaciones o mantenimientos se efectúen, a menos de que se llegue a un acuerdo de prestación de servicios remunerados. f) Cuando se produzca una Emergencia del SIN y previa solicitud del COMPRADOR, el VENDEDOR operará las Unidades de la Planta de conformidad con las indicaciones que el COMPRADOR le transmita, de manera que pueda ayudar a solucionar la Emergencia del SIN, siempre y cuando la operación que se le solicite se enmarque dentro de los Límites Técnicos operativos de los equipos e instalaciones de la Planta. En casos de Emergencia del SIN y cuando la Planta no se encuentre en un período de Paro Programado o Paro Forzado, el VENDEDOR deberá utilizar sus mejores esfuerzos para que la Planta se encuentre en disposición de entregar energía a la brevedad posible dentro de los Límites Técnicos operativos. g) El VENDEDOR deberá poner a disposición del COMPRADOR la Planta, para que en caso de Emergencia ésta pueda ser incluida en los esquemas de disparos trasferidos o control suplementario, sin ninguna responsabilidad del COMPRADOR por efectos de la desconexión de la Planta más allá de lo establecido en la Cláusula 9.5.1 Indisponibilidad del SIN de Recibir Energía de la Planta. h) La Planta podrá ser desconectada del SIN o disminuida en su capacidad, de acuerdo con el procedimiento establecido en los anexos III y IV, en caso que hayan variaciones de la potencia que comprometan la seguridad del SIN o que interfieran con la calidad del servicio brindado a los consumidores. Para este fin, el VENDEDOR deberá instalar los medios que permitan vigilar permanentemente dichas variaciones. i) El VENDEDOR regulará automáticamente el factor de potencia de la Planta en el rango entre 0.96 atrasado y 0.995 adelantado, con el propósito de mantener la tensión del Punto de Entrega en el valor solicitado por el CND dentro del rango entre ± 5% de la tensión nominal.
+
+Con este fin, correrá por cuenta del VENDEDOR la instalación de los medios necesarios para cumplir con el rango de factor de potencia. En caso que el VENDEDOR no tenga la capacidad de regular la tensión del Punto de Entrega al valor solicitado por el CND dentro de los Límites Técnicos, la Planta podrá ser desconectada del SIN o su capacidad podrá ser disminuida por el CND según los procedimientos establecido en anexos III y IV.
+
+j) Si por causas imputables al VENDEDOR, las ondas de voltaje o corriente medidas en el Punto de Entrega alcanzan un contenido de armónicos superior a los límites establecidos en la norma IEEE 519, la Planta será sacada de línea o disminuida su Capacidad por el CND. k) El VENDEDOR estará obligado a proporcionar al COMPRADOR, dentro de un plazo razonable, cualquier información técnica de la Planta, máquinas y sistemas de control, cuando sean requeridos por el COMPRADOR para el cumplimiento del Contrato. 6.2 Procedimientos de Operación.
+
+A más tardar treinta (30) Días Hábiles Administrativos antes de la Fecha de Inicio de Operación Comercial de la Planta, el VENDEDOR deberá desarrollar y someter a aprobación del CND, procedimientos de operación escritos para su Planta. Los procedimientos de operación se deberán basar en los diseños de la Planta del VENDEDOR, las mediciones y el SIN y deberán ser coherentes con las especificaciones y Límites Técnicos y los reglamentos de operación vigentes en el SIN. Los procedimientos de operación deberán abordar todas las interfaces operativas entre el CND y el VENDEDOR, incluyendo, sin limitaciones, los métodos de comunicación, la identificación y contactos del personal clave, las autorizaciones y procedimientos de conmutación, la programación de entradas y salidas, los informes de energía y los registros de operación y la obligación del VENDEDOR de suministrar a requerimiento del CND, los Servicios Auxiliares de apoyo de potencia reactiva para la regulación de la tensión, siempre dentro de los Límites Técnicos de la Planta. 6.3 Operador y Cambio de Operador. El VENDEDOR tendrá la responsabilidad de la operación de la Planta, sin embargo, podrá celebrar un acuerdo de operación y mantenimiento con un tercero, siempre que el VENDEDOR: a) Obtenga el consentimiento previo por escrito del COMPRADOR, sin que esto implique responsabilidad de parte del COMPRADOR. Dicho consentimiento no será demorado ni denegado por el COMPRADOR siempre y cuando el operador propuesto esté calificado técnicamente para la operación de proyectos similares a la Planta; b) Continúe siendo el único responsable ante el COMPRADOR por el cumplimiento de este ܥܲܫ1 Contrato; y, c) El Operador obtenga las autorizaciones requeridas para desempeñarse como tal en Honduras. 6.4 Pruebas de Funcionamiento. Antes de la Prueba de Capacidad inicial o después de la Fecha de Inicio de Operación Comercial de la Planta o de Paros Programados o Paros Forzados, cuando el VENDEDOR quiera llevar a cabo pruebas de funcionamiento, las cuales necesiten sincronización con el SIN o entrega de energía eléctrica al SIN; el VENDEDOR deberá avisar al COMPRADOR y al CND que se quieren realizar dichas pruebas y la naturaleza de dichas pruebas. El CND avisará al VENDEDOR y al COMPRADOR la fecha y hora a partir de la cual las pruebas puedan ser llevadas a cabo. No obstante, en ninguna circunstancia el VENDEDOR conectará la Planta al SIN salvo con autorización del CND. Durante cualquier prueba de cualquier Unidad de la Planta ésta deberá ser operada dentro de los Límites Técnicos.
+
+6.5 Otorgamiento de Permisos de Entrada. El VENDEDOR y el COMPRADOR se otorgarán los permisos para que su personal designado y capacitado entre a las instalaciones del Punto de Entrega, Punto de Interconexión o a la Planta del VENDEDOR sujeto solamente a que cualquier miembro del Comité Operativo de la Parte interesada le dé aviso previo a la otra Parte, excepto en casos de Emergencia. El personal de la Parte solicitante deberá cumplir con las indicaciones de seguridad de la Parte que otorga el permiso de entrada, incluyendo el uso del equipo de seguridad personal. 6.6 Dispositivos de Protección. Sujeto a darle aviso al VENDEDOR, el CND puede requerir que el VENDEDOR modifique los ajustes de los dispositivos de protección de los equipos del VENDEDOR conforme a las Prácticas Prudentes de la Industria Eléctrica, para que estos dispositivos de protección puedan ser coordinados con los dispositivos de protección del SIN, en el entendido que cualquier modificación se ajustará, adicionalmente, a los Límites Técnicos establecidos aquí. 6.7 Cambios que Afecten los Dispositivos de Protección. El VENDEDOR pedirá con antelación autorización al CND para cualquier cambio que quiera hacer en la Planta y que pueda afectar la coordinación apropiada de los dispositivos de protección en el SIN. Tales cambios deberán realizarse con la aprobación del CND. La ejecución de tales cambios en la Planta sin aprobación del CND y los efectos que estos causen en el SIN serán responsabilidad del VENDEDOR. Sin embargo, el CND responderá las solicitudes que el VENDEDOR le presente al tenor de esta cláusula en un plazo que no será mayor de quince (15) Días y será responsable, si así se demuestra, por las consecuencias que una negativa o que un atraso en conceder su autorización cause en la Planta. 6.8 Consumibles. El VENDEDOR tendrá la responsabilidad de adquirir y administrar todos los abastecimientos necesarios de agua y otros consumibles, así como de efectuar la disposición de los desechos para la operación de su Planta conforme a las Leyes Aplicables. CLÁUSULA 7 .
+
+INTERCONEXIÓN. 7.1 Instalaciones de Interconexión.
+
+La Planta se conectará por medio de las Instalaciones de Interconexión al Punto de Interconexión definido en el literal E INSTALACIONES DE INTERCONEXIONES, PUNTO DE ENTREGA Y MEDICIÓN del Acuerdo Contractual. El VENDEDOR será responsable, a su propio riesgo y costo, por la construcción de las Instalaciones de Interconexión de acuerdo con los términos de este Contrato. También es su responsabilidad el suministro y la conexión de las Instalaciones de Interconexión, todo de acuerdo con los requerimientos del COMPRADOR según se describen en el Anexo II. Las propuestas del VENDEDOR para los sistemas de protección, control, medición y comunicaciones deberán ser aprobadas previamente por el COMPRADOR. El VENDEDOR será responsable de verificar que el punto propuesto de interconexión y las instalaciones del SIN a partir de ese punto cuente con las condiciones que permitan la operación estable y segura, así como la entrega del total de la Capacidad disponible de la Planta. La propiedad, operación y mantenimiento, las responsabilidades derivadas de la operación y mantenimiento de los equipos asociados de la Planta hasta el Punto de Entrega estarán a cargo, costo y riesgo del VENDEDOR. A partir del Punto de Entrega y hacia el resto del SIN es responsabilidad del COMPRADOR o de quien resulte titular de dichas instalaciones en el futuro. CLÁUSULA 8. MEDICIÓN.
+
+8.1 Sistema de Medición Comercial. La instalación del sistema de medición es responsabilidad del VENDEDOR, tal sistema debe registrar en el Punto de Entrega, al menos las siguientes magnitudes:
+
+a) Energía activa y reactiva; b) Potencia activa máxima; c) Corriente en las tres fases; d) Tensión en las tres fases; y, e) Distorsión Armónica Total de Tensión y Corriente (THD) para verificar el cumplimiento de la norma IEEE 519. La clase de precisión de los sistemas de medición, los requisitos de los transformadores de medida y de los medidores de energía, el registro de datos, las comunicaciones para el sistema de medición comercial, los requisitos de instalación, el registro de transacciones, la habilitación del sistema de medición y los ensayos periódicos a que se le someterá, se establecen en el Anexo VII. Los medidores de energía a utilizar serán redundantes (principal y respaldo). 8.2 Reparación y Reemplazo del Sistema de Medición. Cuando se determine, mediante una prueba en presencia de las Partes y siguiendo los parámetros establecidos, que cualquiera de los componentes del sistema de medición se encuentra fuera de los límites aceptables de exactitud o de cualquier otra manera no esté funcionando apropiadamente, el VENDEDOR a su costo lo reparará y en presencia de los representantes del COMPRADOR, se retirará y reemplazará o reparará tal componente del sistema de medición. 8.3 Lectura. La lectura de los registros de los medidores será realizada a distancia por representantes autorizados de las Partes, el primer Día de cada período a ser facturado o si no fuera posible a distancia, en el sitio de cada medidor. Es entendido que los medidores deberán ser programados para mantener la lectura de las 00:00 horas del primer Día de cada período a ser facturado, a fin de que sea este el valor que se reporte. Si la lectura se hace en el sitio del medidor y el representante de una de las Partes no asiste a verificar dicha lectura, ésta podrá ser realizada por la otra Parte, aunque la Parte que no asistió podrá comprobar la lectura en los días siguientes.
+
+En caso que se determine un período de registro de medición inexacta, tales lecturas serán corregidas y las nuevas lecturas se usarán como base para determinar la energía entregada y la diferencia de energía eléctrica facturada durante el período de medición inexacta. Cuando no pueda determinarse la duración del período en el que haya habido una medición inexacta, se asumirá que equivale a la mitad del período que existe entre la fecha de corrección que se haga al equipo que esté registrando medida inexacta y la fecha de la anterior calibración o ajuste que se haya efectuado a dicho equipo. En ningún caso el período de corrección será mayor de tres (3) Meses. Si se encuentra que el equipo de medición había registrado medición con un porcentaje igual o menor que el porcentaje de precisión del equipo de medición patrón, no se hará una nueva factura por la diferencia. CLÁUSULA
+
+9. PRECIOS, FACTURACIÓN Y PAGOS. 9.1 Obligación de Comprar el Suministro de Energía y Potencia. El COMPRADOR tendrá la obligación de comprar la energía y potencia producida por la Planta y facturadas por el VENDEDOR, comenzando en la fecha en que la Planta esté en condiciones de entregar energía en el Punto de Entrega y terminando una vez cumplido el plazo estipulado en la Cláusula 4.3 Duración del Contrato. 9.2 Pago del Suministro de Energía y Potencia. El COMPRADOR se obliga a pagar al VENDEDOR por el Suministro de Energía y Potencia que le facture el VENDEDOR en un determinado mes “i” de cada Año de Operación Comercial “k”, en función del año de vigencia “j” del contrato de la manera como se indica a continuación: El Pago por el Suministro de Energía y Potencia (PS) se calculará de la siguiente manera:
+
+ࡼࡿ࢏,࢑ൌࡼ࡮ࡼ࢏,࢑∗࡯ࡼ࢏,࢑൅ൣࡼ࡮ࡱ࢏,࢐൅ࡵࡾࡱ൧∗ࡱࡲ࢏,࢑, ܲܵ݅ ,݇ ܲ Dónde: Pago por Suministro de Energía y Potencia entregados en el mes “i” del Año de Operación Comercial “k”. Es el Precio Base de ܤܲ݅ ,݇ la Potencia para el mes facturado “i” del Año de Operación Comercial “k”, expresado en USD/kW-mes, el cual será igual al Costo Marginal Corto Plazo de Potencia según lo establecido en el literal G Precio de Compra de Energía y Potencia del Acuerdo Contractual. Capacidad de Potencia para el Mes ܥܲ݅ ,݇ “i” del Año de Operación Comercial “k”, en kW. El CPi,k se ܧ݊݁ ݎ݃íܽ ܨܽܿ ݐݑݎܽ݀ܽ ݁݊ ݈ܽݏ ܪ݋ݎܽݏ ܲݑ݊ݐܽݏ ݈݀݁ ݉݁ ݏ݅ܰ calculará de la siguiente forma: ú݉݁ ݎ݋ ݀݁ ܪ݋ݎܽݏ ܲݑ݊ݐܽ ݈݀݁ ݉݁ ݏ݅ ܲ ܥܲ݅ ,݇ൌ Precio Base de Energía para el mes facturado “i” del ܤܧ݅,݆ ܲ año de vigencia “j”, expresado en USD/MWh, el cual se calculará de la manera siguiente:, Donde:, ܤܧ݅,݆ൌܲ ܤܧ݅,ሺ݆െ1ሻ∗൫1 ൅ܴ ܫ݆൯, ܴ es la relación de inflación anual ܫ݆ൌ൫ܥܲܫ݆െܥܲܫ݆െ1൯/ܥܲܫ݆െ1, ܴܫ݆ y siempre será positivo y nunca mayor que 0.015. En el caso que su cálculo resulte en valores negativos, tomará el valor de ܴܫ݆ ܲ cero. En el caso que su cálculo resulte en valores mayores que 0.015, tomará el valor de 0.015. Es el Precio Base por ܫ݆ ܤܧ݅,1 Energía para el primer año de vigencia y que será igual al establecido en el literal G Precio de Compra de Energía y Potencia del Acuerdo Contractual. Es la Energía Eléctrica ܧܨ݅,݇ Facturada (MWh) al COMPRADOR en el mes “i” del Año de Operación Comercial “k”. RE Es el Incentivo para Generadores Renovables, el cual se calculará de la manera siguiente: Para la energía: USD/MWh, El Vendedor tiene derecho a ܫܴ ࡱ = 0.1 ∗ܲ ܤܧ݅,1 recibir el pago del Incentivo para Generadores Renovables durante los primeros 15 años, es decir, por los primeros ciento ochenta ܥܲܫ1
+
+(180) meses de la Operación Comercial de la Planta.
+
+Es el Índice de Precios al Consumidor para el mes inmediato anterior ܥܲܫ݆ ܴ al Mes de entrada en vigencia del Contrato. Es el Índice de Precios al Consumidor para el mes inmediato anterior al Mes que se desea actualizar el PBE. i Es el índice del mes en que se presenta la factura, en cada Año de Operación Comercial k”, donde “i” varía del mes 1 al 12. Entiéndase como mes 1 el mes en que se presenta la primera factura de cada Año de Operación Comercial “k”. k Índice del Año de Operación Comercial “k”, donde “k” varía de uno (1) al valor establecido para el Término del Contrato definido en el literal B TÉRMINO DEL CONTRATO del Acuerdo Contractual. Entendiéndose como año uno (1) el primer año de la Operación Comercial. j Índice del año de vigencia del Contrato, varía desde dos (2) hasta “Término del Contrato” + n, en donde “n” es el número de años que transcurren desde la vigencia del Contrato hasta el primer año de Operación Comercial. Al final de cada año de vigencia del Contrato y durante los primeros diez (10) Años de Operación Comercial de la Planta, el Precio Base de Energía ) será ajustado en función de la variación anual del Índice de la Inflación de los Estados Unidos de América. A partir del siguiente mes, después de que hayan transcurrido los primeros diez (10) años de Operación Comercial, el Precio Base de la Energía será reducido al Precio Base de Energía vigente a la firma de este Contrato, valor que será indexado de allí en adelante, cada año, conforme a los ajustes inflacionarios definidos en el Decreto Legislativo No. 70-2007. Todas las indexaciones serán aplicadas al final de cada año de vigencia del Contrato y el valor máximo de ajuste por inflación anual será de uno y medio por ciento (1.5%).
+
+El Incentivo para Generadores Renovables ( ) se aplicará únicamente para los primeros quince (15) Años de Operación Comercial de la Planta en aplicación del Artículo 3, Numeral 2), Literal c) de la Ley de Promoción a la Generación de Energía Eléctrica con Recursos Renovables. El COMPRADOR pagará al VENDEDOR el precio base de potencia igual al Costo Marginal de Corto Plazo de Potencia vigente al momento de la firma del Contrato, aplicado a la Capacidad de Potencia generada por la Planta. El precio base de la potencia se mantendrá fijo y se aplicará únicamente durante los primeros diez (10) años de Operación Comercial. 9.3 Pago por Suministro antes de la Fecha de Inicio de Operación Comercial. Durante las Pruebas de Capacidad iníciales y la puesta en servicio por el VENDEDOR para la instalación de la Planta de acuerdo con la Cláusula 10.1 Prueba de Capacidad Inicial y durante la operación de la misma hasta la Fecha de Inicio de Operación Comercial (“Período de Prueba”), el COMPRADOR debe comprar y pagar el suministro que haga el VENDEDOR, de la manera como se indica a continuación. El Pago por el Suministro (PSP) durante el Período de Prueba se calculará de la siguiente manera:
+
+, Dónde:
+
+Pago por Suministro en el mes “i”, Precio Base de la Energía (USD/ MWh) que se establece en la cláusula G Precio de Compra de Energía y Potencia del Acuerdo Contractual.
+
+Energía Eléctrica entregada en el Período de Prueba. El COMPRADOR pagará por el suministro durante el Período de Pruebas en la primera factura que se emita una vez que la Planta inicie la Operación Comercial. El pago se realizará sin ningún tipo de intereses y se aplicará la Tasa de Cambio vigente al momento del pago. 9.4 Cargo por Obras Financiadas por el VENDEDOR al COMPRADOR (COF). Es el cargo que el COMPRADOR deberá comprar y pagar al VENDEDOR para reconocer los costos asociados al desarrollo, construcción y puesta en servicio de las Obras de Ampliación del Sistema Interconectado Nacional. Este cargo será facturado por el VENDEDOR y pagado por el COMPRADOR durante ochenta y cuatro (84) Meses consecutivos a partir de la Fecha de Inicio de Operación Comercial. 9.5 Otros Cargos Aplicables (OCA). Son los cargos de carácter temporal que resultan de la aplicación del presente Contrato, expresado en USD/Mes y de aplicación puntual para el Mes “i”. 9.5.1 Indisponibilidad del SIN de Recibir Energía de la Planta. Si debido a fallas en el SIN no atribuibles al VENDEDOR, se restringe el suministro de energía por más de veinticuatro (24) horas acumuladas durante un Mes, el VENDEDOR debe ser indemnizado con un monto por la energía que el VENDEDOR no pudo entregar por estas causas durante ese Mes, habiendo tenido posibilidad de generar y por el tiempo que exceda de las veinticuatro (24) horas indicadas, de acuerdo con la siguiente estructura: 1. Cualquier interrupción no atribuible al VENDEDOR menor o igual a una (1) hora no se acumula para el límite de veinticuatro (24) horas de interrupciones permitidas por Mes; 2. Cualquier interrupción no atribuible al VENDEDOR mayor a una (1) hora se acumulará para el cálculo de indemnización al VENDEDOR; 3. Si la acumulación de horas de restricción no atribuibles al VENDEDOR es menor a veinticuatro (24) horas en el Mes, no habrá indemnización al VENDEDOR; 4. Si la acumulación de horas de interrupción no atribuibles al VENDEDOR es mayor a veinticuatro (24) horas, la indemnización al VENDEDOR se calculará como se indica a continuación, sobre la cantidad de horas en exceso de las veinticuatro (24) horas permitidas mensualmente:
+
+= , Donde:
+
+ܫܫܵ݅ Pago por indemnización por indisponibilidad del SIN en el Mes “i” facturado. Precio Base de Energía para el mes “i” del ܲܤܧ݅,݇ ܧܫ݅ Año de Operación Comercial “k”, expresado en USD/MWh.
+
+Energía mensual a indemnizar (MWh) al VENDEDOR calculada ܧܫ݅ൌሺܪܫ݅െ24ሻൈܥܯܧൈܨܲܩ, HIi como sigue: Donde: = Cantidad de horas acumuladas de indisponibilidad del SIN en el Mes “i” facturado. Capacidad Máxima a Entregar, Factor de Planta Garantizado. En caso de que el COMPRADOR no pueda tomar las medidas necesarias para restablecer la disponibilidad del SIN para recibir la energía de la Planta, el VENDEDOR podrá colaborar con el COMPRADOR en proporcionar los recursos necesarios para afrontar esta eventualidad. El Comité Operativo coordinará los aspectos técnicos y económicos en caso que el VENDEDOR decida ejercer este derecho. 9.6 Forma de Pago y Facturación. El Suministro de Energía y Potencia será facturado y pagado mensualmente, de una sola vez y a plazo vencido vía transferencia bancaria a través del Sistema de Administración Financiera Integrada (SIAFI) o en su defecto vía cheque. La facturación de la Energía Eléctrica Facturada y la Capacidad de Potencia entregada por el VENDEDOR al COMPRADOR, así como otros cargos o reembolsos, se hará mediante el cálculo correspondiente a los siguientes cargos: a) Cargo por Energía y Potencia (PS)- se calculará conforme lo establecido en la Cláusula 9.2 Pago del Suministro de Energía y Potencia. b) Cargos Durante Período de Pruebas (PS)- se calculará conforme lo establecido en la ܥܯܧൌ ܨܲܩൌ ࡼࡹ࢏ൌࡼࡿ࢏,࢑൅ࡼࡿࡼ࢏൅࡯ࡻࡲ࢏൅ࡻ࡯࡭࢏൅࡭࢐࢛࢙࢚ ࢋ.
+
+Cláusula 9.3 Pago por Suministro antes de la Fecha de Inicio de Operación Comercial. c) Cargo por Obras Financiadas- se calculará conforme a lo establecido en la Cláusula 9.4 Cargo por Obras Financiadas por el VENDEDOR al COMPRADOR (COF). d) Otros Cargos o Créditos Aplicables- se calculará conforme a lo establecido en la Cláusula 9.5 Otros Cargos Aplicables (OCA). e) Ajuste por Reembolso de Diferenciasse calculará conforme a lo establecido en la Cláusula 14.2 Reembolso de Diferencias. La siguiente fórmula resume el pago mensual (PMi) que el VENDEDOR hará al COMPRADOR de conformidad con el suministro de Energía Eléctrica y de los servicios que le presta al COMPRADOR: 9.6.1 Facturación y Pagos. Inmediatamente después de haberse terminado el período de operación a ser facturado y comprendido dentro del plazo de vigencia del Contrato, el VENDEDOR enviará al COMPRADOR una factura indicando para el período a ser facturado, la Capacidad de Potencia, la Energía Eléctrica Facturada y en su caso, la Energía Eléctrica entregada durante el Período de Prueba, las penalidades y ajustes que correspondieran, así como los precios e índices aplicables para dicho período y el total del pago mensual. Esta factura deberá ser acompañada con los cálculos de los componentes del pago mensual, junto con los comprobantes sobre cualquier otra suma adeudada (Otros Cargos o Créditos Aplicables) por el COMPRADOR al VENDEDOR o viceversa, según los términos de este Contrato para los efectos de las disposiciones aquí contenidas, sin perjuicio de las verificaciones y ajustes posteriores. El formato de la factura será definido por el Comité Operativo. Cada factura deberá incluir una descripción detallada y la siguiente información de apoyo: a) Todos los datos y cálculos indicados en las cláusulas 9.2 9.3 9.4 9.5 y 9.5.1 que respaldan los cargos presentados al COMPRADOR; y, b) Las penalidades y ajuste aplicables al VENDEDOR según lo establecido en la CLÁUSULA 12 RESPONSABILIDAD, INCUMPLIMIENTO Y GARANTÍAS. Los datos detallados que respaldan cada factura deben ser mantenidos por el VENDEDOR, en cualquier sitio comunicado al COMPRADOR, durante un período de cinco (5) años contados desde el Mes que se presenta la factura, debiendo permanecer disponibles para su revisión o copiado por los representantes del COMPRADOR durante el horario de trabajo de un Día Hábil Administrativo y previa notificación del COMPRADOR con veinticuatro (24) horas de anticipación. Las facturas serán pagadas por el COMPRADOR al VENDEDOR, a más tardar cuarenta y cinco (45) Días Calendario después de la recepción de la factura sin errores (la Fecha de Pago). Las facturas adeudadas en Dólares de los Estados Unidos de América serán pagadas en Lempiras de conformidad con la Tasa de Cambio vigente tres (3) Días Hábiles Administrativos antes de la Fecha de Pago. En caso de que el COMPRADOR objetare una porción de la factura deberá informar por escrito al VENDEDOR dentro de los diez (10) Días Hábiles Administrativos después de la presentación de dicha factura. En lo que resta del plazo para efectuar el pago, las Partes discutirán el reclamo u objeción presentada y de proceder el mismo, el VENDEDOR deberá emitir una nueva factura ajustándose a lo resuelto sobre la objeción que proceda. Si las Partes no se ponen de acuerdo sobre el reclamo, cualquier porción objetada no será pagada por el COMPRADOR y el VENDEDOR recibirá el pago de la porción no objetada de la factura y el caso será sometido al Comité Operativo previsto en este Contrato para resolver la desavenencia en un plazo de once (11) Días Hábiles Administrativos. Una vez que se obtengan los resultados de la porción objetada, se procederá a realizar los ajustes correspondientes a esa facturación y el COMPRADOR pagará el valor resultante con sus respectivos intereses a la tasa que resulte de la aplicación de la Cláusula 9.6.3 Intereses. 9.6.2 Última Facturación al Terminar el Contrato.
+
+En cualquier caso de terminación de este Contrato de conformidad con sus términos, ambas Partes, dentro de los dos
+
+(2) Meses siguientes a la fecha de terminación pondrán a disposición un estado de facturación final señalando todas las cantidades que aún sean pagaderas y las cuales deberán ser canceladas dentro de los ocho (8) Días Hábiles Administrativos siguientes a la presentación de la factura. Sin perjuicio de lo anterior, la auditoría interna del COMPRADOR tendrá la facultad de auditar el presente Contrato en cualquier momento, mientras esté vigente y hasta un máximo de cinco (5) años después de finalizado el mismo. 9.6.3 Intereses. El COMPRADOR dispondrá de un plazo no mayor de diez (10) Días Hábiles Administrativos para verificar y aprobar que las facturas y documentos de soporte estén completos y suficientemente sustentados, declarándolo así y en caso contrario se deberá notificar por escrito al VENDEDOR y se devolverán dichos documentos al VENDEDOR, dentro del plazo de diez (10) Días Hábiles Administrativos para su oportuna corrección, ajuste o sustentación. Las Partes discutirán el reclamo u objeción presentada y de proceder el mismo, el VENDEDOR deberá emitir una nueva factura. Si las Partes no se ponen de acuerdo sobre el reclamo, las Partes aplicarán las estipulaciones previstas en la CLÁUSULA 15 RESOLUCIÓN DE CONTROVERSIAS O DISPUTAS, para resolver la desavenencia. En caso de determinarse como resultado de dicho proceso, que al VENDEDOR le asiste la razón en la porción dejada de pagar por el COMPRADOR, el COMPRADOR pagará al VENDEDOR dicha cantidad que había sido objetada y dejada de pagar, con sus respectivos intereses, de conformidad con lo establecido en este Contrato. El pago de las facturas correspondientes por el suministro de energía eléctrica podrá ser vía cheque o transferencia bancaria a través del Sistema de Adquisición Financiero (SIAFI) o sistema vigente al momento de efectuar la transferencia. En caso de Incumplimiento en la Fecha de Pago, el COMPRADOR pagará intereses a la tasa promedio correspondiente al mes anterior en que se efectúe el pago para operaciones activas del sistema bancario nacional y en ningún caso serán capitalizables, cuando se produzcan atrasos en el pago de sus obligaciones por causas que le fueren imputables, después de transcurridos Cuarenta y Cinco (45) días calendario contados a partir de la presentación de las facturas con sus respaldos correspondiente en forma completa y sin errores. El pago de los intereses se hará a más tardar en la fecha del siguiente pago mensual, El VENDEDOR no podrá alegar incumplimiento del COMPRADOR y solicitar el pago de intereses cuando el VENDEDOR presente en forma incompleta o incorrecta los respectivos documentos de cobro. Tampoco podrá hacerlo cuando el VENDEDOR incurra en atrasos que le fueren atribuibles durante la ejecución del presente Contrato, ocasionando con ello retrasos en los desembolsos presupuestados para determinado período fiscal y la subsiguiente demora en los siguientes ejercicios y cuando incurriere en cualquier otra conducta determinante del retraso. Tampoco se causarán intereses en los casos en que el retraso en el pago haya sido ocasionado por circunstancias de Fuerza Mayor o Caso Fortuito que estuvieran acreditadas. 9.7 Acuerdo de Apoyo. Con el objeto de garantizar adicionalmente el pago total de todas las cantidades adeudadas al VENDEDOR de conformidad con este Contrato, el COMPRADOR brindará colaboración al VENDEDOR para que éste y el Procurador General de la República conjuntamente con el Secretario de Estado en los Despachos de Finanzas suscriban un Acuerdo de Apoyo para el Cumplimiento del Contrato. El Acuerdo de Apoyo para el cumplimiento del Contrato tendrá la vigencia de este Contrato más tres (3) Meses. No obstante, el mismo continuará vigente y surtirá efectos en cualquier acción judicial o extrajudicial intentada durante su vigencia, hasta su conclusión final y firme. El Acuerdo de Apoyo se adjunta en el Anexo VIII. CLÁUSULA 10.
+
+PRUEBAS. 10.1 Prueba de Capacidad Inicial. Una vez terminadas las pruebas de funcionamiento que siguen al período de construcción de la Planta y tan pronto como hayan condiciones para alcanzar la Operación Comercial, el VENDEDOR notificará al Comité Operativo que la Planta está lista para proceder a hacer la Prueba de Capacidad Inicial, para que mediante acta del Comité Operativo haga constar que se han concluido las pruebas que garantizan que los equipos de la Planta pueden proveer en forma segura al SIN Potencia y Energía Eléctrica y que el Sistema de Medición Comercial cumple con lo establecido en el Anexo VII, Requerimientos del Sistema de Medición Comercial. Para la Prueba de Capacidad Inicial, la Capacidad suministrada será medida por el VENDEDOR utilizando el equipo de medición instalado en el Punto de Medición. 10.2 Protocolo de Pruebas.
+
+El Comité Operativo, previo a la realización de la Prueba de Capacidad Inicial, deberá desarrollar un protocolo detallado para el registro y los cálculos necesarios para dichas pruebas. El protocolo de pruebas detallará procedimientos para verificar el cálculo de resultados de la Prueba de Capacidad Inicial.
+
+CLÁUSULA 11. SEGUROS. 11.1 Seguros. El VENDEDOR y/o todos sus contratistas que lleven a cabo cualquier tipo de servicios en relación con la construcción, instalación, operación y mantenimiento de la Planta, contratarán y mantendrán en vigencia seguros de responsabilidad general, seguros contra incendios y terremotos, cobertura de responsabilidad pública y seguros de daños contra terceros, por lesiones a personas y bienes, seguro de responsabilidad de automóviles y seguro de compensación legal por responsabilidad en caso de accidentes de trabajo, así como cualesquiera otro que sea usual entre propietarios y operadores de proyectos similares al objeto de este Contrato. Si por alguna razón no contrata dichos seguros, el VENDEDOR asumirá plena y totalmente la responsabilidad proveniente de tales daños, siempre y cuando los mismos sean el resultado directo de su culpa grave o dolo. Igual responsabilidad asumirá cuando ocurriese algún daño que sea el resultado directo de su culpa grave o dolo y no esté cubierto por los mismos o por otros seguros previamente contratados por el VENDEDOR. En relación con los seguros que el VENDEDOR debe tener conforme a esta Cláusula, cualquier Financista podrá ser nombrado como el beneficiario del pago de tales seguros o se le podrá endosar a su favor cualquier póliza de seguro, todo de conformidad con los acuerdos del financiamiento correspondientes entre los Financistas y el VENDEDOR. CLÁUSULA 12. RESPONSABILIDAD, INCUMPLIMIENTO Y GARANTÍAS. 12.1 Limitación de Responsabilidad. Las Partes convienen que no serán responsables de obligaciones que estén fuera de las establecidas en el presente Contrato, excepto las determinadas en las Leyes Aplicables. 12.2 Indemnización por Multas y Cargos.
+
+Cualquier multa u otros cargos incurridos por el VENDEDOR o sus empleados o subcontratistas, por el incumplimiento de leyes, reglas, regulaciones, órdenes u otras acciones gubernamentales, en razón de este Contrato, son responsabilidad exclusiva del VENDEDOR y el COMPRADOR no está obligado a reembolsarlos. 12.3 Riesgo de Pérdida. Las Partes son responsables por cualquier pérdida, incluyendo el lucro cesante, en los casos descritos a continuación: 12.3.1 Riesgo de Pérdida del VENDEDOR. El VENDEDOR será responsable y acepta el riesgo total de pérdida: a) Por cualquier pérdida o daño a la Planta, a las Instalaciones de Interconexión o a cualesquiera otros bienes ubicados a partir del Punto de Entrega hacia el VENDEDOR, siempre y cuando ésta no haya sido causada por negligencia o dolo del COMPRADOR o de los empleados o agentes del COMPRADOR incluyendo el CND; b) Respecto a cualquier lesión personal o muerte, pérdida o daños a cualesquiera otros bienes que se originare del uso de la Planta, las Instalaciones de Interconexión hasta la fecha que las mismas sean transferidas al COMPRADOR o de cualesquiera otras propiedades a partir del Punto de Entrega hacia el VENDEDOR, exceptuándose de esto cualquier pérdida, daño o lesión que se origine por culpa, negligencia o dolo del COMPRADOR, lo cual incluye entre otras: desviaciones en las calibraciones de los relevadores y de los dispositivos de protección o su mala operación, o mala conducta del COMPRADOR o de los empleados o agentes del COMPRADOR incluyendo el CND; y, c) Por cualquier pérdida o daño al COMPRADOR o a terceros, que se derive de errores y/o desacatos a instrucciones, normas, reglamentos y procedimientos en la maniobra del equipo de interconexión o de cualesquiera otros bienes ubicados a partir del Punto de Entrega hacia el VENDEDOR. 12.3.2 Riesgo de Pérdida del COMPRADOR. El COMPRADOR Acepta el riesgo total de pérdida: a) Respecto a cualquier pérdida o daños a bienes ubicados en el lado del sistema de transmisión a partir del Punto de Entrega; b) Respecto a cualquier lesión corporal o muerte o pérdida o daños a cualquiera otras propiedades que se originare del uso de bienes situados a partir del Punto de Entrega hacia el COMPRADOR, exceptuándose de esto cualquier pérdida, daño o lesión que se origine por culpa, negligencia o dolo del VENDEDOR, lo cual incluye entre otras, desviaciones en las calibraciones de los relevadores y de los dispositivos de protección o mala conducta del VENDEDOR o de los empleados o agentes del VENDEDOR; c) El COMPRADOR no asumirá el riesgo derivado de errores y/o desacatos del VENDEDOR a instrucciones, normas, reglamentos y procedimientos en la maniobra del equipo de interconexión o a cualesquiera otros bienes ubicados del lado del VENDEDOR, sin embargo, el COMPRADOR asumirá con carácter de exclusividad el riesgo derivado de sus errores y/o desacatos a instrucciones, normas, reglamentos y procedimientos en la maniobra del equipo de interconexión o a cualesquiera otros bienes, instalaciones y equipos ubicados en el lado del COMPRADOR; y,d) El COMPRADOR asumirá el riesgo total de pérdida de energía después de que el VENDEDOR la haya puesto a su disposición en el Punto de Entrega de acuerdo con los términos y condiciones del presente Contrato. 12.4 Solidaridad. En caso de que el VENDEDOR llegara a integrar un consorcio o asociación de empresas para el cumplimiento del presente Contrato, los integrantes de dicho consorcio o asociación de empresas serán responsables solidariamente con el VENDEDOR en todos sus actos durante toda la vigencia del Contrato y deberán cumplir con todos los requisitos y obligaciones establecidos en las Leyes Aplicables.
+
+12.5 Ajuste por no alcanzar el Factor de Planta Anual Garantizado. Si en cualquier Año de Operación Comercial, el Factor de Planta Anual es menor que el Factor de Planta Garantizado, se aplicará al VENDEDOR una penalidad calculada ܫܨܲܩ݇ൌሺܨܲܩെܨܲ݇ ሻൈሺܲܤܧ݅,݇൅ܫܴܧሻൈܥܥ തതതതൈ8760 ܲ de la siguiente forma: , Donde: Ajuste por no alcanzar el Factor de Planta Anual ܫܨܲܩ݇ Garantizado para el año “k”, en Dólares, Factor de Planta ܨܲ݇ ܲ Garantizado, Factor de Planta Anual para el Año de Operación Comercial “k”, Precio Base de la Energía ܤܧ݅,݇ para el Año de Operación Comercial “k” tal como se establece en la Cláusula 9.2. Es el incentivo tal como se establece en ܫܴ ܧ ܥܥ തതതത la Cláusula 9.2.
+
+Capacidad Comprometida Promedio ∑ ܧܧܨ݅ 12݅ ൌ1 8760 ൈܥܥ തതതത, Anual (MW). Donde: Energía Eléctrica Facturada ܨܲ݇ en el mes “i” del Año de Operación Comercial “k”. En todo caso, tal penalidad no podrá ser mayor que el valor total anual del pago por Capacidad de Potencia de un año de Operación Comercial promedio. 12.6 Cálculo de Penalidades y su Pago. En los primeros dos (2) Días Hábiles Administrativos del mes siguiente el CND o quien designe el COMPRADOR realizará el cálculo de las penalidades y ajuste, debitándose el resultado al monto facturado a ser pagado por el COMPRADOR. 12.7 Garantía de Cumplimiento. La Garantía de Cumplimiento de Contrato deberá constituirse dentro de los primeros quince (15) Días Hábiles Administrativos contados a partir de la fecha de entrada en vigencia de este Contrato. La Garantía de Cumplimiento de Contrato consistirá en una garantía bancaria para cada año a partir de la vigencia del Contrato. El VENDEDOR se compromete a rendir a favor del COMPRADOR, la Garantía de Cumplimiento de Contrato, la cual servirá para garantizar el suministro de la Energía Eléctrica y las demás obligaciones a cargo del VENDEDOR establecidas en este Contrato. Si el VENDEDOR no logra instalar el total de la Capacidad Comprometida, el monto de la Garantía de Cumplimiento será ajustado por el valor real de Capacidad Instalada. Tal obligación garantizará el suministro de energía y potencia, de acuerdo con lo establecido en este Contrato. Esta Garantía de Cumplimiento será renovada anualmente por lo menos un mes antes de su vencimiento. Durante el último año de vigencia del Contrato esta Garantía de Cumplimiento estará vigente hasta tres (3) Meses después de que venza el mismo. Debe entenderse que esta Garantía de Cumplimiento no podrá ser ejecutada por incumplimiento producido por Fuerza Mayor o Caso Fortuito.
+
+La garantía bancaria debe ser emitida a favor de la EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA de acuerdo con el formato que se indica en el Anexo V Modelo de Garantía de Cumplimiento de Contrato. Esta garantía deberá ser otorgada por un banco de reconocida solidez autorizada a operar en la República de Honduras y será pagadera a simple requerimiento dirigido a la institución bancaria, haciendo constar el incumplimiento del VENDEDOR y sin necesidad de realizar trámite alguno, administrativo o judicial. En caso de una Terminación Anticipada del Contrato por Parte del VENDEDOR, de acuerdo a la Cláusula 4.6 Terminación Anticipada del Contrato por Parte del VENDEDOR, el COMPRADOR deberá notificar de este hecho a la entidad emisora de la Garantía de Cumplimiento dentro de los quince (15) Días Hábiles Administrativos a partir de la fecha en que se haga efectiva la terminación del Contrato y procederá, dentro del mismo plazo, a la devolución de dicha Garantía de Cumplimiento al VENDEDOR. CLÁUSULA 13. FUERZA MAYOR O CASO FORTUITO. 13.1 Aplicación de Fuerza Mayor o Caso Fortuito. Se reconoce y acepta como eximente de responsabilidad, al Caso Fortuito y la Fuerza Mayor. La Fuerza Mayor y/o Caso Fortuito no incluirá fallas de equipo que puedan ocurrir en la operación de una planta generadora de energía eléctrica debido a cualquier grado de desgaste normal o por defectos de fabricación, de diseño, de construcción o de mantenimiento. La Fuerza Mayor y/o Caso Fortuito tampoco incluirán eventos causados por o que tengan relación con actos intencionados, negligencia, descuidos, errores, omisiones o infracciones a alguna Ley Aplicable por parte de las Partes, incluyendo violaciones de las Prácticas Prudentes de la Industria Eléctrica. En todos estos casos y los demás que surgieran en relación con este Contrato, la Parte que invoca la Fuerza Mayor o el Caso Fortuito deberá notificar por escrito a la otra Parte dentro del término de setenta y dos (72) horas contadas a partirܲ del momento en que tuvo conocimiento del evento constitutivo de la Fuerza Mayor y/o Caso Fortuito, sin perjuicio del informe detallado que deberá presentar en un término no mayor a cinco
+
+(5) Días Hábiles Administrativos contados a partir de la fecha en que sucedió el evento. Si la Parte que invoca la Fuerza Mayor o Caso Fortuito no informa ni remite el informe detallado en el plazo establecido, perderá su derecho a que se le aplique tal Caso Fortuito o Fuerza Mayor. 13.2 Deber de Probar. La Parte que reclame causal de Fuerza Mayor o Caso Fortuito deberá demostrarla y probarla y hará sus mejores esfuerzos para mitigar su efecto y remediar su incapacidad de cumplimiento. 13.3 Efecto de Fuerza Mayor o Caso Fortuito. Si el cumplimiento de obligaciones derivadas de este Contrato por una de las Partes fuera afectado por Fuerza Mayor o Caso Fortuito, dicha Parte quedará liberada de responsabilidad por el incumplimiento o por demora en el cumplimiento de dichas obligaciones, siempre y cuando: a) La suspensión de las operaciones o la reducción en la producción no sea de mayor alcance o duración que lo realmente necesario; y, b) La Parte afectada utilice esfuerzos diligentes para remediar los efectos del evento de Fuerza Mayor o Caso Fortuito.
+
+Fuera de las violaciones a este Contrato y sin perjuicio de los derechos de las Partes a la indemnización de acuerdo con la
+
+CLÁUSULA 12 RESPONSABILIDAD, INCUMPLIMIENTO
+
+Y GARANTÍAS, ninguna de las Partes debe acarrear responsabilidad por pérdida o gasto sufrido por la otra Parte como resultado de un evento de Fuerza Mayor o Caso Fortuito determinado conforme a este Contrato. La Parte que se ampare en la Fuerza Mayor, no podrá acogerse a la misma cuando esta Parte haya contribuido a originar o no haya hecho lo posible para evitar esos eventos, ya sea por su culpa (negligencia, descuido, incumplimiento de Leyes y reglamentos) o por dolo (intención).
+
+13.4 Obligaciones Previas de Pago no Condonadas. Ninguna obligación de pago que se origine en este Contrato con anterioridad a la fecha de un suceso de Fuerza Mayor o Caso Fortuito será condonada por causa de tal suceso. 13.5 Prórroga de Límites de Tiempo. Sin perjuicio de lo establecido en la Cláusula 4.2 Puesta en Operación Comercial, una vez ocurrido e invocado por el VENDEDOR un evento de Fuerza Mayor o Caso Fortuito, antes de la Fecha de Inicio de Operación Comercial, el límite de tiempo establecido para la Fecha Programada de Inicio de Operación Comercial de este Contrato será prorrogado de común acuerdo entre las Partes, haciéndose constar en acta especial las justificaciones y determinando el tiempo en que se prorrogará la Fecha de Inicio de Operación Comercial, por un tiempo máximo al que dure o haya durado el evento de Fuerza Mayor; y si el evento fuere Caso Fortuito, por el tiempo que realmente sea necesario para reiniciar la construcción y montaje, pero en cualquier caso el monto total de Días de extensión no podrá ser mayor de ciento ochenta (180) Días. Después de concluido este plazo, este Contrato podrá darse por terminado anticipadamente siguiendo los requisitos de las Leyes Aplicables y las cláusulas
+
+4.5 Terminación Anticipada del Contrato por Parte del COMPRADOR y 4.6 Terminación Anticipada del Contrato por Parte del VENDEDOR. CLÁUSULA 14. IMPUESTOS Y RECLAMOS. 14.1 Impuestos Aplicables. Todos los impuestos nacionales, municipales, matrículas, derechos de aduana, tasas, cánones, cargas, contribuciones por mejoras o cualquier otra carga impositiva presentes y futuras aplicables de conformidad con las leyes, serán asumidos por la Parte a la que legalmente correspondan. El VENDEDOR gozará de los incentivos fiscales vigentes conforme en Decretos No. 70-2007 y su reforma contenida en el Decreto No. 138-2013. 14.2 Reembolso de Diferencias. En los casos amparados en el Artículo 10 de la Ley de Incentivos a la Generación de Energía Eléctrica con Recursos Renovables, Decreto 70-2007, contra requerimiento escrito debidamente documentado, el COMPRADOR debe compensar al VENDEDOR mediante: i) el ajuste en el precio de venta de la energía que deba hacer al VENDEDOR, o ii) el reembolso del valor del perjuicio económico al VENDEDOR. Este tratamiento no será aplicable a los empleados del VENDEDOR, sus compañías asociadas, sus contratistas o a los empleados de todos éstos. No se reconocerán las variaciones que ocurran por cambio en las obligaciones sobre el salario mínimo, aportaciones al Instituto Hondureño de Seguridad Social ni contribuciones al Instituto Nacional de Formación Profesional. CLÁUSULA 15.
+
+RESOLUCIÓN DE CONTROVERSIAS O DISPUTAS.
+
+15.1 Resolución de Disputas en Consultas y Negociaciones.
+
+En caso de producirse cualquier Disputa que no surja en el seno del Comité Operativo, las Partes deberán inicialmente intentar resolver la misma a través de consultas y negociaciones directas dentro del Comité Operativo. Si la Disputa no se resuelve dentro de un plazo de once (11) Días Hábiles Administrativos contados a partir de la fecha en que cualquier Parte notifique su existencia, a menos que las Partes acuerden de otra manera, que sea legal, la Disputa será sometida al Comité Operativo para su resolución en el marco de la ley. En caso que surja una Disputa entre las Partes en el seno del Comité Operativo, cualquiera de las Partes podrá solicitar la aplicación directa del mecanismo de resolución de Disputa Técnica por medio de la designación de un Perito Técnico como se describe en la Cláusula 15.3 Resolución de las Disputas Técnicas o el procedimiento de someter la Resolución de Otras Disputas a los funcionarios o ejecutivos de más alto nivel de las Partes descrito en la Cláusula 15.4 Resolución de Otras Disputas, según corresponda el caso. 15.2 Clasificación de Disputas.
+
+Las disputas, controversias o reclamos provenientes de o relacionados con este Contrato, serán clasificadas de la siguiente manera: a) Disputas que implican cuestiones de índole técnica, la resolución de las cuales requiere de conocimientos especiales de ingeniería (las “Disputas Técnicas”); y todas las demás Disputas (las “Otras Disputas”). 15.3 Resolución de las Disputas Técnicas. Si se trata de una Disputa Técnica y la misma no puede ser resuelta por el Comité Operativo dentro de un plazo de once
+
+(11) Días Hábiles Administrativos contados a partir de la fecha en que la Disputa le fue sometida, a menos que las Partes acuerden otra cosa, dentro del marco de la ley, la Disputa Técnica será resuelta mediante la decisión de un (1) Perito Técnico que designen las Partes de común acuerdo. Si las Partes no se pusieren de acuerdo en la designación del Perito Técnico dentro de los ocho
+
+(8) Días Hábiles Administrativos siguientes al vencimiento del plazo de once (11) Días Hábiles Administrativos antes señalado, cada una de las Partes designará a un Perito Técnico, quienes a su vez deberán nombrar un tercer Perito Técnico, entre los tres se resolverá sobre la Disputa Técnica con simple mayoría. Dicha designación de peritos deberá ser hecha dentro de los cinco (5) Días Hábiles Administrativos siguientes al vencimiento del plazo de los ocho (8) Días Hábiles Administrativos mencionados anteriormente. En caso de que los dos peritos nombrados por las Partes no se pusieren de acuerdo sobre el tercer Perito Técnico, la designación de éste se solicitará a la Junta Directiva del Colegio de Ingenieros Mecánicos, Electricistas y Químicos de Honduras.
+
+No obstante lo anterior, el tercer Perito Técnico no podrá estar relacionado con alguna de las Partes o ser su empleado o tener o haber tenido en el último año alguna relación importante de negocios con cualquiera de las Partes. Los Peritos Técnicos emitirán dictamen recomendando las soluciones del caso para todo lo relacionado con el procedimiento a ser observado en relación con la resolución de la Disputa Técnica, el cual tendrá lugar donde lo decidan los peritos. Los Peritos Técnicos entregarán a las Partes su decisión por escrito, dentro de un plazo de veintiún (21) Días Hábiles Administrativos contados a partir de la fecha de su designación. Cada una de las Partes cubrirá sus propios gastos, a excepción de aquellos relacionados con el peritaje; estos últimos serán abonados por las Partes en porciones iguales, en el entendido de que la Parte vencida deberá reembolsar a la otra Parte la porción pagada por ésta. Las Partes acuerdan que la decisión de los Peritos Técnicos será final y obligatoria para ambas Partes. Para cualquier sustitución de Peritos, se observará el procedimiento establecido en el párrafo anterior. 15.4 Resolución de Otras Disputas. Si se trata de Otras Disputas y las mismas no pueden ser resueltas por el Comité Operativo dentro de un plazo de dieciséis (16) Días Hábiles Administrativos contados a partir de la fecha en que las Disputas le fueren sometidas, estas serán resueltas mediante sometimiento para su solución al funcionario de más alto nivel ejecutivo del COMPRADOR y del VENDEDOR, quienes tendrán la más amplia libertad para convenir y acudir a los medios de solución y procedimientos legales que consideren como idóneos y apropiados. Si en el plazo de seis (6) semanas dichos funcionarios no hubieran concertado un procedimiento de solución, se someterán al procedimiento de arbitraje en el Centro de Conciliación y Arbitraje de la Cámara de Comercio e Industrias de Tegucigalpa y aplicando las reglas de tal centro. 15.5 Cumplimiento. Mientras una disputa esté sometida a cualquiera de las instancias previstas en esta cláusula, las Partes continuarán cumpliendo con las obligaciones que han asumido, de acuerdo con el presente Contrato y se abstendrán de ejercitar cualquier otro recurso diferente de los aquí previstos. CLÁUSULA 16.
+
+MEDIO AMBIENTE. 16.1 Leyes Ambientales. El VENDEDOR está obligado a cumplir con las leyes, reglamentos y demás disposiciones sobre el medio ambiente de la República de Honduras; de manera específica debe obtener la Licencia Ambiental emitida por la SERNA para la construcción y operación de la Planta y de las demás obras a cargo del VENDEDOR, así como cualquier otra autorización de las dependencias u organismos competentes, que fueren necesarias para la construcción, instalación y operación de la Planta, sus líneas de transmisión, subestación, y demás facilidades que son responsabilidad del VENDEDOR para la operación de la Planta y en general para la ejecución de este Contrato. 16.2 Estudio Ambiental. El VENDEDOR deberá realizar un estudio específico sobre el impacto ambiental del proyecto y conforme a la categorización que le asigne la SERNA. El VENDEDOR deberá cumplir con lo siguiente: a) Asegurar que se cumplan todas las medidas de mitigación indicadas en el estudio ambiental y las que impongan los organismos competentes dentro del tiempo establecido; y, b) Asegurar que el proyecto cumpla con todas las normas técnicas de calidad ambiental establecidas en la legislación ambiental hondureña y demás normas locales. Será responsabilidad del VENDEDOR la obtención oportuna de la Licencia Ambiental ante la SERNA o la dependencia que corresponda conforme a las regulaciones vigentes. El COMPRADOR podrá otorgar al VENDEDOR la colaboración que éste pueda requerir para la obtención de la autorización ambiental para la construcción y operación de la Planta, sin que esta colaboración constituya compromiso alguno para el COMPRADOR. 16.3 Licencia Ambiental para las Obras de Ampliación de Sistema Interconectado Nacional. Si las Partes acordaran la construcción de Obras de Ampliación del Sistema Interconectado Nacional, el COMPRADOR será responsable de solicitar la Licencia Ambiental y las autorizaciones de las dependencias u organismos competentes que fueren necesarias para tal construcción. Sin embargo, el VENDEDOR será responsable en todo caso del cumplimiento de las medidas de mitigación emitidas por SERNA para la etapa de construcción de las Obras de Ampliación del Sistema Interconectado Nacional. CLÁUSULA 17 AVISOS.
+
+17.1 Direcciones y Destinatarios. Con las excepciones previstas en este Contrato, todos los avisos u otras comunicaciones que se requieran o se permitan deben ser por escrito y se considerarán suficientes si se entregan personalmente o se envían por correo, correo electrónico o por fax, a la dirección establecida en literal H Comunicaciones entre las Partes del Acuerdo Contractual.
+
+Todos los avisos deben considerarse como entregados una vez que se reciba la confirmación de su entrega. Se exceptúan de este procedimiento las comunicaciones que en forma continua, rutinaria o en función de las condiciones del SIN o de la operación de la Planta se necesitan entre el CND y el VENDEDOR. Estas comunicaciones se establecerán por cualquiera de los diferentes medios de comunicación disponibles en cada momento determinado (radio, fax, correo electrónico, teléfono, etc.). El VENDEDOR proporcionará al COMPRADOR las direcciones y demás datos del Financista al que el VENDEDOR le ceda este Contrato de acuerdo con la Cláusula 20 del Contrato, a objeto de que el COMPRADOR les envíe directamente todos los avisos, notificaciones y reportes relacionados con el VENDEDOR, conforme a lo estipulado en las Cláusulas 4 y 20 del presente Contrato. 17.2 Cambios de Dirección. Cualquiera de las Partes mediante aviso escrito debe notificar el cambio de direcciones o los destinatarios a los cuales tales noticias y comunicaciones deben ser entregadas o enviadas. Los avisos de cambios de dirección de cualquiera de las Partes serán comunicados por escrito con no menos de ocho (8) Días Hábiles Administrativos de antelación al cambio. CLÁUSULA 18. PREVISIONES VARIAS. 18.1 Modificación. Este Contrato puede ser modificado solamente por acuerdo escrito entre las Partes, siempre y cuando se observe el procedimiento establecido en las Leyes Aplicables. 18.2 Sucesores, Cesionarios y Designados. Este Contrato es obligatorio para las Partes y debe aplicarse para el beneficio de las Partes aquí nombradas y sus respectivos sucesores, Cesionarios y designados autorizados. 18.3 Disposiciones Supletorias. En lo no previsto en este Contrato, la relación entre las Partes se regirá por la legislación hondureña aplicable. En particular, se regirá por la Ley de Contratación del Estado y su Reglamento, mientras la ENEE o un ente desconcentrado o entidad centralizada o descentralizada del Estado de Honduras sea la parte compradora.
+
+En caso de que el Contrato sea cedido por el COMPRADOR a una entidad, empresa o sociedad privada, no estatal o no perteneciente a la administración centralizada o descentralizada del Estado de Honduras, la relación entre las Partes se regirá supletoriamente por la legislación hondureña de derecho privado que sea aplicable. 18.4 Encabezamientos. Los encabezamientos contenidos en las Cláusulas, Artículos, numerales, secciones e incisos de este Contrato se usan solamente por conveniencia y no constituyen parte de este Contrato, ni deben utilizarse tales encabezamientos en ninguna manera para asistir en la interpretación de este Contrato. 18.5 Terceras Partes. Este Contrato tiene la intensión de ser para el beneficio de las Partes que lo suscriben.
+
+Nada en este Contrato debe ser interpretado de manera que genere alguna deuda o alguna responsabilidad hacia alguna persona que no sea parte de este Contrato. No obstante lo anterior, el COMPRADOR expresamente reconoce su obligación de proporcionar ciertos avisos, notificaciones y reportes relacionados con el VENDEDOR, al Financista al que el VENDEDOR le ceda este Contrato de acuerdo a lo estipulado en la Cláusula 20 de este Contrato. 18.6 Irrenunciabilidad. Salvo lo dispuesto expresamente en este Contrato, la falta de ejercicio de los derechos de las Partes por el incumplimiento o los incumplimientos que cometa la otra Parte en la ejecución de cualquiera de las cláusulas de este Contrato, no operará ni se interpretará como renuncia de dichos derechos, salvo que sea notificado por escrito por un representante debidamente autorizado de tal Parte. La omisión de cualquiera de las Partes para reclamar el cumplimiento de los términos, condiciones y provisiones de este Contrato, la omisión de algún plazo para actuar o el ofrecimiento de alguna disculpa otorgada por una Parte a la otra, no se tendrán como renuncia de los derechos a que pueda dar origen tal transgresión o aceptación de variación alguna de tal derecho o como el abandono del derecho, el cual permanecerá en vigencia y efecto íntegro. 18.7 Relación de las Partes. Este Contrato no se interpretará o entenderá como que crea una asociación, empresa mixta o sociedad entre las Partes o que impone alguna obligación de sociedad o responsabilidad sobre una de las Partes. Las Partes no tendrán derecho, autoridad o poder para celebrar contrato o realizar gestiones por o actuar en nombre de o actuar como o ser un agente o un representante de o de alguna otra manera comprometer a la otra Parte. 18.8 Subsistencia de Obligaciones. La cancelación, expiración o terminación anticipada de este Contrato no relevará a las Partes de las obligaciones que por su naturaleza deben subsistir a tal cancelación, expiración o terminación, incluyendo, sin limitarlo a las garantías, las compensaciones, pagos pendientes, indemnizaciones que correspondan y la confidencialidad. 18.9 Divisibilidad. Si la autoridad judicial competente dictara que alguna disposición de este Contrato no es ejecutable o que es nula o en cualquier otra forma contraria a la ley, este Contrato continuará en vigor de conformidad con los restantes términos y disposiciones del mismo, a menos que la disposición declarada no ejecutable, nula o contraria a la ley, invalidara el propósito o intención de este Contrato. En caso de que alguna de las cláusulas de este Contrato o secciones o partes de las mismas, fuesen tenidas como no ejecutables o inválidas por cualquier tribunal competente, el COMPRADOR y el VENDEDOR negociarán la manera de poner en práctica e implementar un ajuste equitativo en el resto de las disposiciones de este Contrato, con miras a llenar objetivos del mismo, sustituyendo la disposición que fuese no ejecutable, nula o contraria a la ley por una disposición válida cuyo efecto económico sea lo más cercano posible al de la disposición que fuera encontrada no ejecutable, nula o contraria a la ley. 18.10 Mantenimiento de Registros. Tanto el VENDEDOR como el COMPRADOR mantendrán un registro de todas las facturas, recibos, tablas, impresiones de computadoras o cualquier otro medio magnético o electrónico de registro de información, relacionados con el volumen o precio del suministro de energía realizadas de conformidad con este Contrato. Tales registros estarán disponibles para inspección por cualquiera de las Partes previo aviso razonable, dirigido a la Parte solicitada durante horas hábiles regulares. Todos estos documentos y registros serán mantenidos en los archivos durante un mínimo de cinco (5) años posteriores a la fecha de su acaecimiento. 18.11 Confidencialidad. Cada una de las Partes, sus proveedores, consultores y agentes, mantendrán confidencialidad acerca de todos los documentos y otra información tanto técnica como comercial suministrada a éste por o en nombre de la otra Parte, relacionados con la interconexión, el seguro, la operación, el mantenimiento o la administración de la Planta y no publicará ni divulgará de manera alguna, salvo si lo exige la ley o las autoridades reguladoras, los acreedores o inversionistas potenciales de las Partes y sus asesores profesionales; ni los utilizará para sus propios propósitos de otra manera que la requerida para cumplir con las obligaciones bajo este Contrato. No obstante lo anterior, nada de lo aquí contenido debe impedir el uso de provisiones similares a las contenidas en este Contrato y convenios preparados y publicados en conexión con otros proyectos. El material para el cual se desea tratamiento confidencial debe ser así indicado mediante la marcación de tal material como confidencial. Las previsiones del párrafo anterior no serán de aplicación a: a) Cualquier información de dominio público; b) La información en posesión de la Parte receptora antes de su recepción a través de este Contrato y que no fuera obtenida bajo ninguna obligación o condición de confidencialidad; c) La información obtenida de una tercera parte que es libre de divulgar la misma y que no se obtiene bajo ninguna obligación o condición de confidencialidad; y, d) Todo lo que esté estipulado en la Ley de Transparencia y Acceso a la Información y que no se considere reservado. 18.12 Triplicados. El presente Contrato se suscribe por triplicado, conservando un ejemplar cada una de las Partes, un ejemplar para el Congreso Nacional, siendo cada ejemplar igualmente obligatorios, por considerarse cada uno original y por constituir en conjunto un solo Contrato. CLÁUSULA 19. CAMBIO REGULATORIO. 19.1 Cambios Regulatorios. Todas las disposiciones establecidas en este Contrato referidas a la programación, control y operación de la Planta, medición, salidas y mantenimiento podrán ser sustituidas en el futuro por las leyes, por un reglamento o reglamentos a dictarse por autoridad gubernamental competente. Si dicha ley, reglamento o reglamentos se estableciere disposiciones en los mismos términos del Contrato original, ello no implicará responsabilidad alguna para el COMPRADOR, para CND ni para el Estado de Honduras. En este caso el VENDEDOR no podrá alegar alteraciones en la ecuación económica del Contrato, pretender o exigir modificación en los precios pactados o reclamar daños y perjuicios derivados de tal sustitución. En el caso contrario, se aplicará lo establecido en la Cláusula 14.2 Reembolso de Diferencias. Si como resultado de la vigencia de una nueva ley o modificación de una ley vigente, de la restructuración del COMPRADOR por mandato gubernamental o por privatización de alguna o varias de sus actividades, se establecieran nuevas instituciones que tengan a su cargo el cumplimiento de algunas de las facultades atribuidas al Comité Operativo, el COMPRADOR podrá delegar al nuevo organismo estas facultades, sin necesidad de contar con el consentimiento del VENDEDOR. CLÁUSULA 20. CESIÓN Y DERECHO A GRAVAR. La cesión de derechos y obligaciones bajo este Contrato, por parte del VENDEDOR como por parte del COMPRADOR, se ajustará a las disposiciones siguientes: 20.1 Cesión por Parte del VENDEDOR. El VENDEDOR podrá ceder sus derechos y obligaciones bajo este Contrato, con la autorización previa escrita del COMPRADOR, el que deberá tener la autorización de su Junta Directiva o la máxima autoridad en funciones, la cual se tramitará a solicitud del propio VENDEDOR, previa presentación de documentos en que se acredite que se ha ejecutado más del sesenta por ciento (60%) del presupuesto de instalación de la Planta, con excepción del caso de la cesión al Financista conforme a la Cláusula 20.6 Derecho a Gravar. Además, el VENDEDOR debe acreditar la capacidad legal y financiera del Cesionario propuesto para cumplir con las obligaciones que asumiría; probar sin lugar a dudas la voluntad del Cesionario propuesto para asumir sin modificación todas las obligaciones que para el VENDEDOR consigna el presente Contrato y que no esté comprendido en ninguna de las inhabilidades a las que se refieren los artículos 15 y 16 de la Ley de Contratación del Estado contenida en el Decreto Legislativo No. 74/2001. La cesión deberá ser formalizada siguiendo el procedimiento de este Contrato. 20.2 Cesión por Parte del COMPRADOR. El COMPRADOR podrá ceder total o parcialmente este Contrato sin autorización del VENDEDOR, siempre que estas cesiones sean resultado de las Leyes Aplicables, de la restructuración del COMPRADOR por mandato gubernamental o que estén relacionadas con la venta de una parte de sus propiedades o capitalización para alguna o varias de sus actividades y siempre que la capacidad del Cesionario de cumplir con las obligaciones de este Contrato sea sustancialmente la misma del COMPRADOR, manteniéndose las mismas condiciones contractuales. 20.3 Consentimiento para Cesión.
+
+Salvo los casos previstos en el párrafo anterior, es entendido entre las Partes que el COMPRADOR no podrá ceder sus derechos ni delegar sus obligaciones sin el consentimiento escrito del VENDEDOR. Cualquier cesión o delegación realizada sin dicho consentimiento será nula e inexistente. 20.4 Autorización escrita de Cesión. El consentimiento por escrito para la cesión no será negado si no hay una causa debidamente justificada conforme a las Leyes Aplicables. Al ocurrir la cesión aprobada debidamente por la otra Parte cuando corresponda, el Cedente queda exonerado de sus obligaciones bajo este Contrato siempre y cuando el Cesionario acepte y asuma por escrito todas las obligaciones contraídas en el mismo. 20.5 Efectos de la Cesión del Contrato. En caso de que el Contrato sea transferido a otro comprador u otros, bajo un nuevo marco legal de transacciones, el Contrato continuará vigente y manteniendo íntegras todas sus obligaciones y disposiciones de conformidad con las Leyes Aplicables. 20.6 Derecho a Gravar. El VENDEDOR podrá gravar, pignorar, ceder o transferir en garantía este Contrato y/o los derechos que le otorga el presente Contrato, a favor y/o en beneficio de cualquier Financista que ha dado los recursos que amparan este Contrato o en el caso contemplado en la Cláusula
+
+20.1 Cesión por Parte del VENDEDOR, informando por escrito previamente al COMPRADOR. Las cláusulas contractuales firmadas entre el COMPRADOR y VENDEDOR continuarán vigentes. No obstante, si por cualquier circunstancia el bien gravado fuese transferido a una tercera persona, el Cesionario deberá asegurar que ese bien transferido sea utilizado para el cumplimiento de todas las obligaciones derivadas del Contrato y en caso de incumplimiento, el COMPRADOR podrá aplicar todas las medidas establecidas en el Contrato. Las Partes expresamente aceptan que en caso de ceder, gravar o pignorar este Contrato y/o los derechos al Financista o para efectos del financiamiento que otorgarán los Financistas, dicha cesión, pignoración o gravamen del Contrato y/o derechos no se entenderá que constituye un traspaso en propiedad de este Contrato. El Financista al que se le realizó dicha cesión, pignoración o gravamen no será requerido para que asuma el cumplimiento de cualesquiera de los términos o condiciones que el VENDEDOR deba cumplir por su parte de conformidad con este Contrato. CLÁUSULA 21. VENTA A
+
+TERCEROS. El VENDEDOR, previa autorización por escrito del COMPRADOR, puede vender a agentes autorizados por Ley la Energía Eléctrica y Potencia generada en exceso a la establecida en el literal I Compromiso de Venta al COMPRADOR del Acuerdo Contractual, utilizando para ello el SIN como medio de interconexión para la entrega de esta Energía Eléctrica. El VENDEDOR hará los pagos en concepto de peaje y compensación de pérdidas de conformidad a lo establecido en el Decreto 70-2007. Es entendido que cada mes la energía vendida a clientes del VENDEDOR, así como las pérdidas producto de tal venta será restada de la medición que se hace en el Punto de Entrega y esta venta no cambiará los compromisos de compra de Energía Eléctrica establecidos en este Contrato. CLÁUSULA
+
+22. INTEGRIDAD. Las Partes, en cumplimiento a lo establecido en el Artículo 7 de la Ley de Transparencia y Acceso a la Informa Pública (LTAIP) y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1) Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, LEALTAD CONTRACTUAL, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y DISCRECIÓN CON LA INFORMACIÓN CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2) Asumir una estricta observancia y aplicación de los principios fundamentales bajos los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: Transparencia, igualdad y libre competencia. 3) Que durante la ejecución del Contrato ninguna persona que actúe debidamente autorizada en nuestro nombre y representación y que ningún empleado o trabajador, socio o asociado, autorizado o no, realizará: a) Prácticas Corruptivas: Entendiendo éstas como aquellas en las que se ofrece dar, recibir, o solicitar, directa o indirectamente, cualquier cosa de valor para influenciar las acciones de la otra parte; b) Prácticas Colusorias: Entendiendo éstas como aquellas en las que denote, sugieran o demuestren que existe un acuerdo malicioso entre dos o más partes o entre una de las partes y uno o varios terceros, realizado con la intensión de alcanzar un propósito inadecuado, incluyendo influenciar en forma inadecuada las acciones de la otra parte. 4) Revisar y verificar toda la información que deba ser presentada a través de terceros a la otra parte, para efectos de Contrato y dejarnos manifestado que durante el proceso de contratación o adquisición causa de este Contrato, la información intercambiada fue debidamente revisada y verificada, por lo que ambas partes asumen y asumirán la responsabilidad por el suministro de información inconsistente, imprecisa o que no corresponda a la realidad, para efectos de este Contrato. 5) Mantener la debida confidencialidad sobre toda la información a la que se tenga acceso por razón del Contrato y no proporcionarla ni divulgarla a terceros y a su vez, abstenernos de utilizarla para fines distintos. 6) Aceptar las consecuencias a que hubiere lugar, en caso de declararse el incumplimiento de alguno de los compromisos de esta Cláusula por Tribunal competente y sin perjuicio de la responsabilidad civil o penal en la que se incurra. 7) Denunciar en forma oportuna ante las autoridades correspondientes cualquier hecho o acto irregular cometido por nuestros empleados o trabajadores, socios o asociados del cual se tenga un indicio razonable y que pudiese ser constitutivo de responsabilidad civil y/o penal. Lo anterior se extiende a los subcontratistas con los cuales el Contratista o Consultor contrate así como a los socios, asociados, ejecutivos y trabajadores de aquellos. El incumplimiento de cualquiera de los enunciados de esta cláusula dará lugar: a) De parte del Contratista o Consultor: i) A la inhabilitación para contratar con el Estado, sin perjuicio de las responsabilidades que pudieren deducírsele. ii) A la aplicación al trabajador, ejecutivo, representante, socio, asociado o apoderado que haya incumplido esta Cláusula, de las sanciones o medidas disciplinarias derivadas del régimen laboral y, en su caso entablar las acciones legales que correspondan.
+
+b) De parte del Contratante: i) A la eliminación definitiva del (Contratista o Consultor y a los subcontratistas responsables o que pudiendo hacerlo no denunciaron la irregularidad) de su Registro de Proveedores y Contratistas que al efecto llevare para no ser sujeto de ilegibilidad futura en procesos de contratación. ii) A la aplicación al empleado o funcionario infractor, de las sanciones que correspondan según el Código de Conducta Ética del Servidor Público, sin perjuicio de exigir la responsabilidad administrativa, civil y/o penal a las que hubiere lugar.
+
+ANEXO I DESCRIPCIÓN DE LA PLANTA Y DEL SITIO LOCALIZACIÓN
+
+Río y Cuenca:
+
+Río Grande, Cuenca El Cajón Coordenadas del sitio de Presa (UTM): Latitud 1687895 N, Longitud E Coordenadas de Casa de Máquinas:
+
+(UTM): Latitud 1688531 N, Longitud 628669 DATOS NOMINALES Área de captación de la cuenca:
+
+2,224.326 km2 Caudal de diseño:
+
+15.1 m3/s Salto Bruto:
+
+30 m Salto Neto:
+
+30 m
+
+OBRAS CIVILES
+
+Presa Tipo:
+
+Presa de concreto Altura de presa:
+
+10 m Ancho de presa:
+
+30 m Largo de presa:
+
+30 m Vertedero Tipo (Perfil):
+
+Tipo libre con cresta Creager Toma Tipo:
+
+Lateral Elevación de toma:
+
+6.0 m Tubería de Presión Tipo:
+
+Tubería forzada Longitud:
+
+985 m Diámetro:
+
+1.8 m
+
+EQUIPOS PARA GENERACIÓN DE ENERGÍA
+
+Turbinas Tipo:
+
+Francis horizontal Número de Unidades:
+
+2 Velocidad de Rotación:
+
+720 rpm Potencia de cada Turbina:
+
+3425 kW Generadores Tipo:
+
+Sincrónico Capacidad Nominal:
+
+2150 kVA Factor de Potencia:
+
+(cosf=): 0.9 Voltaje Nominal:
+
+13.8 kV
+
+ANEXO II CONDICIONES DE INTERCONEXIÓN
+
+1. GENERAL
+
+En relación a las condiciones de interconexión del proyecto hidroeléctrico Tomhawa, de 4.0 MW, de la Sociedad Mercantil Energía Renovable de Olancho, S.A., ubicado en el municipio de San Esteban, Departamento de Olancho, se ha determinado que el proyecto puede conectarse al Sistema Interconectado Nacional (SIN) y se establece lo siguiente:
+
+1. El Punto de Interconexión, será en el circuito L-380 que perteneciente a la Subestación Juticalpa, en el municipio de San Esteban, en la comunidad de San Esteban.
+
+2. El Punto de Entrega en el Punto de Interconexión.
+
+3.El Punto de Medición en el Punto de Entrega. El equipo de medición podrá ser instalado en la subestación de la planta, siempre y cuando se programe el medidor para compensar las pérdidas técnicas provocadas por las facilidades eléctricas construidas y/o instaladas desde el Proyecto Hidroeléctrico hasta el Punto de Interconexión.
+
+Para interconectar el proyecto al Sistema Interconectado Nacional, es necesario que la Sociedad Mercantil Energía Renovable de Olancho, S. A., realice las obras que se listan a continuación, a su propio costo y riesgo:
+
+1.Reforzar el circuito L-380 dependiente de la subestación Juticalpa en los puntos necesarios en el caso de que se requiera dada la entrada en operación del Proyecto Hidroeléctrico Tomhawa o Tonjagua de tal manera que pueda recibir la capacidad de 4.0 MW.
+
+2. De ser necesario instalar en la barra de 34.5 kV de la subestación del proyecto Hidroeléctrico Tomhawa o Tonjagua compensación reactiva capacitiva con control automático de conexión y desconexión.
+
+3. Realizar las inspecciones que correspondan para garantizar o mejorar los aspectos técnicos relacionados con la interconexión del proyecto, como por ejemplo sin que se limite a ello, realizar el balanceo de carga a lo largo del circuito de distribución L-380.
+
+Para los fines del buen desempeño y protección del Sistema Interconectado Nacional (SIN), la empresa propietaria deberá implementar un sistema de protecciones en sus instalaciones del proyecto y línea de interconexión asociada. El diseño de dicho sistema de protecciones deberá cumplir con las especificaciones técnicas vigentes.
+
+Para la supervisión y monitoreo del despacho en tiempo real de la potencia y energía asociada del proyecto por el Centro Nacional de Despacho (CND), la empresa propietaria del proyecto deberá adquirir e instalar a su propio costo y riesgo un Sistema de Comunicaciones con los equipos y enlaces de comunicación necesarios, mismos que deberán ser compatibles con el equipo utilizado por ENEE; las características de los equipos deberán ser homologados por personal de la Unidad de Control Electrónico, dependiente de la División de Operación de ENEE. Previo a la construcción, se deberá someter a aprobación de la instancia respectiva los diseños de las obras de interconexión aquí mencionadas.
+
+2. DIAGRAMA UNIFILAR ANEXO III CONTROL Y OPERACIÓN DE LA PLANTA Y LÍMITES TÉCNICOS
+
+1. Despacho y Programación
+
+1.1 Despacho. El CND, obligatoriamente despachará y recibirá toda la energía que el VENDEDOR produzca y entregue en el Punto de Entrega, durante toda la vigencia de este Contrato. El Despacho obligatorio tendrá las excepciones siguientes: a) cuando los embalses de las centrales hidroeléctricas de propiedad estatal estén derramando y la toma de la producción del generador necesite una reducción de la producción de esas centrales con un consecuente aumento de los volúmenes derramados,
+
+b) cuando las fallas en la Planta del VENDEDOR estén causando perturbaciones en el SIN, c) cuando la Planta esté desconectada del SIN, en situaciones de emergencia o durante el restablecimiento del servicio después de una falla, mientras el operador del SIN no le haya dado instrucciones de conectarse nuevamente a la red y esta condición sea técnicamente justificada y d) Desconexión automática de la planta por Esquemas de Control Suplementarios (ECS) que tienen como objeto mantener o restablecer la estabilidad del SIN.
+
+1.2 Procedimientos de Notificación mensuales, semanales y diarios.
+
+(i) Notificación de Disponibilidad de la Planta. Para permitir al CND que planifique la operación integrada del SIN, tal como se prevé en la sección (iv) abajo, el VENDEDOR informará al CND a las doce (12) horas de cada Día la Capacidad Declarada de la Planta para cada hora de las siguientes treinta seis (36) horas y provisionalmente, de las subsiguientes veinticuatro (24) horas, asimismo el VENDEDOR entregará al CND, sin excepción antes de las 15:00 horas de los Días Jueves de cada semana, una proyección de suministro de energía para la semana siguiente. El Comité Operativo podrá modificar los requisitos de información de la Capacidad Declarada para adecuarlos a las necesidades del CND.
+
+(ii) Disponibilidad de la Planta. El nivel real de operación de la Planta será determinado por la disponibilidad del recurso energético renovable y estará sujeto a los Límites Técnicos de la Planta definidos de conformidad con este Contrato.
+
+(iii) Disponibilidad Operativa Diaria. Antes del inicio de cada día de operaciones, el VENDEDOR informará al CND la Capacidad Declarada de la Planta, hora por hora, incluyendo sin limitación, cualquier Paro Programado de la Planta. Dicha información se confirmará a más tardar a las 23:00 horas del día previo. El VENDEDOR basará su información en un pronóstico que permita mantener la declaración de Capacidad dentro de los límites que se acuerden. iv) Notificación de Cambio de Parámetros Operativos.
+
+El CND suministrará al VENDEDOR aviso de cambio en los parámetros operativos y el VENDEDOR responderá dentro de los límites estipulados en los Límites Técnicos.
+
+1.3 Cumplimiento. El VENDEDOR acepta cumplir con las instrucciones de operación que reciba del CND.
+
+2. Límites Técnicos Los valores mostrados en la Tabla 1, definen los Límites Técnicos de la Planta y otros requerimientos de compra estipulados por el COMPRADOR:
+
+La Planta deberá cumplir con los siguientes requerimientos:
+
+2.1Respuesta a Disturbios de Potencia en el SIN. La Planta debe ser capaz de mantener una operación continua e ininterrumpida durante la ocurrencia de sobrexcitación o sobretensión en la misma dentro los Límites Técnicos. La duración y magnitud de la sobreexcitación o sobretensión será definida de acuerdo a las curvas de los fabricantes de los equipos y deberá cumplir con lo descrito en este anexo al respecto, las curvas de frecuencia versus tiempo y tensión de excitación versus tiempo; la duración será de un tiempo que esté dentro de la zona permitida de operación.
+
+El CND podrá dar orden de conectar la Planta si se encuentra fuera de línea aun cuando la tensión en el nodo para sincronizar presente una desviación en la magnitud de la tensión de su valor nominal, siempre y cuando esté dentro de los Límites Técnicos y de seguridad que estipula el fabricante del equipo de la Planta.
+
+La Planta también debe ser capaz de mantenerse en línea y operando durante y después de la ocurrencia de eventos que produzcan variaciones en la frecuencia del SIN entre 57.5 y 61.5 Hz.
+
+2.2 Rechazo Parcial de Carga. La Planta deberá ser capaz de operar en forma continua y permanente durante e inmediatamente después de un evento que ocasione una reducción de la carga, en condiciones de carga parcial o plena carga y la reducción de la carga sea menor del 40% de la potencia nominal de la Planta.
+
+2.3 Capacidad de Generación/Absorción de Reactivo. La Planta deberá ser capaz de entregar una potencia reactiva equivalente al 10% de la potencia activa que está entregando al sistema o absorber una potencia reactiva equivalente al 29.2% de la potencia activa hasta llegar al máximo estipulado en los límites técnicos.
+
+Q = +0.10 P o Q = -0.292 P Donde:
+
+Q = Potencia Reactiva entregada al SIN en megavatios reactivos (MVAR) P = Potencia en megavatios (MW) que se está entregando al SIN
+
+2.4 Tasas de Incrementos o Decrementos de Carga. La Planta deberá ser capaz de incrementar o disminuir su carga en respuesta a una orden manual o remota de variación de carga, siempre que el recurso energético renovable necesario se encuentre disponible.
+
+2.5 Salida de Operación sin Suministro Externo de Electricidad. Cada Unidad y la Planta serán capaces de salir de operación en forma segura sin daño al equipamiento ni a las personas al existir una falta de alimentación de electricidad a la Planta proveniente de la red de transmisión o distribución a la Planta.
+
+2.6 Calidad de la Onda de Tensión y Corriente. El VENDEDOR se compromete a respetar los niveles máximos permitidos de distorsión armónica para las señales de tensión y corriente en el Punto de Entrega, según lo estipulado en la norma IEEE 519: “IEEE Recomendaciones Prácticas y Requerimientos para el Control de Armónicas en Sistemas Eléctricos de Potencia”.
+
+El COMPRADOR por medio de sus representantes del Comité Operativo podrá realizar sin limitaciones en número y cantidad, mediciones de los niveles de distorsión armónica en el Punto de Entrega. Para estos fines el VENDEDOR permitirá el acceso a los funcionarios del COMPRADOR tan solo a requerimiento de cualquiera de los representantes del Comité Operativo del COMPRADOR.
+
+2.7 Sistemas de Protección que afecten la Seguridad del SIN. A cada Unidad, transformador de Unidad, la Planta y equipo o elemento entre la Planta y el Punto de Entrega, el VENDEDOR deberá proveerlas de la protección necesaria, capaz de reaccionar coordinadamente y en forma segura durante fallas que ocurran en el SIN. Si por fallas en el SIN se presentan daños a cualquier equipo de la Planta, equipo o elemento entre la Planta y el Punto de Entrega, por no ser capaz de reaccionar coordinadamente y de manera independiente al SIN, debido a la falta de un esquema de protección adecuado o por mal funcionamiento de los mismos, el equipo dañado será responsabilidad exclusiva del VENDEDOR. No obstante lo anterior, a cada equipo o elemento a partir del Punto de Entrega y de pertenencia del COMPRADOR, éste deberá proveerlas de la protección necesaria, capaz de reaccionar coordinadamente y en forma segura durante fallas que ocurran en el SIN, conforme a un esquema de protección adecuado.
+
+Los ajustes del equipo de protección instalado en la Planta y de los equipos o elementos entre la Planta y el Punto de Entrega deben ser coherentes con el funcionamiento que requiere el CND.
+
+Los ajustes serán tales que maximicen la disponibilidad de la Planta, para apoyar el control del SIN bajo condiciones de Emergencia y para minimizar el riesgo de desconexión indebida, consistentes con los requerimientos de seguridad y durabilidad de la Planta según las indicaciones del fabricante. Los ajustes de las protecciones eléctricas en la Subestación de la Planta deben tener la aprobación del CND, para lo cual el VENDEDOR informará al CND de los parámetros de ajuste de las protecciones de acuerdo con un estudio de coordinación de protecciones, que realizará el VENDEDOR y el CND deberá notificar al VENDEDOR dentro de un plazo de diez (10) Días Hábiles Administrativos en caso de tener alguna objeción.
+
+Si por alguna razón se presenta que los ajustes de uno o varios tipos de esquemas de protección no son coherentes entre el funcionamiento que requiere el CND y los requerimientos de seguridad y durabilidad de la Planta, el VENDEDOR tendrá la obligación de modificar o cambiar el esquema (o los esquemas) de manera de satisfacer ambos requerimientos.
+
+2.8 Requerimientos de Comunicación. El VENDEDOR deberá proveer los equipos y sistemas de comunicaciones requeridos para la transmisión de voz y datos de la Planta y Subestación de la Planta hacia el CND. Las siguientes facilidades deberán ser instaladas como mínimo en la Planta:
+
+1. Tres líneas telefónicas de la red pública para discado directo o telefonía móvil, para uso exclusivo del operador de la Planta.
+
+2. Provisión de un enlace de transmisión de datos de muy alta confiabilidad mediante conectividad Ethernet y al menos dos canales de 9600 bps entre la Planta y el Centro Nacional de Despacho, para el intercambio de datos con el SISTEMA SCADA-EMS. Los equipos de telecomunicaciones asociados a la Subestación de Enlace con el SIN deberán ser conforme a las especificaciones técnicas aprobadas por el COMPRADOR previo a la adjudicación del contrato de las Obras.
+
+3. El equipamiento del terminal de la Subestación de Enlace también deberá ser conforme a las especificaciones aprobadas por el COMPRADOR.
+
+4. Cuando el sistema de comunicaciones propio del COMPRADOR (o de la empresa que resulte propietaria por la vigencia de una nueva ley, de la modificación de una ley vigente, de la reestructuración del COMPRADOR por mandato gubernamental o de la privatización de alguna o varias de sus actividades) esté disponible, el VENDEDOR deberá proveer los equipos necesarios para el establecimiento del enlace de datos aquí referido a través del sistema de comunicaciones propio del COMPRADOR. Dichos equipos serán enlazados en los puntos apropiados.
+
+5. Equipo terminal de radio VHF a operar con las repetidoras y frecuencias del COMPRADOR. Este sistema comprende un radio base de al menos 25 watts de potencia, fuente de alimentación de 12 Vcc con respaldo de batería o alimentación vía convertidor de tensión 125/ 12 Vcc de 350 watts. La banda de operación del radio es 146-174 MHZ y el radio debe tener una antena para exterior instalada en un poste o estructura arriostrada. La línea de transmisión debe ser cable coaxial tipo heliax de ¼” tipo super flexible, equipado con los conectores adecuados a la antena y radio (de requerirse mediante colas que adapten el conector N del cable coaxial con el conector del radio base). Se recomienda instalar equipo de protección en la entrada de antena del radio.
+
+2.9 Información de los Sistemas de Control y Regulación.
+
+El VENDEDOR debe informar al CND, previa puesta en Operación Comercial, los ajustes estructurales y parámetros de todos los componentes del equipo de control con suficiente detalle para permitir al CND caracterizar la respuesta dinámica de los componentes para estudios de simulación en corto y largo plazo.
+
+Esta información debe incluir diagramas de bloque de los controles tal como fueron ajustados y proporcionar los ajustes del sistema regulador para todos los modos esperados de operación. La información deberá ser actualizada por el VENDEDOR por medio del Comité Operativo, cuando se confirmen los datos definitivos de tales equipos.
+
+La Planta debe ser supervisada continuamente para verificar que funciona correctamente y el VENDEDOR, cada vez que ocurra un disturbio que ocasione en la Planta una limitación en el despacho o que la Planta opere fuera de los parámetros normales, el VENDEDOR deberá presentar al CND un Informe Preliminar a más tardar dos (2) Días Hábiles Administrativos y un Informe Final a más tardar diez (10) Días Hábiles Administrativos. Los Informes deben mostrar la respuesta de la Planta ante variaciones fuera del rango normal de la frecuencia de operación, información gráfica mostrando la respuesta al disturbio, incluyendo sin limitación, datos numéricos y gráficas de la potencia activa, potencia reactiva, tensión y frecuencia en el Punto de Entrega, protecciones operadas y protecciones no operadas, las anomalías que se presentaron, acciones que se ejecutaron durante y posterior al evento, elementos indisponibles o en condición atípica que limite su operación normal, etc. El CND proporcionará al VENDEDOR un formato para la elaboración de los Informes.
+
+2.10 Requerimientos Técnicos del Equipo de Monitoreo.
+
+Se habilitará un Sistema o Equipo de monitoreo (Unidad Concentradora de datos) que concentre los datos de la Planta y de la Subestación de Enlace, los que serán enviados hacia la RTU de dicha subestación. Las señales que deben ser enviadas a la Subestación de Enlace las determinará el COMPRADOR previo a la adjudicación del contrato de las Obras o a través del Comité Operativo.
+
+3. Paros Programados y de Mantenimiento 3.1 Paros Programados. Cada Año el VENDEDOR deberá acordar con el CND un plan de paros programados de la Planta, cuando estos afecten más del 50% de la Capacidad Comprometida (el “Programa de Mantenimiento”).
+
+El VENDEDOR presentará por escrito al CND, con por lo menos veintiún (21) Días Hábiles Administrativos de anticipación a la Fecha de Inicio de Operación Comercial de la Planta, su Programa de Mantenimiento para los Meses que falten, hasta el 31 de Diciembre siguiente y el Programa de Mantenimiento para el Año siguiente.
+
+En lo sucesivo, el VENDEDOR deberá someter por escrito cada primero de noviembre al CND su Programa de Mantenimiento para el siguiente año.
+
+Una vez recibido dicho Programa, el CND notificará por escrito al VENDEDOR, en un plazo no mayor de veinte (20) Días Hábiles Administrativos contados a partir del recibo del mismo, si el Programa de Mantenimiento es aceptable. Dicha aceptación no debe retenerse irrazonablemente. Si el CND no está de acuerdo con el Programa de Mantenimiento, notificará al VENDEDOR sus observaciones y recomendaciones para que el VENDEDOR pueda presentar una reprogramación, sugiriendo períodos alternativos para los paros programados de la Planta. Los períodos alternativos que proponga el CND deben ser tan próximos como sea razonablemente practicable a los períodos originalmente propuestos por el VENDEDOR y serán de igual duración. Si el CND no se pronuncia ni notifica por escrito alguna observación sobre el Programa de Mantenimiento al VENDEDOR dentro del plazo establecido, se entenderá que acepta el programa presentado por el VENDEDOR. Esta programación deberá estar totalmente definida a más tardar, el 30 de Noviembre de cada Año.
+
+Queda entendido que la ejecución del Programa de Mantenimiento está sujeto a las condiciones del recurso renovable utilizado, por lo que el VENDEDOR procurará realizarlo dentro del período autorizado pero ajustándose a las condiciones climatológicas.
+
+El CND puede, antes de sesenta (60) Días de la fecha programada para un mantenimiento, requerir que el VENDEDOR reprograme un Paro Programado contemplado en el Programa de Mantenimiento.
+
+El VENDEDOR deberá indicar cuando un Paro Programado incluido en el Programa de Mantenimiento es impostergable debido a requerimientos del fabricante de los equipos de la Planta, para mantener las garantías o la vida útil del equipo, debiendo acompañar documentos que justifiquen el Programa de Mantenimiento y sus hitos.
+
+3.2 Paros por Mantenimiento. En la medida que surge la necesidad de un paro para mantenimiento no programado que afecte más del veinte por ciento (20%) de la Capacidad Comprometida, el VENDEDOR debe avisar al CND de tal necesidad y deberá presentar al CND una solicitud para la aprobación de un paro no programado que especifique la justificación, el momento de inicio y la duración estimada de los trabajos a ser llevados a cabo y el CND permitirá a su sola discreción, programar tal salida por mantenimiento dentro de un período de tiempo razonable de acuerdo con las circunstancias.
+
+Si a pesar de la aprobación del CND de un paro de mantenimiento, el CND desea contar con la generación del VENDEDOR durante un paro de mantenimiento, el VENDEDOR empleará sus mejores esfuerzos para reanudar la generación tan pronto como sea posible y cumplir con tal solicitud. Cada salida de mantenimiento terminará a la hora y fecha prevista.
+
+3.3 Suministro de Energía en Caso de Emergencia. El VENDEDOR deberá, en caso de Emergencia del SIN, suministrar tanta energía como le sea posible y requerida por el CND (dentro de los Límites Técnicos y de acuerdo con la disponibilidad del recurso renovable utilizado) y que el SIN pueda recibir. Si la Planta tiene un paro por mantenimiento programado al momento que ocurriese una Emergencia, el VENDEDOR deberá realizar todos los esfuerzos razonables para reprogramar el paro por mantenimiento, siempre y cuando los trabajos correspondientes no se hayan iniciado.
+
+3.4 Empleo de Personal Calificado. El VENDEDOR empleará únicamente personal calificado y experimentado para operar, mantener y supervisar la Planta y para coordinar las operaciones de la Planta con el CND. El VENDEDOR debe asegurar que la Planta será atendida por su personal en todo momento, veinticuatro (24) horas al Día y siete (7) Días a la semana comenzando desde la primera entrega de energía en forma continua de la Planta en el Punto de Entrega y que tal personal atenderá las comunicaciones; además los equipos deben responder a las señales del CND de acuerdo con los Límites Técnicos.
+
+ANEXO IV CONDICIONES DE OPERACIÓN
+
+1 El COMPRADOR podrá solicitarle al VENDEDOR la desconexión temporal de la Planta cuando lo considere necesario para el cumplimiento de sus actividades propias o de la empresa distribuidora a la que esté conectada, indicándole el momento en que se debe llevarla a cabo. El VENDEDOR se obliga a acatar dicha solicitud. Para las desconexiones programadas, se le comunicará con un mínimo de tres (3) Días de antelación. Para las desconexiones imprevistas, se les comunicará, a la brevedad posible, la acción tomada y se le ratificará posteriormente, por escrito en un plazo que no podrá exceder de ocho (8) Días Hábiles Administrativos y preferiblemente vía telefax o correo electrónico.
+
+El COMPRADOR reconocerá al VENDEDOR una indemnización de acuerdo con lo establecido en la cláusula 9.5.1 del Contrato.
+
+2 El COMPRADOR podrá, sin que implique responsabilidad alguna de su parte, abrir la interconexión con la Planta del VENDEDOR y mantenerla desconectada, mientras persista cualquiera de las siguientes causas, para lo cual deberá informar al VENDEDOR aportando una descripción de la causal de desconexión:
+
+a) Causas de Fuerza Mayor o Caso Fortuito que afecten al SIN y que imposibiliten el recibo de la energía de la Planta, salvo lo indicado en el Contrato
+
+b) Cuando la Planta del VENDEDOR carezca de un medio de comunicación satisfactorio o que el que disponga sea inoperante por causas atribuibles al VENDEDOR para lograr una comunicación expedita.
+
+c) Cuando las fluctuaciones de tensión, medidas en el Punto de Entrega, excedan los límites aceptables para la iluminación incandescente en su umbral de percepción, de conformidad con las disposiciones contenidas en la sección 3.9 de la revisión de 1990 del estándar 241 del IEEE, por causas atribuibles a la Planta.
+
+d) Cuando el equipo de generación del VENDEDOR introduzca armónicas a las ondas de tensión o corriente sinusoidal en el Punto de Entrega, que excedan la recomendación IEEE No. 519.
+
+e) Cuando se den otras condiciones no contempladas en los literales a), b), c) y d) de esta sección 2, por las que la Planta interfiera con la calidad del servicio brindado a los consumidores o con la operación del sistema del COMPRADOR.
+
+El COMPRADOR comunicará, a la brevedad posible, la acción tomada y la ratificará posteriormente por escrito, en un plazo que no podrá exceder de ocho (8) Días Hábiles Administrativos y preferiblemente vía telefax o correo electrónico, indicando las razones de la desconexión y aportando las pruebas necesarias para acreditar que efectivamente la interferencia en la calidad del servicio brindado a los consumidores o con la operación del sistema del COMPRADOR, fue causada por la Planta.
+
+3 En caso que se pierda la interconexión o se produzcan desconexiones o perturbaciones en la línea a la que está conectada la Planta del VENDEDOR, ésta deberá salir de operación en forma automática y podrá ser interconectada, hasta tanto hayan transcurrido cinco (5) minutos del retorno de la línea a condiciones normales de operación. El Comité Operativo podrá modificar esta disposición dentro de los Límites Técnicos y las posibilidades de los equipos de la Planta.
+
+4 El controlador operará de manera que produzca un soporte de tensión en el Punto de Entrega. Deberá mantener una tensión constante en los terminales de corriente alterna del convertidor variando la generación de potencia reactiva dentro del rango especificado por el fabricante. El control de potencia reactiva para mantener la tensión deseado será dinámico, de alta velocidad de respuesta y continuo. La referencia de tensión en el Punto de Entrega será fijada por el COMPRADOR y podrá cambiarse cuando se requiera de acuerdo a un plan preestablecido dentro de los Límites Técnicos. En caso de que no se indiquen cambios, seguirá vigente el último valor comunicado por el COMPRADOR.
+
+Durante la conexión y desconexión de los generadores no se producirán corrientes transitorias que afecten adversamente al SIN.
+
+ANEXO V MODELO DE GARANTÍA DE CUMPLIMIENTO DE CONTRATO
+
+Garantía bancaria Por la presente nosotros, [nombre del Banco], sociedad legalmente constituida y autorizada para operar en el ramo de fianzas en la República de Honduras, con domicilio en [dirección del Banco o Compañía Aseguradora], nos constituimos en fiador mercantil solidario a favor de la Empresa Nacional de Energía Eléctrica de Honduras (ENEE) garantizando el cumplimiento de las obligaciones asumidas con la ENEE por la sociedad [Nombre de la Empresa], en el Contrato de Suministro de Potencia y Energía Eléctrica Asociada Número [Número de Contrato] suscrito el ___________ de _________de 2014.
+
+La fianza que por este acto emitimos es hasta por un monto de [Monto de la Garantía en USD].
+
+El suscrito fiador se obliga a pagar a la Empresa Nacional de Energía Eléctrica (ENEE), la suma garantizada, en virtud de esta fianza al recibir por escrito la solicitud de pago en la cual la Empresa Nacional de Energía Eléctrica (ENEE) declare que la [Nombre del Contratista] ha incurrido en incumplimiento del contrato [Número de Contrato], sin oponer reparos objeciones o dilaciones, sin que la ENEE tenga que probar el incumplimiento que origina su solicitud y sin que la [Nombre del Contratista] pueda oponerse al pago.
+
+Igualmente el fiador pagará la suma garantizada en lo previsto en el Contrato [Número de Contrato].
+
+Esta garantía tendrá validez durante doce meses, contados a partir de la fecha en que el Contrato entre en vigencia y se mantendrá en caso de prórroga, reforma o ampliación acordada entre las Partes, de cualquier parte o de todo el contrato número [Número de Contrato] y renuncia a ser notificado de cualquier reforma, prórroga o ampliación que se introduzca al contrato.
+
+Suscribimos el presente documento de fianza, en la Ciudad de Tegucigalpa, Municipio del Distrito Central, a los _____________ del mes de ____ de 2014.
+
+[Nombre del Banco o Compañía Aseguradora y de la persona que firma. Dirección del Banco o Compañía Aseguradora].
+
+Firma Autorizada
+
+ANEXO VI COMITÉ OPERATIVO Y SUS FACULTADES
+
+1. Las Partes acuerdan la constitución de un Comité Operativo integrado por cuatro (4) miembros, dos (2) de cada Parte. El Comité Operativo será responsable por la coordinación de la construcción de las Instalaciones de Interconexión, por la interconexión de la Planta con el SIN y por la coordinación de las actividades que demande la operación y mantenimiento de la Planta; cada Parte podrá hacerse asesorar por las personas que considere conveniente, quienes podrán participar en las reuniones del Comité Operativo con voz pero sin voto. El Comité Operativo invitará al CND a designar un delegado que lo represente para el tratamiento de todas las cuestiones de su incumbencia vinculadas a las atribuciones del CND, quien tendrá voz pero no voto.
+
+El Comité Operativo tendrá las siguientes facultades, sin limitarse a ellas, pero en cualquier caso, con sujeción estricta a las disposiciones de este Contrato.
+
+(i) La coordinación de los programas respectivos de las Partes para la conexión oportuna de la Planta, línea de transmisión y subestaciones al SIN. Estos programas serán sometidos a aprobación del CND.
+
+(ii) Dar seguimiento a las operaciones y comunicaciones generales entre las Partes.
+
+(iii) Definir un nuevo Punto de Entrega o el cambio de ubicación del Punto de Entrega existente si fuere necesario.
+
+(iv) Desarrollar procedimientos y formatos de reportes que sean necesarios para el cumplimiento de este Contrato.
+
+(v) Convenir y proponer a las Partes la adopción de procedimientos que puedan ser complementarios del presente Contrato.
+
+(vi) Prevenir el surgimiento de problemas e investigar conjuntamente los que se presenten proponiendo soluciones justas y equitativas para evitar disputas entre las Partes.
+
+(vii) Determinar los asuntos o aspectos para los cuales sea necesaria la participación de un experto técnico.
+
+(viii) Estudiar las causas que originen incidentes de Fuerza Mayor o Caso Fortuito, cierre de la Planta o reducción de la capacidad y las medidas para remediar tales incidentes y evitar que se presenten de nuevo.
+
+(ix) Dar seguimiento a los programas de operación y mantenimiento.
+
+(x) Revisar los asuntos o problemas relacionados con la seguridad industrial que afecten a la Planta, líneas y subestaciones, a las Partes o a sus empleados.
+
+(xi) La discusión de los pasos a dar para mitigar el efecto, si ocurre cualquier evento de Fuerza Mayor o Caso Fortuito o el cierre de la Planta o reducción de potencia por cualquier otra causa que afecte a las Instalaciones de Interconexión o de la Planta, siempre en un todo de acuerdo con las normas e instrucciones que establezca el CND, las Buenas Prácticas de la Ingeniería y las indicaciones de los fabricantes.
+
+(xii) El desarrollo de los procedimientos de pruebas, tomando en cuenta los requerimientos del COMPRADOR y los procedimientos operativos concernientes a la interconexión, siempre en un todo de acuerdo con las normas e instrucciones que establezca el CND, las Buenas Prácticas de la Ingeniería y las indicaciones de los fabricantes.
+
+(xiii) Resolución de las disputas entre las Partes a través de consultas y negociaciones directas, previo a la aplicación del mecanismo de resolución de disputas establecido en la Cláusula 15 de este Contrato.
+
+(xiv) Sometimiento a un Perito Técnico las disputas técnicas que no pudo resolver, para cumplir los requisitos de Cláusula 15 del Contrato.
+
+(xv) Revisión y decisión preliminar de las facturas en disputa.
+
+Resolución sobre cuestionamientos a las mismas.
+
+(xvi) Solución de reclamaciones y de otras materias de relación contractual.
+
+(xvii) Constituirse en medio a utilizar por cualquiera de sus miembros para dar aviso previo que personal designado y técnico de su Parte tenga acceso a las instalaciones de la otra Parte.
+
+(xviii) Coordinación de los planes de Emergencia desarrollados por el CND para la recuperación de un apagón eléctrico local o general.
+
+(xix) Revisión y análisis, sujeto a la aprobación del CND, de los esquemas de protección, medición, comunicación y control para la operación de la Planta interconectada al SIN.
+
+(xx) Coordinar antes de la Fecha de Inicio de Operación Comercial de la Planta, los ajustes que deberán tener los relevadores de las unidades generadoras, la línea de transmisión y los otros refuerzos al SIN, siempre en un todo de acuerdo con las normas e instrucciones que establezca el CND, las Buenas Prácticas de la Ingeniería y las indicaciones de los fabricantes.
+
+(xxi) Actualizar los Anexos del Contrato con los parámetros o modelos definitivos y los datos de placa de los equipos, así como la configuración y especificaciones definitivas de las Obras de Ampliación del Sistema Interconectado Nacional y de las Obras de Interconexión.
+
+(xxii) Establecer los procedimientos relacionados con su funcionamiento, tales como, pero no limitados a la periodicidad de sus reuniones, integración de subcomités, asignándoles las funciones operativas que estimen conveniente.
+
+(xxiii) Coordinación de todos los aspectos relacionados con las Obras y demás nuevas instalaciones, en lo referente a asistencia e intercambio de información técnica y legal, permisos, licencias, saneamientos y servidumbres ya obtenidos y a obtenerse para su construcción y operación expedita. A este efecto el Comité Operativo constituirá los subcomités que fueren necesarios, para quienes fijarán por escrito los compromisos de actuación.
+
+(xxiv) Cualquier otro asunto convenido mutuamente que sea convenido para la operación eficiente de la Planta, del SIN, la construcción de las Obras o a la ejecución del Contrato.
+
+2. El Comité Operativo establecerá un acuerdo sobre los procedimientos relacionados con la celebración de reuniones, la elaboración de actas de las reuniones y el establecimiento de subcomités. En cualquier reunión del Comité Operativo deberá participar por lo menos uno de los miembros designados por cada Parte y las decisiones serán adoptadas por consenso de las Partes.
+
+Las decisiones del Comité Operativo serán obligatorias para las Partes, en el entendido, no obstante, que el Comité Operativo no puede variar las condiciones económicas del presente Contrato ni adquirir compromisos financieros para la Partes. Este Comité Operativo podrá adoptar y convenir soluciones sobre diferentes aspectos, dentro de los alcances de este Contrato, de acuerdo a las circunstancias y que pudieran afectar la ejecución oportuna del mismo.
+
+3. En caso de asuntos no resueltos, el Comité Operativo o cualquiera de los representantes de las Partes puede derivar dichos asuntos a los representantes legales del COMPRADOR y del VENDEDOR para que inicien el proceso contemplado en la Cláusula 15 del Contrato.
+
+4. El Comité Operativo deberá constituirse e iniciar sus actividades dentro de los veintiocho (28) Días siguientes a la suscripción de este Contrato. A este efecto el COMPRADOR y el VENDEDOR designarán y comunicarán sus integrantes al Comité Operativo dentro de este término.
+
+ANEXO VII REQUERIMIENTOS DEL SISTEMA DE MEDICIÓN COMERCIAL
+
+1. Clase de precisión La clase de precisión total de los sistemas de medición deberá ser 0.3% o mejor.
+
+Los medidores de energía activa y reactiva tomarán las señales de medición de tensión y corriente en el Punto de Medición. La medición de potencia activa y reactiva tomará la señal de medición en el Punto de Medición. Con el fin de que los transformadores de corriente cumplan con el requerimiento de ser de “rango extendido” y la precisión de 0.15%, los transformadores de potencial y de corriente se instalarán en el lado de baja tensión del transformador de potencia y deberán programarse para que compensen las pérdidas de energía del transformador de potencia para que reflejen la medición en el lado de alta tensión y adicionalmente deben compensar las pérdidas eléctricas en la línea de transmisión entre la Subestaciones de la Planta y el Punto de Interconexión. Los medidores contarán con las facilidades de comunicación vía módem u otro sistema que permita que sean leídos a distancia, los cuales deberán conectarse a la RTU o equipo equivalente, para ser integradas y transmitidas mediante el protocolo empleado por el sistema SCADA del CND. Los medidores de energía a utilizar serán redundantes (doble). El VENDEDOR suministrará al COMPRADOR una copia del certificado de pruebas del transformador de potencia.
+
+El VENDEDOR instalará todos los medidores antes de que la Planta empiece a entregar energía al SIN y será responsable de darle mantenimiento a dicho sistema de medición en presencia de representantes del COMPRADOR. El Comité Operativo, antes de que la Planta empiece a entregar energía al SIN, decidirá cuál será el medidor de energía principal y cuál será el medidor de energía de respaldo.
+
+2. Requisitos de los transformadores de medida Cada punto de medición deberá contar con tres (3) transformadores de corriente (TC) y tres (3) transformadores de tensión (TP), uno para cada fase, con núcleos y arrollamientos para uso exclusivo del sistema de medición comercial. Los TP serán de clase 0.3% o menor. Los TC debe ser de clase 0.15% o menor y del tipo de rango extendido (ERCT en inglés), con una relación de transformación de 800/5 o conforme lo confirme el Comité Operativo y un factor de servicio de 1.5 o mayor.
+
+3. Requisitos de los medidores de energía
+
+a) El punto de medición deberá contar con dos (2) medidores de energía independientes, de clase 0.2% o menor, uno principal y otro de respaldo. Ambos podrán estar conectados al mismo juego de transformadores de medida.
+
+b) Los medidores deberán ser de estado sólido, 3 fases 4 hilos (3 elementos o estatores) y ser aptos para tarifas múltiples. Deberán contar con emisores de pulsos para su transmisión a registradores independientes y disponer de facilidades para el registro interno, de las magnitudes requeridas. Los medidores de energía deben ser bidireccionales.
+
+c) Los medidores y registradores independientes, deberán poseer niveles de seguridad de acceso a los mismos, para su programación, ensayos y toma de lectura de los registros de energía almacenados en memoria. El VENDEDOR y el COMPRADOR establecerán un reglamento para la asignación de los diferentes niveles de seguridad y para la verificación o certificación de la precisión de los medidores y periodicidad de su verificación.
+
+d) Deberá suministrarse e instalarse un sistema GPS exclusivo para la sincronización de la hora de los medidores de energía, utilizándose el puerto IRIGB destinado para tal fin en los medidores de energía a instalarse.
+
+El bloqueo en el hardware sólo podrá ser removido previo al rompimiento de precintos y en presencia de los representantes del VENDEDOR y del COMPRADOR.
+
+4. Registro de datos Los pulsos generados por los medidores de energía podrán ser almacenados en los mismos aparatos o bien ser transmitidos a registradores independientes que recolecten la información de distintos medidores ubicados en el mismo emplazamiento. En ambos casos los pulsos deberán ser almacenados en canales independientes para cada magnitud a registrar, en períodos ajustables entre 5 y 60 minutos.
+
+Los registradores deberán contar con memoria masiva tipo circular no volátil que permita almacenar la información de los últimos sesenta (60) Días como mínimo, de la potencia activa (entrando y saliendo) y potencia reactiva (entrando y saliendo) y con registros cada cinco (5) minutos. Los medidores deberán tener batería incorporada para mantener los datos almacenados en memoria por lo menos durante siete (7) Días sin alimentación auxiliar.
+
+La diferencia entre los valores de energía a plena carga almacenados en un período y los leídos en el visor del medidor en el mismo lapso no deberá superar el uno por ciento (1.0%).
+
+Los errores máximos admisibles en la medición de tiempo serán:
+
+(a) Comienzo de cada período: ± 30 segundos de la hora oficial de la República de Honduras;
+
+(b) Duración de cada período: ± 0.03% de la duración real.
+
+Los medidores serán alimentados con las señales tomadas directamente de los transformadores de medida en el Punto de Medición.
+
+5. Comunicaciones Cada medidor o registrador deberá contar con un módem con un canal dedicado que permita efectuar la lectura remota de registros en cualquier momento desde el CND. Deberá tener además la posibilidad de comunicación con una computadora mediante conexión con cable y/o mediante lector óptico. Deberán ser habilitados al menos dos formas de comunicación remota con los medidores de energía.
+
+El protocolo de comunicaciones, el formato de la información y la programación deberán ser compatibles con los que disponga el COMPRADOR, para lo cual el COMPRADOR entregará las especificaciones del sistema de medición correspondiente a más tardar un Mes después de la Fecha de Vigencia del Contrato. En caso de no ser compatible, el VENDEDOR deberá proveer al COMPRADOR los equipos y la programación necesarios.
+
+6. Requisitos de instalación Los medidores correspondientes a cada Punto de Medición deberán instalarse en armarios o compartimentos independientes con puertas precintables que impidan el acceso a bornes y conexiones; si los armarios no son precintables, se deberán instalar en cada Punto de Medición, medidores con borneras con protección acrílica precintable y con borneras precintables en la toma de señales para los medidores de energía en los transformadores de tensión y de corriente.
+
+Los gabinetes deberán tener grado de protección mecánica no inferior a IP40, para instalación interior, o IP54 para instalación a la intemperie o en ambientes de elevada contaminación. En instalaciones a la intemperie deberán contar con resistores calefactores con control termostático. En todos los casos deberán incluir una chapa de acrílico con la identificación del Punto de Medición.
+
+La construcción de los gabinetes deberá permitir la lectura del visor del o los medidores y el libre acceso a su puerto óptico y una bornera de contraste sin rotura de precintos de puertas.
+
+Los conductores que transmitan las señales de medición deben ser continuos entre las borneras de los transformadores de medición y las del primer medidor y entre el primer medidor y segundo medidor. Las borneras citadas anteriormente deben ser precintables y sus sellos solo podrán retirarse en presencia de representantes del VENDEDOR y del COMPRADOR.
+
+La alimentación eléctrica auxiliar a los medidores deberá asegurarse mediante alguno de los siguientes métodos:
+
+(a) doble fuente de alimentación con un dispositivo de supervisión permanente y conmutación;
+
+(b) sistema de alimentación ininterrumpible (UPS).
+
+El Punto de Medición deberá contar con un relé supervisor de las tensiones de medición que origine una alarma cuando falte alguna de ellas. La alarma debe ser trasmitida por medios electrónicos al COMPRADOR y también fácilmente identificada en el sitio, a través de una señal luminosa.
+
+La carga de los transformadores de medida deberá estar comprendida entre 25% y 100% de su capacidad nominal. Si la impedancia de los medidores y cables no fuera suficiente deberán incorporarse resistores adecuados.
+
+La sección mínima de cables a utilizar deberá ser de 2.5 mm².
+
+Los cables correspondientes a los circuitos de tensión deberán seleccionarse de manera que la caída de tensión en ellos sea inferior a 0.2%.
+
+Tanto los circuitos de tensión como los resistores de compensación a instalar eventualmente en ellos deberán estar protegidos mediante fusibles.
+
+El punto neutro de los transformadores de medida, los blindajes de cables y toda parte metálica accesible de los gabinetes y equipos deberán ser vinculados rígidamente a tierra a manera de evitar tensiones peligrosas para el personal.
+
+7. Registro de transacciones Los medidores y registradores serán interrogados periódicamente en forma automática desde el CND, de acuerdo a las disposiciones del CND. Si esa operación no fuera posible por falta de los equipos necesarios, fallas en el vínculo de comunicaciones o en el medidor, el CND podrá disponer la lectura en el sitio mediante cualquier otro medio, con cargo al VENDEDOR.
+
+Para el registro de transacciones se usará prioritariamente los datos almacenados en el medidor principal de cada Punto de Medición.
+
+Si se observara alguna anomalía en esa lectura se usarán los datos registrados por el medidor de respaldo. Las anomalías a que se hace referencia pueden ser, entre otras:
+
+(a) datos erróneos,
+
+(b) falta de datos,
+
+(c) falta de sincronismo,
+
+(d) diferencias superiores a 1,0% (medidores clase 0.2S) o 2,5% (medidores clase 0.5S) entre los registros de ambos medidores en uno o más períodos o en todo el Mes.
+
+Si no fuera posible distinguir cual de los dos medidores arroja resultados anómalos o si ambos lo hicieran, los datos a utilizar para las transacciones deberán ser acordados mediante acta entre el VENDEDOR, el COMPRADOR y CND.
+
+8. Habilitación Una vez terminada la instalación del sistema de medición comercial correspondiente al Punto de Medición, el VENDEDOR deberá presentar al CND la siguiente documentación del Punto de Medición, cumpliendo con las especificaciones de “software” y de formato que oportunamente indicará el VENDEDOR o el CND:
+
+(a) esquemas unifilares y trifilares conformes a obra,
+
+(b) protocolos de ensayos de rutina en fábrica de cada transformador de medida y de cada medidor,
+
+(c) cálculo de caída de tensión en los circuitos secundarios de tensión,
+
+(d) cálculo de cargas en los circuitos secundarios de tensión y de corriente,
+
+(e) cálculo de la corriente primaria prevista para los transformadores de medida,
+
+(f) esquema de medición de emergencia para usar en casos de indisponibilidad de los medidores principal y de respaldo y/o de sus transformadores de corriente; y,
+
+(g) copia de los datos que se incorporaron en la programación del o los medidores (si fuera de aplicación).
+
+El COMPRADOR verificará la documentación mencionada y efectuará una inspección “in situ” con la presencia de representantes del VENDEDOR. El COMPRADOR controlará el cumplimiento de las presentes normas y de las prácticas prudentes y realizará las siguientes operaciones:
+
+(a) verificación de la programación y ensayo de los medidores según norma IEC 687,
+
+(b) medición de carga en el circuito secundario de los transformadores de corriente y de caída de tensión, y
+
+(c) aplicación de precintos.
+
+El costo de estas verificaciones será pagado por el VENDEDOR.
+
+9. Ensayos periódicos El VENDEDOR deberá hacer ensayar, a su cargo, los sistemas de medición, en el Punto de Entrega con la siguiente periodicidad:
+
+(a) transformadores de corriente: cada diez (10) Años,
+
+(b) medidores: Cada dos (2) Años.
+
+Los ensayos deberán ser efectuados por un laboratorio independiente calificado por las Partes, debiendo el VENDEDOR presentar los correspondientes protocolos al COMPRADOR y al CND.
+
+10. Ensayos no periódicos El CND o el VENDEDOR o el COMPRADOR podrán solicitar por escrito y en cualquier momento la verificación de la medición en el Punto de Entrega, con respecto a un medidor patrón, adjuntando un análisis detallado de las desviaciones observadas.
+
+La verificación deberá ser efectuada con equipo adecuado o por un laboratorio independiente autorizado por el CND. Los servicios del laboratorio serán pagados por el VENDEDOR si existe descalibración, de lo contrario el pago estará a cargo de la Parte que lo haya solicitado.
+
+11. Reposición de precintos Toda intervención sobre las instalaciones del sistema de medición comercial deberá ser efectuada en presencia de los representantes del COMPRADOR y del VENDEDOR, excepto en condiciones de Emergencia donde el VENDEDOR podrá intervenir el sistema de medición notificando inmediatamente al CND.
+
+Cada intervención dará origen a un acta que será firmada por los presentes.
+
+Los precintos que hayan sido retirados deberán ser repuestos en presencia de los representantes del VENDEDOR y del COMPRADOR.
+
+ANEXO VIII
+
+ACUERDO DE APOYO ACUERDO DE APOYO Y AVAL SOLIDARIO DEL ESTADO DE HONDURAS PARA EL CUMPLIMIENTO DEL CONTRATO DE SUMINISTRO, ENTRE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA Y ENERGÍA RENOVABLE DE OLANCHO S.A. DE C.V. CONTRATO 261-2014 El presente Acuerdo de Apoyo para el cumplimiento del Contrato de Suministro 261-2014 “el Acuerdo de Apoyo” y el Aval Solidario del Estado de Honduras “el Aval Solidario”, ambos en conjunto “el Acuerdo”, se celebra entre la Procuraduría General de la República, representada en este acto por el abogado ABRAHAM ALVARENGA URBINA, en su condición de Procurador General de la República de Honduras, como ente que ostenta la representación legal del Estado de Honduras, según el Artículo 228 de la Constitución de la República y con facultad expresa para la suscripción de este tipo de acuerdos, tal como lo establece el Artículo 4 del Decreto Legislativo 70-2007 y siguiendo el procedimiento como está establecido en el Artículo 78 del Decreto 83-2004, que contiene la Ley Orgánica del Presupuesto y la Secretaría en el Despacho de Finanzas, representada en este acto por el licenciado WILFREDO CERRATO, en su condición de Secretario de Estado en el Despacho de Finanzas, con facultad expresa para la suscripción del Aval Solidario aquí otorgado, ambas en conjunto “el Estado de Honduras” o simplemente “el Estado”, por una parte y por otra, la sociedad mercantil Energía Renovable de Olancho, S.A. de C.V., en adelante “el Generador”, representada en este acto por José María Méndez Arguelles, mayor de edad, casado, Doctor en Química y Farmacia, hondureño, con documento de identificación 0101-1959-01002, con domicilio en colonia Los Robles, Tegucigalpa, M.D.C., actuando en carácter de Gerente General y con facultades suficientes para la firma del Acuerdo de Apoyo, de conformidad al poder general de administración otorgado a su nombre, contenido en el Instrumento 137, inscrita bajo Matrícula 2527416, No. 14827 del Registro Mercantil, Francisco Morazán, el 30 de Agosto del 2012.
+
+Antecedentes.
+
+PRIMERO: El Generador manifiesta que se propone construir, operar y mantener un proyecto de generación eléctrica “el Proyecto”, con el objeto de producir energía eléctrica a partir del recurso energético renovable, la cual será suministrada a la Empresa Nacional de Energía Eléctrica “la ENEE”, una institución pública descentralizada del Estado de Honduras.
+
+SEGUNDO; Sigue manifestando el Generador, que ha celebrado con la ENEE un Contrato de Suministro de Potencia y la Energía Asociada “el PPA” por sus siglas en inglés “Power Purchase Agreement”, el cual ha sido aprobado por la Junta Directiva de la ENEE mediante Resolución Punto 04, Inciso 4.1 Numeral 40 de sesión fecha 6/26/2014.
+
+TERCERO: Por su parte la Procuraduría General de la República manifiesta que como condición para que el Generador se comprometa en el PPA, ha requerido que el Estado brinde seguridad al cumplimiento de las obligaciones de la ENEE y/o sus Sucesores bajo el PPA, entendiendo como “Sucesores” cualquier persona natural o jurídica en la que la ENEE se transforme o a quien le venda, ceda o concesione la totalidad o parte de sus activos en virtud de un proceso de privatización o de cualquier otro mecanismo que implique que los derechos contractuales de la ENEE puedan ser ejercidos por otra persona.
+
+CUARTO: En tal sentido, el Generador y el Estado desean establecer y dejan formalizados por escrito sus respectivos derechos y obligaciones respecto a las transacciones que se contemplan en el Acuerdo de Apoyo.
+
+POR TANTO: El Estado y el Generador, por este medio formalizan los siguientes compromisos:
+
+1. DECLARACIONES.
+
+El ESTADO por este medio declara:
+
+1.1 Poder y Facultades.
+
+Que el Estado y sus representantes en este Acuerdo poseen poder y facultades completas y el derecho legal para asumir las obligaciones aquí estipuladas y para otorgar, cumplir y observar los términos y disposiciones del mismo.
+
+1.2 Fuerza Legal.
+
+Que este Acuerdo constituye una obligación legal válida, obligatoria y ejecutable del Estado de conformidad con sus términos, señalándose para ese efecto como Juzgado competente para conocer cualquier proceso judicial, al Juzgado de Letras Civil de Francisco Morazán.
+
+1.3 Aprobaciones.
+
+Que todas las acciones necesarias han sido tomadas y todas las aprobaciones requeridas han sido obtenidas de conformidad con las leyes de Honduras, para autorizar el otorgamiento y cumplimiento de este Acuerdo.
+
+1.4 Total Fe y Credibilidad.
+
+Que todas las obligaciones y compromisos del Estado contenidas en este documento constituyen obligaciones en calidad del Aval Solidario del Estado.
+
+2. RENUNCIA Y RECURSOS ACUMULATIVOS
+
+2.1. Incumplimiento y/o Renuncia.
+
+Ningún incumplimiento de alguna de las Partes o ningún retraso de alguna de las Partes en ejercitar algún derecho o recurso reconocido por las Partes, de conformidad con el Acuerdo, se considerará como una renuncia del mismo.
+
+Toda renuncia de este tipo de cualquiera de las Partes, será efectiva siempre que esté consignada por escrito.
+
+2.2. Los derechos.
+
+Los derechos y recursos de las Partes estipuladas en el Acuerdo son acumulativos y no excluyentes de otros derechos o recursos dispuestos por las Leyes de Honduras.
+
+3. DISPOSICIONES GENERALES
+
+3.1.
+
+Ley Aplicable.
+
+El Acuerdo se otorga de conformidad con y será interpretado según, las leyes de la República de Honduras.
+
+3.2. Avisos y Notificaciones.
+
+Cualquier aviso, solicitud, consentimiento, aprobación, confirmación, comunicación o declaración que sea requerido o permitido de conformidad con el Acuerdo, se hará por escrito, salvo lo dispuesto en contrario y será dado o entregado mediante notificación personal, telecopia, telegrama, servicio expreso de encomienda o algún otro servicio de entrega similar o mediante un depósito en la oficina de correos señalada del Estado, porte prepagado por correo registrado o certificado, dirigido a la Parte a la dirección que se indica a continuación. Los cambios en dichas direcciones serán realizados mediante aviso efectuado en forma similar.
+
+Si se dirige a la ENEE:
+
+Empresa Nacional de Energía Eléctrica Tegucigalpa, M.D.C., Honduras Atención: Señor Gerente General de la Empresa Nacional de Energía Eléctrica (ENEE) Teléfono:
+
+(504) 2235 2000 Fax:
+
+(504) 2235 2294 Email: eneeger@enee.hn Si se dirige al Estado, en lo que corresponde a la Secretaría de Estado en el Despacho de Finanzas:
+
+Secretaría de Estado en el Despacho de Finanzas Tegucigalpa, M.D.C., Honduras Atención: Señor(a) Secretario(a) de Estado en el Despacho de Finanzas Teléfono:
+
+(504) 2222 1278 o (504) 2222 8701 Fax:
+
+(504) 2238 2309 Email: aguzman@sefin.gob.hn Si se dirige al Estado, en lo que corresponde a la Procuraduría General de la República de Honduras:
+
+Procuraduría General de la República de Honduras Tegucigalpa, M.D.C., Honduras Atención: Señor(a) Procurador(a) General de la República Teléfono:
+
+(504) 2235 7742 Fax;
+
+(504) 2239 6182 Email: pgrhonduras@pgr.gob.hn Si se dirige al Generador Energía Renovable de Olancho, S.A. de C.V.
+
+Centro Comercial Prisa, Local No. 8 Tegucigalpa, M.D.C., Francisco Morazán, Honduras Atención:
+
+Gerente General Teléfono:
+
+(504) 2236-5405 Fax:
+
+Email: grupo.cji.hn@gmail.com Se considerará que los avisos han sido recibidos y tendrán vigencia a partir del momento de su recibo en los lugares antes señalados o en aquellos cuyo cambio se haya notificado debidamente.
+
+Los avisos sobre cambios de dirección de cualquiera de las Partes se efectuarán por escrito dentro de los diez (10) días hábiles administrativos de la fecha efectiva de tal cambio.
+
+3.3. Enmiendas.
+
+Ninguna enmienda o modificación a los términos del Acuerdo obligará o comprometerá al Estado o al Generador, a menos que tal enmienda se presente por escrito y sea firmada por todas las Partes.
+
+3.4. Copias.
+
+El Acuerdo podrá ser otorgado simultáneamente en seis (6) copias, cada una de las cuales será considerada como un original, pero todos en conjunto constituirán un solo Acuerdo.
+
+3.5. Integración.
+
+Este Acuerdo representa el entendimiento total entre las Partes en relación con el asunto objeto del mismo sobre todos y cualesquiera convenio, arreglo o discusiones anteriores entre las Partes (ya sean escrito o verbales) en relación con el asunto objeto del mismo.
+
+4. Aval Solidario del Estado
+
+4.1. Cumplimiento de obligaciones.- La Procuraduría General de la República, en apoyo al cumplimiento del Contrato de Suministro suscrito entre la ENEE y el Generador, declara que las obligaciones relacionadas a continuación en relación con el “Aval Solidario del Estado” otorgado por el Estado de Honduras a la ENEE, son válidas y demandables en la República de Honduras, por haber sido suscrito por el funcionario competente y facultado de conformidad con la Ley, habiendo cumplido los requisitos que al efecto exige la misma.
+
+4.2. La Secretaría de Estado en el Despacho de Finanzas, en representación del Estado de Honduras y en consideración al PPA suscrito entre el Generador y la ENEE por este medio y para proveer certeza en cuanto al cumplimiento de las obligaciones a cargo de la ENEE y/o sus Sucesores, de manera irrevocable e incondicional se constituye en AVAL SOLIDARIO de la ENEE y se compromete a la debida y puntual observancia y cumplimiento de las obligaciones de pago a cargo de la ENEE contenidas y derivadas del PPA y/o de su incumplimiento. La obligación de pago del Estado según el presente documento será solidaria con respecto a las obligaciones a cargo de la ENEE y/o sus Sucesores, las que se originarán y podrán exigirse con la sola falta de pago de las mismas por parte de la ENEE al Generador en las fechas en que corresponde según el PPA o según se establezcan por un Tribunal competente.
+
+4.3. El Estado además garantiza incondicionalmente el cumplimiento del PPA en cualquier caso en el que la ENEE y/o sus Sucesores se declare o sea declarado en disolución, liquidación, quiebra o suspensión de pagos o que la misma sea objeto de una reorganización en un proceso de insolvencia, disolución, liquidación, quiebra o suspensión de pagos, en apego a cualquier disposición de autoridad o legal vigente o que entre en vigor durante la vigencia de dicho PPA.
+
+4.4. Aviso y requerimiento de Pago. Al vencimiento de los plazos otorgados para el pago de conformidad con el PPA y no habiendo pagado la ENEE y/o sus Sucesores, el Generador podrá requerir de pago al Estado mediante notificación escrita suscrita por el representante legal competente, con el propósito de hacer cumplir este Acuerdo. El Estado, en cumplimiento y sujeto a los términos y condiciones de este Acuerdo, efectuará el pago total adeudado al Generador a más tardar el décimo (10°) día hábil administrativo después que le hubiera sido notificado tal requerimiento de pago.
+
+Este plazo podrá ser ampliado por acuerdo escrito de las Partes.
+
+4.5. De igual forma, el Estado se obliga, en caso de verificarse un proceso de venta, privatización, concesionamiento o cualquier otro tipo de proceso que implique la transmisión del dominio de la propiedad, las acciones, bienes, participación, control, operación o cualquier otra modalidad mediante la cual la ENEE deje de ser susceptible de este Aval Solidario, al tenor de lo dispuesto en el Artículo 78 de la Ley Orgánica del Presupuesto, a exigir a quien asuma las obligaciones de la ENEE contenidas en el PPA el otorgamiento de una garantía aceptable al VENDEDOR que sustituya al Aval Solidario otorgado por el Estado para asegurar el pago de las obligaciones contenidas en el PPA a favor del Generador. En este caso, el Aval Solidario otorgado por el Estado estará vigente hasta que se sustituya por una garantía aceptable para el VENDEDOR.
+
+5. Ratificación.
+
+El Generador y el Estado ratifican todas y cada uno de las cláusulas precedentes el __ de ______ de 2014 y se obligan a su fiel cumplimiento.
+
+En fe de todo lo cual, las Partes han dispuesto que las firmas de sus funcionarios sean suscritas y estampadas respectivamente en este Acuerdo, en seis ejemplares de idéntico texto y valor que constituyen un solo ACUERDO, que forma parte integral del Contrato del cual se extiende una copia a cada Parte compareciente en el presente Acuerdo, en el día y año consignados al inicio del mismo.
+
+Por el ESTADO, ABRAHAM ALVARENGA URBINA
+
+PROCURADOR GENERAL DE LA REPÚBLICA WILFREDO CERRATO AVAL SOLIDARIO A ENEE SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS Por el Generador, JOSÉ MARÍA MÉNDEZ ARGUELLES REPRESENTANTE LEGAL ANEXO IX MODELO DEL CERTIFICADO DE LA FECHA DE INICIO DE OPERACIÓN COMERCIAL Contrato Nº.
+
+Fecha (d/m/a) [Nombre del Contrato] A:
+
+EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (ENEE)
+
+Residencial El Trapiche, 4to. piso, Edificio Corporativo Tegucigalpa, M.D.C., Honduras, C.A.
+
+De nuestra consideración:
+
+De conformidad con lo establecido en la Cláusula 4.2 Puesta en Operación Comercial, se hace constar que la sociedad [Nombre del Contratista], satisface en forma permanente los siguientes aspectos:
+
+a) Se han terminado satisfactoriamente las pruebas iniciales de la Planta y los sistemas comunes que requiere para su operación confiable.
+
+b) Los equipos de medición comercial han sido instalados y verificado su correcto funcionamiento y se han instalado los precintos de seguridad por parte del COMPRADOR y el VENDEDOR.
+
+c) Se ha tenido a la vista la Licencia Ambiental y el Contrato de Operación.
+
+Por y en nombre del COMPRADOR [Firma] en calidad de [Cargo] Sello del CND
+
+Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, en el Salón de Sesiones del Congreso Nacional, a los doce días del mes de diciembre de dos mil dieciséis.
+
+ANTONIO CÉSAR RIVERA CALLEJAS PRESIDENTE MARIO ALONSO PÉREZ LÓPEZ SECRETARIO JOSÉ TOMÁS ZAMBRANO MOLINA SECRETARIO Al Poder Ejecutivo.
+
+Por Tanto: Ejecútese.
+
+Tegucigalpa, M.D.C., 27 de diciembre de 2016.
+
+JUAN ORLANDO HERNÁNDEZ ALVARADO PRESIDENTE DE LA REPÚBLICA JOSÉ ANTONIO GALDAMES SECRETARIO DE ESTADO EN LOS DESPACHOS DE ENERGÍA, RECURSOS NATURALES, AMBIENTE Y MINAS
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 34285 del 2017-03-09, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20170309-34285/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

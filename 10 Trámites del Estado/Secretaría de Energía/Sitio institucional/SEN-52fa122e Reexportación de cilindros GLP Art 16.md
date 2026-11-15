@@ -104,9 +104,9 @@ Artículo No. 16
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2018). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2016). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
-- Acuerdo 100-2017 → anterior a 2018: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 100-2017 → posible: [[Acuerdo 100-2017 (Gaceta 34556)]] (SECRETARÍA DE DERECHOS HUMANOS, JUSTICIA, GOBERNACIÓN Y DESCENTRALIZACIÓN)
 - Acuerdo Ministerial SEN-001-2020 → [[Acuerdo SEN-001-2020 (Gaceta 35161)]] (La Gaceta del 2020-01-29; emisor: Secretaría de Energía)
 - Acuerdo Ministerial SEN-119-2022 → [[Acuerdo SEN-119-2022 (Gaceta 36015)]] (La Gaceta del 2022-08-30; emisor: Secretaría de Estado en el Despacho de Energía)
 - Acuerdo Ministerial SEN-060-2025 → [[Acuerdo SEN-060-2025 (Gaceta 36927)]] (La Gaceta del 2025-08-27; emisor: Secretaría de Estado en el Despacho de Energía)
