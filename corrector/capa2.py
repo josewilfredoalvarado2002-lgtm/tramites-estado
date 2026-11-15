@@ -178,7 +178,18 @@ def revisor_languagetool():
     import language_tool_python
     lt = language_tool_python.LanguageTool("es", config={"maxTextLength": 200000})
 
-    def revisar(texto):
+    def revisar(texto, tope=50000):
+        # LanguageTool no acepta textos muy largos: se revisa por pedazos de renglones completos
+        if len(texto) > tope:
+            salida, ini = [], 0
+            while ini < len(texto):
+                fin = texto.rfind("\n", ini, ini + tope)
+                fin = len(texto) if ini + tope >= len(texto) else (fin + 1 if fin > ini else ini + tope)
+                for m in revisar(texto[ini:fin], tope):
+                    m["offset"] += ini
+                    salida.append(m)
+                ini = fin
+            return salida
         return [{"offset": m.offset, "length": m.error_length if hasattr(m, "error_length") else m.errorLength,
                  "regla": m.rule_id if hasattr(m, "rule_id") else m.ruleId,
                  "categoria": m.category, "mensaje": m.message, "sugerencias": list(m.replacements)}
