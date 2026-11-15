@@ -67,10 +67,10 @@ Nota: En caso de ser solicitado por un representante procesal o apoderado legal,
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2019). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2018). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
-- Acuerdo DEI-SG-276-2015 → anterior a 2019: no está en la colección de La Gaceta de la bóveda
-- Acuerdo SAR-343-2019 → no aparece en la colección de La Gaceta de la bóveda
+- Acuerdo DEI-SG-276-2015 → anterior a 2018: no está en la colección de La Gaceta de la bóveda
+- Acuerdo SAR-343-2019 → [[Acuerdo SAR-343-2019 (Gaceta 35014)]] (La Gaceta del 2019-08-05; emisor: Servicio de Administración de Rentas)
 <!-- normas:fin -->
 <!-- portal:fin -->
 

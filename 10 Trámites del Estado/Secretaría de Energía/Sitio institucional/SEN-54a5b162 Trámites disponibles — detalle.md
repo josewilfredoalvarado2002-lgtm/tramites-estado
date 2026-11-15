@@ -133,14 +133,14 @@ Artículo 1.- REQUISITOS: Los peticionarios que soliciten su inscripción en el 
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2019). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2018). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
-- Acuerdo Ministerial 23-2019 → posible: [[Acuerdo 023-2019 (Gaceta 35193)]] (Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre)
-- Acuerdo 04-2017 → anterior a 2019: no está en la colección de La Gaceta de la bóveda
-- Acuerdo 71-2019 → posible: [[Acuerdo 071-2019 (Gaceta 35186)]] (Agencia de Regulación Sanitaria)
-- Acuerdo 099-2019 → posible: [[Acuerdo 99-2019 (Gaceta 35075)]] (Secretaría de Gobernación, Justicia y Descentralización)
-- Decreto Ejecutivo 009-2019 → no aparece en la colección de La Gaceta de la bóveda
-- Decreto PCM-048-2017 → anterior a 2019: no está en la colección de La Gaceta de la bóveda
+- Acuerdo Ministerial 23-2019 → [[Acuerdo 23-2019 (Gaceta 35050)]] (La Gaceta del 2019-09-16; emisor: Secretaría de Estado en el Despacho de Energía)
+- Acuerdo 04-2017 → posible: [[Acuerdo 04-2017 (Gaceta 35050)]] (Presidencia)
+- Acuerdo 71-2019 → posible: [[Acuerdo 071-2019 (Gaceta 35186)]] (Agencia de Regulación Sanitaria); [[Acuerdo 71-2019 (Gaceta 35050)]] (Secretaría de Gobernación, Justicia y Descentralización)
+- Acuerdo 099-2019 → posible: [[Acuerdo 099-2019 (Gaceta 34979)]] (DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAF); [[Acuerdo 99-2019 (Gaceta 34991)]] (Secretaría de Gobernación, Justicia y Descentralización); [[Acuerdo 99-2019 (Gaceta 35075)]] (Secretaría de Gobernación, Justicia y Descentralización); [[Acuerdo 099-2019 (Gaceta 35050)]] (Secretaría de Derechos Humanos)
+- Decreto Ejecutivo 009-2019 → posible: [[Decreto 009-2019 (Gaceta 35050)]] (Presidencia de la República)
+- Decreto PCM-048-2017 → anterior a 2018: no está en la colección de La Gaceta de la bóveda
 <!-- normas:fin -->
 <!-- portal:fin -->
 

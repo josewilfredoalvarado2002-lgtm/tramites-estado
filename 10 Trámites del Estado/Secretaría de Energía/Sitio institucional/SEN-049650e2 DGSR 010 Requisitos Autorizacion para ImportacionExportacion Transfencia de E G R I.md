@@ -285,9 +285,9 @@ Dirección General de Seguridad Radiológica (DGSR)
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2019). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2018). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
-- Acuerdo Ministerial 002-2019 → posible: [[Acuerdo 002-2019 (Gaceta 35194)]] (PODER LEGISLATIVO)
+- Acuerdo Ministerial 002-2019 → [[Acuerdo 002-2019 (Gaceta 34918)]] (La Gaceta del 2019-04-10; emisor: Secretaría de Estado en el Despacho de Energía)
 <!-- normas:fin -->
 <!-- portal:fin -->
 

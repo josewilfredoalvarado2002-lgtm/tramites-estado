@@ -1,0 +1,66 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "238-2018"
+titulo: "ACUERDO No. 238-2018"
+emisor: "Secretaría de Gobernación Justicia y Descentralización"
+gaceta_numero: 34857
+gaceta_fecha: "2019-01-29"
+gaceta: "[[11 Normativa/La Gaceta/2019/La Gaceta 34857 (2019-01-29)|La Gaceta 34857]]"
+paginas: "A. 5 - 6"
+sumario: "Acuerdos Nos. 235-2018, 237-2018, 238- 2018, 239-2018"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20190129-34857/download"
+extraido: "2026-11-15"
+huella: "6c90c13853b1342e"
+---
+<!-- portal:inicio -->
+# ACUERDO No. 238-2018
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 238-2018 |
+| Emisor | Secretaría de Gobernación Justicia y Descentralización |
+| Publicado en | [[11 Normativa/La Gaceta/2019/La Gaceta 34857 (2019-01-29)\|La Gaceta 34857]] del 2019-01-29 |
+| Páginas | A. 5 - 6 |
+| Según el sumario de La Gaceta | Acuerdos Nos. 235-2018, 237-2018, 238- 2018, 239-2018 |
+
+## Texto
+
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+
+ACUERDA:
+
+PRIMERO: Cancelar al ciudadano SELVIN ARMANDO PACHECO CANTILLANO, del cargo de Subdirector Ejecutivo de Desarrollo Forestal del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, a quién se le rinden las gracias por los servicios prestados.
+
+SEGUNDO: El presente Acuerdo es efectivo a partir de su fecha y debe publicarse en “La Gaceta” el Diario Oficial de la República.
+
+COMUNÍQUESE Y PUBLÍQUESE.
+
+Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los veintiséis (26) días del mes de diciembre del año dos mil dieciocho (2018).
+
+RICARDO LEONEL CARDONA LÓPEZ SECRETARIO PRIVADO Y JEFE DEL GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO RICARDO ALFREDO MONTES NÁJERA SUBSECRETARIO DE ESTADO EN EL DESPACHO DE JUSTICIA _________ Secretaría de Gobernación, Justicia y Descentralización ACUERDOS No. 239-2018 EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+
+ACUERDA:
+
+PRIMERO: Nombrar al ciudadano FRANCISCO JAVIER ESCALANTE AYALA, Subdirector Ejecutivo de Desarrollo Forestal del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre.
+
+SEGUNDO: El nombrado tomará posesión de su cargo inmediatamente después que preste la promesa de ley y el juramento que establece el Segundo párrafo del artículo 33 del Código de Conducta Ética del Servidor Público y presente su Declaración Jurada de Bienes ante el Tribunal Superior de Cuentas.
+
+La permanencia en el cargo está sujeta a evaluación por resultados en los términos establecidos por la Presidencia de la República.
+
+TERCERO: El presente acuerdo es efectivo a partir de su fecha y debe publicarse en "La Gaceta" el Diario Oficial de la República.
+
+COMUNÍQUESE Y PUBLÍQUESE.
+
+Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los veintiséis (26) días del mes de diciembre del año dos mil dieciocho (2018).
+
+RICARDO LEONEL CARDONA LÓPEZ SECRETARIO PRIVADO Y JEFE DEL GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO RICARDO ALFREDO MONTES NÁJERA SUBSECRETARIO DE ESTADO EN EL DESPACHO DE JUSTICIA Dirección de Niñez, Adolescencia y Familia DINAF
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 34857 del 2019-01-29, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20190129-34857/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

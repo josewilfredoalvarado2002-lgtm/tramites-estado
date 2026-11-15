@@ -15,5 +15,6 @@ Normas publicadas en la Sección A de La Gaceta, por año.
 - [[11 Normativa/La Gaceta/La Gaceta 2022|La Gaceta 2022]] (280 ediciones cargadas)
 - [[11 Normativa/La Gaceta/La Gaceta 2021|La Gaceta 2021]] (328 ediciones cargadas)
 - [[11 Normativa/La Gaceta/La Gaceta 2020|La Gaceta 2020]] (276 ediciones cargadas)
-- [[11 Normativa/La Gaceta/La Gaceta 2019|La Gaceta 2019]] (1 ediciones cargadas)
+- [[11 Normativa/La Gaceta/La Gaceta 2019|La Gaceta 2019]] (303 ediciones cargadas)
+- [[11 Normativa/La Gaceta/La Gaceta 2018|La Gaceta 2018]] (198 ediciones cargadas)
 <!-- portal:fin -->
