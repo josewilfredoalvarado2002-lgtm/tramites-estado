@@ -73,7 +73,7 @@ Contratos de trabajo o carta de aceptación para realizar estudios en el extranj
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2016). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2014). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
 - Acuerdo 481-2017 → posible: [[Acuerdo 481-2017 (Gaceta 34413)]] (SECRETARÍA DE FINANZAS)
 <!-- normas:fin -->

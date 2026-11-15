@@ -1,0 +1,50 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "1886-G-2014"
+titulo: "ACUERDO No. 1886-G-2014"
+emisor: "SECRETARÍA DE DERECHOS HUMANOS, JUSTICIA, GOBERNACIÓN Y DESCENTRALIZACIÓN"
+gaceta_numero: 33714
+gaceta_fecha: "2015-04-25"
+gaceta: "[[11 Normativa/La Gaceta/2015/La Gaceta 33714 (2015-04-25)|La Gaceta 33714]]"
+paginas: "A. 2"
+sumario: "Acuerdos Nos.: 1886-E-2014, 1886-F-2014,1886-G-2014, 1886-H-2014, 1960-2014, 1953-A-2014, 1986-A-2014, 1986-B-2014, 1967-2014, 1974-2014, 1975-2014, 1976-2014 y 1977-2014, 1955-2014 y 2110-2014."
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20150425-33714/download"
+extraido: "2026-11-15"
+huella: "7831b8c484dc9080"
+---
+<!-- portal:inicio -->
+# ACUERDO No. 1886-G-2014
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 1886-G-2014 |
+| Emisor | SECRETARÍA DE DERECHOS HUMANOS, JUSTICIA, GOBERNACIÓN Y DESCENTRALIZACIÓN |
+| Publicado en | [[11 Normativa/La Gaceta/2015/La Gaceta 33714 (2015-04-25)\|La Gaceta 33714]] del 2015-04-25 |
+| Páginas | A. 2 |
+| Según el sumario de La Gaceta | Acuerdos Nos.: 1886-E-2014, 1886-F-2014,1886-G-2014, 1886-H-2014, 1960-2014, 1953-A-2014, 1986-A-2014, 1986-B-2014, 1967-2014, 1974-2014, 1975-2014, 1976-2014 y 1977-2014, 1955-2014 y 2110-2014. |
+
+## Texto
+
+Tegucigalpa, M.D.C., 29 de agosto del 2014 EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE DERECHOS HUMANOS, JUSTICIA, GOBERNACIÓN Y DESCENTRALIZACIÓN Y EN USO DE LAS FACULTADES DE QUE ESTÁ INVESTIDO Y EN APLICACIÓN DEL DECRETO No. 360-2013 Y
+
+ACUERDO EJECUTIVO No. 003-A-2014
+
+ACUERDA:
+
+PRIMERO: NOMBRAR a la ciudadana WENDY SUYAPA HERNÁNDEZ SANDRES, en el cargo de CONDUCTOR DE AUTOMÓVILES I, Área 04, Sección 04, Clave de Puesto 00181, Grupo 01, Nivel II, Clase 8950, Programa 2-08, Empresa Nacional de Artes Gráficas (ENAG), Ramo 4-02.
+
+SEGUNDO: El presente Acuerdo será efectivo a partir del 01 de septiembre del 2014 y deberá publicarse en el Diario Oficial “LA GACETA”.
+
+COMUNÍQUESE:
+
+RIGOBERTO CHANG CASTILLO SECRETARIO DE ESTADO RICARDO ALFREDO MONTES NÁJERA SECRETARIO GENERAL Secretaría de Derechos Humanos, Justicia, Gobernación y Descentralización
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 33714 del 2015-04-25, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20150425-33714/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

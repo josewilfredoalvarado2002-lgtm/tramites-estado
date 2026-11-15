@@ -1,0 +1,52 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "16-2015"
+titulo: "ACUERDO No. 16-2015"
+emisor: "SECRETARÍA DE DERECHOS HUMANOS, JUSTICIA, GOBERNACIÓN Y DESCENTRALIZACIÓN"
+gaceta_numero: 33760
+gaceta_fecha: "2015-06-19"
+gaceta: "[[11 Normativa/La Gaceta/2015/La Gaceta 33760 (2015-06-19)|La Gaceta 33760]]"
+paginas: "A. 14 - 15"
+sumario: "Acuerdos Nos.: 16-2015, 17-2015, 18-2015, 19-2015 y 20-2015"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20150619-33760/download"
+extraido: "2026-11-15"
+huella: "62fbbef68339fdf9"
+---
+<!-- portal:inicio -->
+# ACUERDO No. 16-2015
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 16-2015 |
+| Emisor | SECRETARÍA DE DERECHOS HUMANOS, JUSTICIA, GOBERNACIÓN Y DESCENTRALIZACIÓN |
+| Publicado en | [[11 Normativa/La Gaceta/2015/La Gaceta 33760 (2015-06-19)\|La Gaceta 33760]] del 2015-06-19 |
+| Páginas | A. 14 - 15 |
+| Según el sumario de La Gaceta | Acuerdos Nos.: 16-2015, 17-2015, 18-2015, 19-2015 y 20-2015 |
+
+## Texto
+
+EL SECRETARIO DE ESTADO EN EL DESPACHO DE LA SECRETARÍA DE LA PRESIDENCIA, En uso de sus facultades de que fue investido por el Presidente de la República, mediante Acuerdo Ejecutivo 001-A-2014 de fecha 31 de enero del año 2014, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República;
+
+11, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Artículo 14 de la Ley del Sistema Penitenciario Nacional.
+
+ACUERDA:
+
+PRIMERO: Cancelar por renuncia al ciudadano FRANCISCO GÁLVEZ GRANADOS, del cargo de Director General del Instituto Nacional Penitenciario, a quien se le rinden las gracias por los servicios prestados.
+
+SEGUNDO: El presente Acuerdo Ejecutivo es efectivo a partir de su fecha y debe publicarse en el Diario Oficial “La Gaceta”.
+
+COMUNÍQUESE Y PUBLÍQUESE.
+
+Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los treinta (30) días del mes de abril del año dos mil quince (2015).
+
+REINALDO ANTONIO SÁNCHEZ RIVERA SECRETARIO DE ESTADO EN EL DESPACHO DE LA SECRETARÍA DE LA PRESIDENCIA RIGOBERTO CHANG CASTILLO SECRETARIO DE ESTADO EN LOS DESPACHOS DE DERECHOS HUMANOS, JUSTICIA, GOBERNACIÓN Y DESCENTRALIZACIÓN Secretaría de Derechos Humanos, Justicia, Gobernación y Descentralización
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 33760 del 2015-06-19, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20150619-33760/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

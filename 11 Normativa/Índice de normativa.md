@@ -18,5 +18,7 @@ Normas publicadas en la Sección A de La Gaceta, por año.
 - [[11 Normativa/La Gaceta/La Gaceta 2019|La Gaceta 2019]] (303 ediciones cargadas)
 - [[11 Normativa/La Gaceta/La Gaceta 2018|La Gaceta 2018]] (296 ediciones cargadas)
 - [[11 Normativa/La Gaceta/La Gaceta 2017|La Gaceta 2017]] (295 ediciones cargadas)
-- [[11 Normativa/La Gaceta/La Gaceta 2016|La Gaceta 2016]] (206 ediciones cargadas)
+- [[11 Normativa/La Gaceta/La Gaceta 2016|La Gaceta 2016]] (301 ediciones cargadas)
+- [[11 Normativa/La Gaceta/La Gaceta 2015|La Gaceta 2015]] (284 ediciones cargadas)
+- [[11 Normativa/La Gaceta/La Gaceta 2014|La Gaceta 2014]] (221 ediciones cargadas)
 <!-- portal:fin -->
