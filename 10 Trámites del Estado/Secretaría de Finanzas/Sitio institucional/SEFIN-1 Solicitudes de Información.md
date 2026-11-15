@@ -106,7 +106,7 @@ file:///D|/nuevoSitio/Produccion/procedimientos/Procedimiento1.txt[27/02/2019 04
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2014). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2011). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
 - Acuerdo Ministerial 169-2019 → [[Acuerdo 169-2019 (Gaceta 34889)]] (La Gaceta del 2019-03-07; emisor: Secretaría de Finanzas)
 <!-- normas:fin -->

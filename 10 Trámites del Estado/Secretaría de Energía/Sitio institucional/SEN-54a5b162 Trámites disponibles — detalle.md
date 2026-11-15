@@ -133,7 +133,7 @@ Artículo 1.- REQUISITOS: Los peticionarios que soliciten su inscripción en el 
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2014). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2011). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
 - Acuerdo Ministerial 23-2019 → [[Acuerdo 23-2019 (Gaceta 35050)]] (La Gaceta del 2019-09-16; emisor: Secretaría de Estado en el Despacho de Energía)
 - Acuerdo 04-2017 → [[Acuerdo 004-2017 (Gaceta 34378)]] (La Gaceta del 2017-06-30; emisor: SECRETARÍA DE ENERGÍA, RECURSOS NATURALES, AMBIENTE Y MINAS)

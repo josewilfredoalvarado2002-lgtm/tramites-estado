@@ -9628,18 +9628,18 @@ A MEM
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2014). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2011). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
-- Acuerdo 001-2001 → anterior a 2014: no está en la colección de La Gaceta de la bóveda
-- Acuerdo 003-2009 → anterior a 2014: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 001-2001 → anterior a 2011: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 003-2009 → anterior a 2011: no está en la colección de La Gaceta de la bóveda
 - Acuerdo 023-2015 → [[Acuerdo 023-2015 (Gaceta 33825)]] (La Gaceta del 2015-09-03; emisor: Dirección General de la Marina Mercante)
 - Acuerdo Ministerial 016-2015 → [[Acuerdo 016-2015 (Gaceta 33759)]] (La Gaceta del 2015-06-18; emisor: Dirección General de la Marina Mercante)
-- Acuerdo 053-2012 → anterior a 2014: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 053-2012 → no aparece en la colección de La Gaceta de la bóveda
 - Acuerdo 022-2015 → [[Acuerdo 022-2015 (Gaceta 33825)]] (La Gaceta del 2015-09-03; emisor: Dirección General de la Marina Mercante)
 - Resolución 123-2017 → no aparece en la colección de La Gaceta de la bóveda
 - Resolución 760-2019 → no aparece en la colección de La Gaceta de la bóveda
-- Decreto Ejecutivo 002-2002 → anterior a 2014: no está en la colección de La Gaceta de la bóveda
-- Decreto 266-2013 → anterior a 2014: no está en la colección de La Gaceta de la bóveda
+- Decreto Ejecutivo 002-2002 → anterior a 2011: no está en la colección de La Gaceta de la bóveda
+- Decreto 266-2013 → [[Decreto 266-2013 (Gaceta 33336)]] (La Gaceta del 2014-01-23; emisor: Poder Legislativo)
 - Acuerdo Ejecutivo 138-2018 → posible: [[Acuerdo 138-2018 (Gaceta 35457)]] (SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN)
 - Acuerdo Ministerial 58-2019 → posible: [[Acuerdo 058-2019 (Gaceta 34997)]] (Secretaría de Desarrollo Económico); [[Acuerdo 58-2019 (Gaceta 34888)]] (DIRECCIÓ DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN)
 - Resolución 574-2019 → no aparece en la colección de La Gaceta de la bóveda

@@ -508,10 +508,10 @@ solar térmica, deben remitir esta información a la Secretaría de
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2014). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2011). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
-- Decreto Legislativo 138-2013 → anterior a 2014: no está en la colección de La Gaceta de la bóveda
-- Decreto 70-2007 → anterior a 2014: no está en la colección de La Gaceta de la bóveda
+- Decreto Legislativo 138-2013 → posible: [[Decreto 138-2013 (Gaceta 33191)]] (No consta en la fuente)
+- Decreto 70-2007 → anterior a 2011: no está en la colección de La Gaceta de la bóveda
 - Acuerdo SEN-132-2023 → [[Acuerdo SEN-132-2023 (Gaceta 36430)]] (La Gaceta del 2024-01-10; emisor: Secretaría de Estado en el Despacho de Energía)
 - Decreto Ejecutivo PCM-048-2017 → no aparece en la colección de La Gaceta de la bóveda
 <!-- normas:fin -->

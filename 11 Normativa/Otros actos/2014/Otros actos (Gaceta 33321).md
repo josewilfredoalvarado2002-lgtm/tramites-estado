@@ -1,0 +1,556 @@
+---
+tipo: "norma"
+tipo_acto: "Otro acto"
+numero: "No consta en la fuente"
+titulo: "Según el sumario de La Gaceta: COMISIÓN NACIONAL DE BANCOS Y SEGUROS “RESOLUCIÓN SB No. 2559/27-12- 2013.; Otros.; AVANCE"
+emisor: "No consta en la fuente"
+gaceta_numero: 33321
+gaceta_fecha: "2014-01-06"
+gaceta: "[[11 Normativa/La Gaceta/2014/La Gaceta 33321 (2014-01-06)|La Gaceta 33321]]"
+paginas: "A. 1 - 32"
+sumario: "COMISIÓN NACIONAL DE BANCOS Y SEGUROS “RESOLUCIÓN SB No. 2559/27-12- 2013.; Otros.; AVANCE"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20140106-33321/download"
+extraido: "2026-11-15"
+huella: "d6d6967c7216f5e4"
+---
+<!-- portal:inicio -->
+# Según el sumario de La Gaceta: COMISIÓN NACIONAL DE BANCOS Y SEGUROS “RESOLUCIÓN SB No. 2559/27-12- 2013.; Otros.; AVANCE
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Otro acto |
+| Número | No consta en la fuente |
+| Emisor | No consta en la fuente |
+| Publicado en | [[11 Normativa/La Gaceta/2014/La Gaceta 33321 (2014-01-06)\|La Gaceta 33321]] del 2014-01-06 |
+| Páginas | A. 1 - 32 |
+| Según el sumario de La Gaceta | COMISIÓN NACIONAL DE BANCOS Y SEGUROS “RESOLUCIÓN SB No. 2559/27-12- 2013.; Otros.; AVANCE |
+
+## Texto
+
+Comisión Nacional de Bancos y Seguros “RESOLUCIÓN SB No. 2559/27-12-2013 La Comisión Nacional de Bancos y Seguros,
+
+CONSIDERANDO (1): Que corresponde a esta Comisión dictar las normas que se requieran para revisar, verificar, controlar, vigilar y fiscalizar las instituciones supervisadas, lo mismo que las normas prudenciales que deberán cumplir dichas instituciones, para lo cual se basará en la legislación vigente y en acuerdos y prácticas internacionales.
+
+CONSIDERANDO (2): Que las instituciones supervisadas deben evaluar y clasificar sus activos crediticios periódicamente de acuerdo al riesgo y a las probabilidades de recuperación que presenten, con el propósito de determinar y cubrir las pérdidas esperadas, aplicando las mejores prácticas de gestión de riesgo de crédito.
+
+CONSIDERANDO (3): Que mediante Resolución SB No. 1464/05-08-2013, esta Comisión reformó las “NORMAS PARA LA EVALUACIÓN Y CLASIFICACIÓN DE LA CARTERA CREDITICIA”, incorporando al texto dichas reformas.
+
+CONSIDERANDO (4): Que del análisis a la aplicación de dichas normas se concluyó técnicamente que corresponde su actualización a fin de precisar el tratamiento de las operaciones crediticias garantizadas con depósitos pignorados en la misma institución, contra garantizadas por instituciones financieras de primer orden o garantías recíprocas emitidas por fondos que las emiten, así como revisar la progresividad de la clasificación de los créditos de vivienda.
+
+CONSIDERANDO (5): Que asimismo, los deudores pueden tener varios créditos en la misma institución y que el valor neto de la garantía después de aplicado el descuento o castigo respectivo, puede cubrir las demás obligaciones crediticias, en atención a la instrumentación legal de la garantía y siempre dentro del marco de la transparencia y protección al usuario financiero.
+
+CONSIDERANDO (6): Que el procedimiento para la clasificación única del deudor en la misma institución es para efectos de informar dicha categoría, sin perjuicio que la misma institución financiera o en su momento esta Comisión, establezca su uso para efectos de constitución de reservas.
+
+CONSIDERANDO (7): Que para efectos de la inclusión financiera, se actualizó el anexo de descuento de los valores de las garantías y es necesario incluir las garantías que producen un flujo de efectivo a favor del deudor, como ser los contratos de arrendamiento, operaciones de factoraje y contratos de compraventa a futuro.
+
+CONSIDERANDO (8): Que de acuerdo al análisis técnico realizado por la Superintendencia de Bancos, Financieras y Asociaciones de Ahorro y Préstamo, y la Gerencia de Estudios, las reformas que se están proponiendo son técnicamente procedentes en función de los incentivos deseados para la gestión de créditos, conservando los efectos prudenciales con el acompañamiento de medidas para conservar la cobertura de morosidad basadas en mejores práctica y la generación sobre crecimiento de portafolio. Dichas reformas son coherentes al dictamen emitido por el Banco Central de Honduras mediante Resolución 298-7/2013 de la Sesión No. 3477 del 25 de julio de 2013, donde emitió opinión favorable al proyecto de reformas anterior.
+
+POR TANTO: Con fundamento en lo establecido en los
+
+Artículos 38 de la Ley del Sistema Financiero; 55 de la Ley de Instituciones de Seguros y Reaseguros; 26 de la Ley de Tarjetas de Crédito; 38 de la Ley Reguladora de las Organizaciones Privadas de Desarrollo que se Dedican a Actividades Financieras;
+
+13, numerales 1), 2) y 10) de la Ley de la Comisión Nacional de Bancos y Seguros; y 20 de la Resolución 498/22-04-2008; en sesión del 27 de diciembre de 2013,
+
+RESUELVE:
+
+1. Reformar las “NORMAS PARA LA EVALUACIÓN Y CLASIFICACIÓN DE LA CARTERA CREDITICIA” en sus numerales 1.1.4, Tabla 1, 1.2.1, 1.2.2, Tabla 2, 1.2.3, 1.3.2, 1.3.3, Tabla 3, 2.1.2, 2.1.3, Tabla 4, Tabla 5, Tabla 6, 2.2.3, 3, 5, 6, 7.1.1, 7.1.2, Tabla 7, 12, 13, 14, Anexo 2, Tabla de Descuentos del Anexo 2, Diseño 1, Diseño 2, Diseño 3, Diseño 4, Diseño 5 y Diseño 7; agregar los numerales 1.1.5, 1.5, 2.1.4; y eliminar el numeral 1.2.4, Tabla 8 y 17.
+
+2. Incorporar las reformas al texto de las referidas Normas y sus Anexos y en consecuencia, transcribir las mismas de la siguiente manera:
+
+NORMAS PARA LA EVALUACIÓN Y CLASIFICACIÓN DE LA CARTERA CREDITICIA Aspectos Generales. El objetivo de las presentes Normas es establecer procedimientos para que las instituciones supervisadas que realizan operaciones de crédito, evalúen y clasifiquen el riesgo asumido, a efecto de determinar la razonabilidad de las cifras presentadas en sus estados financieros, constituyendo oportunamente las reservas requeridas. Los procedimientos que aquí se establecen buscan clasificar los activos crediticios según el riesgo asumido y el grado de deterioro de las operaciones de crédito, incluyendo aquellos créditos otorgados con recursos provenientes de fideicomisos bajo distintas formas de administración, aun cuando no estén reflejados en los estados financieros de las Instituciones sujetas a las presentes normas.
+
+Para las instituciones supervisadas a que se hace referencia, la clasificación de créditos constituye una herramienta valiosa en la administración de su cartera de préstamos y es un elemento fundamental en el flujo de información para la toma de decisiones.
+
+Los principales criterios a observar son los siguientes:
+
+Créditos Comerciales. Son aquellos créditos otorgados a personas naturales o jurídicas, orientados a financiar diversos sectores de la economía, tales como el agropecuario, industrial, turismo, comercio, exportación, minería, construcción, comunicaciones y otras actividades financieramente viables. Estos créditos se subdividen en Grandes Deudores Comerciales, Pequeños Deudores Comerciales y Microcrédito, según el endeudamiento total que mantengan con las Instituciones sujetas a las presentes Normas, considerando asimismo, las obligaciones del mismo deudor, provenientes de fideicomisos o carteras en administración.
+
+1.1 Grandes Deudores Comerciales.
+
+1.1.1. Definición. Para efectos de estas Normas, se denominarán como Grandes Deudores Comerciales: A los deudores con endeudamiento de créditos comerciales, que representen el seis por ciento (6%) o más del capital mínimo vigente establecido para los bancos, mismo que deberá computarse considerando las obligaciones pendientes de pago en la totalidad de las instituciones sujetas a las presentes Normas. Para efectuar el cálculo del endeudamiento comercial total se utilizará la información disponible en la Central de Información Crediticia de la Comisión Nacional de Bancos y Seguros, en adelante la Comisión. El cómputo del porcentaje a que se refiere el párrafo primero, deberá establecerse mediante la sumatoria de las obligaciones directas y contingentes donde existan, incluyendo las obligaciones de todo el grupo económico a que pertenezca el deudor, si fuera el caso. Los Grandes Deudores Comerciales que durante seis (6) meses consecutivos mantengan un endeudamiento total inferior al 6% del capital mínimo vigente establecido para los bancos deberán ser tratados como Pequeños Deudores Comerciales.
+
+1.1.2 Criterios de Clasificación. La administración del riesgo de los créditos otorgados a Grandes Deudores Comerciales requiere suficiente información y un continuo seguimiento por la complejidad que suelen presentar estas operaciones. La evaluación del riesgo, se basará en el análisis de una serie de características del deudor, así como, de ciertas particularidades de los diversos tipos de créditos, considerando en su aplicación el orden de los cuatro (4) factores de clasificación siguientes: capacidad de pago, comportamiento histórico de pago, garantías que respaldan los créditos y entorno económico.
+
+a) Capacidad de Pago del Deudor. Constituirá el factor principal para evaluar a los Grandes Deudores Comerciales, y se medirá en función del análisis que realice la Institución (ver Anexo 1-C) al inicio del crédito y de las actualizaciones que efectúe como mínimo anualmente, de la situación financiera, presente y futura del deudor. Este análisis deberá tener como sustento técnico, los estados financieros principales del deudor (balance general, estado de resultados y flujo de caja), los que deberán haber sido auditados por firmas independientes registradas en la Comisión o auditados por firmas extranjeras cuando se trate de un deudor no domiciliado en el territorio nacional, mismos que deberán ser confiables y comprensibles para la entidad prestamista, de conformidad con el Anexo 1-A, numeral 2, Sección Financiera. Los flujos de caja y estudios de factibilidad de los nuevos proyectos a financiar, deberán tener bases de sustentación y supuestos, suficientes y razonables.
+
+b) Comportamiento de Pago del Deudor. Constituirá el segundo factor a evaluar y se refiere al historial de pago del deudor en relación con el cumplimiento oportuno de sus obligaciones (monto adeudado que es igual al capital más los intereses correspondientes), tanto en la propia institución como en el resto de las instituciones supervisadas. Se determinará, estableciendo si el deudor paga oportunamente sus créditos, refinancia o readecúa frecuentemente sus obligaciones o cancela en algunas oportunidades toda su deuda. Para este análisis deberá considerarse el historial de pago durante al menos los últimos dos
+
+(2) años, independientemente de la fuente de información utilizada.
+
+c) Disponibilidad de Garantías. Las garantías constituyen la fuente alterna de pago de un crédito y tienen relevancia para el requerimiento de reservas, después de que se hayan establecido claras debilidades en los dos (2) factores anteriores, siempre que para su ejecución y realización no se prevean dificultades u obstáculos que deterioren el valor de la garantía. Para ser consideradas como fuente alterna de pago, las garantías deben poder ser ejecutadas y realizadas en el corto plazo. Las garantías se considerarán por el valor que se les haya asignado en avalúo efectuado por profesional debidamente registrado en la Comisión, o bien, con el valor de la factura de proveedor reconocido o por su precio de venta de realización rápida, dependiendo de su naturaleza, cuando corresponda. Los criterios de valorización de las garantías para efectos de clasificación de la cartera de créditos, se detallan en el Anexo 2 que forma parte integral de las presentes Normas.
+
+d) Entorno Económico. Las condiciones y perspectivas del mercado o sector en que se llevan a cabo las actividades comerciales o productivas del deudor deben ser tomadas en cuenta en la asignación de categorías a los Grandes Deudores Comerciales. Se debe analizar la posición estratégica de un deudor en su mercado o rubro (utilizando criterios tales como dependencia de un solo producto o proveedor, demanda decreciente, productos substitutos, obsolescencia tecnológica, entre otros). El análisis conjunto de los cuatro (4) factores mencionados (capacidad de pago, comportamiento de pago, garantías y entorno económico), debidamente ponderados, permitirá clasificar la totalidad de las obligaciones de los Grandes Deudores Comerciales en una de las cinco (5) categorías de riesgo que se señalan en el numeral 1.1.3., siguiente.
+
+1.1.3. Categorías de Clasificación, Descripción y Características.
+
+Las categorías de clasificación que deberán utilizar las instituciones supervisadas en el proceso de evaluación de su cartera de créditos, son las siguientes:
+
+Categoría Nombre I Créditos Buenos II Créditos Especialmente Mencionados III Créditos Bajo Norma IV Créditos de Dudosa Recuperación V Créditos de Pérdida La descripción de cada una de las categorías señaladas, es la siguiente:
+
+a) Categoría I – Créditos Buenos. Cuentan con información completa y actualizada sobre el crédito, de acuerdo al Anexo 1-A, y con un análisis de la capacidad de pago del deudor, que demuestre una adecuada solvencia, conforme al Anexo 1-C y acredite suficiente capacidad de generar excedentes para cumplir las obligaciones. Asimismo, el cumplimiento del plan de amortización de las deudas no ha presentado modificaciones que se deriven en problemas de capacidad de pago del deudor. Algunas características identificables de estos créditos son las siguientes:• Al día en la amortización de sus préstamos, atrasos eventuales de hasta treinta
+
+(30) días; • Empresa con situación financiera y resultados satisfactorios de acuerdo a sus principales indicadores financieros (liquidez, rentabilidad y bajo apalancamiento);• Flujo de Caja suficiente para hacer frente a sus obligaciones; • La información financiera que sustenta el análisis de riesgo del deudor, debe corresponder al cierre del ejercicio fiscal más reciente, estar auditada y tener un máximo de seis (6) meses de antigüedad; • La empresa cuenta con mercado, razón por la cual no se prevén problemas potenciales de ventas, evidenciado en el volumen y comportamiento de las ventas; • No presenta problemas laborales de relevancia que puedan afectar significativamente su situación financiera, según quede evidenciado en el informe del auditor externo; y, • Su viabilidad de permanecer en el mercado presenta un riesgo bajo, evidenciado en un estudio de mercado que puede ser propio, del gremio al que pertenece, de institución especializada o de entidad pública competente.
+
+b) Categoría II – Créditos Especialmente Mencionados.
+
+Se trata de créditos que presentan algún grado de incumplimiento en las condiciones originalmente pactadas por deficiencias en la situación financiera del deudor, y no cumplen con alguna de las características de la Categoría I – Créditos Buenos. Dicho incumplimiento se manifiesta generalmente en atrasos en los pagos como consecuencia de situaciones que afectan negativamente al deudor, pero que tienen un carácter más bien ocasional que permanente. Muestran debilidades, que si no son corregidas oportunamente, deteriorarán su condición y podrían afectar económicamente a la institución en el futuro. Algunas características de estos créditos son: • Atrasos ocasionales en la amortización de cuotas según los días de mora en la Tabla 1; • La información mínima referida en el Anexo1-A se encuentra desactualizada o incompleta; • El análisis de crédito del deudor no está actualizado o no está elaborado de acuerdo a las especificaciones del Anexo 1- C; • Empresa que presenta problemas ocasionales de liquidez; • Aunque positivo, el margen de utilidad es menor al promedio del sector; • El flujo de caja no cubre el autofinanciamiento y reinversión del capital de trabajo; • Sobregiros ocasionales para el pago de obligaciones; • Estructura de cuentas por cobrar e inventarios superior a lo históricamente observado; • Excesiva dependencia de un solo producto o proveedor; y, • Cambios en el mercado que puedan afectar la posición financiera del deudor.
+
+c) Categoría III – Créditos Bajo Norma. Los préstamos clasificados en esta categoría, presentan debilidades de solvencia y de capacidad de pago del prestatario, con lo cual se arriesga la recuperación de la deuda. Algunas características de estos créditos son las siguientes: • Atrasos en la amortización de cuotas según los días de mora en la Tabla 1; • Deudores cuyos antecedentes financieros son insuficientes para determinar la capacidad de pago y el origen de los recursos; • Deficiente situación financiera del deudor, reflejada en los indicadores de rentabilidad, pérdidas de operación, liquidez y otros, determinados de acuerdo al tipo de industria en donde opera; • Flujo de Caja insuficiente para cubrir el pago del principal más intereses; • Sobregiros recurrentes para el pago de obligaciones; • Discrepancias entre el programa de pago de los créditos y las disponibilidades financieras del deudor; • Inversiones en activos fijos financiados con créditos de corto plazo;
+
+• Dificultades de competitividad y debilidades tecnológicas que afecten las ventas y reporten riesgos operacionales que no puedan ser enfrentados por el flujo de caja de la empresa; • Deterioro del sector económico en que opera el deudor, sin que la empresa cuente con un plan de contingencia que le proteja de los impactos financieros; • Falta de apoyo financiero y económico de los propietarios de la empresa; y; • Reiterados incumplimientos contractuales.
+
+d) Categoría IV – Créditos de Dudosa Recuperación.
+
+Un crédito clasificado como de dudosa recuperación tiene las debilidades inherentes a uno clasificado como bajo norma, con la característica adicional de que las debilidades hacen que el cobro o la liquidación total, en base a los datos, condiciones y valores existentes, sea altamente dudoso y la probabilidad de pérdida pueda llegar a ser muy alta; no obstante, que ciertos factores o cambios tales como consolidación o refinanciamiento de la deuda, inyección de capital, garantías adicionales, puedan incidir positivamente en la recuperación del monto prestado. Algunas características adicionales son las siguientes: • Atrasos en la amortización de cuotas según los días de mora en la Tabla 1; • Inexistencia de la información referida en el Anexo 1-A; • Deterioro en su posición financiera, que indica debilidades en la administración y sistema de control interno; • Incapacidad para cumplir obligaciones de corto plazo en los plazos negociados; • Ingresos insuficientes para cubrir el saldo adeudado, según el plan de pagos convenido; • Sobregiros permanentes para el pago de obligaciones; • Resultados operacionales negativos; • Empresa técnicamente quebrada; • Pérdidas de varios períodos, que han deteriorado el patrimonio del prestatario; • Incrementos desproporcionados de sus deudas con la institución supervisada u otros acreedores; • Persistente deterioro económico del sector en que opera el deudor; • Cuotas de amortización de sus obligaciones crediticias menores a las cuotas pactadas; • Distribución de utilidades o retiros de capital que limitan severamente su solvencia y/o capacidad de pago; • Situación de iliquidez que conlleva a un estado de suspensión de pagos; • Venta o realización de activos productivos para continuar como negocio en marcha; • La cancelación parcial de las obligaciones depende de la liquidación de las garantías; • Acumulación de obligaciones fiscales o laborales; y, • Embargo de acreedores.
+
+e) Categoría V – Créditos de Pérdida. Los créditos clasificados como de Pérdida se consideran como incobrables y de tan poco valor que su continuación como activos de la institución no se justifica. Esta clasificación no significa que el préstamo no tenga absolutamente ningún valor de recuperación, sino que no es práctico ni deseable aplazar el saneamiento de este activo, aun cuando una recuperación parcial pudiera efectuarse en el futuro.
+
+Algunas de sus características son las siguientes: • Atrasos en los pagos según los días de mora en la Tabla 1; • Problemas de iliquidez que afectan la amortización de sus obligaciones; • Problemas para obtener financiamiento de terceros; • Deterioro en los estados financieros que indique debilidades en la administración y sistema de control interno; • Créditos al cobro mediante la vía judicial con escasas posibilidades de recuperación; • Completo deterioro económico del sector en que opera la empresa; • Empresa con patrimonio negativo o que no aplica como negocio en marcha; • Garantías obsoletas, de bajo valor o inexistentes; • Documentación irregular o inexistente que impide la recuperación del crédito, como Los rangos de días de mora que se indican en cada una de las categorías de clasificación de la Tabla 1, es una condición que no justifica por sí sola la clasificación definitiva del deudor. Predominan sobre este factor el análisis de la capacidad de pago y la disponibilidad de información, salvo que por días de atraso la categoría resultante sea de mayor riesgo.
+
+1.1.5 Otros Criterios en la Clasificación de Grandes Deudores Comerciales. Si un Grande Deudor Comercial por ejemplo, pagarés mal extendidos, garantías inadecuadamente constituidas en su forma legal, etc.; • Gravámenes preferentes a favor de otros acreedores, quedando un valor residual ínfimo respecto al monto de las obligaciones crediticias con la propia institución; • Situaciones de fuerza mayor no cubiertas por seguros u otros recursos (ejemplo: Incendios, sabotajes, etc.); • Deudor al que no es posible ubicar para hacer efectivo el cobro de la obligación;
+
+• Sobrevaloración de activos y resultados, o existencia de pasivos no contabilizados que afecten significativamente al patrimonio de la empresa; • Existencia de situaciones fraudulentas que dificulten fuertemente la recuperación de los créditos; y, • Desviación de los fondos provenientes de los créditos otorgados a destinos diferentes a los declarados; imposibilitando apreciar el verdadero riesgo y, por ende, la efectiva recuperación de los créditos.
+
+1.1.4 Criterios para la Constitución de Reservas.
+
+Para efectos de constitución de reservas de los Grandes Deudores Comerciales, se aplicarán los porcentajes de reserva señalados en la Tabla 1. mantiene más de un crédito y al menos uno de ellos cuenta con garantía hipotecaria sobre bien inmueble, garantía sobre depósitos pignorados en la misma institución o contra garantías emitidas por instituciones financieras de primer orden, todos los créditos quedarán clasificados según el mayor atraso registrado y aplicarán lo dispuesto en el numeral 1.1.4, según el tipo de garantía, siempre y cuando el valor de las garantías netas de descuento cubra el cien por ciento (100%) como mínimo de todas las obligaciones pendientes. Si el valor neto de las garantías hipotecarias excede el 50% de las garantías, se utilizará este tipo de garantía de la Tabla 1 para efectos de aplicar reservas a todas las obligaciones.
+
+En el caso que no se logre cubrir el cien por ciento (100%) de las obligaciones antes mencionadas, las operaciones crediticias se clasificarán de acuerdo a su tipo de garantía.
+
+Para aplicar lo anterior y garantizar la debida transparencia ante el cliente, en la estructuración de las operaciones y la constitución legal de dichas garantías, deberá estar pactado expresamente por las partes y aceptado formalmente por el cliente, que las garantías hipotecarias sobre bienes inmuebles, garantías sobre depósitos pignorados en la misma institución o contra garantías emitidas por instituciones financieras de primer orden podrán ser utilizadas para garantizar a su vez las operaciones con otras garantías.
+
+1.2 Pequeños Deudores Comerciales.
+
+1.2.1 Definición. Crédito concedido a personas naturales o jurídicas, para financiar actividades productivas, comerciales o de servicios, que no es considerado Microcrédito ni Gran Deudor 1.2.3 Otros Criterios en la Clasificación de Pequeños Deudores Comerciales. Si un Pequeño Deudor Comercial mantiene más de un crédito y al menos uno de ellos cuenta con garantía hipotecaria sobre bien inmueble, garantía sobre depósitos pignorados en la misma institución o contra garantías emitidas por instituciones financieras de primer orden, todos los créditos quedarán clasificados según el mayor atraso registrado y aplicarán Comercial. Para estos efectos las instituciones supervisadas separarán la cartera de este segmento en: 1) créditos con garantías hipotecarias sobre bienes inmuebles; 2) créditos con garantías sobre depósitos pignorados en la misma institución, garantía recíproca o contra garantías emitidas por instituciones financieras de primer orden; y 3) Créditos con otras garantías.
+
+La institución deberá mantener completos y actualizados los expedientes de Pequeños Deudores Comerciales según lo establecido en el anexo 1-A. Los Pequeños Deudores Comerciales que durante seis (6) meses consecutivos mantengan un endeudamiento total mayor al 6% del capital mínimo vigente establecido para los bancos deberán ser tratados como Grandes Deudores Comerciales. En estos casos, la institución supervisada debe complementar la información requerida en el anexo No. 1- A, y el análisis de riesgo debe ser realizado con base en estados financieros auditados del cierre fiscal siguiente, en el cual cumple con el criterio de gran deudor comercial.
+
+1.2.2 Criterios de Clasificación. Toda la cartera de créditos de Pequeños Deudores Comerciales se clasificará por morosidad siguiendo las categorías de riesgo que se detallan en la Tabla 2. lo dispuesto en el numeral 1.2.2, según el tipo de garantía, siempre y cuando el valor de las garantías netas de descuento cubra el cien por ciento (100%) como mínimo de todas las obligaciones pendientes. Si el valor neto de las garantías hipotecarias excede el 50% de las garantías, se utilizará este tipo de garantía de la Tabla 2 para efectos de aplicar reservas a todas las obligaciones.
+
+En el caso que no se logre cubrir el 100% de las obligaciones antes mencionado, las operaciones crediticias se clasificarán de acuerdo a su tipo de garantía.
+
+Para aplicar lo anterior y garantizar la debida transparencia ante el cliente, en la estructuración de las operaciones y la constitución legal de dichas garantías, deberá estar pactado expresamente por las partes y aceptado formalmente por el cliente, que las garantías hipotecarias sobre bienes inmuebles, garantías sobre depósitos pignorados en la misma institución o contra garantías emitidas por instituciones financieras de primer orden podrán ser utilizadas para garantizar a su vez las operaciones con otras garantías.
+
+1.3 Microcréditos 1.3.1 Definición. Es todo crédito concedido a un prestatario, sea persona natural, jurídica o un grupo de prestatarios, destinado a financiar actividades en pequeña escala, tales como: producción, comercialización, servicios, por medio de metodologías de crédito específicas. Algunas características para identificar estos créditos son las siguientes: a) Opera en el sector informal de la economía.
+
+b) El endeudamiento total en las instituciones financieras sujetas a estas Normas, no debe exceder al equivalente en lempiras de US$10,000.00. Este monto podrá ampliarse con líneas de crédito adicionales con actividades de naturaleza cíclica, hasta por el equivalente de US$3,000.00, y, cuyo plazo de vigencia de este último financiamiento no deberá exceder de dos (2) meses. Las sumas expresadas en dólares son equivalentes al tipo de cambio de venta vigente prevaleciente en la fecha de otorgamiento del crédito. c) La fuente principal de pago lo constituye el producto de las ventas e ingresos generados por dichas actividades que se financian, y, no por un ingreso estable. d) El pago, se realiza generalmente en cuotas periódicas, o bien bajo otras formas de amortización que se determine a través del flujo de caja; y, e) Las garantías pueden ser, mancomunadas o solidarias, fiduciaria, prendarias, hipotecarias, garantías recíprocas u otras. No pueden ser considerados como microcréditos los otorgados a las personas naturales cuya fuente principal de ingresos es el trabajo asalariado.
+
+En el otorgamiento de un microcrédito, se analizará la capacidad de pago en base a ingresos familiares, el patrimonio neto, garantías, importe de sus diversas obligaciones, el monto de las cuotas asumidas para con la institución financiera; así como, el comportamiento histórico de pago de sus obligaciones y las clasificaciones asignadas por otras instituciones financieras.
+
+1.3.2 Criterios de Clasificación. Las instituciones supervisadas deberán clasificar el total de cartera de los microcréditos sobre la base de rangos de morosidad siguiendo las categorías de riesgo que se detallan en la Tabla 3.
+
+Si un microcrédito mantiene más de un crédito y al menos uno de ellos cuenta con garantía sobre depósitos pignorados en la misma institución o contra garantías emitidas por instituciones financieras de primer orden, todos los créditos quedarán clasificados según el mayor atraso registrado y aplicarán lo dispuesto en este numeral, según el tipo de garantía, siempre y cuando el valor de las garantías netas de descuento cubra el cien por ciento (100%) como mínimo de todas las obligaciones pendientes.
+
+Para aplicar lo anterior y garantizar la debida transparencia ante el cliente, en la estructuración de las operaciones y la constitución legal de dichas garantías, deberá estar pactado expresamente por las partes y aceptado formalmente por el cliente, que las garantías sobre depósitos pignorados en la misma institución o contra garantías emitidas por instituciones financieras de primer orden podrán ser utilizadas para garantizar a su vez las operaciones con otras garantías.
+
+En caso de existir garantías hipotecarias se aplicará lo dispuesto en el numeral 1.5.
+
+1.4 Selección de la muestra a evaluar. Las instituciones supervisadas deberán clasificar todos los créditos comerciales.
+
+La Comisión a través de sus inspecciones evaluará una muestra de la clasificación de la cartera de Grandes Deudores Comerciales y Pequeños Deudores Comerciales. Si el 100% de la muestra cumple con los parámetros de clasificación de las presentes Normas, el resto de la misma se considerará aceptable, caso contrario, a la cartera no evaluada, se le aplicará el coeficiente de riesgo que resulte de la cartera evaluada, entendido como tal, el porcentaje que resulte de aplicar las reservas requeridas a la cartera examinada sobre los saldos de esta cartera.
+
+1.5 Criterios para la constitución de reservas. Para determinar las reservas de los Grandes Deudores Comerciales, Pequeños Deudores Comerciales y Microcrédito, se aplican los porcentajes de reservas, según cada tabla, de la siguiente manera:
+
+a) Categorías I y II: los porcentajes de reservas se aplican sobre el monto adeudado. b) Categorías III, IV y V: los porcentajes de reserva se aplican sobre la diferencia entre el monto adeudado y el valor de avalúo de las garantías neto del descuento contenido en el Anexo 2. No obstante, dichas reservas no pueden ser inferiores a los porcentajes mínimos aplicados sobre el monto adeudado, así: 15% para la Categoría III, 40% para la Categoría IV y 60% para la Categoría V.
+
+Para lo anterior, la institución debe mantener incorporado en su sistema de información un control automatizado para la determinación del valor de la garantía y el valor en descubierto de las obligaciones.
+
+2. Créditos Personales.
+
+Estos créditos tienen características especiales que los diferencian de los créditos comerciales como ser montos plazos, forma de pago, garantía, tipo de cliente, proceso de administración del crédito, etc., lo que amerita su clasificación con base al criterio único de morosidad; más aún si se considera que por los montos con que operan (especialmente los créditos de consumo) y su elevado número, no parece necesario intentar una clasificación caso por caso. En consecuencia, los Créditos Personales para efectos de clasificación se subdividen en Créditos de Consumo y Créditos para Vivienda; detallando a continuación, para ambos tipos de crédito, el criterio principal de clasificación, las categorías de riesgo a utilizar y las reservas mínimas requeridas para cada una de ellos.
+
+2.1 Créditos de Consumo.
+
+2.1.1. Definición. Se consideran créditos de consumo las obligaciones directas y contingentes contraídas por personas naturales, incluyendo las contraídas mediante tarjetas de crédito, y, cuyo objeto es financiar la adquisición de bienes de consumo o el pago de servicios. La fuente principal de pago del prestatario, puede ser el salario, sueldo, rentas, remesas o similares. Si la fuente de pago del crédito son actividades productivas o comerciales se tratará a esos créditos como microcrédito, pequeño deudor comercial o gran deudor comercial, dependiendo del monto de endeudamiento.
+
+2.1.2. Criterios de Clasificación. La clasificación de la cartera de consumo, se realizará sobre la base de morosidad en el pago de las cuotas de amortización de la deuda, aplicando la descripción de las categorías contenidas en la Tabla 4.
+
+2.1.3 Categorías de Clasificación y criterios para la constitución de reservas. La clasificación será del 100% y para determinar las reservas para estos deudores se aplican los porcentajes de reservas sobre el monto adeudado, siguiendo las categorías de clasificación descritas en las Tablas 4 y 5. Los créditos de consumo, cuyo plan de amortización se haya pactado con pagos periódicos en plazos mayores o igual a treinta (30) días, serán clasificados de acuerdo a las categorías de la tabla siguiente:
+
+Los créditos de consumo, cuyo plan de amortización se haya pactado con pagos periódicos en plazos menores a treinta (30) días, serán clasificados de acuerdo a las categorías de la tabla siguiente:
+
+En el caso de que un deudor de consumo cuente con garantía sobre depósitos pignorados en la misma institución, para las Categorías I y II, los porcentajes de reserva serán de cero por ciento (0%), siempre y cuando el valor de la garantía neto de descuento, cubra el cien por ciento (100%) como mínimo de todas las obligaciones de consumo pendientes.
+
+Si un deudor mantiene más de un crédito de consumo, todos ellos quedarán clasificados según el mayor atraso registrado de acuerdo a las Tablas 4 y 5, respectivamente.
+
+2.1.4 Tratamiento de Garantía Hipotecaria. En el caso que los créditos de consumo cuenten con garantía hipotecaria, para efectos de constitución de reservas, se aplicarán los porcentajes señalados en la Tabla 4 ó 5, de la siguiente manera:
+
+a) Categorías I y II: Los porcentajes de reservas se aplican sobre el monto adeudado; b) Categorías III, IV y V: Los porcentajes de reserva se aplican sobre la diferencia entre el monto adeudado y el valor de avalúo de las garantías hipotecarias neto del descuento contenido en el Anexo 2. No obstante, dichas reservas no pueden ser inferiores a los porcentajes mínimos aplicados sobre el monto adeudado, así: 15% para la Categoría III, 40% para la Categoría IV y de 60% para la Categoría V.
+
+2.2. Créditos para Vivienda.
+
+2.2.1 Definición. Los créditos que se deben clasificar bajo esta agrupación, son los contraídos por personas naturales, cuyo destino es financiar la adquisición, ampliación, reparación, mejoramiento, subdivisión o construcción de una vivienda para uso propio, asimismo la compra de un lote de terreno para vivienda.
+
+En todos los casos el crédito debe contar con hipoteca debidamente inscrita o en proceso de inscripción, siempre y cuando no hayan transcurrido más de seis (6) meses desde la fecha de presentación de la escritura al registro correspondiente, o con garantía recíproca cuando el crédito sea para financiamiento de vivienda social. Perentoriamente, mientras dure el trámite de inscripción, se aceptarán los contratos y/o promesas de compra venta, debidamente legalizados. Caso contrario se considerará dicho crédito como de consumo.
+
+2.2.2 Criterios de Clasificación. La clasificación de los créditos para vivienda, se efectuará sobre la base de la morosidad en el pago de las cuotas de amortización, de acuerdo a las categorías de la Tabla 6.
+
+2.2.3 Categorías de Clasificación y criterios para la constitución de reservas.
+
+La clasificación será del 100% y para determinar las reservas para estos deudores se aplican los porcentajes de reservas sobre el monto adeudado, siguiendo las categorías de clasificación descritas en la Tabla 6.
+
+En el caso de que un deudor de vivienda cuente con garantía sobre depósitos pignorados en la misma institución, para la Categoría I, el porcentaje de reserva serán de cero por ciento (0%), siempre y cuando el valor de la garantía neta de descuento cubra el cien por ciento (100%) como mínimo de todas las obligaciones de vivienda pendientes.
+
+Para la clasificación de los créditos para vivienda, debe considerarse la fecha de la cuota en mora más antigua. Si un deudor mantiene más de un crédito para vivienda, todos ellos quedarán clasificados según el mayor atraso registrado.
+
+3. Categoría Única por Deudor. En caso de que el deudor tenga varios créditos de distinto tipo en la misma institución supervisada, su clasificación será la correspondiente a la categoría de mayor riesgo, conforme al siguiente procedimiento:
+
+\1) La Institución Supervisada deberá establecer la categoría por cada operación de crédito.
+
+\2) En caso que un deudor tenga varias operaciones del mismo tipo de crédito, se asignará la categoría, según el mayor atraso registrado determinándose una sola categoría.
+
+\3) En caso que la categoría de mayor riesgo por tipo de crédito represente al menos el quince por ciento (15%) de las obligaciones del deudor en la misma institución, tal categoría se aplicará al resto de las obligaciones, dando como resultado la clasificación única del deudor en la misma institución; o,
+
+\4) En caso que la categoría de mayor riesgo por tipo de crédito represente menos del quince por ciento (15%) de las obligaciones del deudor en la misma institución, la clasificación de los créditos se mantendrá según el criterio del numeral 2) anterior; conservando cada tipo de créditos la categoría de mayor riesgo.
+
+Sin perjuicio que la Comisión establezca posteriormente el uso de la Categoría Única para efectos de constitución de reservas, las instituciones financieras podrán utilizar dicha categoría para tales efectos cuando consideren necesario su aplicación, de acuerdo al perfil de riesgo del deudor, en cuyo caso se deberán constituir las reservas de conformidad a las Tablas 1, 2, 3, 4, 5 y 6, segregando las operaciones por garantías, cuando corresponda.
+
+Este procedimiento entra en vigencia a partir del 30 de junio de 2014 Si un deudor mantiene más de un tipo de crédito y al menos uno de ellos cuenta con garantía hipotecaria sobre bien inmueble o garantía sobre depósitos pignorados en la misma institución, se podrán considerar dichas garantías para los diferentes tipos de crédito, siempre y cuando el valor de las garantías netas de descuento cubra el cien por ciento (100%) como mínimo de todas las obligaciones pendientes. En estos casos, se aplicará lo dispuesto en el numeral 1.5 y 2.1.4.
+
+En el caso que no se logre cubrir el 100% de las obligaciones antes mencionado, las operaciones crediticias se clasificarán de acuerdo al tipo de crédito.
+
+Para aplicar lo anterior y garantizar la debida transparencia ante el cliente, en la estructuración de las operaciones y la constitución legal de dichas garantías, deberá estar pactado expresamente por las partes y aceptado formalmente por el cliente, que las garantías podrán ser utilizadas para garantizar a su vez operaciones de otros tipos de crédito.
+
+4. Alineamiento del Deudor.
+
+En caso que el deudor tenga créditos en dos o más instituciones supervisadas, éste será reclasificado con una categoría de diferencia con respecto a la categoría de mayor riesgo que le haya sido asignada por cualquiera de las instituciones. Lo anterior aplica cuando las obligaciones clasificadas con la categoría de mayor riesgo representen como mínimo el veinte por ciento (20%) del endeudamiento total.
+
+La categoría adquirida por el deudor, se denominará “reclasificación por alineamiento” y será empleada para calcular las reservas de todas las operaciones del deudor en la institución supervisada, de conformidad a los porcentajes de reservas de cada uno de los tipos de crédito según corresponda.
+
+La institución supervisada que ejecute el alineamiento mensual debe considerar la clasificación del deudor en base a la última información disponible en el Informe Confidencial del Deudor.
+
+Asimismo, deberá reportar la clasificación sin alineamiento en el campo asignado para tal efecto en la información que presente a la Comisión, quien establecerá la fecha de aplicación de este numeral.
+
+5. Requisitos Adicionales de Reservas y aplicación de garantías recíprocas.
+
+Los porcentajes de reservas establecidos en las tablas que contienen las categorías de clasificación precedentes, se aplicarán sin perjuicio de requerimientos adicionales determinados una vez evaluado el riesgo de crédito en las revisiones que efectúe esta Comisión. Cuando se determine que las políticas, prácticas y procedimientos en el otorgamiento, administración, seguimiento y control de créditos no se ajustan a los lineamientos de la normativa aplicable en materia de gestión de riesgo de crédito, y según el nivel de deficiencias encontradas, la Comisión podrá ordenar a la institución financiera la constitución de provisiones genéricas adicionales a las referidas en las presentes Normas, de conformidad a lo establecido en las Normas de Gestión de Riesgo de Crédito e Inversiones.
+
+De igual forma cada institución, podrá aumentar dichos porcentajes, si considera que el riesgo de pérdida asumido es mayor a lo determinado en las presentes Normas. Para los créditos que tengan garantías recíprocas emitidas por las sociedades administradoras de fondos de garantías recíprocas que establece el artículo 2, inciso 1) del Decreto No. 205-2011, Ley del Sistema de Fondos de Garantía Recíproca para la Promoción de las MIPYMES, Vivienda Social y Educación Técnica-Profesional, deberán constituirse al menos las reservas correspondientes a la categoría I según el tipo de crédito en la fecha de otorgamiento; y, en caso de incumplimiento de pago del deudor, se aplicará lo siguiente:
+
+\1) Si el fondo de garantía cubre cuotas del préstamo, se constituirán las reservas según lo establecido en el resto de esta Norma, a partir de la fecha en que se agotó dicha cobertura, según la morosidad del crédito. Si después de 90 días de haberse agotado la garantía ésta no se hubiera cobrado, se aplicará al crédito la categoría y reservas según su morosidad.
+
+\2) Si el fondo se basa en cobertura de saldo del crédito, por el monto garantizado sólo se constituirá al menos las reservas equivalentes a la categoría I según el tipo de crédito, durante los primeros 180 días de mora. Posterior a ello, se aplicará la categoría y reservas que corresponde a los días de mora. Por la parte del crédito no cubierta con garantía recíproca, se crearán las reservas para crédito, según lo establecido en esta Norma.
+
+6. Cuentas Contables Sujetas a Clasificación y constitución de reservas.
+
+Para fines de clasificación de la cartera, serán considerados los valores contabilizados en las cuentas siguientes: a) Préstamos, Descuentos y Negociaciones. b) Deudores Varios
+
+– Sobregiros; c) Comisiones por Cobrar; d) Intereses y Dividendos por Cobrar – Sobre Préstamos; e) Préstamos y Descuentos Negociados; f) Aceptaciones; g) Garantías Bancarias; h) Avales; i) Endosos; j) Cartas de Crédito Stand By; k) Cartas de Crédito y Créditos Documentados; y, l) Todas aquellas otras obligaciones del deudor no registradas en las cuentas anteriores, incluidos los financiamientos otorgados con recursos provenientes de fideicomisos. Para efectos de constitución de reservas no computarán las obligaciones del deudor donde la institución no asume riesgo (cartera administrada y cartera con recursos de fideicomisos sin riesgo para la institución).
+
+En el caso de las aceptaciones, garantías bancarias, avales, endosos, cartas de crédito no vencidas, los porcentajes de reservas se aplicarán sobre el cincuenta por ciento (50%) de su valor contabilizado.
+
+7. Otras Consideraciones aplicables a todos los Deudores para la Clasificación de la Cartera Crediticia.
+
+7.1. Operaciones de Refinanciación y Readecuación.
+
+7.1.1. Definiciones No se considerará refinanciamiento cuando: • El cliente evidencie un buen comportamiento crediticio; se encuentre al día en sus pagos, y la institución conceda un nuevo crédito o ampliación del crédito vigente. • No exista discrepancia entre el programa de pagos del crédito y las disponibilidades financieras del deudor, respaldado con un análisis que evidencie una mayor capacidad de pago, por efecto de un mayor volumen de negocios. Para poder hacer refinanciaciones o readecuaciones, las instituciones sujetas a estas Normas, deberán contar con políticas aprobadas por su Junta Directiva o Consejo de Administración sobre esta materia. Las líneas de crédito revolventes, deberán ser evaluadas al menos cada doce (12) meses. Las instituciones sujetas a estas Normas deberán informar a la Comisión sobre las refinanciaciones y readecuaciones que efectúen durante el mes, a través del Los deudores que sean refinanciados cuatro veces o más deberán constituir el 100% de la reserva si no cuenta con garantía hipotecaria.
+
+En ningún caso los préstamos refinanciados pueden mejorar la categoría, salvo que cumplan con lo establecido en el numeral 7.1.3. Los deudores que debiendo haber sido registrados como refinanciados fueron registrados como readecuados o vigentes, deberán ser clasificados al menos en la Categoría III – Créditos Bajo Norma y consecuentemente registrarlo en la cuenta contable que corresponda.
+
+7.1.3 Reclasificación de Créditos Refinanciados. La categoría de clasificación de los deudores refinanciados podrá ser mejorada en una categoría, cada trimestre a partir del cumplimiento de las condiciones siguientes, siempre que el deudor haya efectuado pagos puntuales de capital de las cuotas pactadas para ese período y se encuentre cumpliendo con las condiciones de la refinanciación, según su forma de pago, así: reporte contenido en la Central de Información Crediticia, en los primeros diez (10) días hábiles del mes siguiente.
+
+7.1.2. Clasificación de Créditos Refinanciados y Readecuados. Los deudores con créditos refinanciados deberán conservar la clasificación que les correspondía antes de cancelar con el nuevo crédito el crédito original o de modificar las condiciones de este último, salvo que se trate de Créditos Categoría I – Buenos, en cuyo caso deberán ser clasificados al menos en Categoría II – Créditos Especialmente Mencionados. Los deudores con créditos readecuados no ameritan un cambio en la categoría de clasificación, sin embargo deberán ser registrados contablemente como tales. El tratamiento de los deudores refinanciados se realizará conforme la siguiente tabla:
+
+Sin perjuicio de la gestión de recuperación que realizan las instituciones supervisadas, para efectos de aplicar esta Norma se entenderán como pagos puntuales, los recibidos por la institución dentro de los cinco (5) días calendario siguientes a la fecha de pago pactada. En caso que la refinanciación contemple un período de gracia, los criterios señalados en el párrafo anterior respecto a la mejora en la clasificación crediticia del deudor, se aplicarán a partir de la conclusión de dicho período de gracia.
+
+7.1.4. Registro contable de los Créditos Refinanciados.
+
+Los créditos que hayan sido refinanciados deberán ser registrados contablemente como tales, de acuerdo a las disposiciones contenidas en el Manual Contable que corresponda. Los créditos refinanciados podrán ser registrados como créditos vigentes si se cumplen las siguientes condiciones: • Que los deudores de los créditos estén clasificados como Categoría I – Buenos o Categoría II – Créditos Especialmente Mencionados, como consecuencia de la evaluación de la capacidad de pago y lo señalado en el punto 7.1.3. • El deudor haya pagado por lo menos el 20% del capital de la deuda refinanciada. En caso de que la refinanciación contemple un período de gracia, los criterios señalados en el párrafo anterior respecto a la mejora en el registro contable del crédito refinanciado se aplicarán a partir de la conclusión de dicho período de gracia. Las refinanciaciones, deberán ser reportadas en la forma estadística SB-13, así como a la Central de Información Crediticia de la Comisión.
+
+7.2 Tratamiento Contable por Refinanciación de Créditos en Mora. Las instituciones sujetas a estas Normas, que refinancien algún crédito o cuota después de transcurrido el plazo aplicable en días de mora, deberán registrar la diferencia entre el valor al cual estuviere registrado el crédito en el activo antes de la refinanciación y el valor al cual quedare contabilizado una vez que ésta se haya efectuado, en la cuenta correspondiente del Manual Contable vigente. Estas reservas tendrán el carácter de transitorias y disminuirán por el pago de todo o parte del crédito refinanciado, sin que se otorgue otro préstamo para el efecto. En el caso que se refinancie un crédito castigado, se registrará en el pasivo, el monto total ingresado al activo en la cuenta que corresponda del Manual Contable vigente. Estas cuentas tendrán el carácter de transitorias y disminuirán por el pago de todo o parte del crédito refinanciado, sin que se otorgue otro préstamo para el efecto. En ambos casos, tanto las reservas como los pasivos se registrarán contra la cuenta “Productos Extraordinarios”, que corresponda al producto respectivo siempre y cuando sean efectivamente percibidos.
+
+Cuando la Comisión en las supervisiones habituales examine la clasificación de estos créditos refinanciados e informe un mayor riesgo para la cartera, podrá hacer los requerimientos que estime necesarios.
+
+8. Información Requerida de los Deudores.
+
+Para lograr un eficiente sistema de clasificación de cartera por categorías de riesgo, es fundamental contar con información completa, actualizada y de buena calidad del deudor. Esto aplicará, para todos los deudores en general, por lo que los expedientes de crédito deberán contener toda la información mínima descrita en los Anexos 1-A, 1-B y 1-C, que forman parte integral de estas Normas.
+
+9. Períodos de Clasificación.
+
+Es responsabilidad de las instituciones supervisadas, evaluar y clasificar su cartera crediticia mensualmente con base en los criterios establecidos en las presentes Normas y llevar registros internos en los que se justifiquen y documenten los resultados de las mismas, tanto en conjunto como por cada deudor clasificado, debiendo reclasificar los deudores cuando los eventos se produzcan, salvo en aquellos casos en que tengan expresa prohibición de hacerlo. En este último caso, para reclasificarlos, deberán contar con la autorización previa de la Comisión.
+
+10. Revisión de las Superintendencias.
+
+Las Superintendencias efectuarán las supervisiones que correspondan, para verificar que la clasificación de la cartera de créditos que efectúen las instituciones supervisadas, se realice de conformidad con los lineamientos establecidos en estas Normas.
+
+Ello podrá dar origen a reclasificaciones de créditos en categorías diferentes a las asignadas por la institución supervisada, cuando se observe que no se ha dado cabal cumplimiento a las pautas establecidas en estas Normas. Dichas reclasificaciones sustituirán, para todos los efectos, las realizadas por la institución. Toda la información relacionada con el riesgo crediticio, así como aquella referida a otras materias, deberá ser proporcionada en el período formal en que se realice la supervisión; siendo el plazo final, el día en que se dé por concluida la supervisión in-situ; es decir cuando se abandonen las instalaciones de la institución visitada. En la discusión de créditos y ajustes que se efectúe previo a la conclusión de la supervisión, estará presente el Superintendente respectivo, o la persona que éste designe en su representación. Posteriormente la Superintendencia respectiva, emitirá el informe definitivo de la supervisión. Las apelaciones a la clasificación en firme contenidas en el informe de supervisión referido, serán resueltas por la Comisión. Para ello, las instituciones presentarán la apelación al Superintendente que corresponda, acompañando la documentación de soporte y toda la información relacionada con el riesgo crediticio. Dicha apelación no libera de la obligación por parte de las instituciones de constituir las reservas determinadas por la Comisión hasta que la apelación haya sido resuelta.
+
+11. Reclasificación Total de Créditos.
+
+Cuando la Comisión verifique durante la ejecución de la supervisión in-situ, o, con fundamento en los informes de los auditores externos que la clasificación efectuada por la institución supervisada que se examina, difiere en un 25% de la provisión requerida que resulte de aplicar estas Normas en la muestra que se examina, podrá rechazar en su conjunto la clasificación realizada por la institución, instruyendo a la institución supervisada que corresponda, para que en un plazo no superior a treinta (30) días, ésta clasifique nuevamente dicha cartera. Si persistieren las deficiencias, la Superintendencia respectiva informará a la Comisión, la que adoptará las medidas que estime necesarias para obtener una apreciación exacta del riesgo asociado a la totalidad de la cartera crediticia.
+
+12. Constitución de Reservas y Castigo Contable sobre el Saldo de los Créditos en Mora.
+
+Las instituciones supervisadas deberán constituir el 100% de reservas sobre el saldo de la deuda al cumplirse dos (2) años de mora para Grandes y Pequeños Deudores Comerciales con garantías hipotecarias sobre bienes inmuebles, y vivienda; en caso de microcréditos, será de un año. Para proceder al castigo contable de los créditos a partes relacionadas, la Institución deberá solicitar previamente la autorización de la Comisión. Son requisitos legales y contables para el castigo de cualquier crédito, los siguientes: a) Aprobación de la Junta Directiva o Consejo de Administración. b) Comprobación de incobrabilidad. c) Constituir o tener constituido el 100% de reservas para los créditos que serán castigados. Las instituciones deberán establecer y mantener políticas y procedimientos aprobados por su junta directiva o consejo de administración para el castigo contable de los créditos.
+
+Las instituciones supervisadas deben reportar el detalle de los créditos castigados a la Central de Información Crediticia de la Comisión dentro de los diez (10) días hábiles posteriores al cierre de cada mes. En estos casos, la institución deberá remitir el punto de acta de Junta Directiva o Consejo de Administración mediante el cual se aprueba el castigo.
+
+Las instituciones supervisadas que a la fecha tengan su cobertura de reservas para créditos a mora inferiores al 100%, deberán alcanzar como mínimo un cien por ciento (100%) de cobertura de reservas constituidas sobre la cartera en mora a más tardar el 31 de diciembre del 2014 y ciento diez por ciento (110%) a más tardar el 31 de diciembre del 2015.
+
+Para lograr y mantener lo anterior, las instituciones supervisadas deberán mantener los saldos de reservas para créditos constituidas al 30 de noviembre de 2013, sin perjuicio de mantener los incrementos de tales reservas efectuados en diciembre de 2013.
+
+Las instituciones que excedan los porcentajes de cobertura anteriores, deberán mantenerse por encima de los mismos y no podrán disminuir la cobertura de reservas constituidas sobre cartera en mora, en más de diez por ciento de la relación porcentual reportada por cada institución al 30 de noviembre del 2013.
+
+Las instituciones que a la entrada en vigencia de esta Resolución estén por debajo del cien por ciento (100%) de cobertura de reservas constituidas sobre cartera en mora, establecerán un plan de constitución de reservas que les permita alcanzar los indicadores de cobertura establecidos en este numeral.
+
+Dicho plan deberá ser presentado para aprobación de la Junta Directiva de la institución y remitido a la Comisión a más tardar el 31 de enero del 2014.
+
+Las instituciones deben publicar en forma anual y trimestral los montos de las deficiencias o superávit de reservas requeridas en la presente Norma, en la publicación de indicadores y estados financieros, a partir de las publicaciones trimestrales a junio del 2014 y publicaciones anuales de estados financieros al 31 de diciembre del 2014.
+
+13. Elaboración y Remisión de Información.
+
+La clasificación de la cartera crediticia al interior de la institución supervisada, deberá ser elaborada por personal diferente al que gestiona y otorga el crédito; concretamente, a través de las unidades o gerencias de riesgo y bajo la coordinación del Comité de Riesgos. Los resultados de la clasificación mensual de la cartera de créditos, deberá remitirse a la Comisión por los medios que ésta disponga y en los formatos que forman parte integral de esta Resolución, dentro de los diez (10) días hábiles posteriores al término del trimestre respectivo. La información que se remita a la Central de Información Crediticia, deberá incluir la categoría de riesgo única asignada al deudor, de acuerdo a lo establecido en las presentes Normas. Dicha clasificación de cartera deberá ser hecha del conocimiento de la junta directiva o consejo de administración de las instituciones financieras.
+
+De manera excepcional, la remisión de la clasificación de la cartera de créditos al 31 de diciembre del 2013, se enviará a más tardar el 31 de enero del 2014 por los medios que la Comisión disponga y en los formatos que forman parte integral de esta Resolución.
+
+14. Derogatorias.
+
+A partir de la entrada en vigencia de la presente Norma quedará sin valor y efecto la Resolución SB No. 1464/05-08-2013 y la Resolución SB No. 2018/07-10-2013.
+
+15. Disposiciones Transitorias.
+
+Las instituciones supervisadas que a partir de la entrada en vigencia de la presentes Normas, no puedan enmarcarse a lo establecido en esta Resolución, por causa justificada y debidamente calificada por la Comisión, deberán presentar un plan de ajuste gradual el cual será autorizado por la Comisión.
+
+16. Lo no previsto en la presente norma será resuelto por la Comisión, de acuerdo con las mejores prácticas y estándares internacionales.
+
+3. Comunicar la presente Resolución a las instituciones del Sistema Financiero, de Seguros, de Pensiones, Organizaciones Privadas de Desarrollo Financiero y Sociedades Emisoras de Tarjetas de Crédito e Instituciones de Previsión.
+
+4. La presente Resolución es de ejecución inmediata y deberá ser publicada en el Diario Oficial La Gaceta. F) VILMA C. MORALES M., Presidenta, CARLOS ROBERTO ORTEGA MEDINA, Secretario General”.
+
+CARLOS ROBERTO ORTEGA MEDINA
+
+Secretario General
+
+ANEXOS DE LAS NORMAS PARA LA EVALUACIÓN Y CLASIFICACIÓN DE LA CARTERA CREDITICIA REFORMADA MEDIANTE RESOLUCIÓN SB No. 2559/27-12-2013 Anexo No. 1 – A Información Mínima Requerida en los Expedientes de Crédito Cartera Grandes Deudores Comerciales y Pequeños Deudores Comerciales.
+
+Todos los criterios aquí descritos aplican para grandes deudores comerciales y pequeños deudores comerciales, salvo que se especifique que un criterio le aplica particularmente a uno de ellos, por lo que las Instituciones deben mantener en los expedientes de crédito, la información mínima que se describe en los párrafos siguientes, la cual debe presentarse en el idioma español:
+
+1. SECCIÓN LEGAL
+
+En los casos que aplique esta información será requerida a personas naturales y jurídicas.
+
+1.1 Fotocopia de la Escritura de Constitución, sus modificaciones y otros documentos relevantes de la empresa.
+
+1.2 Nómina actualizada de Accionistas, Consejo de Administración, principales funcionarios y representantes legales de la empresa.
+
+1.3 Fotocopias de los poderes o autorizaciones otorgados por quienes tengan la facultad expresa, para contraer obligaciones en nombre de la empresa.
+
+1.4 Fotocopias de los documentos que amparan legalmente las operaciones de crédito tales como Pagarés, Letras de Cambio, Escrituras de Constitución de Garantías debidamente registradas, y cualquier otro documento que confirme la existencia de una acreencia real.
+
+1.5 Fotocopia de los Puntos de Acta de la Junta Directiva o de otra instancia resolutiva en el que conste la aprobación de los créditos otorgados.
+
+1.6 Fotocopia de los permisos extendidos por las autoridades correspondientes y requeridos para la ejecución del proyecto.
+
+1.7 Fotocopia de los documentos relacionados con los procesos de recuperación de los créditos por la vía judicial.
+
+1.8 Certificación o constancia que acredite que cuenten con Personalidad Jurídica debidamente extendida por la autoridad competente.
+
+2. SECCIÓN FINANCIERA
+
+2.1 Información financiera del deudor de los últimos tres (3) años o los que corresponda, si son menos los que tuviera de operar el prestatario, para lo cual tomará en cuenta los siguientes lineamientos:
+
+2.1.1 Grandes deudores comerciales: Estados financieros auditados por firmas independientes registradas en la Comisión o por firmas extranjeras cuando se trate de deudores no domiciliados en el territorio nacional (balance general, estado de resultados y flujo de caja).
+
+2.1.2 Pequeños deudores comerciales: Estados financieros internos certificados por un contador colegiado (balance general y estado de resultados).
+
+2.2 El análisis de riesgo del prestatario, que sirvió de base para la sustentación de la aprobación original del crédito (que incluye las referencias crediticias, obtenidas de la Central de Información Crediticia de la Comisión Nacional de Bancos y Seguros y/o de las Centrales de Riesgo Privadas) y las subsecuentes actualizaciones (indicando si el crédito fue objeto de refinanciación o readecuación y las razones para modificar las condiciones originales del crédito), todos elaborados con base en los lineamientos establecidos en el Anexo 1-C.
+
+2.3 Fotocopias de estudios de factibilidad de los proyectos financiados.
+
+2.4 Evaluación de la empresa en el tiempo o proyecto financiado debidamente analizado.
+
+3. CORRESPONDENCIA Y OTROS ANTECEDENTES
+
+3.1 Solicitud del crédito conteniendo todos los datos inherentes a la misma, debidamente firmada y sellada por las partes que intervienen, cuando corresponda.
+
+3.2 Antecedentes del deudor en relación a la experiencia crediticia con la institución supervisada y el sistema financiero en general.
+
+3.3 Avalúos de las garantías actualizados de conformidad a las disposiciones establecidas sobre la materia.
+
+En ambos casos dichos avalúos, deben ser efectuados por profesionales en la materia o empresas dedicadas a dicha actividad debidamente registrados en la Comisión.
+
+Las instituciones supervisadas deberán mantener un registro actualizado de las garantías y los antecedentes necesarios que demuestren su existencia, así como su debida formalización, la inscripción en los registros que corresponda y los avalúos correspondientes.
+
+3.4 Fotocopia de pólizas de seguros, debidamente endosadas a favor de la institución, que amparen los riesgos sobre los bienes que garantizan los préstamos.
+
+3.5 Correspondencia relacionada con el crédito y su cobro.
+
+3.6 Informes de visitas de seguimiento al deudor.
+
+3.7 Para grandes deudores comerciales: Informe que fundamente la categoría de riesgo del deudor.
+
+Anexo No. 1 - C Aspectos Mínimos que debe contener el Análisis de Riesgo del Deudor Elaborado por las Instituciones Supervisadas ASPECTOS GENERALES En lo concerniente a los grandes y pequeños deudores comerciales, las instituciones supervisadas deberán mantener en los expedientes de los prestatarios un análisis de riesgo, efectuado para cada facilidad crediticia otorgada, que deberá contener como mínimo lo siguiente:
+
+1. ANÁLISIS CUALITATIVO:
+
+Debe contener un análisis integral que evalúe como mínimo:
+
+1.1 Composición accionaria;
+
+1.2 Habilidad gerencial de su (s) administrador (es);
+
+1.3 Facultades para poder ejercer la representación legal del negocio;
+
+1.4 Giro principal del negocio y su ubicación geográfica;
+
+1.5 Análisis de principales competidores, cuota, precios y segmento de mercado;
+
+1.6 Análisis de principales clientes, proveedores y productos;
+
+1.7 Análisis de fortalezas y debilidades;
+
+1.8 Comportamiento crediticio del deudor en la institución y en el sistema supervisado en general;
+
+1.9 Garantías y cobertura de póliza de seguro.
+
+2. ANÁLISIS CUANTITATIVO:
+
+El análisis deberá ser comparativo con base a información financiera descrita en el numeral 2.1 del anexo 1-A, que no debe superar los seis (6) meses de antigüedad del cierre del período fiscal del deudor. Dicho análisis permite determinar la viabilidad financiera del negocio, incorporando, como mínimo, la información siguiente:
+
+2.1 Flujo de caja actualizado y proyectado, mismo que contendrá suficientes y razonables bases de sustentación, indicando los criterios utilizados para el cálculo de cada uno de los rubros que conforman dicho flujo de caja en función del plazo del crédito otorgado.
+
+2.2 Principales indicadores: Liquidez (rotación de cuentas por cobrar/por pagar, inventario), Patrimonio, Rentabilidad, Apalancamiento y Cobertura de Deuda.
+
+2.3 Sensibilización de los principales rubros.
+
+Lo anterior, no limita a que las instituciones efectúen seguimientos a la evolución financiera del deudor en períodos intermedios con información financiera interna.
+
+3. CONCLUSIONES Y RECOMENDACIONES
+
+ANEXO No. 2
+
+VALORACIÓN DE GARANTIAS PARA EFECTOS DE CLASIFICACIÓN DE CARTERA
+
+1. Aspectos Generales
+
+a) Para que una garantía, cualquiera sea su naturaleza, dentro de las mencionadas en el presente Anexo, pueda ser considerada en la clasificación de riesgo crediticio, debe estar legalmente constituida.
+
+Después de constituida la garantía de un crédito, ésta podrá ser liberada siempre que el deudor cancele el saldo total de las obligaciones crediticias, o que la institución supervisada tenga garantizada la entrega a su favor del producto de la enajenación del o los bienes que respaldan el crédito, ya sea que se trata de una liberación total o parcial de garantías.
+
+b) La correcta formalización de las hipotecas y garantías mobiliarias destinadas a garantizar un crédito, deberá constar en un informe elaborado por profesionales del derecho internos o externos a la institución, en el que se certifique lo descrito en el literal a) precedente, mismo que se agregará al expediente de crédito del deudor.
+
+c) Cuando se trate de bienes muebles o inmuebles, el valor computado de la garantía debe estar respaldado por un avalúo efectuado por profesionales en la materia o empresas dedicadas a dicha actividad debidamente registrados en la Comisión Nacional de Bancos y Seguros, de conformidad a las disposiciones establecidas sobre la materia.
+
+d) Los bienes que se entreguen en garantía, deben estar situados en el territorio nacional y su ejecución deberá realizarse conforme a la legislación y demás disposiciones vigentes sobre la materia.
+
+e) No será aplicable lo citado en el punto d) anterior, a los documentos referentes a operaciones de comercio exterior y a las cartas de crédito emitidas con la finalidad de servir de garantía.
+
+f) Los instrumentos financieros entregados en garantía, deben ser emitidos por personas diferentes al deudor directo, salvo que se trate de depósitos a plazo constituidos en la misma institución o que se trate de valores negociables emitidos por una institución financiera del país o del exterior, siempre que esta última sea calificada como de primer orden conforme a las disposiciones emitidas por el Banco Central de Honduras.
+
+g) Los Bonos de Prenda emitidos por Almacenes Generales de Depósito autorizados, deberán estar debidamente endosados a favor de la institución financiera.
+
+2. Criterios de Valoración
+
+a) Para efectos de la valoración de los bienes entregados en garantía, deberá tenerse presente los precios en que se efectúan las transacciones de bienes de similares características en los mercados correspondientes, prevalecientes en el momento de la aprobación del crédito.
+
+b) Para la valoración de los títulos valores emitidos por el Banco Central de Honduras o por el Gobierno de Honduras, se considerará el precio promedio de las transacciones de tales instrumentos, ocurridas durante el mes anterior a la fecha de la valoración en el mercado correspondiente. Si no hubiese transacciones en dicho mes, deberá estimarse un valor de liquidación, conforme a sus condiciones de plazo, calendario de amortización y tasa de interés.
+
+c) Para los depósitos a plazo constituidos como instrumentos negociables por instituciones financieras, se considerará el valor final de dichos depósitos, más los intereses u otros derechos que se acumulen a su vencimiento.
+
+d) Las garantías mobiliarias sobre letras de cambio y otros documentos representativos de créditos, que correspondan al precio pagadero a plazo de mercaderías que se exportan, que hayan sido emitidos o aceptados por una institución financiera nacional o extranjera y que representen para la entidad garantizada una obligación incondicional de pago, se valorizarán de acuerdo con los importes por los que se encuentren extendidos dichos documentos.
+
+e) Las garantías representadas por documentos de importación, serán valederas siempre que la institución financiera esté autorizada para disponer libremente de la mercadería que se importa. Por consiguiente, se pueden considerar como garantía los documentos de embarque mientras se mantengan en poder de la institución financiera, y sólo si el respectivo conocimiento de embarque o el documento que haga sus veces y la póliza o certificado de seguro estén extendidos a la orden de la institución financiera o endosados a él, sin restricción alguna. Las garantías representadas por documentos de importación se considerarán por el valor de la mercadería que se consigne en ellos, el que se determinará sobre la base del valor CIF o, cuando sea menor, por el que se hubiera declarado en la respectiva factura.
+
+f) Las garantías constituidas por las cartas de crédito irrevocables y confirmadas, emitidas por bancos del exterior que se encuentran calificadas en categoría BBB+ o superior, por una empresa calificadora internacional, se considerarán por el valor del respectivo documento.
+
+g) Las acciones que se reciban en garantía y que estén registradas en el mercado de valores, se valorizarán a precio de mercado. Aquellas que no estén registradas, se considerarán a su valor en libros. En este último caso, el valor en libros podrá ser castigado de acuerdo con el análisis que se practique a los estados financieros de la empresa.
+
+h) Adicionalmente a lo previsto en el numeral 3.3 del ANEXO No. 1 – A, para la valoración de los bienes físicos que se constituyan en garantía, ya sea con hipoteca o garantía mobiliaria deberán tenerse presente los valores predominantes de mercado, considerando asimismo, las dificultades que podría presentar su liquidación por parte de la institución financiera. En tal sentido, deberá utilizarse un criterio conservador para estimar el valor de liquidación de los bienes de que se trate.
+
+i) En el caso de las obras en construcción, garantizadas por el mismo bien que se está construyendo, se tomará en primer término el valor del terreno y se aumentará el valor de la garantía mediante los informes de avances de obra. Dichos informes de avance deberán estar certificados por un especialista inscrito en el Registro de Valuadores que para tal efecto lleva la Comisión Nacional de Bancos y Seguros.
+
+j) En el caso de contratos de arrendamiento, factoraje, y contratos de compra-venta a futuro que representen un flujo de ingreso para el deudor, y dichos contratos estén cedidos a favor de la institución financiera, se valorizarán de acuerdo al valor actual de dichos flujos.
+
+3. Orden Asignado al valor de los bienes entregados en Garantías sobre Hipotecas El valor de la garantía debe establecerse sobre la base de su valor de liquidación, por lo que es necesario considerar las demás cauciones que puedan existir sobre un mismo bien, en el siguiente orden:
+
+a) Cuando se trate de una hipoteca de primer grado, se tomará su avalúo menos el descuento que conforme a la Tabla de Descuentos contenida en el numeral 4, del presente Anexo.
+
+b) Cuando se trata de una hipoteca de segundo, tercer o más grados, siempre que las anteriores no correspondan a “única y especial hipoteca”, se descontará del valor determinado en el literal anterior, el monto de los créditos garantizados con mayor prioridad, obteniéndose un valor residual. En caso que cualquiera de los créditos anteriores tenga cláusula de “única y especial hipoteca”, la garantía actual se considerará sin valor residual.
+
+4. Descuentos al valor de los avalúos Como criterio realista y conservador, a los avalúos que realicen los profesionales en la materia o empresas dedicadas a dicha actividad registrados en la Comisión Nacional de Bancos y Seguros, o al valor neto consignado en la escritura siguiendo criterios de mercado, se les aplicará un descuento adicional por los siguientes conceptos:
+
+a) Por riesgo de fluctuación de precios, para cubrir el deterioro o las variaciones de mercado que puedan afectar los precios de los bienes.
+
+b) Por gastos de ejecución y costos de comercialización, lo que comprende gastos notariales, honorarios profesionales y otros gastos relacionados con la enajenación de la garantía. Estos últimos se producen normalmente porque las instituciones financieras no cuentan con la infraestructura física, equipos de venta, expertos en comercialización, ni con los canales adecuados de distribución para la venta de tales bienes.
+
+Los porcentajes globales mínimos de descuento contenidos en la siguiente Tabla, serán aplicados según el tipo y características del bien de que se trate; dichos porcentajes variarán según los días de mora que tenga el crédito y serán deducidos del valor de los avalúos o del valor consignado en la escritura.
+
+• •
+
+• •
+
+• •
+
+• •
+
+• 5. Situaciones en que corresponde valorar una Garantía Las instituciones supervisadas deberán valorizar sus garantías en las siguientes situaciones:
+
+a) Previo al otorgamiento de un crédito con garantía.
+
+1 Bienes de Consumo Final: Aquellos que son utilizados por los consumidores finales, quedando excluidos de este concepto, los productos que requieren de mayor elaboración o que constituyen materia prima para otra empresa, aunque correspondan al producto final de una industria intermedia.
+
+2 Que no constituyan inventarios 3 Que no constituyan inventarios 4 Que no constituyan inventarios
+
+b) Cuando se refinancie una operación de crédito, amparada con garantías adicionales.
+
+c) En cualquier otra circunstancia que un sano manejo financiero lo aconseje, tomando en cuenta lo señalado en el numeral 3.3 del Anexo No. 1-A.
+
+6. Registro Contable de las Garantías Las instituciones supervisadas, deberán mantener actualizados sus datos sobre el valor de las garantías en atención al tipo de bien que se constituye como colateral.
+
+Se autoriza a dichas instituciones utilizar las cuentas consignadas en los Manuales Contables correspondientes para los fines previstos sobre esta materia.
+
+Comisión Nacional de Bancos y Seguros
+
+JUZGADO DE LETRAS CIVIL DEL DEPARTAMENTO DE FRANCISCO MORAZÁN CENTRO CIVIL DE JUSTICIA AVISO DE CANCELACIÓN Y REPOSICIÓN DE TITULO VALOR La infrascrita, Secretaria del Juzgado de Letras Civil del departamento de Francisco Morazán, al público en general y para los efectos de Ley.
+
+HACE SABER: Que ante este Tribunal de Justicia compareció la Abogada MELANY MARTINEZ RAMOS, en su condición de Representante Procesal de los señores HERMINIO TADEO AMADOR PONCE y NELLY ORELLANA TROCHEZ DE AMADOR, en fecha trece de abril del año dos mil doce, solicitando la cancelación y Reposición del Título Valor con las siguientes características siguientes: Certificado de Depósito número 601DPH000002031, emitido por BANCO CITIBANK DE HONDURAS, S.A., a favor de los señores HERMINIO TADEO AMADOR PONCE y NELLY ORELLANA TROCHEZ DE AMADOR, por un valor de CIENTO UN MIL LEMPIRAS, con fecha de vencimiento once (11) de julio del dos mil doce (2012), con una tasa de interés del 5.75% y a un plazo de trescientos sesenta y cinco (365) días. Lo que se pone en conocimiento del público para los efectos de Ley correspondientes.
+
+Tegucigalpa, M.D.C., 18 de noviembre de 2013 MARCO TULIO CALLIZO S.
+
+SECRETARIO ADJUNTO EXPEDIENTE NÚMERO 0801-2012-02619-CV
+
+6 E. 2013 _______
+
+AVISO DE CANCELACIÓN Y REPOSICIÓN DE
+
+TITULO VALOR
+
+La infrascrita, Secretaria Adjunta del Juzgado de Letras Civil de la Sección Judicial, de San Pedro Sula, al público en general y para efectos de Ley y según lo establecido en el artículo 634 párrafo tercero y 640 del Código de Comercio, HACE SABER:
+
+Que en fecha 02 de octubre del año 2013, del abogado MARLON SEBASTIAN ARGUETA MURILLO, en su condición de Apoderado Legal del señor LUIS FERNANDO DIAZ ZELAYA, presentó solicitud de Cancelación y Reposición del siguiente Título Valor consistente en un Pagaré con número 28/01/086 por la cantidad de DOSCIENTOS SESENTA MIL DOLARES ($. 260,000.00), propiedad de su representado el cual fue extraviado; el referido Título está identificado en la empresa INVERSIONES CONTINENTAL PANAMÁ, S.A., por medio de su representante Legal el señor JAIME ROSENTHAL OLIVA.
+
+San Pedro Sula, Cortés, 17 de diciembre del año 2013.
+
+ABOG. MELISSA ARGENTINA MEJIA LOZANO SECRETARIA JUZGADO DE LETRAS CIVIL DE LA
+
+SECCIÓN JUDICIAL DE SAN PEDRO SULA, CORTES
+
+6 E. 2013 ______ La EMPRESA NACIONAL DE ARTES GRÁFICAS le ofrece los siguientes servicios:
+
+LIBROS
+
+24 17
+
+FOLLETOS TRIFOLIOS FORMAS CONTINUAS AFICHES FACTURAS TARJETAS DE PRESENTACIÓN CARÁTULAS DE ESCRITURAS CALENDARIOS EMPASTES DE LIBROS REVISTAS.
+
+Avance Próxima Edición Suplementos
+
+\1) Publicación de Resolución.
+
+¡Pronto tendremos! A) Suplemento Corte Suprema de Justicia.
+
+CENTROS DE DISTRIBUCIÓN:
+
+LA CEIBA SAN PEDRO SULA CHOLUTECA
+
+La Ceiba, Atlántida, Salida a Puerto Cortés, Centro Comercial Choluteca, Choluteca, barrio Solares Nuevos, Ave. Colón, “Los Castaños”. barrio La Esperanza, calle edificio Pina, 2a. planta, Aptos.
+
+Teléfono: 25519910. principal, costado Oeste A-8 y A-9 del Campo AGACH Tel.: 443-4484 Tel.: 782-0881
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 33321 del 2014-01-06, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20140106-33321/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

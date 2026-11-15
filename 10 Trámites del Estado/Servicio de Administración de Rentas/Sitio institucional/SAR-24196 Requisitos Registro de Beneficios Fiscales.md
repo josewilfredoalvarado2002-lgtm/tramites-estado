@@ -77,7 +77,7 @@ Nota 2: En el caso de gozar del cuarto (4) y quinto (5) periodo fiscal el OT deb
 <!-- normas:inicio -->
 ## Normas citadas
 
-> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2014). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2011). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
 - Decreto 48-2022 → [[Decreto 48-2022 (Gaceta 35933)]] (La Gaceta del 2022-05-26; emisor: Poder Legislativo)
 <!-- normas:fin -->

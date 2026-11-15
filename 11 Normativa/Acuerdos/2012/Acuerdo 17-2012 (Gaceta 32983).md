@@ -1,0 +1,72 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "17-2012"
+titulo: "ACUERDO No. 17-2012"
+emisor: "Secretaría de Estado en los Despachos del Interior y Población"
+gaceta_numero: 32983
+gaceta_fecha: "2012-11-24"
+gaceta: "[[11 Normativa/La Gaceta/2012/La Gaceta 32983 (2012-11-24)|La Gaceta 32983]]"
+paginas: "A. 3 - 4"
+sumario: "Acuerdos Nos.: 14-2012 y 17-2012.Sección “B” Pág. 67 y 68. 065-2012, 066-2012, 067-2012 y 068-2012."
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20121124-32983/download"
+extraido: "2026-11-15"
+huella: "9e7ca7d195305516"
+---
+<!-- portal:inicio -->
+# ACUERDO No. 17-2012
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 17-2012 |
+| Emisor | Secretaría de Estado en los Despachos del Interior y Población |
+| Publicado en | [[11 Normativa/La Gaceta/2012/La Gaceta 32983 (2012-11-24)\|La Gaceta 32983]] del 2012-11-24 |
+| Páginas | A. 3 - 4 |
+| Según el sumario de La Gaceta | Acuerdos Nos.: 14-2012 y 17-2012.Sección “B” Pág. 67 y 68. 065-2012, 066-2012, 067-2012 y 068-2012. |
+
+## Texto
+
+Santa Rosa de Copán, 08 de Marzo del 2012.
+
+EL GOBERNADOR DEPARTAMENTAL DE COPÁN
+
+CONSIDERANDO: Que en uso de las facultades de que está investido y en aplicación a los Artículos 245 atribución 11) de la Constitución de la República; 119 de la Ley General de la Administración Pública, 44 numeral 5) del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo.
+
+CONSIDERANDO: Que de conformidad con la Ley de Procedimiento Administrativo, la competencia puede ser delegado del órgano superior a un órgano inferior en determinadas materias.
+
+CONSIDERANDO: Que mediante Acuerdo Ministerial N°. 633-A-2007 de fecha 28 de diciembre de 2007, el Señor Secretario de Estado en los Despachos de Gobernación y Justicia antes, ahora modificado por Secretaría del Interior y Población mediante Decreto Legislativo No. 177-2010, publicado en el Diario Oficial “La Gaceta”, delegó en los Gobernadores Departamentales emitir los Acuerdos, dispensando la publicación de los edictos para contraer matrimonio.
+
+ACUERDA:
+
+PRIMERO: Dispensar la publicación de Edictos para contraer matrimonio civil a las siguientes personas:
+
+DEPARCONTRAYENTES TAMENTO MUNICIPIO
+
+Miguel Ángel Ana Elizabeth Copán Santa Rosa de López Morales Miranda Castellanos Copán
+
+SEGUNDO: El presente Acuerdo es efectivo a partir de su fecha y deberá publicarse en el Diario Oficial “La Gaceta”.
+
+PUBLÍQUESE.
+
+JUAN CARLOS LAGOS FUENTES GOBERNADOR DEPARTAMENTAL DE COPÁN
+
+Avance Próxima Edición Suplementos
+
+\1) Acuerda: La publicación de Edictos para contraer Matrimonio Civil.
+
+¡Pronto tendremos! A) Suplemento Corte Suprema de Justicia.
+
+CENTROS DE DISTRIBUCIÓN:
+
+LA CEIBA SAN PEDRO SULA CHOLUTECA
+
+La Ceiba, Atlántida, Barrio El Centro, Choluteca, Choluteca, barrio Solares Nuevos, Ave. Colón, 5a. calle, 6 y 7 avenida, 1/2 cuadra arriba barrio La Esperanza, calle edificio Pina, 2a. planta, Aptos. de Farmacia SIMÁN. Tel.: 550-8813 principal, costado Oeste A-8 y A-9 del Campo AGACH Tel.: 443-4484 Tel.: 782-0881
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 32983 del 2012-11-24, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20121124-32983/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

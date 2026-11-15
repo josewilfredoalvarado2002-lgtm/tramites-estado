@@ -1,0 +1,60 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "765-2011"
+titulo: "ACUERDO No. 765-2011"
+emisor: "Secretaría de Estado Interior y Población"
+gaceta_numero: 33019
+gaceta_fecha: "2013-01-08"
+gaceta: "[[11 Normativa/La Gaceta/2013/La Gaceta 33019 (2013-01-08)|La Gaceta 33019]]"
+paginas: "A. 6"
+sumario: "Acuerdos Nos.: 547-2011, 554-2011,761-2011, 764-2011, 765-2011 y 768-2011. (770-2011 y 975-2011 B-20-21)."
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20130108-33019/download"
+extraido: "2026-11-15"
+huella: "f6c05243409761f9"
+---
+<!-- portal:inicio -->
+# ACUERDO No. 765-2011
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 765-2011 |
+| Emisor | Secretaría de Estado Interior y Población |
+| Publicado en | [[11 Normativa/La Gaceta/2013/La Gaceta 33019 (2013-01-08)\|La Gaceta 33019]] del 2013-01-08 |
+| Páginas | A. 6 |
+| Según el sumario de La Gaceta | Acuerdos Nos.: 547-2011, 554-2011,761-2011, 764-2011, 765-2011 y 768-2011. (770-2011 y 975-2011 B-20-21). |
+
+## Texto
+
+Tegucigalpa, M.D.C., 29 de marzo, 2011
+
+EL SEÑOR SECRETARIO DE ESTADO EN EL DESPACHO DEL INTERIOR Y POBLACIÓN
+
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. 002-2002, el Presidente de la República delegó en el Secretario de Estado en los Despachos de Gobernación y Justicia, emitir los Acuerdos dispensando la publicación de los edictos para contraer matrimonio.
+
+CONSIDERANDO: Que en uso de las facultades de que está investido y en aplicación a los Artículos: 245 atribución 11) de
+
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 02-2010 de fecha 27 de enero de 2010, se nombró al ciudadano CARLOS ÁFRICO MADRID HART; como Secretario de Estado en los Despachos de Gobernación y Justicia y se modificó mediante Acuerdo No. 271-2010 de fecha 7 de octubre de 2010.
+
+CONSIDERANDO: Que mediante Acuerdo Ministerial No. 474-A-2010 de fecha 10 de febrero de 2010, el Secretario de Estado del Ramo CARLOS ÁFRICO MADRID HART, delegó en la Subsecretaria de Gobernación y Territorio, ciudadana CARMEN ESPERANZA RIVERA PAGOAGA, la facultad de firmar los Acuerdos Dispensando la publicación de edictos para contraer Matrimonio.
+
+ACUERDA:
+
+PRIMERO: Dispensar la publicación de Edictos para contraer matrimonio civil a las siguientes personas.
+
+El Ella Departamento Municipio
+
+DONALD ALEJANDRO DERAS SANTOS CINTHIA FABIOLA MARTINEZ FLORES FRANCISCO MORAZAN Distrito Central FERNANDO AUGUSTO MORALES ESTRADA GRECIA LORENA LOPEZ URRUTIA FRANCISCO MORAZAN Distrito Central ALEJANDRO LENIN FLORES LOPEZ MARIELA DENISE FLORES PUERTO FRANCISCO MORAZAN Distrito Central JEFFREY ALEXANDER PEREZ ANDINO LOURDES ELIANA HERNANDEZ SABILLON FRANCISCO MORAZAN Distrito Central FRANCKLIN DE LOS SANTOS MORAZAN YESIS ARGENIA CASTILLO MARADIAGA FRANCISCO MORAZAN Santa Lucía RODRIGUEZ FERNANDO BERASTETY GARCIA LUISA MARIA CARBAJAL BANEGAS CORTES San Pedro Sula HECTOR ROLANDO PAZ MERLO ZAIDA JISSELE FUNEZ MEDINA CORTES San Pedro Sula WILLIANS RAMOS VARGAS CAPPAS BERTHA JULIA CASTILLO PALOMO CORTES San Pedro Sula CARLOS JAVIER PAREDES CANALES ANA AZALILA CONTRERAS BELISLE CORTES San Pedro Sula EDER NETAEL CALIX LOPEZ INGRID JULISSA CHAVEZ BANEGAS CORTES San Pedro Sula OSCAR ROLANDO MENDOZA HERRERA THERESA ANN TOWNSEND CORTES San Pedro Sula DAVID ORLANDO MAZARIEGOS SALGADO CINTHIA MARIE LICONA HOWELL FRANCISCO MORAZAN Distrito Central GUSTAVO ADOLFO RODRIGUEZ PERDOMO KENIA PAHOLA DELCID RAMOS CORTES San Pedro Sula RUBEN ALEXANDER CASTILLO FLORES LILIAN MERCEDES MARTINEZ RODRIGUEZ CORTES San Pedro Sula LUIS ROLANDO CHAVEZ MEJIA FABIOLA ROSITA GONZALEZ ORDOÑEZ CORTES San Pedro Sula SAMMY SAID ALMENDARES CASTILLO CINTHIA VANESSA ROJAS GARCIA FRANCISCO MORAZAN Distrito Central ADIN BARTOLOME CASTRO HERNANDEZ GLADIS YOLANDA AMADO AMAYA CORTES San Pedro Sula DENIS JOEL TELLES VILLANUEVA MARY YOLANDA MEJIA TORRES CORTES San Pedro Sula EFREEN ISABEL MANZANAREZ REYES NORIS GRISEL GUEVARA FERRUFINO FRANCISCO MORAZAN Distrito Central OMAR ALONZO TORRES TORRES OLGA LIZETH MALDONADO NUÑEZ FRANCISCO MORAZAN Distrito Central WILFREDO MENDOZA DUARTE NORMA ISABEL AGUILAR VILLANUEVA CORTES San Pedro Sula JULIO ERNESTO MEJIA VASQUEZ VICTORIANA FLORES FLORES CORTES San Pedro Sula DENIS ARMANDO CANALES YENIFER YOLANY ROJAS CANALES CORTES San Pedro Sula JOSE ALFREDO OSORTO REYES JARRIETH SCARLET ALVARADO CHAVEZ CORTES San Pedro Sula HECTOR ARMANDO GOMEZ DIAZ ARGEL GABRIELA ROVELO HERNANDEZ FRANCISCO MORAZAN Distrito Central LUIS FERNANDO CACERES CARTAGENA NANCY LEONELA ROSA SOSA CORTES San Pedro Sula HECTOR MANUEL GARRIDO REDONDO DELMA ZINAI ANTUNEZ CORTES San Pedro Sula RENAN ALBERTO LARIOS PINEDA LUDIN DAMARIS FUENTES REDONDO CORTES San Pedro Sula WALTER RAMIRO FLORES SANCHEZ EVA LIZETH MONCADA SANCHEZ FRANCISCO MORAZAN Santa Lucía MANUEL ORLEY VERGARA JARAMILLO DAYSI ALEJANDRA CARCAMO VALDIVIESO CORTES Choloma OMAR EMILIO RIVERA STEVES YENY PAMELA MARTINEZ DIAZ CORTES San Pedro Sula FELINO MUÑOZ GILMA MARIETH MEDINA FRANCISCO MORAZAN Distrito Central
+
+SEGUNDO: El presente Acuerdo es efectivo a partir de su fecha y deberá publicarse en el Diario Oficial “La Gaceta”. PUBLÍQUESE.
+
+CARMEN ESPERANZA RIVERA PAGOAGA SUBSECRETARIA DE GOBERNACIÓN Y TERRITORIO PASTOR AGUILAR MALDONADO SECRETARIO GENERAL
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 33019 del 2013-01-08, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20130108-33019/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

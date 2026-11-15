@@ -17,5 +17,5 @@ tipo: "normativa_anio"
 - [[11 Normativa/La Gaceta/2021/2021-04 Abril|Abril de 2021]] (25 ediciones)
 - [[11 Normativa/La Gaceta/2021/2021-03 Marzo|Marzo de 2021]] (30 ediciones)
 - [[11 Normativa/La Gaceta/2021/2021-02 Febrero|Febrero de 2021]] (27 ediciones)
-- [[11 Normativa/La Gaceta/2021/2021-01 Enero|Enero de 2021]] (27 ediciones)
+- [[11 Normativa/La Gaceta/2021/2021-01 Enero|Enero de 2021]] (28 ediciones)
 <!-- portal:fin -->
