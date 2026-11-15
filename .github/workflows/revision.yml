@@ -38,7 +38,10 @@ jobs:
           key: languagetool-v1
 
       - name: Instalar LanguageTool
-        run: python3 -m pip install --quiet --break-system-packages language_tool_python
+        run: |
+          python3 -m pip install --quiet --break-system-packages language_tool_python
+          # diccionario inglés: para no marcar como faltas las palabras en inglés de algunos documentos
+          sudo apt-get install -y -qq wamerican > /dev/null
 
       - name: Revisar las fichas
         env:

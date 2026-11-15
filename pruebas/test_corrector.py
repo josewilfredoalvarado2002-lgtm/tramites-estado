@@ -81,6 +81,19 @@ class Revisor(unittest.TestCase):
         hs = C.hallazgos_de_nota("x.md", FICHA, revisar, conocidas={"revision"})
         self.assertEqual(hs, [])
 
+    def test_ingles_y_renglones_ilegibles_no_se_marcan(self):
+        md = FICHA.replace("- Constancia del Ministerio", "- The lifeboat is ready and the crew is on deck.\n"
+                           "- $UWtFXOR &DGDSXHUWR WHUPLQDO SODWDIRUPD revision\n- Constancia del Ministerio")
+        revisar = falso_revisor({"lifeboat": ("lifting", "MORFOLOGIK_RULE_ES", "TYPOS"),
+                                 "WHUPLQDO": ("terminal", "MORFOLOGIK_RULE_ES", "TYPOS"),
+                                 "SODWDIRUPD": ("plataforma", "MORFOLOGIK_RULE_ES", "TYPOS"),
+                                 "revision": ("revisión", "MORFOLOGIK_RULE_ES", "TYPOS"),
+                                 "crew": ("cree", "MORFOLOGIK_RULE_ES", "TYPOS")})
+        hs = C.hallazgos_de_nota("x.md", md, revisar, set(), ingles={"crew"})
+        # solo queda «revision» de la línea en español; ni el inglés ni el renglón revuelto
+        self.assertEqual(len(hs), 1)
+        self.assertIn("boleta de revision", hs[0]["antes"])
+
     def test_agrupa_el_mismo_texto_en_varias_fichas(self):
         revisar = falso_revisor({"Publico": ("Público", "DIACRITICS_VERB_N_ADJ", "TYPOS")})
         a = C.hallazgos_de_nota("10 Trámites del Estado/IP/A.md", FICHA, revisar, set())
