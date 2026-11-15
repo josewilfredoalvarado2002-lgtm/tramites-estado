@@ -477,8 +477,7 @@ def _cita(h):
 
 def nota_revision(pendientes, total_fichas, n_corregidas, n_dejadas, fecha):
     fichas = {n for h in pendientes for n in h["notas"]}
-    lineas = ["---", 'tipo: "revision_textos"', "---", "# Revisión de textos", "",
-              "> [!info] Cómo se usa",
+    lineas = ["> [!info] Cómo se usa",
               "> LanguageTool leyó las fichas de trámites y encontró estos **posibles** errores. Todavía no se cambió nada.",
               "> - Marcá **Corregir** y la ficha queda corregida en la próxima hora. Al pie de la ficha queda dicho qué se corrigió.",
               "> - Marcá **Dejar como está** si el texto está bien: un nombre, una sigla, un término técnico.",
@@ -489,15 +488,24 @@ def nota_revision(pendientes, total_fichas, n_corregidas, n_dejadas, fecha):
               f"**Fichas revisadas:** {total_fichas} · **Última revisión:** {fecha}", ""]
     if len(pendientes) > MAX_EN_NOTA:
         lineas += [f"> [!note] Se muestran los primeros {MAX_EN_NOTA}. A medida que los marqués, aparecen los siguientes.", ""]
+    # primero lo que se repite en varias fichas (una marca corrige todas), después cada institución
+    orden = sorted(pendientes, key=lambda h: (len(h["notas"]) == 1, h["institucion"] if len(h["notas"]) == 1 else "",
+                                              -len(h["notas"]), h["titulos"][0], h["id"]))
     inst = None
-    for h in pendientes[:MAX_EN_NOTA]:
-        if h["institucion"] != inst:
-            inst = h["institucion"]
+    for h in orden[:MAX_EN_NOTA]:
+        grupo = "En varias fichas" if len(h["notas"]) > 1 else h["institucion"]
+        if grupo != inst:
+            inst = grupo
             lineas += [f"## {inst}", ""]
-        enlaces = [f"[[{n[:-3]}|{t}]]" for n, t in zip(h["notas"], h["titulos"])]
-        donde = enlaces[0] if len(enlaces) == 1 else f"En {len(enlaces)} fichas: " + ", ".join(enlaces[:5]) + \
-            (f" y {len(enlaces) - 5} más" if len(enlaces) > 5 else "")
-        lineas += [f"**{donde}** · *{h['seccion'] or 'Texto'}*", f"> {_cita(h)}", f"> *{h['mensaje']}*",
+        def corto(t, n=70):
+            return t if len(t) <= n else t[:n].rsplit(" ", 1)[0] + "…"
+        enlaces = [f"[[{n[:-3]}|{corto(t)}]]" for n, t in zip(h["notas"], h["titulos"])]
+        if len(enlaces) == 1:
+            donde = f"**{enlaces[0]}** · *{h['seccion'] or 'Texto'}*"
+        else:
+            donde = (f"**En {len(enlaces)} fichas de {h['institucion']}**, por ejemplo " + ", ".join(enlaces[:3]) +
+                     f" · *{h['seccion'] or 'Texto'}*")
+        lineas += [donde, f"> {_cita(h)}", f"> *{h['mensaje']}*",
                    f"- [ ] Corregir: «{h['palabra']}» → «{h['sugerencia']}» %%corregir:{h['id']}%%",
                    f"- [ ] Dejar como está %%dejar:{h['id']}%%", ""]
     if not pendientes:
@@ -526,7 +534,9 @@ def corrector(repo, boveda, gracia_seg=120, ahora=None):
     if datos is not None:
         hallazgos = datos.get("hallazgos", [])
         por_id = {h["id"]: h for h in hallazgos}
-        editando = os.path.exists(ruta_nota) and ahora - os.path.getmtime(ruta_nota) < gracia_seg
+        # una edición tuya reciente se respeta; lo que escribió el propio puente no cuenta como edición
+        editando = (os.path.exists(ruta_nota) and os.path.getmtime(ruta_nota) != dec.get("mtime_nota")
+                    and ahora - os.path.getmtime(ruta_nota) < gracia_seg)
         if not editando:
             marcas = leer_marcas(leer(ruta_nota)) if os.path.exists(ruta_nota) else {"corregir": set(), "dejar": set()}
             dudosas = marcas["corregir"] & marcas["dejar"]          # las dos casillas: no se hace nada
@@ -555,7 +565,10 @@ def corrector(repo, boveda, gracia_seg=120, ahora=None):
             pendientes = [h for h in hallazgos if h["id"] not in decididas]
             texto = nota_revision(pendientes, datos.get("fichas_revisadas", 0), len(dec["corregir"]),
                                   len(dec["dejar"]), datos.get("fecha", ""))
-            _escribir_si_cambia(ruta_nota, texto)
+            if _escribir_si_cambia(ruta_nota, texto) or dec.get("mtime_nota") != os.path.getmtime(ruta_nota):
+                dec["mtime_nota"] = os.path.getmtime(ruta_nota)
+                os.makedirs(os.path.dirname(ruta_dec), exist_ok=True)
+                escribir_atomico(ruta_dec, json.dumps(dec, ensure_ascii=False, indent=1))
     por_nota = {}
     for hid, c in sorted(dec["corregir"].items()):
         for n in c["notas"]:
