@@ -76,6 +76,13 @@ class Revisor(unittest.TestCase):
             self.assertIn(h["antes"], FICHA)
             self.assertEqual(h["despues"], h["antes"].replace(h["palabra"], h["sugerencia"], 1))
 
+    def test_solo_tildes_nunca_cambia_palabras(self):
+        revisar = falso_revisor({"boleta": ("boletas", "MORFOLOGIK_RULE_ES", "TYPOS"),          # cambia letras
+                                 "cuando el": ("cuando él", "EL_TILDE_X", "GRAMMAR"),          # solo tilde
+                                 "fue robado": ("fue robada", "CONCORDANCIA", "GRAMMAR")})     # cambia letras
+        hs = C.hallazgos_de_nota("x.md", FICHA, revisar, set())
+        self.assertEqual([(h["palabra"], h["sugerencia"]) for h in hs], [("cuando el", "cuando él")])
+
     def test_palabra_repetida_en_muchas_fichas_se_da_por_buena(self):
         revisar = falso_revisor({"revision": ("revisión", "MORFOLOGIK_RULE_ES", "TYPOS")})
         hs = C.hallazgos_de_nota("x.md", FICHA, revisar, conocidas={"revision"})

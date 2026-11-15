@@ -434,6 +434,13 @@ _MARCA = re.compile(r"^\s*- \[([ xX])\].*%%(corregir|dejar):([0-9a-f]{12})%%\s*$
 _TITULO_CORRECCIONES = "> [!note]- Correcciones hechas en Case Deck"
 
 
+def solo_tilde(palabra, sugerencia):
+    """Mismas letras y mayúsculas; solo cambia alguna tilde. Es lo único que se propone corregir."""
+    def sin(t):
+        return "".join(c for c in unicodedata.normalize("NFD", t) if c != "\u0301")
+    return palabra != sugerencia and sin(palabra) == sin(sugerencia)
+
+
 def leer_marcas(texto):
     """{'corregir': {ids marcados}, 'dejar': {ids marcados}} de la nota de revisión."""
     marcas = {"corregir": set(), "dejar": set()}
@@ -478,7 +485,8 @@ def _cita(h):
 def nota_revision(pendientes, total_fichas, n_corregidas, n_dejadas, fecha):
     fichas = {n for h in pendientes for n in h["notas"]}
     lineas = ["> [!info] Cómo se usa",
-              "> LanguageTool leyó las fichas de trámites y encontró estos **posibles** errores. Todavía no se cambió nada.",
+              "> LanguageTool leyó las fichas de trámites y encontró estas **tildes** que posiblemente faltan o sobran. "
+              "Solo se proponen tildes: nunca se agregan ni se cambian palabras de la fuente.",
               "> - Marcá **Corregir** y la ficha queda corregida en la próxima hora. Al pie de la ficha queda dicho qué se corrigió.",
               "> - Marcá **Dejar como está** si el texto está bien: un nombre, una sigla, un término técnico.",
               "> - Si el mismo texto aparece en varias fichas, una sola marca sirve para todas.",
@@ -562,7 +570,7 @@ def corrector(repo, boveda, gracia_seg=120, ahora=None):
                 log(f"Revisión de textos: {len(dec['corregir'])} correcciones aprobadas, "
                     f"{len(dec['dejar'])} dejadas como están.")
             decididas = set(dec["corregir"]) | set(dec["dejar"])
-            pendientes = [h for h in hallazgos if h["id"] not in decididas]
+            pendientes = [h for h in hallazgos if h["id"] not in decididas and solo_tilde(h["palabra"], h["sugerencia"])]
             texto = nota_revision(pendientes, datos.get("fichas_revisadas", 0), len(dec["corregir"]),
                                   len(dec["dejar"]), datos.get("fecha", ""))
             if _escribir_si_cambia(ruta_nota, texto) or dec.get("mtime_nota") != os.path.getmtime(ruta_nota):

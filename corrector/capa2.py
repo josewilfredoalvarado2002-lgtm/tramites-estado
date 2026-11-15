@@ -5,7 +5,10 @@ No cambia ninguna nota. Lee el bloque del portal de cada ficha, le pasa a Langua
 revision/hallazgos.json. En la bóveda, el puente convierte ese archivo en la nota «Revisión de textos»,
 donde vos marcás qué se corrige y qué se deja; solo lo que marcás se aplica.
 
-Para que la lista sea corta y útil, se descartan:
+Solo se proponen tildes (poner o quitar una tilde: «vehiculo» -> «vehículo», «dictámen» -> «dictamen»).
+Nunca se agregan, quitan ni cambian palabras o letras: el texto sigue siendo el de la fuente oficial.
+
+Para que la lista sea corta y útil, además se descartan:
   - las reglas de estilo, tipografía y mayúsculas (no son errores de ortografía);
   - las palabras con mayúscula inicial o en mayúsculas (casi siempre son nombres propios o siglas);
   - las palabras que se repiten escritas igual en 3 fichas o más (términos técnicos, nombres de sistemas);
@@ -15,6 +18,7 @@ Uso:  python3 -m corrector.capa2 [carpeta_del_repositorio]
       (necesita Java y el paquete language_tool_python; en GitHub corre en el flujo sitios.yml)
 """
 import hashlib
+import unicodedata
 import json
 import os
 import re
@@ -131,8 +135,19 @@ def palabras_conocidas(textos):
     return {w for w, n in c.items() if n >= MIN_REPETICION}
 
 
+_TILDES = {"\u0301"}           # tilde (acento agudo): lo único que el corrector puede poner o quitar
+
+
+def solo_tilde(palabra, sugerencia):
+    """True si la sugerencia solo pone o quita tildes: mismas letras, en el mismo orden y con las mismas mayúsculas.
+    «vehiculo» -> «vehículo» o «dictámen» -> «dictamen» sí; «en caso que» -> «en caso de que» o «carga» -> «cargar» no."""
+    def sin(t):
+        return "".join(c for c in unicodedata.normalize("NFD", t) if c not in _TILDES)
+    return palabra != sugerencia and sin(palabra) == sin(sugerencia)
+
+
 def filtrar(match, palabra, conocidas, ingles=frozenset()):
-    """True si el aviso de LanguageTool vale la pena mostrarlo."""
+    """True si el aviso de LanguageTool vale la pena mostrarlo: solo tildes, para no cambiar palabras de la fuente."""
     regla = match["regla"]
     if regla in REGLAS_FUERA or match["categoria"] not in CATEGORIAS or not match["sugerencias"]:
         return False
@@ -143,8 +158,7 @@ def filtrar(match, palabra, conocidas, ingles=frozenset()):
             return False
         if palabra.lower() in ingles:
             return False
-    sugerencia = match["sugerencias"][0]
-    return sugerencia != palabra and sugerencia.strip() != ""
+    return solo_tilde(palabra, match["sugerencias"][0])
 
 
 def hallazgos_de_nota(rel, md, revisar, conocidas, ingles=frozenset()):
