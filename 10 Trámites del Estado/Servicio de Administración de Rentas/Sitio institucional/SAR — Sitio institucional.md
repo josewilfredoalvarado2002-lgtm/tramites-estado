@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Servicio de Administración de Rentas"
 dominio_verificado: "sar.gob.hn"
-actualizado: 2026-11-14T00:15
+actualizado: 2026-11-16T16:44
 ---
 # SAR — Sitio institucional
 
@@ -10,12 +10,12 @@ actualizado: 2026-11-14T00:15
 
 ## Resumen
 
-- Fichas leídas en el sitio: **83**
-- Notas en esta carpeta: **83** (completas: para qué y requisitos 13, solo requisitos 70, solo para qué 0, sin contenido 0)
+- Fichas leídas en el sitio: **84**
+- Notas en esta carpeta: **84** (completas: para qué y requisitos 13, solo requisitos 71, solo para qué 0, sin contenido 0)
 - Descartados por ser formularios o documentos sin requisitos: **9**
 - Ya estaban en DIGER (no se duplicaron): **0**
 - Trámites de DIGER para esta institución: **2**
-- Errores de lectura: **1** · enlaces rechazados por estar fuera del dominio verificado: **0**
+- Errores de lectura: **0** · enlaces rechazados por estar fuera del dominio verificado: **0**
 
 ## Descartados
 
@@ -37,6 +37,7 @@ Formularios para llenar sin requisitos, o documentos que no son un trámite. No 
 
 - [[10 Trámites del Estado/Servicio de Administración de Rentas/Sitio institucional/SAR-22773 Generalidades de Baja de Obligaciones Fiscales|Generalidades de Baja de Obligaciones Fiscales]]
 - [[10 Trámites del Estado/Servicio de Administración de Rentas/Sitio institucional/SAR-1065 Notificación de Baja de Obligaciones de Otros Impuestos|Notificación de Baja de Obligaciones de Otros Impuestos]] — *solo requisitos*
+- [[10 Trámites del Estado/Servicio de Administración de Rentas/Sitio institucional/SAR-22569 Notificación de Baja de Obligaciones por fallecimiento Persona Natural no constituida como Comerciante Individ|Notificación de Baja de Obligaciones por fallecimiento Persona Natural no constituida como Comerciante Individual]] — *solo requisitos*
 - [[10 Trámites del Estado/Servicio de Administración de Rentas/Sitio institucional/SAR-22558 Notificación de Baja de Obligación Declaración Impuesto Sobre Ventas (ISV)|Notificación de Baja de Obligación Declaración Impuesto Sobre Ventas (ISV)]] — *solo requisitos*
 - [[10 Trámites del Estado/Servicio de Administración de Rentas/Sitio institucional/SAR-22560 Notificación de Baja de Obligación Declaración Mensual de Compras (DMC)|Notificación de Baja de Obligación Declaración Mensual de Compras (DMC)]] — *solo requisitos*
 - [[10 Trámites del Estado/Servicio de Administración de Rentas/Sitio institucional/SAR-22566 Notificación de Baja de Obligación Declaración Mensual de Retenciones (DMR)|Notificación de Baja de Obligación Declaración Mensual de Retenciones (DMR)]] — *solo requisitos*
@@ -157,8 +158,4 @@ Formularios para llenar sin requisitos, o documentos que no son un trámite. No 
 - [[10 Trámites del Estado/Servicio de Administración de Rentas/Sitio institucional/SAR-21518 Solicitud de Arrastre de pérdida|Solicitud de Arrastre de pérdida]] — *solo requisitos*
 - [[10 Trámites del Estado/Servicio de Administración de Rentas/Sitio institucional/SAR-21519 Solicitud de autorización de deducción del 25% de ISR por reinversión de activos|Solicitud de autorización de deducción del 25% de ISR por reinversión de activos]] — *solo requisitos*
 - [[10 Trámites del Estado/Servicio de Administración de Rentas/Sitio institucional/SAR-21520 Solicitud del registro de ingreso al país en el sistema informativo de la FYDUCA|Solicitud del registro de ingreso al país en el sistema informativo de la FYDUCA]] — *solo requisitos*
-
-## Errores de lectura
-
-- https://www.sar.gob.hn/download/notificacion-de-baja-de-obligacion-por-fallecimiento-pn-no-ci/: No se pudo leer https://www.sar.gob.hn/download/notificacion-de-baja-de-obligacion-por-fallecimiento-pn-no-ci/ (ConnectionError)
 

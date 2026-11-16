@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Secretaría de Finanzas"
 dominio_verificado: "sefin.gob.hn"
-actualizado: 2026-11-14T00:35
+actualizado: 2026-11-16T17:06
 ---
 # SEFIN — Sitio institucional
 

@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Procuraduría General de la República"
 dominio_verificado: "pgr.gob.hn"
-actualizado: 2026-11-14T00:40
+actualizado: 2026-11-16T17:11
 ---
 # PGR — Sitio institucional
 

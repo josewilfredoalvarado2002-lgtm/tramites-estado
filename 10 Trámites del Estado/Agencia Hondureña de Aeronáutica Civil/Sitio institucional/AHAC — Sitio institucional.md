@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Agencia Hondureña de Aeronáutica Civil"
 dominio_verificado: "ahac.gob.hn"
-actualizado: 2026-11-14T07:08
+actualizado: 2026-11-16T17:21
 ---
 # AHAC — Sitio institucional
 

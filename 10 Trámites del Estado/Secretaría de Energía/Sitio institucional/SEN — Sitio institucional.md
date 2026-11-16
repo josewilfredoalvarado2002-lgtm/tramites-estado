@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Secretaría de Energía"
 dominio_verificado: "sen.hn"
-actualizado: 2026-11-14T00:44
+actualizado: 2026-11-16T17:17
 ---
 # SEN — Sitio institucional
 

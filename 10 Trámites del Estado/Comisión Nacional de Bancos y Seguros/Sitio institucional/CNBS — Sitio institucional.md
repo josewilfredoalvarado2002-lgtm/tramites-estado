@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Comisión Nacional de Bancos y Seguros"
 dominio_verificado: "cnbs.gob.hn"
-actualizado: 2026-11-14T00:16
+actualizado: 2026-11-16T16:44
 ---
 # CNBS — Sitio institucional
 

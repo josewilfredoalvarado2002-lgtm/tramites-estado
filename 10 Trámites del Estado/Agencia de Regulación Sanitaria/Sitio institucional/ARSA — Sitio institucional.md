@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Agencia de Regulación Sanitaria"
 dominio_verificado: "arsa.gob.hn"
-actualizado: 2026-11-14T07:06
+actualizado: 2026-11-16T17:21
 ---
 # ARSA — Sitio institucional
 

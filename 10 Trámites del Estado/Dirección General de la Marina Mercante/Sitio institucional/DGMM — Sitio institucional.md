@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Dirección General de la Marina Mercante"
 dominio_verificado: "marinamercante.gob.hn"
-actualizado: 2026-11-14T00:40
+actualizado: 2026-11-16T17:11
 ---
 # DGMM — Sitio institucional
 

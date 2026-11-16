@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Secretaría de Recursos Naturales y Ambiente"
 dominio_verificado: "serna.gob.hn"
-actualizado: 2026-11-14T07:08
+actualizado: 2026-11-16T17:19
 ---
 # MiAmbiente — Sitio institucional
 

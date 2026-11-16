@@ -2,6 +2,12 @@
 
 Cada corrida agrega una entrada arriba.
 
+## 2026-11-16 16:44
+
+**Actualizadas (1)**
+
+- [[10 Trámites del Estado/Servicio de Administración de Rentas/Sitio institucional/SAR-22569 Notificación de Baja de Obligaciones por fallecimiento Persona Natural no constituida como Comerciante Individ|Notificación de Baja de Obligaciones por fallecimiento Persona Natural no constituida como Comerciante Individual]]
+
 ## 2026-11-14 00:15
 
 **Actualizadas (83)**

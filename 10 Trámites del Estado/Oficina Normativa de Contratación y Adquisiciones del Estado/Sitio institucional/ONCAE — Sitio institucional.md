@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Oficina Normativa de Contratación y Adquisiciones del Estado"
 dominio_verificado: "oncae.gob.hn"
-actualizado: 2026-11-14T00:15
+actualizado: 2026-11-16T16:44
 ---
 # ONCAE — Sitio institucional
 

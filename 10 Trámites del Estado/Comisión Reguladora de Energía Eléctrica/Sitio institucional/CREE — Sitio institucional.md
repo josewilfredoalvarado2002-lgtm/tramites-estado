@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Comisión Reguladora de Energía Eléctrica"
 dominio_verificado: "cree.gob.hn"
-actualizado: 2026-11-14T00:38
+actualizado: 2026-11-16T17:09
 ---
 # CREE — Sitio institucional
 

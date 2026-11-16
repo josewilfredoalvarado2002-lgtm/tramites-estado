@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Consejo Nacional Supervisor de Cooperativas"
 dominio_verificado: "consucoop.hn"
-actualizado: 2026-11-14T00:45
+actualizado: 2026-11-16T17:18
 ---
 # CONSUCOOP — Sitio institucional
 

@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Administración Nacional de Servicio Civil"
 dominio_verificado: "serviciocivil.gob.hn"
-actualizado: 2026-11-14T00:40
+actualizado: 2026-11-16T17:11
 ---
 # ANSEC — Sitio institucional
 

@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Comisión Nacional de Telecomunicaciones"
 dominio_verificado: "conatel.gob.hn"
-actualizado: 2026-11-14T00:37
+actualizado: 2026-11-16T17:08
 ---
 # CONATEL — Sitio institucional
 

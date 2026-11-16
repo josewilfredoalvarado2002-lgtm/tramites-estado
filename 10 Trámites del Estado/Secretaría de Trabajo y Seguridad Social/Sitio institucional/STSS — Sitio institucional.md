@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Secretaría de Trabajo y Seguridad Social"
 dominio_verificado: "trabajo.gob.hn"
-actualizado: 2026-11-14T00:46
+actualizado: 2026-11-16T17:19
 ---
 # STSS — Sitio institucional
 

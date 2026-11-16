@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Secretaría de Gobernación, Justicia y Descentralización"
 dominio_verificado: "sgjd.gob.hn"
-actualizado: 2026-11-14T00:38
+actualizado: 2026-11-16T17:08
 ---
 # SGJD — Sitio institucional
 

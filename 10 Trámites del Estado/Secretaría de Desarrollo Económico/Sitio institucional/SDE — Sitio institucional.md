@@ -2,7 +2,7 @@
 tipo: "indice_sitio_institucional"
 institucion: "Secretaría de Desarrollo Económico"
 dominio_verificado: "sde.gob.hn"
-actualizado: 2026-11-14T00:36
+actualizado: 2026-11-16T17:06
 ---
 # SDE — Sitio institucional
 
