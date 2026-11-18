@@ -80115,6 +80115,58 @@
    "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37294 (2026-11-13).md",
    "tamano": "2.96 MB",
    "version": 2
+  },
+  "37295": {
+   "actos": 3,
+   "extraido": "2026-11-18",
+   "fecha": "2026-11-14",
+   "notas": [
+    "11 Normativa/Decretos/2026/Decreto 255-2026 (Gaceta 37295).md",
+    "11 Normativa/Decretos/2026/Decreto 257-2026 (Gaceta 37295).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo CREE-102-2026 (Gaceta 37295).md"
+   ],
+   "paginas": 20,
+   "paginas_a": 12,
+   "paginas_sin_texto": 0,
+   "resultado": "ok",
+   "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37295 (2026-11-14).md",
+   "tamano": "1017.03 KB",
+   "version": 2
+  },
+  "37296": {
+   "actos": 3,
+   "extraido": "2026-11-18",
+   "fecha": "2026-11-16",
+   "notas": [
+    "11 Normativa/Acuerdos/2026/Acuerdo SIT-0003-2026 (Gaceta 37296).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo SIT-0004-2026 (Gaceta 37296).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo SIT-0005-2026 (Gaceta 37296).md"
+   ],
+   "paginas": 36,
+   "paginas_a": 8,
+   "paginas_sin_texto": 0,
+   "resultado": "ok",
+   "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37296 (2026-11-16).md",
+   "tamano": "2.52 MB",
+   "version": 2
+  },
+  "37297": {
+   "actos": 4,
+   "extraido": "2026-11-18",
+   "fecha": "2026-11-17",
+   "notas": [
+    "11 Normativa/Decretos/2026/Decreto 267-2026 (Gaceta 37297).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo 1608-2026 (Gaceta 37297).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo SAG-408-2026 (Gaceta 37297).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo 100-2026 (Gaceta 37297).md"
+   ],
+   "paginas": 36,
+   "paginas_a": 12,
+   "paginas_sin_texto": 0,
+   "resultado": "ok",
+   "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37297 (2026-11-17).md",
+   "tamano": "4.51 MB",
+   "version": 2
   }
  },
  "meses_completos": [
@@ -80307,6 +80359,6 @@
   "2026-08",
   "2026-09"
  ],
- "ultima_corrida": "2026-11-17 11:43",
+ "ultima_corrida": "2026-11-18 11:23",
  "version": 1
 }
