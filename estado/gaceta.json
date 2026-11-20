@@ -80167,6 +80167,39 @@
    "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37297 (2026-11-17).md",
    "tamano": "4.51 MB",
    "version": 2
+  },
+  "37298": {
+   "actos": 3,
+   "extraido": "2026-11-20",
+   "fecha": "2026-11-18",
+   "notas": [
+    "11 Normativa/Acuerdos/2026/Acuerdo 0144-2026 (Gaceta 37298).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo SAG-427-2026 (Gaceta 37298).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo CREE-111-2026 (Gaceta 37298).md"
+   ],
+   "paginas": 44,
+   "paginas_a": 24,
+   "paginas_sin_texto": 0,
+   "resultado": "ok",
+   "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37298 (2026-11-18).md",
+   "tamano": "2.31 MB",
+   "version": 2
+  },
+  "37299": {
+   "actos": 2,
+   "extraido": "2026-11-20",
+   "fecha": "2026-11-19",
+   "notas": [
+    "11 Normativa/Acuerdos/2026/Acuerdo SEN-172-2026 (Gaceta 37299).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo SEN-181-2026 (Gaceta 37299).md"
+   ],
+   "paginas": 48,
+   "paginas_a": 4,
+   "paginas_sin_texto": 0,
+   "resultado": "ok",
+   "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37299 (2026-11-19).md",
+   "tamano": "4.5 MB",
+   "version": 2
   }
  },
  "meses_completos": [
@@ -80359,6 +80392,6 @@
   "2026-08",
   "2026-09"
  ],
- "ultima_corrida": "2026-11-19 11:29",
+ "ultima_corrida": "2026-11-20 11:04",
  "version": 1
 }
