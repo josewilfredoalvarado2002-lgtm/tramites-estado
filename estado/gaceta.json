@@ -80200,6 +80200,28 @@
    "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37299 (2026-11-19).md",
    "tamano": "4.5 MB",
    "version": 2
+  },
+  "37300": {
+   "actos": 8,
+   "extraido": "2026-11-21",
+   "fecha": "2026-11-20",
+   "notas": [
+    "11 Normativa/Acuerdos/2026/Acuerdo CREE-107-2026 (Gaceta 37300).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo 0602-ARSA-2026 (Gaceta 37300).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo 004-2026 (Gaceta 37300).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo 657-2026 (Gaceta 37300).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo 682-2026 (Gaceta 37300).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo 683-2026 (Gaceta 37300).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo 691-2026 (Gaceta 37300).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo 692-2026 (Gaceta 37300).md"
+   ],
+   "paginas": 72,
+   "paginas_a": 48,
+   "paginas_sin_texto": 0,
+   "resultado": "ok",
+   "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37300 (2026-11-20).md",
+   "tamano": "5.17 MB",
+   "version": 2
   }
  },
  "meses_completos": [
@@ -80392,6 +80414,6 @@
   "2026-08",
   "2026-09"
  ],
- "ultima_corrida": "2026-11-20 11:04",
+ "ultima_corrida": "2026-11-21 10:15",
  "version": 1
 }
