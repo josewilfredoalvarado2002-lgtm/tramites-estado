@@ -9641,7 +9641,7 @@ A MEM
 - Decreto Ejecutivo 002-2002 → anterior a 2011: no está en la colección de La Gaceta de la bóveda
 - Decreto 266-2013 → [[Decreto 266-2013 (Gaceta 33336)]] (La Gaceta del 2014-01-23; emisor: Poder Legislativo)
 - Acuerdo Ejecutivo 138-2018 → posible: [[Acuerdo 138-2018 (Gaceta 35457)]] (SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN)
-- Acuerdo Ministerial 58-2019 → posible: [[Acuerdo 058-2019 (Gaceta 34997)]] (Secretaría de Desarrollo Económico); [[Acuerdo 58-2019 (Gaceta 34888)]] (DIRECCIÓ DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN)
+- Acuerdo Ministerial 58-2019 → posible: [[Acuerdo 58-2019 (Gaceta 34888)]] (DIRECCIÓ DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN); [[Acuerdo 058-2019 (Gaceta 34997)]] (Secretaría de Desarrollo Económico)
 - Resolución 574-2019 → no aparece en la colección de La Gaceta de la bóveda
 - Resolución 387-2019 → no aparece en la colección de La Gaceta de la bóveda
 - Resolución 868-2019 → no aparece en la colección de La Gaceta de la bóveda
