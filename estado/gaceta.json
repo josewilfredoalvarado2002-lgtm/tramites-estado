@@ -80222,6 +80222,23 @@
    "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37300 (2026-11-20).md",
    "tamano": "5.17 MB",
    "version": 2
+  },
+  "37301": {
+   "actos": 3,
+   "extraido": "2026-11-24",
+   "fecha": "2026-11-21",
+   "notas": [
+    "11 Normativa/Acuerdos/2026/Acuerdo 596-ARSA-2026 (Gaceta 37301).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo CREE-110-2026 (Gaceta 37301).md",
+    "11 Normativa/Acuerdos/2026/Acuerdo FGR-023-2026 (Gaceta 37301).md"
+   ],
+   "paginas": 36,
+   "paginas_a": 28,
+   "paginas_sin_texto": 0,
+   "resultado": "ok",
+   "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37301 (2026-11-21).md",
+   "tamano": "1.03 MB",
+   "version": 2
   }
  },
  "meses_completos": [
@@ -80414,6 +80431,6 @@
   "2026-08",
   "2026-09"
  ],
- "ultima_corrida": "2026-11-23 14:25",
+ "ultima_corrida": "2026-11-24 13:36",
  "version": 1
 }
