@@ -80239,6 +80239,21 @@
    "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37301 (2026-11-21).md",
    "tamano": "1.03 MB",
    "version": 2
+  },
+  "37302": {
+   "actos": 1,
+   "extraido": "2026-11-27",
+   "fecha": "2026-11-23",
+   "notas": [
+    "11 Normativa/Otros actos/2026/Otros actos (Gaceta 37302).md"
+   ],
+   "paginas": 40,
+   "paginas_a": 8,
+   "paginas_sin_texto": 0,
+   "resultado": "ok",
+   "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37302 (2026-11-23).md",
+   "tamano": "2.27 MB",
+   "version": 2
   }
  },
  "meses_completos": [
@@ -80431,6 +80446,6 @@
   "2026-08",
   "2026-09"
  ],
- "ultima_corrida": "2026-11-26 12:31",
+ "ultima_corrida": "2026-11-27 12:19",
  "version": 1
 }
