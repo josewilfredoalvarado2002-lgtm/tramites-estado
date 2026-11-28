@@ -80254,6 +80254,21 @@
    "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37302 (2026-11-23).md",
    "tamano": "2.27 MB",
    "version": 2
+  },
+  "37307": {
+   "actos": 1,
+   "extraido": "2026-11-28",
+   "fecha": "2026-11-28",
+   "notas": [
+    "11 Normativa/Decretos/2026/Decreto 329-2026 (Gaceta 37307).md"
+   ],
+   "paginas": 4,
+   "paginas_a": 4,
+   "paginas_sin_texto": 0,
+   "resultado": "ok",
+   "ruta": "11 Normativa/La Gaceta/2026/La Gaceta 37307 (2026-11-28).md",
+   "tamano": "607.28 KB",
+   "version": 2
   }
  },
  "meses_completos": [
@@ -80446,6 +80461,6 @@
   "2026-08",
   "2026-09"
  ],
- "ultima_corrida": "2026-11-27 12:19",
+ "ultima_corrida": "2026-11-28 11:02",
  "version": 1
 }

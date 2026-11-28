@@ -8,6 +8,7 @@ tipo: "normativa_mes"
 
 | Fecha | Edición | Actos de la Sección A |
 | --- | --- | --- |
+| 2026-11-28 | [[11 Normativa/La Gaceta/2026/La Gaceta 37307 (2026-11-28)\|La Gaceta 37307]] | 1 |
 | 2026-11-23 | [[11 Normativa/La Gaceta/2026/La Gaceta 37302 (2026-11-23)\|La Gaceta 37302]] | 1 |
 | 2026-11-21 | [[11 Normativa/La Gaceta/2026/La Gaceta 37301 (2026-11-21)\|La Gaceta 37301]] | 3 |
 | 2026-11-20 | [[11 Normativa/La Gaceta/2026/La Gaceta 37300 (2026-11-20)\|La Gaceta 37300]] | 8 |
